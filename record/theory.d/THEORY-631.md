@@ -14,7 +14,14 @@ promote_when: >-
   objects that the paper's §3 has not answered. More expressiveness of the
   general theory cannot settle it, because the paper itself sets that aside
   as circular.
-title: "Standard unitary quantum theory and the general quantum theory of open systems are intertranslatable on their common domain, so neither dependence nor justification ranks them; the open theory comes out more fundamental only through premises about interpretation, that orthodox and Everettian readings exhaust the complete readings of the state vector, and that density operators precede state vectors in how states are assigned"
+title: 'Unitary and open QT can''t be ranked neutrally'
+statement: >-
+  Standard unitary quantum theory and the general quantum theory of open
+  systems are intertranslatable on their common domain, so neither
+  dependence nor justification ranks them; the open theory comes out more
+  fundamental only through premises about interpretation, that orthodox and
+  Everettian readings exhaust the complete readings of the state vector, and
+  that density operators precede state vectors in how states are assigned
 version: 1
 tags:
 - quantum-foundations
@@ -36,7 +43,7 @@ summary: >-
 
 <!-- inactive-ok-file: THEORY-459 THEORY-586 THEORY-621 THEORY-687 THEORY-690 — Proposed; named in Connections, not leaned on -->
 
-# THEORY-631: Standard unitary quantum theory and the general quantum theory of open systems are intertranslatable on their common domain, so neither dependence nor justification ranks them; the open theory comes out more fundamental only through premises about interpretation, that orthodox and Everettian readings exhaust the complete readings of the state vector, and that density operators precede state vectors in how states are assigned
+# THEORY-631: Unitary and open QT can't be ranked neutrally
 
 ## Source
 

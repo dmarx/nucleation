@@ -22,7 +22,12 @@ promote_when: >-
   is what the rival account (THEORY-101) predicts. More arguments
   from the advantages of felt over unfelt pain cannot settle it, because
   they assume that the pain is felt.
-title: 'A basic, affective form of consciousness is realised subcortically, in the upper brainstem and thalamus, before and without cortex, and its first function is alarm: survival behaviour, care for the body and generalised one-shot learning, with no choice between options'
+title: 'Basic affective consciousness is subcortical'
+statement: >-
+  A basic, affective form of consciousness is realised subcortically, in the
+  upper brainstem and thalamus, before and without cortex, and its first
+  function is alarm: survival behaviour, care for the body and generalised
+  one-shot learning, with no choice between options
 version: 2
 history:
 - version: 2
@@ -64,7 +69,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-100 — Proposed; the avian account, named for its bearing on ALARM's cortical clause, which this account leaves out -->
 <!-- inactive-ok-file: LIT-387 — Unavailable; Damasio & Damasio, named as an unread statement of the same affect-first origin, not leaned on -->
 
-# THEORY-090: A basic, affective form of consciousness is realised subcortically, in the upper brainstem and thalamus, before and without cortex, and its first function is alarm: survival behaviour, care for the body and generalised one-shot learning, with no choice between options
+# THEORY-090: Basic affective consciousness is subcortical
 
 ## Source
 

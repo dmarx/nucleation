@@ -3,7 +3,16 @@ number: 1064
 status: Active
 formerly:
 - THEORY-tmpaw7dg
-title: 'In counterexample-guided abstraction refinement, a spurious counterexample locates the distinction its abstraction lacked: walking it forward through the concrete system, the first abstract state where no concrete continuation exists merges the states the trace can reach with the states that have the transition onward, and splitting them removes the counterexample; for finite-state programs and ACTL* properties whose counterexamples are paths or loops, repeating check and split ends in a real counterexample or a proof'
+title: 'Spurious counterexamples locate missing splits'
+statement: >-
+  In counterexample-guided abstraction refinement, a spurious counterexample
+  locates the distinction its abstraction lacked: walking it forward through
+  the concrete system, the first abstract state where no concrete
+  continuation exists merges the states the trace can reach with the states
+  that have the transition onward, and splitting them removes the
+  counterexample; for finite-state programs and ACTL* properties whose
+  counterexamples are paths or loops, repeating check and split ends in a
+  real counterexample or a proof
 version: 2
 history:
 - version: 2
@@ -33,7 +42,7 @@ summary: >-
 corroborates:
 - CLAIM-470
 ---
-# THEORY-1064: In counterexample-guided abstraction refinement, a spurious counterexample locates the distinction its abstraction lacked: walking it forward through the concrete system, the first abstract state where no concrete continuation exists merges the states the trace can reach with the states that have the transition onward, and splitting them removes the counterexample; for finite-state programs and ACTL* properties whose counterexamples are paths or loops, repeating check and split ends in a real counterexample or a proof
+# THEORY-1064: Spurious counterexamples locate missing splits
 
 ## Source
 

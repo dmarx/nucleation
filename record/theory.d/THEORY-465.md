@@ -13,7 +13,13 @@ promote_when: >-
   or artificial reproducers are the candidates. Further sorting of examples
   by the definitions cannot settle it, since the definitions were written
   to sort them.
-title: "Being reproduced does not entail reproducing: genes of multicellular organisms, like hearts, are reproducees with little reproductive autonomy and differ from hearts in reproductive causal control, and material overlap between parent and offspring is required of reproducers, which are whole life cycles, but not of reproducees"
+title: 'Being reproduced does not entail reproducing'
+statement: >-
+  Being reproduced does not entail reproducing: genes of multicellular
+  organisms, like hearts, are reproducees with little reproductive autonomy
+  and differ from hearts in reproductive causal control, and material
+  overlap between parent and offspring is required of reproducers, which are
+  whole life cycles, but not of reproducees
 version: 1
 tags:
 - philosophy-of-biology
@@ -34,7 +40,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-413 — Proposed; Lloyd on units of selection, named for contrast, filed in the same batch -->
 <!-- inactive-ok-file: LIT-005 LIT-049 — Proposed: Bourrat's earlier papers, named for the weaknesses this one inherits, not as results -->
 
-# THEORY-465: Being reproduced does not entail reproducing: genes of multicellular organisms, like hearts, are reproducees with little reproductive autonomy and differ from hearts in reproductive causal control, and material overlap between parent and offspring is required of reproducers, which are whole life cycles, but not of reproducees
+# THEORY-465: Being reproduced does not entail reproducing
 
 ## Source
 

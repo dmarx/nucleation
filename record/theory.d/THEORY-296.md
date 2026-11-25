@@ -3,7 +3,14 @@ number: 296
 status: Active
 formerly:
 - THEORY-tmpztbz7
-title: 'In a preregistered multimodal test with clearly seen images, category-selective posterior cortex showed no sustained content-specific synchronization with early visual cortex, which iEEG sampled with 12 electrodes: the preregistered phase coupling was brief, low-frequency and mostly stimulus-evoked, and exploratory amplitude coupling, gamma included, was also brief'
+title: 'No sustained posterior–visual synchronization'
+statement: >-
+  In a preregistered multimodal test with clearly seen images,
+  category-selective posterior cortex showed no sustained content-specific
+  synchronization with early visual cortex, which iEEG sampled with 12
+  electrodes: the preregistered phase coupling was brief, low-frequency and
+  mostly stimulus-evoked, and exploratory amplitude coupling, gamma
+  included, was also brief
 version: 4
 history:
 - version: 2
@@ -70,7 +77,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-098 — Proposed; the sensory-recurrence account this bears on -->
 
-# THEORY-296: In a preregistered multimodal test with clearly seen images, category-selective posterior cortex showed no sustained content-specific synchronization with early visual cortex, which iEEG sampled with 12 electrodes: the preregistered phase coupling was brief, low-frequency and mostly stimulus-evoked, and exploratory amplitude coupling, gamma included, was also brief
+# THEORY-296: No sustained posterior–visual synchronization
 
 ## Source
 

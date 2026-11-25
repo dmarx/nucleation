@@ -10,7 +10,15 @@ promote_when: >-
   variation, and finds it low in the Natufian and high in the PPNA and
   PPNB, as the stage assignment predicts. Agreement of the stages with a
   narrative synthesis, which is what the paper offers, does not meet it.
-title: 'Shavit and Sharon read the southern Levantine shift to the Neolithic as an evolutionary transition in individuality on Griesemer''s three stages, coordination in Epipalaeolithic bands, cooperation in the Natufian and collaboration in the PPNA and PPNB, and hold that farming became irreversible once group traits grew mutually dependent and group fitness decoupled from individual fitness, so that several causes could have produced it'
+title: 'Neolithic was a transition in individuality'
+statement: >-
+  Shavit and Sharon read the southern Levantine shift to the Neolithic as an
+  evolutionary transition in individuality on Griesemer's three stages,
+  coordination in Epipalaeolithic bands, cooperation in the Natufian and
+  collaboration in the PPNA and PPNB, and hold that farming became
+  irreversible once group traits grew mutually dependent and group fitness
+  decoupled from individual fitness, so that several causes could have
+  produced it
 version: 1
 source:
 - LIT-1935
@@ -30,7 +38,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-188 — Proposed; the companion paper whose sketch this applies -->
 
-# THEORY-2271: Shavit and Sharon read the southern Levantine shift to the Neolithic as an evolutionary transition in individuality on Griesemer's three stages, coordination in Epipalaeolithic bands, cooperation in the Natufian and collaboration in the PPNA and PPNB, and hold that farming became irreversible once group traits grew mutually dependent and group fitness decoupled from individual fitness, so that several causes could have produced it
+# THEORY-2271: Neolithic was a transition in individuality
 
 ## Source
 

@@ -15,7 +15,13 @@ promote_when: >-
   relationships tracks self-stereotyping as a pair, as self-categorization
   theory would predict. Conceptual argument about what friendship is
   cannot settle it, and neither can studies of large-scale groups.
-title: "A we-identity, being one of us, can arise through mutual individualization, in which members grasp one another as non-substitutable and complementary, without depersonalization, as in long friendships and romantic partnerships; so depersonalization is not necessary for a we-identity"
+title: 'We-identity needs no depersonalization'
+statement: >-
+  A we-identity, being one of us, can arise through mutual
+  individualization, in which members grasp one another as non-substitutable
+  and complementary, without depersonalization, as in long friendships and
+  romantic partnerships; so depersonalization is not necessary for a
+  we-identity
 version: 2
 history:
 - version: 2
@@ -49,7 +55,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: THEORY-1114 THEORY-1112 THEORY-126 — Proposed; neighbouring accounts of group self-perception and the "we", compared, not leaned on -->
 
-# THEORY-1115: A we-identity, being one of us, can arise through mutual individualization, in which members grasp one another as non-substitutable and complementary, without depersonalization, as in long friendships and romantic partnerships; so depersonalization is not necessary for a we-identity
+# THEORY-1115: We-identity needs no depersonalization
 
 ## Source
 

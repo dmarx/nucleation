@@ -3,7 +3,18 @@ number: 1513
 status: Active
 formerly:
 - THEORY-tmp9jjvs
-title: 'Broersen, Pereira, Jørgensen and Dekkers find, pooling 74 observational studies of adult corticosteroid users, that biochemically suppressed adrenal function after treatment is common, from about 4% after nasal or topical use to about half after oral or intra-articular use; in asthma it rises with dose (2.4%, 8.5%, 21.5%) and with duration (1.4% under a month, 27.4% over a year); it recedes after stopping but incompletely, from 38.7% to 14.9% four weeks after short high-dose courses and from 56.4% to 25.3% six months after long medium-dose use; and they hold that no route, dose or duration excludes it and that no withdrawal scheme has been shown effective or safe'
+title: 'Steroid adrenal suppression is common'
+statement: >-
+  Broersen, Pereira, Jørgensen and Dekkers find, pooling 74 observational
+  studies of adult corticosteroid users, that biochemically suppressed
+  adrenal function after treatment is common, from about 4% after nasal or
+  topical use to about half after oral or intra-articular use; in asthma it
+  rises with dose (2.4%, 8.5%, 21.5%) and with duration (1.4% under a month,
+  27.4% over a year); it recedes after stopping but incompletely, from 38.7%
+  to 14.9% four weeks after short high-dose courses and from 56.4% to 25.3%
+  six months after long medium-dose use; and they hold that no route, dose
+  or duration excludes it and that no withdrawal scheme has been shown
+  effective or safe
 version: 2
 history:
 - version: 2
@@ -46,7 +57,7 @@ summary: >-
   verdict on withdrawal schemes is cited from Dinsen et al. 2013.
 ---
 
-# THEORY-1513: Broersen, Pereira, Jørgensen and Dekkers find, pooling 74 observational studies of adult corticosteroid users, that biochemically suppressed adrenal function after treatment is common, from about 4% after nasal or topical use to about half after oral or intra-articular use; in asthma it rises with dose (2.4%, 8.5%, 21.5%) and with duration (1.4% under a month, 27.4% over a year); it recedes after stopping but incompletely, from 38.7% to 14.9% four weeks after short high-dose courses and from 56.4% to 25.3% six months after long medium-dose use; and they hold that no route, dose or duration excludes it and that no withdrawal scheme has been shown effective or safe
+# THEORY-1513: Steroid adrenal suppression is common
 
 ## Source
 

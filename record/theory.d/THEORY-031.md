@@ -3,7 +3,12 @@ number: 31
 status: Active
 formerly:
 - THEORY-tmp87j2h
-title: 'The likelihood-ratio detector is optimal under the payoff, Neyman–Pearson and posterior criteria, which differ only in its threshold, so performance is an ROC and the criterion a point on it; d′ is criterion-free only for equal-variance normal signal and noise'
+title: 'Detection criteria differ only in threshold'
+statement: >-
+  The likelihood-ratio detector is optimal under the payoff, Neyman–Pearson
+  and posterior criteria, which differ only in its threshold, so performance
+  is an ROC and the criterion a point on it; d′ is criterion-free only for
+  equal-variance normal signal and noise
 version: 2
 history:
 - version: 2
@@ -38,7 +43,7 @@ bears_on:
 - QUESTION-103
 ---
 
-# THEORY-031: The likelihood-ratio detector is optimal under the payoff, Neyman–Pearson and posterior criteria, which differ only in its threshold, so performance is an ROC and the criterion a point on it; d′ is criterion-free only for equal-variance normal signal and noise
+# THEORY-031: Detection criteria differ only in threshold
 
 ## Source
 

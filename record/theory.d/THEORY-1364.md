@@ -10,7 +10,15 @@ promote_when: >-
   stimulus dimension, and an across-participant correlation between that
   early switch positivity or the decoded attention to the context dimension
   and later positive transfer.
-title: 'Collins, Cavanagh and Frank propose that the latent task-set structure people build incidentally during simple reinforcement learning shows in prefrontal EEG: a switch of the dimension a participant treats as context, but not of the other dimension, evokes task-switch potentials over lateral prefrontal cortex, and the size of the early switch positivity and the decoded attention to that dimension each covary across participants with how much they later transfer learned rules to new contexts'
+title: 'Task-set structure shows in prefrontal EEG'
+statement: >-
+  Collins, Cavanagh and Frank propose that the latent task-set structure
+  people build incidentally during simple reinforcement learning shows in
+  prefrontal EEG: a switch of the dimension a participant treats as context,
+  but not of the other dimension, evokes task-switch potentials over lateral
+  prefrontal cortex, and the size of the early switch positivity and the
+  decoded attention to that dimension each covary across participants with
+  how much they later transfer learned rules to new contexts
 version: 1
 tags:
 - neuroscience
@@ -32,7 +40,7 @@ summary: >-
   independently.
 ---
 
-# THEORY-1364: Collins, Cavanagh and Frank propose that the latent task-set structure people build incidentally during simple reinforcement learning shows in prefrontal EEG: a switch of the dimension a participant treats as context, but not of the other dimension, evokes task-switch potentials over lateral prefrontal cortex, and the size of the early switch positivity and the decoded attention to that dimension each covary across participants with how much they later transfer learned rules to new contexts
+# THEORY-1364: Task-set structure shows in prefrontal EEG
 
 ## Source
 

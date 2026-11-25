@@ -9,7 +9,14 @@ promote_when: >-
   over at least two orders of magnitude, and on a task without one showing
   majority-vote or reward-model accuracy plateauing while coverage keeps
   rising.
-title: 'Drawing more independent samples from a language model raises coverage, the fraction of problems at least one sample solves, smoothly and often log-linearly over orders of magnitude across models and tasks, so that with an automatic verifier repeated sampling converts inference compute into success, while without one majority voting and reward-model selection plateau far below coverage'
+title: 'More samples raise coverage, often log-linearly'
+statement: >-
+  Drawing more independent samples from a language model raises coverage,
+  the fraction of problems at least one sample solves, smoothly and often
+  log-linearly over orders of magnitude across models and tasks, so that
+  with an automatic verifier repeated sampling converts inference compute
+  into success, while without one majority voting and reward-model selection
+  plateau far below coverage
 version: 1
 tags:
 - learning-theory
@@ -30,7 +37,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1880 — Proposed; Yue and colleagues' use of the same metric, cited as neither a replication nor a test -->
 
-# THEORY-2130: Drawing more independent samples from a language model raises coverage, the fraction of problems at least one sample solves, smoothly and often log-linearly over orders of magnitude across models and tasks, so that with an automatic verifier repeated sampling converts inference compute into success, while without one majority voting and reward-model selection plateau far below coverage
+# THEORY-2130: More samples raise coverage, often log-linearly
 
 ## Source
 

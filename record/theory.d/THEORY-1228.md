@@ -16,7 +16,14 @@ promote_when: >-
   census finds most replacing proteins encoded by genes transferred from
   the endosymbiont, or if no EGT in Braarudosphaera proves to be a
   failure of detection.
-title: 'A bacterial endosymbiont becomes genetically integrated, an organelle, when host proteins imported into it replace genes it has lost, and this does not require gene transfer from the endosymbiont: in the Paulinella chromatophore and the nitroplast, the two systems with hundreds of imported proteins, the replacing genes are mostly the host''s own or come from other bacteria'
+title: 'Organelles need imported host proteins, not EGT'
+statement: >-
+  A bacterial endosymbiont becomes genetically integrated, an organelle,
+  when host proteins imported into it replace genes it has lost, and this
+  does not require gene transfer from the endosymbiont: in the Paulinella
+  chromatophore and the nitroplast, the two systems with hundreds of
+  imported proteins, the replacing genes are mostly the host's own or come
+  from other bacteria
 version: 1
 tags:
 - endosymbiosis
@@ -37,7 +44,7 @@ summary: >-
   promote_when is [THEORY-1100](THEORY-1100.md)'s old condition, word for word.
 ---
 
-# THEORY-1228: A bacterial endosymbiont becomes genetically integrated, an organelle, when host proteins imported into it replace genes it has lost, and this does not require gene transfer from the endosymbiont: in the Paulinella chromatophore and the nitroplast, the two systems with hundreds of imported proteins, the replacing genes are mostly the host's own or come from other bacteria
+# THEORY-1228: Organelles need imported host proteins, not EGT
 
 ## Source
 

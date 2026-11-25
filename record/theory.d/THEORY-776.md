@@ -16,7 +16,18 @@ promote_when: >-
   claim that the transfer is one-way in space as well, at every point, is not
   covered by this entry and would need the local energy inequality, a
   different theorem.
-title: 'For every β < 1/3 and every smooth, strictly positive and strictly decreasing energy profile e(t) on [0, T], there is a weak solution of the 3D incompressible Euler equations on the periodic box, Hölder-continuous of exponent β in space and time, with ∫|v(t)|² = e(t) at every time; for such a solution the energy flux across a mollification scale ε, integrated over any time interval, tends as ε → 0 to ½ times the drop in e, which is strictly negative, so energy leaves the resolved field for vanishing scales on every interval; this is one-way for the energy of the whole box, not at every point, and it is chosen by the prescribed profile, not forced by the equations'
+title: 'Euler solutions can follow any decreasing energy'
+statement: >-
+  For every β < 1/3 and every smooth, strictly positive and strictly
+  decreasing energy profile e(t) on [0, T], there is a weak solution of the
+  3D incompressible Euler equations on the periodic box, Hölder-continuous
+  of exponent β in space and time, with ∫|v(t)|² = e(t) at every time; for
+  such a solution the energy flux across a mollification scale ε, integrated
+  over any time interval, tends as ε → 0 to ½ times the drop in e, which is
+  strictly negative, so energy leaves the resolved field for vanishing
+  scales on every interval; this is one-way for the energy of the whole box,
+  not at every point, and it is chosen by the prescribed profile, not forced
+  by the equations
 version: 3
 history:
 - version: 1
@@ -68,7 +79,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-821 — Proposed; Isett's Hölder flows with the local inequality, cited for contrast -->
 <!-- inactive-ok-file: THEORY-772 — Proposed; the local version in another class, cited for contrast -->
 <!-- inactive-ok-file: THEORY-763 — Proposed; Isett's non-admissible half, cited for contrast -->
-# THEORY-776: For every β < 1/3 and every smooth, strictly positive and strictly decreasing energy profile e(t) on [0, T], there is a weak solution of the 3D incompressible Euler equations on the periodic box, Hölder-continuous of exponent β in space and time, with ∫|v(t)|² = e(t) at every time; for such a solution the energy flux across a mollification scale ε, integrated over any time interval, tends as ε → 0 to ½ times the drop in e, which is strictly negative, so energy leaves the resolved field for vanishing scales on every interval; this is one-way for the energy of the whole box, not at every point, and it is chosen by the prescribed profile, not forced by the equations
+# THEORY-776: Euler solutions can follow any decreasing energy
 
 ## Source
 

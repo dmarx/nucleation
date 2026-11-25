@@ -3,7 +3,16 @@ number: 2223
 status: Proposed
 formerly:
 - THEORY-tmp0vgh7
-title: 'Howard, Gagné and Bureau''s (2017) meta-analysis of 486 samples finds that self-determination theory''s motivation regulations follow a continuum-like (simplex) ordering that one dimension of self-determination accounts for almost entirely, but that integrated regulation is empirically indistinguishable from identified regulation (pooled r = .91), as are the three subtypes of intrinsic motivation from each other, so that no validated scale measures the most integrated rung of the continuum separately'
+title: 'SDT continuum holds; integrated rung unmeasured'
+statement: >-
+  Howard, Gagné and Bureau's (2017) meta-analysis of 486 samples finds that
+  self-determination theory's motivation regulations follow a continuum-like
+  (simplex) ordering that one dimension of self-determination accounts for
+  almost entirely, but that integrated regulation is empirically
+  indistinguishable from identified regulation (pooled r = .91), as are the
+  three subtypes of intrinsic motivation from each other, so that no
+  validated scale measures the most integrated rung of the continuum
+  separately
 version: 1
 source:
 - LIT-1996
@@ -27,7 +36,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-054 — Proposed; the account this reading bears on -->
 
-# THEORY-2223: Howard, Gagné and Bureau's (2017) meta-analysis of 486 samples finds that self-determination theory's motivation regulations follow a continuum-like (simplex) ordering that one dimension of self-determination accounts for almost entirely, but that integrated regulation is empirically indistinguishable from identified regulation (pooled r = .91), as are the three subtypes of intrinsic motivation from each other, so that no validated scale measures the most integrated rung of the continuum separately
+# THEORY-2223: SDT continuum holds; integrated rung unmeasured
 
 ## The account
 

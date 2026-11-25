@@ -18,7 +18,15 @@ promote_when: >-
   boundary is as sharp as that of circuits contending for a layer.
   Further scans of the same projected system cannot settle it, since the
   scan is what the reading was drawn from.
-title: 'In a transformer whose candidate circuits are sets of shared elementary coordinates, how circuits interact during training is set by what they share: circuits that share a unit cooperate, and circuits that need the same layers for different roles compete, so that which circuit wins is decided by the initialization of units beyond its own, with sharp boundaries between competitors and soft ones between cooperators, as Musat, Pimentel, Zucchet and Hofmann read their three-layer scan'
+title: 'Circuits sharing units cooperate; rivals compete'
+statement: >-
+  In a transformer whose candidate circuits are sets of shared elementary
+  coordinates, how circuits interact during training is set by what they
+  share: circuits that share a unit cooperate, and circuits that need the
+  same layers for different roles compete, so that which circuit wins is
+  decided by the initialization of units beyond its own, with sharp
+  boundaries between competitors and soft ones between cooperators, as
+  Musat, Pimentel, Zucchet and Hofmann read their three-layer scan
 version: 1
 history:
 - version: 1
@@ -45,7 +53,7 @@ summary: >-
   strengths with every other coordinate zeroed, in projected training.
 ---
 
-# THEORY-1001: In a transformer whose candidate circuits are sets of shared elementary coordinates, how circuits interact during training is set by what they share: circuits that share a unit cooperate, and circuits that need the same layers for different roles compete, so that which circuit wins is decided by the initialization of units beyond its own, with sharp boundaries between competitors and soft ones between cooperators, as Musat, Pimentel, Zucchet and Hofmann read their three-layer scan
+# THEORY-1001: Circuits sharing units cooperate; rivals compete
 
 ## Source
 

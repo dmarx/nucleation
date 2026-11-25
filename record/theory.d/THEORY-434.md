@@ -15,7 +15,14 @@ promote_when: >-
   such as the need for a complete ranking or for a metric of distance
   from the ideal. Further second-hand summaries of the book, and more
   endorsements of comparative justice, cannot settle it.
-title: "Rawls's theory of justice is transcendental only in the formal sense that its principles state when a society is perfectly just; it already yields comparative judgements, prescribes no single set of institutions and sits inside a revisable reflective equilibrium, so Sen's case against 'transcendental institutionalism' misses Rawls, and what it shows is that the theory is incomplete, not that a new paradigm is needed"
+title: 'Rawls is incomplete, not transcendentalist'
+statement: >-
+  Rawls's theory of justice is transcendental only in the formal sense that
+  its principles state when a society is perfectly just; it already yields
+  comparative judgements, prescribes no single set of institutions and sits
+  inside a revisable reflective equilibrium, so Sen's case against
+  'transcendental institutionalism' misses Rawls, and what it shows is that
+  the theory is incomplete, not that a new paradigm is needed
 version: 1
 tags:
 - ethics
@@ -36,7 +43,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-1850 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: THEORY-025 THEORY-411 — Proposed; related or rival accounts named in Connections, nothing here rests on their being settled -->
 
-# THEORY-434: Rawls's theory of justice is transcendental only in the formal sense that its principles state when a society is perfectly just; it already yields comparative judgements, prescribes no single set of institutions and sits inside a revisable reflective equilibrium, so Sen's case against 'transcendental institutionalism' misses Rawls, and what it shows is that the theory is incomplete, not that a new paradigm is needed
+# THEORY-434: Rawls is incomplete, not transcendentalist
 
 ## Source
 

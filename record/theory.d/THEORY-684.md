@@ -15,7 +15,14 @@ promote_when: >-
   testimony, the author's or that of writers he classifies, cannot settle
   it: whether the difference lies in self-experience or in how people
   describe it is exactly what testimony cannot separate.
-title: "Experiencing oneself as a self that was there in the further past, seeking pattern in one's life, fitting it to a story and falsifying it in the telling are separable, and fitting it to a story suffices for narrativity; on testimony that some normal people are Episodic and live good lives, neither the claim that people experience their lives as narratives nor the claim that a good life or full personhood needs it holds in general"
+title: 'Narrativity isn''t needed for a good life'
+statement: >-
+  Experiencing oneself as a self that was there in the further past, seeking
+  pattern in one's life, fitting it to a story and falsifying it in the
+  telling are separable, and fitting it to a story suffices for narrativity;
+  on testimony that some normal people are Episodic and live good lives,
+  neither the claim that people experience their lives as narratives nor the
+  claim that a good life or full personhood needs it holds in general
 version: 1
 tags:
 - narrative-unity
@@ -40,7 +47,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-447 THEORY-458 THEORY-691 — Proposed; filed in the same batch and named as a rival, a parallel or a contrast, not leaned on -->
 <!-- inactive-ok-file: THEORY-060 THEORY-076 — Proposed; named as a neighbouring account, nothing here rests on its being settled -->
 
-# THEORY-684: Experiencing oneself as a self that was there in the further past, seeking pattern in one's life, fitting it to a story and falsifying it in the telling are separable, and fitting it to a story suffices for narrativity; on testimony that some normal people are Episodic and live good lives, neither the claim that people experience their lives as narratives nor the claim that a good life or full personhood needs it holds in general
+# THEORY-684: Narrativity isn't needed for a good life
 
 ## Source
 

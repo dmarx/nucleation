@@ -3,7 +3,13 @@ number: 2100
 status: Proposed
 formerly:
 - THEORY-tmp82rjz
-title: 'Colman, Pulford and Lawrence find in asymmetric three-by-three and four-by-four games that level-1 cognitive hierarchy reasoning predominates, strong Stackelberg reasoning is frequent in the smaller games and team reasoning accounts for a larger share of choices in the larger games, most players considering several modes'
+title: 'Level-1 reasoning predominates in asymmetric games'
+statement: >-
+  Colman, Pulford and Lawrence find in asymmetric three-by-three and
+  four-by-four games that level-1 cognitive hierarchy reasoning
+  predominates, strong Stackelberg reasoning is frequent in the smaller
+  games and team reasoning accounts for a larger share of choices in the
+  larger games, most players considering several modes
 version: 1
 source:
 - LIT-2926
@@ -21,7 +27,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-2100: Colman, Pulford and Lawrence find in asymmetric three-by-three and four-by-four games that level-1 cognitive hierarchy reasoning predominates, strong Stackelberg reasoning is frequent in the smaller games and team reasoning accounts for a larger share of choices in the larger games, most players considering several modes
+# THEORY-2100: Level-1 reasoning predominates in asymmetric games
 
 ## The account
 

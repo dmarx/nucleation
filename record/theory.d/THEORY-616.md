@@ -15,7 +15,15 @@ promote_when: >-
   coordination of the kind the paper calls "Hal" evidence, and for its
   "which" thesis if instances never make that trade. Training objectives,
   self-reports and qualitative lists of behaviours cannot settle it.
-title: "If a system has beliefs and desires just when attributing them, with rationality, predicts its behaviour well enough against rival theories, then the bearer of a language model's attitudes is the instance created by one context, not the model, the case that instances have them is presumptive and rests on tractability, and the best current desire hypothesis is helpfulness, honesty and harmlessness plus intrinsic desires a prompt installs"
+title: 'LLM attitudes belong to instances, not models'
+statement: >-
+  If a system has beliefs and desires just when attributing them, with
+  rationality, predicts its behaviour well enough against rival theories,
+  then the bearer of a language model's attitudes is the instance created by
+  one context, not the model, the case that instances have them is
+  presumptive and rests on tractability, and the best current desire
+  hypothesis is helpfulness, honesty and harmlessness plus intrinsic desires
+  a prompt installs
 version: 2
 history:
 - version: 2
@@ -48,7 +56,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-173 THEORY-208 THEORY-490 — Proposed; related or rival accounts named in Connections, nothing here rests on their being settled -->
 
-# THEORY-616: If a system has beliefs and desires just when attributing them, with rationality, predicts its behaviour well enough against rival theories, then the bearer of a language model's attitudes is the instance created by one context, not the model, the case that instances have them is presumptive and rests on tractability, and the best current desire hypothesis is helpfulness, honesty and harmlessness plus intrinsic desires a prompt installs
+# THEORY-616: LLM attitudes belong to instances, not models
 
 ## Source
 

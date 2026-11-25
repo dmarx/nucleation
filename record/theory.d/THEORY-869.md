@@ -3,7 +3,16 @@ number: 869
 status: Active
 formerly:
 - THEORY-tmp9o12p
-title: 'In Claude Sonnet 4.5, Opus 4.5 and Opus 4.6, Gurnee, Sofroniew et al. found that projecting out the ten most active J-space directions in layers 38 to 54 of 100 lowered an experiential-language score, graded by Opus 4.6-based model graders on five or six prompts per condition, both in the models'' narrations of their own processing and in their descriptions of another person''s experience, while norm-matched perturbations along other directions left it near baseline and the text stayed fluent; on Haiku 4.5 coherence failed first'
+title: 'Ablating J-space cuts experiential language'
+statement: >-
+  In Claude Sonnet 4.5, Opus 4.5 and Opus 4.6, Gurnee, Sofroniew et al.
+  found that projecting out the ten most active J-space directions in layers
+  38 to 54 of 100 lowered an experiential-language score, graded by Opus
+  4.6-based model graders on five or six prompts per condition, both in the
+  models' narrations of their own processing and in their descriptions of
+  another person's experience, while norm-matched perturbations along other
+  directions left it near baseline and the text stayed fluent; on Haiku 4.5
+  coherence failed first
 version: 2
 history:
 - version: 2
@@ -64,7 +73,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-577 THEORY-633 THEORY-023 — Proposed; accounts this one is set beside, not leaned on -->
 <!-- inactive-ok-file: CLAIM-412 — Proposed; the batch's claim, cited as open -->
 
-# THEORY-869: In Claude Sonnet 4.5, Opus 4.5 and Opus 4.6, Gurnee, Sofroniew et al. found that projecting out the ten most active J-space directions in layers 38 to 54 of 100 lowered an experiential-language score, graded by Opus 4.6-based model graders on five or six prompts per condition, both in the models' narrations of their own processing and in their descriptions of another person's experience, while norm-matched perturbations along other directions left it near baseline and the text stayed fluent; on Haiku 4.5 coherence failed first
+# THEORY-869: Ablating J-space cuts experiential language
 
 ## Source
 

@@ -12,7 +12,15 @@ promote_when: >-
   specialisations only re-derive known results. Further lists of results
   the equation recovers, or further analogies with f = ma, cannot settle
   it.
-title: "The Price equation follows from any ancestor–descendant mapping in a closed population and is, like f = ma, a generalization-sketch: a schema that is empty of predictions until a specific model supplies entities, characters, time step and causes, whose value lies in unifying and guiding model construction, so the charges that it is a tautology or lacks predictive power and dynamic sufficiency ask of it what only its specialisations can supply"
+title: 'Price equation is a generalization-sketch'
+statement: >-
+  The Price equation follows from any ancestor–descendant mapping in a
+  closed population and is, like f = ma, a generalization-sketch: a schema
+  that is empty of predictions until a specific model supplies entities,
+  characters, time step and causes, whose value lies in unifying and guiding
+  model construction, so the charges that it is a tautology or lacks
+  predictive power and dynamic sufficiency ask of it what only its
+  specialisations can supply
 version: 2
 history:
 - version: 2
@@ -42,7 +50,7 @@ summary: >-
   comparison.
 ---
 
-# THEORY-673: The Price equation follows from any ancestor–descendant mapping in a closed population and is, like f = ma, a generalization-sketch: a schema that is empty of predictions until a specific model supplies entities, characters, time step and causes, whose value lies in unifying and guiding model construction, so the charges that it is a tautology or lacks predictive power and dynamic sufficiency ask of it what only its specialisations can supply
+# THEORY-673: Price equation is a generalization-sketch
 
 ## Source
 

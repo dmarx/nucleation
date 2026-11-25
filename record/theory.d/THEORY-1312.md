@@ -3,7 +3,13 @@ number: 1312
 status: Active
 formerly:
 - THEORY-tmp66yzx
-title: 'A phase-amplitude coupling measure can be significant when only one non-sinusoidal rhythm is present, because the rhythm''s harmonics carry amplitude that depends on its own phase; such coupling is confined to bands spanning the rhythm''s harmonics, so a measured coupling is evidence of one rhythm modulating another only after waveform shape is controlled'
+title: 'Waveform shape can fake phase-amplitude coupling'
+statement: >-
+  A phase-amplitude coupling measure can be significant when only one
+  non-sinusoidal rhythm is present, because the rhythm's harmonics carry
+  amplitude that depends on its own phase; such coupling is confined to
+  bands spanning the rhythm's harmonics, so a measured coupling is evidence
+  of one rhythm modulating another only after waveform shape is controlled
 version: 1
 tags:
 - neuroscience
@@ -22,7 +28,7 @@ summary: >-
   coupling far above the harmonics is.
 ---
 
-# THEORY-1312: A phase-amplitude coupling measure can be significant when only one non-sinusoidal rhythm is present, because the rhythm's harmonics carry amplitude that depends on its own phase; such coupling is confined to bands spanning the rhythm's harmonics, so a measured coupling is evidence of one rhythm modulating another only after waveform shape is controlled
+# THEORY-1312: Waveform shape can fake phase-amplitude coupling
 
 ## Source
 

@@ -3,7 +3,14 @@ number: 161
 status: Active
 formerly:
 - THEORY-tmp3ijnj
-title: 'In Zhao et al.''s (2025) and Chai et al.''s (2023) semantic rate–distortion frameworks, meaning is a latent variable with a known joint law with the observation, so their limits are indirect source-coding limits; Zhao et al.''s posterior-matching semantic distortion is, with KL divergence, exactly the information bottleneck, and with total variation a bound on the expected lost value of every bounded-loss decision'
+title: 'Semantic rate–distortion is indirect source coding'
+statement: >-
+  In Zhao et al.'s (2025) and Chai et al.'s (2023) semantic rate–distortion
+  frameworks, meaning is a latent variable with a known joint law with the
+  observation, so their limits are indirect source-coding limits; Zhao et
+  al.'s posterior-matching semantic distortion is, with KL divergence,
+  exactly the information bottleneck, and with total variation a bound on
+  the expected lost value of every bounded-loss decision
 version: 4
 history:
 - version: 2
@@ -60,7 +67,7 @@ bounds:
 <!-- inactive-ok-file: CLAIM-258 — Proposed; the claim whose scope this reading bounds, cited in the history note of 2026-11-11 -->
 
 
-# THEORY-161: In Zhao et al.'s (2025) and Chai et al.'s (2023) semantic rate–distortion frameworks, meaning is a latent variable with a known joint law with the observation, so their limits are indirect source-coding limits; Zhao et al.'s posterior-matching semantic distortion is, with KL divergence, exactly the information bottleneck, and with total variation a bound on the expected lost value of every bounded-loss decision
+# THEORY-161: Semantic rate–distortion is indirect source coding
 
 ## Source
 

@@ -12,7 +12,14 @@ promote_when: >-
   or held fixed as a control. Results in which unclipped OPSD keeps its
   gain at scale would count against it; more single runs on the same
   benchmarks would not settle it.
-title: 'In on-policy self-distillation of language-model reasoning, a privileged-context teacher''s advantage is concentrated on the student''s failed trajectories and is smaller at larger scale, and restricting supervision to the student''s verified trajectories, with the student''s own failed attempt as the teacher''s context, keeps the gain over the base model where standard on-policy self-distillation loses it'
+title: 'Self-distillation from verified trajectories helps'
+statement: >-
+  In on-policy self-distillation of language-model reasoning, a
+  privileged-context teacher's advantage is concentrated on the student's
+  failed trajectories and is smaller at larger scale, and restricting
+  supervision to the student's verified trajectories, with the student's own
+  failed attempt as the teacher's context, keeps the gain over the base
+  model where standard on-policy self-distillation loses it
 version: 1
 tags:
 - learning-theory
@@ -29,7 +36,7 @@ summary: >-
   it is hard to transmit where the student cannot see what it rests on.
 ---
 
-# THEORY-1263: In on-policy self-distillation of language-model reasoning, a privileged-context teacher's advantage is concentrated on the student's failed trajectories and is smaller at larger scale, and restricting supervision to the student's verified trajectories, with the student's own failed attempt as the teacher's context, keeps the gain over the base model where standard on-policy self-distillation loses it
+# THEORY-1263: Self-distillation from verified trajectories helps
 
 ## Source
 

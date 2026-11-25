@@ -3,7 +3,14 @@ number: 605
 status: Active
 formerly:
 - THEORY-tmppgcbt
-title: "In any ontological model that reproduces the quantum predictions and treats independently prepared systems as having product distributions over a joint state that is just the list of their states, distinct pure quantum states have distributions over the ontic state whose supports overlap in measure zero, so the pure state is fixed by the ontic state; approximate agreement within ε bounds the overlap by 2ε^{1/n}"
+title: 'Preparation independence makes ψ ontic'
+statement: >-
+  In any ontological model that reproduces the quantum predictions and
+  treats independently prepared systems as having product distributions over
+  a joint state that is just the list of their states, distinct pure quantum
+  states have distributions over the ontic state whose supports overlap in
+  measure zero, so the pure state is fixed by the ontic state; approximate
+  agreement within ε bounds the overlap by 2ε^{1/n}
 version: 1
 tags:
 - quantum-foundations
@@ -24,7 +31,7 @@ summary: >-
 
 <!-- inactive-ok-file: THEORY-485 THEORY-586 THEORY-621 THEORY-630 THEORY-631 — Proposed; accounts that read or answer this theorem, named, not leaned on -->
 
-# THEORY-605: In any ontological model that reproduces the quantum predictions and treats independently prepared systems as having product distributions over a joint state that is just the list of their states, distinct pure quantum states have distributions over the ontic state whose supports overlap in measure zero, so the pure state is fixed by the ontic state; approximate agreement within ε bounds the overlap by 2ε^{1/n}
+# THEORY-605: Preparation independence makes ψ ontic
 
 ## Source
 

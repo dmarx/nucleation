@@ -3,7 +3,15 @@ number: 2092
 status: Proposed
 formerly:
 - THEORY-tmpowquo
-title: 'He and colleagues find that in a parameter-sharing transformer on a synthetic two-hop fact-composition task, models that reach held-out compositions through a bridge-entity reasoning path, by grokking or by full compositional supervision, later compose new first-hop facts with old ones, while models that reach comparable held-out accuracy by a shortcut learn new facts without composing them, and no model composes new second-hop facts'
+title: 'Only reasoning-path models compose new facts'
+statement: >-
+  He and colleagues find that in a parameter-sharing transformer on a
+  synthetic two-hop fact-composition task, models that reach held-out
+  compositions through a bridge-entity reasoning path, by grokking or by
+  full compositional supervision, later compose new first-hop facts with old
+  ones, while models that reach comparable held-out accuracy by a shortcut
+  learn new facts without composing them, and no model composes new
+  second-hop facts
 version: 1
 source:
 - LIT-2872
@@ -26,7 +34,7 @@ summary: >-
   single runs. Proposed until its promote_when is met.
 ---
 
-# THEORY-2092: He and colleagues find that in a parameter-sharing transformer on a synthetic two-hop fact-composition task, models that reach held-out compositions through a bridge-entity reasoning path, by grokking or by full compositional supervision, later compose new first-hop facts with old ones, while models that reach comparable held-out accuracy by a shortcut learn new facts without composing them, and no model composes new second-hop facts
+# THEORY-2092: Only reasoning-path models compose new facts
 
 ## The account
 

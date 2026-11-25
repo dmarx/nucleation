@@ -9,7 +9,15 @@ promote_when: >-
   title says: the ln L barrier between winding sectors against the O(1)
   barrier of the 2D Heisenberg model, the free-vortex criterion πK = 2,
   and the freeing of vortices by a finite penetration depth.
-title: "Kosterlitz's Nobel lecture holds that the two-dimensional planar rotor and superfluid film have a finite-temperature topologically ordered phase without long-range order, in which winding-number sectors are separated by barriers growing as ln L, while the 2D Heisenberg model's invariant has a barrier of order unity and no ordered state; the phase ends when vortex pairs unbind at πK = 2, and a finite penetration depth, which cuts off the logarithmic interaction, frees vortices at any T > 0"
+title: '2D rotors have a topological ordered phase'
+statement: >-
+  Kosterlitz's Nobel lecture holds that the two-dimensional planar rotor and
+  superfluid film have a finite-temperature topologically ordered phase
+  without long-range order, in which winding-number sectors are separated by
+  barriers growing as ln L, while the 2D Heisenberg model's invariant has a
+  barrier of order unity and no ordered state; the phase ends when vortex
+  pairs unbind at πK = 2, and a finite penetration depth, which cuts off the
+  logarithmic interaction, frees vortices at any T > 0
 version: 1
 tags:
 - natural-sciences
@@ -33,7 +41,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-2969 LIT-3059 — Unfetched or Deferred -->
 <!-- inactive-ok-file: CLAIM-841 CLAIM-694 — Proposed -->
 
-# THEORY-2206: Kosterlitz's Nobel lecture holds that the two-dimensional planar rotor and superfluid film have a finite-temperature topologically ordered phase without long-range order, in which winding-number sectors are separated by barriers growing as ln L, while the 2D Heisenberg model's invariant has a barrier of order unity and no ordered state; the phase ends when vortex pairs unbind at πK = 2, and a finite penetration depth, which cuts off the logarithmic interaction, frees vortices at any T > 0
+# THEORY-2206: 2D rotors have a topological ordered phase
 
 ## Source
 

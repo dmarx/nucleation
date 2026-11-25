@@ -3,7 +3,16 @@ number: 1274
 status: Active
 formerly:
 - THEORY-tmpxb5pl
-title: 'Under a shared linear output head, the cross-entropy gradient of a multi-token-prediction head at its hidden state is exactly the gradient of a forward KL toward the model''s own position-aligned next-token prediction, held fixed, plus the next-token cross-entropy gradient at the aligned state, which alone carries the sampled target; the identity is about gradients and computations, not information, and in heads fed the intervening tokens the student and its teacher condition on the same evidence'
+title: 'MTP gradient equals self-distillation plus NTP'
+statement: >-
+  Under a shared linear output head, the cross-entropy gradient of a
+  multi-token-prediction head at its hidden state is exactly the gradient of
+  a forward KL toward the model's own position-aligned next-token
+  prediction, held fixed, plus the next-token cross-entropy gradient at the
+  aligned state, which alone carries the sampled target; the identity is
+  about gradients and computations, not information, and in heads fed the
+  intervening tokens the student and its teacher condition on the same
+  evidence
 version: 2
 history:
 - version: 2
@@ -34,7 +43,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-1262 — Proposed; the empirical companion, cited as not established -->
 
-# THEORY-1274: Under a shared linear output head, the cross-entropy gradient of a multi-token-prediction head at its hidden state is exactly the gradient of a forward KL toward the model's own position-aligned next-token prediction, held fixed, plus the next-token cross-entropy gradient at the aligned state, which alone carries the sampled target; the identity is about gradients and computations, not information, and in heads fed the intervening tokens the student and its teacher condition on the same evidence
+# THEORY-1274: MTP gradient equals self-distillation plus NTP
 
 ## Source
 

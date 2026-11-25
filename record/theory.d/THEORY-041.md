@@ -3,7 +3,11 @@ number: 41
 status: Active
 formerly:
 - THEORY-tmpwitpu
-title: 'Birkhoff and von Neumann proposed the modular law, not orthomodularity, and proved it fails for closed subspaces in infinite dimension; Husimi used the orthomodular identity only as an unnamed proof step'
+title: 'Quantum logic began modular, not orthomodular'
+statement: >-
+  Birkhoff and von Neumann proposed the modular law, not orthomodularity,
+  and proved it fails for closed subspaces in infinite dimension; Husimi
+  used the orthomodular identity only as an unnamed proof step
 version: 1
 tags:
 - logic
@@ -26,7 +30,7 @@ bears_on:
 - QUESTION-055
 ---
 
-# THEORY-041: Birkhoff and von Neumann proposed the modular law, not orthomodularity, and proved it fails for closed subspaces in infinite dimension; Husimi used the orthomodular identity only as an unnamed proof step
+# THEORY-041: Quantum logic began modular, not orthomodular
 
 ## Source
 

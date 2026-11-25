@@ -3,7 +3,14 @@ number: 1865
 status: Proposed
 formerly:
 - THEORY-tmpyuoss
-title: 'Hui argues that technology is not an anthropological universal but is enabled and constrained by particular cosmologies, so that there are many cosmotechnics, unifications of the cosmic and moral order through technical activity, and that a politics adequate to the Anthropocene needs technological futures to bifurcate instead of following one planetary trajectory'
+title: 'There are many cosmotechnics, not one technology'
+statement: >-
+  Hui argues that technology is not an anthropological universal but is
+  enabled and constrained by particular cosmologies, so that there are many
+  cosmotechnics, unifications of the cosmic and moral order through
+  technical activity, and that a politics adequate to the Anthropocene needs
+  technological futures to bifurcate instead of following one planetary
+  trajectory
 version: 1
 source:
 - LIT-2561
@@ -23,7 +30,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-2584 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Unavailable -->
 
-# THEORY-1865: Hui argues that technology is not an anthropological universal but is enabled and constrained by particular cosmologies, so that there are many cosmotechnics, unifications of the cosmic and moral order through technical activity, and that a politics adequate to the Anthropocene needs technological futures to bifurcate instead of following one planetary trajectory
+# THEORY-1865: There are many cosmotechnics, not one technology
 
 ## The account
 

@@ -15,7 +15,14 @@ promote_when: >-
   allows such a case only at the institutional end and calls it deviant.
   Cases in which the intention is inferred from the verdict cannot settle
   it either way.
-title: "Illocutionary acts that are not essentially conventional, such as warning, entreating and objecting, are individuated by a wholly overt, audience-directed intention, Grice's three intentions with a fourth that the audience recognise the second, and are performed when that intention is understood; acts such as verdicts and umpires' calls exist only within rule-governed procedures and fall outside the scheme"
+title: 'Non-conventional illocutions are overt intentions'
+statement: >-
+  Illocutionary acts that are not essentially conventional, such as warning,
+  entreating and objecting, are individuated by a wholly overt,
+  audience-directed intention, Grice's three intentions with a fourth that
+  the audience recognise the second, and are performed when that intention
+  is understood; acts such as verdicts and umpires' calls exist only within
+  rule-governed procedures and fall outside the scheme
 version: 1
 tags:
 - pragmatics
@@ -43,7 +50,7 @@ bears_on:
 <!-- inactive-ok-file: CLAIM-151 CLAIM-221 THEORY-444 — Proposed; the claims this account bears on and the account it extends, cited as open -->
 <!-- inactive-ok-file: LIT-1040 LIT-785 — Unavailable; Bach and Harnish and Austin, unread, named and not leaned on -->
 
-# THEORY-511: Illocutionary acts that are not essentially conventional, such as warning, entreating and objecting, are individuated by a wholly overt, audience-directed intention, Grice's three intentions with a fourth that the audience recognise the second, and are performed when that intention is understood; acts such as verdicts and umpires' calls exist only within rule-governed procedures and fall outside the scheme
+# THEORY-511: Non-conventional illocutions are overt intentions
 
 ## Source
 

@@ -21,7 +21,13 @@ promote_when: >-
   sensitivity–susceptibility relation does not replicate or vanishes
   once suggestibility is controlled. Opinion pieces re-describing these
   studies cannot settle it.
-title: "Body ownership draws on interoceptive as well as exteroceptive signals: a visual cue synchronous with one's heartbeat increases ownership of a virtual hand and identification with a virtual body, and lower interoceptive sensitivity goes with greater susceptibility to the rubber hand illusion"
+title: 'Heartbeat signals feed body ownership'
+statement: >-
+  Body ownership draws on interoceptive as well as exteroceptive signals: a
+  visual cue synchronous with one's heartbeat increases ownership of a
+  virtual hand and identification with a virtual body, and lower
+  interoceptive sensitivity goes with greater susceptibility to the rubber
+  hand illusion
 version: 2
 history:
 - version: 2
@@ -52,7 +58,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-765 THEORY-769 — Proposed; filed from the same batch, named -->
 <!-- inactive-ok-file: THEORY-045 THEORY-291 — Proposed; accounts in the interoception cluster this one is joined to, not leaned on -->
 
-# THEORY-767: Body ownership draws on interoceptive as well as exteroceptive signals: a visual cue synchronous with one's heartbeat increases ownership of a virtual hand and identification with a virtual body, and lower interoceptive sensitivity goes with greater susceptibility to the rubber hand illusion
+# THEORY-767: Heartbeat signals feed body ownership
 
 ## Source
 

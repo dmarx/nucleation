@@ -3,7 +3,15 @@ number: 1946
 status: Proposed
 formerly:
 - THEORY-tmpuga36
-title: 'Rubel, Castro and Pham argue that agency laundering is a distinct wrong of accountability: an agent responsible for a domain makes a process, person or technology partly causally responsible for outcomes in it, ascribes it morally relevant qualities, and so obscures its own causal role and forestalls others'' demands for an account, a wrong possible while the agent meets its substantive role responsibilities and one that ordinary algorithm use need not commit'
+title: 'Agency laundering wrongs accountability'
+statement: >-
+  Rubel, Castro and Pham argue that agency laundering is a distinct wrong of
+  accountability: an agent responsible for a domain makes a process, person
+  or technology partly causally responsible for outcomes in it, ascribes it
+  morally relevant qualities, and so obscures its own causal role and
+  forestalls others' demands for an account, a wrong possible while the
+  agent meets its substantive role responsibilities and one that ordinary
+  algorithm use need not commit
 version: 2
 history:
 - version: 2
@@ -42,7 +50,7 @@ bears_on:
 <!-- inactive-ok-file: CLAIM-472 CLAIM-707 — Proposed or Unfetched; entries the second reading bears on, cited with their standing -->
 <!-- unresolved-ok-file: THEORY-tmpwjlal — removed at the reconciliation of 2026-11-18; named for provenance -->
 <!-- inactive-ok-file: CLAIM-624 LIT-2659 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
-# THEORY-1946: Rubel, Castro and Pham argue that agency laundering is a distinct wrong of accountability: an agent responsible for a domain makes a process, person or technology partly causally responsible for outcomes in it, ascribes it morally relevant qualities, and so obscures its own causal role and forestalls others' demands for an account, a wrong possible while the agent meets its substantive role responsibilities and one that ordinary algorithm use need not commit
+# THEORY-1946: Agency laundering wrongs accountability
 
 ## Source
 

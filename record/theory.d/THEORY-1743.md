@@ -3,7 +3,13 @@ number: 1743
 status: Proposed
 formerly:
 - THEORY-tmp7gq1l
-title: 'Zhang, Hu, Lu, Lange and Clune (2025) report that a coding agent that edits its own code, validates each change on coding benchmarks and keeps every viable variant in an archive improved from 20.0% to 50.0% on SWE-bench and from 14.2% to 30.7% on Polyglot, outperforming the same system with a fixed modifying agent or without the archive'
+title: 'Self-editing coding agent doubles SWE-bench score'
+statement: >-
+  Zhang, Hu, Lu, Lange and Clune (2025) report that a coding agent that
+  edits its own code, validates each change on coding benchmarks and keeps
+  every viable variant in an archive improved from 20.0% to 50.0% on
+  SWE-bench and from 14.2% to 30.7% on Polyglot, outperforming the same
+  system with a fixed modifying agent or without the archive
 version: 1
 tags:
 - agency
@@ -29,7 +35,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-1743: Zhang, Hu, Lu, Lange and Clune (2025) report that a coding agent that edits its own code, validates each change on coding benchmarks and keeps every viable variant in an archive improved from 20.0% to 50.0% on SWE-bench and from 14.2% to 30.7% on Polyglot, outperforming the same system with a fixed modifying agent or without the archive
+# THEORY-1743: Self-editing coding agent doubles SWE-bench score
 
 ## The account
 

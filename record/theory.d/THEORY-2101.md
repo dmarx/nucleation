@@ -3,7 +3,15 @@ number: 2101
 status: Proposed
 formerly:
 - THEORY-tmp8f4on
-title: 'Tomasello proposes that agency is feedback-control organization built up in grades over the human lineage, goal-directed agency in the first vertebrates, intentional agency with an executive tier monitoring and controlling action and attention in the first mammals, metacognitive or rational agency with a second tier monitoring and controlling the executive tier in the first great apes, and shared agency, joint then collective, with normative self-regulation in early humans'
+title: 'Agency evolved in graded control tiers'
+statement: >-
+  Tomasello proposes that agency is feedback-control organization built up
+  in grades over the human lineage, goal-directed agency in the first
+  vertebrates, intentional agency with an executive tier monitoring and
+  controlling action and attention in the first mammals, metacognitive or
+  rational agency with a second tier monitoring and controlling the
+  executive tier in the first great apes, and shared agency, joint then
+  collective, with normative self-regulation in early humans
 version: 1
 source:
 - LIT-2899
@@ -24,7 +32,7 @@ summary: >-
   the book. Proposed until its promote_when is met.
 ---
 
-# THEORY-2101: Tomasello proposes that agency is feedback-control organization built up in grades over the human lineage, goal-directed agency in the first vertebrates, intentional agency with an executive tier monitoring and controlling action and attention in the first mammals, metacognitive or rational agency with a second tier monitoring and controlling the executive tier in the first great apes, and shared agency, joint then collective, with normative self-regulation in early humans
+# THEORY-2101: Agency evolved in graded control tiers
 
 ## The account
 

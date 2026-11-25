@@ -3,7 +3,11 @@ number: 156
 status: Active
 formerly:
 - THEORY-tmpl07kz
-title: 'For experiments on a finite parameter set whose outcome spaces are standard Borel, being at least as informative for every decision problem is the same as being able to simulate the other by a randomisation'
+title: 'More informative iff simulable by randomisation'
+statement: >-
+  For experiments on a finite parameter set whose outcome spaces are
+  standard Borel, being at least as informative for every decision problem
+  is the same as being able to simulate the other by a randomisation
 version: 4
 history:
 - version: 2
@@ -74,7 +78,7 @@ bounds:
 - CLAIM-380
 ---
 
-# THEORY-156: For experiments on a finite parameter set whose outcome spaces are standard Borel, being at least as informative for every decision problem is the same as being able to simulate the other by a randomisation
+# THEORY-156: More informative iff simulable by randomisation
 
 ## Note of 2026-10-27: the easy direction split off
 

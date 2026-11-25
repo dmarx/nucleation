@@ -20,7 +20,11 @@ promote_when: >-
   More deficit cases in which experience and the capacity are lost
   together cannot settle it, however many, since each is a case of the
   confound.
-title: 'A deficit in which consciousness and a capacity are lost together does not show that the capacity is a function of phenomenal consciousness, since access is lost too and the capacity is one the machinery of access has'
+title: 'Joint loss doesn''t show a phenomenal function'
+statement: >-
+  A deficit in which consciousness and a capacity are lost together does not
+  show that the capacity is a function of phenomenal consciousness, since
+  access is lost too and the capacity is one the machinery of access has
 version: 1
 tags:
 - consciousness
@@ -49,7 +53,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-100 — Proposed; named in Connections for the same distinction applied to report, no relation claimed -->
 <!-- inactive-ok-file: LIT-3097 LIT-3093 THEORY-2229 — Deferred or Proposed; registrations and readings of LEAD-112 cited in the note of 2026-11-22 -->
 
-# THEORY-091: A deficit in which consciousness and a capacity are lost together does not show that the capacity is a function of phenomenal consciousness, since access is lost too and the capacity is one the machinery of access has
+# THEORY-091: Joint loss doesn't show a phenomenal function
 
 ## Source
 

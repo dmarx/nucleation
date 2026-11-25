@@ -15,7 +15,15 @@ promote_when: >-
   theorem whose conditions exclude the systems it is applied to, would
   refute it as an account of those systems. More applications under one
   unnamed redundancy function cannot settle it.
-title: "A macro feature can supervene on a system's present state and still carry information about its future that no small set of parts carries, because supervenience is instantaneous and prediction runs across time; on the integrated-information-decomposition account a system can host such a feature of order k exactly when its dynamics carry k-th-order synergy about their own future, relative to a fixed partition into parts and a chosen redundancy function"
+title: 'Synergy lets macro features predict the future'
+statement: >-
+  A macro feature can supervene on a system's present state and still carry
+  information about its future that no small set of parts carries, because
+  supervenience is instantaneous and prediction runs across time; on the
+  integrated-information-decomposition account a system can host such a
+  feature of order k exactly when its dynamics carry k-th-order synergy
+  about their own future, relative to a fixed partition into parts and a
+  chosen redundancy function
 version: 4
 history:
 - version: 2
@@ -54,7 +62,7 @@ bounds:
 ---
 <!-- inactive-ok-file: THEORY-240 THEORY-257 THEORY-268 — Proposed; neighbouring accounts named for comparison, nothing here rests on their being settled -->
 
-# THEORY-497: A macro feature can supervene on a system's present state and still carry information about its future that no small set of parts carries, because supervenience is instantaneous and prediction runs across time; on the integrated-information-decomposition account a system can host such a feature of order k exactly when its dynamics carry k-th-order synergy about their own future, relative to a fixed partition into parts and a chosen redundancy function
+# THEORY-497: Synergy lets macro features predict the future
 
 ## Source
 

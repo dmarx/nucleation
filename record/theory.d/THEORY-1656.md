@@ -3,7 +3,16 @@ number: 1656
 status: Proposed
 formerly:
 - THEORY-tmp5zp11
-title: 'Yu, Kim and Kim (2026) report that when LLM-written, search-optimized documents are added to fixed per-query pools of real web documents, retrievers place them in the top results more often than their share of the pool (over 80% exposure at 67% of the pool for both BM25 and an LLM re-ranker) while answer accuracy stays level, so that retrieval loses its human-written sources without any drop in measured accuracy; adversarially falsified documents are largely filtered by an LLM re-ranker but reach about a fifth of BM25''s top results.'
+title: 'LLM documents crowd out human sources in retrieval'
+statement: >-
+  Yu, Kim and Kim (2026) report that when LLM-written, search-optimized
+  documents are added to fixed per-query pools of real web documents,
+  retrievers place them in the top results more often than their share of
+  the pool (over 80% exposure at 67% of the pool for both BM25 and an LLM
+  re-ranker) while answer accuracy stays level, so that retrieval loses its
+  human-written sources without any drop in measured accuracy; adversarially
+  falsified documents are largely filtered by an LLM re-ranker but reach
+  about a fifth of BM25's top results.
 version: 1
 source:
 - LIT-2371
@@ -26,7 +35,7 @@ summary: >-
   pool (clickbait drafts with named entities and numbers falsified).
 ---
 
-# THEORY-1656: Yu, Kim and Kim (2026) report that when LLM-written, search-optimized documents are added to fixed per-query pools of real web documents, retrievers place them in the top results more often than their share of the pool (over 80% exposure at 67% of the pool for both BM25 and an LLM re-ranker) while answer accuracy stays level, so that retrieval loses its human-written sources without any drop in measured accuracy; adversarially falsified documents are largely filtered by an LLM re-ranker but reach about a fifth of BM25's top results.
+# THEORY-1656: LLM documents crowd out human sources in retrieval
 
 ## The account
 

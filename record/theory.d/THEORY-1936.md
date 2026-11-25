@@ -3,7 +3,12 @@ number: 1936
 status: Proposed
 formerly:
 - THEORY-tmplu79q
-title: 'Long finds, in interviews with twenty Black and Black mixed-race people in England, that police often treat Black people who report crime as suspects, so that, against Christie''s ideal victim, Black men are constructed as the ideal offender and denied victim status'
+title: 'Police treat Black crime reporters as suspects'
+statement: >-
+  Long finds, in interviews with twenty Black and Black mixed-race people in
+  England, that police often treat Black people who report crime as
+  suspects, so that, against Christie's ideal victim, Black men are
+  constructed as the ideal offender and denied victim status
 version: 1
 tags:
 - social-science
@@ -17,7 +22,7 @@ source:
 - LIT-2667
 ---
 <!-- inactive-ok-file: LIT-2716 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
-# THEORY-1936: Long finds, in interviews with twenty Black and Black mixed-race people in England, that police often treat Black people who report crime as suspects, so that, against Christie's ideal victim, Black men are constructed as the ideal offender and denied victim status
+# THEORY-1936: Police treat Black crime reporters as suspects
 
 ## Source
 

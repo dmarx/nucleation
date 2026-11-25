@@ -14,7 +14,14 @@ promote_when: >-
   across settings that differ in cost. More examples of a false phrase
   surviving cannot settle it, since the account was built from such
   examples.
-title: "Statements that are visibly false to anyone who checks, such as 'long-term' for a three-day study or 'assault' contradicted by video, persist in science, paid testimony and official statements when the community that hears them accepts them as terms of art and attaches no cost to them, so that those willing to make things up gain over those who are not"
+title: 'Costless visible falsehoods persist and pay'
+statement: >-
+  Statements that are visibly false to anyone who checks, such as
+  'long-term' for a three-day study or 'assault' contradicted by video,
+  persist in science, paid testimony and official statements when the
+  community that hears them accepts them as terms of art and attaches no
+  cost to them, so that those willing to make things up gain over those who
+  are not
 version: 1
 tags:
 - society-and-governance
@@ -31,7 +38,7 @@ summary: >-
   the post is inconsistent on whether the speakers know they are lying.
 ---
 
-# THEORY-423: Statements that are visibly false to anyone who checks, such as 'long-term' for a three-day study or 'assault' contradicted by video, persist in science, paid testimony and official statements when the community that hears them accepts them as terms of art and attaches no cost to them, so that those willing to make things up gain over those who are not
+# THEORY-423: Costless visible falsehoods persist and pay
 
 ## Source
 

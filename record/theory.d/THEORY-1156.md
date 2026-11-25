@@ -3,7 +3,16 @@ number: 1156
 status: Active
 formerly:
 - THEORY-tmpwl8e3
-title: 'The fused Gromov–Wasserstein discrepancy between two attributed graphs, a single coupling that pays (1 − α) for moving node features and α for distorting pairwise structure, tends to the Wasserstein distance between the features as α → 0 and to the Gromov–Wasserstein distance between the structures as α → 1, lies above their α-weighted mixture, and for q = 1, α strictly between 0 and 1 and distance-matrix structures is a metric that vanishes exactly when a bijection of the nodes preserves weights, features and structure together'
+title: 'Fused GW interpolates Wasserstein and GW'
+statement: >-
+  The fused Gromov–Wasserstein discrepancy between two attributed graphs, a
+  single coupling that pays (1 − α) for moving node features and α for
+  distorting pairwise structure, tends to the Wasserstein distance between
+  the features as α → 0 and to the Gromov–Wasserstein distance between the
+  structures as α → 1, lies above their α-weighted mixture, and for q = 1, α
+  strictly between 0 and 1 and distance-matrix structures is a metric that
+  vanishes exactly when a bijection of the nodes preserves weights, features
+  and structure together
 version: 2
 history:
 - version: 2
@@ -36,7 +45,7 @@ corroborates:
 - CLAIM-645
 ---
 
-# THEORY-1156: The fused Gromov–Wasserstein discrepancy between two attributed graphs, a single coupling that pays (1 − α) for moving node features and α for distorting pairwise structure, tends to the Wasserstein distance between the features as α → 0 and to the Gromov–Wasserstein distance between the structures as α → 1, lies above their α-weighted mixture, and for q = 1, α strictly between 0 and 1 and distance-matrix structures is a metric that vanishes exactly when a bijection of the nodes preserves weights, features and structure together
+# THEORY-1156: Fused GW interpolates Wasserstein and GW
 
 ## Source
 

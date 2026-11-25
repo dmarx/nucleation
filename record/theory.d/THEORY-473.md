@@ -3,7 +3,14 @@ number: 473
 status: Active
 formerly:
 - THEORY-tmp9fx7s
-title: "Scaled down to one organism, Hutchinson's niche, defined as the conditions that give that individual an expected lifetime reproductive success of at least one, is observed only as a point; the rest of it is counterfactual, reached by translocation in only a few dimensions and otherwise inferred from other individuals, so in practice it is the niche of a phenotype class, and its authors call it mostly metaphorical"
+title: 'Individual niche is mostly counterfactual'
+statement: >-
+  Scaled down to one organism, Hutchinson's niche, defined as the conditions
+  that give that individual an expected lifetime reproductive success of at
+  least one, is observed only as a point; the rest of it is counterfactual,
+  reached by translocation in only a few dimensions and otherwise inferred
+  from other individuals, so in practice it is the niche of a phenotype
+  class, and its authors call it mostly metaphorical
 version: 1
 tags:
 - natural-sciences
@@ -24,7 +31,7 @@ summary: >-
   research, by its authors' own account, not a measurement.
 ---
 
-# THEORY-473: Scaled down to one organism, Hutchinson's niche, defined as the conditions that give that individual an expected lifetime reproductive success of at least one, is observed only as a point; the rest of it is counterfactual, reached by translocation in only a few dimensions and otherwise inferred from other individuals, so in practice it is the niche of a phenotype class, and its authors call it mostly metaphorical
+# THEORY-473: Individual niche is mostly counterfactual
 
 ## Source
 

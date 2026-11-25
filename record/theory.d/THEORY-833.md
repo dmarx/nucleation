@@ -3,7 +3,15 @@ number: 833
 status: Active
 formerly:
 - THEORY-tmp1kuko
-title: 'In a 2024 survey of a quota-matched online sample of 2,092 US adults and a convenience sample of 103 antitrust lawyers, the public weighed layoffs, worse product quality and more lobbying well above price reductions in judging whether a merger should be challenged, the consumer welfare standard''s own objective, while support for replacing that standard was 42.6 points lower among the lawyers than among the public, against a partisan gap of 5.9 points'
+title: 'Public weighs harms beyond price in mergers'
+statement: >-
+  In a 2024 survey of a quota-matched online sample of 2,092 US adults and a
+  convenience sample of 103 antitrust lawyers, the public weighed layoffs,
+  worse product quality and more lobbying well above price reductions in
+  judging whether a merger should be challenged, the consumer welfare
+  standard's own objective, while support for replacing that standard was
+  42.6 points lower among the lawyers than among the public, against a
+  partisan gap of 5.9 points
 version: 1
 history:
 - version: 1
@@ -29,7 +37,7 @@ summary: >-
   is [THEORY-859](THEORY-859.md), Proposed.
 ---
 <!-- inactive-ok-file: THEORY-859 — Proposed; the wider account and the claim this measurement bears on, nothing here rests on them -->
-# THEORY-833: In a 2024 survey of a quota-matched online sample of 2,092 US adults and a convenience sample of 103 antitrust lawyers, the public weighed layoffs, worse product quality and more lobbying well above price reductions in judging whether a merger should be challenged, the consumer welfare standard's own objective, while support for replacing that standard was 42.6 points lower among the lawyers than among the public, against a partisan gap of 5.9 points
+# THEORY-833: Public weighs harms beyond price in mergers
 
 ## Source
 

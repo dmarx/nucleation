@@ -15,7 +15,15 @@ promote_when: >-
   organismal cases of reorganisation, such as the anglerfish, the sea slug
   and the gamergate, cannot settle it, since the account assumes the
   verdict on the contrasting collective.
-title: "Self-maintenance through closure of constraints does not single out organisms, since colonies, holobionts, symbioses and ecosystems meet it too, so a persister criterion applied at whatever level meets it turns organisms into parts; what is proposed to mark organisms is that they can also induce, control and come through phases of destabilised organisation and reach a new closure regime, though that only organisms can do so is asserted"
+title: 'Constraint closure doesn''t single out organisms'
+statement: >-
+  Self-maintenance through closure of constraints does not single out
+  organisms, since colonies, holobionts, symbioses and ecosystems meet it
+  too, so a persister criterion applied at whatever level meets it turns
+  organisms into parts; what is proposed to mark organisms is that they can
+  also induce, control and come through phases of destabilised organisation
+  and reach a new closure regime, though that only organisms can do so is
+  asserted
 version: 1
 tags:
 - philosophy-of-biology
@@ -37,7 +45,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-072 THEORY-443 THEORY-446 — Proposed; neighbouring accounts named in Connections, nothing here rests on them -->
 
-# THEORY-514: Self-maintenance through closure of constraints does not single out organisms, since colonies, holobionts, symbioses and ecosystems meet it too, so a persister criterion applied at whatever level meets it turns organisms into parts; what is proposed to mark organisms is that they can also induce, control and come through phases of destabilised organisation and reach a new closure regime, though that only organisms can do so is asserted
+# THEORY-514: Constraint closure doesn't single out organisms
 
 ## Source
 

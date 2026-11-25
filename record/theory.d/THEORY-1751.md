@@ -3,7 +3,15 @@ number: 1751
 status: Proposed
 formerly:
 - THEORY-tmpcb95r
-title: '- **Sentence**: Si, Yang and Hashimoto (2024) report a blind study in which 79 expert reviewers rated research ideas from an LLM ideation agent as significantly more novel than ideas written by 49 expert NLP researchers, with feasibility slightly but not significantly lower, and find that the agent''s ideas become largely duplicates at scale and that LLM evaluators agree with expert reviewers less than the reviewers agree with each other. -'
+title: 'LLM research ideas judged more novel'
+statement: >-
+  - **Sentence**: Si, Yang and Hashimoto (2024) report a blind study in
+  which 79 expert reviewers rated research ideas from an LLM ideation agent
+  as significantly more novel than ideas written by 49 expert NLP
+  researchers, with feasibility slightly but not significantly lower, and
+  find that the agent's ideas become largely duplicates at scale and that
+  LLM evaluators agree with expert reviewers less than the reviewers agree
+  with each other. -
 version: 1
 tags:
 - philosophy-of-science
@@ -23,7 +31,7 @@ summary: >-
   its promote_when is met.
 ---
 
-# THEORY-1751: - **Sentence**: Si, Yang and Hashimoto (2024) report a blind study in which 79 expert reviewers rated research ideas from an LLM ideation agent as significantly more novel than ideas written by 49 expert NLP researchers, with feasibility slightly but not significantly lower, and find that the agent's ideas become largely duplicates at scale and that LLM evaluators agree with expert reviewers less than the reviewers agree with each other. -
+# THEORY-1751: LLM research ideas judged more novel
 
 ## The account
 

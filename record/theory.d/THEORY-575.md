@@ -14,7 +14,13 @@ promote_when: >-
   could be added to any ontology. Showing that one more account of gender
   or race can be read as a node cannot settle it; the paper already shows
   three, and accommodation is not support.
-title: "'Social group' names two kinds of thing: organized social groups, such as teams, courts and families, are structured wholes whose people occupy the nodes of an internal social structure, while feature social groups, such as women, racial groups and classes, are social kinds, nodes in external social structures, and are not concrete wholes"
+title: 'Social groups are two kinds of thing'
+statement: >-
+  'Social group' names two kinds of thing: organized social groups, such as
+  teams, courts and families, are structured wholes whose people occupy the
+  nodes of an internal social structure, while feature social groups, such
+  as women, racial groups and classes, are social kinds, nodes in external
+  social structures, and are not concrete wholes
 version: 1
 tags:
 - social-ontology
@@ -43,7 +49,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-491 — Unavailable, no lawful full text; Ásta's Categories We Live By, named because Ritchie reinterprets conferralism from earlier papers, not leaned on -->
 <!-- inactive-ok-file: LIT-391 — Unavailable, paywalled; List & Pettit's Group Agency, named for which side of the distinction its group agents fall on, not leaned on -->
 
-# THEORY-575: 'Social group' names two kinds of thing: organized social groups, such as teams, courts and families, are structured wholes whose people occupy the nodes of an internal social structure, while feature social groups, such as women, racial groups and classes, are social kinds, nodes in external social structures, and are not concrete wholes
+# THEORY-575: Social groups are two kinds of thing
 
 ## Source
 

@@ -14,7 +14,15 @@ promote_when: >-
   narrow it. Further conceivability intuitions about panpsychist zombies,
   for or against, cannot settle it, since both sides already grant or deny
   the conceivability-possibility link they rest on.
-title: "Panpsychism escapes dualism's problem of mental causation only in its constitutive Russellian form, where micro-experiences constitute macro-experience; that form meets three combination problems, of subjects, qualities and structure, and every response that avoids combining (emergent, autonomous or identity panpsychism) gives back the advantage in mental causation or revised physics, while the combinatorial responses remain unworked"
+title: 'Panpsychism''s combination problems stay unsolved'
+statement: >-
+  Panpsychism escapes dualism's problem of mental causation only in its
+  constitutive Russellian form, where micro-experiences constitute
+  macro-experience; that form meets three combination problems, of subjects,
+  qualities and structure, and every response that avoids combining
+  (emergent, autonomous or identity panpsychism) gives back the advantage in
+  mental causation or revised physics, while the combinatorial responses
+  remain unworked
 version: 1
 tags:
 - consciousness
@@ -35,7 +43,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-043 THEORY-523 THEORY-577 THEORY-583 THEORY-694 — Proposed; accounts named as rivals, neighbours or connections, not leaned on as premises -->
 
-# THEORY-644: Panpsychism escapes dualism's problem of mental causation only in its constitutive Russellian form, where micro-experiences constitute macro-experience; that form meets three combination problems, of subjects, qualities and structure, and every response that avoids combining (emergent, autonomous or identity panpsychism) gives back the advantage in mental causation or revised physics, while the combinatorial responses remain unworked
+# THEORY-644: Panpsychism's combination problems stay unsolved
 
 ## Source
 

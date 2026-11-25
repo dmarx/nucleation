@@ -3,7 +3,17 @@ number: 211
 status: Active
 formerly:
 - THEORY-tmpdsy58
-title: 'In the stochastic-differential-equation model of SGD, with a gradient-noise covariance that depends on the parameters, minibatch noise drives the difference of squared norms along a rescaling symmetry, at a rate proportional to learning rate over batch size, to the point on the symmetry orbit where the gradient-noise traces of the two parameter groups are equal, whenever both groups carry noise; so at stationarity SGD neither keeps the difference fixed, as gradient flow does, nor lets it diffuse, as isotropic noise does, and differs from gradient descent by a finite amount however small the noise'
+title: 'SGD noise equalizes noise across symmetric groups'
+statement: >-
+  In the stochastic-differential-equation model of SGD, with a
+  gradient-noise covariance that depends on the parameters, minibatch noise
+  drives the difference of squared norms along a rescaling symmetry, at a
+  rate proportional to learning rate over batch size, to the point on the
+  symmetry orbit where the gradient-noise traces of the two parameter groups
+  are equal, whenever both groups carry noise; so at stationarity SGD
+  neither keeps the difference fixed, as gradient flow does, nor lets it
+  diffuse, as isotropic noise does, and differs from gradient descent by a
+  finite amount however small the noise
 version: 5
 history:
 - version: 2
@@ -74,7 +84,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-790 — Proposed; the wider claim this account was narrowed from, which extends it and is cited as open -->
 <!-- inactive-ok-file: THEORY-209 THEORY-210 — Proposed or Open; the accounts and question this one is set beside, open -->
 
-# THEORY-211: In the stochastic-differential-equation model of SGD, with a gradient-noise covariance that depends on the parameters, minibatch noise drives the difference of squared norms along a rescaling symmetry, at a rate proportional to learning rate over batch size, to the point on the symmetry orbit where the gradient-noise traces of the two parameter groups are equal, whenever both groups carry noise; so at stationarity SGD neither keeps the difference fixed, as gradient flow does, nor lets it diffuse, as isotropic noise does, and differs from gradient descent by a finite amount however small the noise
+# THEORY-211: SGD noise equalizes noise across symmetric groups
 
 ## Source
 

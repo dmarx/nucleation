@@ -3,7 +3,16 @@ number: 1125
 status: Active
 formerly:
 - THEORY-tmp2fevr
-title: 'For discrete X and Y, with an intervention on a variable abstraction T of X defined as the mixture of interventions on X weighted by Bayes inversion of the encoder under a protocol prior, no abstraction gains causal information about Y over X itself, and at full weight on causal control the causal information bottleneck is optimised by the partition of X by p(y | do(x)), mapped one class to one value of T, uniquely up to relabelling when T has exactly as many values as there are classes; these are Chalupka et al.''s causal macrovariables'
+title: 'Causal IB optimum is the causal macrovariables'
+statement: >-
+  For discrete X and Y, with an intervention on a variable abstraction T of
+  X defined as the mixture of interventions on X weighted by Bayes inversion
+  of the encoder under a protocol prior, no abstraction gains causal
+  information about Y over X itself, and at full weight on causal control
+  the causal information bottleneck is optimised by the partition of X by
+  p(y | do(x)), mapped one class to one value of T, uniquely up to
+  relabelling when T has exactly as many values as there are classes; these
+  are Chalupka et al.'s causal macrovariables
 version: 2
 history:
 - version: 2
@@ -33,7 +42,7 @@ bears_on:
 - QUESTION-346
 ---
 
-# THEORY-1125: For discrete X and Y, with an intervention on a variable abstraction T of X defined as the mixture of interventions on X weighted by Bayes inversion of the encoder under a protocol prior, no abstraction gains causal information about Y over X itself, and at full weight on causal control the causal information bottleneck is optimised by the partition of X by p(y | do(x)), mapped one class to one value of T, uniquely up to relabelling when T has exactly as many values as there are classes; these are Chalupka et al.'s causal macrovariables
+# THEORY-1125: Causal IB optimum is the causal macrovariables
 
 ## Source
 

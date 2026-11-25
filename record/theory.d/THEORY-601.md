@@ -3,7 +3,15 @@ number: 601
 status: Active
 formerly:
 - THEORY-tmpoqu2n
-title: "Among US undergraduates in the HERI surveys, students with higher verbal ability and stronger self-reported intellectual dispositions select into philosophy, and after adjusting for their entering SAT or freshman scores philosophy majors still score higher than other majors on GRE Verbal (SMD 0.48) and LSAT (0.35) but not on GRE Quantitative, and report more Habits of Mind and Pluralistic Orientation; the adjusted advantage is an association, not a shown effect of studying philosophy"
+title: 'Philosophy majors score higher, not shown causal'
+statement: >-
+  Among US undergraduates in the HERI surveys, students with higher verbal
+  ability and stronger self-reported intellectual dispositions select into
+  philosophy, and after adjusting for their entering SAT or freshman scores
+  philosophy majors still score higher than other majors on GRE Verbal (SMD
+  0.48) and LSAT (0.35) but not on GRE Quantitative, and report more Habits
+  of Mind and Pluralistic Orientation; the adjusted advantage is an
+  association, not a shown effect of studying philosophy
 version: 1
 tags:
 - social-science
@@ -24,7 +32,7 @@ summary: >-
   paper's causal title is not part of this account.
 ---
 
-# THEORY-601: Among US undergraduates in the HERI surveys, students with higher verbal ability and stronger self-reported intellectual dispositions select into philosophy, and after adjusting for their entering SAT or freshman scores philosophy majors still score higher than other majors on GRE Verbal (SMD 0.48) and LSAT (0.35) but not on GRE Quantitative, and report more Habits of Mind and Pluralistic Orientation; the adjusted advantage is an association, not a shown effect of studying philosophy
+# THEORY-601: Philosophy majors score higher, not shown causal
 
 ## Source
 

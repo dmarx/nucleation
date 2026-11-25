@@ -12,7 +12,12 @@ promote_when: >-
   for instance by an ablation that keeps the learned maps' magnitudes and
   scrambles their alignment. Benchmark accuracy alone, however high, does
   not settle it.
-title: 'A graph network that learns its sheaf restriction maps from node features succeeds on heterophilic graphs because it learns the class-aligned transports its separation theory prescribes: sign flips or rotations across classes, identity within them'
+title: 'Sheaf networks win by class-aligned transports'
+statement: >-
+  A graph network that learns its sheaf restriction maps from node features
+  succeeds on heterophilic graphs because it learns the class-aligned
+  transports its separation theory prescribes: sign flips or rotations
+  across classes, identity within them
 version: 1
 tags:
 - representation-learning
@@ -30,7 +35,7 @@ summary: >-
   graphs have this geometry, and whether accuracy depends on it, is open.
 ---
 
-# THEORY-1220: A graph network that learns its sheaf restriction maps from node features succeeds on heterophilic graphs because it learns the class-aligned transports its separation theory prescribes: sign flips or rotations across classes, identity within them
+# THEORY-1220: Sheaf networks win by class-aligned transports
 
 ## Source
 

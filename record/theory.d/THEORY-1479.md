@@ -3,7 +3,15 @@ number: 1479
 status: Active
 formerly:
 - THEORY-tmpfkxj7
-title: "Cesarini, Lindqvist, Notowidigdo and Östling find, in their 2015 working paper, using lottery prizes randomly assigned among Swedish players, that an unconditional wealth shock reduces the winner's gross labour earnings by about 1.1% of the prize a year, beginning in the year of the win and lasting more than ten years, mostly through fewer hours and varying little with age, sex, education or prize size; non-winning spouses reduce theirs by less than half as much, and the authors call the response modest"
+title: 'Lottery wealth modestly cuts labour earnings'
+statement: >-
+  Cesarini, Lindqvist, Notowidigdo and Östling find, in their 2015 working
+  paper, using lottery prizes randomly assigned among Swedish players, that
+  an unconditional wealth shock reduces the winner's gross labour earnings
+  by about 1.1% of the prize a year, beginning in the year of the win and
+  lasting more than ten years, mostly through fewer hours and varying little
+  with age, sex, education or prize size; non-winning spouses reduce theirs
+  by less than half as much, and the authors call the response modest
 version: 3
 history:
 - version: 2
@@ -68,7 +76,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: CLAIM-603 — Proposed or new; cited from the reading of Cesarini, Lindqvist, Notowidigdo and Östling (2015) as open -->
 
-# THEORY-1479: Cesarini, Lindqvist, Notowidigdo and Östling find, in their 2015 working paper, using lottery prizes randomly assigned among Swedish players, that an unconditional wealth shock reduces the winner's gross labour earnings by about 1.1% of the prize a year, beginning in the year of the win and lasting more than ten years, mostly through fewer hours and varying little with age, sex, education or prize size; non-winning spouses reduce theirs by less than half as much, and the authors call the response modest
+# THEORY-1479: Lottery wealth modestly cuts labour earnings
 
 ## Source
 

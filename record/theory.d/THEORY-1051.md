@@ -3,7 +3,20 @@ number: 1051
 status: Active
 formerly:
 - THEORY-tmpyk1k6
-title: 'In Athreya, Czuppon and Gokhale''s model of an incipient endosymbiosis, the partner with the larger and faster-growing population evolves faster and becomes fully obligate first, which the authors read as a Red King effect in which the collective''s shared fate aligns interests; with equal within-collective rates for both partners, the other partner''s dependence then stays where it was, rises to full dependence, or falls to none, according to whether partners are born or die inside the collective; and in its simulations dependence rose from zero at the higher collective carrying capacities tried and not at the lowest, under a condition the authors show sufficient and not necessary, so a full transition to a mutually dependent, co-reproducing pair is a parameter-dependent outcome and not the default'
+title: 'Mutual dependence is parameter-bound, not default'
+statement: >-
+  In Athreya, Czuppon and Gokhale's model of an incipient endosymbiosis, the
+  partner with the larger and faster-growing population evolves faster and
+  becomes fully obligate first, which the authors read as a Red King effect
+  in which the collective's shared fate aligns interests; with equal
+  within-collective rates for both partners, the other partner's dependence
+  then stays where it was, rises to full dependence, or falls to none,
+  according to whether partners are born or die inside the collective; and
+  in its simulations dependence rose from zero at the higher collective
+  carrying capacities tried and not at the lowest, under a condition the
+  authors show sufficient and not necessary, so a full transition to a
+  mutually dependent, co-reproducing pair is a parameter-dependent outcome
+  and not the default
 version: 3
 history:
 - version: 1
@@ -83,7 +96,7 @@ summary: >-
   inevitable outcome of the existence of a higher level of selection".
 ---
 <!-- inactive-ok-file: THEORY-141 THEORY-443 CASE-173 CASE-177 — Open or Proposed; the question, accounts and cases this is set beside, nothing here rests on them -->
-# THEORY-1051: In Athreya, Czuppon and Gokhale's model of an incipient endosymbiosis, the partner with the larger and faster-growing population evolves faster and becomes fully obligate first, which the authors read as a Red King effect in which the collective's shared fate aligns interests; with equal within-collective rates for both partners, the other partner's dependence then stays where it was, rises to full dependence, or falls to none, according to whether partners are born or die inside the collective; and in its simulations dependence rose from zero at the higher collective carrying capacities tried and not at the lowest, under a condition the authors show sufficient and not necessary, so a full transition to a mutually dependent, co-reproducing pair is a parameter-dependent outcome and not the default
+# THEORY-1051: Mutual dependence is parameter-bound, not default
 
 ## Source
 

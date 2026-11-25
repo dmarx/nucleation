@@ -12,7 +12,13 @@ promote_when: >-
   mass and not under one that does; and, for "integrable wave equation"
   beyond Benjamin–Ono, the corresponding KdV laws found in a read source
   (such as Ott and Sudan 1970) rather than only cited.
-title: 'A soliton of an integrable wave equation under weak loss does not break up but shrinks along its family of shapes at a rate set by energy balance, exponentially under linear damping and algebraically under viscous, Landau, boundary-layer and friction losses, while a shelf of non-soliton wave forms behind it wherever the loss does not conserve mass'
+title: 'Damped solitons shrink and shed a shelf'
+statement: >-
+  A soliton of an integrable wave equation under weak loss does not break up
+  but shrinks along its family of shapes at a rate set by energy balance,
+  exponentially under linear damping and algebraically under viscous,
+  Landau, boundary-layer and friction losses, while a shelf of non-soliton
+  wave forms behind it wherever the loss does not conserve mass
 version: 2
 history:
 - version: 2
@@ -42,7 +48,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-2210 — Unavailable or Proposed; cited from the reading of Grimshaw, Smyth & Stepanyants (2018) as open -->
 
-# THEORY-1509: A soliton of an integrable wave equation under weak loss does not break up but shrinks along its family of shapes at a rate set by energy balance, exponentially under linear damping and algebraically under viscous, Landau, boundary-layer and friction losses, while a shelf of non-soliton wave forms behind it wherever the loss does not conserve mass
+# THEORY-1509: Damped solitons shrink and shed a shelf
 
 ## Source
 

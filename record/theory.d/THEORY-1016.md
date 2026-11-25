@@ -15,7 +15,13 @@ promote_when: >-
   converge on one set as width grows, the same across seeds and penalties.
   More examples of features that look split, read from browsers, cannot
   settle it: that is the evidence it rests on now.
-title: 'The features a sparse autoencoder recovers from a language model are a resolution set by the dictionary''s width and sparsity penalty, not a unique set of the model''s units: as the dictionary widens, features split into families of finer features, and splits also merge, so that the number of features is not well-posed'
+title: 'SAE feature count is not well-posed'
+statement: >-
+  The features a sparse autoencoder recovers from a language model are a
+  resolution set by the dictionary's width and sparsity penalty, not a
+  unique set of the model's units: as the dictionary widens, features split
+  into families of finer features, and splits also merge, so that the number
+  of features is not well-posed
 version: 2
 history:
 - version: 1
@@ -54,7 +60,7 @@ summary: >-
 bears_on:
 - QUESTION-274
 ---
-# THEORY-1016: The features a sparse autoencoder recovers from a language model are a resolution set by the dictionary's width and sparsity penalty, not a unique set of the model's units: as the dictionary widens, features split into families of finer features, and splits also merge, so that the number of features is not well-posed
+# THEORY-1016: SAE feature count is not well-posed
 
 ## Source
 

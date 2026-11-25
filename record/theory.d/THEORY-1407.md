@@ -3,7 +3,16 @@ number: 1407
 status: Active
 formerly:
 - THEORY-tmpmcxbv
-title: 'Gopalan, Kolaitis, Maneva and Papadimitriou show that, for Boolean constraint languages with constants, deciding whether two solutions are joined by single-variable flips through solutions is either in polynomial time with components of linear diameter or PSPACE-complete with components of possibly exponential diameter, according to a property of the language that properly contains Schaefer''s tractable classes and does not follow the boundaries of Boolean clones, a boundary Schwerdtfeger later corrected slightly toward the hard side'
+title: 'Boolean CSP connectivity: P or PSPACE-complete'
+statement: >-
+  Gopalan, Kolaitis, Maneva and Papadimitriou show that, for Boolean
+  constraint languages with constants, deciding whether two solutions are
+  joined by single-variable flips through solutions is either in polynomial
+  time with components of linear diameter or PSPACE-complete with components
+  of possibly exponential diameter, according to a property of the language
+  that properly contains Schaefer's tractable classes and does not follow
+  the boundaries of Boolean clones, a boundary Schwerdtfeger later corrected
+  slightly toward the hard side
 version: 3
 history:
 - version: 2
@@ -50,7 +59,7 @@ bears_on:
 - QUESTION-377
 ---
 
-# THEORY-1407: Gopalan, Kolaitis, Maneva and Papadimitriou show that, for Boolean constraint languages with constants, deciding whether two solutions are joined by single-variable flips through solutions is either in polynomial time with components of linear diameter or PSPACE-complete with components of possibly exponential diameter, according to a property of the language that properly contains Schaefer's tractable classes and does not follow the boundaries of Boolean clones, a boundary Schwerdtfeger later corrected slightly toward the hard side
+# THEORY-1407: Boolean CSP connectivity: P or PSPACE-complete
 
 ## Source
 

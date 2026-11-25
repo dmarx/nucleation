@@ -13,7 +13,13 @@ promote_when: >-
   commitment, or if cultural differences before age three run against the
   sequence it predicts. Further contrasts with chimpanzees cannot settle it,
   since they do not separate commitment from collaboration.
-title: "The human sense of obligation is internalized pressure from a joint agent 'we' to do what 'we' expect of me; it appears around age three inside joint commitments, where children, unlike chimpanzees, protest, repair, take leave and share equally with a committed partner as they do not with others"
+title: 'Obligation is internalized joint-agent pressure'
+statement: >-
+  The human sense of obligation is internalized pressure from a joint agent
+  'we' to do what 'we' expect of me; it appears around age three inside
+  joint commitments, where children, unlike chimpanzees, protest, repair,
+  take leave and share equally with a committed partner as they do not with
+  others
 version: 1
 tags:
 - moral-psychology
@@ -31,7 +37,7 @@ summary: >-
   obliged to do, as the author concedes.
 ---
 
-# THEORY-495: The human sense of obligation is internalized pressure from a joint agent 'we' to do what 'we' expect of me; it appears around age three inside joint commitments, where children, unlike chimpanzees, protest, repair, take leave and share equally with a committed partner as they do not with others
+# THEORY-495: Obligation is internalized joint-agent pressure
 
 ## Source
 

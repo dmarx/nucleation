@@ -9,7 +9,13 @@ promote_when: >-
   of distractor branches with pattern size, and shows that whether the
   actuated creases' folding islands cover the sheet predicts folding
   success better than the number of actuators.
-title: 'Crease patterns designed with one folding motion inevitably have exponentially many distractor branches meeting at the flat state, created by frustrated loops of two-branch vertices, and the spatial placement of actuators, read through the cover of their folding islands, predicts folding success better than their number'
+title: 'Actuator placement predicts folding, not count'
+statement: >-
+  Crease patterns designed with one folding motion inevitably have
+  exponentially many distractor branches meeting at the flat state, created
+  by frustrated loops of two-branch vertices, and the spatial placement of
+  actuators, read through the cover of their folding islands, predicts
+  folding success better than their number
 version: 1
 tags:
 - natural-sciences
@@ -32,7 +38,7 @@ summary: >-
   descent, meshes up to 6 × 6, actuation on one 4 × 4 pattern.
 ---
 
-# THEORY-1528: Crease patterns designed with one folding motion inevitably have exponentially many distractor branches meeting at the flat state, created by frustrated loops of two-branch vertices, and the spatial placement of actuators, read through the cover of their folding islands, predicts folding success better than their number
+# THEORY-1528: Actuator placement predicts folding, not count
 
 ## Source
 

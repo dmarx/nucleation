@@ -9,7 +9,15 @@ promote_when: >-
   normed Adam or SGD transfers learning rates across width and depth on at
   least one reported architecture, and that Proposition 4's
   depth-independent sharpness holds for the 1/L residual construction.
-title: 'Large, Liu, Huh, Bahng, Isola and Bernstein define a modular norm on a network''s weights, built recursively from per-module norms, masses and sensitivities, in which each module''s contribution to the linearized change in output is bounded by its share of the total mass, zero mass freezing a module; normalizing updates in it made learning rates transfer across width and depth in their experiments, and a 1/L residual construction has depth-independent sharpness'
+title: 'Modular norm lets learning rates transfer'
+statement: >-
+  Large, Liu, Huh, Bahng, Isola and Bernstein define a modular norm on a
+  network's weights, built recursively from per-module norms, masses and
+  sensitivities, in which each module's contribution to the linearized
+  change in output is bounded by its share of the total mass, zero mass
+  freezing a module; normalizing updates in it made learning rates transfer
+  across width and depth in their experiments, and a 1/L residual
+  construction has depth-independent sharpness
 version: 1
 tags:
 - learning-theory
@@ -25,7 +33,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-775 THEORY-2136 THEORY-2139 — Proposed, Deferred or new; filed in this contribution of 2026-11-21 or the ones it builds on -->
 
-# THEORY-2138: Large, Liu, Huh, Bahng, Isola and Bernstein define a modular norm on a network's weights, built recursively from per-module norms, masses and sensitivities, in which each module's contribution to the linearized change in output is bounded by its share of the total mass, zero mass freezing a module; normalizing updates in it made learning rates transfer across width and depth in their experiments, and a 1/L residual construction has depth-independent sharpness
+# THEORY-2138: Modular norm lets learning rates transfer
 
 ## Source
 

@@ -3,7 +3,13 @@ number: 1565
 status: Active
 formerly:
 - THEORY-tmp1w1y9
-title: 'Luper argues that Epicurus''s case that death is nothing to us needs intrinsic hedonism and a narrow view of extrinsic harm, that without them death can harm by depriving one of goods, and reports Pitcher''s preferentialist view that posthumous events harm the living person by thwarting desires held while alive, a view the entry shows contested'
+title: 'Death can harm by deprivation'
+statement: >-
+  Luper argues that Epicurus's case that death is nothing to us needs
+  intrinsic hedonism and a narrow view of extrinsic harm, that without them
+  death can harm by depriving one of goods, and reports Pitcher's
+  preferentialist view that posthumous events harm the living person by
+  thwarting desires held while alive, a view the entry shows contested
 version: 2
 history:
 - version: 1
@@ -36,7 +42,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: LIT-1740 — Unavailable; the works, notes, questions and claims the reading cites, cited with their standing -->
 
-# THEORY-1565: Luper argues that Epicurus's case that death is nothing to us needs intrinsic hedonism and a narrow view of extrinsic harm, that without them death can harm by depriving one of goods, and reports Pitcher's preferentialist view that posthumous events harm the living person by thwarting desires held while alive, a view the entry shows contested
+# THEORY-1565: Death can harm by deprivation
 
 ## The account
 

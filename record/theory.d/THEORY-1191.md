@@ -3,7 +3,13 @@ number: 1191
 status: Proposed
 formerly:
 - THEORY-tmpvfbtz
-title: 'In a simulated active inference agent, a habit learned by counting the agent''s own state transitions and policy choices emerges from goal-directed behaviour, and once acquired it persists, and reinforces itself, after the reward is devalued, while an agent devalued before acquisition switches at once'
+title: 'Active-inference habits persist after devaluation'
+statement: >-
+  In a simulated active inference agent, a habit learned by counting the
+  agent's own state transitions and policy choices emerges from
+  goal-directed behaviour, and once acquired it persists, and reinforces
+  itself, after the reward is devalued, while an agent devalued before
+  acquisition switches at once
 version: 1
 tags:
 - learning-and-conditioning
@@ -33,7 +39,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: ADR-047 — Superseded by ADR-057, which keeps its evidence rulings; cited for the kind-1 rule this entry is filed under -->
 
-# THEORY-1191: In a simulated active inference agent, a habit learned by counting the agent's own state transitions and policy choices emerges from goal-directed behaviour, and once acquired it persists, and reinforces itself, after the reward is devalued, while an agent devalued before acquisition switches at once
+# THEORY-1191: Active-inference habits persist after devaluation
 
 ## Source
 

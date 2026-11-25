@@ -3,7 +3,17 @@ number: 1454
 status: Active
 formerly:
 - THEORY-tmpynb4z
-title: 'Majikes and colleagues find, in a single-fold DNA origami model measured by FRET melting with affine baseline correction, that closing a fold with an already anchored staple is unimolecular and more stable than bimolecular binding of the same domain, and that the fold''s melting temperature falls as fold distance grows, by up to more than 10 °C from short to long, through a configurational-entropy cost; from this they infer, without testing it, that origami folds by nucleation and growth, a staple''s longest domain binding first and short, entropically cheap folds then making neighbouring folds cheaper'
+title: 'Anchored folds are stabler; distance costs'
+statement: >-
+  Majikes and colleagues find, in a single-fold DNA origami model measured
+  by FRET melting with affine baseline correction, that closing a fold with
+  an already anchored staple is unimolecular and more stable than
+  bimolecular binding of the same domain, and that the fold's melting
+  temperature falls as fold distance grows, by up to more than 10 °C from
+  short to long, through a configurational-entropy cost; from this they
+  infer, without testing it, that origami folds by nucleation and growth, a
+  staple's longest domain binding first and short, entropically cheap folds
+  then making neighbouring folds cheaper
 version: 2
 history:
 - version: 2
@@ -56,7 +66,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-2278 — new; filed by the lead run of 2026-11-23 -->
 
-# THEORY-1454: Majikes and colleagues find, in a single-fold DNA origami model measured by FRET melting with affine baseline correction, that closing a fold with an already anchored staple is unimolecular and more stable than bimolecular binding of the same domain, and that the fold's melting temperature falls as fold distance grows, by up to more than 10 °C from short to long, through a configurational-entropy cost; from this they infer, without testing it, that origami folds by nucleation and growth, a staple's longest domain binding first and short, entropically cheap folds then making neighbouring folds cheaper
+# THEORY-1454: Anchored folds are stabler; distance costs
 
 ## Source
 

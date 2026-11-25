@@ -16,7 +16,14 @@ promote_when: >-
   under isotropic noise. A failure of the SDE approximation at the learning
   rates used would limit it, not refute it. More solvable toy models cannot
   settle it.
-title: In deep networks trained by SGD on real data, minibatch noise drives parameter groups related by a rescaling symmetry toward the point where their gradient noise balances, at a rate set by learning rate over batch size, so that at stationarity they sit neither where gradient flow would leave them nor spread out as under isotropic noise, as Ziyin, Li and Ueda propose
+title: 'SGD noise balances rescaling-symmetric groups'
+statement: >-
+  In deep networks trained by SGD on real data, minibatch noise drives
+  parameter groups related by a rescaling symmetry toward the point where
+  their gradient noise balances, at a rate set by learning rate over batch
+  size, so that at stationarity they sit neither where gradient flow would
+  leave them nor spread out as under isotropic noise, as Ziyin, Li and Ueda
+  propose
 version: 1
 tags:
 - learning-theory
@@ -40,7 +47,7 @@ summary: >-
   data, which no measurement in the record yet supports.
 ---
 
-# THEORY-790: In deep networks trained by SGD on real data, minibatch noise drives parameter groups related by a rescaling symmetry toward the point where their gradient noise balances, at a rate set by learning rate over batch size, so that at stationarity they sit neither where gradient flow would leave them nor spread out as under isotropic noise, as Ziyin, Li and Ueda propose
+# THEORY-790: SGD noise balances rescaling-symmetric groups
 
 ## Source
 

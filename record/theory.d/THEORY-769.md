@@ -21,7 +21,12 @@ promote_when: >-
   plausibility as body parts. A further review that re-describes the
   illusions in these terms cannot settle it: the source grants the
   account fits the findings without the findings requiring it.
-title: "Ownership of a body part is a graded belief that it is the most probable common cause of correlated multisensory input, so that synchronous stimulation of another object moves some of that belief to the object and away from the real part"
+title: 'Body ownership is causal inference'
+statement: >-
+  Ownership of a body part is a graded belief that it is the most probable
+  common cause of correlated multisensory input, so that synchronous
+  stimulation of another object moves some of that belief to the object and
+  away from the real part
 version: 2
 history:
 - version: 2
@@ -53,7 +58,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-765 THEORY-767 — Proposed; filed from the same batch, named -->
 <!-- inactive-ok-file: THEORY-064 — Proposed; accounts this one is compared with, not leaned on -->
 
-# THEORY-769: Ownership of a body part is a graded belief that it is the most probable common cause of correlated multisensory input, so that synchronous stimulation of another object moves some of that belief to the object and away from the real part
+# THEORY-769: Body ownership is causal inference
 
 ## Source
 

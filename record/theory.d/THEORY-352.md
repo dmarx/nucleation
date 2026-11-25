@@ -3,7 +3,13 @@ number: 352
 status: Active
 formerly:
 - THEORY-tmppgbfq
-title: "A pseudorandom generator exists if and only if a one-way function exists, where both are secure against uniform adversaries and every reduction is an oracle Turing machine, as statements about ensembles indexed by n; the construction from an arbitrary one-way function is only weak-preserving, so security at one length is bought at a much greater one"
+title: 'PRGs exist iff one-way functions exist'
+statement: >-
+  A pseudorandom generator exists if and only if a one-way function exists,
+  where both are secure against uniform adversaries and every reduction is
+  an oracle Turing machine, as statements about ensembles indexed by n; the
+  construction from an arbitrary one-way function is only weak-preserving,
+  so security at one length is bought at a much greater one
 version: 2
 history:
 - version: 2
@@ -35,7 +41,7 @@ bears_on:
 - QUESTION-110
 ---
 
-# THEORY-352: A pseudorandom generator exists if and only if a one-way function exists, where both are secure against uniform adversaries and every reduction is an oracle Turing machine, as statements about ensembles indexed by n; the construction from an arbitrary one-way function is only weak-preserving, so security at one length is bought at a much greater one
+# THEORY-352: PRGs exist iff one-way functions exist
 
 ## Source
 

@@ -3,7 +3,16 @@ number: 1762
 status: Proposed
 formerly:
 - THEORY-tmph4vkf
-title: 'Herrmannsdoerfer, Benz and Juergens propose that a modeling language be evolved as a recorded sequence of coupled transactions, each pairing a metamodel adaptation with the migration of existing models — reusable library operations for recurring changes, custom ones for metamodel-specific changes — from which a migrator can be generated, and report that in the reconstructed histories of the GMF and PCM metamodels nearly all coupled changes were covered by reusable operations, with only a handful of custom migrations needed.'
+title: 'Coupled transactions cover metamodel evolution'
+statement: >-
+  Herrmannsdoerfer, Benz and Juergens propose that a modeling language be
+  evolved as a recorded sequence of coupled transactions, each pairing a
+  metamodel adaptation with the migration of existing models — reusable
+  library operations for recurring changes, custom ones for
+  metamodel-specific changes — from which a migrator can be generated, and
+  report that in the reconstructed histories of the GMF and PCM metamodels
+  nearly all coupled changes were covered by reusable operations, with only
+  a handful of custom migrations needed.
 version: 1
 tags:
 - databases
@@ -23,7 +32,7 @@ summary: >-
   its promote_when is met.
 ---
 
-# THEORY-1762: Herrmannsdoerfer, Benz and Juergens propose that a modeling language be evolved as a recorded sequence of coupled transactions, each pairing a metamodel adaptation with the migration of existing models — reusable library operations for recurring changes, custom ones for metamodel-specific changes — from which a migrator can be generated, and report that in the reconstructed histories of the GMF and PCM metamodels nearly all coupled changes were covered by reusable operations, with only a handful of custom migrations needed.
+# THEORY-1762: Coupled transactions cover metamodel evolution
 
 ## The account
 

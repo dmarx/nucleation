@@ -3,7 +3,13 @@ number: 407
 status: Active
 formerly:
 - THEORY-tmp13a2u
-title: "For a log-integrable linear cocycle over an ergodic probability-preserving system, vectors grow at finitely many exponential rates along an invariant flag, and for isometries of a proper metric space with integrable displacement the linear drift is detected by a horofunction, with no curvature assumed"
+title: 'Oseledets and drift hold with no curvature'
+statement: >-
+  For a log-integrable linear cocycle over an ergodic probability-preserving
+  system, vectors grow at finitely many exponential rates along an invariant
+  flag, and for isometries of a proper metric space with integrable
+  displacement the linear drift is detected by a horofunction, with no
+  curvature assumed
 version: 1
 tags:
 - mathematics
@@ -24,7 +30,7 @@ summary: >-
 
 <!-- inactive-ok-file: THEORY-325 — Proposed; named in Connections for contrast, not leaned on -->
 
-# THEORY-407: For a log-integrable linear cocycle over an ergodic probability-preserving system, vectors grow at finitely many exponential rates along an invariant flag, and for isometries of a proper metric space with integrable displacement the linear drift is detected by a horofunction, with no curvature assumed
+# THEORY-407: Oseledets and drift hold with no curvature
 
 ## Source
 

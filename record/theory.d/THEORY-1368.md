@@ -10,7 +10,13 @@ promote_when: >-
   randomly placed links that the density of maximum internal degrees of
   freedom, connectivity percolation and rigidity percolation are distinct
   and ordered ρ_i < ρ_c < ρ_r.
-title: 'Chen, Choi and Mahadevan show that in a quad kirigami sheet read as a linkage the fewest links that rigidify the sheet always outnumber the fewest that connect it, and that under random links the maximum of internal mechanisms, connectivity percolation and rigidity percolation fall at distinct link densities in that order'
+title: 'Kirigami rigidity needs more links than connection'
+statement: >-
+  Chen, Choi and Mahadevan show that in a quad kirigami sheet read as a
+  linkage the fewest links that rigidify the sheet always outnumber the
+  fewest that connect it, and that under random links the maximum of
+  internal mechanisms, connectivity percolation and rigidity percolation
+  fall at distinct link densities in that order
 version: 2
 history:
 - version: 2
@@ -42,7 +48,7 @@ bears_on:
 - QUESTION-377
 ---
 
-# THEORY-1368: Chen, Choi and Mahadevan show that in a quad kirigami sheet read as a linkage the fewest links that rigidify the sheet always outnumber the fewest that connect it, and that under random links the maximum of internal mechanisms, connectivity percolation and rigidity percolation fall at distinct link densities in that order
+# THEORY-1368: Kirigami rigidity needs more links than connection
 
 ## Source
 

@@ -3,7 +3,16 @@ number: 623
 status: Active
 formerly:
 - THEORY-tmpr96be
-title: "In the two tests of contextuality in language data that the record has read, the contextuality is put there by the experimenter or not secured: meaning-selection models of ambiguous phrases estimated from corpora are all signalling and their two Contextuality-by-Default verdicts are plausibly noncontextual by their own bootstrap, while BERT's 52 million anaphora models have a support fixed by the sentence schema, so whether each counts as contextual depends only on how uncertain the model's three referent choices are"
+title: 'Language-data contextuality is not secured'
+statement: >-
+  In the two tests of contextuality in language data that the record has
+  read, the contextuality is put there by the experimenter or not secured:
+  meaning-selection models of ambiguous phrases estimated from corpora are
+  all signalling and their two Contextuality-by-Default verdicts are
+  plausibly noncontextual by their own bootstrap, while BERT's 52 million
+  anaphora models have a support fixed by the sentence schema, so whether
+  each counts as contextual depends only on how uncertain the model's three
+  referent choices are
 version: 2
 history:
 - version: 2
@@ -39,7 +48,7 @@ bears_on:
 <!-- inactive-ok-file: CLAIM-009 CLAIM-037 CLAIM-044 — Proposed; named for what these readings bear on, cited as open -->
 <!-- inactive-ok-file: CASE-417 CLAIM-1176 CLAIM-1164 — new; filed by the lead run of 2026-11-23 -->
 
-# THEORY-623: In the two tests of contextuality in language data that the record has read, the contextuality is put there by the experimenter or not secured: meaning-selection models of ambiguous phrases estimated from corpora are all signalling and their two Contextuality-by-Default verdicts are plausibly noncontextual by their own bootstrap, while BERT's 52 million anaphora models have a support fixed by the sentence schema, so whether each counts as contextual depends only on how uncertain the model's three referent choices are
+# THEORY-623: Language-data contextuality is not secured
 
 ## Source
 

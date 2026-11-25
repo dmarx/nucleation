@@ -3,7 +3,14 @@ number: 2046
 status: Proposed
 formerly:
 - THEORY-tmpsw2ct
-title: 'Finn, Abbeel and Levine show that training a network''s initial parameters on the loss after one or a few gradient steps on each of many tasks from a declared task distribution, rather than on the loss at those parameters, yields an initialization that adapts to new tasks from that distribution from a handful of examples where joint pretraining on the same tasks does not'
+title: 'MAML trains initializations for fast adaptation'
+statement: >-
+  Finn, Abbeel and Levine show that training a network's initial parameters
+  on the loss after one or a few gradient steps on each of many tasks from a
+  declared task distribution, rather than on the loss at those parameters,
+  yields an initialization that adapts to new tasks from that distribution
+  from a handful of examples where joint pretraining on the same tasks does
+  not
 version: 1
 source:
 - LIT-2816
@@ -37,7 +44,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-756 CLAIM-758 — Proposed; cited in this filing of 2026-11-19 -->
 
-# THEORY-2046: Finn, Abbeel and Levine show that training a network's initial parameters on the loss after one or a few gradient steps on each of many tasks from a declared task distribution, rather than on the loss at those parameters, yields an initialization that adapts to new tasks from that distribution from a handful of examples where joint pretraining on the same tasks does not
+# THEORY-2046: MAML trains initializations for fast adaptation
 
 ## The account
 

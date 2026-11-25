@@ -3,7 +3,17 @@ number: 1101
 status: Active
 formerly:
 - THEORY-tmpbinho
-title: 'Tobiasson, Luo, Wolf and Koonin find, on 5,850 eukaryotic gene stems, that normalized stem length does not behave as a clock of acquisition time: alphaproteobacterial stems are longer than Asgard ones for the 70% of stems below 0.3 and shorter only above 0.35, oxidative-phosphorylation genes presumed acquired together vary by more than two orders of magnitude, and information-processing genes have short stems; they conclude that even normalized stem lengths are set primarily by factors other than acquisition time, at least over the long timescales analysed, and suggest that adaptation after acquisition lengthens stems'
+title: 'Stem length is not an acquisition clock'
+statement: >-
+  Tobiasson, Luo, Wolf and Koonin find, on 5,850 eukaryotic gene stems, that
+  normalized stem length does not behave as a clock of acquisition time:
+  alphaproteobacterial stems are longer than Asgard ones for the 70% of
+  stems below 0.3 and shorter only above 0.35, oxidative-phosphorylation
+  genes presumed acquired together vary by more than two orders of
+  magnitude, and information-processing genes have short stems; they
+  conclude that even normalized stem lengths are set primarily by factors
+  other than acquisition time, at least over the long timescales analysed,
+  and suggest that adaptation after acquisition lengthens stems
 version: 3
 history:
 - version: 1
@@ -83,7 +93,7 @@ summary: >-
   other grounds.
 ---
 <!-- inactive-ok-file: THEORY-1201 — Proposed; filed beside this reading by the twenty-second status review: the wider thesis it reports -->
-# THEORY-1101: Tobiasson, Luo, Wolf and Koonin find, on 5,850 eukaryotic gene stems, that normalized stem length does not behave as a clock of acquisition time: alphaproteobacterial stems are longer than Asgard ones for the 70% of stems below 0.3 and shorter only above 0.35, oxidative-phosphorylation genes presumed acquired together vary by more than two orders of magnitude, and information-processing genes have short stems; they conclude that even normalized stem lengths are set primarily by factors other than acquisition time, at least over the long timescales analysed, and suggest that adaptation after acquisition lengthens stems
+# THEORY-1101: Stem length is not an acquisition clock
 
 ## Source
 

@@ -11,7 +11,16 @@ promote_when: >-
   and the channeling at A = 1/1000 up to a tilt of about π/9, with a
   velocity-angle spread growing more slowly than L^1/2, is reproduced or
   shown with its error in a read source.
-title: 'Chang and co-authors imprint designed, anisotropic correlated disorder on nematic liquid-crystal films by photoalignment and observe branched flow of light whose first-branch distance, read from the scintillation index over about ten fabricated films, grows with anisotropy and falls with rotation of the principal axis in agreement with df ∝ ε^−2/3 A^4/3 lx (cos²α + sin²α/A²)^5/6, and at anisotropy 1/1000 channels the light along the long correlation axis with sub-diffusive growth of its velocity-angle spread'
+title: 'Anisotropic disorder steers branched light flow'
+statement: >-
+  Chang and co-authors imprint designed, anisotropic correlated disorder on
+  nematic liquid-crystal films by photoalignment and observe branched flow
+  of light whose first-branch distance, read from the scintillation index
+  over about ten fabricated films, grows with anisotropy and falls with
+  rotation of the principal axis in agreement with df ∝ ε^−2/3 A^4/3 lx
+  (cos²α + sin²α/A²)^5/6, and at anisotropy 1/1000 channels the light along
+  the long correlation axis with sub-diffusive growth of its velocity-angle
+  spread
 version: 1
 tags:
 - natural-sciences
@@ -30,7 +39,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1873 — Proposed or Skimmed entries of this filing -->
 
-# THEORY-1875: Chang and co-authors imprint designed, anisotropic correlated disorder on nematic liquid-crystal films by photoalignment and observe branched flow of light whose first-branch distance, read from the scintillation index over about ten fabricated films, grows with anisotropy and falls with rotation of the principal axis in agreement with df ∝ ε^−2/3 A^4/3 lx (cos²α + sin²α/A²)^5/6, and at anisotropy 1/1000 channels the light along the long correlation axis with sub-diffusive growth of its velocity-angle spread
+# THEORY-1875: Anisotropic disorder steers branched light flow
 
 Chang et al. (2026), [LIT-2639](../literature.d/LIT-2639.md); read in [NOTE-1956](../notes.d/NOTE-1956.md).
 

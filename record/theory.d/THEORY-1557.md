@@ -9,7 +9,11 @@ promote_when: >-
   of all three types, together with a check that the two folding modes
   meet only at the flat state of a developable vertex and are disjoint
   when the sector angles do not sum to 2π.
-title: 'Foschi, Hull and Ku hold that the two folding modes of a degree-4 rigid origami vertex whose sector angles do not sum to 2π are disconnected, because such a vertex has no state with every folding angle zero'
+title: 'Non-flat degree-4 vertex modes are disconnected'
+statement: >-
+  Foschi, Hull and Ku hold that the two folding modes of a degree-4 rigid
+  origami vertex whose sector angles do not sum to 2π are disconnected,
+  because such a vertex has no state with every folding angle zero
 version: 1
 history:
 - version: 1
@@ -35,7 +39,7 @@ summary: >-
   folding angles at ±π. Read in full in [NOTE-1606](../notes.d/NOTE-1606.md).
 ---
 
-# THEORY-1557: Foschi, Hull and Ku hold that the two folding modes of a degree-4 rigid origami vertex whose sector angles do not sum to 2π are disconnected, because such a vertex has no state with every folding angle zero
+# THEORY-1557: Non-flat degree-4 vertex modes are disconnected
 
 ## Source
 

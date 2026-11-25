@@ -13,7 +13,13 @@ promote_when: >-
   option's implications, which the book does not do. Further bizarre
   theories cannot promote it: the claim generalizes over the theories
   actually developed, and adding to the list only lengthens the induction.
-title: "Every well-developed theory of how mind fits into the cosmos is bizarre, contrary to what most people confidently believe, and none is epistemically compelling, because common sense about the metaphysics of mind is incoherent; so no coarse position, materialism included, deserves credence much above 50%"
+title: 'Every theory of mind is bizarre, none compels'
+statement: >-
+  Every well-developed theory of how mind fits into the cosmos is bizarre,
+  contrary to what most people confidently believe, and none is
+  epistemically compelling, because common sense about the metaphysics of
+  mind is incoherent; so no coarse position, materialism included, deserves
+  credence much above 50%
 version: 1
 tags:
 - metaphysics
@@ -35,7 +41,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-023 THEORY-043 THEORY-125 — Proposed; accounts that cite this book or its US chapter, named as neighbours, not leaned on -->
 
-# THEORY-506: Every well-developed theory of how mind fits into the cosmos is bizarre, contrary to what most people confidently believe, and none is epistemically compelling, because common sense about the metaphysics of mind is incoherent; so no coarse position, materialism included, deserves credence much above 50%
+# THEORY-506: Every theory of mind is bizarre, none compels
 
 ## Source
 

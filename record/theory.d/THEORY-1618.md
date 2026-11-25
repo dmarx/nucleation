@@ -3,7 +3,13 @@ number: 1618
 status: Active
 formerly:
 - THEORY-tmptv9vu
-title: 'Horsthemke argues that human studies of germline epigenetic inheritance can exclude genetic inheritance but not ecological or cultural inheritance, proposes a three-step standard of proof that he grants can hardly be met in humans, and classifies the Dutch Hunger Winter effects as fetal programming'
+title: 'Human epigenetic inheritance can hardly be proven'
+statement: >-
+  Horsthemke argues that human studies of germline epigenetic inheritance
+  can exclude genetic inheritance but not ecological or cultural
+  inheritance, proposes a three-step standard of proof that he grants can
+  hardly be met in humans, and classifies the Dutch Hunger Winter effects as
+  fetal programming
 version: 2
 history:
 - version: 1
@@ -39,7 +45,7 @@ bears_on:
 - QUESTION-297
 ---
 
-# THEORY-1618: Horsthemke argues that human studies of germline epigenetic inheritance can exclude genetic inheritance but not ecological or cultural inheritance, proposes a three-step standard of proof that he grants can hardly be met in humans, and classifies the Dutch Hunger Winter effects as fetal programming
+# THEORY-1618: Human epigenetic inheritance can hardly be proven
 
 ## The account
 

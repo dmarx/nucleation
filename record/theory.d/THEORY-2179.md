@@ -8,7 +8,15 @@ promote_when: >-
   sandpile that the avalanche-size distribution is a power law whose
   cutoff grows with lattice size, reached from generic initial conditions
   with no tuned parameter.
-title: "Bak, Tang and Wiesenfeld propose that spatially extended threshold systems in two or more dimensions relax to a critical state as an attractor, with no parameter tuned, because relaxation stops where clusters of minimally stable sites cease to percolate; in a sandpile automaton they find power-law cluster sizes (τ ≈ 0.98 in 2D, 1.35 in 3D) cut off by the system size, and spectra ω^(−1.58) and ω^(−1.1), and conjecture that this is the common mechanism of 1/f noise and fractals"
+title: 'Threshold systems self-organize to criticality'
+statement: >-
+  Bak, Tang and Wiesenfeld propose that spatially extended threshold systems
+  in two or more dimensions relax to a critical state as an attractor, with
+  no parameter tuned, because relaxation stops where clusters of minimally
+  stable sites cease to percolate; in a sandpile automaton they find
+  power-law cluster sizes (τ ≈ 0.98 in 2D, 1.35 in 3D) cut off by the system
+  size, and spectra ω^(−1.58) and ω^(−1.1), and conjecture that this is the
+  common mechanism of 1/f noise and fractals
 version: 1
 tags:
 - complex-systems
@@ -35,7 +43,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-803 — Proposed; the claim that holds the shape-only inference insufficient -->
 <!-- inactive-ok-file: CLAIM-841 CLAIM-858 ARG-178 ARG-181 — Proposed or new; the claim this reading corroborates, the reproduction and the arguments filed with it -->
 
-# THEORY-2179: Bak, Tang and Wiesenfeld propose that spatially extended threshold systems in two or more dimensions relax to a critical state as an attractor, with no parameter tuned, because relaxation stops where clusters of minimally stable sites cease to percolate; in a sandpile automaton they find power-law cluster sizes (τ ≈ 0.98 in 2D, 1.35 in 3D) cut off by the system size, and spectra ω^(−1.58) and ω^(−1.1), and conjecture that this is the common mechanism of 1/f noise and fractals
+# THEORY-2179: Threshold systems self-organize to criticality
 
 ## Source
 

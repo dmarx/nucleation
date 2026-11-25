@@ -14,7 +14,15 @@ promote_when: >-
   re-founded from members alone without their interaction structure. The
   promised model of community reliability, or further definitions and
   illustrations, cannot settle it.
-title: "A collective becomes a new level of individuality, on this sketch, only when collaboration toward a shared goal, rather than coordination or cooperation, organizes it and some core interactions have become generatively entrenched and, as the paper asserts without deriving it from entrenchment, it has organizational closure; such a community can then be reproduced only by exporting an organized sample of its roles and interactions, not of its members alone"
+title: 'New individuality needs collaboration and closure'
+statement: >-
+  A collective becomes a new level of individuality, on this sketch, only
+  when collaboration toward a shared goal, rather than coordination or
+  cooperation, organizes it and some core interactions have become
+  generatively entrenched and, as the paper asserts without deriving it from
+  entrenchment, it has organizational closure; such a community can then be
+  reproduced only by exporting an organized sample of its roles and
+  interactions, not of its members alone
 version: 4
 history:
 - version: 2
@@ -69,7 +77,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-188 — Proposed: read in full; the sketch this account states, filed as Proposed for the same reason -->
 <!-- inactive-ok-file: LIT-005 LIT-049 — Proposed: read in full and unproven; named as rival emphases on individuality, not leaned on -->
 
-# THEORY-418: A collective becomes a new level of individuality, on this sketch, only when collaboration toward a shared goal, rather than coordination or cooperation, organizes it and some core interactions have become generatively entrenched and, as the paper asserts without deriving it from entrenchment, it has organizational closure; such a community can then be reproduced only by exporting an organized sample of its roles and interactions, not of its members alone
+# THEORY-418: New individuality needs collaboration and closure
 
 ## Source
 

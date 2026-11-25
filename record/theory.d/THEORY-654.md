@@ -3,7 +3,13 @@ number: 654
 status: Active
 formerly:
 - THEORY-tmpwb4fb
-title: "For full-state linear-quadratic regulation of a single-input plant, the return-difference identity keeps the sensitivity at or below 1 at every frequency, so the loop tolerates any gain increase, a gain cut to one half and at least 60° of phase error for any Q ≥ 0 and r > 0; the guarantee does not carry over when the state is replaced by an observer's estimate"
+title: 'LQR has ≥60° margin, lost with observers'
+statement: >-
+  For full-state linear-quadratic regulation of a single-input plant, the
+  return-difference identity keeps the sensitivity at or below 1 at every
+  frequency, so the loop tolerates any gain increase, a gain cut to one half
+  and at least 60° of phase error for any Q ≥ 0 and r > 0; the guarantee
+  does not carry over when the state is replaced by an observer's estimate
 version: 1
 tags:
 - mathematics
@@ -24,7 +30,7 @@ summary: >-
 
 <!-- inactive-ok-file: THEORY-325 — Proposed; named in Connections for contrast, not leaned on -->
 
-# THEORY-654: For full-state linear-quadratic regulation of a single-input plant, the return-difference identity keeps the sensitivity at or below 1 at every frequency, so the loop tolerates any gain increase, a gain cut to one half and at least 60° of phase error for any Q ≥ 0 and r > 0; the guarantee does not carry over when the state is replaced by an observer's estimate
+# THEORY-654: LQR has ≥60° margin, lost with observers
 
 ## Source
 

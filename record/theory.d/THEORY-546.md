@@ -17,7 +17,14 @@ promote_when: >-
   the cobbler, the day-man and the night-man) cannot settle it: they work
   only on a reader who already agrees where the person goes, and a
   brute-physical view reads them otherwise.
-title: "A person persists by psychological continuity, not by sameness of substance or of the human animal; Locke's sameness of consciousness, which he leaves undefined, meets the charges of circularity, intransitivity and gaps when recast as overlapping chains of causally dependent psychological states with quasi-memory, and fission then needs either a clause against branching or multiple occupancy"
+title: 'Persons persist by psychological continuity'
+statement: >-
+  A person persists by psychological continuity, not by sameness of
+  substance or of the human animal; Locke's sameness of consciousness, which
+  he leaves undefined, meets the charges of circularity, intransitivity and
+  gaps when recast as overlapping chains of causally dependent psychological
+  states with quasi-memory, and fission then needs either a clause against
+  branching or multiple occupancy
 version: 2
 history:
 - version: 2
@@ -57,7 +64,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-447 THEORY-531 THEORY-650 THEORY-681 — Proposed; filed in the same batch and named as a rival, a parallel or a contrast, not leaned on -->
 
-# THEORY-546: A person persists by psychological continuity, not by sameness of substance or of the human animal; Locke's sameness of consciousness, which he leaves undefined, meets the charges of circularity, intransitivity and gaps when recast as overlapping chains of causally dependent psychological states with quasi-memory, and fission then needs either a clause against branching or multiple occupancy
+# THEORY-546: Persons persist by psychological continuity
 
 ## Source
 

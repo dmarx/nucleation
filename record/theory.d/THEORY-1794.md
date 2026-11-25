@@ -3,7 +3,15 @@ number: 1794
 status: Proposed
 formerly:
 - THEORY-tmpsx3qh
-title: 'Chi et al. (2026) report that on AI4AI-Bench, ten frozen research repositories whose training algorithm an agent may rewrite in four hours and which are then retrained and scored by a hidden fixed evaluator, 29 configurations of six LLM agent systems averaged 0.166 on a scale where the shipped algorithm scores 0.1 and the optimum 1.0, and fewer than half of classifiable submissions changed how the model learns rather than how the run was executed.'
+title: 'Agents rarely improve how models learn'
+statement: >-
+  Chi et al. (2026) report that on AI4AI-Bench, ten frozen research
+  repositories whose training algorithm an agent may rewrite in four hours
+  and which are then retrained and scored by a hidden fixed evaluator, 29
+  configurations of six LLM agent systems averaged 0.166 on a scale where
+  the shipped algorithm scores 0.1 and the optimum 1.0, and fewer than half
+  of classifiable submissions changed how the model learns rather than how
+  the run was executed.
 version: 1
 tags:
 - agency
@@ -22,7 +30,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-1794: Chi et al. (2026) report that on AI4AI-Bench, ten frozen research repositories whose training algorithm an agent may rewrite in four hours and which are then retrained and scored by a hidden fixed evaluator, 29 configurations of six LLM agent systems averaged 0.166 on a scale where the shipped algorithm scores 0.1 and the optimum 1.0, and fewer than half of classifiable submissions changed how the model learns rather than how the run was executed.
+# THEORY-1794: Agents rarely improve how models learn
 
 ## The account
 

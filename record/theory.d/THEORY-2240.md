@@ -11,7 +11,13 @@ promote_when: >-
   the five-corpus result confirmed by rerunning the published code on the
   same corpora. A study measuring the neighbours' range of use rather
   than frequency would test a different claim and does not meet this.
-title: 'In five diachronic corpora, a sharply rising word''s frequency gain is offset by losses among its nearest distributional neighbours more often when the frequency of its topic is stable than when it is rising, a significant association in each corpus explaining up to 11% of the variance beyond lexical controls'
+title: 'Rising words displace neighbours if topic stable'
+statement: >-
+  In five diachronic corpora, a sharply rising word's frequency gain is
+  offset by losses among its nearest distributional neighbours more often
+  when the frequency of its topic is stable than when it is rising, a
+  significant association in each corpus explaining up to 11% of the
+  variance beyond lexical controls
 version: 1
 tags:
 - linguistics
@@ -31,7 +37,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-159 — Proposed; the account whose test LEAD-056 looks for -->
 
-# THEORY-2240: In five diachronic corpora, a sharply rising word's frequency gain is offset by losses among its nearest distributional neighbours more often when the frequency of its topic is stable than when it is rising, a significant association in each corpus explaining up to 11% of the variance beyond lexical controls
+# THEORY-2240: Rising words displace neighbours if topic stable
 
 ## Source
 

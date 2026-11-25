@@ -3,7 +3,15 @@ number: 1920
 status: Proposed
 formerly:
 - THEORY-tmp97bfr
-title: 'Alfrink, Keller, Kortuem and Doorn synthesize the contestable-AI literature into a design framework of five system features and six development practices, holding that automated decision systems should be open to human intervention throughout their lifecycle: before a decision takes effect through built-in safeguards, interactive control and ex-ante contestation of design choices, and after it through review and intervention requests, which are necessarily post hoc'
+title: 'AI decisions should be contestable throughout'
+statement: >-
+  Alfrink, Keller, Kortuem and Doorn synthesize the contestable-AI
+  literature into a design framework of five system features and six
+  development practices, holding that automated decision systems should be
+  open to human intervention throughout their lifecycle: before a decision
+  takes effect through built-in safeguards, interactive control and ex-ante
+  contestation of design choices, and after it through review and
+  intervention requests, which are necessarily post hoc
 version: 1
 tags:
 - society-and-governance
@@ -20,7 +28,7 @@ bears_on:
 - QUESTION-471
 ---
 <!-- inactive-ok-file: LIT-2676 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
-# THEORY-1920: Alfrink, Keller, Kortuem and Doorn synthesize the contestable-AI literature into a design framework of five system features and six development practices, holding that automated decision systems should be open to human intervention throughout their lifecycle: before a decision takes effect through built-in safeguards, interactive control and ex-ante contestation of design choices, and after it through review and intervention requests, which are necessarily post hoc
+# THEORY-1920: AI decisions should be contestable throughout
 
 ## Source
 

@@ -3,7 +3,14 @@ number: 319
 status: Active
 formerly:
 - THEORY-tmpqpbhy
-title: 'When two views are redundant for a label, the predictor that infers one view from the other is within εX + 2√(εXεZ) + εZ of the Bayes predictor in mean squared error, and it is linear in the contrastive density ratio, so for a bounded label and a square-integrable ratio a linear readout of m random evaluations of the exact ratio approaches it at rate 1/m, with no symmetry between the views required'
+title: 'Contrastive ratio''s linear readout nears Bayes'
+statement: >-
+  When two views are redundant for a label, the predictor that infers one
+  view from the other is within εX + 2√(εXεZ) + εZ of the Bayes predictor in
+  mean squared error, and it is linear in the contrastive density ratio, so
+  for a bounded label and a square-integrable ratio a linear readout of m
+  random evaluations of the exact ratio approaches it at rate 1/m, with no
+  symmetry between the views required
 version: 3
 history:
 - version: 2
@@ -46,7 +53,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-001 THEORY-005 — Proposed; accounts this one bears on, not leaned on -->
 
-# THEORY-319: When two views are redundant for a label, the predictor that infers one view from the other is within εX + 2√(εXεZ) + εZ of the Bayes predictor in mean squared error, and it is linear in the contrastive density ratio, so for a bounded label and a square-integrable ratio a linear readout of m random evaluations of the exact ratio approaches it at rate 1/m, with no symmetry between the views required
+# THEORY-319: Contrastive ratio's linear readout nears Bayes
 
 ## Source
 

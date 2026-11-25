@@ -14,7 +14,16 @@ promote_when: >-
   do not reach reciprocity in most runs, or do not settle at the mixed
   equilibrium of matching pennies. A result about more players, deeper
   shaping or asymmetric capacity neither promotes nor refutes it.
-title: 'A learner that ascends its own return after one anticipated naive gradient step of its opponent, differentiating through that step, reached tit-for-tat-like reciprocity in 81% of fifty exact-gradient runs of the memory-one iterated prisoner''s dilemma, where pairs of naive gradient learners ended at the mutual-defection return, and settled at the mixed equilibrium of iterated matching pennies where naive learners did not converge; shown for two players, one-step shaping and access to the opponent''s parameters'
+title: 'Opponent shaping reaches tit-for-tat'
+statement: >-
+  A learner that ascends its own return after one anticipated naive gradient
+  step of its opponent, differentiating through that step, reached
+  tit-for-tat-like reciprocity in 81% of fifty exact-gradient runs of the
+  memory-one iterated prisoner's dilemma, where pairs of naive gradient
+  learners ended at the mutual-defection return, and settled at the mixed
+  equilibrium of iterated matching pennies where naive learners did not
+  converge; shown for two players, one-step shaping and access to the
+  opponent's parameters
 version: 1
 tags:
 - game-theory
@@ -31,7 +40,7 @@ summary: >-
   not square with their return (−1.98), and the NOTE says so.
 ---
 
-# THEORY-931: A learner that ascends its own return after one anticipated naive gradient step of its opponent, differentiating through that step, reached tit-for-tat-like reciprocity in 81% of fifty exact-gradient runs of the memory-one iterated prisoner's dilemma, where pairs of naive gradient learners ended at the mutual-defection return, and settled at the mixed equilibrium of iterated matching pennies where naive learners did not converge; shown for two players, one-step shaping and access to the opponent's parameters
+# THEORY-931: Opponent shaping reaches tit-for-tat
 
 ## Source
 

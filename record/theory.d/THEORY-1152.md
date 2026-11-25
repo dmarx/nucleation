@@ -3,7 +3,16 @@ number: 1152
 status: Active
 formerly:
 - THEORY-tmptcy1h
-title: 'Between two weighted directed networks with node measures, the Gromov–Wasserstein distance is bounded below by a hierarchy of invariants, each in an in-going and an out-going version, and the strongest of them, a transport problem whose costs are themselves transport problems, equals a transport problem whose costs are one-dimensional Wasserstein distances between the nodes'' weight profiles, so it is computed in closed form; the bounds are one-sided, and two networks can agree on all of them while being at positive distance'
+title: 'Strongest GW lower bound has a closed form'
+statement: >-
+  Between two weighted directed networks with node measures, the
+  Gromov–Wasserstein distance is bounded below by a hierarchy of invariants,
+  each in an in-going and an out-going version, and the strongest of them, a
+  transport problem whose costs are themselves transport problems, equals a
+  transport problem whose costs are one-dimensional Wasserstein distances
+  between the nodes' weight profiles, so it is computed in closed form; the
+  bounds are one-sided, and two networks can agree on all of them while
+  being at positive distance
 version: 1
 tags:
 - network-science
@@ -21,7 +30,7 @@ summary: >-
   bound zero is at dN,2 ≥ 0.215 (the record's construction).
 ---
 
-# THEORY-1152: Between two weighted directed networks with node measures, the Gromov–Wasserstein distance is bounded below by a hierarchy of invariants, each in an in-going and an out-going version, and the strongest of them, a transport problem whose costs are themselves transport problems, equals a transport problem whose costs are one-dimensional Wasserstein distances between the nodes' weight profiles, so it is computed in closed form; the bounds are one-sided, and two networks can agree on all of them while being at positive distance
+# THEORY-1152: Strongest GW lower bound has a closed form
 
 ## Source
 

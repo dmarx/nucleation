@@ -3,7 +3,13 @@ number: 1596
 status: Active
 formerly:
 - THEORY-tmpefw5s
-title: 'Pembrey, Saffery and Bygren report that in the Överkalix cohorts a paternal grandparent''s mid-childhood food supply was associated, sex-specifically, with grandchildren''s mortality, and argue from the exposure''s sensitive period that cultural or genetic inheritance alone is unlikely to explain it, while granting that replication is needed'
+title: 'Grandparental diet tracks grandchild mortality'
+statement: >-
+  Pembrey, Saffery and Bygren report that in the Överkalix cohorts a
+  paternal grandparent's mid-childhood food supply was associated,
+  sex-specifically, with grandchildren's mortality, and argue from the
+  exposure's sensitive period that cultural or genetic inheritance alone is
+  unlikely to explain it, while granting that replication is needed
 version: 2
 history:
 - version: 1
@@ -37,7 +43,7 @@ bears_on:
 - QUESTION-297
 ---
 
-# THEORY-1596: Pembrey, Saffery and Bygren report that in the Överkalix cohorts a paternal grandparent's mid-childhood food supply was associated, sex-specifically, with grandchildren's mortality, and argue from the exposure's sensitive period that cultural or genetic inheritance alone is unlikely to explain it, while granting that replication is needed
+# THEORY-1596: Grandparental diet tracks grandchild mortality
 
 ## The account
 

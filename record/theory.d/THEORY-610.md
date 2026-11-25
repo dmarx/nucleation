@@ -14,7 +14,14 @@ promote_when: >-
   equations were lost while their ontology was kept, or if structure cannot
   be separated from content without trivialising the claim. One more case
   like Fresnel's, chosen because it fits, cannot settle it.
-title: "What survives radical theory change in a mature science, and so what its predictive success warrants belief in, is mathematical structure, equations carried over intact or recovered as limiting cases, and not the ontology that interpreted them, as Fresnel's reflection and refraction equations survive into Maxwell's theory while the elastic-solid ether does not"
+title: 'Structure, not ontology, survives theory change'
+statement: >-
+  What survives radical theory change in a mature science, and so what its
+  predictive success warrants belief in, is mathematical structure,
+  equations carried over intact or recovered as limiting cases, and not the
+  ontology that interpreted them, as Fresnel's reflection and refraction
+  equations survive into Maxwell's theory while the elastic-solid ether does
+  not
 version: 1
 tags:
 - philosophy-of-science
@@ -36,7 +43,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-594 THEORY-690 — Proposed; named as later or analogous accounts, not leaned on -->
 <!-- inactive-ok-file: LIT-342 — Unavailable; named as the later ontic turn, not leaned on -->
 
-# THEORY-610: What survives radical theory change in a mature science, and so what its predictive success warrants belief in, is mathematical structure, equations carried over intact or recovered as limiting cases, and not the ontology that interpreted them, as Fresnel's reflection and refraction equations survive into Maxwell's theory while the elastic-solid ether does not
+# THEORY-610: Structure, not ontology, survives theory change
 
 ## Source
 

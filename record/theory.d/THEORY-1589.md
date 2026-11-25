@@ -3,7 +3,14 @@ number: 1589
 status: Active
 formerly:
 - THEORY-tmpa81lt
-title: 'Pinter and Greenwald report that four minimal-group inductions produced comparable explicit in-group liking and identification, and the three compared on it comparable allocation favouritism, that only memorizing one group''s names produced large implicit self-association with and preference for that group, and that implicit self-association and liking were related but separable'
+title: 'Only name memorization made implicit in-group bias'
+statement: >-
+  Pinter and Greenwald report that four minimal-group inductions produced
+  comparable explicit in-group liking and identification, and the three
+  compared on it comparable allocation favouritism, that only memorizing one
+  group's names produced large implicit self-association with and preference
+  for that group, and that implicit self-association and liking were related
+  but separable
 version: 2
 history:
 - version: 1
@@ -44,7 +51,7 @@ bears_on:
 - QUESTION-300
 ---
 
-# THEORY-1589: Pinter and Greenwald report that four minimal-group inductions produced comparable explicit in-group liking and identification, and the three compared on it comparable allocation favouritism, that only memorizing one group's names produced large implicit self-association with and preference for that group, and that implicit self-association and liking were related but separable
+# THEORY-1589: Only name memorization made implicit in-group bias
 
 ## The account
 

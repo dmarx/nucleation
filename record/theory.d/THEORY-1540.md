@@ -9,7 +9,11 @@ promote_when: >-
   waterbirds' numbers or reproductive success falling, compared with
   wetlands where management continues, so that their stability is shown
   to depend on the management continuing.
-title: 'Without perpetual active management of invasive plants, predators and water levels in Hawai''i''s wetlands, the endangered Coot, Stilt and Gallinule would decline'
+title: 'Hawai''i wetland birds need perpetual management'
+statement: >-
+  Without perpetual active management of invasive plants, predators and
+  water levels in Hawai'i's wetlands, the endangered Coot, Stilt and
+  Gallinule would decline
 version: 1
 tags:
 - ecology
@@ -27,7 +31,7 @@ summary: >-
   under the condition [THEORY-1489](THEORY-1489.md) carried, word for word.
 ---
 
-# THEORY-1540: Without perpetual active management of invasive plants, predators and water levels in Hawai'i's wetlands, the endangered Coot, Stilt and Gallinule would decline
+# THEORY-1540: Hawai'i wetland birds need perpetual management
 
 ## Source
 

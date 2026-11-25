@@ -15,7 +15,13 @@ promote_when: >-
   procedure, the two theories prescribe the same acts in every case. The
   author's reflective-equilibrium judgements, and more statements of the
   replies, cannot settle it.
-title: "Rule-consequentialism that ranks codes by the expected good of teaching them to, and having them accepted by, new generations does not collapse into act-consequentialism, because teaching and internalisation costs favour codes simpler and less demanding than act-by-act optimisation, which therefore sometimes require sub-optimal acts"
+title: 'Rule-consequentialism doesn''t collapse into act'
+statement: >-
+  Rule-consequentialism that ranks codes by the expected good of teaching
+  them to, and having them accepted by, new generations does not collapse
+  into act-consequentialism, because teaching and internalisation costs
+  favour codes simpler and less demanding than act-by-act optimisation,
+  which therefore sometimes require sub-optimal acts
 version: 1
 tags:
 - ethics
@@ -35,7 +41,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-411 — Proposed; related or rival accounts named in Connections, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-186 — Unavailable; a related work named by the reading, not leaned on for its content -->
 
-# THEORY-467: Rule-consequentialism that ranks codes by the expected good of teaching them to, and having them accepted by, new generations does not collapse into act-consequentialism, because teaching and internalisation costs favour codes simpler and less demanding than act-by-act optimisation, which therefore sometimes require sub-optimal acts
+# THEORY-467: Rule-consequentialism doesn't collapse into act
 
 ## Source
 

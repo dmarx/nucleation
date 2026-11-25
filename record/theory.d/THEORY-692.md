@@ -3,7 +3,14 @@ number: 692
 status: Active
 formerly:
 - THEORY-tmpyw70u
-title: "Near equilibrium, steady states minimise entropy production and every fluctuation decays; far from it, the excess entropy production has no fixed sign, so a fluctuation can grow past an instability of the thermodynamic branch into a structure held up only by flows across the boundary, and thermodynamics supplies only a sufficient condition for such a state's stability, not a principle selecting which structure appears"
+title: 'Far from equilibrium, fluctuations can grow'
+statement: >-
+  Near equilibrium, steady states minimise entropy production and every
+  fluctuation decays; far from it, the excess entropy production has no
+  fixed sign, so a fluctuation can grow past an instability of the
+  thermodynamic branch into a structure held up only by flows across the
+  boundary, and thermodynamics supplies only a sufficient condition for such
+  a state's stability, not a principle selecting which structure appears
 version: 1
 tags:
 - complex-systems
@@ -27,7 +34,7 @@ summary: >-
 <!-- inactive-ok-file: NOTE-418 — Skimmed; the second source is a skim, and the account is stated from the sections it read -->
 <!-- inactive-ok-file: THEORY-072 THEORY-412 THEORY-532 THEORY-671 — Proposed; candidate selection principles and a neighbouring account named for context, nothing here rests on their being settled -->
 
-# THEORY-692: Near equilibrium, steady states minimise entropy production and every fluctuation decays; far from it, the excess entropy production has no fixed sign, so a fluctuation can grow past an instability of the thermodynamic branch into a structure held up only by flows across the boundary, and thermodynamics supplies only a sufficient condition for such a state's stability, not a principle selecting which structure appears
+# THEORY-692: Far from equilibrium, fluctuations can grow
 
 ## Source
 

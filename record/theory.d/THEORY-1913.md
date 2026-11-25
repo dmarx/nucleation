@@ -3,7 +3,12 @@ number: 1913
 status: Proposed
 formerly:
 - THEORY-tmp3lp58
-title: 'Freyd proposes, as a speculative hypothesis from observation, that a frequent response of an abuser who is held accountable is DARVO, to deny, attack the accuser''s credibility and reverse the roles of victim and offender, while holding that denial alone is not evidence of guilt'
+title: 'DARVO may be a common abuser response'
+statement: >-
+  Freyd proposes, as a speculative hypothesis from observation, that a
+  frequent response of an abuser who is held accountable is DARVO, to deny,
+  attack the accuser's credibility and reverse the roles of victim and
+  offender, while holding that denial alone is not evidence of guilt
 version: 1
 tags:
 - social-science
@@ -17,7 +22,7 @@ source:
 - LIT-2680
 ---
 
-# THEORY-1913: Freyd proposes, as a speculative hypothesis from observation, that a frequent response of an abuser who is held accountable is DARVO, to deny, attack the accuser's credibility and reverse the roles of victim and offender, while holding that denial alone is not evidence of guilt
+# THEORY-1913: DARVO may be a common abuser response
 
 ## Source
 

@@ -22,7 +22,12 @@ promote_when: >-
   group and not only to its members. More examples of actions whose
   origin is odd (hypnosis, manipulation) cannot settle it, since the
   chapter makes activity indifferent to origin by design.
-title: "The unity that makes a movement an agent's action is achieved by conformity to the constitutive norms of agency, not given by the causal unity of a mind, so collective agents are agents in the same sense as individual ones"
+title: 'Collective agents are agents in the same sense'
+statement: >-
+  The unity that makes a movement an agent's action is achieved by
+  conformity to the constitutive norms of agency, not given by the causal
+  unity of a mind, so collective agents are agents in the same sense as
+  individual ones
 version: 1
 tags:
 - agency
@@ -54,7 +59,7 @@ answers:
 <!-- inactive-ok-file: LIT-597 LIT-477 — Unavailable; Self-Constitution and Gilbert, named as the unread works that would move this, not leaned on -->
 <!-- inactive-ok-file: THEORY-029 THEORY-040 THEORY-043 THEORY-076 THEORY-075 — Proposed; the accounts this one bears on, named in prose, nothing here rests on them -->
 
-# THEORY-065: The unity that makes a movement an agent's action is achieved by conformity to the constitutive norms of agency, not given by the causal unity of a mind, so collective agents are agents in the same sense as individual ones
+# THEORY-065: Collective agents are agents in the same sense
 
 ## Which unity this is about
 

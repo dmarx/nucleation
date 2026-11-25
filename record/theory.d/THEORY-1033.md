@@ -3,7 +3,16 @@ number: 1033
 status: Active
 formerly:
 - THEORY-tmpwtgvz
-title: 'In a 16-layer transformer language model trained on WikiText-103, the training prefixes that most activate a sampled feed-forward hidden unit share patterns that human annotators recognize, mostly shallow in layers 1–9 and semantic in layers 10–16; projected through the output embedding, a unit''s output weights put the next token of its top prefix first in up to about 3.5% of units in the upper layers and almost none below; and a layer''s top prediction differs from every unit''s in at least about 68% of examples'
+title: 'FF keys show patterns; values rarely predict'
+statement: >-
+  In a 16-layer transformer language model trained on WikiText-103, the
+  training prefixes that most activate a sampled feed-forward hidden unit
+  share patterns that human annotators recognize, mostly shallow in layers
+  1–9 and semantic in layers 10–16; projected through the output embedding,
+  a unit's output weights put the next token of its top prefix first in up
+  to about 3.5% of units in the upper layers and almost none below; and a
+  layer's top prediction differs from every unit's in at least about 68% of
+  examples
 version: 1
 history:
 - version: 1
@@ -29,7 +38,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1030 THEORY-1011 — Proposed; the general reading drawn from these results and the storage hypothesis it is not evidence for, cited as open -->
 
-# THEORY-1033: In a 16-layer transformer language model trained on WikiText-103, the training prefixes that most activate a sampled feed-forward hidden unit share patterns that human annotators recognize, mostly shallow in layers 1–9 and semantic in layers 10–16; projected through the output embedding, a unit's output weights put the next token of its top prefix first in up to about 3.5% of units in the upper layers and almost none below; and a layer's top prediction differs from every unit's in at least about 68% of examples
+# THEORY-1033: FF keys show patterns; values rarely predict
 
 ## Source
 

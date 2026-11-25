@@ -3,7 +3,11 @@ number: 171
 status: Active
 formerly:
 - THEORY-tmpquo32
-title: 'When the causal constraints on events depend on context, deterministic assignments that are causal in each context can fail to glue into one causal assignment, so causal structure is itself a source of contextuality'
+title: 'Causal structure is a source of contextuality'
+statement: >-
+  When the causal constraints on events depend on context, deterministic
+  assignments that are causal in each context can fail to glue into one
+  causal assignment, so causal structure is itself a source of contextuality
 version: 5
 history:
 - version: 2
@@ -73,7 +77,7 @@ bounds:
 
 <!-- inactive-ok-file: LIT-813 — Superseded; the withdrawn predecessor, whose sheaf claim this account corrects -->
 
-# THEORY-171: When the causal constraints on events depend on context, deterministic assignments that are causal in each context can fail to glue into one causal assignment, so causal structure is itself a source of contextuality
+# THEORY-171: Causal structure is a source of contextuality
 
 ## Source
 

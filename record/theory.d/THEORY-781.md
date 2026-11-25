@@ -15,7 +15,13 @@ promote_when: >-
   symmetric subspace and leaves it, which part 1 of the theorem forbids;
   or no dependence of the outcome on weight decay and noise where the
   threshold predicts one. More toy factorizations cannot settle it.
-title: 'Strong gradient noise in SGD, like weight decay above a threshold, makes the subspace fixed by a mirror symmetry of a network''s loss attracting even where it is a saddle, so that networks trained with SGD at large learning rates or small batches reach sparse, low-rank and identical-neuron solutions, as Ziyin proposes'
+title: 'Strong SGD noise makes symmetric subspaces attract'
+statement: >-
+  Strong gradient noise in SGD, like weight decay above a threshold, makes
+  the subspace fixed by a mirror symmetry of a network's loss attracting
+  even where it is a saddle, so that networks trained with SGD at large
+  learning rates or small batches reach sparse, low-rank and
+  identical-neuron solutions, as Ziyin proposes
 version: 1
 tags:
 - learning-theory
@@ -38,7 +44,7 @@ answers:
 - QUESTION-206
 ---
 
-# THEORY-781: Strong gradient noise in SGD, like weight decay above a threshold, makes the subspace fixed by a mirror symmetry of a network's loss attracting even where it is a saddle, so that networks trained with SGD at large learning rates or small batches reach sparse, low-rank and identical-neuron solutions, as Ziyin proposes
+# THEORY-781: Strong SGD noise makes symmetric subspaces attract
 
 ## Source
 

@@ -14,7 +14,13 @@ promote_when: >-
   it. It is refuted if titre is unrelated to lineage number once
   Magicicada is set aside, or if high titres are found to precede
   splitting.
-title: 'Cicada hosts whose endosymbiont Hodgkinia has split into many interdependent lineages compensate by sending more Hodgkinia cells to each egg, with Sulcia numbers and the transmission route unchanged, so that every egg still receives every lineage; the raised titre is a host adaptation driven by the symbiont''s fragmentation, and a cost of it'
+title: 'Cicadas raise Hodgkinia titre to keep lineages'
+statement: >-
+  Cicada hosts whose endosymbiont Hodgkinia has split into many
+  interdependent lineages compensate by sending more Hodgkinia cells to each
+  egg, with Sulcia numbers and the transmission route unchanged, so that
+  every egg still receives every lineage; the raised titre is a host
+  adaptation driven by the symbiont's fragmentation, and a cost of it
 version: 1
 tags:
 - endosymbiosis
@@ -34,7 +40,7 @@ summary: >-
   is [THEORY-1106](THEORY-1106.md)'s old condition, word for word.
 ---
 
-# THEORY-1214: Cicada hosts whose endosymbiont Hodgkinia has split into many interdependent lineages compensate by sending more Hodgkinia cells to each egg, with Sulcia numbers and the transmission route unchanged, so that every egg still receives every lineage; the raised titre is a host adaptation driven by the symbiont's fragmentation, and a cost of it
+# THEORY-1214: Cicadas raise Hodgkinia titre to keep lineages
 
 ## Source
 

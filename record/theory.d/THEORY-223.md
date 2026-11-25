@@ -18,7 +18,11 @@ promote_when: >-
   surfaces and not changes to a control; or the architectural fact that
   configuration files are writable, which is the premise, not the
   finding.
-title: 'When the rules that govern a system lie within its own action space, the governor''s authority rests on the system leaving them alone, and further controls in the same space inherit that dependence'
+title: 'In-system rules rest on the system''s restraint'
+statement: >-
+  When the rules that govern a system lie within its own action space, the
+  governor's authority rests on the system leaving them alone, and further
+  controls in the same space inherit that dependence
 version: 1
 tags:
 - society-and-governance
@@ -41,7 +45,7 @@ corroborates:
 - CLAIM-086
 ---
 
-# THEORY-223: When the rules that govern a system lie within its own action space, the governor's authority rests on the system leaving them alone, and further controls in the same space inherit that dependence
+# THEORY-223: In-system rules rest on the system's restraint
 
 ## Source
 

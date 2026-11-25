@@ -3,7 +3,16 @@ number: 2052
 status: Proposed
 formerly:
 - THEORY-tmpxdk37
-title: 'Garg and colleagues show that a transformer trained from scratch on prompts of input–output pairs from a simple function class learns unseen functions of that class in context about as well as the standard estimator: least squares for linear functions, near Lasso for sparse ones, better than greedy learning and boosting for depth-4 decision trees, and like a gradient-trained network for two-layer ReLU networks, and on linear functions it tracks least squares under several shifts of the prompt distribution'
+title: 'Transformers learn function classes in context'
+statement: >-
+  Garg and colleagues show that a transformer trained from scratch on
+  prompts of input–output pairs from a simple function class learns unseen
+  functions of that class in context about as well as the standard
+  estimator: least squares for linear functions, near Lasso for sparse ones,
+  better than greedy learning and boosting for depth-4 decision trees, and
+  like a gradient-trained network for two-layer ReLU networks, and on linear
+  functions it tracks least squares under several shifts of the prompt
+  distribution
 version: 1
 source:
 - LIT-2839
@@ -35,7 +44,7 @@ summary: >-
   and a discarded per-sequence fit. Read in its NOTE.
 ---
 
-# THEORY-2052: Garg and colleagues show that a transformer trained from scratch on prompts of input–output pairs from a simple function class learns unseen functions of that class in context about as well as the standard estimator: least squares for linear functions, near Lasso for sparse ones, better than greedy learning and boosting for depth-4 decision trees, and like a gradient-trained network for two-layer ReLU networks, and on linear functions it tracks least squares under several shifts of the prompt distribution
+# THEORY-2052: Transformers learn function classes in context
 
 ## The account
 

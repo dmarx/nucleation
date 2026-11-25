@@ -3,7 +3,14 @@ number: 1342
 status: Active
 formerly:
 - THEORY-tmpu6kk8
-title: 'In Transformer attention the weights each query puts on the positions depend only on query–key compatibility, softmax(QKᵀ/√d_k), and the output is those weights applied to the values, so for a fixed input what a head selects and what it transports are separate factors; because queries, keys and values are all projections of the same input, the separation holds only with the input, and so the pattern, held fixed'
+title: 'Selection and transport split only for fixed input'
+statement: >-
+  In Transformer attention the weights each query puts on the positions
+  depend only on query–key compatibility, softmax(QKᵀ/√d_k), and the output
+  is those weights applied to the values, so for a fixed input what a head
+  selects and what it transports are separate factors; because queries, keys
+  and values are all projections of the same input, the separation holds
+  only with the input, and so the pattern, held fixed
 version: 1
 tags:
 - representation-learning
@@ -20,7 +27,7 @@ summary: >-
   the separation survives composition across layers.
 ---
 
-# THEORY-1342: In Transformer attention the weights each query puts on the positions depend only on query–key compatibility, softmax(QKᵀ/√d_k), and the output is those weights applied to the values, so for a fixed input what a head selects and what it transports are separate factors; because queries, keys and values are all projections of the same input, the separation holds only with the input, and so the pattern, held fixed
+# THEORY-1342: Selection and transport split only for fixed input
 
 ## Source
 

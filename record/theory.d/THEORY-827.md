@@ -27,8 +27,12 @@ promote_when: "A first-hand reading of a rubber hand study in which participants
 
 # The claim. Repeat it as the body's `# THEORY-827:` heading; the lint checks
 # that the two agree.
-title: "The rubber hand illusion is a perceptual illusion driven by multisensory integration: the difference in reports between synchronous and asynchronous brushing is produced by the stimulation, not by participants' expectations"
-
+title: 'Rubber hand illusion isn''t driven by expectation'
+statement: >-
+  The rubber hand illusion is a perceptual illusion driven by multisensory
+  integration: the difference in reports between synchronous and
+  asynchronous brushing is produced by the stimulation, not by participants'
+  expectations
 version: 1
 
 # One or more topics from luria.yaml, primary first — the same table the
@@ -69,7 +73,7 @@ extends:
 <!-- inactive-ok-file: THEORY-769 — Proposed; the inference account named in Connections, not leaned on -->
 <!-- inactive-ok-file: THEORY-765 — Rejected; the earlier stimulation account this one does not revive, named -->
 
-# THEORY-827: The rubber hand illusion is a perceptual illusion driven by multisensory integration: the difference in reports between synchronous and asynchronous brushing is produced by the stimulation, not by participants' expectations
+# THEORY-827: Rubber hand illusion isn't driven by expectation
 
 ## Source
 

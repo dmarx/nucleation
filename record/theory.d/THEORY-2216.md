@@ -3,7 +3,16 @@ number: 2216
 status: Proposed
 formerly:
 - THEORY-tmpyc2wm
-title: 'Mulgan (2018) argues that the only account of corporate agency that is temporally robust, giving people in credible broken and digital futures the concepts to resist domination by corporate groups, is moralised extreme collectivism: moral agency only for corporate groups reliably disposed to respond appropriately to moral reasons, full moral personhood open in principle to the sophisticated among them, and a group with no mechanism for moral reasons irredeemably psychopathic and without moral standing'
+title: 'Corporate agency must be moralised collectivism'
+statement: >-
+  Mulgan (2018) argues that the only account of corporate agency that is
+  temporally robust, giving people in credible broken and digital futures
+  the concepts to resist domination by corporate groups, is moralised
+  extreme collectivism: moral agency only for corporate groups reliably
+  disposed to respond appropriately to moral reasons, full moral personhood
+  open in principle to the sophisticated among them, and a group with no
+  mechanism for moral reasons irredeemably psychopathic and without moral
+  standing
 version: 1
 source:
 - LIT-1874
@@ -33,7 +42,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-1429 LIT-1432 — Unavailable; Velasquez's papers, reported here second-hand -->
 <!-- inactive-ok-file: CLAIM-431 CLAIM-432 — Proposed; the positions this one is set beside -->
 
-# THEORY-2216: Mulgan (2018) argues that the only account of corporate agency that is temporally robust, giving people in credible broken and digital futures the concepts to resist domination by corporate groups, is moralised extreme collectivism: moral agency only for corporate groups reliably disposed to respond appropriately to moral reasons, full moral personhood open in principle to the sophisticated among them, and a group with no mechanism for moral reasons irredeemably psychopathic and without moral standing
+# THEORY-2216: Corporate agency must be moralised collectivism
 
 ## The account
 

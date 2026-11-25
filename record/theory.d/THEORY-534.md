@@ -3,7 +3,13 @@ number: 534
 status: Active
 formerly:
 - THEORY-tmph943x
-title: "The optimality of maximum likelihood was never one theorem: each historical proof holds under conditions its author left implicit, and of the classical counterexamples the practically important one is a parameter count growing with the sample, while Hodges-type superefficiency is confined to a set of measure zero"
+title: 'ML optimality was never one theorem'
+statement: >-
+  The optimality of maximum likelihood was never one theorem: each
+  historical proof holds under conditions its author left implicit, and of
+  the classical counterexamples the practically important one is a parameter
+  count growing with the sample, while Hodges-type superefficiency is
+  confined to a set of measure zero
 version: 1
 tags:
 - mathematical-statistics
@@ -23,7 +29,7 @@ summary: >-
   modern overparameterized models beyond one hedged warning.
 ---
 
-# THEORY-534: The optimality of maximum likelihood was never one theorem: each historical proof holds under conditions its author left implicit, and of the classical counterexamples the practically important one is a parameter count growing with the sample, while Hodges-type superefficiency is confined to a set of measure zero
+# THEORY-534: ML optimality was never one theorem
 
 ## Source
 

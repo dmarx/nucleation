@@ -3,7 +3,14 @@ number: 1598
 status: Active
 formerly:
 - THEORY-tmpfks4b
-title: 'Reimer, Schmid, Hewstone and Al Ramiah present self-categorization as placing oneself in a social category, hierarchical in level and salient by accessibility and fit, and social identification as a separate, multidimensional relation to the group whose components need not covary, and conclude that these identity processes alone do not explain negative intergroup attitudes'
+title: 'Identity processes alone don''t explain prejudice'
+statement: >-
+  Reimer, Schmid, Hewstone and Al Ramiah present self-categorization as
+  placing oneself in a social category, hierarchical in level and salient by
+  accessibility and fit, and social identification as a separate,
+  multidimensional relation to the group whose components need not covary,
+  and conclude that these identity processes alone do not explain negative
+  intergroup attitudes
 version: 2
 history:
 - version: 1
@@ -34,7 +41,7 @@ bears_on:
 - QUESTION-300
 ---
 
-# THEORY-1598: Reimer, Schmid, Hewstone and Al Ramiah present self-categorization as placing oneself in a social category, hierarchical in level and salient by accessibility and fit, and social identification as a separate, multidimensional relation to the group whose components need not covary, and conclude that these identity processes alone do not explain negative intergroup attitudes
+# THEORY-1598: Identity processes alone don't explain prejudice
 
 ## The account
 

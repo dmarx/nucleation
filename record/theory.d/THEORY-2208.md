@@ -12,7 +12,14 @@ promote_when: >-
   and prior valence are controlled. The title asserts no lag shorter than
   the sampling interval, so a positivity found minutes after flow does not
   defeat it.
-title: 'Engeser and Baumann find by experience sampling of 100 employees that flow goes with positive activation and, moderately, with valence at the same signal, that flow at one signal does not predict valence at the next once concurrent flow and prior valence are controlled, that leisure has better valence and less negative activation than work though flow is highest at work, and that perceived outcome importance raises flow and lowers valence'
+title: 'Flow doesn''t predict later valence'
+statement: >-
+  Engeser and Baumann find by experience sampling of 100 employees that flow
+  goes with positive activation and, moderately, with valence at the same
+  signal, that flow at one signal does not predict valence at the next once
+  concurrent flow and prior valence are controlled, that leisure has better
+  valence and less negative activation than work though flow is highest at
+  work, and that perceived outcome importance raises flow and lowers valence
 version: 1
 tags:
 - emotion-and-affect
@@ -35,7 +42,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-2207 LIT-3072 CLAIM-441 — new or Proposed; the work, its reading, the companion reading, the unread contrary study and the claims it bears on -->
 
-# THEORY-2208: Engeser and Baumann find by experience sampling of 100 employees that flow goes with positive activation and, moderately, with valence at the same signal, that flow at one signal does not predict valence at the next once concurrent flow and prior valence are controlled, that leisure has better valence and less negative activation than work though flow is highest at work, and that perceived outcome importance raises flow and lowers valence
+# THEORY-2208: Flow doesn't predict later valence
 
 ## Source
 

@@ -3,7 +3,15 @@ number: 1490
 status: Active
 formerly:
 - THEORY-tmpsljm6
-title: 'Hankins, Hoekstra and Skiba find that Florida lottery winners of 50,000 to 150,000 dollars were about half as likely as winners of under 10,000 dollars to file for bankruptcy in the two years after winning but more likely to file three to five years after, so that over five years no difference in bankruptcy was detected, and that the large winners who filed had similar net assets and unsecured debt, from which the authors conclude that large cash transfers postpone rather than prevent bankruptcy'
+title: 'Lottery wins postpone, not prevent, bankruptcy'
+statement: >-
+  Hankins, Hoekstra and Skiba find that Florida lottery winners of 50,000 to
+  150,000 dollars were about half as likely as winners of under 10,000
+  dollars to file for bankruptcy in the two years after winning but more
+  likely to file three to five years after, so that over five years no
+  difference in bankruptcy was detected, and that the large winners who
+  filed had similar net assets and unsecured debt, from which the authors
+  conclude that large cash transfers postpone rather than prevent bankruptcy
 version: 3
 history:
 - version: 2
@@ -54,7 +62,7 @@ bears_on:
 - QUESTION-430
 ---
 
-# THEORY-1490: Hankins, Hoekstra and Skiba find that Florida lottery winners of 50,000 to 150,000 dollars were about half as likely as winners of under 10,000 dollars to file for bankruptcy in the two years after winning but more likely to file three to five years after, so that over five years no difference in bankruptcy was detected, and that the large winners who filed had similar net assets and unsecured debt, from which the authors conclude that large cash transfers postpone rather than prevent bankruptcy
+# THEORY-1490: Lottery wins postpone, not prevent, bankruptcy
 
 ## Source
 

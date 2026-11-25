@@ -3,7 +3,14 @@ number: 1424
 status: Active
 formerly:
 - THEORY-tmpsm9h9
-title: 'Tatel finds that procedural skills with motor components decline roughly linearly with months of infrequent use, by about 0.06 to 0.08 standard deviations a month on average, losing about half of training gains within six to fifteen months, and that accuracy declines more slowly when a performance opportunity, most often an earlier retention test, falls in the interval'
+title: 'Motor skills decay roughly linearly with disuse'
+statement: >-
+  Tatel finds that procedural skills with motor components decline roughly
+  linearly with months of infrequent use, by about 0.06 to 0.08 standard
+  deviations a month on average, losing about half of training gains within
+  six to fifteen months, and that accuracy declines more slowly when a
+  performance opportunity, most often an earlier retention test, falls in
+  the interval
 version: 2
 history:
 - version: 2
@@ -54,7 +61,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-314 THEORY-2211 — new; filed for LEAD-124 on 2026-11-22 -->
 <!-- inactive-ok-file: LIT-2088 — Unfetched; the article the dissertation stands in for -->
 
-# THEORY-1424: Tatel finds that procedural skills with motor components decline roughly linearly with months of infrequent use, by about 0.06 to 0.08 standard deviations a month on average, losing about half of training gains within six to fifteen months, and that accuracy declines more slowly when a performance opportunity, most often an earlier retention test, falls in the interval
+# THEORY-1424: Motor skills decay roughly linearly with disuse
 
 ## Source
 

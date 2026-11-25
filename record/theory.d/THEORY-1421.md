@@ -9,7 +9,14 @@ promote_when: >-
   under expiring budgets, lower quality of year-end spending, and both
   reduced where unused funds may roll over under the budget-setter's
   commitment not to claw them back.
-title: 'Liebman and Mahoney hold that when an organization''s budget expires at year-end and the value of its spending is uncertain, it holds a precautionary buffer through the year and spends it on low-value projects at the deadline, so that spending spikes and quality drops at year-end, and that letting unused funds roll over, given the budget-setter''s commitment not to claw them back, removes most of the waste'
+title: 'Expiring budgets cause year-end waste'
+statement: >-
+  Liebman and Mahoney hold that when an organization's budget expires at
+  year-end and the value of its spending is uncertain, it holds a
+  precautionary buffer through the year and spends it on low-value projects
+  at the deadline, so that spending spikes and quality drops at year-end,
+  and that letting unused funds roll over, given the budget-setter's
+  commitment not to claw them back, removes most of the waste
 version: 1
 tags:
 - society-and-governance
@@ -28,7 +35,7 @@ summary: >-
   measurement.
 ---
 
-# THEORY-1421: Liebman and Mahoney hold that when an organization's budget expires at year-end and the value of its spending is uncertain, it holds a precautionary buffer through the year and spends it on low-value projects at the deadline, so that spending spikes and quality drops at year-end, and that letting unused funds roll over, given the budget-setter's commitment not to claw them back, removes most of the waste
+# THEORY-1421: Expiring budgets cause year-end waste
 
 ## Source
 

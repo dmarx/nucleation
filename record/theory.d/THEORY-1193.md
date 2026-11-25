@@ -11,7 +11,11 @@ promote_when: >-
   extinction does not predict fear at follow-up. It is refuted by a
   well-powered clinical sample in which fear reduction during exposure
   reliably predicts follow-up outcome after initial fear is controlled.
-title: 'How far fear falls during an extinction or exposure session, or across sessions, does not predict how much fear is expressed at follow-up, in animals, human laboratory samples and fearful human samples'
+title: 'Fear reduction in session doesn''t forecast relapse'
+statement: >-
+  How far fear falls during an extinction or exposure session, or across
+  sessions, does not predict how much fear is expressed at follow-up, in
+  animals, human laboratory samples and fearful human samples
 version: 1
 tags:
 - psychopathology-and-treatment
@@ -30,7 +34,7 @@ summary: >-
   evidence.
 ---
 
-# THEORY-1193: How far fear falls during an extinction or exposure session, or across sessions, does not predict how much fear is expressed at follow-up, in animals, human laboratory samples and fearful human samples
+# THEORY-1193: Fear reduction in session doesn't forecast relapse
 
 ## Source
 

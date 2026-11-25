@@ -8,7 +8,13 @@ promote_when: >-
   aggregate order of layer positions for part of speech, constituents and
   coreference, with syntactic tasks more concentrated across layers than
   semantic ones.
-title: 'Tenney, Das and Pavlick find in frozen BERT, by probes pooling layers with learned weights, syntactic information best extracted lower and more locally and semantic information higher and spread across many layers, an ordering that holds in aggregate, overlaps in the middle, and is revised for individual examples from higher-level information'
+title: 'BERT puts syntax lower, semantics higher'
+statement: >-
+  Tenney, Das and Pavlick find in frozen BERT, by probes pooling layers with
+  learned weights, syntactic information best extracted lower and more
+  locally and semantic information higher and spread across many layers, an
+  ordering that holds in aggregate, overlaps in the middle, and is revised
+  for individual examples from higher-level information
 version: 1
 tags:
 - linguistics
@@ -25,7 +31,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-1030 THEORY-104 — Proposed; cited in the readings of 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-771 THEORY-2144 — Proposed, Deferred or new; filed in this contribution of 2026-11-21 or the ones it builds on -->
 
-# THEORY-2132: Tenney, Das and Pavlick find in frozen BERT, by probes pooling layers with learned weights, syntactic information best extracted lower and more locally and semantic information higher and spread across many layers, an ordering that holds in aggregate, overlaps in the middle, and is revised for individual examples from higher-level information
+# THEORY-2132: BERT puts syntax lower, semantics higher
 
 ## Source
 

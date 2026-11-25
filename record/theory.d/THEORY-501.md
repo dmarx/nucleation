@@ -3,7 +3,15 @@ number: 501
 status: Active
 formerly:
 - THEORY-tmpdgxy5
-title: "In weekly waste collection where each point's visit days are free and its bin capacity must cover the longest gap between visits, a genetic algorithm that searches visit schedules and derives bins from them builds routes about 6% cheaper than eight-hour Gurobi incumbents but buys about 20% more bin capacity, ending level on overall cost at its best of 30 runs and 4–6% worse on a typical run, on five 12-point instances where the incumbents' own optimality gaps are 26–32%"
+title: 'GA waste routes cheaper but bins costlier'
+statement: >-
+  In weekly waste collection where each point's visit days are free and its
+  bin capacity must cover the longest gap between visits, a genetic
+  algorithm that searches visit schedules and derives bins from them builds
+  routes about 6% cheaper than eight-hour Gurobi incumbents but buys about
+  20% more bin capacity, ending level on overall cost at its best of 30 runs
+  and 4–6% worse on a typical run, on five 12-point instances where the
+  incumbents' own optimality gaps are 26–32%
 version: 1
 tags:
 - operations-research
@@ -20,7 +28,7 @@ summary: >-
   appears to. On 40–163 points there is no bound or baseline.
 ---
 
-# THEORY-501: In weekly waste collection where each point's visit days are free and its bin capacity must cover the longest gap between visits, a genetic algorithm that searches visit schedules and derives bins from them builds routes about 6% cheaper than eight-hour Gurobi incumbents but buys about 20% more bin capacity, ending level on overall cost at its best of 30 runs and 4–6% worse on a typical run, on five 12-point instances where the incumbents' own optimality gaps are 26–32%
+# THEORY-501: GA waste routes cheaper but bins costlier
 
 ## Source
 

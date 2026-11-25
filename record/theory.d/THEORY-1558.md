@@ -14,7 +14,14 @@ promote_when: >-
   shows when the reduced description is accurate, not that control is lost
   when it fails, so it does not settle this alone; nor do institutional or
   oncological examples.
-title: 'In hierarchically organized systems, levels are demarcated by sharp discontinuities in characteristic process and relaxation rates, the embedding level being slower than its components, and a level controls another by constraint only while their rates stay separated: when the cycling rates converge, the control asymmetry and the distinction between the levels are lost, whatever the signal amplitude'
+title: 'Hierarchy levels vanish when their rates converge'
+statement: >-
+  In hierarchically organized systems, levels are demarcated by sharp
+  discontinuities in characteristic process and relaxation rates, the
+  embedding level being slower than its components, and a level controls
+  another by constraint only while their rates stay separated: when the
+  cycling rates converge, the control asymmetry and the distinction between
+  the levels are lost, whatever the signal amplitude
 version: 2
 history:
 - version: 1
@@ -50,7 +57,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-780 CLAIM-770 CLAIM-781 — Proposed; filed in the contribution of 2026-11-20 on hierarchy and hyperbolicity -->
 <!-- inactive-ok-file: CLAIM-478 — Proposed; the claim it is prior art for, cited as open -->
 
-# THEORY-1558: In hierarchically organized systems, levels are demarcated by sharp discontinuities in characteristic process and relaxation rates, the embedding level being slower than its components, and a level controls another by constraint only while their rates stay separated: when the cycling rates converge, the control asymmetry and the distinction between the levels are lost, whatever the signal amplitude
+# THEORY-1558: Hierarchy levels vanish when their rates converge
 
 ## Source
 

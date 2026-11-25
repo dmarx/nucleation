@@ -3,7 +3,13 @@ number: 425
 status: Active
 formerly:
 - THEORY-tmp369dq
-title: "A connecting path trained only on clean data keeps only the behaviour the clean data ask for: between two backdoored or error-injected image classifiers, models near the ends of such a path keep most clean accuracy and lose the attack, and a path flat in ordinary loss can carry a barrier in adversarial loss that tracks the input Hessian's top eigenvalue"
+title: 'Clean-data mode paths shed backdoors'
+statement: >-
+  A connecting path trained only on clean data keeps only the behaviour the
+  clean data ask for: between two backdoored or error-injected image
+  classifiers, models near the ends of such a path keep most clean accuracy
+  and lose the attack, and a path flat in ordinary loss can carry a barrier
+  in adversarial loss that tracks the input Hessian's top eigenvalue
 version: 3
 history:
 - version: 2
@@ -48,7 +54,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-109 THEORY-116 — Proposed; the connectivity account whose path family this uses, and the mechanism account it anticipates, named, not leaned on -->
 
-# THEORY-425: A connecting path trained only on clean data keeps only the behaviour the clean data ask for: between two backdoored or error-injected image classifiers, models near the ends of such a path keep most clean accuracy and lose the attack, and a path flat in ordinary loss can carry a barrier in adversarial loss that tracks the input Hessian's top eigenvalue
+# THEORY-425: Clean-data mode paths shed backdoors
 
 ## Source
 

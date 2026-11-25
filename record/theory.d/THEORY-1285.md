@@ -14,7 +14,14 @@ promote_when: >-
   ownership and credit treats as the same. What cannot settle it:
   further readings of documentaries or meetings chosen because they
   already fit.
-title: 'Organizational action can be described as pre-individual, so that whose action it is, a person''s or an organization''s, is an outcome of the individuations it is allowed to contribute to rather than a given; an action then has as many significations as the individuations it takes part in, and a person whose action is refused a collective''s recognition experiences that as disindividuation'
+title: 'Whose action it is results from individuation'
+statement: >-
+  Organizational action can be described as pre-individual, so that whose
+  action it is, a person's or an organization's, is an outcome of the
+  individuations it is allowed to contribute to rather than a given; an
+  action then has as many significations as the individuations it takes part
+  in, and a person whose action is refused a collective's recognition
+  experiences that as disindividuation
 version: 1
 tags:
 - individuation
@@ -38,7 +45,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-355 THEORY-1280 — Proposed; the record's own claim and the parent paper's theory, set beside this reading -->
 
-# THEORY-1285: Organizational action can be described as pre-individual, so that whose action it is, a person's or an organization's, is an outcome of the individuations it is allowed to contribute to rather than a given; an action then has as many significations as the individuations it takes part in, and a person whose action is refused a collective's recognition experiences that as disindividuation
+# THEORY-1285: Whose action it is results from individuation
 
 ## Source
 

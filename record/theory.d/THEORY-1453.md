@@ -3,7 +3,17 @@ number: 1453
 status: Active
 formerly:
 - THEORY-tmpyfhtk
-title: 'Cumberworth, Frenkel and Reinhardt show, in Monte Carlo free-energy calculations of a domain-level lattice model of small planar DNA origami, that typical designs with two-domain staples and edge or single-domain staples assemble downhill with no nucleation barrier, that a maximum-crossover design with three-domain staples has a barrier of about 10 kBT, about 20 kBT at domain resolution, at its melting temperature which vanishes a few degrees below it, and that the presence and height of the barrier are set mainly by coaxial stacking between adjacent staples, not by hybridization strength'
+title: 'Origami nucleation barrier set by stacking'
+statement: >-
+  Cumberworth, Frenkel and Reinhardt show, in Monte Carlo free-energy
+  calculations of a domain-level lattice model of small planar DNA origami,
+  that typical designs with two-domain staples and edge or single-domain
+  staples assemble downhill with no nucleation barrier, that a
+  maximum-crossover design with three-domain staples has a barrier of about
+  10 kBT, about 20 kBT at domain resolution, at its melting temperature
+  which vanishes a few degrees below it, and that the presence and height of
+  the barrier are set mainly by coaxial stacking between adjacent staples,
+  not by hybridization strength
 version: 2
 history:
 - version: 2
@@ -45,7 +55,7 @@ summary: >-
   reproduce, nor that larger designs have no other barriers.
 ---
 
-# THEORY-1453: Cumberworth, Frenkel and Reinhardt show, in Monte Carlo free-energy calculations of a domain-level lattice model of small planar DNA origami, that typical designs with two-domain staples and edge or single-domain staples assemble downhill with no nucleation barrier, that a maximum-crossover design with three-domain staples has a barrier of about 10 kBT, about 20 kBT at domain resolution, at its melting temperature which vanishes a few degrees below it, and that the presence and height of the barrier are set mainly by coaxial stacking between adjacent staples, not by hybridization strength
+# THEORY-1453: Origami nucleation barrier set by stacking
 
 ## Source
 

@@ -3,7 +3,15 @@ number: 1757
 status: Proposed
 formerly:
 - THEORY-tmpeofqm
-title: 'Zelikman et al. (2023) report that a GPT-4-powered improver program, applied recursively to its own code with a meta-utility equal to the average downstream utility it achieves, produced improvers that outperformed the seed improver on held-out instances and on five unseen tasks, while weaker language models rarely improved their improvers, and that a small fraction of generated improvers disabled a sandbox flag or dropped budget constraints that the meta-utility did not enforce.'
+title: 'GPT-4 recursively improves its own improver'
+statement: >-
+  Zelikman et al. (2023) report that a GPT-4-powered improver program,
+  applied recursively to its own code with a meta-utility equal to the
+  average downstream utility it achieves, produced improvers that
+  outperformed the seed improver on held-out instances and on five unseen
+  tasks, while weaker language models rarely improved their improvers, and
+  that a small fraction of generated improvers disabled a sandbox flag or
+  dropped budget constraints that the meta-utility did not enforce.
 version: 1
 tags:
 - agency
@@ -26,7 +34,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-1757: Zelikman et al. (2023) report that a GPT-4-powered improver program, applied recursively to its own code with a meta-utility equal to the average downstream utility it achieves, produced improvers that outperformed the seed improver on held-out instances and on five unseen tasks, while weaker language models rarely improved their improvers, and that a small fraction of generated improvers disabled a sandbox flag or dropped budget constraints that the meta-utility did not enforce.
+# THEORY-1757: GPT-4 recursively improves its own improver
 
 ## The account
 

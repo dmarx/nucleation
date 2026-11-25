@@ -10,7 +10,15 @@ promote_when: >-
   that replacing middle layers with copies of one layer is catastrophic,
   and that math or reasoning benchmarks decline more steeply under
   reordering or parallel execution than commonsense ones.
-title: 'Sun, Pickett, Nain and Jones report that in frozen pretrained transformers the hidden states fall into a few beginning layers, a large middle and one or two ending layers, and that the middle layers share a representation space but do different work: skipping, reordering or running them in parallel degrades benchmarks gracefully, replacing them with copies of one layer is catastrophic, and math and reasoning tasks depend most on layer order'
+title: 'Middle layers share a space but do distinct work'
+statement: >-
+  Sun, Pickett, Nain and Jones report that in frozen pretrained transformers
+  the hidden states fall into a few beginning layers, a large middle and one
+  or two ending layers, and that the middle layers share a representation
+  space but do different work: skipping, reordering or running them in
+  parallel degrades benchmarks gracefully, replacing them with copies of one
+  layer is catastrophic, and math and reasoning tasks depend most on layer
+  order
 version: 1
 tags:
 - representation-learning
@@ -26,7 +34,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-771 THEORY-2140 THEORY-2144 — Proposed, Deferred or new; filed in this contribution of 2026-11-21 or the ones it builds on -->
 
-# THEORY-2145: Sun, Pickett, Nain and Jones report that in frozen pretrained transformers the hidden states fall into a few beginning layers, a large middle and one or two ending layers, and that the middle layers share a representation space but do different work: skipping, reordering or running them in parallel degrades benchmarks gracefully, replacing them with copies of one layer is catastrophic, and math and reasoning tasks depend most on layer order
+# THEORY-2145: Middle layers share a space but do distinct work
 
 ## Source
 

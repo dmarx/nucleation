@@ -3,7 +3,15 @@ number: 1787
 status: Proposed
 formerly:
 - THEORY-tmpqtonx
-title: 'Basurto et al. (2010) report that Crawford and Ostrom''s grammar can be applied to legislation, coding each institutional statement by attribute, deontic, aim, condition and or else and classifying it as a strategy, norm or rule with near-perfect intercoder agreement on the classification, while agreement on units, attributes and conditions fell below 80% for the more complex bill and aims and conditions were the hardest components to tell apart.'
+title: 'Grammar types laws reliably, components less so'
+statement: >-
+  Basurto et al. (2010) report that Crawford and Ostrom's grammar can be
+  applied to legislation, coding each institutional statement by attribute,
+  deontic, aim, condition and or else and classifying it as a strategy, norm
+  or rule with near-perfect intercoder agreement on the classification,
+  while agreement on units, attributes and conditions fell below 80% for the
+  more complex bill and aims and conditions were the hardest components to
+  tell apart.
 version: 1
 tags:
 - society-and-governance
@@ -22,7 +30,7 @@ summary: >-
   its promote_when is met.
 ---
 
-# THEORY-1787: Basurto et al. (2010) report that Crawford and Ostrom's grammar can be applied to legislation, coding each institutional statement by attribute, deontic, aim, condition and or else and classifying it as a strategy, norm or rule with near-perfect intercoder agreement on the classification, while agreement on units, attributes and conditions fell below 80% for the more complex bill and aims and conditions were the hardest components to tell apart.
+# THEORY-1787: Grammar types laws reliably, components less so
 
 ## The account
 

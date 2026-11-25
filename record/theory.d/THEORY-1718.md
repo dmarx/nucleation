@@ -3,7 +3,14 @@ number: 1718
 status: Proposed
 formerly:
 - THEORY-tmpz3x25
-title: 'Schepanski and colleagues (2022) show, in mice, that maternal microchimeric cells seeding the fetal brain maintain microglial homeostasis, restrain synaptic pruning, support prefrontal-hippocampal circuit maturation and early behavior, and that restoring them rescues these functions, so the cells are a functional mechanism of neurodevelopment rather than an inert by-product'
+title: 'Maternal cells in fetal brain aid development'
+statement: >-
+  Schepanski and colleagues (2022) show, in mice, that maternal
+  microchimeric cells seeding the fetal brain maintain microglial
+  homeostasis, restrain synaptic pruning, support prefrontal-hippocampal
+  circuit maturation and early behavior, and that restoring them rescues
+  these functions, so the cells are a functional mechanism of
+  neurodevelopment rather than an inert by-product
 version: 1
 source:
 - LIT-2436
@@ -23,7 +30,7 @@ summary: >-
   MMc are mostly microglia, plus T, B, endothelial and neuron-like cells.
 ---
 
-# THEORY-1718: Schepanski and colleagues (2022) show, in mice, that maternal microchimeric cells seeding the fetal brain maintain microglial homeostasis, restrain synaptic pruning, support prefrontal-hippocampal circuit maturation and early behavior, and that restoring them rescues these functions, so the cells are a functional mechanism of neurodevelopment rather than an inert by-product
+# THEORY-1718: Maternal cells in fetal brain aid development
 
 ## The account
 

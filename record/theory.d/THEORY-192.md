@@ -3,7 +3,13 @@ number: 192
 status: Active
 formerly:
 - THEORY-tmpae88o
-title: 'In twelve sessions of rat dorsal CA1 from three data sets, pairwise correlations among place cells have the Betti-curve signature of points sampled uniformly from a three-dimensional hyperbolic ball, not of a low-dimensional Euclidean cube, and the fitted radius rose with the logarithm of exploration time'
+title: 'Place-cell correlations look hyperbolic'
+statement: >-
+  In twelve sessions of rat dorsal CA1 from three data sets, pairwise
+  correlations among place cells have the Betti-curve signature of points
+  sampled uniformly from a three-dimensional hyperbolic ball, not of a
+  low-dimensional Euclidean cube, and the fitted radius rose with the
+  logarithm of exploration time
 version: 3
 history:
 - version: 2
@@ -46,7 +52,7 @@ bears_on:
 - QUESTION-153
 ---
 
-# THEORY-192: In twelve sessions of rat dorsal CA1 from three data sets, pairwise correlations among place cells have the Betti-curve signature of points sampled uniformly from a three-dimensional hyperbolic ball, not of a low-dimensional Euclidean cube, and the fitted radius rose with the logarithm of exploration time
+# THEORY-192: Place-cell correlations look hyperbolic
 
 ## Source
 

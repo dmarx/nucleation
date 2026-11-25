@@ -3,7 +3,14 @@ number: 1940
 status: Proposed
 formerly:
 - THEORY-tmpp6hib
-title: 'Nagel argues that the condition that we are morally assessable only for what we control, applied consistently through four kinds of luck (resultant, constitutive, circumstantial and causal), erodes nearly all moral judgment, and that this is a genuine paradox rooted in the clash between the internal view of agency and the external view of acts as events, not an error to be repaired by a refined condition'
+title: 'Moral luck is a genuine paradox'
+statement: >-
+  Nagel argues that the condition that we are morally assessable only for
+  what we control, applied consistently through four kinds of luck
+  (resultant, constitutive, circumstantial and causal), erodes nearly all
+  moral judgment, and that this is a genuine paradox rooted in the clash
+  between the internal view of agency and the external view of acts as
+  events, not an error to be repaired by a refined condition
 version: 1
 tags:
 - ethics
@@ -20,7 +27,7 @@ source:
 - LIT-2662
 ---
 
-# THEORY-1940: Nagel argues that the condition that we are morally assessable only for what we control, applied consistently through four kinds of luck (resultant, constitutive, circumstantial and causal), erodes nearly all moral judgment, and that this is a genuine paradox rooted in the clash between the internal view of agency and the external view of acts as events, not an error to be repaired by a refined condition
+# THEORY-1940: Moral luck is a genuine paradox
 
 ## Source
 

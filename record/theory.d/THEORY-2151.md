@@ -3,7 +3,16 @@ number: 2151
 status: Proposed
 formerly:
 - THEORY-tmp3gj1j
-title: 'Bialek, Nemenman and Tishby: the predictive information of a stationary series is the subextensive part of its entropy; when the data come from a model with K parameters drawn once from a prior it grows as (K/2) log N, with K replaced by a smaller dimension when the parameterization is degenerate, and when the density of models at small divergence from the target has an essential singularity exp(−B/D^μ) it grows, in the annealed approximation, as N^(μ/(μ+1)), as N^(1/2) for a smooth density under a field-theory prior'
+title: 'Predictive information grows as (K/2) log N'
+statement: >-
+  Bialek, Nemenman and Tishby: the predictive information of a stationary
+  series is the subextensive part of its entropy; when the data come from a
+  model with K parameters drawn once from a prior it grows as (K/2) log N,
+  with K replaced by a smaller dimension when the parameterization is
+  degenerate, and when the density of models at small divergence from the
+  target has an essential singularity exp(−B/D^μ) it grows, in the annealed
+  approximation, as N^(μ/(μ+1)), as N^(1/2) for a smooth density under a
+  field-theory prior
 promote_when: >-
   A reading of a later rigorous treatment confirming, under the stated
   conditions, the logarithmic coefficient for regular parametric families
@@ -38,7 +47,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-849 TERM-141 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 <!-- inactive-ok-file: THEORY-2200 — Proposed; the reading of Crutchfield and Feldman, 2026-11-22 -->
 
-# THEORY-2151: Bialek, Nemenman and Tishby: the predictive information of a stationary series is the subextensive part of its entropy; when the data come from a model with K parameters drawn once from a prior it grows as (K/2) log N, with K replaced by a smaller dimension when the parameterization is degenerate, and when the density of models at small divergence from the target has an essential singularity exp(−B/D^μ) it grows, in the annealed approximation, as N^(μ/(μ+1)), as N^(1/2) for a smooth density under a field-theory prior
+# THEORY-2151: Predictive information grows as (K/2) log N
 
 ## Source
 

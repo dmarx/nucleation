@@ -15,7 +15,15 @@ promote_when: >-
   template does not. A result on merge accuracy, pass@1 or transfer of
   orderings to unseen pairs would not settle it either way, since the
   title asserts none.
-title: 'In task-arithmetic merges of two LoRA task vectors into Qwen2.5 and Llama-3.1 language models, the non-additivity of the first-token output distribution, measured against an additive counterfactual in logit space and normalised by displacement from the base, depends on the input distribution as well as the task pair, and the template the adapters were trained on hides it on prompts where it is present while an untrained chat template does not'
+title: 'LoRA merge non-additivity depends on inputs'
+statement: >-
+  In task-arithmetic merges of two LoRA task vectors into Qwen2.5 and
+  Llama-3.1 language models, the non-additivity of the first-token output
+  distribution, measured against an additive counterfactual in logit space
+  and normalised by displacement from the base, depends on the input
+  distribution as well as the task pair, and the template the adapters were
+  trained on hides it on prompts where it is present while an untrained chat
+  template does not
 version: 1
 tags:
 - representation-learning
@@ -36,7 +44,7 @@ summary: >-
   it is the owner's call.
 ---
 
-# THEORY-1996: In task-arithmetic merges of two LoRA task vectors into Qwen2.5 and Llama-3.1 language models, the non-additivity of the first-token output distribution, measured against an additive counterfactual in logit space and normalised by displacement from the base, depends on the input distribution as well as the task pair, and the template the adapters were trained on hides it on prompts where it is present while an untrained chat template does not
+# THEORY-1996: LoRA merge non-additivity depends on inputs
 
 ## Source
 

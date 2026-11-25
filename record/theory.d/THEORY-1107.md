@@ -3,7 +3,16 @@ number: 1107
 status: Active
 formerly:
 - THEORY-tmpkvjih
-title: 'On Sørensen and colleagues'' scenario, an endosymbiont becomes an organelle in steps: the host first targets effector proteins into it; an imported host protein redundant with one of its functions then lets the endosymbiont''s own gene decay, making it dependent; and a general import pathway, once evolved, brings in hundreds of proteins; this genetic integration arises only in permanent, vertically transmitted associations, and host effector control without vertical transmission, as in rhizobia, does not lead to it'
+title: 'Organelles arise stepwise via protein import'
+statement: >-
+  On Sørensen and colleagues' scenario, an endosymbiont becomes an organelle
+  in steps: the host first targets effector proteins into it; an imported
+  host protein redundant with one of its functions then lets the
+  endosymbiont's own gene decay, making it dependent; and a general import
+  pathway, once evolved, brings in hundreds of proteins; this genetic
+  integration arises only in permanent, vertically transmitted associations,
+  and host effector control without vertical transmission, as in rhizobia,
+  does not lead to it
 version: 2
 history:
 - version: 1
@@ -62,7 +71,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-1211 — Proposed; filed beside this reading by the twenty-second status review: the wider thesis it reports -->
 <!-- inactive-ok-file: CASE-167 LIT-1605 — Open, Proposed or Unavailable; the question, cases, accounts and unread work set beside this, nothing here rests on them -->
 
-# THEORY-1107: On Sørensen and colleagues' scenario, an endosymbiont becomes an organelle in steps: the host first targets effector proteins into it; an imported host protein redundant with one of its functions then lets the endosymbiont's own gene decay, making it dependent; and a general import pathway, once evolved, brings in hundreds of proteins; this genetic integration arises only in permanent, vertically transmitted associations, and host effector control without vertical transmission, as in rhizobia, does not lead to it
+# THEORY-1107: Organelles arise stepwise via protein import
 
 ## Source
 

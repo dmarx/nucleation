@@ -12,7 +12,14 @@ promote_when: >-
   greedily maximized empowerment settles the agent into a regime other than
   the empowerment maxima. A replot of the paper's figures does not settle
   it, and neither does a system where the empowerment maximum is reachable.
-title: 'In a cart-pole whose only given utility is 10-step empowerment, a controller that greedily picks the action leading to the more empowered successor balances the pole upright, though the states of highest empowerment lie off-centre and cannot be reached or sustained under the agent''s own dynamics; what the agent can keep is not where empowerment is highest'
+title: 'Empowerment-greedy cart-pole balances upright'
+statement: >-
+  In a cart-pole whose only given utility is 10-step empowerment, a
+  controller that greedily picks the action leading to the more empowered
+  successor balances the pole upright, though the states of highest
+  empowerment lie off-centre and cannot be reached or sustained under the
+  agent's own dynamics; what the agent can keep is not where empowerment is
+  highest
 version: 1
 tags:
 - information-theory
@@ -28,7 +35,7 @@ summary: >-
   system.
 ---
 
-# THEORY-1336: In a cart-pole whose only given utility is 10-step empowerment, a controller that greedily picks the action leading to the more empowered successor balances the pole upright, though the states of highest empowerment lie off-centre and cannot be reached or sustained under the agent's own dynamics; what the agent can keep is not where empowerment is highest
+# THEORY-1336: Empowerment-greedy cart-pole balances upright
 
 ## Source
 

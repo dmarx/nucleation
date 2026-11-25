@@ -3,7 +3,16 @@ number: 362
 status: Active
 formerly:
 - THEORY-tmp2ber8
-title: "For nonrecursive Datalog or SQL views with safe stratified negation and stratified aggregation, under set or duplicate semantics, storing with each derived tuple only the number of its derivations suffices to maintain the view under insertions and deletions of base tuples: signed counts propagated through delta rules stratum by stratum give each tuple's change as its new count minus its old, a tuple leaves when its count reaches zero, and a MIN or MAX group whose extreme is deleted is recomputed from the stored lower stratum"
+title: 'Derivation counts maintain views incrementally'
+statement: >-
+  For nonrecursive Datalog or SQL views with safe stratified negation and
+  stratified aggregation, under set or duplicate semantics, storing with
+  each derived tuple only the number of its derivations suffices to maintain
+  the view under insertions and deletions of base tuples: signed counts
+  propagated through delta rules stratum by stratum give each tuple's change
+  as its new count minus its old, a tuple leaves when its count reaches
+  zero, and a MIN or MAX group whose extreme is deleted is recomputed from
+  the stored lower stratum
 version: 2
 history:
 - version: 2
@@ -34,7 +43,7 @@ bears_on:
 - QUESTION-105
 ---
 
-# THEORY-362: For nonrecursive Datalog or SQL views with safe stratified negation and stratified aggregation, under set or duplicate semantics, storing with each derived tuple only the number of its derivations suffices to maintain the view under insertions and deletions of base tuples: signed counts propagated through delta rules stratum by stratum give each tuple's change as its new count minus its old, a tuple leaves when its count reaches zero, and a MIN or MAX group whose extreme is deleted is recomputed from the stored lower stratum
+# THEORY-362: Derivation counts maintain views incrementally
 
 ## Source
 

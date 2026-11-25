@@ -3,7 +3,16 @@ number: 1315
 status: Active
 formerly:
 - THEORY-tmp7q08l
-title: 'As a stochastically forced system approaches a fold bifurcation its dominant eigenvalue goes to zero, so it recovers ever more slowly from small perturbations, and under ongoing perturbation this critical slowing down shows as rising lag-1 autocorrelation and rising variance; skewness and flickering are further warnings not caused by slowing; but the same signals, less pronounced, also precede thresholds that are not bifurcations, so they mark proximity to a broad class of thresholds and not which kind, nor when the shift will come'
+title: 'Early warnings mark thresholds, not their kind'
+statement: >-
+  As a stochastically forced system approaches a fold bifurcation its
+  dominant eigenvalue goes to zero, so it recovers ever more slowly from
+  small perturbations, and under ongoing perturbation this critical slowing
+  down shows as rising lag-1 autocorrelation and rising variance; skewness
+  and flickering are further warnings not caused by slowing; but the same
+  signals, less pronounced, also precede thresholds that are not
+  bifurcations, so they mark proximity to a broad class of thresholds and
+  not which kind, nor when the shift will come
 version: 2
 history:
 - version: 2
@@ -38,7 +47,7 @@ corroborates:
 <!-- inactive-ok-file: NOTE-1536 — Proposed, Open, Deferred, Unfetched, Unavailable or new; cited as open -->
 <!-- inactive-ok-file: LIT-720 — Unavailable; the earlier Scheffer paper, cited as context -->
 
-# THEORY-1315: As a stochastically forced system approaches a fold bifurcation its dominant eigenvalue goes to zero, so it recovers ever more slowly from small perturbations, and under ongoing perturbation this critical slowing down shows as rising lag-1 autocorrelation and rising variance; skewness and flickering are further warnings not caused by slowing; but the same signals, less pronounced, also precede thresholds that are not bifurcations, so they mark proximity to a broad class of thresholds and not which kind, nor when the shift will come
+# THEORY-1315: Early warnings mark thresholds, not their kind
 
 ## Source
 

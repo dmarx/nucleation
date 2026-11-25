@@ -3,7 +3,14 @@ number: 2057
 status: Proposed
 formerly:
 - THEORY-tmp0lbb1
-title: 'Bengio, Louradour, Collobert and Weston report that training first on easier examples and then on the target distribution lowers final test error against target-only training in shape recognition, better than unordered training on both sets, and in a neural language model with a growing vocabulary, and propose that a curriculum acts as a continuation method and, on the surface, as a regularizer'
+title: 'Easy-first curricula lower final test error'
+statement: >-
+  Bengio, Louradour, Collobert and Weston report that training first on
+  easier examples and then on the target distribution lowers final test
+  error against target-only training in shape recognition, better than
+  unordered training on both sets, and in a neural language model with a
+  growing vocabulary, and propose that a curriculum acts as a continuation
+  method and, on the surface, as a regularizer
 version: 1
 source:
 - LIT-2868
@@ -23,7 +30,7 @@ summary: >-
   policy. Proposed until its promote_when is met.
 ---
 
-# THEORY-2057: Bengio, Louradour, Collobert and Weston report that training first on easier examples and then on the target distribution lowers final test error against target-only training in shape recognition, better than unordered training on both sets, and in a neural language model with a growing vocabulary, and propose that a curriculum acts as a continuation method and, on the surface, as a regularizer
+# THEORY-2057: Easy-first curricula lower final test error
 
 ## The account
 

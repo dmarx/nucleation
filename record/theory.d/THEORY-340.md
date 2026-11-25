@@ -3,7 +3,13 @@ number: 340
 status: Active
 formerly:
 - THEORY-tmpczun3
-title: "For answering membership in a static set of n keys with the fewest worst-case cell reads, sorted order with binary search is optimal only when the key universe exceeds a Ramsey-number threshold and table cells may hold nothing but stored keys or pointer symbols; it is beaten for small universes, and by two probes once one cell may hold an encoded value"
+title: 'Sorted binary search is optimal only narrowly'
+statement: >-
+  For answering membership in a static set of n keys with the fewest
+  worst-case cell reads, sorted order with binary search is optimal only
+  when the key universe exceeds a Ramsey-number threshold and table cells
+  may hold nothing but stored keys or pointer symbols; it is beaten for
+  small universes, and by two probes once one cell may hold an encoded value
 version: 1
 tags:
 - databases
@@ -23,7 +29,7 @@ summary: >-
   lookup only and says nothing about whether sorting pays for itself.
 ---
 
-# THEORY-340: For answering membership in a static set of n keys with the fewest worst-case cell reads, sorted order with binary search is optimal only when the key universe exceeds a Ramsey-number threshold and table cells may hold nothing but stored keys or pointer symbols; it is beaten for small universes, and by two probes once one cell may hold an encoded value
+# THEORY-340: Sorted binary search is optimal only narrowly
 
 ## Source
 

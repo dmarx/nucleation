@@ -3,7 +3,14 @@ number: 1797
 status: Proposed
 formerly:
 - THEORY-tmptmk90
-title: 'Leitgeb and Carus (SEP, 2020, revised 2026) present Carnap''s philosophy as conceptual engineering, in which concepts are replaced by explication under desiderata of similarity, exactness, fruitfulness and simplicity held as matters of degree, and the choice of a linguistic framework is a practical question judged by how well the framework serves its purposes rather than by truth'
+title: 'Carnap''s explication is conceptual engineering'
+statement: >-
+  Leitgeb and Carus (SEP, 2020, revised 2026) present Carnap's philosophy as
+  conceptual engineering, in which concepts are replaced by explication
+  under desiderata of similarity, exactness, fruitfulness and simplicity
+  held as matters of degree, and the choice of a linguistic framework is a
+  practical question judged by how well the framework serves its purposes
+  rather than by truth
 version: 1
 tags:
 - philosophy-of-science
@@ -26,7 +33,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-1827 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
-# THEORY-1797: Leitgeb and Carus (SEP, 2020, revised 2026) present Carnap's philosophy as conceptual engineering, in which concepts are replaced by explication under desiderata of similarity, exactness, fruitfulness and simplicity held as matters of degree, and the choice of a linguistic framework is a practical question judged by how well the framework serves its purposes rather than by truth
+# THEORY-1797: Carnap's explication is conceptual engineering
 
 ## The account
 

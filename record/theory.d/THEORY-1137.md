@@ -10,7 +10,14 @@ promote_when: >-
   showing the advantage growing with the intervention set and reversing
   when it is small, on models beyond the two synthetic ones and the one
   dataset reported; or showing that it does not.
-title: 'When an abstraction map between two causal models is learned by optimal transport from paired interventional distributions, a transport cost that rewards pairs of states compatible with the same paired interventions gives much lower held-out abstraction error than a Hamming cost when the intervention set is rich, and higher error when it holds only a few, because with few interventions the compatibility cost is nearly uniform'
+title: 'Compatibility cost wins with rich interventions'
+statement: >-
+  When an abstraction map between two causal models is learned by optimal
+  transport from paired interventional distributions, a transport cost that
+  rewards pairs of states compatible with the same paired interventions
+  gives much lower held-out abstraction error than a Hamming cost when the
+  intervention set is rich, and higher error when it holds only a few,
+  because with few interventions the compatibility cost is nearly uniform
 version: 1
 tags:
 - causality
@@ -27,7 +34,7 @@ summary: >-
   are few, is argued and fits the four cases. Proposed.
 ---
 
-# THEORY-1137: When an abstraction map between two causal models is learned by optimal transport from paired interventional distributions, a transport cost that rewards pairs of states compatible with the same paired interventions gives much lower held-out abstraction error than a Hamming cost when the intervention set is rich, and higher error when it holds only a few, because with few interventions the compatibility cost is nearly uniform
+# THEORY-1137: Compatibility cost wins with rich interventions
 
 ## Source
 

@@ -14,7 +14,13 @@ promote_when: >-
   physical equivalence from an internal interpretation that does not
   assume the identity of indiscernibles in another form. More examples of
   dualities, or more ways of reading one, cannot settle it.
-title: "For empirically equivalent dual theories read naively, adding the common core as a candidate world does not break the underdetermination, and neither do super-empirical virtues or an overarching theory: each route to a single actual world needs a further metaphysical principle, such as the identity of indiscernibles"
+title: 'Naive duals need metaphysics to pick a world'
+statement: >-
+  For empirically equivalent dual theories read naively, adding the common
+  core as a candidate world does not break the underdetermination, and
+  neither do super-empirical virtues or an overarching theory: each route to
+  a single actual world needs a further metaphysical principle, such as the
+  identity of indiscernibles
 version: 1
 tags:
 - philosophy-of-science
@@ -33,7 +39,7 @@ summary: >-
   conditional verdict the survey argues for, and nothing more.
 ---
 
-# THEORY-687: For empirically equivalent dual theories read naively, adding the common core as a candidate world does not break the underdetermination, and neither do super-empirical virtues or an overarching theory: each route to a single actual world needs a further metaphysical principle, such as the identity of indiscernibles
+# THEORY-687: Naive duals need metaphysics to pick a world
 
 ## Source
 

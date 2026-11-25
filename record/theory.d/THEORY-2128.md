@@ -3,7 +3,15 @@ number: 2128
 status: Proposed
 formerly:
 - THEORY-tmpx361j
-title: 'Tomasello holds that agency is an organization of perception, goals and decision for acting where the environment is unpredictable, that learning serves it as a subprocess, that current machines lack its executive tier and the shared intentionality from which humans create conventions, so that artificial agents are better built up from coordination than down from language, and that markets and other emergent social regularities are not agents'
+title: 'Build AI agents up from coordination'
+statement: >-
+  Tomasello holds that agency is an organization of perception, goals and
+  decision for acting where the environment is unpredictable, that learning
+  serves it as a subprocess, that current machines lack its executive tier
+  and the shared intentionality from which humans create conventions, so
+  that artificial agents are better built up from coordination than down
+  from language, and that markets and other emergent social regularities are
+  not agents
 version: 1
 source:
 - LIT-2905
@@ -25,7 +33,7 @@ summary: >-
   hedged. Proposed until its promote_when is met.
 ---
 
-# THEORY-2128: Tomasello holds that agency is an organization of perception, goals and decision for acting where the environment is unpredictable, that learning serves it as a subprocess, that current machines lack its executive tier and the shared intentionality from which humans create conventions, so that artificial agents are better built up from coordination than down from language, and that markets and other emergent social regularities are not agents
+# THEORY-2128: Build AI agents up from coordination
 
 ## The account
 

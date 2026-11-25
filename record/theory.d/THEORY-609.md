@@ -3,7 +3,16 @@ number: 609
 status: Active
 formerly:
 - THEORY-tmppylq2
-title: "When implementing an automaton requires reliable, counterfactual-supporting transitions for every formal state, Putnam's construction fails, but any system with a clock and a dial still implements every inputless finite-state automaton, and any system with the right input–output dependencies, an input memory and a dial implements every finite-state automaton with those dependencies, so finite-state automata cannot carry computational sufficiency; combinatorial-state automata are argued, not proved, to escape"
+title: 'Finite-state automata can''t ground computation'
+statement: >-
+  When implementing an automaton requires reliable,
+  counterfactual-supporting transitions for every formal state, Putnam's
+  construction fails, but any system with a clock and a dial still
+  implements every inputless finite-state automaton, and any system with the
+  right input–output dependencies, an input memory and a dial implements
+  every finite-state automaton with those dependencies, so finite-state
+  automata cannot carry computational sufficiency; combinatorial-state
+  automata are argued, not proved, to escape
 version: 2
 history:
 - version: 2
@@ -44,7 +53,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: THEORY-043 THEORY-092 THEORY-252 THEORY-436 THEORY-638 — Proposed; named as related or rival accounts in Connections and prose, not leaned on as settled -->
 
-# THEORY-609: When implementing an automaton requires reliable, counterfactual-supporting transitions for every formal state, Putnam's construction fails, but any system with a clock and a dial still implements every inputless finite-state automaton, and any system with the right input–output dependencies, an input memory and a dial implements every finite-state automaton with those dependencies, so finite-state automata cannot carry computational sufficiency; combinatorial-state automata are argued, not proved, to escape
+# THEORY-609: Finite-state automata can't ground computation
 
 ## Source
 

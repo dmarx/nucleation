@@ -3,7 +3,14 @@ number: 1496
 status: Active
 formerly:
 - THEORY-tmpwmqrr
-title: 'When two Food for Peace projects in India handed their activities to Government of India programmes, activities continued two years after exit where the receiving programme had dedicated resources, functioning infrastructure and a legal commitment and the project''s linkage to it was operating before exit, and stopped where the linkage was begun late; results often varied between states by more than they changed over time'
+title: 'Handover lasts with funded, early-linked hosts'
+statement: >-
+  When two Food for Peace projects in India handed their activities to
+  Government of India programmes, activities continued two years after exit
+  where the receiving programme had dedicated resources, functioning
+  infrastructure and a legal commitment and the project's linkage to it was
+  operating before exit, and stopped where the linkage was begun late;
+  results often varied between states by more than they changed over time
 version: 3
 history:
 - version: 2
@@ -63,7 +70,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: LIT-2151 — Unavailable or new; cited from the reading of Rogers et al. (2017) as open -->
 
-# THEORY-1496: When two Food for Peace projects in India handed their activities to Government of India programmes, activities continued two years after exit where the receiving programme had dedicated resources, functioning infrastructure and a legal commitment and the project's linkage to it was operating before exit, and stopped where the linkage was begun late; results often varied between states by more than they changed over time
+# THEORY-1496: Handover lasts with funded, early-linked hosts
 
 ## Source
 

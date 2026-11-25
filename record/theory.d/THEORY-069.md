@@ -22,7 +22,12 @@ promote_when: >-
   virtual partners, in brain activity), which the retrospective lists
   and which shows reach, not that the bimanual transition is what the
   model says.
-title: 'Rhythmic bimanual coordination switches from anti-phase to in-phase through a nonequilibrium phase transition in relative phase, captured by the HKB equation, with critical fluctuations and critical slowing as early warning'
+title: 'Bimanual switching is an HKB phase transition'
+statement: >-
+  Rhythmic bimanual coordination switches from anti-phase to in-phase
+  through a nonequilibrium phase transition in relative phase, captured by
+  the HKB equation, with critical fluctuations and critical slowing as early
+  warning
 version: 4
 history:
 - version: 2
@@ -85,7 +90,7 @@ corroborates:
 <!-- inactive-ok-file: LIT-578 — Unavailable; Dynamic Patterns, the unread book, not leaned on -->
 <!-- inactive-ok-file: THEORY-058 THEORY-056 — Proposed; the record's account of disorder as an alternative stable state, and its account of control without a regulator, named for their bearing -->
 
-# THEORY-069: Rhythmic bimanual coordination switches from anti-phase to in-phase through a nonequilibrium phase transition in relative phase, captured by the HKB equation, with critical fluctuations and critical slowing as early warning
+# THEORY-069: Bimanual switching is an HKB phase transition
 
 ## Source
 

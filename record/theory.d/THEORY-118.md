@@ -20,7 +20,11 @@ promote_when: >-
   needs no alternative, because the asymmetry would then not be one of
   regulative control. More surveys cannot settle it: the record holds two,
   and only one states the asymmetry.
-title: "Praiseworthiness is compatible with being psychologically determined by good reasons, but blameworthiness requires that the agent could have done otherwise, that is, could have acted on the right reasons"
+title: 'Praise fits determinism; blame needs alternatives'
+statement: >-
+  Praiseworthiness is compatible with being psychologically determined by
+  good reasons, but blameworthiness requires that the agent could have done
+  otherwise, that is, could have acted on the right reasons
 version: 1
 tags:
 - free-will
@@ -56,7 +60,7 @@ answers:
 <!-- inactive-ok-file: THEORY-122 — Proposed; the Reason View this extends and Fischer and Ravizza's rival account, filed in the same batch -->
 <!-- inactive-ok-file: THEORY-040 — Proposed; named as the account of manipulation this view is exposed to, nothing here rests on it -->
 
-# THEORY-118: Praiseworthiness is compatible with being psychologically determined by good reasons, but blameworthiness requires that the agent could have done otherwise, that is, could have acted on the right reasons
+# THEORY-118: Praise fits determinism; blame needs alternatives
 
 ## The evidence is second-hand
 

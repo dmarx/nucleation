@@ -3,7 +3,15 @@ number: 417
 status: Active
 formerly:
 - THEORY-tmp2b3do
-title: "'Personal identity' names several largely independent questions, among them who one is (characterization), what a person is, what it takes for one to persist, how many of us there are and what matters in survival; the persistence question concerns numerical identity, which 'remaining the same person' in the characterization sense presupposes, and posing it as 'a person at one time and a person at another' assumes that we are persons essentially"
+title: 'Personal identity is several separate questions'
+statement: >-
+  'Personal identity' names several largely independent questions, among
+  them who one is (characterization), what a person is, what it takes for
+  one to persist, how many of us there are and what matters in survival; the
+  persistence question concerns numerical identity, which 'remaining the
+  same person' in the characterization sense presupposes, and posing it as
+  'a person at one time and a person at another' assumes that we are persons
+  essentially
 version: 2
 history:
 - version: 2
@@ -42,7 +50,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-060 — Proposed; named as a neighbouring account, nothing here rests on its being settled -->
 <!-- inactive-ok-file: LIT-468 — Unavailable; named as the source of the term the entry borrows, known only through other readings -->
 
-# THEORY-417: 'Personal identity' names several largely independent questions, among them who one is (characterization), what a person is, what it takes for one to persist, how many of us there are and what matters in survival; the persistence question concerns numerical identity, which 'remaining the same person' in the characterization sense presupposes, and posing it as 'a person at one time and a person at another' assumes that we are persons essentially
+# THEORY-417: Personal identity is several separate questions
 
 ## Source
 

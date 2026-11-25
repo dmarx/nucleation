@@ -10,7 +10,12 @@ promote_when: >-
   alone admits. The account is refuted if that definition turns out to be
   Dennett's criterion with no added clause doing exclusionary work. A
   further gloss of either criterion as "compressibility" cannot settle it.
-title: 'Dennett''s real-pattern criterion, compressibility against the bit map, admits almost every non-random pattern; the projectibility, perspective and scale-relativity that rainforest realism needs are later additions that do the ontological work'
+title: 'Real-pattern criterion admits almost any pattern'
+statement: >-
+  Dennett's real-pattern criterion, compressibility against the bit map,
+  admits almost every non-random pattern; the projectibility, perspective
+  and scale-relativity that rainforest realism needs are later additions
+  that do the ontological work
 version: 2
 history:
 - version: 2
@@ -45,7 +50,7 @@ bears_on:
 - QUESTION-028
 ---
 
-# THEORY-036: Dennett's real-pattern criterion, compressibility against the bit map, admits almost every non-random pattern; the projectibility, perspective and scale-relativity that rainforest realism needs are later additions that do the ontological work
+# THEORY-036: Real-pattern criterion admits almost any pattern
 
 ## Source
 

@@ -3,7 +3,13 @@ number: 1655
 status: Proposed
 formerly:
 - THEORY-tmp593fy
-title: 'Robertson and colleagues (2023) find, in a pre-registered analysis of 12,448 randomized Upworthy headline tests, that negative words in a headline causally raise its click-through rate (about 2.3% per negative word in a headline of average length) and positive words lower it (about 1.0%).'
+title: 'Negative words raise headline click-through'
+statement: >-
+  Robertson and colleagues (2023) find, in a pre-registered analysis of
+  12,448 randomized Upworthy headline tests, that negative words in a
+  headline causally raise its click-through rate (about 2.3% per negative
+  word in a headline of average length) and positive words lower it (about
+  1.0%).
 version: 1
 source:
 - LIT-2430
@@ -28,7 +34,7 @@ summary: >-
   content is held fixed.
 ---
 
-# THEORY-1655: Robertson and colleagues (2023) find, in a pre-registered analysis of 12,448 randomized Upworthy headline tests, that negative words in a headline causally raise its click-through rate (about 2.3% per negative word in a headline of average length) and positive words lower it (about 1.0%).
+# THEORY-1655: Negative words raise headline click-through
 
 ## The account
 

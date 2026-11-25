@@ -9,7 +9,14 @@ promote_when: >-
   incidents including others' authority, and its report that the function
   of rights is contested between will, interest and other theories. The
   title asserts the entry's account, not that the analysis is correct.
-title: 'Wenar and Cruft hold that rights are complexes of four Hohfeldian incidents, privilege, claim, power and immunity, which combine into molecular rights including second-order powers to alter incidents and others'' authority, while the function of rights, whether to give control over another''s duty, to further the holder''s interests or something else, remains contested'
+title: 'Rights are complexes of Hohfeldian incidents'
+statement: >-
+  Wenar and Cruft hold that rights are complexes of four Hohfeldian
+  incidents, privilege, claim, power and immunity, which combine into
+  molecular rights including second-order powers to alter incidents and
+  others' authority, while the function of rights, whether to give control
+  over another's duty, to further the holder's interests or something else,
+  remains contested
 version: 1
 tags:
 - ethics
@@ -33,7 +40,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-735 — Proposed or new; the reading and the claim it corroborates -->
 
-# THEORY-1992: Wenar and Cruft hold that rights are complexes of four Hohfeldian incidents, privilege, claim, power and immunity, which combine into molecular rights including second-order powers to alter incidents and others' authority, while the function of rights, whether to give control over another's duty, to further the holder's interests or something else, remains contested
+# THEORY-1992: Rights are complexes of Hohfeldian incidents
 
 Wenar & Cruft, "Rights" (SEP, 2025 revision), [LIT-2765](../literature.d/LIT-2765.md).
 

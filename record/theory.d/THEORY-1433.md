@@ -10,7 +10,13 @@ promote_when: >-
   mechanisms without point flexures, and that raising the weighting
   parameter raises geometric advantage while lowering mechanical
   advantage.
-title: 'Krishnakumar and Suresh show that compliant mechanisms can be designed by topology optimization without pseudo-densities, by removing material where the topological derivative of a mutual-to-weighted-input-and-output strain-energy objective is lowest, which yields designs without point hinges and lets one parameter trade geometric against mechanical advantage'
+title: 'Compliant mechanisms via topological derivative'
+statement: >-
+  Krishnakumar and Suresh show that compliant mechanisms can be designed by
+  topology optimization without pseudo-densities, by removing material where
+  the topological derivative of a mutual-to-weighted-input-and-output
+  strain-energy objective is lowest, which yields designs without point
+  hinges and lets one parameter trade geometric against mechanical advantage
 version: 2
 history:
 - version: 2
@@ -40,7 +46,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: LIT-2043 — Unavailable and new; the unread original this neighbour stands in for, cited as open -->
 
-# THEORY-1433: Krishnakumar and Suresh show that compliant mechanisms can be designed by topology optimization without pseudo-densities, by removing material where the topological derivative of a mutual-to-weighted-input-and-output strain-energy objective is lowest, which yields designs without point hinges and lets one parameter trade geometric against mechanical advantage
+# THEORY-1433: Compliant mechanisms via topological derivative
 
 ## Source
 

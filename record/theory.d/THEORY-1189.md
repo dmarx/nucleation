@@ -16,7 +16,13 @@ promote_when: >-
   falls as fast with avoidance available as without. Further healthy-
   volunteer studies with signalled, instructed button responses cannot
   settle the clinical reading.
-title: 'In laboratory avoidance learning in healthy humans, an avoidance response that remains available during extinction persists, in some participants for hundreds of unpunished trials, and keeps expectancy of the aversive outcome higher than in people denied it; the more effective and the cheaper the response, the slower it extinguishes'
+title: 'Available avoidance persists and sustains threat'
+statement: >-
+  In laboratory avoidance learning in healthy humans, an avoidance response
+  that remains available during extinction persists, in some participants
+  for hundreds of unpunished trials, and keeps expectancy of the aversive
+  outcome higher than in people denied it; the more effective and the
+  cheaper the response, the slower it extinguishes
 version: 1
 tags:
 - learning-and-conditioning
@@ -35,7 +41,7 @@ summary: >-
   evidence.
 ---
 
-# THEORY-1189: In laboratory avoidance learning in healthy humans, an avoidance response that remains available during extinction persists, in some participants for hundreds of unpunished trials, and keeps expectancy of the aversive outcome higher than in people denied it; the more effective and the cheaper the response, the slower it extinguishes
+# THEORY-1189: Available avoidance persists and sustains threat
 
 ## Source
 

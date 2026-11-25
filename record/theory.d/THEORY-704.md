@@ -3,7 +3,15 @@ number: 704
 status: Active
 formerly:
 - THEORY-tmp4g68i
-title: "In a stationary multivariate time series whose components include every relevant process, with interventions that are isolated exogenous changes and no instantaneous causation, a missing Granger-causal edge from a to b means intervening on a has no effect on b at the next step, non-ancestry means no effect at any horizon, and a set whose observed past blocks every back-door path into b's ancestors identifies the effect from observational data, as a multi-step linear-predictor coefficient in the Gaussian case"
+title: 'Granger graphs can identify intervention effects'
+statement: >-
+  In a stationary multivariate time series whose components include every
+  relevant process, with interventions that are isolated exogenous changes
+  and no instantaneous causation, a missing Granger-causal edge from a to b
+  means intervening on a has no effect on b at the next step, non-ancestry
+  means no effect at any horizon, and a set whose observed past blocks every
+  back-door path into b's ancestors identifies the effect from observational
+  data, as a multi-step linear-predictor coefficient in the Gaussian case
 version: 1
 tags:
 - causality
@@ -19,7 +27,7 @@ summary: >-
   untestable from observational data. Two worked effects were checked.
 ---
 
-# THEORY-704: In a stationary multivariate time series whose components include every relevant process, with interventions that are isolated exogenous changes and no instantaneous causation, a missing Granger-causal edge from a to b means intervening on a has no effect on b at the next step, non-ancestry means no effect at any horizon, and a set whose observed past blocks every back-door path into b's ancestors identifies the effect from observational data, as a multi-step linear-predictor coefficient in the Gaussian case
+# THEORY-704: Granger graphs can identify intervention effects
 
 ## Source
 

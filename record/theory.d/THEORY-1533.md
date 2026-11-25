@@ -12,7 +12,10 @@ promote_when: >-
   emotion or appraisal does not. What cannot settle it: more readings of
   the Spinozan lineage, which show where the definition comes from, not
   that it carves anything.
-title: 'Affect is the felt transition of a body''s power to affect and be affected toward a diminished or augmented capacitation'
+title: 'Affect is felt change in capacity to act'
+statement: >-
+  Affect is the felt transition of a body's power to affect and be affected
+  toward a diminished or augmented capacitation
 version: 1
 tags:
 - emotion-and-affect
@@ -31,7 +34,7 @@ summary: >-
   account of emotion or appraisal does not is open.
 ---
 
-# THEORY-1533: Affect is the felt transition of a body's power to affect and be affected toward a diminished or augmented capacitation
+# THEORY-1533: Affect is felt change in capacity to act
 
 ## Source
 

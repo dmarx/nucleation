@@ -11,7 +11,14 @@ promote_when: >-
   under truncation selection. Simulations that assign selection classes
   without computing entrenchment, as most of this paper's do, do not
   meet it.
-title: 'Wimsatt and Schank define the generative entrenchment of an element as the magnitude of what depends on it downstream in a directed causal graph of the organism and relevant environment, a graph that may contain cycles, and argue from network simulations under truncation selection that more entrenched, more strongly selected elements are preserved while weakly selected ones are lost, so that modular change is possible only rarely'
+title: 'Entrenched elements resist evolutionary change'
+statement: >-
+  Wimsatt and Schank define the generative entrenchment of an element as the
+  magnitude of what depends on it downstream in a directed causal graph of
+  the organism and relevant environment, a graph that may contain cycles,
+  and argue from network simulations under truncation selection that more
+  entrenched, more strongly selected elements are preserved while weakly
+  selected ones are lost, so that modular change is possible only rarely
 version: 1
 source:
 - LIT-3138
@@ -31,7 +38,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-1926 — Unavailable; the book this paper stands in for -->
 
-# THEORY-2273: Wimsatt and Schank define the generative entrenchment of an element as the magnitude of what depends on it downstream in a directed causal graph of the organism and relevant environment, a graph that may contain cycles, and argue from network simulations under truncation selection that more entrenched, more strongly selected elements are preserved while weakly selected ones are lost, so that modular change is possible only rarely
+# THEORY-2273: Entrenched elements resist evolutionary change
 
 ## Source
 

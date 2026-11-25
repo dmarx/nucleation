@@ -11,7 +11,15 @@ promote_when: >-
   (Zabusky and Kruskal 1965 itself would do for the numerical case); and,
   for the second clause, the 1965 letter read and found to report solitons
   emerging from a sine-wave initial condition.
-title: 'In a conservative system a soliton is a solitary wave, held by a balance between nonlinearity and dispersion, that keeps its shape at constant speed and emerges from a collision with another soliton with its amplitude, shape and velocity unchanged except for a phase shift; the name and the numerical discovery come from Zabusky and Kruskal''s 1965 solutions of the KdV equation, in which solitons arose from a sine-wave initial condition'
+title: 'Solitons survive collisions unchanged'
+statement: >-
+  In a conservative system a soliton is a solitary wave, held by a balance
+  between nonlinearity and dispersion, that keeps its shape at constant
+  speed and emerges from a collision with another soliton with its
+  amplitude, shape and velocity unchanged except for a phase shift; the name
+  and the numerical discovery come from Zabusky and Kruskal's 1965 solutions
+  of the KdV equation, in which solitons arose from a sine-wave initial
+  condition
 version: 1
 tags:
 - natural-sciences
@@ -32,7 +40,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-2199 LIT-2210 — Unavailable or Proposed; cited from the reading of Zabusky & Porter (2010) as open -->
 
-# THEORY-1501: In a conservative system a soliton is a solitary wave, held by a balance between nonlinearity and dispersion, that keeps its shape at constant speed and emerges from a collision with another soliton with its amplitude, shape and velocity unchanged except for a phase shift; the name and the numerical discovery come from Zabusky and Kruskal's 1965 solutions of the KdV equation, in which solitons arose from a sine-wave initial condition
+# THEORY-1501: Solitons survive collisions unchanged
 
 ## Source
 

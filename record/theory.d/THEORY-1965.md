@@ -10,7 +10,14 @@ promote_when: >-
   so in continual need of public justification, and its analysis of default
   title as one liberty, one claim-right and two powers. The title asserts
   the entry's account, not its truth.
-title: 'Waldron and Penner present private property as a system of rules assigning contested resources to the decisional authority of particular individuals, who may decide without explanation and whether or not others are affected, so that it is continually in need of public justification, and analyse default title as one Hohfeldian liberty, one claim-right and two powers, to license and to transfer'
+title: 'Property allocates authority, so needs justifying'
+statement: >-
+  Waldron and Penner present private property as a system of rules assigning
+  contested resources to the decisional authority of particular individuals,
+  who may decide without explanation and whether or not others are affected,
+  so that it is continually in need of public justification, and analyse
+  default title as one Hohfeldian liberty, one claim-right and two powers,
+  to license and to transfer
 version: 1
 tags:
 - society-and-governance
@@ -32,7 +39,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-2050 — Skimmed; the reading -->
 
-# THEORY-1965: Waldron and Penner present private property as a system of rules assigning contested resources to the decisional authority of particular individuals, who may decide without explanation and whether or not others are affected, so that it is continually in need of public justification, and analyse default title as one Hohfeldian liberty, one claim-right and two powers, to license and to transfer
+# THEORY-1965: Property allocates authority, so needs justifying
 
 Waldron & Penner, "Property and Ownership" (SEP, 2026 revision),
 [LIT-2744](../literature.d/LIT-2744.md).

@@ -18,7 +18,13 @@ promote_when: >-
   (augmentation, many classes, imbalance). Further closed-form results in
   the same renormalized model cannot settle it, nor can NC1–NC4 curves
   alone, which any account of collapse predicts.
-title: 'Deep classifiers trained with MSE loss stay near the least-squares classifier for their own features and move along the central path by the dynamics of continually renormalized gradient flow, whose equal-rate growth of the whitened class-separation singular values is how they reach neural collapse, as Han, Papyan and Donoho propose'
+title: 'MSE nets reach collapse along the central path'
+statement: >-
+  Deep classifiers trained with MSE loss stay near the least-squares
+  classifier for their own features and move along the central path by the
+  dynamics of continually renormalized gradient flow, whose equal-rate
+  growth of the whitened class-separation singular values is how they reach
+  neural collapse, as Han, Papyan and Donoho propose
 version: 2
 history:
 - version: 2
@@ -53,7 +59,7 @@ answers:
 <!-- inactive-ok-file: CASE-352 CLAIM-933 — new; the study and the claim LEAD-035 filed on 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-2185 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
-# THEORY-797: Deep classifiers trained with MSE loss stay near the least-squares classifier for their own features and move along the central path by the dynamics of continually renormalized gradient flow, whose equal-rate growth of the whitened class-separation singular values is how they reach neural collapse, as Han, Papyan and Donoho propose
+# THEORY-797: MSE nets reach collapse along the central path
 
 ## Source
 

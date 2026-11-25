@@ -3,7 +3,15 @@ number: 516
 status: Active
 formerly:
 - THEORY-tmpevmkz
-title: "For any presheaf of propositions over a small category of contexts, a sieve-valued valuation satisfies the generalized functional-composition condition exactly when it is a subobject of that presheaf, and the construction runs unchanged in classical physics, where every microstate gives a global section yet truth values are still non-Boolean sieves; so the logic of the truth values is fixed by the base category, not by whether a presheaf has global sections"
+title: 'Base category, not global sections, fixes logic'
+statement: >-
+  For any presheaf of propositions over a small category of contexts, a
+  sieve-valued valuation satisfies the generalized functional-composition
+  condition exactly when it is a subobject of that presheaf, and the
+  construction runs unchanged in classical physics, where every microstate
+  gives a global section yet truth values are still non-Boolean sieves; so
+  the logic of the truth values is fixed by the base category, not by
+  whether a presheaf has global sections
 version: 1
 tags:
 - quantum-foundations
@@ -33,7 +41,7 @@ summary: >-
 
 <!-- inactive-ok-file: THEORY-024 — Rejected; the account this one corrects, cited as such -->
 
-# THEORY-516: For any presheaf of propositions over a small category of contexts, a sieve-valued valuation satisfies the generalized functional-composition condition exactly when it is a subobject of that presheaf, and the construction runs unchanged in classical physics, where every microstate gives a global section yet truth values are still non-Boolean sieves; so the logic of the truth values is fixed by the base category, not by whether a presheaf has global sections
+# THEORY-516: Base category, not global sections, fixes logic
 
 ## Source
 

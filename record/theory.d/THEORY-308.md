@@ -3,7 +3,13 @@ number: 308
 status: Active
 formerly:
 - THEORY-tmpapktz
-title: 'The neural Donsker–Varadhan estimator of mutual information is strongly consistent as an extremum estimator over compact families of critics, and, for critics bounded by M and L-Lipschitz in their d parameters, its uniform deviation from the population bound needs a number of samples set by d, M, L and the parameter radius, not by the data dimension'
+title: 'Neural DV estimator is consistent'
+statement: >-
+  The neural Donsker–Varadhan estimator of mutual information is strongly
+  consistent as an extremum estimator over compact families of critics, and,
+  for critics bounded by M and L-Lipschitz in their d parameters, its
+  uniform deviation from the population bound needs a number of samples set
+  by d, M, L and the parameter radius, not by the data dimension
 version: 2
 history:
 - version: 2
@@ -34,7 +40,7 @@ summary: >-
   al., [LIT-246](../literature.d/LIT-246.md)), and the proof has two gaps a reading found.
 ---
 
-# THEORY-308: The neural Donsker–Varadhan estimator of mutual information is strongly consistent as an extremum estimator over compact families of critics, and, for critics bounded by M and L-Lipschitz in their d parameters, its uniform deviation from the population bound needs a number of samples set by d, M, L and the parameter radius, not by the data dimension
+# THEORY-308: Neural DV estimator is consistent
 
 ## Source
 

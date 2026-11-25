@@ -12,7 +12,15 @@ promote_when: >-
   fields material, which answers the too-cheap objection to the weak and
   functionalist readings. A refinement of the taxonomy, or a further
   analogy (cake ingredients, potentials), cannot settle it.
-title: "Reading the universal quantum state as nomological escapes the costs of reading it as a field only by paying in the theory of laws: on the strong reading, modelled on the classical Hamiltonian, a time-dependent ψ makes laws time-indexed unless the universal state is time-independent, as Wheeler–DeWitt would make it; on the weak and functionalist readings ψ need be neither unique nor time-independent, but only within an extended Humeanism whose criterion would equally make classical fields nomological"
+title: 'Nomological ψ pays in the theory of laws'
+statement: >-
+  Reading the universal quantum state as nomological escapes the costs of
+  reading it as a field only by paying in the theory of laws: on the strong
+  reading, modelled on the classical Hamiltonian, a time-dependent ψ makes
+  laws time-indexed unless the universal state is time-independent, as
+  Wheeler–DeWitt would make it; on the weak and functionalist readings ψ
+  need be neither unique nor time-independent, but only within an extended
+  Humeanism whose criterion would equally make classical fields nomological
 version: 1
 tags:
 - quantum-foundations
@@ -38,7 +46,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-485 THEORY-586 THEORY-630 THEORY-656 — Proposed; named as neighbouring accounts, not leaned on -->
 <!-- inactive-ok-file: LIT-200 — Proposed; read in full in NOTE-154 and cited as the functionalist variant of the weak reading, whose cost this account states -->
 
-# THEORY-669: Reading the universal quantum state as nomological escapes the costs of reading it as a field only by paying in the theory of laws: on the strong reading, modelled on the classical Hamiltonian, a time-dependent ψ makes laws time-indexed unless the universal state is time-independent, as Wheeler–DeWitt would make it; on the weak and functionalist readings ψ need be neither unique nor time-independent, but only within an extended Humeanism whose criterion would equally make classical fields nomological
+# THEORY-669: Nomological ψ pays in the theory of laws
 
 ## Source
 

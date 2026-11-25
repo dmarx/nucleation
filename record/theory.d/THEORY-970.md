@@ -3,7 +3,16 @@ number: 970
 status: Active
 formerly:
 - THEORY-tmp77xju
-title: 'On three language-model tasks whose circuits earlier manual work reported, indirect object identification and Greater-Than in GPT-2 Small and Python docstrings in a four-layer attention-only model, ACDC run with resampled corrupted activations against KL divergence ranked the reported edges with areas under the ROC curve of 0.85 to 0.98, above head-importance pruning and subnetwork probing on all three; on two compiled tracr programs it ranked them poorly with corrupted activations, 0.68 and 0.20, and exactly with zero activations'
+title: 'ACDC recovers manual circuits on real tasks'
+statement: >-
+  On three language-model tasks whose circuits earlier manual work reported,
+  indirect object identification and Greater-Than in GPT-2 Small and Python
+  docstrings in a four-layer attention-only model, ACDC run with resampled
+  corrupted activations against KL divergence ranked the reported edges with
+  areas under the ROC curve of 0.85 to 0.98, above head-importance pruning
+  and subnetwork probing on all three; on two compiled tracr programs it
+  ranked them poorly with corrupted activations, 0.68 and 0.20, and exactly
+  with zero activations
 version: 2
 history:
 - version: 1
@@ -40,7 +49,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-997 — Proposed; a neighbouring account on circuits compared across fine-tuning, cited as open -->
 
-# THEORY-970: On three language-model tasks whose circuits earlier manual work reported, indirect object identification and Greater-Than in GPT-2 Small and Python docstrings in a four-layer attention-only model, ACDC run with resampled corrupted activations against KL divergence ranked the reported edges with areas under the ROC curve of 0.85 to 0.98, above head-importance pruning and subnetwork probing on all three; on two compiled tracr programs it ranked them poorly with corrupted activations, 0.68 and 0.20, and exactly with zero activations
+# THEORY-970: ACDC recovers manual circuits on real tasks
 
 ## Source
 

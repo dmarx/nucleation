@@ -3,7 +3,17 @@ number: 977
 status: Active
 formerly:
 - THEORY-tmpb4xka
-title: 'In the two-layer attention-only transformer that Elhage et al. reverse-engineer, the second-layer heads that compose substantially with first-layer heads do so through their keys, mainly with a head that attends to the previous token and, after the published correction, also with one that attends over the last several tokens; these heads are induction heads, attending from a token to the one after its earlier occurrence, including on repeated random tokens, with positive-eigenvalue copying OV and same-matching QK circuits, and the second-order virtual-head terms add little to the loss reduction'
+title: 'Two-layer induction heads compose via keys'
+statement: >-
+  In the two-layer attention-only transformer that Elhage et al.
+  reverse-engineer, the second-layer heads that compose substantially with
+  first-layer heads do so through their keys, mainly with a head that
+  attends to the previous token and, after the published correction, also
+  with one that attends over the last several tokens; these heads are
+  induction heads, attending from a token to the one after its earlier
+  occurrence, including on repeated random tokens, with positive-eigenvalue
+  copying OV and same-matching QK circuits, and the second-order
+  virtual-head terms add little to the loss reduction
 version: 2
 history:
 - version: 1
@@ -50,7 +60,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-990 THEORY-967 — Proposed; the wider thesis and the developmental account beside this, cited as open -->
 
-# THEORY-977: In the two-layer attention-only transformer that Elhage et al. reverse-engineer, the second-layer heads that compose substantially with first-layer heads do so through their keys, mainly with a head that attends to the previous token and, after the published correction, also with one that attends over the last several tokens; these heads are induction heads, attending from a token to the one after its earlier occurrence, including on repeated random tokens, with positive-eigenvalue copying OV and same-matching QK circuits, and the second-order virtual-head terms add little to the loss reduction
+# THEORY-977: Two-layer induction heads compose via keys
 
 ## Source
 

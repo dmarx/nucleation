@@ -13,7 +13,11 @@ promote_when: >-
   artefact of scaling N(1) to Copernicus. More model runs cannot settle it,
   Solutions 1–4 carried through included: they bound what is plausible, not
   what happened.
-title: 'About 800 Myr ago the breakup of the Eulalia parent body beside the Jupiter 3:1 resonance sent an impact shower to the terrestrial planets and the Moon that made the cluster of large lunar craters dated near 800 Ma'
+title: 'Eulalia breakup made the 800 Ma lunar craters'
+statement: >-
+  About 800 Myr ago the breakup of the Eulalia parent body beside the
+  Jupiter 3:1 resonance sent an impact shower to the terrestrial planets and
+  the Moon that made the cluster of large lunar craters dated near 800 Ma
 version: 1
 tags:
 - natural-sciences
@@ -30,7 +34,7 @@ summary: >-
   craters has a sample age.
 ---
 
-# THEORY-1195: About 800 Myr ago the breakup of the Eulalia parent body beside the Jupiter 3:1 resonance sent an impact shower to the terrestrial planets and the Moon that made the cluster of large lunar craters dated near 800 Ma
+# THEORY-1195: Eulalia breakup made the 800 Ma lunar craters
 
 ## Source
 

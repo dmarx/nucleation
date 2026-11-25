@@ -13,7 +13,13 @@ promote_when: >-
   adjunction behind it, or by physicists' cases that fit neither. More
   examples of dualities that are adjunctions cannot settle it, since the
   paper already concedes there is no single account.
-title: "Most mathematical dualities are adjunctions between one category and the opposite of another, which become dual equivalences on their fixed points; what makes them dualities rather than equivalences is the reversal of arrows, so many of the 'dualities' physicists name are, in the mathematician's sense, equivalences or symmetries"
+title: 'Most dualities are adjunctions to an opposite'
+statement: >-
+  Most mathematical dualities are adjunctions between one category and the
+  opposite of another, which become dual equivalences on their fixed points;
+  what makes them dualities rather than equivalences is the reversal of
+  arrows, so many of the 'dualities' physicists name are, in the
+  mathematician's sense, equivalences or symmetries
 version: 2
 history:
 - version: 2
@@ -48,7 +54,7 @@ extends:
 ---
 <!-- inactive-ok-file: THEORY-459 THEORY-690 — Proposed; the De Haro and Butterfield accounts named for their different use of the word -->
 
-# THEORY-604: Most mathematical dualities are adjunctions between one category and the opposite of another, which become dual equivalences on their fixed points; what makes them dualities rather than equivalences is the reversal of arrows, so many of the 'dualities' physicists name are, in the mathematician's sense, equivalences or symmetries
+# THEORY-604: Most dualities are adjunctions to an opposite
 
 ## Source
 

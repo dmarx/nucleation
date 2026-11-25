@@ -3,7 +3,13 @@ number: 304
 status: Active
 formerly:
 - THEORY-tmp62hye
-title: 'In plane Couette and Poiseuille flow, measured in the energy norm, the linearized operator is so far from normal that perturbations can grow transiently by O(R) and resonate by O(R²), and operator perturbations of size O(R⁻²) make it eigenvalue-unstable, at Reynolds numbers where eigenvalue analysis predicts stability'
+title: 'Non-normality makes stable shear flows grow'
+statement: >-
+  In plane Couette and Poiseuille flow, measured in the energy norm, the
+  linearized operator is so far from normal that perturbations can grow
+  transiently by O(R) and resonate by O(R²), and operator perturbations of
+  size O(R⁻²) make it eigenvalue-unstable, at Reynolds numbers where
+  eigenvalue analysis predicts stability
 version: 5
 history:
 - version: 2
@@ -79,7 +85,7 @@ bounds:
 <!-- inactive-ok-file: CLAIM-186 — Proposed; the claim that cites this paper, open -->
 <!-- inactive-ok-file: THEORY-323 — Proposed; the general account this case falls under -->
 
-# THEORY-304: In plane Couette and Poiseuille flow, measured in the energy norm, the linearized operator is so far from normal that perturbations can grow transiently by O(R) and resonate by O(R²), and operator perturbations of size O(R⁻²) make it eigenvalue-unstable, at Reynolds numbers where eigenvalue analysis predicts stability
+# THEORY-304: Non-normality makes stable shear flows grow
 
 ## Source
 

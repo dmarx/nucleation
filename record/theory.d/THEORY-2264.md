@@ -13,7 +13,12 @@ promote_when: >-
   studies with other montages or polarities, cannot settle it, and nor can
   imaging that shows frontal activity during mind-wandering, which is the
   correlational evidence the account was offered to go beyond.
-title: 'Anodal transcranial direct current stimulation over the left frontal lobe raises how much task-unrelated thought people report during a monotonous task, which its authors take as evidence that the frontal lobes, and executive control, play a causal part in mind-wandering'
+title: 'Frontal tDCS raises mind-wandering'
+statement: >-
+  Anodal transcranial direct current stimulation over the left frontal lobe
+  raises how much task-unrelated thought people report during a monotonous
+  task, which its authors take as evidence that the frontal lobes, and
+  executive control, play a causal part in mind-wandering
 version: 1
 tags:
 - neuroscience
@@ -37,7 +42,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-2265 THEORY-2266 — new in this filing and Proposed; the readings and the support verdict, cited as open -->
 <!-- inactive-ok-file: THEORY-1300 — Proposed; Metzinger's account, cited as open -->
 
-# THEORY-2264: Anodal transcranial direct current stimulation over the left frontal lobe raises how much task-unrelated thought people report during a monotonous task, which its authors take as evidence that the frontal lobes, and executive control, play a causal part in mind-wandering
+# THEORY-2264: Frontal tDCS raises mind-wandering
 
 ## Source
 

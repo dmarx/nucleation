@@ -14,7 +14,13 @@ promote_when: >-
   barrier is small. A chain of retrained anchors cannot settle it, since
   it shows that retraining works rather than that a path exists, and
   neither can a paper that describes paths without reporting them.
-title: "Low-loss paths between independently trained solutions are found outside supervised image classifiers: graph neural networks trained from different seeds on one graph are joined by quadratic Bezier curves where the straight line has a barrier, and one pair each of diffusion and contrastive models by chains of low-loss checkpoints"
+title: 'Mode connectivity holds beyond image classifiers'
+statement: >-
+  Low-loss paths between independently trained solutions are found outside
+  supervised image classifiers: graph neural networks trained from different
+  seeds on one graph are joined by quadratic Bezier curves where the
+  straight line has a barrier, and one pair each of diffusion and
+  contrastive models by chains of low-loss checkpoints
 version: 1
 tags:
 - loss-landscapes
@@ -43,7 +49,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-109 — Proposed; the account this one extends, and no firmer than it -->
 <!-- inactive-ok-file: THEORY-210 THEORY-675 — Proposed; neighbouring accounts named in Connections, not leaned on -->
 
-# THEORY-557: Low-loss paths between independently trained solutions are found outside supervised image classifiers: graph neural networks trained from different seeds on one graph are joined by quadratic Bezier curves where the straight line has a barrier, and one pair each of diffusion and contrastive models by chains of low-loss checkpoints
+# THEORY-557: Mode connectivity holds beyond image classifiers
 
 ## Source
 

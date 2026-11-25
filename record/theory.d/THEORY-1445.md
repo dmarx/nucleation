@@ -3,7 +3,15 @@ number: 1445
 status: Active
 formerly:
 - THEORY-tmpa4har
-title: 'Aksel, Navarro, Fong and Douglas report that choosing DNA origami staple breakpoints by a shortest-path search over a weighted graph, scored by an equilibrium free energy summing staple binding, scaffold loop closure and hybridization at 50 °C, raised the gel-measured yield of accurately folded multilayer blocks from 2-6% to 48-61% in four published designs, three of them with unchanged scaffold route and helix layout, with yields correlating with the model''s score'
+title: 'Free-energy staple breaks raise origami yield'
+statement: >-
+  Aksel, Navarro, Fong and Douglas report that choosing DNA origami staple
+  breakpoints by a shortest-path search over a weighted graph, scored by an
+  equilibrium free energy summing staple binding, scaffold loop closure and
+  hybridization at 50 °C, raised the gel-measured yield of accurately folded
+  multilayer blocks from 2-6% to 48-61% in four published designs, three of
+  them with unchanged scaffold route and helix layout, with yields
+  correlating with the model's score
 version: 2
 history:
 - version: 2
@@ -39,7 +47,7 @@ summary: >-
   account is one of more stable parts, not of a chosen pathway.
 ---
 
-# THEORY-1445: Aksel, Navarro, Fong and Douglas report that choosing DNA origami staple breakpoints by a shortest-path search over a weighted graph, scored by an equilibrium free energy summing staple binding, scaffold loop closure and hybridization at 50 °C, raised the gel-measured yield of accurately folded multilayer blocks from 2-6% to 48-61% in four published designs, three of them with unchanged scaffold route and helix layout, with yields correlating with the model's score
+# THEORY-1445: Free-energy staple breaks raise origami yield
 
 ## Source
 

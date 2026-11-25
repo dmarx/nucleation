@@ -3,7 +3,15 @@ number: 193
 status: Active
 formerly:
 - THEORY-tmpp6w9v
-title: 'A simplicial complex grown by gluing each new d-simplex to one (d − 1)-face, by a rule that uses no geometry, has a 1-skeleton whose geodesic triangles are 2-thin at every size, so hyperbolic network geometry in Gromov''s sense is an outcome of the combinatorial growth; the equal-link drawing as ideal simplices is a convention, a tiling of the hyperbolic plane for d = 2 in the manifold flavor but not a tiling of hyperbolic d-space for d ≥ 3'
+title: 'Combinatorial growth yields hyperbolic geometry'
+statement: >-
+  A simplicial complex grown by gluing each new d-simplex to one (d −
+  1)-face, by a rule that uses no geometry, has a 1-skeleton whose geodesic
+  triangles are 2-thin at every size, so hyperbolic network geometry in
+  Gromov's sense is an outcome of the combinatorial growth; the equal-link
+  drawing as ideal simplices is a convention, a tiling of the hyperbolic
+  plane for d = 2 in the manifold flavor but not a tiling of hyperbolic
+  d-space for d ≥ 3
 version: 3
 history:
 - version: 2
@@ -58,7 +66,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-188 THEORY-196 — Proposed or Open; cited as the accounts this one sits beside -->
 
-# THEORY-193: A simplicial complex grown by gluing each new d-simplex to one (d − 1)-face, by a rule that uses no geometry, has a 1-skeleton whose geodesic triangles are 2-thin at every size, so hyperbolic network geometry in Gromov's sense is an outcome of the combinatorial growth; the equal-link drawing as ideal simplices is a convention, a tiling of the hyperbolic plane for d = 2 in the manifold flavor but not a tiling of hyperbolic d-space for d ≥ 3
+# THEORY-193: Combinatorial growth yields hyperbolic geometry
 
 ## Source
 

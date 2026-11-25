@@ -3,7 +3,14 @@ number: 1562
 status: Active
 formerly:
 - THEORY-tmp0hhij
-title: 'Cottingham reports that the third lecture of Scheffler''s Death and the Afterlife holds that a life must be temporally bounded for its goods to have the status of values, so that personal immortality is no remedy, and that among the commentators Frankfurt doubts the concern for humanity''s continuation is altruistic and Wolf denies that impending extinction would or should undercut our projects'
+title: 'Goods are values only in a bounded life'
+statement: >-
+  Cottingham reports that the third lecture of Scheffler's Death and the
+  Afterlife holds that a life must be temporally bounded for its goods to
+  have the status of values, so that personal immortality is no remedy, and
+  that among the commentators Frankfurt doubts the concern for humanity's
+  continuation is altruistic and Wolf denies that impending extinction would
+  or should undercut our projects
 version: 2
 history:
 - version: 1
@@ -34,7 +41,7 @@ bears_on:
 - QUESTION-301
 ---
 
-# THEORY-1562: Cottingham reports that the third lecture of Scheffler's Death and the Afterlife holds that a life must be temporally bounded for its goods to have the status of values, so that personal immortality is no remedy, and that among the commentators Frankfurt doubts the concern for humanity's continuation is altruistic and Wolf denies that impending extinction would or should undercut our projects
+# THEORY-1562: Goods are values only in a bounded life
 
 ## The account
 

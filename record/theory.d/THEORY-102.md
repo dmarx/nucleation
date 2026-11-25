@@ -3,7 +3,15 @@ number: 102
 status: Active
 formerly:
 - THEORY-tmpwyfwm
-title: "In Vishne, Gerber, Knight and Deouell's intracranial recordings from ten epilepsy patients viewing clearly visible images for up to 1.5 s, the pattern of high-frequency activity across ventral temporal cortex carried image category, and exemplar identity among 60 images, in a time-invariant code for as long as the image stayed on while amplitude fell about 80%; at the sampled prefrontal and parietal sites, category content was a burst about 150 to 600 ms after onset that did not track duration"
+title: 'Ventral code is sustained; prefrontal is transient'
+statement: >-
+  In Vishne, Gerber, Knight and Deouell's intracranial recordings from ten
+  epilepsy patients viewing clearly visible images for up to 1.5 s, the
+  pattern of high-frequency activity across ventral temporal cortex carried
+  image category, and exemplar identity among 60 images, in a time-invariant
+  code for as long as the image stayed on while amplitude fell about 80%; at
+  the sampled prefrontal and parietal sites, category content was a burst
+  about 150 to 600 ms after onset that did not track duration
 version: 3
 history:
 - version: 2
@@ -57,7 +65,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-830 — Proposed; the general claim this measurement was filed to support, held apart when the title was narrowed -->
 <!-- inactive-ok-file: THEORY-023 — Proposed; named as the account of what consciousness evidence can settle that this result bears on, not tested by it -->
 
-# THEORY-102: In Vishne, Gerber, Knight and Deouell's intracranial recordings from ten epilepsy patients viewing clearly visible images for up to 1.5 s, the pattern of high-frequency activity across ventral temporal cortex carried image category, and exemplar identity among 60 images, in a time-invariant code for as long as the image stayed on while amplitude fell about 80%; at the sampled prefrontal and parietal sites, category content was a burst about 150 to 600 ms after onset that did not track duration
+# THEORY-102: Ventral code is sustained; prefrontal is transient
 
 ## Source
 

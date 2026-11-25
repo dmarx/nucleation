@@ -3,7 +3,12 @@ number: 1601
 status: Active
 formerly:
 - THEORY-tmpgrb17
-title: 'Levin and Shomrat report, in an announcement without data, that planarians trained to recognise a laser-etched chamber recognised it after head removal and regeneration given a brief refresher, and infer that memory can be stored outside the brain and imprinted on the regenerated one'
+title: 'Planarian memory may survive decapitation'
+statement: >-
+  Levin and Shomrat report, in an announcement without data, that planarians
+  trained to recognise a laser-etched chamber recognised it after head
+  removal and regeneration given a brief refresher, and infer that memory
+  can be stored outside the brain and imprinted on the regenerated one
 version: 2
 history:
 - version: 1
@@ -40,7 +45,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: LIT-1732 NOTE-1283 — Skimmed or Unavailable; the works, notes, questions and claims the reading cites, cited with their standing -->
 
-# THEORY-1601: Levin and Shomrat report, in an announcement without data, that planarians trained to recognise a laser-etched chamber recognised it after head removal and regeneration given a brief refresher, and infer that memory can be stored outside the brain and imprinted on the regenerated one
+# THEORY-1601: Planarian memory may survive decapitation
 
 ## The account
 

@@ -3,7 +3,13 @@ number: 912
 status: Active
 formerly:
 - THEORY-tmpfj7ek
-title: 'In a picture-based avoidance task, treatment-seeking patients with OCD or PTSD avoided a safety cue more than healthy controls and, after effective avoidance, still expected the aversive picture more; patients with panic disorder with agoraphobia or PTSD reported more relief when it was omitted; the groups did not differ in avoiding the danger cues'
+title: 'OCD and PTSD patients over-avoid safety cues'
+statement: >-
+  In a picture-based avoidance task, treatment-seeking patients with OCD or
+  PTSD avoided a safety cue more than healthy controls and, after effective
+  avoidance, still expected the aversive picture more; patients with panic
+  disorder with agoraphobia or PTSD reported more relief when it was
+  omitted; the groups did not differ in avoiding the danger cues
 version: 3
 history:
 - version: 2
@@ -46,7 +52,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: CLAIM-446 — Proposed; the claim and model this bears on, named, nothing here rests on them -->
 
-# THEORY-912: In a picture-based avoidance task, treatment-seeking patients with OCD or PTSD avoided a safety cue more than healthy controls and, after effective avoidance, still expected the aversive picture more; patients with panic disorder with agoraphobia or PTSD reported more relief when it was omitted; the groups did not differ in avoiding the danger cues
+# THEORY-912: OCD and PTSD patients over-avoid safety cues
 
 ## Source
 

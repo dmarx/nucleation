@@ -3,7 +3,14 @@ number: 1194
 status: Active
 formerly:
 - THEORY-tmplyryk
-title: 'Clark and Chalmers argue that if belief is individuated by functional role, an external store that is constantly consulted, directly available and automatically endorsed can carry a standing belief, so that the material vehicles of some mental states extend beyond the skin; the step from coupling to parthood rests on that premise and on a parity principle they state rather than argue'
+title: 'Coupled external stores can carry beliefs'
+statement: >-
+  Clark and Chalmers argue that if belief is individuated by functional
+  role, an external store that is constantly consulted, directly available
+  and automatically endorsed can carry a standing belief, so that the
+  material vehicles of some mental states extend beyond the skin; the step
+  from coupling to parthood rests on that premise and on a parity principle
+  they state rather than argue
 version: 2
 history:
 - version: 2
@@ -39,7 +46,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-579 — Proposed; the account this is split from, which holds the question whether the conditional is true -->
 
-# THEORY-1194: Clark and Chalmers argue that if belief is individuated by functional role, an external store that is constantly consulted, directly available and automatically endorsed can carry a standing belief, so that the material vehicles of some mental states extend beyond the skin; the step from coupling to parthood rests on that premise and on a parity principle they state rather than argue
+# THEORY-1194: Coupled external stores can carry beliefs
 
 ## Source
 

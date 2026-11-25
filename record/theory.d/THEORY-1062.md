@@ -3,7 +3,15 @@ number: 1062
 status: Active
 formerly:
 - THEORY-tmp8ypuh
-title: 'On a discourse sheaf, where each agent expresses a private opinion through a linear map into each edge''s space of topics, sheaf-Laplacian opinion diffusion converges to the orthogonal projection of the initial opinions onto the global sections, which are agreement in what each pair expresses and not in what they hold; stable polarized or incomparable private opinions are therefore possible, and when the sheaf has no nonzero global section the only limit is all opinions zero'
+title: 'Sheaf diffusion permits stable polarization'
+statement: >-
+  On a discourse sheaf, where each agent expresses a private opinion through
+  a linear map into each edge's space of topics, sheaf-Laplacian opinion
+  diffusion converges to the orthogonal projection of the initial opinions
+  onto the global sections, which are agreement in what each pair expresses
+  and not in what they hold; stable polarized or incomparable private
+  opinions are therefore possible, and when the sheaf has no nonzero global
+  section the only limit is all opinions zero
 version: 2
 history:
 - version: 2
@@ -33,7 +41,7 @@ corroborates:
 - CLAIM-471
 ---
 
-# THEORY-1062: On a discourse sheaf, where each agent expresses a private opinion through a linear map into each edge's space of topics, sheaf-Laplacian opinion diffusion converges to the orthogonal projection of the initial opinions onto the global sections, which are agreement in what each pair expresses and not in what they hold; stable polarized or incomparable private opinions are therefore possible, and when the sheaf has no nonzero global section the only limit is all opinions zero
+# THEORY-1062: Sheaf diffusion permits stable polarization
 
 ## Source
 

@@ -3,7 +3,13 @@ number: 2103
 status: Proposed
 formerly:
 - THEORY-tmpbelph
-title: 'Moll and Meltzoff argue that perspective-taking is founded on joint attention, developing from shared attention at about 12 months through knowing what others have experienced (14 months) and what they can see (2 to 2.5 years) to taking another''s differing view by 3 and confronting two views of one object at about 4.5'
+title: 'Perspective-taking grows from joint attention'
+statement: >-
+  Moll and Meltzoff argue that perspective-taking is founded on joint
+  attention, developing from shared attention at about 12 months through
+  knowing what others have experienced (14 months) and what they can see (2
+  to 2.5 years) to taking another's differing view by 3 and confronting two
+  views of one object at about 4.5
 version: 1
 source:
 - LIT-2919
@@ -23,7 +29,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-2103: Moll and Meltzoff argue that perspective-taking is founded on joint attention, developing from shared attention at about 12 months through knowing what others have experienced (14 months) and what they can see (2 to 2.5 years) to taking another's differing view by 3 and confronting two views of one object at about 4.5
+# THEORY-2103: Perspective-taking grows from joint attention
 
 ## The account
 

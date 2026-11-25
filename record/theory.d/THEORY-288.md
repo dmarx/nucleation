@@ -14,7 +14,15 @@ promote_when: >-
   cannot settle it: more density plots of the same kind, or the
   reconstruction-error comparisons, which bear on whether the effect
   matters, not on whether it occurs.
-title: "In small CIFAR and MNIST autoencoders whose only basis-privileging primitive is the activation function, elementwise tanh and Leaky-ReLU concentrate latent representations into narrow beams arranged by the activation's discrete symmetry group, even in layers no activation precedes, while their orthogonally equivariant radial counterparts leave them spread, so axis-aligned discreteness there comes from the primitive, not the task"
+title: 'Activation symmetry makes latents discrete'
+statement: >-
+  In small CIFAR and MNIST autoencoders whose only basis-privileging
+  primitive is the activation function, elementwise tanh and Leaky-ReLU
+  concentrate latent representations into narrow beams arranged by the
+  activation's discrete symmetry group, even in layers no activation
+  precedes, while their orthogonally equivariant radial counterparts leave
+  them spread, so axis-aligned discreteness there comes from the primitive,
+  not the task
 version: 3
 history:
 - version: 2
@@ -56,7 +64,7 @@ bounds:
 ---
 <!-- inactive-ok-file: THEORY-022 — Proposed; accounts this one bears on -->
 
-# THEORY-288: In small CIFAR and MNIST autoencoders whose only basis-privileging primitive is the activation function, elementwise tanh and Leaky-ReLU concentrate latent representations into narrow beams arranged by the activation's discrete symmetry group, even in layers no activation precedes, while their orthogonally equivariant radial counterparts leave them spread, so axis-aligned discreteness there comes from the primitive, not the task
+# THEORY-288: Activation symmetry makes latents discrete
 
 ## Source
 

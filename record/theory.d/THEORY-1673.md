@@ -3,7 +3,15 @@ number: 1673
 status: Proposed
 formerly:
 - THEORY-tmpbjhs5
-title: 'Almarzooqi and colleagues (2026) conclude that the gut microbiome is a biologically plausible and modifiable contributor to psychiatric disorders rather than a primary cause: animal germ-free, transplant and vagotomy work shows that microbes can change stress- and mood-related behaviour, but human evidence is mostly cross-sectional and confounded, interventions show modest symptom effects without demonstrated microbiome mediation, and the causal support is moderate for depression and weaker elsewhere.'
+title: 'Gut microbes contribute to, not cause, disorders'
+statement: >-
+  Almarzooqi and colleagues (2026) conclude that the gut microbiome is a
+  biologically plausible and modifiable contributor to psychiatric disorders
+  rather than a primary cause: animal germ-free, transplant and vagotomy
+  work shows that microbes can change stress- and mood-related behaviour,
+  but human evidence is mostly cross-sectional and confounded, interventions
+  show modest symptom effects without demonstrated microbiome mediation, and
+  the causal support is moderate for depression and weaker elsewhere.
 version: 1
 source:
 - LIT-2352
@@ -31,7 +39,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-1773 — Skimmed; the reading filed from the same exchange -->
 
-# THEORY-1673: Almarzooqi and colleagues (2026) conclude that the gut microbiome is a biologically plausible and modifiable contributor to psychiatric disorders rather than a primary cause: animal germ-free, transplant and vagotomy work shows that microbes can change stress- and mood-related behaviour, but human evidence is mostly cross-sectional and confounded, interventions show modest symptom effects without demonstrated microbiome mediation, and the causal support is moderate for depression and weaker elsewhere.
+# THEORY-1673: Gut microbes contribute to, not cause, disorders
 
 ## The account
 

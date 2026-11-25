@@ -3,7 +3,14 @@ number: 915
 status: Active
 formerly:
 - THEORY-tmpgos5n
-title: 'In Zorowitz, Momennejad and Daw''s simulations of a Markov decision process, an agent that evaluates actions as if it will fail to avoid danger at later steps, while in fact choosing optimally at each step, spreads threat value to states far from the danger and avoids early and widely, which reproduces qualitatively exaggerated threat appraisal, fear generalization and several laboratory findings associated with anxiety'
+title: 'Pessimistic planning reproduces anxious avoidance'
+statement: >-
+  In Zorowitz, Momennejad and Daw's simulations of a Markov decision
+  process, an agent that evaluates actions as if it will fail to avoid
+  danger at later steps, while in fact choosing optimally at each step,
+  spreads threat value to states far from the danger and avoids early and
+  widely, which reproduces qualitatively exaggerated threat appraisal, fear
+  generalization and several laboratory findings associated with anxiety
 version: 2
 history:
 - version: 2
@@ -42,7 +49,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-446 — Proposed; the claim and readings this bears on, named, nothing here rests on them -->
 
-# THEORY-915: In Zorowitz, Momennejad and Daw's simulations of a Markov decision process, an agent that evaluates actions as if it will fail to avoid danger at later steps, while in fact choosing optimally at each step, spreads threat value to states far from the danger and avoids early and widely, which reproduces qualitatively exaggerated threat appraisal, fear generalization and several laboratory findings associated with anxiety
+# THEORY-915: Pessimistic planning reproduces anxious avoidance
 
 ## Source
 

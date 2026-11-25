@@ -16,7 +16,12 @@ promote_when: >-
   settle it: higher accuracy on r/place alone, which says nothing about
   collective organization; or SHAP readings of the same model, which are
   the conjecture being tested.
-title: 'Crowd-maintained r/place images persist as an equilibrium of attack and repair, and their abrupt overthrow is preceded by several distinct precursors, including the defenders'' own conduct, rather than by one generic warning signal, while many overthrows give no warning'
+title: 'r/place overthrows have varied precursors or none'
+statement: >-
+  Crowd-maintained r/place images persist as an equilibrium of attack and
+  repair, and their abrupt overthrow is preceded by several distinct
+  precursors, including the defenders' own conduct, rather than by one
+  generic warning signal, while many overthrows give no warning
 version: 1
 tags:
 - complex-systems
@@ -39,7 +44,7 @@ summary: >-
   is their own conjecture from SHAP curves.
 ---
 
-# THEORY-1183: Crowd-maintained r/place images persist as an equilibrium of attack and repair, and their abrupt overthrow is preceded by several distinct precursors, including the defenders' own conduct, rather than by one generic warning signal, while many overthrows give no warning
+# THEORY-1183: r/place overthrows have varied precursors or none
 
 ## Source
 

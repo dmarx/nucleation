@@ -3,7 +3,12 @@ number: 1934
 status: Proposed
 formerly:
 - THEORY-tmpje6vo
-title: 'Umpleby reports that Lefebvre''s algebraic model of ethical cognition generates two ethical systems, in the first of which a bad means may not serve a good end and in the second of which it may, and that Lefebvre took the first to dominate in the West and the second in the Soviet Union'
+title: 'Lefebvre''s model yields two ethical systems'
+statement: >-
+  Umpleby reports that Lefebvre's algebraic model of ethical cognition
+  generates two ethical systems, in the first of which a bad means may not
+  serve a good end and in the second of which it may, and that Lefebvre took
+  the first to dominate in the West and the second in the Soviet Union
 version: 2
 history:
 - version: 2
@@ -32,7 +37,7 @@ source:
 ---
 <!-- unresolved-ok-file: THEORY-tmpu7a06 — removed at the reconciliation of 2026-11-18; named for provenance -->
 <!-- inactive-ok-file: LIT-2663 LIT-2697 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
-# THEORY-1934: Umpleby reports that Lefebvre's algebraic model of ethical cognition generates two ethical systems, in the first of which a bad means may not serve a good end and in the second of which it may, and that Lefebvre took the first to dominate in the West and the second in the Soviet Union
+# THEORY-1934: Lefebvre's model yields two ethical systems
 
 ## Source
 

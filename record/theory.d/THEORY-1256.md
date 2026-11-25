@@ -3,7 +3,15 @@ number: 1256
 status: Active
 formerly:
 - THEORY-tmp7plj0
-title: 'When a conservative experiment is safe under every plausible model, can be repeated from a common state and keeps informing, a controller that acts on the lower end of an anytime confidence sequence stays safe with probability 1 − δ and approaches the safe oracle, at O(√(T log T)) regret in a braking example; a certainty-equivalent controller in the same example is unsafe with probability ½ in every episode however much data it has'
+title: 'Confidence-bound control stays safe, nears oracle'
+statement: >-
+  When a conservative experiment is safe under every plausible model, can be
+  repeated from a common state and keeps informing, a controller that acts
+  on the lower end of an anytime confidence sequence stays safe with
+  probability 1 − δ and approaches the safe oracle, at O(√(T log T)) regret
+  in a braking example; a certainty-equivalent controller in the same
+  example is unsafe with probability ½ in every episode however much data it
+  has
 version: 2
 history:
 - version: 2
@@ -34,7 +42,7 @@ bears_on:
 - QUESTION-467
 ---
 
-# THEORY-1256: When a conservative experiment is safe under every plausible model, can be repeated from a common state and keeps informing, a controller that acts on the lower end of an anytime confidence sequence stays safe with probability 1 − δ and approaches the safe oracle, at O(√(T log T)) regret in a braking example; a certainty-equivalent controller in the same example is unsafe with probability ½ in every episode however much data it has
+# THEORY-1256: Confidence-bound control stays safe, nears oracle
 
 ## Source
 

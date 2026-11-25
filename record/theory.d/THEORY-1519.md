@@ -3,7 +3,16 @@ number: 1519
 status: Active
 formerly:
 - THEORY-tmp6uywt
-title: 'Simkute, Tankelevitch and colleagues argue that generative AI shows task-complexity polarization, the pattern Human Factors research calls clumsy automation: it makes easy tasks easier and hard tasks harder, which for automation in general they explain by easy tasks being easier to automate, leaving the user the hard share with the added task of monitoring, and for generative AI by the shift to evaluating output, disrupted workflows, interruptions and subtle errors in long suggestions, all of which weigh most on demanding tasks'
+title: 'Generative AI polarizes task complexity'
+statement: >-
+  Simkute, Tankelevitch and colleagues argue that generative AI shows
+  task-complexity polarization, the pattern Human Factors research calls
+  clumsy automation: it makes easy tasks easier and hard tasks harder, which
+  for automation in general they explain by easy tasks being easier to
+  automate, leaving the user the hard share with the added task of
+  monitoring, and for generative AI by the shift to evaluating output,
+  disrupted workflows, interruptions and subtle errors in long suggestions,
+  all of which weigh most on demanding tasks
 version: 2
 history:
 - version: 2
@@ -51,7 +60,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-2225 — Unavailable; the unread original this reading stands in for -->
 
-# THEORY-1519: Simkute, Tankelevitch and colleagues argue that generative AI shows task-complexity polarization, the pattern Human Factors research calls clumsy automation: it makes easy tasks easier and hard tasks harder, which for automation in general they explain by easy tasks being easier to automate, leaving the user the hard share with the added task of monitoring, and for generative AI by the shift to evaluating output, disrupted workflows, interruptions and subtle errors in long suggestions, all of which weigh most on demanding tasks
+# THEORY-1519: Generative AI polarizes task complexity
 
 ## Source
 

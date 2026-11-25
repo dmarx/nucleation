@@ -3,7 +3,14 @@ number: 552
 status: Active
 formerly:
 - THEORY-tmpirlhp
-title: "Indeed's US software-development job-postings index rose to 233.8 in February 2022 and fell to 65.2 by mid-February 2025, measured against 1 February 2020 = 100, while all postings stood near 110; it was the deepest fall of any Indeed sector, though not the only one to have more than doubled, and the postings data cannot apportion the fall among interest rates, over-hiring and AI"
+title: 'Software job postings fell deepest of any sector'
+statement: >-
+  Indeed's US software-development job-postings index rose to 233.8 in
+  February 2022 and fell to 65.2 by mid-February 2025, measured against 1
+  February 2020 = 100, while all postings stood near 110; it was the deepest
+  fall of any Indeed sector, though not the only one to have more than
+  doubled, and the postings data cannot apportion the fall among interest
+  rates, over-hiring and AI
 version: 1
 tags:
 - social-science
@@ -21,7 +28,7 @@ summary: >-
   ranking of causes is informal.
 ---
 
-# THEORY-552: Indeed's US software-development job-postings index rose to 233.8 in February 2022 and fell to 65.2 by mid-February 2025, measured against 1 February 2020 = 100, while all postings stood near 110; it was the deepest fall of any Indeed sector, though not the only one to have more than doubled, and the postings data cannot apportion the fall among interest rates, over-hiring and AI
+# THEORY-552: Software job postings fell deepest of any sector
 
 ## Source
 

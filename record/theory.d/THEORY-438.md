@@ -14,7 +14,13 @@ promote_when: >-
   refuted if networks that pass the stability test show no such fracturing.
   More toy cases that meet the definition of understanding, or catalogues of
   known failures under distribution shift, cannot settle it.
-title: "The understanding deep networks reach is characteristically fractured: it can be real, by the test of stable tracking under structure-preserving perturbation, but it is symbolically misaligned, non-reductive, locally fractured, proxy-dependent and representationally fragmented, because the loss rewards any predictive patchwork and does not press it to unify"
+title: 'Deep nets'' understanding is real but fractured'
+statement: >-
+  The understanding deep networks reach is characteristically fractured: it
+  can be real, by the test of stable tracking under structure-preserving
+  perturbation, but it is symbolically misaligned, non-reductive, locally
+  fractured, proxy-dependent and representationally fragmented, because the
+  loss rewards any predictive patchwork and does not press it to unify
 version: 1
 tags:
 - philosophy-of-science
@@ -34,7 +40,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-148 — Unavailable; named as a neighbour by the close reading, not as a result -->
 
-# THEORY-438: The understanding deep networks reach is characteristically fractured: it can be real, by the test of stable tracking under structure-preserving perturbation, but it is symbolically misaligned, non-reductive, locally fractured, proxy-dependent and representationally fragmented, because the loss rewards any predictive patchwork and does not press it to unify
+# THEORY-438: Deep nets' understanding is real but fractured
 
 ## Source
 

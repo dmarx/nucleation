@@ -3,7 +3,15 @@ number: 394
 status: Active
 formerly:
 - THEORY-tmpbseab
-title: 'Every n-point metric space embeds in Euclidean space of O(log n) dimensions with distortion O(log n), by distances to random sets of every scale followed by Johnson–Lindenstrauss, and constant-degree expanders need distortion Ω(log n) in every ℓ_p with 1 ≤ p ≤ 2, of any dimension, so O(log n) is tight in the worst case; the constants are unspecified, the lower bound rests on Leighton and Rao''s flow–cut gap, and nothing is shown for trees or for p > 2'
+title: 'Metrics embed in ℓ₂ with O(log n) distortion'
+statement: >-
+  Every n-point metric space embeds in Euclidean space of O(log n)
+  dimensions with distortion O(log n), by distances to random sets of every
+  scale followed by Johnson–Lindenstrauss, and constant-degree expanders
+  need distortion Ω(log n) in every ℓ_p with 1 ≤ p ≤ 2, of any dimension, so
+  O(log n) is tight in the worst case; the constants are unspecified, the
+  lower bound rests on Leighton and Rao's flow–cut gap, and nothing is shown
+  for trees or for p > 2
 version: 1
 tags:
 - mathematics
@@ -28,7 +36,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-1161 — Unavailable; Bourgain's paper, whose theorem this account takes as Linial, London and Rabinovich state it -->
 
-# THEORY-394: Every n-point metric space embeds in Euclidean space of O(log n) dimensions with distortion O(log n), by distances to random sets of every scale followed by Johnson–Lindenstrauss, and constant-degree expanders need distortion Ω(log n) in every ℓ_p with 1 ≤ p ≤ 2, of any dimension, so O(log n) is tight in the worst case; the constants are unspecified, the lower bound rests on Leighton and Rao's flow–cut gap, and nothing is shown for trees or for p > 2
+# THEORY-394: Metrics embed in ℓ₂ with O(log n) distortion
 
 ## Source
 

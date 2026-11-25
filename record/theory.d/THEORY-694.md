@@ -15,7 +15,14 @@ promote_when: >-
   introspective illusion and nothing else they track. Another analogy, to
   vitalism or to charge, cannot settle it, since each side already reads
   the analogy its own way.
-title: "After every function associated with consciousness is explained (discrimination, integration, report, access, attention, control), why these functions are accompanied by experience remains open, because those phenomena are defined by their functions and experience, what it is like for the subject, is not; so experience cannot be reductively explained by any mechanism, though it may be related to the physical by further laws"
+title: 'Experience resists any functional explanation'
+statement: >-
+  After every function associated with consciousness is explained
+  (discrimination, integration, report, access, attention, control), why
+  these functions are accompanied by experience remains open, because those
+  phenomena are defined by their functions and experience, what it is like
+  for the subject, is not; so experience cannot be reductively explained by
+  any mechanism, though it may be related to the physical by further laws
 version: 1
 tags:
 - consciousness
@@ -42,7 +49,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-023 THEORY-091 THEORY-094 THEORY-507 THEORY-577 THEORY-633 — Proposed; accounts named as rivals, neighbours or connections, not leaned on as premises -->
 <!-- inactive-ok-file: LIT-441 — Unavailable: the book is not lawfully readable online; named as where the decisive premise is defended, not leaned on -->
 
-# THEORY-694: After every function associated with consciousness is explained (discrimination, integration, report, access, attention, control), why these functions are accompanied by experience remains open, because those phenomena are defined by their functions and experience, what it is like for the subject, is not; so experience cannot be reductively explained by any mechanism, though it may be related to the physical by further laws
+# THEORY-694: Experience resists any functional explanation
 
 ## Source
 

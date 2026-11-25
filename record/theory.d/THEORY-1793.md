@@ -3,7 +3,15 @@ number: 1793
 status: Proposed
 formerly:
 - THEORY-tmpsuvav
-title: 'Yin and colleagues report that an LLM agent able to inspect and rewrite its own running code, including its self-improvement routine, raised its benchmark accuracy from a chain-of-thought start to levels matching or beating a meta-learned agent designer on four reasoning benchmarks, and that in 100 MGSM trials it ended below its starting policy 14% of the time, with its rare crashes typically caused by editing its own improvement module.'
+title: 'Self-referential agents improve, sometimes regress'
+statement: >-
+  Yin and colleagues report that an LLM agent able to inspect and rewrite
+  its own running code, including its self-improvement routine, raised its
+  benchmark accuracy from a chain-of-thought start to levels matching or
+  beating a meta-learned agent designer on four reasoning benchmarks, and
+  that in 100 MGSM trials it ended below its starting policy 14% of the
+  time, with its rare crashes typically caused by editing its own
+  improvement module.
 version: 1
 tags:
 - agency
@@ -23,7 +31,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-1793: Yin and colleagues report that an LLM agent able to inspect and rewrite its own running code, including its self-improvement routine, raised its benchmark accuracy from a chain-of-thought start to levels matching or beating a meta-learned agent designer on four reasoning benchmarks, and that in 100 MGSM trials it ended below its starting policy 14% of the time, with its rare crashes typically caused by editing its own improvement module.
+# THEORY-1793: Self-referential agents improve, sometimes regress
 
 ## The account
 

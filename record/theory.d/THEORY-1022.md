@@ -17,7 +17,14 @@ promote_when: >-
   matches the strong responses but not the weak ones. Further feature
   visualizations, top-activating examples or synthetic curves cannot settle
   it: they are the evidence it already rests on.
-title: 'The curve units of InceptionV1''s mixed3b detect curves as such: curves, not correlated stimuli, cause their firing, they respond to curves in general whatever their colour, fill or texture, and they have no meaningful secondary function, their weak responses to edges and angles being part of the same curve-detecting algorithm, as Cammarata, Goh, Carter, Schubert, Petrov and Olah claim'
+title: 'Curve units detect curves as such'
+statement: >-
+  The curve units of InceptionV1's mixed3b detect curves as such: curves,
+  not correlated stimuli, cause their firing, they respond to curves in
+  general whatever their colour, fill or texture, and they have no
+  meaningful secondary function, their weak responses to edges and angles
+  being part of the same curve-detecting algorithm, as Cammarata, Goh,
+  Carter, Schubert, Petrov and Olah claim
 version: 2
 history:
 - version: 1
@@ -51,7 +58,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1013 — Proposed; the general account this case would serve, cited as open -->
 <!-- inactive-ok-file: THEORY-1047 — Proposed; the Curve Circuits authors' claim of a readable algorithm, cited as open -->
-# THEORY-1022: The curve units of InceptionV1's mixed3b detect curves as such: curves, not correlated stimuli, cause their firing, they respond to curves in general whatever their colour, fill or texture, and they have no meaningful secondary function, their weak responses to edges and angles being part of the same curve-detecting algorithm, as Cammarata, Goh, Carter, Schubert, Petrov and Olah claim
+# THEORY-1022: Curve units detect curves as such
 
 ## Source
 

@@ -3,7 +3,17 @@ number: 1719
 status: Proposed
 formerly:
 - THEORY-tmpz8rdc
-title: 'Boxer, McFowland and Neill (2026) show that a classifier can satisfy a group fairness criterion in aggregate for a protected class while violating it for a subgroup, and propose Conditional Bias Scan, which searches all attribute-defined subgroups of the protected class for the most significant separation or sufficiency violation relative to the matching non-protected subgroup and tests it by permutation; it detects injected subgroup bias more accurately than GerryFair and MultiAccuracy Boost and finds, in COMPAS, a false-positive disparity concentrated in Black men and miscalibration hidden by aggregate calibration.'
+title: 'Aggregate fairness can hide subgroup bias'
+statement: >-
+  Boxer, McFowland and Neill (2026) show that a classifier can satisfy a
+  group fairness criterion in aggregate for a protected class while
+  violating it for a subgroup, and propose Conditional Bias Scan, which
+  searches all attribute-defined subgroups of the protected class for the
+  most significant separation or sufficiency violation relative to the
+  matching non-protected subgroup and tests it by permutation; it detects
+  injected subgroup bias more accurately than GerryFair and MultiAccuracy
+  Boost and finds, in COMPAS, a false-positive disparity concentrated in
+  Black men and miscalibration hidden by aggregate calibration.
 version: 1
 source:
 - LIT-2344
@@ -23,7 +33,7 @@ summary: >-
   while being biased against a subgroup of it (e.g. Black women).
 ---
 
-# THEORY-1719: Boxer, McFowland and Neill (2026) show that a classifier can satisfy a group fairness criterion in aggregate for a protected class while violating it for a subgroup, and propose Conditional Bias Scan, which searches all attribute-defined subgroups of the protected class for the most significant separation or sufficiency violation relative to the matching non-protected subgroup and tests it by permutation; it detects injected subgroup bias more accurately than GerryFair and MultiAccuracy Boost and finds, in COMPAS, a false-positive disparity concentrated in Black men and miscalibration hidden by aggregate calibration.
+# THEORY-1719: Aggregate fairness can hide subgroup bias
 
 ## The account
 

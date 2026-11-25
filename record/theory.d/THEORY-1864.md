@@ -3,7 +3,13 @@ number: 1864
 status: Proposed
 formerly:
 - THEORY-tmpypzp0
-title: 'Ellul holds that technique, the totality of efficient methods and not machines alone, has become the milieu in which modern humans must live, autonomous, unified, universal and totalizing, progressing by self-augmentation and not yet able to correct its own errors, so that particular choices count for little'
+title: 'Technique is an autonomous, total milieu'
+statement: >-
+  Ellul holds that technique, the totality of efficient methods and not
+  machines alone, has become the milieu in which modern humans must live,
+  autonomous, unified, universal and totalizing, progressing by
+  self-augmentation and not yet able to correct its own errors, so that
+  particular choices count for little
 version: 1
 source:
 - LIT-2588
@@ -27,7 +33,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-677 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: LIT-2576 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Unavailable -->
 
-# THEORY-1864: Ellul holds that technique, the totality of efficient methods and not machines alone, has become the milieu in which modern humans must live, autonomous, unified, universal and totalizing, progressing by self-augmentation and not yet able to correct its own errors, so that particular choices count for little
+# THEORY-1864: Technique is an autonomous, total milieu
 
 ## The account
 

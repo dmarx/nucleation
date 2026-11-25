@@ -3,7 +3,15 @@ number: 1729
 status: Proposed
 formerly:
 - THEORY-tmp1vsf5
-title: 'Zhang and colleagues (2026) report that when coding tasks are split among specialist LLM agents, task-level test pass rates can be high while the cross-agent dependencies stay unresolved (32 of 190 outcomes passed at least 80% of tests while resolving fewer than half their dependencies, none the reverse), that stronger coding models do not reliably collaborate better, and that no coordination protocol improves dependency resolution for every model.'
+title: 'Passing tests can hide unresolved dependencies'
+statement: >-
+  Zhang and colleagues (2026) report that when coding tasks are split among
+  specialist LLM agents, task-level test pass rates can be high while the
+  cross-agent dependencies stay unresolved (32 of 190 outcomes passed at
+  least 80% of tests while resolving fewer than half their dependencies,
+  none the reverse), that stronger coding models do not reliably collaborate
+  better, and that no coordination protocol improves dependency resolution
+  for every model.
 version: 1
 tags:
 - agency
@@ -21,7 +29,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-1729: Zhang and colleagues (2026) report that when coding tasks are split among specialist LLM agents, task-level test pass rates can be high while the cross-agent dependencies stay unresolved (32 of 190 outcomes passed at least 80% of tests while resolving fewer than half their dependencies, none the reverse), that stronger coding models do not reliably collaborate better, and that no coordination protocol improves dependency resolution for every model.
+# THEORY-1729: Passing tests can hide unresolved dependencies
 
 ## The account
 

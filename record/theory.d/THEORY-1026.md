@@ -17,7 +17,14 @@ promote_when: >-
   not a general difference between localizing and editing. More
   regressions of edit success on tracing cannot settle it: that is the
   evidence it already rests on.
-title: 'In transformer language models, locating where a forward pass carries information about a fact and finding where a weight edit best changes the expressed fact are different questions, because an edit at one layer can override information accumulated across other layers, so that many layers could hold a fact and some happen to, as Hase, Bansal, Kim and Ghandeharioun propose'
+title: 'Localizing a fact differs from editing it'
+statement: >-
+  In transformer language models, locating where a forward pass carries
+  information about a fact and finding where a weight edit best changes the
+  expressed fact are different questions, because an edit at one layer can
+  override information accumulated across other layers, so that many layers
+  could hold a fact and some happen to, as Hase, Bansal, Kim and
+  Ghandeharioun propose
 version: 1
 history:
 - version: 1
@@ -47,7 +54,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1011 — Proposed; the storage hypothesis this account bears on, cited as open -->
 
-# THEORY-1026: In transformer language models, locating where a forward pass carries information about a fact and finding where a weight edit best changes the expressed fact are different questions, because an edit at one layer can override information accumulated across other layers, so that many layers could hold a fact and some happen to, as Hase, Bansal, Kim and Ghandeharioun propose
+# THEORY-1026: Localizing a fact differs from editing it
 
 ## Source
 

@@ -3,7 +3,14 @@ number: 720
 status: Active
 formerly:
 - THEORY-tmp4o2p3
-title: 'Classical simulations between no-signalling empirical models on finite scenarios, which may change the cover, never create contextuality: a model is non-contextual exactly when the empty model simulates it, the non-contextual fraction cannot fall along a simulation, strong contextuality is reflected backwards, and only non-contextual models can be cloned'
+title: 'Cover-changing simulations add no contextuality'
+statement: >-
+  Classical simulations between no-signalling empirical models on finite
+  scenarios, which may change the cover, never create contextuality: a model
+  is non-contextual exactly when the empty model simulates it, the
+  non-contextual fraction cannot fall along a simulation, strong
+  contextuality is reflected backwards, and only non-contextual models can
+  be cloned
 version: 1
 history:
 - version: 1
@@ -40,7 +47,7 @@ summary: >-
   half.
 ---
 
-# THEORY-720: Classical simulations between no-signalling empirical models on finite scenarios, which may change the cover, never create contextuality: a model is non-contextual exactly when the empty model simulates it, the non-contextual fraction cannot fall along a simulation, strong contextuality is reflected backwards, and only non-contextual models can be cloned
+# THEORY-720: Cover-changing simulations add no contextuality
 
 ## Source
 

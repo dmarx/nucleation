@@ -17,7 +17,13 @@ promote_when: >-
   observations, after the fact, that self-organized structures such as
   dunes or vortices dissipate, nor the exactness of Eq. (8), which is
   granted.
-title: "Driven matter tends toward states that look adapted to the drive, with no replication needed: of two outcomes of a system driven by a fixed external field, equal in internal entropy and in the probability of reversal, the likelier is the one whose formation absorbed work from the drive and dissipated it more reliably"
+title: 'Driven matter looks adapted without replication'
+statement: >-
+  Driven matter tends toward states that look adapted to the drive, with no
+  replication needed: of two outcomes of a system driven by a fixed external
+  field, equal in internal entropy and in the probability of reversal, the
+  likelier is the one whose formation absorbed work from the drive and
+  dissipated it more reliably
 version: 2
 history:
 - version: 2
@@ -54,7 +60,7 @@ extends:
 
 <!-- inactive-ok-file: THEORY-072 THEORY-532 THEORY-671 — Proposed; named as accounts this one is contrasted with, not leaned on -->
 
-# THEORY-412: Driven matter tends toward states that look adapted to the drive, with no replication needed: of two outcomes of a system driven by a fixed external field, equal in internal entropy and in the probability of reversal, the likelier is the one whose formation absorbed work from the drive and dissipated it more reliably
+# THEORY-412: Driven matter looks adapted without replication
 
 ## Source
 

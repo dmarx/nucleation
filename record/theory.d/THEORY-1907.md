@@ -10,7 +10,13 @@ promote_when: >-
   outward from the input site at horizontal-fibre speeds, with cross-trial
   phase variability that does not grow with distance, and shows that trial
   averaging attenuates the distal response.
-title: 'Muller, Reynaud, Chavane and Destexhe show that in awake macaque V1 the evoked response to a small, brief stimulus is, on most single trials, a wave travelling outward from the input site at horizontal-fibre speeds, whose cross-trial variability is onset jitter alone and which trial averaging hides'
+title: 'Single-trial V1 responses are travelling waves'
+statement: >-
+  Muller, Reynaud, Chavane and Destexhe show that in awake macaque V1 the
+  evoked response to a small, brief stimulus is, on most single trials, a
+  wave travelling outward from the input site at horizontal-fibre speeds,
+  whose cross-trial variability is onset jitter alone and which trial
+  averaging hides
 version: 1
 tags:
 - neuroscience
@@ -30,7 +36,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-088 — Proposed; cited as a contrast the result does not bear on -->
 
-# THEORY-1907: Muller, Reynaud, Chavane and Destexhe show that in awake macaque V1 the evoked response to a small, brief stimulus is, on most single trials, a wave travelling outward from the input site at horizontal-fibre speeds, whose cross-trial variability is onset jitter alone and which trial averaging hides
+# THEORY-1907: Single-trial V1 responses are travelling waves
 
 ## Source
 

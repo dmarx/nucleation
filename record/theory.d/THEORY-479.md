@@ -3,7 +3,15 @@ number: 479
 status: Active
 formerly:
 - THEORY-tmpa30ou
-title: "Shannon's chain rule is the 1-cocycle equation of a cohomology of finite probability spaces whose action is averaged conditioning, and on connected, sufficiently rich structures of partitions every measurable 1-cocycle is a constant multiple of Shannon entropy, with no symmetry or continuity axiom assumed; in the unitary-invariant quantum version the first cohomology vanishes and von Neumann entropy is the 0-cochain whose coboundary is minus Shannon entropy"
+title: 'Entropy is the unique information 1-cocycle'
+statement: >-
+  Shannon's chain rule is the 1-cocycle equation of a cohomology of finite
+  probability spaces whose action is averaged conditioning, and on
+  connected, sufficiently rich structures of partitions every measurable
+  1-cocycle is a constant multiple of Shannon entropy, with no symmetry or
+  continuity axiom assumed; in the unitary-invariant quantum version the
+  first cohomology vanishes and von Neumann entropy is the 0-cochain whose
+  coboundary is minus Shannon entropy
 version: 1
 tags:
 - information-theory
@@ -22,7 +30,7 @@ summary: >-
   deferred to companion papers, so they are not part of this account.
 ---
 
-# THEORY-479: Shannon's chain rule is the 1-cocycle equation of a cohomology of finite probability spaces whose action is averaged conditioning, and on connected, sufficiently rich structures of partitions every measurable 1-cocycle is a constant multiple of Shannon entropy, with no symmetry or continuity axiom assumed; in the unitary-invariant quantum version the first cohomology vanishes and von Neumann entropy is the 0-cochain whose coboundary is minus Shannon entropy
+# THEORY-479: Entropy is the unique information 1-cocycle
 
 ## Source
 

@@ -14,7 +14,14 @@ promote_when: >-
   predict edits; refuted if the understood features are a small and
   unrepresentative minority, or if circuit-level predictions fail under
   edits. More well-chosen examples cannot settle it.
-title: 'In trained vision networks, units or other directions in a layer''s activation space are typically meaningful features, and the weights between understood features implement algorithms that can be read off them, so that features and their circuits are the units in which such a network can be understood, as Olah, Cammarata, Schubert, Goh, Petrov and Carter propose'
+title: 'Features and circuits are units of understanding'
+statement: >-
+  In trained vision networks, units or other directions in a layer's
+  activation space are typically meaningful features, and the weights
+  between understood features implement algorithms that can be read off
+  them, so that features and their circuits are the units in which such a
+  network can be understood, as Olah, Cammarata, Schubert, Goh, Petrov and
+  Carter propose
 version: 3
 history:
 - version: 1
@@ -59,7 +66,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-1022 — Proposed; the Curve Detectors authors' full claim, cited as open -->
 <!-- inactive-ok-file: THEORY-1040 THEORY-1047 — Proposed; the Early Vision and Curve Circuits authors' wider claims, cited as open -->
 
-# THEORY-1013: In trained vision networks, units or other directions in a layer's activation space are typically meaningful features, and the weights between understood features implement algorithms that can be read off them, so that features and their circuits are the units in which such a network can be understood, as Olah, Cammarata, Schubert, Goh, Petrov and Carter propose
+# THEORY-1013: Features and circuits are units of understanding
 
 ## Source
 

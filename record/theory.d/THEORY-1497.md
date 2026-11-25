@@ -3,7 +3,14 @@ number: 1497
 status: Active
 formerly:
 - THEORY-tmpy3r99
-title: 'St John holds that Burning Man''s gifting carries no obligation on the recipient to reciprocate, yet sustains circulation through gratitude that recipients return to the community in later labour, a generalized rather than bilateral reciprocity, and that perhaps the most pressing threat to it is non-participation, which the organization answered in part by reforming how theme camps are registered and placed'
+title: 'Burning Man gifts sustain generalized reciprocity'
+statement: >-
+  St John holds that Burning Man's gifting carries no obligation on the
+  recipient to reciprocate, yet sustains circulation through gratitude that
+  recipients return to the community in later labour, a generalized rather
+  than bilateral reciprocity, and that perhaps the most pressing threat to
+  it is non-participation, which the organization answered in part by
+  reforming how theme camps are registered and placed
 version: 3
 history:
 - version: 2
@@ -62,7 +69,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: CLAIM-603 — Proposed or new; cited from the reading of St John (2017) as open -->
 
-# THEORY-1497: St John holds that Burning Man's gifting carries no obligation on the recipient to reciprocate, yet sustains circulation through gratitude that recipients return to the community in later labour, a generalized rather than bilateral reciprocity, and that perhaps the most pressing threat to it is non-participation, which the organization answered in part by reforming how theme camps are registered and placed
+# THEORY-1497: Burning Man gifts sustain generalized reciprocity
 
 ## Source
 

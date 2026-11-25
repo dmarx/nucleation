@@ -3,7 +3,13 @@ number: 1430
 status: Active
 formerly:
 - THEORY-tmpwe5km
-title: 'Vipond shows that the persistence landscape extends to multiparameter persistence modules as a function that is stable with respect to the interleaving distance and whose weighted versions together determine the rank invariant of a finitely presented module, although no complete discrete invariant exists for such modules'
+title: 'Persistence landscapes extend to multiparameter'
+statement: >-
+  Vipond shows that the persistence landscape extends to multiparameter
+  persistence modules as a function that is stable with respect to the
+  interleaving distance and whose weighted versions together determine the
+  rank invariant of a finitely presented module, although no complete
+  discrete invariant exists for such modules
 version: 3
 history:
 - version: 2
@@ -66,7 +72,7 @@ bears_on:
 - QUESTION-374
 - QUESTION-375
 ---
-# THEORY-1430: Vipond shows that the persistence landscape extends to multiparameter persistence modules as a function that is stable with respect to the interleaving distance and whose weighted versions together determine the rank invariant of a finitely presented module, although no complete discrete invariant exists for such modules
+# THEORY-1430: Persistence landscapes extend to multiparameter
 
 ## Source
 

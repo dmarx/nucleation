@@ -3,7 +3,16 @@ number: 928
 status: Active
 formerly:
 - THEORY-tmp3wkwk
-title: 'Two softmax learners that update every action''s reward memory each step with its average reward against the other''s current play, the memories decaying at rate α, follow, in the limit of learning slow relative to play, coupled replicator equations plus a term α Σ x_j log(x_j / x_i) toward uniform play; in a two-player matrix game, without decay the dynamics preserve phase volume in log-ratio coordinates and are Hamiltonian when the game is zero-sum with an interior Nash equilibrium, and with decay the volume contracts at rate (N − 1)(α_X + α_Y)'
+title: 'Memory decay makes softmax learning dissipative'
+statement: >-
+  Two softmax learners that update every action's reward memory each step
+  with its average reward against the other's current play, the memories
+  decaying at rate α, follow, in the limit of learning slow relative to
+  play, coupled replicator equations plus a term α Σ x_j log(x_j / x_i)
+  toward uniform play; in a two-player matrix game, without decay the
+  dynamics preserve phase volume in log-ratio coordinates and are
+  Hamiltonian when the game is zero-sum with an interior Nash equilibrium,
+  and with decay the volume contracts at rate (N − 1)(α_X + α_Y)
 version: 3
 history:
 - version: 2
@@ -58,7 +67,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-938 — Proposed or new; the source and the accounts this bears on, named -->
 
-# THEORY-928: Two softmax learners that update every action's reward memory each step with its average reward against the other's current play, the memories decaying at rate α, follow, in the limit of learning slow relative to play, coupled replicator equations plus a term α Σ x_j log(x_j / x_i) toward uniform play; in a two-player matrix game, without decay the dynamics preserve phase volume in log-ratio coordinates and are Hamiltonian when the game is zero-sum with an interior Nash equilibrium, and with decay the volume contracts at rate (N − 1)(α_X + α_Y)
+# THEORY-928: Memory decay makes softmax learning dissipative
 
 ## Source
 

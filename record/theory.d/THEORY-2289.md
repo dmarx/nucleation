@@ -3,7 +3,12 @@ number: 2289
 status: Active
 formerly:
 - THEORY-tmpfdyu6
-title: 'The Associated Press reports that the Tempe operator, charged with negligent homicide, pleaded guilty to endangerment and was sentenced to three years of supervised probation, and that prosecutors had declined to charge Uber as a corporation'
+title: 'Tempe operator pleaded guilty to endangerment'
+statement: >-
+  The Associated Press reports that the Tempe operator, charged with
+  negligent homicide, pleaded guilty to endangerment and was sentenced to
+  three years of supervised probation, and that prosecutors had declined to
+  charge Uber as a corporation
 version: 2
 history:
 - version: 2
@@ -44,7 +49,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-751 CASE-292 — Proposed; the claim this corroborates and the case it completes -->
 <!-- inactive-ok-file: CLAIM-1005 — new; the claim filed from the reading and its objection -->
 
-# THEORY-2289: The Associated Press reports that the Tempe operator, charged with negligent homicide, pleaded guilty to endangerment and was sentenced to three years of supervised probation, and that prosecutors had declined to charge Uber as a corporation
+# THEORY-2289: Tempe operator pleaded guilty to endangerment
 
 The Associated Press (2023), [LIT-3188](../literature.d/LIT-3188.md), read in [NOTE-2389](../notes.d/NOTE-2389.md); with
 Wamsley (2019, [LIT-3147](../literature.d/LIT-3147.md), [NOTE-2397](../notes.d/NOTE-2397.md)) and Wamsley (2020,

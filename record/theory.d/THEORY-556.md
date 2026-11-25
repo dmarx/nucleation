@@ -12,7 +12,14 @@ promote_when: >-
   would count against it. Agreement between clusterings and accepted
   kinds cannot settle either half, and neither can stability of a
   clustering under resampling, which spurious structure can also show.
-title: "Clustering, abstraction and generative modelling can be how we come to identify natural kinds, essential properties and unrealized possibilities, but kinds, essences and possibilities are not by definition what such algorithms would find under ideal conditions, because nothing guarantees they are effectively computable; so an algorithm's output is evidence about a kind, neither objective nor vacuous, and not what makes it one"
+title: 'Algorithms evidence kinds but don''t define them'
+statement: >-
+  Clustering, abstraction and generative modelling can be how we come to
+  identify natural kinds, essential properties and unrealized possibilities,
+  but kinds, essences and possibilities are not by definition what such
+  algorithms would find under ideal conditions, because nothing guarantees
+  they are effectively computable; so an algorithm's output is evidence
+  about a kind, neither objective nor vacuous, and not what makes it one
 version: 2
 history:
 - version: 2
@@ -47,7 +54,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-273 — Proposed; a neighbouring account of natural kinds, named for comparison -->
 
-# THEORY-556: Clustering, abstraction and generative modelling can be how we come to identify natural kinds, essential properties and unrealized possibilities, but kinds, essences and possibilities are not by definition what such algorithms would find under ideal conditions, because nothing guarantees they are effectively computable; so an algorithm's output is evidence about a kind, neither objective nor vacuous, and not what makes it one
+# THEORY-556: Algorithms evidence kinds but don't define them
 
 ## Source
 

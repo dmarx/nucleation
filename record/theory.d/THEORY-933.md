@@ -3,7 +3,16 @@ number: 933
 status: Active
 formerly:
 - THEORY-tmpayfgm
-title: 'Individual-Global-Max, that the agents'' individually greedy actions form a greedy joint action, is strictly weaker than additive or monotonic factorisation: every single-state matrix game with a unique optimum satisfies it, yet in 177 of 310 random three-by-three two-agent games value-decomposition and monotonic mixing failed to learn the optimal joint action that an IGM-only method found; a sufficient condition is that the sum of individual values, shifted by a state value, equals the joint value at the greedy profile and bounds it from above elsewhere'
+title: 'IGM is strictly weaker than monotonic factoring'
+statement: >-
+  Individual-Global-Max, that the agents' individually greedy actions form a
+  greedy joint action, is strictly weaker than additive or monotonic
+  factorisation: every single-state matrix game with a unique optimum
+  satisfies it, yet in 177 of 310 random three-by-three two-agent games
+  value-decomposition and monotonic mixing failed to learn the optimal joint
+  action that an IGM-only method found; a sufficient condition is that the
+  sum of individual values, shifted by a state value, equals the joint value
+  at the greedy profile and bounds it from above elsewhere
 version: 3
 history:
 - version: 2
@@ -57,7 +66,7 @@ bears_on:
 - QUESTION-271
 ---
 
-# THEORY-933: Individual-Global-Max, that the agents' individually greedy actions form a greedy joint action, is strictly weaker than additive or monotonic factorisation: every single-state matrix game with a unique optimum satisfies it, yet in 177 of 310 random three-by-three two-agent games value-decomposition and monotonic mixing failed to learn the optimal joint action that an IGM-only method found; a sufficient condition is that the sum of individual values, shifted by a state value, equals the joint value at the greedy profile and bounds it from above elsewhere
+# THEORY-933: IGM is strictly weaker than monotonic factoring
 
 ## Source
 

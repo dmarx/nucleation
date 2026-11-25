@@ -10,7 +10,12 @@ promote_when: >-
   by potential theory (Bovier, Eckhoff, Gayrard and Klein 2004); the
   failure of that prefactor at degenerate saddles; and the absence of a
   limiting prefactor for irreversible dynamics (cycling).
-title: 'Berglund holds that large-deviation theory fixes only the exponential order of the mean time for a small-noise diffusion to leave a potential well, while the Eyring–Kramers prefactor needs other methods, fails at degenerate saddles, and can fail to have a limit for irreversible dynamics'
+title: 'Large deviations fix only exit time''s exponent'
+statement: >-
+  Berglund holds that large-deviation theory fixes only the exponential
+  order of the mean time for a small-noise diffusion to leave a potential
+  well, while the Eyring–Kramers prefactor needs other methods, fails at
+  degenerate saddles, and can fail to have a limit for irreversible dynamics
 version: 2
 history:
 - version: 2
@@ -38,7 +43,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-2137 — Proposed, Unfetched or new; filed in the readings of 2026-11-21 -->
 <!-- inactive-ok-file: NOTE-1562 — Skimmed and new; the front-matter reading of the book this survey stands in for, cited as open -->
 
-# THEORY-1370: Berglund holds that large-deviation theory fixes only the exponential order of the mean time for a small-noise diffusion to leave a potential well, while the Eyring–Kramers prefactor needs other methods, fails at degenerate saddles, and can fail to have a limit for irreversible dynamics
+# THEORY-1370: Large deviations fix only exit time's exponent
 
 ## Source
 

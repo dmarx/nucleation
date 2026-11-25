@@ -14,7 +14,12 @@ promote_when: >-
   implement the computation refutes it. Further simulations of clamped
   networks cannot settle it, since the simulation only shows what any
   ideal clamp does.
-title: 'On computational functionalism, an intervention that changes no neural activity and no actual causal interaction can change consciousness, because a clamp that stays idle on the actual input removes the transitions on every other input'
+title: 'On functionalism, idle clamps alter experience'
+statement: >-
+  On computational functionalism, an intervention that changes no neural
+  activity and no actual causal interaction can change consciousness,
+  because a clamp that stays idle on the actual input removes the
+  transitions on every other input
 version: 2
 history:
 - version: 2
@@ -48,7 +53,7 @@ bounds:
 <!-- inactive-ok-file: CLAIM-440 — Proposed; the claim this reading bounds, cited in the history note, nothing here rests on it -->
 <!-- inactive-ok-file: THEORY-101 THEORY-092 THEORY-119 THEORY-043 THEORY-023 — Proposed; parallel and neighbouring accounts, named for comparison, nothing here rests on them -->
 
-# THEORY-252: On computational functionalism, an intervention that changes no neural activity and no actual causal interaction can change consciousness, because a clamp that stays idle on the actual input removes the transitions on every other input
+# THEORY-252: On functionalism, idle clamps alter experience
 
 ## Source
 

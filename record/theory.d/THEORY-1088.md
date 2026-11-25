@@ -3,7 +3,16 @@ number: 1088
 status: Active
 formerly:
 - THEORY-tmptkmt9
-title: 'When the expression maps of a discourse sheaf diffuse to reduce disagreement, with opinions held fixed they converge to the nearest sheaf, in Frobenius distance, of which the opinions are a global section, so apparent consensus is reached by changing what is said ("learning to lie"); with opinions diffusing too the joint flow is gradient descent on ½‖δx‖², and conserved diagonal blocks of αδᵀδ − βxxᵀ keep the opinions from collapsing to zero; nothing in either flow checks an expression against the opinion it expresses'
+title: 'Diffusing expressions reach consensus by lying'
+statement: >-
+  When the expression maps of a discourse sheaf diffuse to reduce
+  disagreement, with opinions held fixed they converge to the nearest sheaf,
+  in Frobenius distance, of which the opinions are a global section, so
+  apparent consensus is reached by changing what is said ("learning to
+  lie"); with opinions diffusing too the joint flow is gradient descent on
+  ½‖δx‖², and conserved diagonal blocks of αδᵀδ − βxxᵀ keep the opinions
+  from collapsing to zero; nothing in either flow checks an expression
+  against the opinion it expresses
 version: 3
 history:
 - version: 2
@@ -46,7 +55,7 @@ corroborates:
 - CLAIM-496
 ---
 
-# THEORY-1088: When the expression maps of a discourse sheaf diffuse to reduce disagreement, with opinions held fixed they converge to the nearest sheaf, in Frobenius distance, of which the opinions are a global section, so apparent consensus is reached by changing what is said ("learning to lie"); with opinions diffusing too the joint flow is gradient descent on ½‖δx‖², and conserved diagonal blocks of αδᵀδ − βxxᵀ keep the opinions from collapsing to zero; nothing in either flow checks an expression against the opinion it expresses
+# THEORY-1088: Diffusing expressions reach consensus by lying
 
 ## Source
 

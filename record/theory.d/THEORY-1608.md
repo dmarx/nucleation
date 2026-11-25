@@ -3,7 +3,14 @@ number: 1608
 status: Active
 formerly:
 - THEORY-tmpnloxg
-title: 'Spears argues, reviewing the self-categorization account of social influence, that when a group is internalized as a level of self, influence from in-group members is private acceptance and partly self-influence, bounded by shared identity and stronger from more prototypical members, and that crowd members switch to a group identity rather than lose the self'
+title: 'In-group influence is private acceptance'
+statement: >-
+  Spears argues, reviewing the self-categorization account of social
+  influence, that when a group is internalized as a level of self, influence
+  from in-group members is private acceptance and partly self-influence,
+  bounded by shared identity and stronger from more prototypical members,
+  and that crowd members switch to a group identity rather than lose the
+  self
 version: 2
 history:
 - version: 1
@@ -43,7 +50,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: CLAIM-493 — Proposed or Unavailable; the claims and works this reading bears on or cites, named, not leaned on -->
 
-# THEORY-1608: Spears argues, reviewing the self-categorization account of social influence, that when a group is internalized as a level of self, influence from in-group members is private acceptance and partly self-influence, bounded by shared identity and stronger from more prototypical members, and that crowd members switch to a group identity rather than lose the self
+# THEORY-1608: In-group influence is private acceptance
 
 ## The account
 

@@ -3,7 +3,13 @@ number: 1665
 status: Proposed
 formerly:
 - THEORY-tmp9nkgq
-title: 'Gao, Lee and Murphy (2020) find that after a local daily newspaper closes, a county''s municipal borrowing costs rise by about 5 to 11 basis points in the long run, with government wages, staffing and deficits rising too, and attribute this to the loss of the press''s monitoring of local government rather than to local economic decline.'
+title: 'Newspaper closures raise local borrowing costs'
+statement: >-
+  Gao, Lee and Murphy (2020) find that after a local daily newspaper closes,
+  a county's municipal borrowing costs rise by about 5 to 11 basis points in
+  the long run, with government wages, staffing and deficits rising too, and
+  attribute this to the loss of the press's monitoring of local government
+  rather than to local economic decline.
 version: 1
 source:
 - LIT-2424
@@ -29,7 +35,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-1761 — Skimmed; the reading filed from the same exchange -->
 
-# THEORY-1665: Gao, Lee and Murphy (2020) find that after a local daily newspaper closes, a county's municipal borrowing costs rise by about 5 to 11 basis points in the long run, with government wages, staffing and deficits rising too, and attribute this to the loss of the press's monitoring of local government rather than to local economic decline.
+# THEORY-1665: Newspaper closures raise local borrowing costs
 
 ## The account
 

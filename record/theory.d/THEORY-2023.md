@@ -3,7 +3,15 @@ number: 2023
 status: Proposed
 formerly:
 - THEORY-tmpddlli
-title: 'Lu and Kankanhalli show that a policy trained to decide, per query, whether to answer directly, reuse a stored test-time-trained LoRA skill or build a new one with one of five test-time-training methods roughly doubles a 7B model''s verified utility on a benchmark enriched for queries where adaptation helps, cuts adaptation compute by about 30% without loss of utility under a moderate compute penalty, and amortizes skill construction through reuse'
+title: 'Learned adaptation routing doubles utility'
+statement: >-
+  Lu and Kankanhalli show that a policy trained to decide, per query,
+  whether to answer directly, reuse a stored test-time-trained LoRA skill or
+  build a new one with one of five test-time-training methods roughly
+  doubles a 7B model's verified utility on a benchmark enriched for queries
+  where adaptation helps, cuts adaptation compute by about 30% without loss
+  of utility under a moderate compute penalty, and amortizes skill
+  construction through reuse
 version: 1
 source:
 - LIT-2806
@@ -37,7 +45,7 @@ summary: >-
   for parameter skills. Read in its NOTE.
 ---
 
-# THEORY-2023: Lu and Kankanhalli show that a policy trained to decide, per query, whether to answer directly, reuse a stored test-time-trained LoRA skill or build a new one with one of five test-time-training methods roughly doubles a 7B model's verified utility on a benchmark enriched for queries where adaptation helps, cuts adaptation compute by about 30% without loss of utility under a moderate compute penalty, and amortizes skill construction through reuse
+# THEORY-2023: Learned adaptation routing doubles utility
 
 ## The account
 

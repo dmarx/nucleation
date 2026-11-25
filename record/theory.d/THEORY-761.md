@@ -3,7 +3,14 @@ number: 761
 status: Active
 formerly:
 - THEORY-tmpuaxgt
-title: 'A continuous piecewise-linear function on R^d with compact support has a Fourier transform that, along any fixed direction û, is bounded by C(û)k^(−2), and by C(û)k^(−d−1) whenever û is orthogonal to no edge of its linear regions, which is almost every direction; C(û) is not uniform and grows without bound near the exceptional directions; for a ReLU network without compact support the statement is not established'
+title: 'Piecewise-linear Fourier decay is k^(−d−1)'
+statement: >-
+  A continuous piecewise-linear function on R^d with compact support has a
+  Fourier transform that, along any fixed direction û, is bounded by
+  C(û)k^(−2), and by C(û)k^(−d−1) whenever û is orthogonal to no edge of its
+  linear regions, which is almost every direction; C(û) is not uniform and
+  grows without bound near the exceptional directions; for a ReLU network
+  without compact support the statement is not established
 version: 2
 history:
 - version: 1
@@ -46,7 +53,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-759 — Proposed; the companion empirical account from the same paper, nothing here rests on it -->
 
-# THEORY-761: A continuous piecewise-linear function on R^d with compact support has a Fourier transform that, along any fixed direction û, is bounded by C(û)k^(−2), and by C(û)k^(−d−1) whenever û is orthogonal to no edge of its linear regions, which is almost every direction; C(û) is not uniform and grows without bound near the exceptional directions; for a ReLU network without compact support the statement is not established
+# THEORY-761: Piecewise-linear Fourier decay is k^(−d−1)
 
 ## Source
 

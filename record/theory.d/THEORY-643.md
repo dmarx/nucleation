@@ -14,7 +14,13 @@ promote_when: >-
   principle. It is refuted if a language shows a restriction on syntax
   reaching into words that neither X0/XP nor affix selection states. More
   English examples, or parsimony arguments, cannot settle it.
-title: "The restrictions on syntax reaching into words that a separate word-formation component was credited with are restrictions on heads versus phrases and on what individual affixes select, and phrases feed word formation, so a single combinatorial component can build both words and phrases"
+title: 'One component can build words and phrases'
+statement: >-
+  The restrictions on syntax reaching into words that a separate
+  word-formation component was credited with are restrictions on heads
+  versus phrases and on what individual affixes select, and phrases feed
+  word formation, so a single combinatorial component can build both words
+  and phrases
 version: 1
 tags:
 - linguistics
@@ -34,7 +40,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-588 — Proposed; the account that presupposes this one, cited as open -->
 
-# THEORY-643: The restrictions on syntax reaching into words that a separate word-formation component was credited with are restrictions on heads versus phrases and on what individual affixes select, and phrases feed word formation, so a single combinatorial component can build both words and phrases
+# THEORY-643: One component can build words and phrases
 
 ## Source
 

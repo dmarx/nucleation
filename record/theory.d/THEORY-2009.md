@@ -3,7 +3,15 @@ number: 2009
 status: Proposed
 formerly:
 - THEORY-tmp4kekv
-title: 'Chen, Kunin, Yamamura and Ganguli show that the symmetry-generated affine sets where a hidden neuron vanishes or two neurons in a layer are identical are invariant under SGD; that for a continuous model of SGD such a set attracts under a sufficient condition weighing the loss''s curvature against gradient noise, which can hold at saddles and maxima; and that VGG-16 and ResNet-18 trained with SGD form clusters of near-identical neurons that grow with the learning rate'
+title: 'SGD can be attracted to symmetry-induced sets'
+statement: >-
+  Chen, Kunin, Yamamura and Ganguli show that the symmetry-generated affine
+  sets where a hidden neuron vanishes or two neurons in a layer are
+  identical are invariant under SGD; that for a continuous model of SGD such
+  a set attracts under a sufficient condition weighing the loss's curvature
+  against gradient noise, which can hold at saddles and maxima; and that
+  VGG-16 and ResNet-18 trained with SGD form clusters of near-identical
+  neurons that grow with the learning rate
 version: 1
 source:
 - LIT-2793
@@ -28,7 +36,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-2163 THEORY-2164 — Proposed or Rejected; filed 2026-11-21 from the readings of Gutenkunst et al., Transtrum & Qiu, Amari, Park & Ozeki and Wei et al. -->
 
-# THEORY-2009: Chen, Kunin, Yamamura and Ganguli show that the symmetry-generated affine sets where a hidden neuron vanishes or two neurons in a layer are identical are invariant under SGD; that for a continuous model of SGD such a set attracts under a sufficient condition weighing the loss's curvature against gradient noise, which can hold at saddles and maxima; and that VGG-16 and ResNet-18 trained with SGD form clusters of near-identical neurons that grow with the learning rate
+# THEORY-2009: SGD can be attracted to symmetry-induced sets
 
 ## The account
 

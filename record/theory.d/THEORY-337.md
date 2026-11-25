@@ -3,7 +3,12 @@ number: 337
 status: Active
 formerly:
 - THEORY-tmparmts
-title: "In the comparative-question paradigm, judging whether a quantity is higher or lower than a high or low anchor pulls the later estimate of it toward the anchor, with large effects in five preregistered experiments of 128 people each, lasting through dozens of intervening word-recognition trials"
+title: 'Comparative anchors pull estimates, and it lasts'
+statement: >-
+  In the comparative-question paradigm, judging whether a quantity is higher
+  or lower than a high or low anchor pulls the later estimate of it toward
+  the anchor, with large effects in five preregistered experiments of 128
+  people each, lasting through dozens of intervening word-recognition trials
 version: 1
 tags:
 - cognition
@@ -25,7 +30,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-184 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
-# THEORY-337: In the comparative-question paradigm, judging whether a quantity is higher or lower than a high or low anchor pulls the later estimate of it toward the anchor, with large effects in five preregistered experiments of 128 people each, lasting through dozens of intervening word-recognition trials
+# THEORY-337: Comparative anchors pull estimates, and it lasts
 
 ## Source
 

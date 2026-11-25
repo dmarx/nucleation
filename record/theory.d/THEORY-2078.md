@@ -3,7 +3,15 @@ number: 2078
 status: Proposed
 formerly:
 - THEORY-tmpq9sev
-title: 'Petty, van Steenkiste and Linzen find that in 374M-parameter language models pretrained on natural language and code shuffled together, a larger code share improves fine-tuned compositional generalization to formal-output semantic parsing beyond what the same extra language data gives, and improves multi-digit arithmetic, while it lowers natural-language-output generalization and morphology, reasoning and world-knowledge tasks'
+title: 'More code aids compositional, hurts language'
+statement: >-
+  Petty, van Steenkiste and Linzen find that in 374M-parameter language
+  models pretrained on natural language and code shuffled together, a larger
+  code share improves fine-tuned compositional generalization to
+  formal-output semantic parsing beyond what the same extra language data
+  gives, and improves multi-digit arithmetic, while it lowers
+  natural-language-output generalization and morphology, reasoning and
+  world-knowledge tasks
 version: 1
 source:
 - LIT-2846
@@ -25,7 +33,7 @@ summary: >-
   contrast. Proposed until its promote_when is met.
 ---
 
-# THEORY-2078: Petty, van Steenkiste and Linzen find that in 374M-parameter language models pretrained on natural language and code shuffled together, a larger code share improves fine-tuned compositional generalization to formal-output semantic parsing beyond what the same extra language data gives, and improves multi-digit arithmetic, while it lowers natural-language-output generalization and morphology, reasoning and world-knowledge tasks
+# THEORY-2078: More code aids compositional, hurts language
 
 ## The account
 

@@ -3,7 +3,16 @@ number: 1024
 status: Active
 formerly:
 - THEORY-tmpg87ki
-title: 'In GPT-J, for 652 CounterFact facts the model knows, the per-fact causal-tracing effect at an MLP layer adds at most 3.2 points of explained variance in the success of editing that fact at that layer, beyond what the choice of layer alone explains, across ROME, MEMIT and constrained fine-tuning and five editing objectives; ROME rewrites the fact at over 96% at every layer but the last, including layers where tracing does not place it, and the only reliable link appears when the edit is made on the noised input that tracing uses'
+title: 'Causal tracing barely predicts editing success'
+statement: >-
+  In GPT-J, for 652 CounterFact facts the model knows, the per-fact
+  causal-tracing effect at an MLP layer adds at most 3.2 points of explained
+  variance in the success of editing that fact at that layer, beyond what
+  the choice of layer alone explains, across ROME, MEMIT and constrained
+  fine-tuning and five editing objectives; ROME rewrites the fact at over
+  96% at every layer but the last, including layers where tracing does not
+  place it, and the only reliable link appears when the edit is made on the
+  noised input that tracing uses
 version: 2
 history:
 - version: 1
@@ -47,7 +56,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: THEORY-1026 THEORY-1011 — Proposed; the account of why and the storage hypothesis this result bears on, cited as open -->
 
-# THEORY-1024: In GPT-J, for 652 CounterFact facts the model knows, the per-fact causal-tracing effect at an MLP layer adds at most 3.2 points of explained variance in the success of editing that fact at that layer, beyond what the choice of layer alone explains, across ROME, MEMIT and constrained fine-tuning and five editing objectives; ROME rewrites the fact at over 96% at every layer but the last, including layers where tracing does not place it, and the only reliable link appears when the edit is made on the noised input that tracing uses
+# THEORY-1024: Causal tracing barely predicts editing success
 
 ## Source
 

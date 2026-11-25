@@ -3,7 +3,15 @@ number: 1432
 status: Active
 formerly:
 - THEORY-tmpxup0v
-title: 'Murray and Sastry show, with Chow''s theorem as they recall it, that locally, where the bracket distributions have constant rank, a driftless system whose input vector fields, with their iterated Lie brackets, span every direction can be steered between configurations even though its constraints forbid instantaneous motion in some directions, and that for first-order, second-order and chained systems sinusoids at integrally related frequencies do the steering, one bracketing level at a time'
+title: 'Bracket-spanning driftless systems are steerable'
+statement: >-
+  Murray and Sastry show, with Chow's theorem as they recall it, that
+  locally, where the bracket distributions have constant rank, a driftless
+  system whose input vector fields, with their iterated Lie brackets, span
+  every direction can be steered between configurations even though its
+  constraints forbid instantaneous motion in some directions, and that for
+  first-order, second-order and chained systems sinusoids at integrally
+  related frequencies do the steering, one bracketing level at a time
 version: 2
 history:
 - version: 2
@@ -45,7 +53,7 @@ summary: >-
   suffice beyond the classes named, or what the steering costs.
 ---
 
-# THEORY-1432: Murray and Sastry show, with Chow's theorem as they recall it, that locally, where the bracket distributions have constant rank, a driftless system whose input vector fields, with their iterated Lie brackets, span every direction can be steered between configurations even though its constraints forbid instantaneous motion in some directions, and that for first-order, second-order and chained systems sinusoids at integrally related frequencies do the steering, one bracketing level at a time
+# THEORY-1432: Bracket-spanning driftless systems are steerable
 
 ## Source
 

@@ -3,7 +3,12 @@ number: 32
 status: Active
 formerly:
 - THEORY-tmp9666i
-title: 'The Yoneda lemma determines an object only up to isomorphism, from its whole hom-functor, among objects the category already has; as a formal version of "an object is determined by its relations" it presupposes the relata'
+title: 'Yoneda presupposes the relata'
+statement: >-
+  The Yoneda lemma determines an object only up to isomorphism, from its
+  whole hom-functor, among objects the category already has; as a formal
+  version of "an object is determined by its relations" it presupposes the
+  relata
 version: 1
 tags:
 - philosophy-of-mathematics
@@ -27,7 +32,7 @@ corroborates:
 - CLAIM-136
 ---
 
-# THEORY-032: The Yoneda lemma determines an object only up to isomorphism, from its whole hom-functor, among objects the category already has; as a formal version of "an object is determined by its relations" it presupposes the relata
+# THEORY-032: Yoneda presupposes the relata
 
 ## Source
 

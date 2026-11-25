@@ -3,7 +3,12 @@ number: 306
 status: Active
 formerly:
 - THEORY-tmp8v921
-title: "MSN's objective penalizes unequal cluster sizes explicitly and SwAV's enforces equal sizes, and in one study with mini-batches of two to eight ImageNet classes, SimCLR, MSN and VICReg lost 11 to 18 points of ImageNet linear accuracy while MAE and data2vec lost under one"
+title: 'Small-batch class counts hurt joint-embedding SSL'
+statement: >-
+  MSN's objective penalizes unequal cluster sizes explicitly and SwAV's
+  enforces equal sizes, and in one study with mini-batches of two to eight
+  ImageNet classes, SimCLR, MSN and VICReg lost 11 to 18 points of ImageNet
+  linear accuracy while MAE and data2vec lost under one
 version: 4
 history:
 - version: 2
@@ -53,7 +58,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-805 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
 
-# THEORY-306: MSN's objective penalizes unequal cluster sizes explicitly and SwAV's enforces equal sizes, and in one study with mini-batches of two to eight ImageNet classes, SimCLR, MSN and VICReg lost 11 to 18 points of ImageNet linear accuracy while MAE and data2vec lost under one
+# THEORY-306: Small-batch class counts hurt joint-embedding SSL
 
 ## Source
 

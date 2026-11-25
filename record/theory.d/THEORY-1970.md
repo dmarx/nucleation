@@ -7,7 +7,14 @@ promote_when: >-
   A check of §§1–3 against the National Archives transcription, or another
   official text, confirms the quotations. The title asserts what the
   Declaration of Rights says, not that it is true.
-title: 'The Virginia Declaration of Rights declares that men have inherent rights of which they cannot by compact divest their posterity, that magistrates are the people''s trustees and servants and at all times amenable to them, and that when government is found inadequate to its purposes a majority of the community has an indubitable, inalienable and indefeasible right to reform, alter or abolish it'
+title: 'Majority may reform or abolish failed government'
+statement: >-
+  The Virginia Declaration of Rights declares that men have inherent rights
+  of which they cannot by compact divest their posterity, that magistrates
+  are the people's trustees and servants and at all times amenable to them,
+  and that when government is found inadequate to its purposes a majority of
+  the community has an indubitable, inalienable and indefeasible right to
+  reform, alter or abolish it
 version: 1
 tags:
 - society-and-governance
@@ -27,7 +34,7 @@ summary: >-
   The wording is the reader's; adopting it is the owner's call.
 ---
 
-# THEORY-1970: The Virginia Declaration of Rights declares that men have inherent rights of which they cannot by compact divest their posterity, that magistrates are the people's trustees and servants and at all times amenable to them, and that when government is found inadequate to its purposes a majority of the community has an indubitable, inalienable and indefeasible right to reform, alter or abolish it
+# THEORY-1970: Majority may reform or abolish failed government
 
 The Virginia Declaration of Rights (1776), [LIT-2733](../literature.d/LIT-2733.md).
 

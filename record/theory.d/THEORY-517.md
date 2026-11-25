@@ -15,7 +15,12 @@ promote_when: >-
   lower planetary entropy production, or if feedbacks near the state life
   produces are positive. Sensitivity studies that assume MEP, and the
   schematic feedback figure, cannot settle it.
-title: "Life raises the Earth's entropy production, chiefly by increasing the absorption of sunlight, and if the planet is held at maximum entropy production, the negative feedbacks of that state would give the homeostasis the Gaia hypothesis postulates"
+title: 'Life raises Earth''s entropy production'
+statement: >-
+  Life raises the Earth's entropy production, chiefly by increasing the
+  absorption of sunlight, and if the planet is held at maximum entropy
+  production, the negative feedbacks of that state would give the
+  homeostasis the Gaia hypothesis postulates
 version: 1
 tags:
 - thermodynamics
@@ -39,7 +44,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-072 THEORY-532 THEORY-492 — Proposed; named as neighbouring accounts, not leaned on -->
 <!-- inactive-ok-file: THEORY-671 — Proposed; the premise this account presupposes, and the reason it is itself only Proposed -->
 
-# THEORY-517: Life raises the Earth's entropy production, chiefly by increasing the absorption of sunlight, and if the planet is held at maximum entropy production, the negative feedbacks of that state would give the homeostasis the Gaia hypothesis postulates
+# THEORY-517: Life raises Earth's entropy production
 
 ## Source
 

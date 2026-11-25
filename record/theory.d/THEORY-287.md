@@ -14,7 +14,12 @@ promote_when: >-
   location is controlled for. What cannot settle it: in-distribution
   results, where the paper's last-token probe and its causal-variable
   probe coincide.
-title: "Internal variables located by interchange intervention as mediating a language model's in-distribution behaviour predict whether its outputs stay correct under shifts that keep the task's mechanism better than output confidence or probes of the rest of the representation"
+title: 'Located mediators predict OOD correctness'
+statement: >-
+  Internal variables located by interchange intervention as mediating a
+  language model's in-distribution behaviour predict whether its outputs
+  stay correct under shifts that keep the task's mechanism better than
+  output confidence or probes of the rest of the representation
 version: 1
 tags:
 - causality
@@ -34,7 +39,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-078 — Proposed; the success criterion this result parallels, open -->
 
-# THEORY-287: Internal variables located by interchange intervention as mediating a language model's in-distribution behaviour predict whether its outputs stay correct under shifts that keep the task's mechanism better than output confidence or probes of the rest of the representation
+# THEORY-287: Located mediators predict OOD correctness
 
 ## Source
 

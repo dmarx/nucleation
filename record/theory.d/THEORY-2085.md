@@ -3,7 +3,13 @@ number: 2085
 status: Proposed
 formerly:
 - THEORY-tmp1xpyh
-title: 'The owner hypothesizes that a text-to-image model learns a named identity in phases, from domination by biases carried by parts of the name, through stabilized coarse attributes, to a unique identity it can apply flexibly, and then to overfitting, and that giving an identity its own concept direction is a detectable change in the weights'
+title: 'Identity learning may proceed in phases'
+statement: >-
+  The owner hypothesizes that a text-to-image model learns a named identity
+  in phases, from domination by biases carried by parts of the name, through
+  stabilized coarse attributes, to a unique identity it can apply flexibly,
+  and then to overfitting, and that giving an identity its own concept
+  direction is a detectable change in the weights
 version: 1
 source:
 - LIT-2875
@@ -25,7 +31,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-298 — newly filed in this contribution -->
 
-# THEORY-2085: The owner hypothesizes that a text-to-image model learns a named identity in phases, from domination by biases carried by parts of the name, through stabilized coarse attributes, to a unique identity it can apply flexibly, and then to overfitting, and that giving an identity its own concept direction is a detectable change in the weights
+# THEORY-2085: Identity learning may proceed in phases
 
 ## The account
 

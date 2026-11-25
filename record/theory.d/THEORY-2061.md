@@ -3,7 +3,15 @@ number: 2061
 status: Proposed
 formerly:
 - THEORY-tmp5zxkk
-title: 'Marx (2017) maps Reddit''s subreddits by shared active users with each directed edge weighted by the share of the target subreddit''s active users also active in the source, so that a small community nested in a large one appears as an edge into it, read as a specialization forked from the larger community; the monthly graphs are flattened by their maximum weight, which keeps relationships and discards the order in which they formed'
+title: 'Subreddit overlap graph reads nesting as forks'
+statement: >-
+  Marx (2017) maps Reddit's subreddits by shared active users with each
+  directed edge weighted by the share of the target subreddit's active users
+  also active in the source, so that a small community nested in a large one
+  appears as an edge into it, read as a specialization forked from the
+  larger community; the monthly graphs are flattened by their maximum
+  weight, which keeps relationships and discards the order in which they
+  formed
 version: 1
 source:
 - LIT-2869
@@ -21,7 +29,7 @@ summary: >-
   subcommunities. Proposed until its promote_when is met.
 ---
 
-# THEORY-2061: Marx (2017) maps Reddit's subreddits by shared active users with each directed edge weighted by the share of the target subreddit's active users also active in the source, so that a small community nested in a large one appears as an edge into it, read as a specialization forked from the larger community; the monthly graphs are flattened by their maximum weight, which keeps relationships and discards the order in which they formed
+# THEORY-2061: Subreddit overlap graph reads nesting as forks
 
 ## The account
 

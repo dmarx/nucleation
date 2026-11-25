@@ -12,7 +12,13 @@ promote_when: >-
   one state, or if symptom change in IFS does not follow change in that
   state. Outcome trials of IFS as a package cannot settle it, because a
   therapy can work for reasons other than its theory of change.
-title: "A person's mind is normally a system of parts that take protective roles, managers, exiles and firefighters, forced on them by experience and not part of their nature; beneath the parts is a Self, distinct from all of them and present from the start, which appears with calm, curiosity and compassion when the parts step back and which heals by leading the system"
+title: 'Mind is protective parts led by a Self'
+statement: >-
+  A person's mind is normally a system of parts that take protective roles,
+  managers, exiles and firefighters, forced on them by experience and not
+  part of their nature; beneath the parts is a Self, distinct from all of
+  them and present from the start, which appears with calm, curiosity and
+  compassion when the parts step back and which heals by leading the system
 version: 1
 tags:
 - psychopathology-and-treatment
@@ -37,7 +43,7 @@ bears_on:
 <!-- inactive-ok-file: NOTE-457 — Skimmed; the reading of that chapter, which this account says it rests on in part -->
 <!-- inactive-ok-file: THEORY-044 THEORY-050 THEORY-051 — Proposed; the ACT accounts named for contrast, not leaned on -->
 
-# THEORY-409: A person's mind is normally a system of parts that take protective roles, managers, exiles and firefighters, forced on them by experience and not part of their nature; beneath the parts is a Self, distinct from all of them and present from the start, which appears with calm, curiosity and compassion when the parts step back and which heals by leading the system
+# THEORY-409: Mind is protective parts led by a Self
 
 ## Source
 

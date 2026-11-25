@@ -15,7 +15,13 @@ promote_when: >-
   cannot settle it: more reported cases of learned organization improving
   constraint satisfaction, which presuppose the decomposition, or the
   essay's own illustrations.
-title: "A whole can be compared in agency with its parts, relative to a chosen decomposition and the parts' goals: it is more agential when its organization lets the parts resolve more of their mutual constraints than they do at the equilibrium of their former organization, which shows as delayed gratification"
+title: 'Agency grows when parts resolve constraints'
+statement: >-
+  A whole can be compared in agency with its parts, relative to a chosen
+  decomposition and the parts' goals: it is more agential when its
+  organization lets the parts resolve more of their mutual constraints than
+  they do at the equilibrium of their former organization, which shows as
+  delayed gratification
 version: 2
 history:
 - version: 2
@@ -53,7 +59,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-010 — Rejected; cited as the permissiveness objection, not as standing -->
 <!-- inactive-ok-file: THEORY-249 — Proposed; named in Connections as the general form of this account's frame-dependence, not leaned on -->
 
-# THEORY-232: A whole can be compared in agency with its parts, relative to a chosen decomposition and the parts' goals: it is more agential when its organization lets the parts resolve more of their mutual constraints than they do at the equilibrium of their former organization, which shows as delayed gratification
+# THEORY-232: Agency grows when parts resolve constraints
 
 ## Source
 

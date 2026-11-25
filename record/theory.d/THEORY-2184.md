@@ -13,7 +13,16 @@ promote_when: >-
   as reported, and the routes to linear attachment only as the chapter
   reads them, so neither a remeasurement nor a rival reading of those
   routes meets or defeats it.
-title: "Barabási's Network Science chapter on the Barabási–Albert model derives a degree exponent of 3 from arrival at equal steps and the exact degree distribution 2m(m+1)/[k(k+1)(k+2)], shows that dropping growth or preferential attachment loses the scale-free property or stationarity, states after Krapivsky, Redner and Leyvraz that only linear attachment gives a pure power law, reports measured attachment exponents near 1, and reads link selection, copying and optimisation as routes that generate linear attachment"
+title: 'BA model needs growth and linear attachment'
+statement: >-
+  Barabási's Network Science chapter on the Barabási–Albert model derives a
+  degree exponent of 3 from arrival at equal steps and the exact degree
+  distribution 2m(m+1)/[k(k+1)(k+2)], shows that dropping growth or
+  preferential attachment loses the scale-free property or stationarity,
+  states after Krapivsky, Redner and Leyvraz that only linear attachment
+  gives a pure power law, reports measured attachment exponents near 1, and
+  reads link selection, copying and optimisation as routes that generate
+  linear attachment
 version: 1
 tags:
 - network-science
@@ -39,7 +48,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-817 CLAIM-806 THEORY-2181 THEORY-188 — Proposed; the claims this reading bears on and the readings beside it -->
 
-# THEORY-2184: Barabási's Network Science chapter on the Barabási–Albert model derives a degree exponent of 3 from arrival at equal steps and the exact degree distribution 2m(m+1)/[k(k+1)(k+2)], shows that dropping growth or preferential attachment loses the scale-free property or stationarity, states after Krapivsky, Redner and Leyvraz that only linear attachment gives a pure power law, reports measured attachment exponents near 1, and reads link selection, copying and optimisation as routes that generate linear attachment
+# THEORY-2184: BA model needs growth and linear attachment
 
 ## Source
 

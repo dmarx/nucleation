@@ -14,7 +14,14 @@ promote_when: >-
   near-future AI has conscious practical deliberation; that would turn the
   conditional into a live conclusion or remove it. Further restatements of
   the premises, or of the retreats to moderation, cannot settle it.
-title: "On the grounds of moral standing now commonly accepted, together with scientific premises that are not unreasonable, the aggregate interests of insects or the interests of near-future AI could outweigh humanity's; no capacity yet proposed secures human priority, and the books that state those grounds retreat to moderate advice without a principle that supplies the stopping point"
+title: 'Standing grounds don''t secure human priority'
+statement: >-
+  On the grounds of moral standing now commonly accepted, together with
+  scientific premises that are not unreasonable, the aggregate interests of
+  insects or the interests of near-future AI could outweigh humanity's; no
+  capacity yet proposed secures human priority, and the books that state
+  those grounds retreat to moderate advice without a principle that supplies
+  the stopping point
 version: 2
 history:
 - version: 2
@@ -46,7 +53,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-449 THEORY-699 — Proposed; related or rival accounts named in Connections, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-126 — Rejected; cited for the position it states, not leaned on -->
 
-# THEORY-554: On the grounds of moral standing now commonly accepted, together with scientific premises that are not unreasonable, the aggregate interests of insects or the interests of near-future AI could outweigh humanity's; no capacity yet proposed secures human priority, and the books that state those grounds retreat to moderate advice without a principle that supplies the stopping point
+# THEORY-554: Standing grounds don't secure human priority
 
 ## Source
 

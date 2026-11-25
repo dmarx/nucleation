@@ -3,7 +3,13 @@ number: 15
 status: Active
 formerly:
 - THEORY-tmpszumj
-title: 'Kochen–Specker noncontextuality is measurement noncontextuality plus outcome determinism for sharp measurements, and preparation noncontextuality implies that determinism, so every Kochen–Specker proof refutes universal generalized noncontextuality while measurement noncontextuality alone is consistent with quantum theory'
+title: 'KS proofs refute generalized noncontextuality'
+statement: >-
+  Kochen–Specker noncontextuality is measurement noncontextuality plus
+  outcome determinism for sharp measurements, and preparation
+  noncontextuality implies that determinism, so every Kochen–Specker proof
+  refutes universal generalized noncontextuality while measurement
+  noncontextuality alone is consistent with quantum theory
 version: 3
 history:
 - version: 2
@@ -49,7 +55,7 @@ answers:
 - QUESTION-246
 ---
 
-# THEORY-015: Kochen–Specker noncontextuality is measurement noncontextuality plus outcome determinism for sharp measurements, and preparation noncontextuality implies that determinism, so every Kochen–Specker proof refutes universal generalized noncontextuality while measurement noncontextuality alone is consistent with quantum theory
+# THEORY-015: KS proofs refute generalized noncontextuality
 
 ## Source
 

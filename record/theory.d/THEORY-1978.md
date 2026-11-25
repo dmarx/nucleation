@@ -8,7 +8,14 @@ promote_when: >-
   tasks compete for time and attention, stronger incentives on a measured
   task reduce effort on unmeasured tasks, so that the best incentive for
   one task depends on how well the others can be measured.
-title: 'When an agent divides attention among tasks measured with different precision, incentive pay on the measurable tasks draws effort from the unmeasured ones, so the best incentive for any task falls with the difficulty of measuring the others and can be a fixed wage, with asset ownership, limits on activities and job design acting as substitute instruments'
+title: 'Unmeasured tasks can make fixed wages optimal'
+statement: >-
+  When an agent divides attention among tasks measured with different
+  precision, incentive pay on the measurable tasks draws effort from the
+  unmeasured ones, so the best incentive for any task falls with the
+  difficulty of measuring the others and can be a fixed wage, with asset
+  ownership, limits on activities and job design acting as substitute
+  instruments
 version: 1
 tags:
 - game-theory
@@ -26,7 +33,7 @@ summary: >-
   is the owner's call.
 ---
 
-# THEORY-1978: When an agent divides attention among tasks measured with different precision, incentive pay on the measurable tasks draws effort from the unmeasured ones, so the best incentive for any task falls with the difficulty of measuring the others and can be a fixed wage, with asset ownership, limits on activities and job design acting as substitute instruments
+# THEORY-1978: Unmeasured tasks can make fixed wages optimal
 
 Holmström & Milgrom (1991), [LIT-2753](../literature.d/LIT-2753.md).
 

@@ -3,7 +3,12 @@ number: 584
 status: Active
 formerly:
 - THEORY-tmpmfcjz
-title: "The quantum fidelity tr√(ρ1^{1/2}ρ0ρ1^{1/2}) is exactly the classical Bhattacharyya overlap of the two states' outcome distributions minimized over all measurements, and the minimum is attained by a projective measurement whose eigenvalues are square roots of likelihood ratios"
+title: 'Fidelity is minimized Bhattacharyya overlap'
+statement: >-
+  The quantum fidelity tr√(ρ1^{1/2}ρ0ρ1^{1/2}) is exactly the classical
+  Bhattacharyya overlap of the two states' outcome distributions minimized
+  over all measurements, and the minimum is attained by a projective
+  measurement whose eigenvalues are square roots of likelihood ratios
 version: 1
 tags:
 - quantum-foundations
@@ -25,7 +30,7 @@ summary: >-
 
 <!-- inactive-ok-file: THEORY-416 — Proposed; named in Connections, not leaned on -->
 
-# THEORY-584: The quantum fidelity tr√(ρ1^{1/2}ρ0ρ1^{1/2}) is exactly the classical Bhattacharyya overlap of the two states' outcome distributions minimized over all measurements, and the minimum is attained by a projective measurement whose eigenvalues are square roots of likelihood ratios
+# THEORY-584: Fidelity is minimized Bhattacharyya overlap
 
 ## Source
 

@@ -27,8 +27,12 @@ promote_when: "A result that separates the number of examples a deep network nee
 
 # The claim. Repeat it as the body's `# THEORY-786:` heading; the lint checks
 # that the two agree.
-title: 'Deep networks learn hierarchically generated data from a number of examples set by when the correlations between input patches and the class rise above sampling noise, so detecting those correlations is how they learn the grammar, as Cagnetta and coauthors propose'
-
+title: 'Nets learn grammar when correlations beat noise'
+statement: >-
+  Deep networks learn hierarchically generated data from a number of
+  examples set by when the correlations between input patches and the class
+  rise above sampling noise, so detecting those correlations is how they
+  learn the grammar, as Cagnetta and coauthors propose
 version: 1
 
 # One or more topics from luria.yaml, primary first — the same table the
@@ -62,7 +66,7 @@ answers:
 
 <!-- inactive-ok-file: THEORY-201 — Proposed; the companion mechanism for next-token prediction, cited as open -->
 
-# THEORY-786: Deep networks learn hierarchically generated data from a number of examples set by when the correlations between input patches and the class rise above sampling noise, so detecting those correlations is how they learn the grammar, as Cagnetta and coauthors propose
+# THEORY-786: Nets learn grammar when correlations beat noise
 
 ## Source
 

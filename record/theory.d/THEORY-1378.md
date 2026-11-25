@@ -3,7 +3,13 @@ number: 1378
 status: Active
 formerly:
 - THEORY-tmp6sg3n
-title: 'Gerardi and Maestri show that when a firm can offer a privately informed worker only short-term contracts, then as both become patient the unique limiting outcome is a pooling contract with no learning if the prior that the worker is low-cost is below a threshold, and immediate firing of the high-cost worker if it is above, both inefficient'
+title: 'Short-term contracts force pooling or firing'
+statement: >-
+  Gerardi and Maestri show that when a firm can offer a privately informed
+  worker only short-term contracts, then as both become patient the unique
+  limiting outcome is a pooling contract with no learning if the prior that
+  the worker is low-cost is below a threshold, and immediate firing of the
+  high-cost worker if it is above, both inefficient
 version: 3
 history:
 - version: 1
@@ -50,7 +56,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: LIT-2062 — Unfetched; the unread original this reading stands in for, cited as open -->
 
-# THEORY-1378: Gerardi and Maestri show that when a firm can offer a privately informed worker only short-term contracts, then as both become patient the unique limiting outcome is a pooling contract with no learning if the prior that the worker is low-cost is below a threshold, and immediate firing of the high-cost worker if it is above, both inefficient
+# THEORY-1378: Short-term contracts force pooling or firing
 
 ## Source
 

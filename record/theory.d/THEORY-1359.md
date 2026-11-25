@@ -12,7 +12,14 @@ promote_when: >-
   better than one that resets its prior, both at the group level and for
   most individuals. Third, the fitted weight on form information exceeds
   the weight on structure information when the two disagree.
-title: 'Jiang and Lucas propose that, when people choose interventions across a series of related causal-learning tasks, they seek information about overhypotheses about how causes combine as well as about which objects are causes in the task at hand, carry the overhypotheses they learn into later tasks, and accept less information about the immediate causal structure in exchange'
+title: 'Interventions also seek causal overhypotheses'
+statement: >-
+  Jiang and Lucas propose that, when people choose interventions across a
+  series of related causal-learning tasks, they seek information about
+  overhypotheses about how causes combine as well as about which objects are
+  causes in the task at hand, carry the overhypotheses they learn into later
+  tasks, and accept less information about the immediate causal structure in
+  exchange
 version: 1
 history:
 - version: 1
@@ -40,7 +47,7 @@ summary: >-
   the owner's call.
 ---
 
-# THEORY-1359: Jiang and Lucas propose that, when people choose interventions across a series of related causal-learning tasks, they seek information about overhypotheses about how causes combine as well as about which objects are causes in the task at hand, carry the overhypotheses they learn into later tasks, and accept less information about the immediate causal structure in exchange
+# THEORY-1359: Interventions also seek causal overhypotheses
 
 ## Source
 

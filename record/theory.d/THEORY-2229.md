@@ -10,7 +10,12 @@ promote_when: >-
   every response, that identity is available by visual field whatever the
   response type, and that the authors, from both sides of the debate,
   hold the evidence insufficient to say whether consciousness is split.
-title: 'After callosotomy, perception and attention are largely split between the hemispheres while detection, localisation and response selection stay largely unified, so access to a content can depend on the operation that uses it; whether the subject is split remains undecided on the evidence'
+title: 'Split-brain splits perception, not responses'
+statement: >-
+  After callosotomy, perception and attention are largely split between the
+  hemispheres while detection, localisation and response selection stay
+  largely unified, so access to a content can depend on the operation that
+  uses it; whether the subject is split remains undecided on the evidence
 version: 1
 tags:
 - consciousness
@@ -36,7 +41,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-3091 — Unfetched; the work this review stands in for -->
 <!-- inactive-ok-file: CLAIM-003 ARG-202 — Proposed; the claim this account corroborates and the argument that says how far -->
 
-# THEORY-2229: After callosotomy, perception and attention are largely split between the hemispheres while detection, localisation and response selection stay largely unified, so access to a content can depend on the operation that uses it; whether the subject is split remains undecided on the evidence
+# THEORY-2229: Split-brain splits perception, not responses
 
 de Haan et al. (2020), [LIT-3102](../literature.d/LIT-3102.md), read in [NOTE-2319](../notes.d/NOTE-2319.md).
 

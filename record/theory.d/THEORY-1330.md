@@ -3,7 +3,15 @@ number: 1330
 status: Active
 formerly:
 - THEORY-tmple55n
-title: 'In Gemma 2 27B, Qwen 3 32B and Llama 3.3 70B, activation vectors for 275 prompted character roles span a low-dimensional space whose first principal component runs from fantastical to Assistant-like roles, with role loadings correlated above 0.92 between models and the default Assistant at its extreme; the contrast vector from the default Assistant to the role mean aligns with it and is largely present before post-training'
+title: 'Role space''s main axis ends at the Assistant'
+statement: >-
+  In Gemma 2 27B, Qwen 3 32B and Llama 3.3 70B, activation vectors for 275
+  prompted character roles span a low-dimensional space whose first
+  principal component runs from fantastical to Assistant-like roles, with
+  role loadings correlated above 0.92 between models and the default
+  Assistant at its extreme; the contrast vector from the default Assistant
+  to the role mean aligns with it and is largely present before
+  post-training
 version: 2
 history:
 - version: 2
@@ -33,7 +41,7 @@ bears_on:
 - QUESTION-443
 ---
 
-# THEORY-1330: In Gemma 2 27B, Qwen 3 32B and Llama 3.3 70B, activation vectors for 275 prompted character roles span a low-dimensional space whose first principal component runs from fantastical to Assistant-like roles, with role loadings correlated above 0.92 between models and the default Assistant at its extreme; the contrast vector from the default Assistant to the role mean aligns with it and is largely present before post-training
+# THEORY-1330: Role space's main axis ends at the Assistant
 
 ## Source
 

@@ -14,7 +14,14 @@ promote_when: >-
   refuted if insiders of similar training detect them as often, or if
   non-members' reports are taken up as readily. Further argument from
   the stranger's position cannot settle it.
-title: 'A member of a discipline who has been trained into its paradigms yet remains rooted in experience those paradigms omit or distort is better placed than its insiders to perceive those omissions and distortions as anomalies, and better placed than outsiders who share the experience to have them taken up, because insiders share the assumptions that produced the anomalies and outsiders lack the professional authority to press them'
+title: 'Trained outsiders-within best spot anomalies'
+statement: >-
+  A member of a discipline who has been trained into its paradigms yet
+  remains rooted in experience those paradigms omit or distort is better
+  placed than its insiders to perceive those omissions and distortions as
+  anomalies, and better placed than outsiders who share the experience to
+  have them taken up, because insiders share the assumptions that produced
+  the anomalies and outsiders lack the professional authority to press them
 version: 2
 history:
 - version: 2
@@ -44,7 +51,7 @@ corroborates:
 - CLAIM-403
 ---
 <!-- inactive-ok-file: THEORY-151 — Proposed; an account this one bears on, nothing here rests on it -->
-# THEORY-834: A member of a discipline who has been trained into its paradigms yet remains rooted in experience those paradigms omit or distort is better placed than its insiders to perceive those omissions and distortions as anomalies, and better placed than outsiders who share the experience to have them taken up, because insiders share the assumptions that produced the anomalies and outsiders lack the professional authority to press them
+# THEORY-834: Trained outsiders-within best spot anomalies
 
 ## Source
 

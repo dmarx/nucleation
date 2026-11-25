@@ -24,7 +24,11 @@ promote_when: >-
   thought experiments (Kavka's toxin, the pianist), which show the
   account is coherent and not that it is true; and more demonstrations
   of preference reversal, which every rival also accepts.
-title: 'Self-control over time needs no faculty of will: interests that dominate at different delays bargain, and resolve is the recursive staking of expected future choices on the present one'
+title: 'Self-control needs no faculty of will'
+statement: >-
+  Self-control over time needs no faculty of will: interests that dominate
+  at different delays bargain, and resolve is the recursive staking of
+  expected future choices on the present one
 version: 1
 tags:
 - behavioral-integration
@@ -59,7 +63,7 @@ corroborates:
 <!-- inactive-ok-file: THEORY-070 THEORY-062 — new in this batch; accounts this one is set against or beside -->
 <!-- inactive-ok-file: THEORY-2236 THEORY-2237 LIT-3115 LIT-3116 — new or Unavailable; the LEAD-078 readings and the two works it registered unread, cited in the dated note -->
 
-# THEORY-067: Self-control over time needs no faculty of will: interests that dominate at different delays bargain, and resolve is the recursive staking of expected future choices on the present one
+# THEORY-067: Self-control needs no faculty of will
 
 ## Source
 

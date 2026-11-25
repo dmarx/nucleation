@@ -3,7 +3,14 @@ number: 1149
 status: Active
 formerly:
 - THEORY-tmps958l
-title: 'For symmetric matrices compared under squared loss, co-optimal transport with independent row and column couplings is a lower bound on the Gromov–Wasserstein value, and for squared Euclidean distance matrices the two are equal and share optimal couplings, because GW is then a concave quadratic program whose bilinear relaxation is tight; for other symmetric matrices the bound can be strict'
+title: 'Co-OT bounds GW, equal for squared distances'
+statement: >-
+  For symmetric matrices compared under squared loss, co-optimal transport
+  with independent row and column couplings is a lower bound on the
+  Gromov–Wasserstein value, and for squared Euclidean distance matrices the
+  two are equal and share optimal couplings, because GW is then a concave
+  quadratic program whose bilinear relaxation is tight; for other symmetric
+  matrices the bound can be strict
 version: 1
 tags:
 - mathematics
@@ -20,7 +27,7 @@ summary: >-
   unique.
 ---
 
-# THEORY-1149: For symmetric matrices compared under squared loss, co-optimal transport with independent row and column couplings is a lower bound on the Gromov–Wasserstein value, and for squared Euclidean distance matrices the two are equal and share optimal couplings, because GW is then a concave quadratic program whose bilinear relaxation is tight; for other symmetric matrices the bound can be strict
+# THEORY-1149: Co-OT bounds GW, equal for squared distances
 
 ## Source
 

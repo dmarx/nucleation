@@ -3,7 +3,15 @@ number: 581
 status: Active
 formerly:
 - THEORY-tmpm3bsn
-title: "Two exactly consistent descriptions of one system, at different scales and with equal past–future mutual information, can differ in how that information divides between redundancy and synergy; in small generated Boolean networks under the Williams–Beer redundancy measure the coarser scale was more synergy-biased in every random stochastic system, by at most about 0.07, and the direction mostly reversed for redundancy-biased deterministic ones"
+title: 'Coarser scale can be more synergy-biased'
+statement: >-
+  Two exactly consistent descriptions of one system, at different scales and
+  with equal past–future mutual information, can differ in how that
+  information divides between redundancy and synergy; in small generated
+  Boolean networks under the Williams–Beer redundancy measure the coarser
+  scale was more synergy-biased in every random stochastic system, by at
+  most about 0.07, and the direction mostly reversed for redundancy-biased
+  deterministic ones
 version: 2
 history:
 - version: 2
@@ -31,7 +39,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-268 THEORY-497 — Proposed; neighbouring accounts named for comparison, nothing here rests on their being settled -->
 
-# THEORY-581: Two exactly consistent descriptions of one system, at different scales and with equal past–future mutual information, can differ in how that information divides between redundancy and synergy; in small generated Boolean networks under the Williams–Beer redundancy measure the coarser scale was more synergy-biased in every random stochastic system, by at most about 0.07, and the direction mostly reversed for redundancy-biased deterministic ones
+# THEORY-581: Coarser scale can be more synergy-biased
 
 ## Source
 

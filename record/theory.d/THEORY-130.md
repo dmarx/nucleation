@@ -18,7 +18,10 @@ promote_when: >-
   conflate the routes by construction, and further correlations between
   microbial shifts and bleaching, which bear on a different claim that
   this account does not make.
-title: 'Coral bleaching is the breakdown of a regulated host–symbiont exchange, reached by more than one route, not a single mechanism of symbiont loss'
+title: 'Bleaching is exchange breakdown by many routes'
+statement: >-
+  Coral bleaching is the breakdown of a regulated host–symbiont exchange,
+  reached by more than one route, not a single mechanism of symbiont loss
 version: 1
 tags:
 - natural-sciences
@@ -44,7 +47,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-072 THEORY-058 THEORY-071 — Proposed; named to say this account neither rests on nor bears on them -->
 
-# THEORY-130: Coral bleaching is the breakdown of a regulated host–symbiont exchange, reached by more than one route, not a single mechanism of symbiont loss
+# THEORY-130: Bleaching is exchange breakdown by many routes
 
 ## Source
 

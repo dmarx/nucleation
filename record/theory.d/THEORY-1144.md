@@ -11,7 +11,12 @@ promote_when: >-
   well above chance and well below the human figure. A comparison that
   reuses TyDiP's model-screened judges or its extreme-quartile selection
   does not settle it.
-title: 'A multilingual classifier trained only on English politeness ratings separates the most from the least polite requests in nine other languages at about 81% accuracy, without translation, yet stays about 10 points below one native judge''s agreement with two others in most of them'
+title: 'Politeness classifier transfers but trails natives'
+statement: >-
+  A multilingual classifier trained only on English politeness ratings
+  separates the most from the least polite requests in nine other languages
+  at about 81% accuracy, without translation, yet stays about 10 points
+  below one native judge's agreement with two others in most of them
 version: 1
 tags:
 - pragmatics
@@ -30,7 +35,7 @@ summary: >-
   measured on favourable ground.
 ---
 
-# THEORY-1144: A multilingual classifier trained only on English politeness ratings separates the most from the least polite requests in nine other languages at about 81% accuracy, without translation, yet stays about 10 points below one native judge's agreement with two others in most of them
+# THEORY-1144: Politeness classifier transfers but trails natives
 
 ## Source
 

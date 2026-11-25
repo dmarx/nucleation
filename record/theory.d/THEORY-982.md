@@ -15,7 +15,12 @@ promote_when: >-
   the shortcut path carries most of them. More case studies chosen because
   the method worked on them cannot settle it: that is the evidence it
   already rests on.
-title: 'Claude 3.5 Haiku routinely computes intermediate steps within a single forward pass and plans its outputs ahead, representing a target before the text that leads to it and writing towards it, as Lindsey et al. propose from their case studies'
+title: 'Claude 3.5 Haiku plans ahead within a pass'
+statement: >-
+  Claude 3.5 Haiku routinely computes intermediate steps within a single
+  forward pass and plans its outputs ahead, representing a target before the
+  text that leads to it and writing towards it, as Lindsey et al. propose
+  from their case studies
 version: 1
 history:
 - version: 1
@@ -47,7 +52,7 @@ summary: >-
   know what it plans to say until it actually says it". The authors report a
   satisfying graph for about a quarter of the prompts they try.
 ---
-# THEORY-982: Claude 3.5 Haiku routinely computes intermediate steps within a single forward pass and plans its outputs ahead, representing a target before the text that leads to it and writing towards it, as Lindsey et al. propose from their case studies
+# THEORY-982: Claude 3.5 Haiku plans ahead within a pass
 
 ## Source
 

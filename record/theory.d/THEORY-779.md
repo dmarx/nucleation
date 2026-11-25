@@ -3,7 +3,16 @@ number: 779
 status: Active
 formerly:
 - THEORY-tmpopk8o
-title: "In Kunin et al.'s underdamped Langevin model of SGD with momentum on linear regression, with gradient-noise covariance σ²H independent of the parameters, the stationary state is Gaussian with parameter covariance ησ²H(H + λI)⁻¹/(2S(1 − β)) and velocity covariance σ²H/(S(1 − β²)): for small weight decay it spreads equally along every nonzero Hessian direction and not along the null space, each Hessian eigenmode is a damped oscillator with damping ratio (1 − β)/√(2η(1 + β)(ρ + λ)), and the expected squared step is η²σ² tr(H)/(S(1 − β²))"
+title: 'Momentum SGD''s stationary spread follows Hessian'
+statement: >-
+  In Kunin et al.'s underdamped Langevin model of SGD with momentum on
+  linear regression, with gradient-noise covariance σ²H independent of the
+  parameters, the stationary state is Gaussian with parameter covariance
+  ησ²H(H + λI)⁻¹/(2S(1 − β)) and velocity covariance σ²H/(S(1 − β²)): for
+  small weight decay it spreads equally along every nonzero Hessian
+  direction and not along the null space, each Hessian eigenmode is a damped
+  oscillator with damping ratio (1 − β)/√(2η(1 + β)(ρ + λ)), and the
+  expected squared step is η²σ² tr(H)/(S(1 − β²))
 version: 2
 history:
 - version: 1
@@ -48,7 +57,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-209 THEORY-673 — Proposed; the account this one is split from, and the earlier split it follows -->
 
-# THEORY-779: In Kunin et al.'s underdamped Langevin model of SGD with momentum on linear regression, with gradient-noise covariance σ²H independent of the parameters, the stationary state is Gaussian with parameter covariance ησ²H(H + λI)⁻¹/(2S(1 − β)) and velocity covariance σ²H/(S(1 − β²)): for small weight decay it spreads equally along every nonzero Hessian direction and not along the null space, each Hessian eigenmode is a damped oscillator with damping ratio (1 − β)/√(2η(1 + β)(ρ + λ)), and the expected squared step is η²σ² tr(H)/(S(1 − β²))
+# THEORY-779: Momentum SGD's stationary spread follows Hessian
 
 ## Source
 

@@ -3,7 +3,14 @@ number: 1423
 status: Active
 formerly:
 - THEORY-tmps6lqg
-title: 'Berry, Lee-Trimble and Santangelo find that near the flat state a non-intersecting rigid origami vertex with small positive Gaussian curvature has a configuration space split into two components (popped up and popped down) that no rigid, non-tearing motion joins, while for small negative curvature the two stay joined by a neck, except at a degree-four vertex, which is split for both signs'
+title: 'Positive-curvature vertex splits near flat'
+statement: >-
+  Berry, Lee-Trimble and Santangelo find that near the flat state a
+  non-intersecting rigid origami vertex with small positive Gaussian
+  curvature has a configuration space split into two components (popped up
+  and popped down) that no rigid, non-tearing motion joins, while for small
+  negative curvature the two stay joined by a neck, except at a degree-four
+  vertex, which is split for both signs
 version: 2
 history:
 - version: 2
@@ -48,7 +55,7 @@ corroborates:
 - CLAIM-571
 ---
 
-# THEORY-1423: Berry, Lee-Trimble and Santangelo find that near the flat state a non-intersecting rigid origami vertex with small positive Gaussian curvature has a configuration space split into two components (popped up and popped down) that no rigid, non-tearing motion joins, while for small negative curvature the two stay joined by a neck, except at a degree-four vertex, which is split for both signs
+# THEORY-1423: Positive-curvature vertex splits near flat
 
 ## Source
 

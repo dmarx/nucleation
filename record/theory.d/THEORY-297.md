@@ -3,7 +3,13 @@ number: 297
 status: Active
 formerly:
 - THEORY-tmp11baf
-title: "A bijection between shapes is equivalent, up to null sets, to the linear operator it induces on functions; in orthonormal bases a volume-preserving bijection's matrix is orthogonal, and an isometry's commutes with the Laplace–Beltrami operator, so it maps each eigenspace to the matching eigenspace"
+title: 'Shape bijections are functional operators'
+statement: >-
+  A bijection between shapes is equivalent, up to null sets, to the linear
+  operator it induces on functions; in orthonormal bases a volume-preserving
+  bijection's matrix is orthogonal, and an isometry's commutes with the
+  Laplace–Beltrami operator, so it maps each eigenspace to the matching
+  eigenspace
 version: 3
 history:
 - version: 2
@@ -48,7 +54,7 @@ bears_on:
 - QUESTION-138
 ---
 
-# THEORY-297: A bijection between shapes is equivalent, up to null sets, to the linear operator it induces on functions; in orthonormal bases a volume-preserving bijection's matrix is orthogonal, and an isometry's commutes with the Laplace–Beltrami operator, so it maps each eigenspace to the matching eigenspace
+# THEORY-297: Shape bijections are functional operators
 
 ## Source
 

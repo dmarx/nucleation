@@ -21,7 +21,20 @@ promote_when: >-
   at a fixed positive scale, about exponents up to 1/3 in a Hölder class, or
   about where dissipation would sit in a vanishing-viscosity limit is not
   covered by this entry and would need a different theorem.
-title: 'For every α < 1/15 there are weak solutions of the 3D incompressible Euler equations on the periodic box, Hölder-continuous of exponent α in space and time, that satisfy the local energy inequality; in the construction their dissipation measure is a nonnegative function of time alone, equal at each time to the rate at which the total energy falls, zero while the local energy equality holds and positive on all of space during a short final interval in which the solution''s energy is drained to zero; uncountably many such solutions share one initial datum and one dissipation measure; for them the local coarse-grained energy flux into vanishing scales converges to that measure, so the transfer is one-way at every place and time in the limit and spread uniformly over the box, with its timing chosen by the construction, not forced by the equations'
+title: 'Locally dissipative Euler solutions exist, α<1/15'
+statement: >-
+  For every α < 1/15 there are weak solutions of the 3D incompressible Euler
+  equations on the periodic box, Hölder-continuous of exponent α in space
+  and time, that satisfy the local energy inequality; in the construction
+  their dissipation measure is a nonnegative function of time alone, equal
+  at each time to the rate at which the total energy falls, zero while the
+  local energy equality holds and positive on all of space during a short
+  final interval in which the solution's energy is drained to zero;
+  uncountably many such solutions share one initial datum and one
+  dissipation measure; for them the local coarse-grained energy flux into
+  vanishing scales converges to that measure, so the transfer is one-way at
+  every place and time in the limit and spread uniformly over the box, with
+  its timing chosen by the construction, not forced by the equations
 version: 1
 history:
 - version: 1
@@ -63,7 +76,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: NOTE-1027 — Skimmed; this entry's reading -->
 <!-- inactive-ok-file: THEORY-772 THEORY-776 THEORY-763 — Proposed; the L³-local, whole-box and two-signed accounts, cited for contrast -->
-# THEORY-821: For every α < 1/15 there are weak solutions of the 3D incompressible Euler equations on the periodic box, Hölder-continuous of exponent α in space and time, that satisfy the local energy inequality; in the construction their dissipation measure is a nonnegative function of time alone, equal at each time to the rate at which the total energy falls, zero while the local energy equality holds and positive on all of space during a short final interval in which the solution's energy is drained to zero; uncountably many such solutions share one initial datum and one dissipation measure; for them the local coarse-grained energy flux into vanishing scales converges to that measure, so the transfer is one-way at every place and time in the limit and spread uniformly over the box, with its timing chosen by the construction, not forced by the equations
+# THEORY-821: Locally dissipative Euler solutions exist, α<1/15
 
 ## Source
 

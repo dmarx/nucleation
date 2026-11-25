@@ -17,7 +17,12 @@ promote_when: >-
   review would count once published. More theoretical argument cannot
   settle it, and neither can studies where the mental-state and
   similarity manipulations are confounded.
-title: "Perceiving people as a group entity, rather than as members of a common category, requires detecting or inferring collective intentionality among them; similarity, and categorization into an equivalence class, yields interchangeable members but not a group"
+title: 'Groupness needs inferred collective intention'
+statement: >-
+  Perceiving people as a group entity, rather than as members of a common
+  category, requires detecting or inferring collective intentionality among
+  them; similarity, and categorization into an equivalence class, yields
+  interchangeable members but not a group
 version: 1
 tags:
 - social-science
@@ -43,7 +48,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1114 THEORY-126 — Proposed; the account this rivals and a collective-intentionality account it is compared with -->
 
-# THEORY-1112: Perceiving people as a group entity, rather than as members of a common category, requires detecting or inferring collective intentionality among them; similarity, and categorization into an equivalence class, yields interchangeable members but not a group
+# THEORY-1112: Groupness needs inferred collective intention
 
 ## Source
 

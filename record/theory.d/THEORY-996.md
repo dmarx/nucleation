@@ -3,7 +3,17 @@ number: 996
 status: Active
 formerly:
 - THEORY-tmpo1u9l
-title: 'On Pythia language models from 410M to 12B parameters, in three single prompt pairs and two small prompt distributions, verifying attention or neuron nodes by activation patching in the order given by attribution patching, a first-order gradient estimate of each node''s noising effect, found the nodes with the largest effects at about 2 to 50 times the cost of an oracle ordering, below unordered patching, subsampling and block search in every setting; its misses were concentrated in queries and keys behind saturated attention and in nodes whose direct and indirect effects nearly cancel'
+title: 'Attribution patching finds key nodes cheaply'
+statement: >-
+  On Pythia language models from 410M to 12B parameters, in three single
+  prompt pairs and two small prompt distributions, verifying attention or
+  neuron nodes by activation patching in the order given by attribution
+  patching, a first-order gradient estimate of each node's noising effect,
+  found the nodes with the largest effects at about 2 to 50 times the cost
+  of an oracle ordering, below unordered patching, subsampling and block
+  search in every setting; its misses were concentrated in queries and keys
+  behind saturated attention and in nodes whose direct and indirect effects
+  nearly cancel
 version: 3
 history:
 - version: 1
@@ -50,7 +60,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-1000 THEORY-997 — Proposed; the wider thesis and a neighbouring account, cited as open -->
 <!-- inactive-ok-file: THEORY-1021 — Proposed; the method author's own map of where the estimate fails, cited as open -->
 
-# THEORY-996: On Pythia language models from 410M to 12B parameters, in three single prompt pairs and two small prompt distributions, verifying attention or neuron nodes by activation patching in the order given by attribution patching, a first-order gradient estimate of each node's noising effect, found the nodes with the largest effects at about 2 to 50 times the cost of an oracle ordering, below unordered patching, subsampling and block search in every setting; its misses were concentrated in queries and keys behind saturated attention and in nodes whose direct and indirect effects nearly cancel
+# THEORY-996: Attribution patching finds key nodes cheaply
 
 ## Source
 

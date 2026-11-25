@@ -14,7 +14,15 @@ promote_when: >-
   enough that a system could be found to have it or lack it. Further
   textual evidence about what Dennett meant cannot settle it, since the
   claim is about consciousness, not about Dennett.
-title: "Consciousness is a real pattern in the brain's content-bearing states, a description that trades predictive accuracy for compression, and so coarse that describing the brain through it is metaphor; on that reading there is no Cartesian theatre, whether a given content was conscious can lack an answer when two descriptions compress and predict equally, and first-person reports are fallible as literal descriptions of the brain but authoritative as an author's"
+title: 'Consciousness is a coarse real pattern'
+statement: >-
+  Consciousness is a real pattern in the brain's content-bearing states, a
+  description that trades predictive accuracy for compression, and so coarse
+  that describing the brain through it is metaphor; on that reading there is
+  no Cartesian theatre, whether a given content was conscious can lack an
+  answer when two descriptions compress and predict equally, and
+  first-person reports are fallible as literal descriptions of the brain but
+  authoritative as an author's
 version: 2
 history:
 - version: 2
@@ -49,7 +57,7 @@ corroborates:
 <!-- inactive-ok-file: THEORY-036 THEORY-043 THEORY-103 THEORY-415 THEORY-633 THEORY-691 — Proposed; accounts named as rivals, neighbours or connections, not leaned on as premises -->
 <!-- inactive-ok-file: LIT-443 LIT-424 — Unavailable: the two Dennett books the paper interprets, filed unread; quotations from them are Taylor's, not leaned on beyond that -->
 
-# THEORY-563: Consciousness is a real pattern in the brain's content-bearing states, a description that trades predictive accuracy for compression, and so coarse that describing the brain through it is metaphor; on that reading there is no Cartesian theatre, whether a given content was conscious can lack an answer when two descriptions compress and predict equally, and first-person reports are fallible as literal descriptions of the brain but authoritative as an author's
+# THEORY-563: Consciousness is a coarse real pattern
 
 ## Source
 

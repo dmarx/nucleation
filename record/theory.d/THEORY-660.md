@@ -16,7 +16,15 @@ promote_when: >-
   threshold survive all three; refuted if either disappears. More
   datasets analysed by the present pipeline cannot settle it, since the
   pipeline's own choices partly produce the features.
-title: "The local branching geometry of physical tree networks, neurons, blood vessels, trees, corals and plants, is set by minimising the surface area of tubes that must keep a minimum circumference, not by minimising length: this predicts trifurcations once links are thick relative to their separation (χ = w/r above about 0.83) and orthogonal sprouts once one branch is much thinner than the other two (ρ = w′/w below about 0.6), both departures from Steiner trees that the data show qualitatively"
+title: 'Branching minimises surface, not length'
+statement: >-
+  The local branching geometry of physical tree networks, neurons, blood
+  vessels, trees, corals and plants, is set by minimising the surface area
+  of tubes that must keep a minimum circumference, not by minimising length:
+  this predicts trifurcations once links are thick relative to their
+  separation (χ = w/r above about 0.83) and orthogonal sprouts once one
+  branch is much thinner than the other two (ρ = w′/w below about 0.6), both
+  departures from Steiner trees that the data show qualitatively
 version: 1
 tags:
 - network-science
@@ -38,7 +46,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-069 — Proposed by its close reading; the only source, and the account is Proposed for the reasons that reading gives -->
 
-# THEORY-660: The local branching geometry of physical tree networks, neurons, blood vessels, trees, corals and plants, is set by minimising the surface area of tubes that must keep a minimum circumference, not by minimising length: this predicts trifurcations once links are thick relative to their separation (χ = w/r above about 0.83) and orthogonal sprouts once one branch is much thinner than the other two (ρ = w′/w below about 0.6), both departures from Steiner trees that the data show qualitatively
+# THEORY-660: Branching minimises surface, not length
 
 ## Source
 

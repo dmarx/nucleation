@@ -9,7 +9,14 @@ promote_when: >-
   context effects better than models without cause inference, and that a
   manipulation preventing the inference of new causes (a hippocampal
   lesion or immaturity) removes those effects as the model predicts.
-title: 'Gershman, Blei and Niv propose that animals in conditioning experiments assign trials to latent causes under a prior admitting an unbounded number of causes, so that extinction is learned as a new cause rather than erasing the conditioned one, and that renewal and the context-dependence of latent inhibition follow from this inference while hippocampal lesions and immaturity abolish them by preventing new causes from being inferred'
+title: 'Extinction is learned as a new latent cause'
+statement: >-
+  Gershman, Blei and Niv propose that animals in conditioning experiments
+  assign trials to latent causes under a prior admitting an unbounded number
+  of causes, so that extinction is learned as a new cause rather than
+  erasing the conditioned one, and that renewal and the context-dependence
+  of latent inhibition follow from this inference while hippocampal lesions
+  and immaturity abolish them by preventing new causes from being inferred
 version: 2
 history:
 - version: 2
@@ -43,7 +50,7 @@ bears_on:
 - QUESTION-333
 ---
 
-# THEORY-1355: Gershman, Blei and Niv propose that animals in conditioning experiments assign trials to latent causes under a prior admitting an unbounded number of causes, so that extinction is learned as a new cause rather than erasing the conditioned one, and that renewal and the context-dependence of latent inhibition follow from this inference while hippocampal lesions and immaturity abolish them by preventing new causes from being inferred
+# THEORY-1355: Extinction is learned as a new latent cause
 
 ## Source
 

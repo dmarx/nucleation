@@ -3,7 +3,12 @@ number: 1282
 status: Active
 formerly:
 - THEORY-tmpkdsex
-title: 'Affect, in Massumi''s sense, is the felt transition of a body''s power to affect and be affected toward a diminished or augmented capacitation, offered as a proposition to be regenerated in each use rather than a definition to apply'
+title: 'Affect is a felt shift in capacity to act'
+statement: >-
+  Affect, in Massumi's sense, is the felt transition of a body's power to
+  affect and be affected toward a diminished or augmented capacitation,
+  offered as a proposition to be regenerated in each use rather than a
+  definition to apply
 version: 2
 history:
 - version: 2
@@ -43,7 +48,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-1907 THEORY-1280 THEORY-1533 — Unavailable or Proposed; the book that reprints the source, the parent paper's claim set beside this, and the wide form -->
 
-# THEORY-1282: Affect, in Massumi's sense, is the felt transition of a body's power to affect and be affected toward a diminished or augmented capacitation, offered as a proposition to be regenerated in each use rather than a definition to apply
+# THEORY-1282: Affect is a felt shift in capacity to act
 
 ## Source
 

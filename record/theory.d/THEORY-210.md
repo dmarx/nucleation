@@ -16,7 +16,13 @@ promote_when: >-
   continuous symmetry orbit is determined by the loss alone, the same
   across initializations and optimizers. More catalogues of symmetries
   cannot settle it.
-title: 'Continuous parameter symmetries stretch a network''s minima into connected manifolds along which the loss is flat, and give gradient flow conserved quantities that fix where on such a manifold training ends; finite steps, gradient noise and weight decay break them, so the position along a symmetry orbit is set by initialization and optimizer, not by the loss'
+title: 'Init and optimizer set position on symmetry orbits'
+statement: >-
+  Continuous parameter symmetries stretch a network's minima into connected
+  manifolds along which the loss is flat, and give gradient flow conserved
+  quantities that fix where on such a manifold training ends; finite steps,
+  gradient noise and weight decay break them, so the position along a
+  symmetry orbit is set by initialization and optimizer, not by the loss
 version: 2
 history:
 - version: 1
@@ -66,7 +72,7 @@ bears_on:
 - QUESTION-069
 ---
 
-# THEORY-210: Continuous parameter symmetries stretch a network's minima into connected manifolds along which the loss is flat, and give gradient flow conserved quantities that fix where on such a manifold training ends; finite steps, gradient noise and weight decay break them, so the position along a symmetry orbit is set by initialization and optimizer, not by the loss
+# THEORY-210: Init and optimizer set position on symmetry orbits
 
 ## Source
 

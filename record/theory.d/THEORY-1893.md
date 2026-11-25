@@ -10,7 +10,13 @@ promote_when: >-
   its stepwise growth with sample length. Or the Supplementary Note 3
   derivation of the λφ⁴ continuum limit and its Jacobi-elliptic solution is
   checked and agrees with the stated conditions.
-title: 'Zhang, Li, Zheng, Genin and Chen show that a perforated elastomer whose cells become bistable under compression breaks into domains of opposite rotation separated by ordered, reproducible walls, which a strong-coupling continuum limit describes as the static kink–antikink lattice of the φ⁴ equation'
+title: 'Bistable metamaterial walls form φ⁴ kink lattice'
+statement: >-
+  Zhang, Li, Zheng, Genin and Chen show that a perforated elastomer whose
+  cells become bistable under compression breaks into domains of opposite
+  rotation separated by ordered, reproducible walls, which a strong-coupling
+  continuum limit describes as the static kink–antikink lattice of the φ⁴
+  equation
 version: 1
 tags:
 - natural-sciences
@@ -29,7 +35,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-2010 — Proposed; cited in this filing of 2026-11-19 -->
 
-# THEORY-1893: Zhang, Li, Zheng, Genin and Chen show that a perforated elastomer whose cells become bistable under compression breaks into domains of opposite rotation separated by ordered, reproducible walls, which a strong-coupling continuum limit describes as the static kink–antikink lattice of the φ⁴ equation
+# THEORY-1893: Bistable metamaterial walls form φ⁴ kink lattice
 
 ## Source
 

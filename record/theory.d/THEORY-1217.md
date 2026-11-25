@@ -3,7 +3,13 @@ number: 1217
 status: Proposed
 formerly:
 - THEORY-tmpt4mf4
-title: 'Both owner ideology and favor exchange drove the Hungarian portal Origo''s reduced coverage of corruption in 2013–2016: favor exchange alone cut it by 29–44%, the new owner''s ideology alone by 63% after 2016, and the two together by 74%, so they are substitutes; and a ban on targeted government advertising would have raised it by 41–79%'
+title: 'Ideology and favors both cut corruption coverage'
+statement: >-
+  Both owner ideology and favor exchange drove the Hungarian portal Origo's
+  reduced coverage of corruption in 2013–2016: favor exchange alone cut it
+  by 29–44%, the new owner's ideology alone by 63% after 2016, and the two
+  together by 74%, so they are substitutes; and a ban on targeted government
+  advertising would have raised it by 41–79%
 version: 1
 tags:
 - society-and-governance
@@ -29,7 +35,7 @@ summary: >-
   [ADR-047](../decisions.d/ADR-047.md), kind 1).
 ---
 
-# THEORY-1217: Both owner ideology and favor exchange drove the Hungarian portal Origo's reduced coverage of corruption in 2013–2016: favor exchange alone cut it by 29–44%, the new owner's ideology alone by 63% after 2016, and the two together by 74%, so they are substitutes; and a ban on targeted government advertising would have raised it by 41–79%
+# THEORY-1217: Ideology and favors both cut corruption coverage
 
 ## Source
 

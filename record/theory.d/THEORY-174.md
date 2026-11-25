@@ -3,7 +3,13 @@ number: 174
 status: Active
 formerly:
 - THEORY-tmprxblg
-title: 'Classical simulations between no-signalling empirical models on different scenarios never create contextuality, and a convex map between two scenarios'' model sets is induced by a classical non-adaptive procedure exactly when some non-contextual model of the hom scenario that satisfies its predicate induces it'
+title: 'Classical simulations never create contextuality'
+statement: >-
+  Classical simulations between no-signalling empirical models on different
+  scenarios never create contextuality, and a convex map between two
+  scenarios' model sets is induced by a classical non-adaptive procedure
+  exactly when some non-contextual model of the hom scenario that satisfies
+  its predicate induces it
 version: 5
 history:
 - version: 2
@@ -81,7 +87,7 @@ bounds:
 
 <!-- inactive-ok-file: CLAIM-100 — Superseded; open, and cited as open: the claim this theory bears on -->
 
-# THEORY-174: Classical simulations between no-signalling empirical models on different scenarios never create contextuality, and a convex map between two scenarios' model sets is induced by a classical non-adaptive procedure exactly when some non-contextual model of the hom scenario that satisfies its predicate induces it
+# THEORY-174: Classical simulations never create contextuality
 
 ## Source
 

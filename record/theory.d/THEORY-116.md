@@ -20,7 +20,11 @@ promote_when: >-
   synthetic-cue experiments in which barrier and cue reliance move
   together cannot settle it. They are the evidence already held, and they
   test the two directions jointly.
-title: 'A linear barrier between two minima that survives the removal of symmetries marks a difference in the input attributes the two models rely on: they compute by different mechanisms'
+title: 'Surviving barriers mark different mechanisms'
+statement: >-
+  A linear barrier between two minima that survives the removal of
+  symmetries marks a difference in the input attributes the two models rely
+  on: they compute by different mechanisms
 version: 2
 history:
 - version: 2
@@ -58,7 +62,7 @@ summary: >-
   stated direction rests on experiments with synthetic cues and on a
   one-layer sufficiency argument.
 ---
-# THEORY-116: A linear barrier between two minima that survives the removal of symmetries marks a difference in the input attributes the two models rely on: they compute by different mechanisms
+# THEORY-116: Surviving barriers mark different mechanisms
 
 ## Source
 

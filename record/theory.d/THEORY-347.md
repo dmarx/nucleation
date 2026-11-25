@@ -3,7 +3,14 @@ number: 347
 status: Active
 formerly:
 - THEORY-tmpl85iv
-title: "Belief bases with the same logical closure can revise to opposite conclusions on the same input, so a closed belief set does not fix its own revision; partial meet contraction of a base need not satisfy Recovery, and bases keep distinct inconsistent states apart, while a belief-set model reproduces the base difference only by attaching a different selection mechanism to the same set"
+title: 'Equivalent belief bases can revise differently'
+statement: >-
+  Belief bases with the same logical closure can revise to opposite
+  conclusions on the same input, so a closed belief set does not fix its own
+  revision; partial meet contraction of a base need not satisfy Recovery,
+  and bases keep distinct inconsistent states apart, while a belief-set
+  model reproduces the base difference only by attaching a different
+  selection mechanism to the same set
 version: 1
 tags:
 - logic
@@ -28,7 +35,7 @@ summary: >-
   no result that bases handle iterated revision better.
 ---
 
-# THEORY-347: Belief bases with the same logical closure can revise to opposite conclusions on the same input, so a closed belief set does not fix its own revision; partial meet contraction of a base need not satisfy Recovery, and bases keep distinct inconsistent states apart, while a belief-set model reproduces the base difference only by attaching a different selection mechanism to the same set
+# THEORY-347: Equivalent belief bases can revise differently
 
 ## Source
 

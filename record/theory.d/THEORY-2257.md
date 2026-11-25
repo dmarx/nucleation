@@ -8,7 +8,12 @@ promote_when: >-
   pairwise-coupled oscillators) is read and shows nonpairwise phase
   interactions arising at second order in the coupling from purely pairwise
   physical coupling.
-title: 'Battiston and colleagues report that phase reduction of oscillators with purely pairwise physical coupling yields nonpairwise phase interactions at higher order in the coupling, which capture indirect influence, so that the order of the physical and of the effective interactions can differ'
+title: 'Pairwise coupling yields higher-order phases'
+statement: >-
+  Battiston and colleagues report that phase reduction of oscillators with
+  purely pairwise physical coupling yields nonpairwise phase interactions at
+  higher order in the coupling, which capture indirect influence, so that
+  the order of the physical and of the effective interactions can differ
 version: 1
 tags:
 - network-science
@@ -23,7 +28,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-2348 — Skimmed; the reading this account comes from -->
 
-# THEORY-2257: Battiston and colleagues report that phase reduction of oscillators with purely pairwise physical coupling yields nonpairwise phase interactions at higher order in the coupling, which capture indirect influence, so that the order of the physical and of the effective interactions can differ
+# THEORY-2257: Pairwise coupling yields higher-order phases
 
 ## Source
 

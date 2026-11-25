@@ -3,7 +3,15 @@ number: 1563
 status: Active
 formerly:
 - THEORY-tmp0j4uq
-title: 'Thorstad argues that on simple models of existential risk higher risk does not raise, and in most variants lowers, the value of reducing it, so that high risk this century is compatible with astronomical value for mitigation only if risk falls soon and stays very low, and that three arguments offered for such a time of perils, from wisdom, an existential risk Kuznets curve and space settlement, are weak, leaving aside the argument from advanced AI'
+title: 'High existential risk lowers mitigation''s value'
+statement: >-
+  Thorstad argues that on simple models of existential risk higher risk does
+  not raise, and in most variants lowers, the value of reducing it, so that
+  high risk this century is compatible with astronomical value for
+  mitigation only if risk falls soon and stays very low, and that three
+  arguments offered for such a time of perils, from wisdom, an existential
+  risk Kuznets curve and space settlement, are weak, leaving aside the
+  argument from advanced AI
 version: 2
 history:
 - version: 1
@@ -44,7 +52,7 @@ bears_on:
 - QUESTION-299
 ---
 
-# THEORY-1563: Thorstad argues that on simple models of existential risk higher risk does not raise, and in most variants lowers, the value of reducing it, so that high risk this century is compatible with astronomical value for mitigation only if risk falls soon and stays very low, and that three arguments offered for such a time of perils, from wisdom, an existential risk Kuznets curve and space settlement, are weak, leaving aside the argument from advanced AI
+# THEORY-1563: High existential risk lowers mitigation's value
 
 ## The account
 

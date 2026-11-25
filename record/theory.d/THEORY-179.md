@@ -3,7 +3,16 @@ number: 179
 status: Active
 formerly:
 - THEORY-tmpq45k7
-title: 'In Bhattacharyya et al.''s single-cell swarm assays of E. coli MG1655, the daughters of one mother swarmed alike at the fourth generation sampled and varied again at the seventh; swarm size correlated with a plasmid fepA-promoter reporter of Fur derepression by low iron (Spearman r = 0.71), and an iron chelator or added iron shifted swarming and held the shared state longer; a three-class switching model fitted to two time points matched the lineages only with a delay of three to four generations before switching, which the authors read as ruling out a bistable switch'
+title: 'Iron-linked swarm states switch after a delay'
+statement: >-
+  In Bhattacharyya et al.'s single-cell swarm assays of E. coli MG1655, the
+  daughters of one mother swarmed alike at the fourth generation sampled and
+  varied again at the seventh; swarm size correlated with a plasmid
+  fepA-promoter reporter of Fur derepression by low iron (Spearman r =
+  0.71), and an iron chelator or added iron shifted swarming and held the
+  shared state longer; a three-class switching model fitted to two time
+  points matched the lineages only with a delay of three to four generations
+  before switching, which the authors read as ruling out a bistable switch
 version: 2
 history:
 - version: 2
@@ -56,7 +65,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1209 — Proposed; the wide form kept beside this narrowed reading (ADR-047, kind 1) -->
 
-# THEORY-179: In Bhattacharyya et al.'s single-cell swarm assays of E. coli MG1655, the daughters of one mother swarmed alike at the fourth generation sampled and varied again at the seventh; swarm size correlated with a plasmid fepA-promoter reporter of Fur derepression by low iron (Spearman r = 0.71), and an iron chelator or added iron shifted swarming and held the shared state longer; a three-class switching model fitted to two time points matched the lineages only with a delay of three to four generations before switching, which the authors read as ruling out a bistable switch
+# THEORY-179: Iron-linked swarm states switch after a delay
 
 ## Source
 

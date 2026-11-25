@@ -3,7 +3,14 @@ number: 1620
 status: Active
 formerly:
 - THEORY-tmpuby0q
-title: 'Schubert et al. report that most laypeople judge human extinction bad but not uniquely worse than a catastrophe killing 80%, that the share who judge it uniquely bad rises when the victims are animals or the lost future is pointed out, and in one of two general samples when the catastrophe sterilizes, and that it passes a majority only when the surviving future is described as long and utopian'
+title: 'Extinction not judged uniquely worse by most'
+statement: >-
+  Schubert et al. report that most laypeople judge human extinction bad but
+  not uniquely worse than a catastrophe killing 80%, that the share who
+  judge it uniquely bad rises when the victims are animals or the lost
+  future is pointed out, and in one of two general samples when the
+  catastrophe sterilizes, and that it passes a majority only when the
+  surviving future is described as long and utopian
 version: 2
 history:
 - version: 1
@@ -33,7 +40,7 @@ bears_on:
 - QUESTION-299
 ---
 
-# THEORY-1620: Schubert et al. report that most laypeople judge human extinction bad but not uniquely worse than a catastrophe killing 80%, that the share who judge it uniquely bad rises when the victims are animals or the lost future is pointed out, and in one of two general samples when the catastrophe sterilizes, and that it passes a majority only when the surviving future is described as long and utopian
+# THEORY-1620: Extinction not judged uniquely worse by most
 
 ## The account
 

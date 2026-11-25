@@ -3,7 +3,14 @@ number: 388
 status: Active
 formerly:
 - THEORY-tmpvi601
-title: "Locality-sensitive hashing answers approximate near-neighbour queries over n points with O(n^ρ) hash evaluations in O(dn + n^{1+ρ}) space, where ρ = ln(1/p1)/ln(1/p2) is set by how much more often near pairs collide than far ones and is at most 1/(1+ε) for approximation 1+ε in Hamming space, with constant success probability per query; the paper gives upper bounds only and proves no limit on what organizing can buy"
+title: 'LSH gives sublinear approximate NN queries'
+statement: >-
+  Locality-sensitive hashing answers approximate near-neighbour queries over
+  n points with O(n^ρ) hash evaluations in O(dn + n^{1+ρ}) space, where ρ =
+  ln(1/p1)/ln(1/p2) is set by how much more often near pairs collide than
+  far ones and is at most 1/(1+ε) for approximation 1+ε in Hamming space,
+  with constant success probability per query; the paper gives upper bounds
+  only and proves no limit on what organizing can buy
 version: 1
 tags:
 - databases
@@ -26,7 +33,7 @@ summary: >-
   proved about whether these exponents can be beaten.
 ---
 
-# THEORY-388: Locality-sensitive hashing answers approximate near-neighbour queries over n points with O(n^ρ) hash evaluations in O(dn + n^{1+ρ}) space, where ρ = ln(1/p1)/ln(1/p2) is set by how much more often near pairs collide than far ones and is at most 1/(1+ε) for approximation 1+ε in Hamming space, with constant success probability per query; the paper gives upper bounds only and proves no limit on what organizing can buy
+# THEORY-388: LSH gives sublinear approximate NN queries
 
 ## Source
 

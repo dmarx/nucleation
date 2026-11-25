@@ -11,7 +11,14 @@ promote_when: >-
   moments up to order four is checked; and the reported error rates (0.43%
   on MNIST with an SVM, 0.2% on CUReT with PCA) are reproduced with the
   authors' released software or an independent implementation.
-title: 'Bruna and Mallat define a windowed scattering transform, a cascade of fixed wavelet convolutions, complex modulus and local averaging, which is contractive, translation invariant below the scale 2^J and Lipschitz-stable to small deformations, whose second-order coefficients depend on moments up to order four, and which with fixed filters gave 0.43% error on MNIST with an SVM and 0.2% on CUReT with a PCA classifier'
+title: 'Scattering transform is deformation-stable'
+statement: >-
+  Bruna and Mallat define a windowed scattering transform, a cascade of
+  fixed wavelet convolutions, complex modulus and local averaging, which is
+  contractive, translation invariant below the scale 2^J and
+  Lipschitz-stable to small deformations, whose second-order coefficients
+  depend on moments up to order four, and which with fixed filters gave
+  0.43% error on MNIST with an SVM and 0.2% on CUReT with a PCA classifier
 version: 1
 tags:
 - representation-learning
@@ -31,7 +38,7 @@ summary: >-
   reader's; adopting it is the owner's call.
 ---
 
-# THEORY-1906: Bruna and Mallat define a windowed scattering transform, a cascade of fixed wavelet convolutions, complex modulus and local averaging, which is contractive, translation invariant below the scale 2^J and Lipschitz-stable to small deformations, whose second-order coefficients depend on moments up to order four, and which with fixed filters gave 0.43% error on MNIST with an SVM and 0.2% on CUReT with a PCA classifier
+# THEORY-1906: Scattering transform is deformation-stable
 
 Bruna & Mallat (2013), [LIT-2632](../literature.d/LIT-2632.md); read in [NOTE-1957](../notes.d/NOTE-1957.md).
 

@@ -3,7 +3,13 @@ number: 441
 status: Active
 formerly:
 - THEORY-tmp58gih
-title: "In spatially compact vacuum general relativity the Hamiltonian vanishes, so time is represented by no flow on a symplectic space and change by no functions on a space of states; this problem of time does not come from the 3+1 split, is absent from asymptotically flat general relativity, and does not show change to be illusory"
+title: 'Problem of time doesn''t make change illusory'
+statement: >-
+  In spatially compact vacuum general relativity the Hamiltonian vanishes,
+  so time is represented by no flow on a symplectic space and change by no
+  functions on a space of states; this problem of time does not come from
+  the 3+1 split, is absent from asymptotically flat general relativity, and
+  does not show change to be illusory
 version: 1
 tags:
 - philosophy-of-science
@@ -22,7 +28,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-687 — Proposed; Le Bihan and Read on dualities, named for a parallel, filed in the same batch -->
 
-# THEORY-441: In spatially compact vacuum general relativity the Hamiltonian vanishes, so time is represented by no flow on a symplectic space and change by no functions on a space of states; this problem of time does not come from the 3+1 split, is absent from asymptotically flat general relativity, and does not show change to be illusory
+# THEORY-441: Problem of time doesn't make change illusory
 
 ## Source
 

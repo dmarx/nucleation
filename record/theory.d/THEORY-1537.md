@@ -12,7 +12,14 @@ promote_when: >-
   activity from falling to inactivity. That trials confirming benefit
   are still required is the authors' own statement and needs no further
   result.
-title: 'Mechanical ventilation harms the diaphragm at both ends of effort, atrophy following low effort from over-assistance or sedation and injury possibly following excessive effort, so that ventilation and sedation should be titrated to keep an effort close to that of quiet breathing; that support proportional to the patient''s own neural drive makes disuse from over-assistance unlikely, since assist falls as diaphragm activity falls'
+title: 'Ventilation harms diaphragm at both effort ends'
+statement: >-
+  Mechanical ventilation harms the diaphragm at both ends of effort, atrophy
+  following low effort from over-assistance or sedation and injury possibly
+  following excessive effort, so that ventilation and sedation should be
+  titrated to keep an effort close to that of quiet breathing; that support
+  proportional to the patient's own neural drive makes disuse from
+  over-assistance unlikely, since assist falls as diaphragm activity falls
 version: 1
 tags:
 - natural-sciences
@@ -29,7 +36,7 @@ summary: >-
   carried, word for word.
 ---
 
-# THEORY-1537: Mechanical ventilation harms the diaphragm at both ends of effort, atrophy following low effort from over-assistance or sedation and injury possibly following excessive effort, so that ventilation and sedation should be titrated to keep an effort close to that of quiet breathing; that support proportional to the patient's own neural drive makes disuse from over-assistance unlikely, since assist falls as diaphragm activity falls
+# THEORY-1537: Ventilation harms diaphragm at both effort ends
 
 ## Source
 

@@ -15,7 +15,13 @@ promote_when: >-
   his two criteria requires. More examples of law, language and money
   constraining individuals cannot settle it; they are the examples the
   definition was built from.
-title: "A social fact is a way of acting, thinking or feeling that exists outside individual consciousness and can constrain the individual from outside, shown by sanction or by the resistance it offers to violation; such a fact is general in a group because it is collective, not collective because general, so the group is its substrate"
+title: 'Social facts constrain from outside'
+statement: >-
+  A social fact is a way of acting, thinking or feeling that exists outside
+  individual consciousness and can constrain the individual from outside,
+  shown by sanction or by the resistance it offers to violation; such a fact
+  is general in a group because it is collective, not collective because
+  general, so the group is its substrate
 version: 1
 tags:
 - social-ontology
@@ -39,7 +45,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-043 — Proposed; named to say this chapter neither supports nor moves it -->
 <!-- inactive-ok-file: LIT-188 — Proposed; Griesemer & Shavit, named as a neighbour for consolidation of practice into structure, a pairing this record draws, not leaned on -->
 
-# THEORY-648: A social fact is a way of acting, thinking or feeling that exists outside individual consciousness and can constrain the individual from outside, shown by sanction or by the resistance it offers to violation; such a fact is general in a group because it is collective, not collective because general, so the group is its substrate
+# THEORY-648: Social facts constrain from outside
 
 ## Source
 

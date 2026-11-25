@@ -18,7 +18,14 @@ promote_when: >-
   feedback itself is held fixed across rewarded and unrewarded groups.
   More pattern-fitting meta-analyses, or studies without the
   feedback-matched no-reward control, cannot settle it.
-title: 'In Ryan, Mims and Koestner''s experiment, the same expected reward for doing well left less later free-choice engagement when given with controlling feedback than with informational feedback, and in both styles less than no reward with the same feedback: the interpersonal style of a performance-contingent reward changes its effect, and the reward lowers intrinsic motivation even when the information it carries is held fixed'
+title: 'Controlling reward feedback lowers motivation'
+statement: >-
+  In Ryan, Mims and Koestner's experiment, the same expected reward for
+  doing well left less later free-choice engagement when given with
+  controlling feedback than with informational feedback, and in both styles
+  less than no reward with the same feedback: the interpersonal style of a
+  performance-contingent reward changes its effect, and the reward lowers
+  intrinsic motivation even when the information it carries is held fixed
 version: 2
 history:
 - version: 2
@@ -50,7 +57,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-049 THEORY-154 — Proposed; the account this result is evidence for, and its rival -->
 
-# THEORY-1324: In Ryan, Mims and Koestner's experiment, the same expected reward for doing well left less later free-choice engagement when given with controlling feedback than with informational feedback, and in both styles less than no reward with the same feedback: the interpersonal style of a performance-contingent reward changes its effect, and the reward lowers intrinsic motivation even when the information it carries is held fixed
+# THEORY-1324: Controlling reward feedback lowers motivation
 
 ## Source
 

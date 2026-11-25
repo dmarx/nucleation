@@ -14,7 +14,13 @@ promote_when: >-
   sentience, which removes the link. Further plant behaviour that does
   not bear on valence (counting, kin recognition, stress sounds), and
   surveys of who accepts plant consciousness, cannot settle it.
-title: "If sentience comes in degrees, plants may be faintly sentient, and moral status is graded by degree of sentience, then plants have a partial moral status so low that animal interests outweigh theirs in most cases; all three premises are assumed, and the second rests on contested, second-hand evidence"
+title: 'Plants may have very low moral status'
+statement: >-
+  If sentience comes in degrees, plants may be faintly sentient, and moral
+  status is graded by degree of sentience, then plants have a partial moral
+  status so low that animal interests outweigh theirs in most cases; all
+  three premises are assumed, and the second rests on contested, second-hand
+  evidence
 version: 2
 history:
 - version: 2
@@ -46,7 +52,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-699 — Proposed; related or rival accounts named in Connections, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-193 — Proposed; the work this account comes from, filed Proposed because its premises are unproven -->
 
-# THEORY-449: If sentience comes in degrees, plants may be faintly sentient, and moral status is graded by degree of sentience, then plants have a partial moral status so low that animal interests outweigh theirs in most cases; all three premises are assumed, and the second rests on contested, second-hand evidence
+# THEORY-449: Plants may have very low moral status
 
 ## Source
 

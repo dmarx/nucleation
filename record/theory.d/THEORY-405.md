@@ -3,7 +3,16 @@ number: 405
 status: Active
 formerly:
 - THEORY-tmp0iif2
-title: "Adding one classifier-free guidance term per concept to a diffusion model's unconditional noise prediction samples images that satisfy several concepts at once without retraining, and on synthetic scenes it composes object positions far better than compositional energy-based models but relations no better; the reading of the summed score as the score of a product of experts holds only for concepts conditionally independent given the image, unit weights, a conservative field and the noise-free distribution"
+title: 'Summed guidance composes concepts, not relations'
+statement: >-
+  Adding one classifier-free guidance term per concept to a diffusion
+  model's unconditional noise prediction samples images that satisfy several
+  concepts at once without retraining, and on synthetic scenes it composes
+  object positions far better than compositional energy-based models but
+  relations no better; the reading of the summed score as the score of a
+  product of experts holds only for concepts conditionally independent given
+  the image, unit weights, a conservative field and the noise-free
+  distribution
 version: 2
 history:
 - version: 2
@@ -31,7 +40,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-678 — Proposed; neighbouring accounts named in Connections, nothing here rests on them -->
 
-# THEORY-405: Adding one classifier-free guidance term per concept to a diffusion model's unconditional noise prediction samples images that satisfy several concepts at once without retraining, and on synthetic scenes it composes object positions far better than compositional energy-based models but relations no better; the reading of the summed score as the score of a product of experts holds only for concepts conditionally independent given the image, unit weights, a conservative field and the noise-free distribution
+# THEORY-405: Summed guidance composes concepts, not relations
 
 ## Source
 

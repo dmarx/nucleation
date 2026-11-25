@@ -3,7 +3,14 @@ number: 149
 status: Active
 formerly:
 - THEORY-tmpsk5aw
-title: 'Users can govern a shared resource durably without either privatisation or central control, and the institutions that last are marked not by particular rules but by structural regularities: user-made and user-monitored rules, graduated sanctions, cheap local conflict resolution, recognised rights to self-organise, and nested layers of governance'
+title: 'Commons last under structural design principles'
+statement: >-
+  Users can govern a shared resource durably without either privatisation or
+  central control, and the institutions that last are marked not by
+  particular rules but by structural regularities: user-made and
+  user-monitored rules, graduated sanctions, cheap local conflict
+  resolution, recognised rights to self-organise, and nested layers of
+  governance
 version: 1
 tags:
 - society-and-governance
@@ -26,7 +33,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: LIT-737 — Unavailable, unread; Governing the Commons, named as the book whose principles the lecture restates -->
 
-# THEORY-149: Users can govern a shared resource durably without either privatisation or central control, and the institutions that last are marked not by particular rules but by structural regularities: user-made and user-monitored rules, graduated sanctions, cheap local conflict resolution, recognised rights to self-organise, and nested layers of governance
+# THEORY-149: Commons last under structural design principles
 
 ## Source
 

@@ -9,7 +9,15 @@ promote_when: >-
   state is the only stable equilibrium of identical Kuramoto oscillators,
   and its own account that its analysis methods fail or become conservative
   for phase-shifted coupling.
-title: 'Dörfler and Bullo survey synchronization of Kuramoto-type phase oscillators on networks: for identical oscillators on S¹-synchronizing graphs, complete and acyclic ones among them, the synchronized state is the only stable equilibrium; fixed points of heterogeneous networks are written through auxiliary edge variables whose homogeneous part lies in the cycle space; and the main analysis methods fail or become conservative for phase-shifted, directed or clustered cases'
+title: 'S¹-synchronizing graphs have one stable state'
+statement: >-
+  Dörfler and Bullo survey synchronization of Kuramoto-type phase
+  oscillators on networks: for identical oscillators on S¹-synchronizing
+  graphs, complete and acyclic ones among them, the synchronized state is
+  the only stable equilibrium; fixed points of heterogeneous networks are
+  written through auxiliary edge variables whose homogeneous part lies in
+  the cycle space; and the main analysis methods fail or become conservative
+  for phase-shifted, directed or clustered cases
 version: 1
 tags:
 - network-science
@@ -29,7 +37,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-2343 — Skimmed reading and Proposed claim, filed by LEAD-023 -->
 
-# THEORY-2252: Dörfler and Bullo survey synchronization of Kuramoto-type phase oscillators on networks: for identical oscillators on S¹-synchronizing graphs, complete and acyclic ones among them, the synchronized state is the only stable equilibrium; fixed points of heterogeneous networks are written through auxiliary edge variables whose homogeneous part lies in the cycle space; and the main analysis methods fail or become conservative for phase-shifted, directed or clustered cases
+# THEORY-2252: S¹-synchronizing graphs have one stable state
 
 ## Source
 

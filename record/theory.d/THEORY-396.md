@@ -3,7 +3,15 @@ number: 396
 status: Active
 formerly:
 - THEORY-tmpi8kfq
-title: 'Every Lipschitz map from an n-point metric space into any Banach space extends to any containing space with Lipschitz constant at most C log n/log log n times its own, by averaging over random partitions at every scale, and every n-point subset of L₂ extends into any Banach space at C√(log n) after Johnson–Lindenstrauss dimension reduction; for maps into Hilbert space this is no improvement on K√(log n), and whether √(log n) suffices for every target is left open'
+title: 'Banach extensions cost O(log n/log log n)'
+statement: >-
+  Every Lipschitz map from an n-point metric space into any Banach space
+  extends to any containing space with Lipschitz constant at most C log
+  n/log log n times its own, by averaging over random partitions at every
+  scale, and every n-point subset of L₂ extends into any Banach space at
+  C√(log n) after Johnson–Lindenstrauss dimension reduction; for maps into
+  Hilbert space this is no improvement on K√(log n), and whether √(log n)
+  suffices for every target is left open
 version: 1
 tags:
 - mathematics
@@ -24,7 +32,7 @@ summary: >-
   whether O(√(log n)) holds for every metric domain and normed target.
 ---
 
-# THEORY-396: Every Lipschitz map from an n-point metric space into any Banach space extends to any containing space with Lipschitz constant at most C log n/log log n times its own, by averaging over random partitions at every scale, and every n-point subset of L₂ extends into any Banach space at C√(log n) after Johnson–Lindenstrauss dimension reduction; for maps into Hilbert space this is no improvement on K√(log n), and whether √(log n) suffices for every target is left open
+# THEORY-396: Banach extensions cost O(log n/log log n)
 
 ## Source
 

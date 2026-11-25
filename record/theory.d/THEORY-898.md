@@ -3,7 +3,13 @@ number: 898
 status: Active
 formerly:
 - THEORY-tmp2890h
-title: 'In Gangneung, South Korea, in 2022, people the authors observed by chance in beach-front cafés outwardly ignored routine retaliatory missile launches and military sites on the beach, while a missile malfunction at night under a news embargo was followed by tweets voicing fear of war with North Korea and blaming the government and military'
+title: 'Locals ignored launches, feared a malfunction'
+statement: >-
+  In Gangneung, South Korea, in 2022, people the authors observed by chance
+  in beach-front cafés outwardly ignored routine retaliatory missile
+  launches and military sites on the beach, while a missile malfunction at
+  night under a news embargo was followed by tweets voicing fear of war with
+  North Korea and blaming the government and military
 version: 2
 history:
 - version: 2
@@ -50,7 +56,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-445 CLAIM-446 — Proposed; the claims this bears on, named, nothing here rests on them -->
 
-# THEORY-898: In Gangneung, South Korea, in 2022, people the authors observed by chance in beach-front cafés outwardly ignored routine retaliatory missile launches and military sites on the beach, while a missile malfunction at night under a news embargo was followed by tweets voicing fear of war with North Korea and blaming the government and military
+# THEORY-898: Locals ignored launches, feared a malfunction
 
 ## Source
 

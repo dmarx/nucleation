@@ -9,7 +9,11 @@ promote_when: >-
   that rules meeting more nonprototypical cases change more in use, in
   their wording or in how they are applied, than rules meeting fewer.
   Cases picked after the fact because a rule changed cannot settle it.
-title: 'Organizational categories are radially structured, so applying them to nonprototypical cases extends and changes them; this is one source of continuous change in routine organizational action'
+title: 'Radial categories change as they are applied'
+statement: >-
+  Organizational categories are radially structured, so applying them to
+  nonprototypical cases extends and changes them; this is one source of
+  continuous change in routine organizational action
 version: 1
 tags:
 - social-science
@@ -29,7 +33,7 @@ summary: >-
   Proposed: it is supported by illustrative cases, not tested.
 ---
 
-# THEORY-1279: Organizational categories are radially structured, so applying them to nonprototypical cases extends and changes them; this is one source of continuous change in routine organizational action
+# THEORY-1279: Radial categories change as they are applied
 
 ## Source
 

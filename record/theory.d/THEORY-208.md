@@ -19,7 +19,10 @@ promote_when: >-
   intelligent. What cannot settle it: more kinds described in prose,
   surveys of who holds the non-standard view, or the bare assertion that
   AI does or does not understand.
-title: 'Agency is multiply realisable without cognition or mental states, and AI is a new kind of it'
+title: 'Agency needs no cognition; AI is a new kind'
+statement: >-
+  Agency is multiply realisable without cognition or mental states, and AI
+  is a new kind of it
 version: 1
 tags:
 - agency
@@ -49,7 +52,7 @@ bears_on:
 <!-- inactive-ok-file: CLAIM-010 — Rejected; cited as the permissiveness objection this account accepts -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; set aside, and cited as the question this account leaves open -->
 
-# THEORY-208: Agency is multiply realisable without cognition or mental states, and AI is a new kind of it
+# THEORY-208: Agency needs no cognition; AI is a new kind
 
 ## Source
 

@@ -13,7 +13,13 @@ promote_when: >-
   levels before seeing how the episode ends. What cannot settle it:
   redescriptions of episodes in the new vocabulary, which show that it
   applies, not that it discriminates.
-title: 'Persons and organizations can be described not as successive stages, with the collective built up from individuals, but as coexisting levels of ordering through which one action propagates, each preserving its components; on that description the problem of scaling up from individual to organizational action does not arise'
+title: 'Persons and organizations are coexisting levels'
+statement: >-
+  Persons and organizations can be described not as successive stages, with
+  the collective built up from individuals, but as coexisting levels of
+  ordering through which one action propagates, each preserving its
+  components; on that description the problem of scaling up from individual
+  to organizational action does not arise
 version: 1
 tags:
 - individuation
@@ -34,7 +40,7 @@ summary: >-
   occurs.
 ---
 
-# THEORY-1277: Persons and organizations can be described not as successive stages, with the collective built up from individuals, but as coexisting levels of ordering through which one action propagates, each preserving its components; on that description the problem of scaling up from individual to organizational action does not arise
+# THEORY-1277: Persons and organizations are coexisting levels
 
 ## Source
 

@@ -14,7 +14,15 @@ promote_when: >-
   domains than those with lower conflict. Either the authors' released
   code or an independent reimplementation will do. It does not need
   MuEdit's recipe to be the best editor, which the title does not assert.
-title: 'On Liang and colleagues, an edit to an LLM''s MLP projection that must leave several domains'' preserved key representations unchanged is confined to the intersection of their null spaces, which can be much smaller than any one domain''s, and this inter-domain null-space misalignment, measured as the share of the smaller null space lost in the intersection, is what makes null-space-projected editing collapse when applied sequentially across heterogeneous domains'
+title: 'Null-space misalignment breaks multi-domain edits'
+statement: >-
+  On Liang and colleagues, an edit to an LLM's MLP projection that must
+  leave several domains' preserved key representations unchanged is confined
+  to the intersection of their null spaces, which can be much smaller than
+  any one domain's, and this inter-domain null-space misalignment, measured
+  as the share of the smaller null space lost in the intersection, is what
+  makes null-space-projected editing collapse when applied sequentially
+  across heterogeneous domains
 version: 1
 tags:
 - representation-learning
@@ -35,7 +43,7 @@ summary: >-
   conflict to forgetting.
 ---
 
-# THEORY-1828: On Liang and colleagues, an edit to an LLM's MLP projection that must leave several domains' preserved key representations unchanged is confined to the intersection of their null spaces, which can be much smaller than any one domain's, and this inter-domain null-space misalignment, measured as the share of the smaller null space lost in the intersection, is what makes null-space-projected editing collapse when applied sequentially across heterogeneous domains
+# THEORY-1828: Null-space misalignment breaks multi-domain edits
 
 ## Source
 

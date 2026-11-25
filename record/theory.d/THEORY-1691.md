@@ -3,7 +3,14 @@ number: 1691
 status: Proposed
 formerly:
 - THEORY-tmpm7h3s
-title: 'Kinder, Stelzer, Arck and Way (2017) argue that the maternal and fetal cells that cross the placenta and persist for decades in offspring and mothers are retained because they sustain tolerance to each other''s antigens, which in mice protects later pregnancies, and that immunological identity should therefore include a "microchiome" of familially related foreign cells whose antigens the immune system treats as an extended self.'
+title: 'Microchimeric cells form an extended immune self'
+statement: >-
+  Kinder, Stelzer, Arck and Way (2017) argue that the maternal and fetal
+  cells that cross the placenta and persist for decades in offspring and
+  mothers are retained because they sustain tolerance to each other's
+  antigens, which in mice protects later pregnancies, and that immunological
+  identity should therefore include a "microchiome" of familially related
+  foreign cells whose antigens the immune system treats as an extended self.
 version: 1
 source:
 - LIT-2348
@@ -36,7 +43,7 @@ summary: >-
   causal roles in humans are mostly unestablished.
 ---
 
-# THEORY-1691: Kinder, Stelzer, Arck and Way (2017) argue that the maternal and fetal cells that cross the placenta and persist for decades in offspring and mothers are retained because they sustain tolerance to each other's antigens, which in mice protects later pregnancies, and that immunological identity should therefore include a "microchiome" of familially related foreign cells whose antigens the immune system treats as an extended self.
+# THEORY-1691: Microchimeric cells form an extended immune self
 
 ## The account
 

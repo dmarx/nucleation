@@ -3,7 +3,14 @@ number: 1467
 status: Active
 formerly:
 - THEORY-tmp6gkfy
-title: 'Mussmann and colleagues argue, from greater prairie chickens in Illinois, that supplying individuals by translocation while the habitat threat persists gives only ambiguous or transitory gains and perpetuates conservation reliance, which can fall below a reliance threshold only if extrinsic threats and intrinsic small-population limits are relieved together'
+title: 'Translocation amid threats sustains reliance'
+statement: >-
+  Mussmann and colleagues argue, from greater prairie chickens in Illinois,
+  that supplying individuals by translocation while the habitat threat
+  persists gives only ambiguous or transitory gains and perpetuates
+  conservation reliance, which can fall below a reliance threshold only if
+  extrinsic threats and intrinsic small-population limits are relieved
+  together
 version: 3
 history:
 - version: 2
@@ -45,7 +52,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: LIT-2146 — Unavailable; cited from the reading of Mussmann et al. (2017) as open -->
 
-# THEORY-1467: Mussmann and colleagues argue, from greater prairie chickens in Illinois, that supplying individuals by translocation while the habitat threat persists gives only ambiguous or transitory gains and perpetuates conservation reliance, which can fall below a reliance threshold only if extrinsic threats and intrinsic small-population limits are relieved together
+# THEORY-1467: Translocation amid threats sustains reliance
 
 ## Source
 

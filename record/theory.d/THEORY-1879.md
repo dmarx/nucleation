@@ -12,7 +12,14 @@ promote_when: >-
   under the constraint and tracks the merge gain across tasks. Gains for
   other merging methods would not settle it, since the title asserts
   them for task arithmetic only.
-title: 'Merged LoRA models lose accuracy because each task''s low-rank update shifts the layer outputs on the other tasks'' inputs, and constraining each task''s down-projection before fine-tuning to the smallest-variance directions of the other tasks'' latent features reduces the loss, raising task-arithmetic merges of eight GLUE LoRAs on Llama3-8B from 63.3 to 72.8 average'
+title: 'Low-variance LoRA projections reduce merge loss'
+statement: >-
+  Merged LoRA models lose accuracy because each task's low-rank update
+  shifts the layer outputs on the other tasks' inputs, and constraining each
+  task's down-projection before fine-tuning to the smallest-variance
+  directions of the other tasks' latent features reduces the loss, raising
+  task-arithmetic merges of eight GLUE LoRAs on Llama3-8B from 63.3 to 72.8
+  average
 version: 1
 tags:
 - loss-landscapes
@@ -35,7 +42,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-1897 — Proposed; filed with this entry -->
 <!-- inactive-ok-file: THEORY-107 — Proposed; the coordinate account this one is set beside -->
 
-# THEORY-1879: Merged LoRA models lose accuracy because each task's low-rank update shifts the layer outputs on the other tasks' inputs, and constraining each task's down-projection before fine-tuning to the smallest-variance directions of the other tasks' latent features reduces the loss, raising task-arithmetic merges of eight GLUE LoRAs on Llama3-8B from 63.3 to 72.8 average
+# THEORY-1879: Low-variance LoRA projections reduce merge loss
 
 ## Source
 

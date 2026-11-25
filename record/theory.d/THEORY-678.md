@@ -14,7 +14,14 @@ promote_when: >-
   image and prompt cannot settle it, since it rewards hybrid objects, and
   neither can a preference study that asks which set of images matches the
   prompt best.
-title: "In Stable Diffusion, a subject named in a two-subject prompt is left out of the image when its token governs no region of the cross-attention map early in sampling, and raising that token's smoothed peak attention during the first half of sampling, by gradient steps on the latent with no retraining, brings the subject back; that this also fixes attribute binding is argued, not measured by the paper"
+title: 'Boosting attention restores neglected subjects'
+statement: >-
+  In Stable Diffusion, a subject named in a two-subject prompt is left out
+  of the image when its token governs no region of the cross-attention map
+  early in sampling, and raising that token's smoothed peak attention during
+  the first half of sampling, by gradient steps on the latent with no
+  retraining, brings the subject back; that this also fixes attribute
+  binding is argued, not measured by the paper
 version: 2
 history:
 - version: 2
@@ -44,7 +51,7 @@ corroborates:
 - CLAIM-321
 ---
 
-# THEORY-678: In Stable Diffusion, a subject named in a two-subject prompt is left out of the image when its token governs no region of the cross-attention map early in sampling, and raising that token's smoothed peak attention during the first half of sampling, by gradient steps on the latent with no retraining, brings the subject back; that this also fixes attribute binding is argued, not measured by the paper
+# THEORY-678: Boosting attention restores neglected subjects
 
 ## Source
 

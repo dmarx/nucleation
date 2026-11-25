@@ -11,7 +11,12 @@ promote_when: >-
   agreement for each judge, that again finds single-judge agreement in the
   0.4–0.8 range and lower for lexically different pairs. Re-analysis of the
   same 5,532 ratings does not settle it.
-title: 'Single judges agree moderately on how pragmatically similar two spoken utterances are, mean pairwise correlation 0.45 to 0.72 by session, less when the utterances differ in words, so a mean over six to nine judges is much more reliable than any one judge'
+title: 'Judges agree moderately on pragmatic similarity'
+statement: >-
+  Single judges agree moderately on how pragmatically similar two spoken
+  utterances are, mean pairwise correlation 0.45 to 0.72 by session, less
+  when the utterances differ in words, so a mean over six to nine judges is
+  much more reliable than any one judge
 version: 1
 tags:
 - pragmatics
@@ -30,7 +35,7 @@ summary: >-
   floor for a panel nor a value for translations.
 ---
 
-# THEORY-1148: Single judges agree moderately on how pragmatically similar two spoken utterances are, mean pairwise correlation 0.45 to 0.72 by session, less when the utterances differ in words, so a mean over six to nine judges is much more reliable than any one judge
+# THEORY-1148: Judges agree moderately on pragmatic similarity
 
 ## Source
 

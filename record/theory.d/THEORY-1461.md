@@ -3,7 +3,19 @@ number: 1461
 status: Active
 formerly:
 - THEORY-tmp10msz
-title: 'Kline and Moretti find that the Tennessee Valley Authority''s federal subsidies, peaking at about 10% of household income in 1950–55 and declining sharply after the TVA was made self-financing in 1959, raised both agricultural and manufacturing employment growth in its region by about 10–12 points per decade in 1940–1960, after which the agricultural gain fully reversed while manufacturing kept growing about 3 points per decade faster; but their estimate of a constant agglomeration elasticity, about 0.4–0.47 in labour demand and equal across density ranges, implies a unique steady state, so that the manufacturing gain is slow convergence rather than a big-push shift to a second equilibrium and will eventually die out'
+title: 'TVA manufacturing gain was slow convergence'
+statement: >-
+  Kline and Moretti find that the Tennessee Valley Authority's federal
+  subsidies, peaking at about 10% of household income in 1950–55 and
+  declining sharply after the TVA was made self-financing in 1959, raised
+  both agricultural and manufacturing employment growth in its region by
+  about 10–12 points per decade in 1940–1960, after which the agricultural
+  gain fully reversed while manufacturing kept growing about 3 points per
+  decade faster; but their estimate of a constant agglomeration elasticity,
+  about 0.4–0.47 in labour demand and equal across density ranges, implies a
+  unique steady state, so that the manufacturing gain is slow convergence
+  rather than a big-push shift to a second equilibrium and will eventually
+  die out
 version: 2
 history:
 - version: 2
@@ -59,7 +71,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-919 THEORY-885 — Proposed; cited from the reading of Kline and Moretti (2014) as open -->
 
-# THEORY-1461: Kline and Moretti find that the Tennessee Valley Authority's federal subsidies, peaking at about 10% of household income in 1950–55 and declining sharply after the TVA was made self-financing in 1959, raised both agricultural and manufacturing employment growth in its region by about 10–12 points per decade in 1940–1960, after which the agricultural gain fully reversed while manufacturing kept growing about 3 points per decade faster; but their estimate of a constant agglomeration elasticity, about 0.4–0.47 in labour demand and equal across density ranges, implies a unique steady state, so that the manufacturing gain is slow convergence rather than a big-push shift to a second equilibrium and will eventually die out
+# THEORY-1461: TVA manufacturing gain was slow convergence
 
 ## Source
 

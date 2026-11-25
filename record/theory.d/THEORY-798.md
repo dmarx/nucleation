@@ -17,7 +17,13 @@ promote_when: >-
   or fails where the conformal residual is small and the anchors cover the
   data. More stitching tables of the kind the source reports cannot settle
   it, since they do not separate distortion from anchor coverage.
-title: 'Independently trained neural encoders of the same data learn latent spaces that differ mainly by an angle-preserving map, a rotation or reflection times a rescaling, so their cosine similarities to shared anchor samples agree across seeds, architectures and languages, as Moschella et al. propose'
+title: 'Encoders differ by an angle-preserving map'
+statement: >-
+  Independently trained neural encoders of the same data learn latent spaces
+  that differ mainly by an angle-preserving map, a rotation or reflection
+  times a rescaling, so their cosine similarities to shared anchor samples
+  agree across seeds, architectures and languages, as Moschella et al.
+  propose
 version: 1
 tags:
 - representation-learning
@@ -35,7 +41,7 @@ summary: >-
   consequences; it never fits a map between two spaces.
 ---
 
-# THEORY-798: Independently trained neural encoders of the same data learn latent spaces that differ mainly by an angle-preserving map, a rotation or reflection times a rescaling, so their cosine similarities to shared anchor samples agree across seeds, architectures and languages, as Moschella et al. propose
+# THEORY-798: Encoders differ by an angle-preserving map
 
 ## Source
 

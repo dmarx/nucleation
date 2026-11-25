@@ -10,7 +10,12 @@ promote_when: >-
   risk aversion in real or incentivised choices outside the
   laboratory; or a field study finds that exogenously induced chronic
   stress in a poor population raises discounting or risk aversion.
-title: "Poverty causes stress and negative affect, and these in turn make people more present-biased and risk-averse independent of credit constraints and background risk, so that behaviour taken as the poor's own preference may partly be an effect of poverty and may help perpetuate it"
+title: 'Poverty''s stress makes people present-biased'
+statement: >-
+  Poverty causes stress and negative affect, and these in turn make people
+  more present-biased and risk-averse independent of credit constraints and
+  background risk, so that behaviour taken as the poor's own preference may
+  partly be an effect of poverty and may help perpetuate it
 version: 1
 tags:
 - social-science
@@ -30,7 +35,7 @@ summary: >-
   word.
 ---
 
-# THEORY-1539: Poverty causes stress and negative affect, and these in turn make people more present-biased and risk-averse independent of credit constraints and background risk, so that behaviour taken as the poor's own preference may partly be an effect of poverty and may help perpetuate it
+# THEORY-1539: Poverty's stress makes people present-biased
 
 ## Source
 

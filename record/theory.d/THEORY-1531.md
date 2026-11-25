@@ -3,7 +3,15 @@ number: 1531
 status: Active
 formerly:
 - THEORY-tmpbp1q1
-title: 'Bencherki, Brummans and Vézy propose that communication be treated as transduction, the continuity of an action through processes that it transforms, rather than as exchange between parties, with meaning the contribution an action makes, in retrospect, to a joint individuation and coexisting meanings the mark of concurrent individuations, and they assert that the problem of scaling agency from individual to collective then vanishes'
+title: 'Communication as transduction dissolves scaling'
+statement: >-
+  Bencherki, Brummans and Vézy propose that communication be treated as
+  transduction, the continuity of an action through processes that it
+  transforms, rather than as exchange between parties, with meaning the
+  contribution an action makes, in retrospect, to a joint individuation and
+  coexisting meanings the mark of concurrent individuations, and they assert
+  that the problem of scaling agency from individual to collective then
+  vanishes
 version: 1
 tags:
 - social-ontology
@@ -24,7 +32,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1278 — Proposed; the account this is split from, which holds whether the treatment changes a verdict -->
 
-# THEORY-1531: Bencherki, Brummans and Vézy propose that communication be treated as transduction, the continuity of an action through processes that it transforms, rather than as exchange between parties, with meaning the contribution an action makes, in retrospect, to a joint individuation and coexisting meanings the mark of concurrent individuations, and they assert that the problem of scaling agency from individual to collective then vanishes
+# THEORY-1531: Communication as transduction dissolves scaling
 
 ## Source
 

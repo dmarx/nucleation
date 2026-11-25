@@ -3,7 +3,15 @@ number: 270
 status: Active
 formerly:
 - THEORY-tmpkpfpe
-title: "In Goldwasser, Gruber, Kalai and Paradise's common-nonsense model, where the source language and the plausibility prior are uniform over sets from which shared random nonsense is removed and translators are one-to-one, maximum likelihood with the prior alone translates without parallel data with error O(log|Θ| / (α·min(m, |T|))) with high probability, falling in the shared nonsense α, in the size of the source language and in the number of samples"
+title: 'Shared nonsense enables unsupervised translation'
+statement: >-
+  In Goldwasser, Gruber, Kalai and Paradise's common-nonsense model, where
+  the source language and the plausibility prior are uniform over sets from
+  which shared random nonsense is removed and translators are one-to-one,
+  maximum likelihood with the prior alone translates without parallel data
+  with error O(log|Θ| / (α·min(m, |T|))) with high probability, falling in
+  the shared nonsense α, in the size of the source language and in the
+  number of samples
 version: 4
 history:
 - version: 2
@@ -53,7 +61,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-806 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
 <!-- inactive-ok-file: THEORY-170 CLAIM-054 — Proposed; theories and claim this account bears on, open -->
 
-# THEORY-270: In Goldwasser, Gruber, Kalai and Paradise's common-nonsense model, where the source language and the plausibility prior are uniform over sets from which shared random nonsense is removed and translators are one-to-one, maximum likelihood with the prior alone translates without parallel data with error O(log|Θ| / (α·min(m, |T|))) with high probability, falling in the shared nonsense α, in the size of the source language and in the number of samples
+# THEORY-270: Shared nonsense enables unsupervised translation
 
 ## Source
 

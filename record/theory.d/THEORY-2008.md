@@ -3,7 +3,14 @@ number: 2008
 status: Proposed
 formerly:
 - THEORY-tmp3vfqj
-title: 'Masumori and colleagues show that a growing neural cellular automaton trained to regenerate keeps its formed pattern not at a fixed point but on a recurrent attracting state sustained by persistent, spatially structured fluctuations, that damage displaces it from that state and it returns over hundreds of steps, and that suppressing small updates across most of the pattern impairs the return'
+title: 'NCA regeneration rides a fluctuating attractor'
+statement: >-
+  Masumori and colleagues show that a growing neural cellular automaton
+  trained to regenerate keeps its formed pattern not at a fixed point but on
+  a recurrent attracting state sustained by persistent, spatially structured
+  fluctuations, that damage displaces it from that state and it returns over
+  hundreds of steps, and that suppressing small updates across most of the
+  pattern impairs the return
 version: 1
 source:
 - LIT-2788
@@ -38,7 +45,7 @@ summary: >-
   one precarious activity, not two mechanisms. Read in its NOTE.
 ---
 
-# THEORY-2008: Masumori and colleagues show that a growing neural cellular automaton trained to regenerate keeps its formed pattern not at a fixed point but on a recurrent attracting state sustained by persistent, spatially structured fluctuations, that damage displaces it from that state and it returns over hundreds of steps, and that suppressing small updates across most of the pattern impairs the return
+# THEORY-2008: NCA regeneration rides a fluctuating attractor
 
 ## The account
 

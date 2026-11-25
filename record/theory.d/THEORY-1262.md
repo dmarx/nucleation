@@ -11,7 +11,14 @@ promote_when: >-
   at scales beyond 1.2B. A result in which the gain disappears across
   seeds, or reverses with scale, would count against it; further single
   runs at the same scales would not settle it.
-title: 'In multi-token-prediction pre-training at 167M to 1.2B parameters, the part of the MTP gradient that pulls toward the sampled target carries about four-fifths of the MTP gradient reaching the shared trunk with roughly a quarter of the signal-to-noise ratio of the self-distillation part, and removing it from the trunk improves next-token loss, speculative decoding and zero-shot accuracy by small margins'
+title: 'Dropping MTP''s target term from the trunk helps'
+statement: >-
+  In multi-token-prediction pre-training at 167M to 1.2B parameters, the
+  part of the MTP gradient that pulls toward the sampled target carries
+  about four-fifths of the MTP gradient reaching the shared trunk with
+  roughly a quarter of the signal-to-noise ratio of the self-distillation
+  part, and removing it from the trunk improves next-token loss, speculative
+  decoding and zero-shot accuracy by small margins
 version: 1
 tags:
 - learning-theory
@@ -28,7 +35,7 @@ summary: >-
   absence there.
 ---
 
-# THEORY-1262: In multi-token-prediction pre-training at 167M to 1.2B parameters, the part of the MTP gradient that pulls toward the sampled target carries about four-fifths of the MTP gradient reaching the shared trunk with roughly a quarter of the signal-to-noise ratio of the self-distillation part, and removing it from the trunk improves next-token loss, speculative decoding and zero-shot accuracy by small margins
+# THEORY-1262: Dropping MTP's target term from the trunk helps
 
 ## Source
 

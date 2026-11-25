@@ -3,7 +3,15 @@ number: 1250
 status: Active
 formerly:
 - THEORY-tmp1nk6k
-title: 'A chemostat is an emergent structure of a closed reaction network: when exchange reactions are fast and the reservoir species are abundant by a factor of order Omega, the closed network behaves to leading order as the open one, with its local detailed balance and dissipation, over a window that opens once exchange equilibrates and closes on a time of order Omega, after which a driven network relaxes to equilibrium; neither separation alone suffices'
+title: 'A chemostat emerges from a closed network'
+statement: >-
+  A chemostat is an emergent structure of a closed reaction network: when
+  exchange reactions are fast and the reservoir species are abundant by a
+  factor of order Omega, the closed network behaves to leading order as the
+  open one, with its local detailed balance and dissipation, over a window
+  that opens once exchange equilibrates and closes on a time of order Omega,
+  after which a driven network relaxes to equilibrium; neither separation
+  alone suffices
 version: 1
 tags:
 - thermodynamics
@@ -23,7 +31,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-478 THEORY-1052 — Proposed; the claim and the reading whose window this instance sharpens, cited as open -->
 
-# THEORY-1250: A chemostat is an emergent structure of a closed reaction network: when exchange reactions are fast and the reservoir species are abundant by a factor of order Omega, the closed network behaves to leading order as the open one, with its local detailed balance and dissipation, over a window that opens once exchange equilibrates and closes on a time of order Omega, after which a driven network relaxes to equilibrium; neither separation alone suffices
+# THEORY-1250: A chemostat emerges from a closed network
 
 ## Source
 

@@ -3,7 +3,16 @@ number: 1692
 status: Proposed
 formerly:
 - THEORY-tmpmh3g4
-title: 'Hasler (2026) argues that the enteric nervous system''s scale, autonomy and sensory resolution make it a candidate substrate of consciousness on several theories, but that this evidence supports only the contributory thesis, that the gut helps constitute the whole animal''s single experience; the partial-subject thesis, that the gut is a second locus of experience, is open and would need enteric contents integrated among themselves but not with the central ones, persisting when the connection to the brain is cut.'
+title: 'Evidence backs gut contributing to consciousness'
+statement: >-
+  Hasler (2026) argues that the enteric nervous system's scale, autonomy and
+  sensory resolution make it a candidate substrate of consciousness on
+  several theories, but that this evidence supports only the contributory
+  thesis, that the gut helps constitute the whole animal's single
+  experience; the partial-subject thesis, that the gut is a second locus of
+  experience, is open and would need enteric contents integrated among
+  themselves but not with the central ones, persisting when the connection
+  to the brain is cut.
 version: 1
 source:
 - LIT-2354
@@ -29,7 +38,7 @@ summary: >-
   experiences are not the person's).
 ---
 
-# THEORY-1692: Hasler (2026) argues that the enteric nervous system's scale, autonomy and sensory resolution make it a candidate substrate of consciousness on several theories, but that this evidence supports only the contributory thesis, that the gut helps constitute the whole animal's single experience; the partial-subject thesis, that the gut is a second locus of experience, is open and would need enteric contents integrated among themselves but not with the central ones, persisting when the connection to the brain is cut.
+# THEORY-1692: Evidence backs gut contributing to consciousness
 
 ## The account
 

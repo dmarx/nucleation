@@ -9,7 +9,13 @@ promote_when: >-
   probe accuracy and the amnesic drop in word-prediction accuracy, and
   above-chance probe accuracy for the property at layers after the one
   where INLP was applied.
-title: 'On Elazar and colleagues, in BERT-base how accurately a linear probe decodes a linguistic property does not predict how much masked-word prediction suffers when the property is removed by iterative nullspace projection, and property information removed at one layer is partly re-decodable at later layers'
+title: 'Probe accuracy doesn''t predict removal effect'
+statement: >-
+  On Elazar and colleagues, in BERT-base how accurately a linear probe
+  decodes a linguistic property does not predict how much masked-word
+  prediction suffers when the property is removed by iterative nullspace
+  projection, and property information removed at one layer is partly
+  re-decodable at later layers
 version: 1
 tags:
 - representation-learning
@@ -27,7 +33,7 @@ summary: >-
   wording is the reader's; adopting it is the owner's call.
 ---
 
-# THEORY-1888: On Elazar and colleagues, in BERT-base how accurately a linear probe decodes a linguistic property does not predict how much masked-word prediction suffers when the property is removed by iterative nullspace projection, and property information removed at one layer is partly re-decodable at later layers
+# THEORY-1888: Probe accuracy doesn't predict removal effect
 
 ## Source
 

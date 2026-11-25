@@ -3,7 +3,12 @@ number: 1654
 status: Proposed
 formerly:
 - THEORY-tmp4rc81
-title: 'Microchimeric cells pass in both directions between mother and offspring, are rare, can persist for decades and colonize almost any tissue, the brain among them, while their function, the mechanism of their persistence and what counts as microchimerism remain open'
+title: 'Microchimerism is bidirectional and long-lived'
+statement: >-
+  Microchimeric cells pass in both directions between mother and offspring,
+  are rare, can persist for decades and colonize almost any tissue, the
+  brain among them, while their function, the mechanism of their persistence
+  and what counts as microchimerism remain open
 version: 1
 source:
 - LIT-2415
@@ -29,7 +34,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-1768 — Skimmed; the reading filed from the same exchange -->
 
-# THEORY-1654: Microchimeric cells pass in both directions between mother and offspring, are rare, can persist for decades and colonize almost any tissue, the brain among them, while their function, the mechanism of their persistence and what counts as microchimerism remain open
+# THEORY-1654: Microchimerism is bidirectional and long-lived
 
 ## The account
 

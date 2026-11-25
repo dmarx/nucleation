@@ -3,7 +3,14 @@ number: 901
 status: Active
 formerly:
 - THEORY-tmp541sg
-title: 'As Mancinelli and Bach''s systematic review of avoidance learning in healthy humans reports it, rating both A, an avoidance response left available during extinction persists, in some participants for hundreds of unpunished trials, and keeps expectancy of the aversive outcome higher than in people denied it (nine studies); and less effective or costlier responses extinguish faster (six studies, one exception)'
+title: 'Available avoidance blocks extinction'
+statement: >-
+  As Mancinelli and Bach's systematic review of avoidance learning in
+  healthy humans reports it, rating both A, an avoidance response left
+  available during extinction persists, in some participants for hundreds of
+  unpunished trials, and keeps expectancy of the aversive outcome higher
+  than in people denied it (nine studies); and less effective or costlier
+  responses extinguish faster (six studies, one exception)
 version: 2
 history:
 - version: 2
@@ -39,7 +46,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-446 — Proposed; the claim and readings this bears on, named, nothing here rests on them -->
 
-# THEORY-901: As Mancinelli and Bach's systematic review of avoidance learning in healthy humans reports it, rating both A, an avoidance response left available during extinction persists, in some participants for hundreds of unpunished trials, and keeps expectancy of the aversive outcome higher than in people denied it (nine studies); and less effective or costlier responses extinguish faster (six studies, one exception)
+# THEORY-901: Available avoidance blocks extinction
 
 ## Source
 

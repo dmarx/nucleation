@@ -3,7 +3,13 @@ number: 1605
 status: Active
 formerly:
 - THEORY-tmpk616v
-title: 'Salice and Miyazono argue that group identification, as philosophers of shared agency use it, runs together two separable processes, adopting the group''s perspective and self-transformation into a member, and that self-transformation is a Pushmi-Pullyu representation that describes and motivates at once'
+title: 'Group identification is two separable processes'
+statement: >-
+  Salice and Miyazono argue that group identification, as philosophers of
+  shared agency use it, runs together two separable processes, adopting the
+  group's perspective and self-transformation into a member, and that
+  self-transformation is a Pushmi-Pullyu representation that describes and
+  motivates at once
 version: 2
 history:
 - version: 1
@@ -34,7 +40,7 @@ bears_on:
 - QUESTION-300
 ---
 
-# THEORY-1605: Salice and Miyazono argue that group identification, as philosophers of shared agency use it, runs together two separable processes, adopting the group's perspective and self-transformation into a member, and that self-transformation is a Pushmi-Pullyu representation that describes and motivates at once
+# THEORY-1605: Group identification is two separable processes
 
 ## The account
 

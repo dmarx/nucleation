@@ -13,7 +13,15 @@ promote_when: >-
   2026-10-19 closes, at least for finitely many concepts. Evidence about
   trained networks cannot settle it, since the title disclaims that
   clause. That question is QUESTION-161.
-title: "If pretraining text is a mixture of hidden Markov models indexed by a latent concept and a model fits that distribution exactly, then a prompt of concatenated examples moves the posterior onto the prompt's concept, and the in-context predictor becomes Bayes-optimal as examples accumulate, whenever each example's evidence for the concept outweighs the cost of the improbable transitions between examples; whether trained networks learn in context this way is not shown"
+title: 'ICL can be Bayesian inference over concepts'
+statement: >-
+  If pretraining text is a mixture of hidden Markov models indexed by a
+  latent concept and a model fits that distribution exactly, then a prompt
+  of concatenated examples moves the posterior onto the prompt's concept,
+  and the in-context predictor becomes Bayes-optimal as examples accumulate,
+  whenever each example's evidence for the concept outweighs the cost of the
+  improbable transitions between examples; whether trained networks learn in
+  context this way is not shown
 version: 3
 history:
 - version: 2
@@ -55,7 +63,7 @@ bears_on:
 
 <!-- inactive-ok-file: CLAIM-029 — Proposed; named for the reading it uses, not leaned on -->
 
-# THEORY-614: If pretraining text is a mixture of hidden Markov models indexed by a latent concept and a model fits that distribution exactly, then a prompt of concatenated examples moves the posterior onto the prompt's concept, and the in-context predictor becomes Bayes-optimal as examples accumulate, whenever each example's evidence for the concept outweighs the cost of the improbable transitions between examples; whether trained networks learn in context this way is not shown
+# THEORY-614: ICL can be Bayesian inference over concepts
 
 ## Source
 

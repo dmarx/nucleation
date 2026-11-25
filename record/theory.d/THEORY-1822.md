@@ -3,7 +3,13 @@ number: 1822
 status: Proposed
 formerly:
 - THEORY-tmpsj1yx
-title: 'Wardrope reads Leopold''s Land Ethic as giving biotic and human communities intrinsic value that extends, rather than replaces, the value of their individual members, so that the ethic requires respect both for fellow members and for the community as such, and escapes the charge of environmental fascism'
+title: 'Land Ethic extends value to communities'
+statement: >-
+  Wardrope reads Leopold's Land Ethic as giving biotic and human communities
+  intrinsic value that extends, rather than replaces, the value of their
+  individual members, so that the ethic requires respect both for fellow
+  members and for the community as such, and escapes the charge of
+  environmental fascism
 version: 1
 source:
 - LIT-2540
@@ -20,7 +26,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-1898 — filed from the exchange "About Plantation Paradise" (2026-11-12), Skimmed -->
 
-# THEORY-1822: Wardrope reads Leopold's Land Ethic as giving biotic and human communities intrinsic value that extends, rather than replaces, the value of their individual members, so that the ethic requires respect both for fellow members and for the community as such, and escapes the charge of environmental fascism
+# THEORY-1822: Land Ethic extends value to communities
 
 ## The account
 

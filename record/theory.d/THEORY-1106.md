@@ -3,7 +3,17 @@ number: 1106
 status: Active
 formerly:
 - THEORY-tmpjel7l
-title: 'Campbell and colleagues report, from four cicada species with five or six eggs each, that Hodgkinia cells per egg range from about 4,900 in a species with one Hodgkinia lineage to about 30,000, some six times as many, in Magicicada septendecim, whose Hodgkinia has split into many interdependent lineages and the only species that differs significantly, while Sulcia numbers are not raised, the transmission route is the same, and every egg sampled carries every lineage tracked by marker genes; the authors take the raised titre as a host adaptation that compensates for the symbiont''s fragmentation, and a cost of it'
+title: 'Hosts raise titre for fragmented Hodgkinia'
+statement: >-
+  Campbell and colleagues report, from four cicada species with five or six
+  eggs each, that Hodgkinia cells per egg range from about 4,900 in a
+  species with one Hodgkinia lineage to about 30,000, some six times as
+  many, in Magicicada septendecim, whose Hodgkinia has split into many
+  interdependent lineages and the only species that differs significantly,
+  while Sulcia numbers are not raised, the transmission route is the same,
+  and every egg sampled carries every lineage tracked by marker genes; the
+  authors take the raised titre as a host adaptation that compensates for
+  the symbiont's fragmentation, and a cost of it
 version: 2
 history:
 - version: 1
@@ -68,7 +78,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1214 — Proposed; filed beside this reading by the twenty-second status review: the wider thesis it reports -->
 <!-- inactive-ok-file: CASE-177 LIT-1563 LIT-1612 — Open, Proposed or Unfetched; the question, case, account and unread works this is set beside, nothing here rests on them -->
-# THEORY-1106: Campbell and colleagues report, from four cicada species with five or six eggs each, that Hodgkinia cells per egg range from about 4,900 in a species with one Hodgkinia lineage to about 30,000, some six times as many, in Magicicada septendecim, whose Hodgkinia has split into many interdependent lineages and the only species that differs significantly, while Sulcia numbers are not raised, the transmission route is the same, and every egg sampled carries every lineage tracked by marker genes; the authors take the raised titre as a host adaptation that compensates for the symbiont's fragmentation, and a cost of it
+# THEORY-1106: Hosts raise titre for fragmented Hodgkinia
 
 ## Source
 

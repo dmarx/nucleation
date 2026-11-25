@@ -3,7 +3,10 @@ number: 1187
 status: Proposed
 formerly:
 - THEORY-tmprf57g
-title: 'Along a low-loss linear path between two networks, every layer''s features are the interpolation of the endpoints'' features'
+title: 'Low-loss paths interpolate every layer''s features'
+statement: >-
+  Along a low-loss linear path between two networks, every layer's features
+  are the interpolation of the endpoints' features
 version: 1
 tags:
 - loss-landscapes
@@ -37,7 +40,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: ADR-047 — Superseded by ADR-057, which keeps its evidence rulings; cited for the kind-1 rule this entry is filed under -->
 
-# THEORY-1187: Along a low-loss linear path between two networks, every layer's features are the interpolation of the endpoints' features
+# THEORY-1187: Low-loss paths interpolate every layer's features
 
 ## Source
 

@@ -3,7 +3,15 @@ number: 840
 status: Active
 formerly:
 - THEORY-tmp9m1g4
-title: 'When every log-likelihood a predictive family V can assign lies in [−B, B], the V-information estimated from N samples is within 4R_N(G_V) + 2B√(2 log(1/δ)/N) of the true V-information with probability at least 1 − 2δ, with R_N(G_V) the Rademacher complexity of the family''s log-likelihoods; so usable information relative to a family of small complexity can be estimated in high dimension, and what is estimated is that family''s information, not Shannon''s'
+title: 'V-information is estimable in high dimension'
+statement: >-
+  When every log-likelihood a predictive family V can assign lies in [−B,
+  B], the V-information estimated from N samples is within 4R_N(G_V) + 2B√(2
+  log(1/δ)/N) of the true V-information with probability at least 1 − 2δ,
+  with R_N(G_V) the Rademacher complexity of the family's log-likelihoods;
+  so usable information relative to a family of small complexity can be
+  estimated in high dimension, and what is estimated is that family's
+  information, not Shannon's
 version: 1
 history:
 - version: 1
@@ -29,7 +37,7 @@ summary: >-
   restricted family may under- or over-state ([THEORY-846](THEORY-846.md)).
 ---
 
-# THEORY-840: When every log-likelihood a predictive family V can assign lies in [−B, B], the V-information estimated from N samples is within 4R_N(G_V) + 2B√(2 log(1/δ)/N) of the true V-information with probability at least 1 − 2δ, with R_N(G_V) the Rademacher complexity of the family's log-likelihoods; so usable information relative to a family of small complexity can be estimated in high dimension, and what is estimated is that family's information, not Shannon's
+# THEORY-840: V-information is estimable in high dimension
 
 ## Source
 

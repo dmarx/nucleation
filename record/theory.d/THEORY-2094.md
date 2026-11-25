@@ -3,7 +3,14 @@ number: 2094
 status: Proposed
 formerly:
 - THEORY-tmpg10ux
-title: 'Kuhn holds that a scientific community''s paradigm, learned from exemplary problem-solutions as a rule-free similarity relation, makes later puzzle-solving tractable and restricts which problems can be asked, that its rigidity makes anomalies visible until they bring crisis, and that a revolution changes the field''s problems, standards and some learned similarity relations, with losses as well as gains'
+title: 'Paradigms enable puzzles and expose anomalies'
+statement: >-
+  Kuhn holds that a scientific community's paradigm, learned from exemplary
+  problem-solutions as a rule-free similarity relation, makes later
+  puzzle-solving tractable and restricts which problems can be asked, that
+  its rigidity makes anomalies visible until they bring crisis, and that a
+  revolution changes the field's problems, standards and some learned
+  similarity relations, with losses as well as gains
 version: 1
 source:
 - LIT-2884
@@ -29,7 +36,7 @@ summary: >-
   anomaly; interpretive history. Proposed until its promote_when is met.
 ---
 
-# THEORY-2094: Kuhn holds that a scientific community's paradigm, learned from exemplary problem-solutions as a rule-free similarity relation, makes later puzzle-solving tractable and restricts which problems can be asked, that its rigidity makes anomalies visible until they bring crisis, and that a revolution changes the field's problems, standards and some learned similarity relations, with losses as well as gains
+# THEORY-2094: Paradigms enable puzzles and expose anomalies
 
 ## The account
 

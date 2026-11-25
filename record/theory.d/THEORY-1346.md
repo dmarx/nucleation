@@ -3,7 +3,15 @@ number: 1346
 status: Active
 formerly:
 - THEORY-tmpvy87o
-title: 'In rat cortical slices with synapses blocked, extracellular fields of the local field potential''s size, applied by an electrode, shift the membrane potential of layer 5 pyramidal neurons by less than 0.5 mV at frequencies up to 100 Hz and, with spiking driven by current, phase-lock spike times without changing spike counts, most effectively for slow fields, and synchronize nearby neurons; the authors explain the effect by Kirchhoff''s circuit laws and a fixed firing threshold'
+title: 'LFP-size fields phase-lock spikes, not counts'
+statement: >-
+  In rat cortical slices with synapses blocked, extracellular fields of the
+  local field potential's size, applied by an electrode, shift the membrane
+  potential of layer 5 pyramidal neurons by less than 0.5 mV at frequencies
+  up to 100 Hz and, with spiking driven by current, phase-lock spike times
+  without changing spike counts, most effectively for slow fields, and
+  synchronize nearby neurons; the authors explain the effect by Kirchhoff's
+  circuit laws and a fixed firing threshold
 version: 2
 history:
 - version: 2
@@ -34,7 +42,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: CLAIM-478 — Proposed; the claim this reading corroborates, as an instance it does not need -->
 
-# THEORY-1346: In rat cortical slices with synapses blocked, extracellular fields of the local field potential's size, applied by an electrode, shift the membrane potential of layer 5 pyramidal neurons by less than 0.5 mV at frequencies up to 100 Hz and, with spiking driven by current, phase-lock spike times without changing spike counts, most effectively for slow fields, and synchronize nearby neurons; the authors explain the effect by Kirchhoff's circuit laws and a fixed firing threshold
+# THEORY-1346: LFP-size fields phase-lock spikes, not counts
 
 ## Source
 

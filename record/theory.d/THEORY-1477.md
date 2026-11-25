@@ -12,7 +12,14 @@ promote_when: >-
   64 m² fail to attract seed-dispersing birds or shade out pasture grass in
   tropical moist forest, and that the outward spread of planted nuclei,
   measured beyond their edges, is slow and variable across sites.
-title: 'Planted tree nuclei facilitate forest recovery because, once established, they keep attracting seed dispersers and improving microsites, whereas bird perches and bat boxes leave no improved conditions and decay within years; nuclei must also spread, which is slow, unpredictable and rarely measured, and in tropical moist forest a nucleus needs about 64 m² to attract birds and shade out grass'
+title: 'Tree nuclei keep facilitating; perches decay'
+statement: >-
+  Planted tree nuclei facilitate forest recovery because, once established,
+  they keep attracting seed dispersers and improving microsites, whereas
+  bird perches and bat boxes leave no improved conditions and decay within
+  years; nuclei must also spread, which is slow, unpredictable and rarely
+  measured, and in tropical moist forest a nucleus needs about 64 m² to
+  attract birds and shade out grass
 version: 2
 history:
 - version: 2
@@ -40,7 +47,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: LIT-2179 LIT-2145 — Unavailable; cited from the reading of Holl et al. (2024) as open -->
 
-# THEORY-1477: Planted tree nuclei facilitate forest recovery because, once established, they keep attracting seed dispersers and improving microsites, whereas bird perches and bat boxes leave no improved conditions and decay within years; nuclei must also spread, which is slow, unpredictable and rarely measured, and in tropical moist forest a nucleus needs about 64 m² to attract birds and shade out grass
+# THEORY-1477: Tree nuclei keep facilitating; perches decay
 
 ## Source
 

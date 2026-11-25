@@ -3,7 +3,16 @@ number: 1481
 status: Active
 formerly:
 - THEORY-tmphv65i
-title: 'Andrews, Pritchett and Woolcock argue that when external funding and legitimacy are granted for adopting the forms of capable states (best-practice laws, agencies and procedures) rather than for demonstrated performance, recipient organizations engage in isomorphic mimicry, producing a capability trap in which state capability stagnates or declines while reform and aid continue, and that it is escaped by locally defined problem-solving through authorized experimentation, tight feedback and broad engagement (PDIA)'
+title: 'Form-based aid creates a capability trap'
+statement: >-
+  Andrews, Pritchett and Woolcock argue that when external funding and
+  legitimacy are granted for adopting the forms of capable states
+  (best-practice laws, agencies and procedures) rather than for demonstrated
+  performance, recipient organizations engage in isomorphic mimicry,
+  producing a capability trap in which state capability stagnates or
+  declines while reform and aid continue, and that it is escaped by locally
+  defined problem-solving through authorized experimentation, tight feedback
+  and broad engagement (PDIA)
 version: 2
 history:
 - version: 2
@@ -39,7 +48,7 @@ corroborates:
 - CLAIM-602
 ---
 
-# THEORY-1481: Andrews, Pritchett and Woolcock argue that when external funding and legitimacy are granted for adopting the forms of capable states (best-practice laws, agencies and procedures) rather than for demonstrated performance, recipient organizations engage in isomorphic mimicry, producing a capability trap in which state capability stagnates or declines while reform and aid continue, and that it is escaped by locally defined problem-solving through authorized experimentation, tight feedback and broad engagement (PDIA)
+# THEORY-1481: Form-based aid creates a capability trap
 
 ## Source
 

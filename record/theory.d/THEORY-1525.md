@@ -13,7 +13,14 @@ promote_when: >-
   which are loaded with tasks beyond their current capability, gain less
   implementation capability than comparable organizations rewarded for
   performance or loaded gradually.
-title: 'Many low-capability states, at their measured pace of improvement, would take centuries to millennia to reach high state capability, and the persistence is sustained by two techniques: isomorphic mimicry, keeping legitimacy by imitating the forms of functional organizations without their function, and premature load bearing, loading fledgling organizations with tasks too complex too soon'
+title: 'Mimicry and premature loading stall states'
+statement: >-
+  Many low-capability states, at their measured pace of improvement, would
+  take centuries to millennia to reach high state capability, and the
+  persistence is sustained by two techniques: isomorphic mimicry, keeping
+  legitimacy by imitating the forms of functional organizations without
+  their function, and premature load bearing, loading fledgling
+  organizations with tasks too complex too soon
 version: 1
 tags:
 - society-and-governance
@@ -31,7 +38,7 @@ summary: >-
   [THEORY-1463](THEORY-1463.md) carried, word for word.
 ---
 
-# THEORY-1525: Many low-capability states, at their measured pace of improvement, would take centuries to millennia to reach high state capability, and the persistence is sustained by two techniques: isomorphic mimicry, keeping legitimacy by imitating the forms of functional organizations without their function, and premature load bearing, loading fledgling organizations with tasks too complex too soon
+# THEORY-1525: Mimicry and premature loading stall states
 
 ## Source
 

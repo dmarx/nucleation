@@ -3,7 +3,13 @@ number: 1572
 status: Active
 formerly:
 - THEORY-tmp3wg6o
-title: 'Johnston withdraws the account of his Surviving Death, on which our deepest future-directed attitudes fix which future embodiments are ours, arguing that every reductionist account of personal identity breeds fellow travelers with moral status, and holds instead that we are essentially embodied wills whose present embodiments are not essential'
+title: 'We are essentially embodied wills'
+statement: >-
+  Johnston withdraws the account of his Surviving Death, on which our
+  deepest future-directed attitudes fix which future embodiments are ours,
+  arguing that every reductionist account of personal identity breeds fellow
+  travelers with moral status, and holds instead that we are essentially
+  embodied wills whose present embodiments are not essential
 version: 2
 history:
 - version: 1
@@ -38,7 +44,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: CLAIM-491 LIT-1759 — Proposed or Unavailable; the works, notes, questions and claims the reading cites, cited with their standing -->
 
-# THEORY-1572: Johnston withdraws the account of his Surviving Death, on which our deepest future-directed attitudes fix which future embodiments are ours, arguing that every reductionist account of personal identity breeds fellow travelers with moral status, and holds instead that we are essentially embodied wills whose present embodiments are not essential
+# THEORY-1572: We are essentially embodied wills
 
 ## The account
 

@@ -3,11 +3,13 @@ number: 2302
 status: Proposed
 formerly:
 - THEORY-tmprs9n9
-title: Google's blameless postmortem practice aims at what failed and not who, with
-  action items that improve systems rather than people; leaders keep it blameless
-  by recasting blameful questions, to managers and from executives, as questions
-  about process; and questions about priorities set above the team are left to reviews
-  of repeated incidents
+title: 'Blameless postmortems target systems, not people'
+statement: >-
+  Google's blameless postmortem practice aims at what failed and not who,
+  with action items that improve systems rather than people; leaders keep it
+  blameless by recasting blameful questions, to managers and from
+  executives, as questions about process; and questions about priorities set
+  above the team are left to reviews of repeated incidents
 version: 1
 tags:
 - software-engineering
@@ -33,7 +35,7 @@ summary: 'What [THEORY-2294](THEORY-2294.md) reports Rogers and colleagues as pr
   for word.'
 ---
 
-# THEORY-2302: Google's blameless postmortem practice aims at what failed and not who, with action items that improve systems rather than people; leaders keep it blameless by recasting blameful questions, to managers and from executives, as questions about process; and questions about priorities set above the team are left to reviews of repeated incidents
+# THEORY-2302: Blameless postmortems target systems, not people
 
 
 ## The reading

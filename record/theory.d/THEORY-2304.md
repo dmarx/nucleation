@@ -11,7 +11,14 @@ promote_when: >-
   zero after the agreement ends. A study of harm-weighing rather than
   penalised violations is not required, since the title does not assert
   one.
-title: 'Gallo, Lynch and Tomy find that firms under deferred or non-prosecution agreements that must take an on-site government-appointed monitor commit 18 to 25 percent fewer penalised violations than such firms without one while the monitor is on site, and not after the agreement ends, and that a measure of ethics and compliance norms in managers'' speech rises and falls with it'
+title: 'On-site monitors cut corporate violations'
+statement: >-
+  Gallo, Lynch and Tomy find that firms under deferred or non-prosecution
+  agreements that must take an on-site government-appointed monitor commit
+  18 to 25 percent fewer penalised violations than such firms without one
+  while the monitor is on site, and not after the agreement ends, and that a
+  measure of ethics and compliance norms in managers' speech rises and falls
+  with it
 version: 1
 tags:
 - society-and-governance
@@ -34,7 +41,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-405 — new; the reading and the study this account is filed from and used in -->
 
-# THEORY-2304: Gallo, Lynch and Tomy find that firms under deferred or non-prosecution agreements that must take an on-site government-appointed monitor commit 18 to 25 percent fewer penalised violations than such firms without one while the monitor is on site, and not after the agreement ends, and that a measure of ethics and compliance norms in managers' speech rises and falls with it
+# THEORY-2304: On-site monitors cut corporate violations
 
 ## Source
 

@@ -3,7 +3,17 @@ number: 1169
 status: Active
 formerly:
 - THEORY-tmpyfcov
-title: 'For a discrete mechanism scored with one full-support intervention distribution over micro causes at both levels, a coarse-graining of cause and effect keeps all of the micro effective information if and only if it merges only causes with identical rows P(Y | do(x)) and only effects with proportional columns, whatever the distribution; so the coarsest coarse-graining that ties the micro is the causal partition of causal feature learning, with effects grouped by normalized likelihood, and any merge of causes with different effects loses information under every such distribution'
+title: 'Coarse-graining keeps EI only on causal partition'
+statement: >-
+  For a discrete mechanism scored with one full-support intervention
+  distribution over micro causes at both levels, a coarse-graining of cause
+  and effect keeps all of the micro effective information if and only if it
+  merges only causes with identical rows P(Y | do(x)) and only effects with
+  proportional columns, whatever the distribution; so the coarsest
+  coarse-graining that ties the micro is the causal partition of causal
+  feature learning, with effects grouped by normalized likelihood, and any
+  merge of causes with different effects loses information under every such
+  distribution
 version: 1
 history:
 - version: 1
@@ -52,7 +62,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-787 — Rejected on 2026-10-30; the causal thesis this bears on, cited as rejected -->
 
-# THEORY-1169: For a discrete mechanism scored with one full-support intervention distribution over micro causes at both levels, a coarse-graining of cause and effect keeps all of the micro effective information if and only if it merges only causes with identical rows P(Y | do(x)) and only effects with proportional columns, whatever the distribution; so the coarsest coarse-graining that ties the micro is the causal partition of causal feature learning, with effects grouped by normalized likelihood, and any merge of causes with different effects loses information under every such distribution
+# THEORY-1169: Coarse-graining keeps EI only on causal partition
 
 ## Source
 

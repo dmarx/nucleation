@@ -3,7 +3,15 @@ number: 710
 status: Active
 formerly:
 - THEORY-tmpkovi2
-title: "In a finite causal Bayesian network, a set of nodes is causally independent of another, imposing a third, for every choice of mechanisms exactly when every directed path between them passes through the third; information flow, conditional mutual information computed from interventional instead of observational distributions, vanishes under causal independence, and it can differ from transfer entropy and conditional mutual information in either direction"
+title: 'Information flow differs from transfer entropy'
+statement: >-
+  In a finite causal Bayesian network, a set of nodes is causally
+  independent of another, imposing a third, for every choice of mechanisms
+  exactly when every directed path between them passes through the third;
+  information flow, conditional mutual information computed from
+  interventional instead of observational distributions, vanishes under
+  causal independence, and it can differ from transfer entropy and
+  conditional mutual information in either direction
 version: 2
 history:
 - version: 2
@@ -36,7 +44,7 @@ corroborates:
 - CLAIM-335
 ---
 
-# THEORY-710: In a finite causal Bayesian network, a set of nodes is causally independent of another, imposing a third, for every choice of mechanisms exactly when every directed path between them passes through the third; information flow, conditional mutual information computed from interventional instead of observational distributions, vanishes under causal independence, and it can differ from transfer entropy and conditional mutual information in either direction
+# THEORY-710: Information flow differs from transfer entropy
 
 ## Source
 

@@ -3,7 +3,14 @@ number: 2020
 status: Proposed
 formerly:
 - THEORY-tmpcdbc7
-title: 'Javed and White show that a representation meta-trained by differentiating through online SGD updates on correlated streams (OML), then frozen beneath a small online-learned predictor, lets that predictor learn sequential regression and classification tasks with far less forgetting than pre-trained or sparsity-trained representations, and that such representations come out highly sparse with no dead units.'
+title: 'Meta-learned sparse features curb forgetting'
+statement: >-
+  Javed and White show that a representation meta-trained by differentiating
+  through online SGD updates on correlated streams (OML), then frozen
+  beneath a small online-learned predictor, lets that predictor learn
+  sequential regression and classification tasks with far less forgetting
+  than pre-trained or sparsity-trained representations, and that such
+  representations come out highly sparse with no dead units.
 version: 1
 source:
 - LIT-2828
@@ -35,7 +42,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-758 — Proposed; cited in this filing of 2026-11-19 -->
 
-# THEORY-2020: Javed and White show that a representation meta-trained by differentiating through online SGD updates on correlated streams (OML), then frozen beneath a small online-learned predictor, lets that predictor learn sequential regression and classification tasks with far less forgetting than pre-trained or sparsity-trained representations, and that such representations come out highly sparse with no dead units.
+# THEORY-2020: Meta-learned sparse features curb forgetting
 
 ## The account
 

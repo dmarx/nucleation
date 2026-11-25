@@ -9,7 +9,15 @@ promote_when: >-
   ground-truth task reward across several domains, and that maximizing it
   without task reward yields an interface users operate better than a
   random one.
-title: 'Reddy, Levine and Dragan propose that an assistive interface can be scored and trained, with no knowledge of the user''s task, by the mutual information between the user''s command and the state transition it induces, on the premise that a more intuitive interface makes commands less noisy; they find it ranks interfaces with task reward in four of five offline domains and learns usable interfaces online, with the time offset needing prior knowledge of the timescale of the user''s desired influence'
+title: 'Command–transition MI scores assistive interfaces'
+statement: >-
+  Reddy, Levine and Dragan propose that an assistive interface can be scored
+  and trained, with no knowledge of the user's task, by the mutual
+  information between the user's command and the state transition it
+  induces, on the premise that a more intuitive interface makes commands
+  less noisy; they find it ranks interfaces with task reward in four of five
+  offline domains and learns usable interfaces online, with the time offset
+  needing prior knowledge of the timescale of the user's desired influence
 version: 1
 tags:
 - learning-theory
@@ -28,7 +36,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-788 CLAIM-787 — Proposed; the claims that use this reading -->
 
-# THEORY-2147: Reddy, Levine and Dragan propose that an assistive interface can be scored and trained, with no knowledge of the user's task, by the mutual information between the user's command and the state transition it induces, on the premise that a more intuitive interface makes commands less noisy; they find it ranks interfaces with task reward in four of five offline domains and learns usable interfaces online, with the time offset needing prior knowledge of the timescale of the user's desired influence
+# THEORY-2147: Command–transition MI scores assistive interfaces
 
 ## Source
 

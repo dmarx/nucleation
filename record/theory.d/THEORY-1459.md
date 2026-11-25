@@ -11,7 +11,13 @@ promote_when: >-
   bureaucratic capacity or accountability, and a rise in unearned income
   by losses. Cross-national correlations, which are what the paper rests
   on, and further historical narrative cannot settle it.
-title: 'The source of a state''s revenue shapes its capacity and accountability: revenue earned by taxing citizens obliges the state to build a bureaucracy, stay present on the ground and bargain with taxpayers, while unearned income from natural-resource rents or aid does not, and lets those capacities decay'
+title: 'Earned tax revenue builds state capacity'
+statement: >-
+  The source of a state's revenue shapes its capacity and accountability:
+  revenue earned by taxing citizens obliges the state to build a
+  bureaucracy, stay present on the ground and bargain with taxpayers, while
+  unearned income from natural-resource rents or aid does not, and lets
+  those capacities decay
 version: 1
 tags:
 - society-and-governance
@@ -31,7 +37,7 @@ corroborates:
 - CLAIM-602
 ---
 
-# THEORY-1459: The source of a state's revenue shapes its capacity and accountability: revenue earned by taxing citizens obliges the state to build a bureaucracy, stay present on the ground and bargain with taxpayers, while unearned income from natural-resource rents or aid does not, and lets those capacities decay
+# THEORY-1459: Earned tax revenue builds state capacity
 
 ## Source
 

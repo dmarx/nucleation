@@ -12,7 +12,13 @@ promote_when: >-
   spaces and a biorthogonal transform conditioned markedly worse than
   the orthogonal one. Not satisfied by a check that the 2005 report says
   the same, which bears on the attribution, not on this account.
-title: 'On a strongly connected directed graph, diffusion wavelets extend to T = Π^{1/2}PΠ^{−1/2} by selecting columns of each restricted dyadic power as a non-orthogonal basis, compressing by the pseudo-inverse and squaring, which keeps the nested chain of spaces and trades orthogonality for localization at a large cost in conditioning'
+title: 'Diffusion wavelets extend to directed graphs'
+statement: >-
+  On a strongly connected directed graph, diffusion wavelets extend to T =
+  Π^{1/2}PΠ^{−1/2} by selecting columns of each restricted dyadic power as a
+  non-orthogonal basis, compressing by the pseudo-inverse and squaring,
+  which keeps the nested chain of spaces and trades orthogonality for
+  localization at a large cost in conditioning
 version: 1
 tags:
 - mathematics
@@ -32,7 +38,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-2414 LIT-3195 — new, Unfetched and new; the reading, the report it stands in for, and the bound filed by the lead run of 2026-11-23 -->
 
-# THEORY-2306: On a strongly connected directed graph, diffusion wavelets extend to T = Π^{1/2}PΠ^{−1/2} by selecting columns of each restricted dyadic power as a non-orthogonal basis, compressing by the pseudo-inverse and squaring, which keeps the nested chain of spaces and trades orthogonality for localization at a large cost in conditioning
+# THEORY-2306: Diffusion wavelets extend to directed graphs
 
 ## Source
 

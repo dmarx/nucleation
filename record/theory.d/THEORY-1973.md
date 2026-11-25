@@ -11,7 +11,14 @@ promote_when: >-
   suspend the attitudes, and that the framework of these attitudes
   neither needs nor permits an external justification a general thesis of
   determinism could undermine. Whether the account is true is not asked.
-title: 'Strawson holds that holding people morally responsible consists in the reactive attitudes, which rest on a demand for goodwill or regard; that pleas of excuse leave the agent a full participant while pleas of exemption suspend the attitudes toward the agent; and that a general thesis of determinism neither does nor could rationally undermine the framework of these attitudes'
+title: 'Determinism can''t undermine the reactive attitudes'
+statement: >-
+  Strawson holds that holding people morally responsible consists in the
+  reactive attitudes, which rest on a demand for goodwill or regard; that
+  pleas of excuse leave the agent a full participant while pleas of
+  exemption suspend the attitudes toward the agent; and that a general
+  thesis of determinism neither does nor could rationally undermine the
+  framework of these attitudes
 version: 1
 tags:
 - free-will
@@ -31,7 +38,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-708 QUESTION-068 — new, Proposed or Deferred; the reading and the entries it bears on -->
 
-# THEORY-1973: Strawson holds that holding people morally responsible consists in the reactive attitudes, which rest on a demand for goodwill or regard; that pleas of excuse leave the agent a full participant while pleas of exemption suspend the attitudes toward the agent; and that a general thesis of determinism neither does nor could rationally undermine the framework of these attitudes
+# THEORY-1973: Determinism can't undermine the reactive attitudes
 
 Strawson (1962), [LIT-2679](../literature.d/LIT-2679.md).
 

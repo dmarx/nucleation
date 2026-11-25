@@ -17,7 +17,13 @@ promote_when: >-
   single persisting referent. The papers' invented dialogues and the
   twenty-questions illustration cannot settle it: they are described, not
   sampled.
-title: "What a chat agent's 'I' refers to is fixed by the context of use, not by the system: the agent role-plays characters that carry the self-conception the corpus and the conversation give them, and its uses of 'I' can pick out the model, present in many simultaneous instances, or the single conversation, none of them the self by nature"
+title: 'Chat agent''s ''I'' is fixed by context of use'
+statement: >-
+  What a chat agent's 'I' refers to is fixed by the context of use, not by
+  the system: the agent role-plays characters that carry the self-conception
+  the corpus and the conversation give them, and its uses of 'I' can pick
+  out the model, present in many simultaneous instances, or the single
+  conversation, none of them the self by nature
 version: 3
 history:
 - version: 2
@@ -59,7 +65,7 @@ bounds:
 <!-- inactive-ok-file: THEORY-447 THEORY-476 THEORY-650 THEORY-691 — Proposed; filed in the same batch and named as a rival, a parallel or a contrast, not leaned on -->
 <!-- inactive-ok-file: THEORY-023 THEORY-173 CLAIM-029 — Proposed; named as a neighbouring account, nothing here rests on its being settled -->
 
-# THEORY-490: What a chat agent's 'I' refers to is fixed by the context of use, not by the system: the agent role-plays characters that carry the self-conception the corpus and the conversation give them, and its uses of 'I' can pick out the model, present in many simultaneous instances, or the single conversation, none of them the self by nature
+# THEORY-490: Chat agent's 'I' is fixed by context of use
 
 ## Source
 

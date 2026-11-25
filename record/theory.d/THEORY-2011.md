@@ -3,7 +3,13 @@ number: 2011
 status: Proposed
 formerly:
 - THEORY-tmp6miip
-title: 'Still shows that, for a partially observable information engine whose memory is formed at one temperature and used to extract work at another, minimising the lower bound on dissipation over the memory map is the information bottleneck: keep the information about the work-relevant variable, discard the rest, with the temperature ratio as the trade-off'
+title: 'Least-dissipation memory is an info bottleneck'
+statement: >-
+  Still shows that, for a partially observable information engine whose
+  memory is formed at one temperature and used to extract work at another,
+  minimising the lower bound on dissipation over the memory map is the
+  information bottleneck: keep the information about the work-relevant
+  variable, discard the rest, with the temperature ratio as the trade-off
 version: 1
 source:
 - LIT-2832
@@ -35,7 +41,7 @@ summary: >-
   Read in its NOTE (arXiv v3).
 ---
 
-# THEORY-2011: Still shows that, for a partially observable information engine whose memory is formed at one temperature and used to extract work at another, minimising the lower bound on dissipation over the memory map is the information bottleneck: keep the information about the work-relevant variable, discard the rest, with the temperature ratio as the trade-off
+# THEORY-2011: Least-dissipation memory is an info bottleneck
 
 ## The account
 

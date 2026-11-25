@@ -8,7 +8,13 @@ promote_when: >-
   II with the lemmas of §§4–8 they use), or of a refereed account that
   checks it, confirms that every finite idempotent algebra with a weak
   near-unanimity term has a polynomial-time CSP.
-title: 'Bulatov shows that for every finite constraint language over a finite domain, deciding satisfiability is solvable in polynomial time when the language has a weak near-unanimity polymorphism, and with the hardness already known this makes every such problem polynomial-time solvable or NP-complete'
+title: 'Weak NU polymorphism makes CSPs polynomial'
+statement: >-
+  Bulatov shows that for every finite constraint language over a finite
+  domain, deciding satisfiability is solvable in polynomial time when the
+  language has a weak near-unanimity polymorphism, and with the hardness
+  already known this makes every such problem polynomial-time solvable or
+  NP-complete
 version: 2
 history:
 - version: 2
@@ -42,7 +48,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-1572 — Skimmed and new, or Proposed; cited from the reading of Bulatov (2017) as open -->
 
-# THEORY-1382: Bulatov shows that for every finite constraint language over a finite domain, deciding satisfiability is solvable in polynomial time when the language has a weak near-unanimity polymorphism, and with the hardness already known this makes every such problem polynomial-time solvable or NP-complete
+# THEORY-1382: Weak NU polymorphism makes CSPs polynomial
 
 ## Source
 

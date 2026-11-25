@@ -13,7 +13,13 @@ promote_when: >-
   weakened if multi-lab direct replications are shown to have resolved
   questions of conceptual scope, or if the controversies mostly turned on
   repeatability. General arguments about similarity cannot settle it.
-title: "Where an effect is not yet well conceptualised, replication cannot say which effect exists: direct replication bears on random error, conceptual replication presupposes that two operationalisations pick out the same effect, and an effect is delineated instead by probing for systematic error"
+title: 'Replication can''t delineate an unclear effect'
+statement: >-
+  Where an effect is not yet well conceptualised, replication cannot say
+  which effect exists: direct replication bears on random error, conceptual
+  replication presupposes that two operationalisations pick out the same
+  effect, and an effect is delineated instead by probing for systematic
+  error
 version: 1
 tags:
 - philosophy-of-science
@@ -32,7 +38,7 @@ summary: >-
   and to internal validity; the title and abstract drop that hedge.
 ---
 
-# THEORY-572: Where an effect is not yet well conceptualised, replication cannot say which effect exists: direct replication bears on random error, conceptual replication presupposes that two operationalisations pick out the same effect, and an effect is delineated instead by probing for systematic error
+# THEORY-572: Replication can't delineate an unclear effect
 
 ## Source
 

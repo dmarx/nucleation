@@ -3,7 +3,14 @@ number: 519
 status: Active
 formerly:
 - THEORY-tmpf7k6q
-title: "Supervised learners compose only once each carries a request function that passes a corrected input upstream; with it they form a symmetric monoidal category, and for a fixed step size and an error whose derivative in its first argument is invertible, gradient descent with backpropagation is a faithful strong symmetric monoidal functor into it from differentiable parametrised functions"
+title: 'Backprop is a functor into learners'
+statement: >-
+  Supervised learners compose only once each carries a request function that
+  passes a corrected input upstream; with it they form a symmetric monoidal
+  category, and for a fixed step size and an error whose derivative in its
+  first argument is invertible, gradient descent with backpropagation is a
+  faithful strong symmetric monoidal functor into it from differentiable
+  parametrised functions
 version: 1
 tags:
 - mathematics
@@ -23,7 +30,7 @@ summary: >-
 ---
 
 
-# THEORY-519: Supervised learners compose only once each carries a request function that passes a corrected input upstream; with it they form a symmetric monoidal category, and for a fixed step size and an error whose derivative in its first argument is invertible, gradient descent with backpropagation is a faithful strong symmetric monoidal functor into it from differentiable parametrised functions
+# THEORY-519: Backprop is a functor into learners
 
 ## Source
 

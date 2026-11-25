@@ -3,7 +3,16 @@ number: 1165
 status: Active
 formerly:
 - THEORY-tmp9nzdb
-title: 'Kahl proposes that agency in the sense that bears on responsibility needs a standpoint that settles and carries forward revised evaluative standards when its inherited ones break down, which is absent where revision is imposed from outside, escaped by rollback or chosen by a fixed higher-order rule; that allocating authority among a system''s own components coordinates execution without authoring its governing frame; and that planning, autonomy, memory and coordination do not supply that standpoint'
+title: 'Agency needs a self-revising standpoint'
+statement: >-
+  Kahl proposes that agency in the sense that bears on responsibility needs
+  a standpoint that settles and carries forward revised evaluative standards
+  when its inherited ones break down, which is absent where revision is
+  imposed from outside, escaped by rollback or chosen by a fixed
+  higher-order rule; that allocating authority among a system's own
+  components coordinates execution without authoring its governing frame;
+  and that planning, autonomy, memory and coordination do not supply that
+  standpoint
 version: 2
 history:
 - version: 2
@@ -42,7 +51,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-219 THEORY-071 — Proposed; the account this is split from, which holds the question whether the proposal is true, and a neighbouring account it is set apart from -->
 
-# THEORY-1165: Kahl proposes that agency in the sense that bears on responsibility needs a standpoint that settles and carries forward revised evaluative standards when its inherited ones break down, which is absent where revision is imposed from outside, escaped by rollback or chosen by a fixed higher-order rule; that allocating authority among a system's own components coordinates execution without authoring its governing frame; and that planning, autonomy, memory and coordination do not supply that standpoint
+# THEORY-1165: Agency needs a self-revising standpoint
 
 ## Source
 

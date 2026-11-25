@@ -13,7 +13,13 @@ promote_when: >-
   resources is held fixed. A Critic–Selector model specified tightly enough
   to fail on such data would also bear on it. More vignettes and thought
   experiments cannot settle it.
-title: "An emotional state is a large-scale selection of mental resources, switched on and off by Selectors that Critics trigger on recognising a type of problem, and so of the same kind as an intellectual way to think; feelings are the mind's descriptions of these cascades, and the body is one more resource the brain uses, not the substance of emotion"
+title: 'Emotions are resource selections, like thinking'
+statement: >-
+  An emotional state is a large-scale selection of mental resources,
+  switched on and off by Selectors that Critics trigger on recognising a
+  type of problem, and so of the same kind as an intellectual way to think;
+  feelings are the mind's descriptions of these cascades, and the body is
+  one more resource the brain uses, not the substance of emotion
 version: 1
 tags:
 - emotion-and-affect
@@ -34,7 +40,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-045 THEORY-056 THEORY-055 THEORY-057 THEORY-043 — Proposed; the rival account of feeling and neighbouring accounts of emotion, regulation and the society of mind, set beside this one, not leaned on -->
 <!-- inactive-ok-file: LIT-429 — Unavailable; The Society of Mind, which the draft extends, named and not leaned on -->
 
-# THEORY-570: An emotional state is a large-scale selection of mental resources, switched on and off by Selectors that Critics trigger on recognising a type of problem, and so of the same kind as an intellectual way to think; feelings are the mind's descriptions of these cascades, and the body is one more resource the brain uses, not the substance of emotion
+# THEORY-570: Emotions are resource selections, like thinking
 
 ## Source
 

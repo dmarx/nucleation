@@ -3,7 +3,15 @@ number: 1441
 status: Active
 formerly:
 - THEORY-tmp5gqa0
-title: 'Schneider, Möritz and Dietz show that, in isothermal folding at 50 °C of one multilayer DNA origami brick, staple domains bind in a defined order set more by the scaffold''s topology of connectivity than by their binding strength, the two termini of a staple bind independently by a fit that itself assumes their independence, and a set of early-binding nucleating domains forms a compacted intermediate without which the object still folds but hours later by a slower pathway'
+title: 'Scaffold topology sets staple binding order'
+statement: >-
+  Schneider, Möritz and Dietz show that, in isothermal folding at 50 °C of
+  one multilayer DNA origami brick, staple domains bind in a defined order
+  set more by the scaffold's topology of connectivity than by their binding
+  strength, the two termini of a staple bind independently by a fit that
+  itself assumes their independence, and a set of early-binding nucleating
+  domains forms a compacted intermediate without which the object still
+  folds but hours later by a slower pathway
 version: 2
 history:
 - version: 2
@@ -50,7 +58,7 @@ summary: >-
   important factors".
 ---
 
-# THEORY-1441: Schneider, Möritz and Dietz show that, in isothermal folding at 50 °C of one multilayer DNA origami brick, staple domains bind in a defined order set more by the scaffold's topology of connectivity than by their binding strength, the two termini of a staple bind independently by a fit that itself assumes their independence, and a set of early-binding nucleating domains forms a compacted intermediate without which the object still folds but hours later by a slower pathway
+# THEORY-1441: Scaffold topology sets staple binding order
 
 ## Source
 

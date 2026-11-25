@@ -3,7 +3,16 @@ number: 2043
 status: Proposed
 formerly:
 - THEORY-tmprpscg
-title: 'Lohmiller and Slotine show that if the generalized Jacobian F = (Θ̇ + Θ ∂f/∂x)Θ⁻¹ of a smooth system ẋ = f(x, t) is uniformly negative definite in a region, with M = ΘᵀΘ uniformly positive definite, then any trajectory starting in an M-ball about a given trajectory and contained in that region converges to it exponentially, that conversely every exponentially convergent system is contracting in some metric, and that contraction is preserved under parallel, skew-symmetric feedback and hierarchical combination'
+title: 'Contraction gives exponential convergence'
+statement: >-
+  Lohmiller and Slotine show that if the generalized Jacobian F = (Θ̇ + Θ
+  ∂f/∂x)Θ⁻¹ of a smooth system ẋ = f(x, t) is uniformly negative definite in
+  a region, with M = ΘᵀΘ uniformly positive definite, then any trajectory
+  starting in an M-ball about a given trajectory and contained in that
+  region converges to it exponentially, that conversely every exponentially
+  convergent system is contracting in some metric, and that contraction is
+  preserved under parallel, skew-symmetric feedback and hierarchical
+  combination
 version: 2
 history:
 - version: 2
@@ -42,7 +51,7 @@ summary: >-
   disturbance lemma rests on its eq. (15). Read in its NOTE.
 ---
 
-# THEORY-2043: Lohmiller and Slotine show that if the generalized Jacobian F = (Θ̇ + Θ ∂f/∂x)Θ⁻¹ of a smooth system ẋ = f(x, t) is uniformly negative definite in a region, with M = ΘᵀΘ uniformly positive definite, then any trajectory starting in an M-ball about a given trajectory and contained in that region converges to it exponentially, that conversely every exponentially convergent system is contracting in some metric, and that contraction is preserved under parallel, skew-symmetric feedback and hierarchical combination
+# THEORY-2043: Contraction gives exponential convergence
 
 ## The account
 

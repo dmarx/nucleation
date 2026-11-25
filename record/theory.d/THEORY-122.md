@@ -19,7 +19,11 @@ promote_when: >-
   reports in §3.1.2 (Scanlon 1998; Talbert 2012a); it would have to be read
   first-hand and shown to survive Watson's attributability/accountability
   split. Another survey restating JoJo cannot settle it.
-title: "Moral responsibility requires the normative competence to recognise and act on the True and the Good, which identification with one's own motives does not supply"
+title: 'Responsibility needs normative competence'
+statement: >-
+  Moral responsibility requires the normative competence to recognise and
+  act on the True and the Good, which identification with one's own motives
+  does not supply
 version: 2
 history:
 - version: 2
@@ -63,7 +67,7 @@ answers:
 <!-- inactive-ok-file: THEORY-118 — Proposed; the asymmetry and Fischer and Ravizza's account, filed in the same batch -->
 <!-- inactive-ok-file: THEORY-029 THEORY-040 THEORY-054 — Proposed; the accounts this one bears on, named in prose, nothing here rests on them -->
 
-# THEORY-122: Moral responsibility requires the normative competence to recognise and act on the True and the Good, which identification with one's own motives does not supply
+# THEORY-122: Responsibility needs normative competence
 
 ## The evidence is second-hand
 

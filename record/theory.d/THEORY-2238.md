@@ -10,7 +10,12 @@ promote_when: >-
   covered fewer chips, and that both systems lie near the
   information-bottleneck bound by the measure of LIT-810. The abstract
   alone states these without data and cannot meet this.
-title: 'In Zaslavsky, Garvin, Kemp, Tishby and Regier''s resurvey, Nafaanra colour naming in one village went from three terms in 1978 to seven in 2017, the three older terms now naming smaller categories, and both systems lie near the information-bottleneck efficiency bound'
+title: 'Nafaanra went from three colour terms to seven'
+statement: >-
+  In Zaslavsky, Garvin, Kemp, Tishby and Regier's resurvey, Nafaanra colour
+  naming in one village went from three terms in 1978 to seven in 2017, the
+  three older terms now naming smaller categories, and both systems lie near
+  the information-bottleneck efficiency bound
 version: 1
 tags:
 - linguistics
@@ -34,7 +39,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-3106 — Unfetched; the journal paper whose reading would meet this entry's promote_when -->
 <!-- inactive-ok-file: ARG-205 — Proposed; the argument for that corroboration -->
 
-# THEORY-2238: In Zaslavsky, Garvin, Kemp, Tishby and Regier's resurvey, Nafaanra colour naming in one village went from three terms in 1978 to seven in 2017, the three older terms now naming smaller categories, and both systems lie near the information-bottleneck efficiency bound
+# THEORY-2238: Nafaanra went from three colour terms to seven
 
 ## Source
 

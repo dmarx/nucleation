@@ -14,7 +14,14 @@ promote_when: >-
   be engineered even in principle. Further argument about which features a
   chat agent has cannot settle it, since on this account features are not
   what decides candidature.
-title: "If consciousness words have meaning only through what is public, an entity is a candidate for consciousness only if an encounter with it in a shared world can be engineered, at least in principle; then disembodied chat agents, even with tools and memory, are not candidates, robots and virtually embodied agents could be, and beyond what an informed community comes to say there is no further fact about their consciousness"
+title: 'Disembodied chat agents aren''t candidates'
+statement: >-
+  If consciousness words have meaning only through what is public, an entity
+  is a candidate for consciousness only if an encounter with it in a shared
+  world can be engineered, at least in principle; then disembodied chat
+  agents, even with tools and memory, are not candidates, robots and
+  virtually embodied agents could be, and beyond what an informed community
+  comes to say there is no further fact about their consciousness
 version: 1
 tags:
 - consciousness
@@ -36,7 +43,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-023 THEORY-090 THEORY-093 THEORY-460 THEORY-490 THEORY-694 — Proposed; accounts named as rivals, neighbours or connections, not leaned on as premises -->
 
-# THEORY-606: If consciousness words have meaning only through what is public, an entity is a candidate for consciousness only if an encounter with it in a shared world can be engineered, at least in principle; then disembodied chat agents, even with tools and memory, are not candidates, robots and virtually embodied agents could be, and beyond what an informed community comes to say there is no further fact about their consciousness
+# THEORY-606: Disembodied chat agents aren't candidates
 
 ## Source
 

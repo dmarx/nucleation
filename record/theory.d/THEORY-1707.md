@@ -3,7 +3,14 @@ number: 1707
 status: Proposed
 formerly:
 - THEORY-tmptv3bo
-title: 'de Roos and Willkomm (2026) find, in a cross-sectional survey of 228 young men, that viewing pornography beyond one''s reported arousal is low in magnitude, highest in absolute terms for mainstream content but relatively greatest in niche and extreme categories, and clusters into five distinct patterns with different correlates, so that content escalation is multidimensional rather than a single progression toward extremity.'
+title: 'Porn content escalation is multidimensional'
+statement: >-
+  de Roos and Willkomm (2026) find, in a cross-sectional survey of 228 young
+  men, that viewing pornography beyond one's reported arousal is low in
+  magnitude, highest in absolute terms for mainstream content but relatively
+  greatest in niche and extreme categories, and clusters into five distinct
+  patterns with different correlates, so that content escalation is
+  multidimensional rather than a single progression toward extremity.
 version: 1
 source:
 - LIT-2349
@@ -28,7 +35,7 @@ summary: >-
   clusters.
 ---
 
-# THEORY-1707: de Roos and Willkomm (2026) find, in a cross-sectional survey of 228 young men, that viewing pornography beyond one's reported arousal is low in magnitude, highest in absolute terms for mainstream content but relatively greatest in niche and extreme categories, and clusters into five distinct patterns with different correlates, so that content escalation is multidimensional rather than a single progression toward extremity.
+# THEORY-1707: Porn content escalation is multidimensional
 
 ## The account
 

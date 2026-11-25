@@ -3,7 +3,15 @@ number: 836
 status: Active
 formerly:
 - THEORY-tmp5rkez
-title: 'Scored between Nicaragua''s regime-owned outlets and its exiled or online opposition outlets, on the prevalence of topics relevant to the regime''s legitimacy and on the tone of sentences mentioning Ortega, the three nominally independent national outlets with web output moved toward the regime pole in agenda over 2018–2022, Canal 14 most and Radio Corporación least, and Canal 14''s tone score fell from about .8 to below .5 by early 2022 while Radio Corporación''s stayed near 1'
+title: 'Nicaragua''s independent outlets drifted to regime'
+statement: >-
+  Scored between Nicaragua's regime-owned outlets and its exiled or online
+  opposition outlets, on the prevalence of topics relevant to the regime's
+  legitimacy and on the tone of sentences mentioning Ortega, the three
+  nominally independent national outlets with web output moved toward the
+  regime pole in agenda over 2018–2022, Canal 14 most and Radio Corporación
+  least, and Canal 14's tone score fell from about .8 to below .5 by early
+  2022 while Radio Corporación's stayed near 1
 version: 1
 history:
 - version: 1
@@ -29,7 +37,7 @@ summary: >-
   capture requires, nor that the opposition pole held still.
 ---
 
-# THEORY-836: Scored between Nicaragua's regime-owned outlets and its exiled or online opposition outlets, on the prevalence of topics relevant to the regime's legitimacy and on the tone of sentences mentioning Ortega, the three nominally independent national outlets with web output moved toward the regime pole in agenda over 2018–2022, Canal 14 most and Radio Corporación least, and Canal 14's tone score fell from about .8 to below .5 by early 2022 while Radio Corporación's stayed near 1
+# THEORY-836: Nicaragua's independent outlets drifted to regime
 
 ## Source
 

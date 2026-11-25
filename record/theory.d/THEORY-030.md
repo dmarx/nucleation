@@ -3,7 +3,15 @@ number: 30
 status: Active
 formerly:
 - THEORY-tmp83kni
-title: "For a memory evolving reversibly with its environment, Landauer's bound prices only steps that lose logical distinguishability, at least k ln 2 of entropy per bit lost, exported to the environment and not necessarily as heat, so copying onto a blank register, measuring or evaluating a bit has no minimum cost; learning a label has a floor only in total entropy production, at least the information learnt, which in Goldt and Seifert's perceptron can be paid in the weights' own entropy with vanishing heat"
+title: 'Landauer prices only losing distinguishability'
+statement: >-
+  For a memory evolving reversibly with its environment, Landauer's bound
+  prices only steps that lose logical distinguishability, at least k ln 2 of
+  entropy per bit lost, exported to the environment and not necessarily as
+  heat, so copying onto a blank register, measuring or evaluating a bit has
+  no minimum cost; learning a label has a floor only in total entropy
+  production, at least the information learnt, which in Goldt and Seifert's
+  perceptron can be paid in the weights' own entropy with vanishing heat
 version: 4
 history:
 - version: 2
@@ -59,7 +67,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: LIT-328 — Unavailable; named as unread, nothing here quotes it -->
 
-# THEORY-030: For a memory evolving reversibly with its environment, Landauer's bound prices only steps that lose logical distinguishability, at least k ln 2 of entropy per bit lost, exported to the environment and not necessarily as heat, so copying onto a blank register, measuring or evaluating a bit has no minimum cost; learning a label has a floor only in total entropy production, at least the information learnt, which in Goldt and Seifert's perceptron can be paid in the weights' own entropy with vanishing heat
+# THEORY-030: Landauer prices only losing distinguishability
 
 ## Source
 

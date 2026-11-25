@@ -3,7 +3,15 @@ number: 674
 status: Active
 formerly:
 - THEORY-tmpxx3fy
-title: 'In Garg and Fetzer''s GPT-4o-mini extraction from NBER and CEPR working papers, edges kept in at least 4 of 9 passes and never checked against human labels, the mean per-paper share of edges labelled as backed by difference-in-differences, instrumental variables, an RCT, regression discontinuity or synthetic control rose from 7.7% in 1990 to 31.7% in 2020, at every overlap threshold; the paper''s per-decade slope fell from +0.0187 to +0.0011 once method mix and graph volume were controlled'
+title: 'Causal-method share in economics rose to 31.7%'
+statement: >-
+  In Garg and Fetzer's GPT-4o-mini extraction from NBER and CEPR working
+  papers, edges kept in at least 4 of 9 passes and never checked against
+  human labels, the mean per-paper share of edges labelled as backed by
+  difference-in-differences, instrumental variables, an RCT, regression
+  discontinuity or synthetic control rose from 7.7% in 1990 to 31.7% in
+  2020, at every overlap threshold; the paper's per-decade slope fell from
+  +0.0187 to +0.0011 once method mix and graph volume were controlled
 version: 2
 history:
 - version: 2
@@ -43,7 +51,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-079 — Proposed by its close reading for edges never validated against human labels; the only source, and the narrowed title states that limit -->
 <!-- inactive-ok-file: THEORY-824 — Proposed; the economics claim this measurement is taken to show, filed when the narrowing dropped it -->
 
-# THEORY-674: In Garg and Fetzer's GPT-4o-mini extraction from NBER and CEPR working papers, edges kept in at least 4 of 9 passes and never checked against human labels, the mean per-paper share of edges labelled as backed by difference-in-differences, instrumental variables, an RCT, regression discontinuity or synthetic control rose from 7.7% in 1990 to 31.7% in 2020, at every overlap threshold; the paper's per-decade slope fell from +0.0187 to +0.0011 once method mix and graph volume were controlled
+# THEORY-674: Causal-method share in economics rose to 31.7%
 
 ## Source
 

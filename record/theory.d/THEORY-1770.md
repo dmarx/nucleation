@@ -3,7 +3,14 @@ number: 1770
 status: Proposed
 formerly:
 - THEORY-tmpjt57l
-title: 'Huang et al. (2026) report that on DISCERN, a 203-task life-science benchmark scored separately for data integrity, analysis verification and hypothesis revision, eight LLM agents earned perfect scores in 60.8%, 34.2% and 0.6% of evaluations at the three levels, and that a recognised analytical problem was often not carried into the agent''s calibrated conclusion (126 of 425 fully recognised challenged L2 evaluations).'
+title: 'Agents nearly never ace hypothesis revision'
+statement: >-
+  Huang et al. (2026) report that on DISCERN, a 203-task life-science
+  benchmark scored separately for data integrity, analysis verification and
+  hypothesis revision, eight LLM agents earned perfect scores in 60.8%,
+  34.2% and 0.6% of evaluations at the three levels, and that a recognised
+  analytical problem was often not carried into the agent's calibrated
+  conclusion (126 of 425 fully recognised challenged L2 evaluations).
 version: 1
 tags:
 - philosophy-of-science
@@ -25,7 +32,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-1770: Huang et al. (2026) report that on DISCERN, a 203-task life-science benchmark scored separately for data integrity, analysis verification and hypothesis revision, eight LLM agents earned perfect scores in 60.8%, 34.2% and 0.6% of evaluations at the three levels, and that a recognised analytical problem was often not carried into the agent's calibrated conclusion (126 of 425 fully recognised challenged L2 evaluations).
+# THEORY-1770: Agents nearly never ace hypothesis revision
 
 ## The account
 

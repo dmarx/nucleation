@@ -16,7 +16,14 @@ promote_when: >-
   Aspiration Index cannot settle it, and neither can the mediation by need
   satisfaction while mediator and outcome are self-reports measured
   together.
-title: 'In Niemiec, Ryan and Deci''s post-college sample, attaining intrinsic aspirations went with more well-being and less ill-being, and attaining extrinsic aspirations, entered alongside it, added nothing to well-being and went with more ill-being; the extrinsic null is a unique-variance result, since alone extrinsic attainment correlated positively with well-being and need satisfaction'
+title: 'Extrinsic attainment adds no well-being'
+statement: >-
+  In Niemiec, Ryan and Deci's post-college sample, attaining intrinsic
+  aspirations went with more well-being and less ill-being, and attaining
+  extrinsic aspirations, entered alongside it, added nothing to well-being
+  and went with more ill-being; the extrinsic null is a unique-variance
+  result, since alone extrinsic attainment correlated positively with
+  well-being and need satisfaction
 version: 1
 tags:
 - motivation
@@ -34,7 +41,7 @@ summary: >-
   well-being.
 ---
 
-# THEORY-1319: In Niemiec, Ryan and Deci's post-college sample, attaining intrinsic aspirations went with more well-being and less ill-being, and attaining extrinsic aspirations, entered alongside it, added nothing to well-being and went with more ill-being; the extrinsic null is a unique-variance result, since alone extrinsic attainment correlated positively with well-being and need satisfaction
+# THEORY-1319: Extrinsic attainment adds no well-being
 
 ## Source
 

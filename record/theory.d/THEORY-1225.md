@@ -3,7 +3,17 @@ number: 1225
 status: Proposed
 formerly:
 - THEORY-tmpyx5bf
-title: Among white Southerners today, those living in counties where a larger share of the 1860 population was enslaved are somewhat less Democratic, less supportive of affirmative action and more racially resentful, by about a tenth of a standard deviation per standard deviation of slave share, and colder toward black Americans, by about a third; the difference is not accounted for by the present black share of the population, and in voting it appeared after Reconstruction rather than before the war, which supports its origin in the incentives that emancipation gave planters to repress black labor and votes, and its local transmission thereafter
+title: 'Slavery''s legacy shapes white Southern attitudes'
+statement: >-
+  Among white Southerners today, those living in counties where a larger
+  share of the 1860 population was enslaved are somewhat less Democratic,
+  less supportive of affirmative action and more racially resentful, by
+  about a tenth of a standard deviation per standard deviation of slave
+  share, and colder toward black Americans, by about a third; the difference
+  is not accounted for by the present black share of the population, and in
+  voting it appeared after Reconstruction rather than before the war, which
+  supports its origin in the incentives that emancipation gave planters to
+  repress black labor and votes, and its local transmission thereafter
 version: 1
 tags:
 - society-and-governance
@@ -39,7 +49,7 @@ summary: >-
   slavery.
 ---
 
-# THEORY-1225: Among white Southerners today, those living in counties where a larger share of the 1860 population was enslaved are somewhat less Democratic, less supportive of affirmative action and more racially resentful, by about a tenth of a standard deviation per standard deviation of slave share, and colder toward black Americans, by about a third; the difference is not accounted for by the present black share of the population, and in voting it appeared after Reconstruction rather than before the war, which supports its origin in the incentives that emancipation gave planters to repress black labor and votes, and its local transmission thereafter
+# THEORY-1225: Slavery's legacy shapes white Southern attitudes
 
 ## Source
 

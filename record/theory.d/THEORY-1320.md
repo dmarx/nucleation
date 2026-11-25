@@ -3,7 +3,16 @@ number: 1320
 status: Active
 formerly:
 - THEORY-tmpdzmer
-title: 'In Ntoumanis et al.''s meta-analysis of 73 SDT-informed health interventions, mostly randomized, the interventions raised perceived need support (g = 0.64), autonomy and competence satisfaction (0.37, 0.31), autonomous motivation (0.30) and health behaviour (0.45) by the end of the intervention, but not relatedness, controlled motivation or amotivation, and their small effect on psychological health (0.29) was gone at follow-up (0.14, ns); need frustration was not an outcome and mediation was not tested'
+title: 'SDT health interventions help, health gain fades'
+statement: >-
+  In Ntoumanis et al.'s meta-analysis of 73 SDT-informed health
+  interventions, mostly randomized, the interventions raised perceived need
+  support (g = 0.64), autonomy and competence satisfaction (0.37, 0.31),
+  autonomous motivation (0.30) and health behaviour (0.45) by the end of the
+  intervention, but not relatedness, controlled motivation or amotivation,
+  and their small effect on psychological health (0.29) was gone at
+  follow-up (0.14, ns); need frustration was not an outcome and mediation
+  was not tested
 version: 2
 history:
 - version: 2
@@ -30,7 +39,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-052 — Proposed; the account this does not move -->
 
-# THEORY-1320: In Ntoumanis et al.'s meta-analysis of 73 SDT-informed health interventions, mostly randomized, the interventions raised perceived need support (g = 0.64), autonomy and competence satisfaction (0.37, 0.31), autonomous motivation (0.30) and health behaviour (0.45) by the end of the intervention, but not relatedness, controlled motivation or amotivation, and their small effect on psychological health (0.29) was gone at follow-up (0.14, ns); need frustration was not an outcome and mediation was not tested
+# THEORY-1320: SDT health interventions help, health gain fades
 
 ## Source
 

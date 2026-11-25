@@ -12,7 +12,14 @@ promote_when: >-
   reference the other's lacks. Readings of "emergent spacetime" in
   gauge–gravity duality that do not fix whether the duals are
   theoretically equivalent cannot settle it.
-title: "Exact duality between two models is incompatible with ontological emergence of one from the other, reductive or not, because a duality is an isomorphism and ontological emergence needs a non-injective linkage whose interpretation does not commute; the two combine only when emergence runs beside the duality, as along the radial direction in AdS/CFT, through an approximate duality, or as merely epistemic emergence"
+title: 'Exact duality excludes ontological emergence'
+statement: >-
+  Exact duality between two models is incompatible with ontological
+  emergence of one from the other, reductive or not, because a duality is an
+  isomorphism and ontological emergence needs a non-injective linkage whose
+  interpretation does not commute; the two combine only when emergence runs
+  beside the duality, as along the radial direction in AdS/CFT, through an
+  approximate duality, or as merely epistemic emergence
 version: 1
 tags:
 - philosophy-of-science
@@ -33,7 +40,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-690 — Proposed; named as a contrasting emergence account and as the same book's companion account, not leaned on -->
 
-# THEORY-459: Exact duality between two models is incompatible with ontological emergence of one from the other, reductive or not, because a duality is an isomorphism and ontological emergence needs a non-injective linkage whose interpretation does not commute; the two combine only when emergence runs beside the duality, as along the radial direction in AdS/CFT, through an approximate duality, or as merely epistemic emergence
+# THEORY-459: Exact duality excludes ontological emergence
 
 ## Source
 

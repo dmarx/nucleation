@@ -15,7 +15,13 @@ promote_when: >-
   are compressed no better by plural self-models than by one. Further
   argument over whether a pattern is "enough" to be a self cannot settle
   it, since the account says that dispute is about criteria.
-title: 'A self-model compresses the sensory effects of a system''s own activity by positing one stable common cause, at fast and slow timescales; there is such a pattern in the signal, so the self is real as a pattern and unreal as a substance, and realists and anti-realists about selves who accept this agree on the facts and differ on the criterion of reality'
+title: 'The self is real as a pattern, not a substance'
+statement: >-
+  A self-model compresses the sensory effects of a system's own activity by
+  positing one stable common cause, at fast and slow timescales; there is
+  such a pattern in the signal, so the self is real as a pattern and unreal
+  as a substance, and realists and anti-realists about selves who accept
+  this agree on the facts and differ on the criterion of reality
 version: 1
 tags:
 - self
@@ -39,7 +45,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: CLAIM-355 THEORY-064 THEORY-691 THEORY-563 THEORY-877 — Proposed; claims and readings cited as open, nothing here rests on them -->
 
-# THEORY-872: A self-model compresses the sensory effects of a system's own activity by positing one stable common cause, at fast and slow timescales; there is such a pattern in the signal, so the self is real as a pattern and unreal as a substance, and realists and anti-realists about selves who accept this agree on the facts and differ on the criterion of reality
+# THEORY-872: The self is real as a pattern, not a substance
 
 ## Source
 

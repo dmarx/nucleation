@@ -3,7 +3,15 @@ number: 624
 status: Active
 formerly:
 - THEORY-tmpragh3
-title: 'Orseau, McGill and Legg cast whether an identified system is an agent or a device as Bayesian model comparison between descriptions of the function it optimises and descriptions of its input-output mapping, so that the verdict is relative to the observer''s prior; on seven toy gridworld trajectories goal-seeking comes out agent-like and wall-following device-like, and they argue that under a speed prior everything may look like an agent'
+title: 'Agent-or-device is observer-relative'
+statement: >-
+  Orseau, McGill and Legg cast whether an identified system is an agent or a
+  device as Bayesian model comparison between descriptions of the function
+  it optimises and descriptions of its input-output mapping, so that the
+  verdict is relative to the observer's prior; on seven toy gridworld
+  trajectories goal-seeking comes out agent-like and wall-following
+  device-like, and they argue that under a speed prior everything may look
+  like an agent
 version: 3
 history:
 - version: 2
@@ -67,7 +75,7 @@ bears_on:
 <!-- inactive-ok-file: CLAIM-168 CLAIM-174 THEORY-036 THEORY-249 — Proposed; related or rival accounts named in Connections, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CLAIM-010 — Rejected; cited for the position it states, not leaned on -->
 
-# THEORY-624: Orseau, McGill and Legg cast whether an identified system is an agent or a device as Bayesian model comparison between descriptions of the function it optimises and descriptions of its input-output mapping, so that the verdict is relative to the observer's prior; on seven toy gridworld trajectories goal-seeking comes out agent-like and wall-following device-like, and they argue that under a speed prior everything may look like an agent
+# THEORY-624: Agent-or-device is observer-relative
 
 ## Source
 

@@ -13,7 +13,13 @@ promote_when: >-
   authors' or another, that checks the paper's §5 examples against their
   ascriptions as described, accepting inc and rejecting double, with
   ascriptions erased and no coercion inserted.
-title: "Davies and Pfenning: intersection types are unsound with effects unless intersection introduction is restricted to values and distributivity is dropped; inference being impractical, a bidirectional checker takes types from the programmer's ascriptions, checks terms against them and erases them, inserting nothing"
+title: 'Intersection types need a value restriction'
+statement: >-
+  Davies and Pfenning: intersection types are unsound with effects unless
+  intersection introduction is restricted to values and distributivity is
+  dropped; inference being impractical, a bidirectional checker takes types
+  from the programmer's ascriptions, checks terms against them and erases
+  them, inserting nothing
 version: 1
 tags:
 - logic
@@ -36,7 +42,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: ARG-211 ARG-212 CLAIM-974 CLAIM-949 CLAIM-965 CLAIM-783 TERM-154 THEORY-2259 — Proposed or Rejected; the arguments and counter filed from this reading, and the entries it bears on -->
 
-# THEORY-2260: Davies and Pfenning: intersection types are unsound with effects unless intersection introduction is restricted to values and distributivity is dropped; inference being impractical, a bidirectional checker takes types from the programmer's ascriptions, checks terms against them and erases them, inserting nothing
+# THEORY-2260: Intersection types need a value restriction
 
 ## Source
 

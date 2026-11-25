@@ -12,7 +12,12 @@ promote_when: >-
   are used for long periods, without mandate, although the members who
   carry their work get nothing from them. What cannot settle it: more
   cases chosen to illustrate it, which is the evidence it has now.
-title: 'Groupware that requires extra work from members who do not perceive a direct benefit from it, where that work is not made part of their job, is resisted or goes unused, and the applications that succeed in groups without a mandate give each user who does the work a benefit of their own'
+title: 'Groupware fails without a benefit to its users'
+statement: >-
+  Groupware that requires extra work from members who do not perceive a
+  direct benefit from it, where that work is not made part of their job, is
+  resisted or goes unused, and the applications that succeed in groups
+  without a mandate give each user who does the work a benefit of their own
 version: 2
 history:
 - version: 2
@@ -46,7 +51,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-179 CLAIM-176 — Proposed; the claims this account bears on, open -->
 <!-- inactive-ok-file: LIT-759 — Unavailable; Grudin 1988, the earlier statement, not read here -->
 
-# THEORY-311: Groupware that requires extra work from members who do not perceive a direct benefit from it, where that work is not made part of their job, is resisted or goes unused, and the applications that succeed in groups without a mandate give each user who does the work a benefit of their own
+# THEORY-311: Groupware fails without a benefit to its users
 
 ## Source
 

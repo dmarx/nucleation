@@ -11,7 +11,11 @@ promote_when: >-
   convergence and is wrong. Or the reverse, which would count against
   it. What cannot settle it: redescription of a single episode in either
   vocabulary.
-title: 'Affect is not transmitted from one body or event to another; it is reactivated anew in each event, and bodies cued by the same event are attuned to it differentially rather than made alike'
+title: 'Affect is reactivated, not transmitted'
+statement: >-
+  Affect is not transmitted from one body or event to another; it is
+  reactivated anew in each event, and bodies cued by the same event are
+  attuned to it differentially rather than made alike
 version: 1
 tags:
 - emotion-and-affect
@@ -32,7 +36,7 @@ summary: >-
   passing between individuation processes.
 ---
 
-# THEORY-1286: Affect is not transmitted from one body or event to another; it is reactivated anew in each event, and bodies cued by the same event are attuned to it differentially rather than made alike
+# THEORY-1286: Affect is reactivated, not transmitted
 
 ## Source
 

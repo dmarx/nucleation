@@ -3,7 +3,13 @@ number: 1942
 status: Proposed
 formerly:
 - THEORY-tmps61fl
-title: 'Williams holds that agent-regret, a first-person regret expressed in a willingness to repair, is fitting for harm one caused without fault, so that a special relation to an outcome survives the finding that it was not one''s fault; and on his later reading, morality keeps its immunity to luck only by ceasing to be the supreme kind of value (as reported by Nelkin)'
+title: 'Agent-regret fits faultless harm'
+statement: >-
+  Williams holds that agent-regret, a first-person regret expressed in a
+  willingness to repair, is fitting for harm one caused without fault, so
+  that a special relation to an outcome survives the finding that it was not
+  one's fault; and on his later reading, morality keeps its immunity to luck
+  only by ceasing to be the supreme kind of value (as reported by Nelkin)
 version: 1
 tags:
 - ethics
@@ -18,7 +24,7 @@ source:
 - LIT-2695 (the new LIT for SEP "Moral Luck")
 ---
 <!-- inactive-ok-file: LIT-2714 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
-# THEORY-1942: Williams holds that agent-regret, a first-person regret expressed in a willingness to repair, is fitting for harm one caused without fault, so that a special relation to an outcome survives the finding that it was not one's fault; and on his later reading, morality keeps its immunity to luck only by ceasing to be the supreme kind of value (as reported by Nelkin)
+# THEORY-1942: Agent-regret fits faultless harm
 
 ## Source
 

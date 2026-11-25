@@ -3,7 +3,15 @@ number: 1817
 status: Proposed
 formerly:
 - THEORY-tmpi3g1u
-title: 'Seamster and Charron-Chénier define predatory inclusion as giving a marginalized group access to a good, service or opportunity it was historically excluded from, on conditions that jeopardize the access''s benefits while dominant actors profit, and argue from Survey of Consumer Finances data that Black households'' education debt rose faster than white households'' from 2001 to 2013 and exceeded it by 2010, a gap that educational attainment and socioeconomic controls do not explain'
+title: 'Black education debt shows predatory inclusion'
+statement: >-
+  Seamster and Charron-Chénier define predatory inclusion as giving a
+  marginalized group access to a good, service or opportunity it was
+  historically excluded from, on conditions that jeopardize the access's
+  benefits while dominant actors profit, and argue from Survey of Consumer
+  Finances data that Black households' education debt rose faster than white
+  households' from 2001 to 2013 and exceeded it by 2010, a gap that
+  educational attainment and socioeconomic controls do not explain
 version: 1
 source:
 - LIT-2525
@@ -19,7 +27,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-669 — Proposed; cited as on the record -->
 <!-- inactive-ok-file: ARG-100 — filed with this reading, Proposed -->
 
-# THEORY-1817: Seamster and Charron-Chénier define predatory inclusion as giving a marginalized group access to a good, service or opportunity it was historically excluded from, on conditions that jeopardize the access's benefits while dominant actors profit, and argue from Survey of Consumer Finances data that Black households' education debt rose faster than white households' from 2001 to 2013 and exceeded it by 2010, a gap that educational attainment and socioeconomic controls do not explain
+# THEORY-1817: Black education debt shows predatory inclusion
 
 ## The account
 

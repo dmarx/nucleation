@@ -3,7 +3,15 @@ number: 1006
 status: Active
 formerly:
 - THEORY-tmpumk4q
-title: 'In the dependent Indian buffet process each item''s feature indicator is a Gaussian process thresholded at the quantile of a stick length that does not change with the covariate, so its prevalence is the same at every covariate value and its persistence is set separately by the covariance; the whole feature matrix at a covariate value is an Indian buffet process only when there is no shared feature-level process, and with one the items are correlated and fewer features are occupied'
+title: 'dIBP prevalence is constant across covariates'
+statement: >-
+  In the dependent Indian buffet process each item's feature indicator is a
+  Gaussian process thresholded at the quantile of a stick length that does
+  not change with the covariate, so its prevalence is the same at every
+  covariate value and its persistence is set separately by the covariance;
+  the whole feature matrix at a covariate value is an Indian buffet process
+  only when there is no shared feature-level process, and with one the items
+  are correlated and fewer features are occupied
 version: 2
 history:
 - version: 1
@@ -44,7 +52,7 @@ bears_on:
 - QUESTION-275
 ---
 
-# THEORY-1006: In the dependent Indian buffet process each item's feature indicator is a Gaussian process thresholded at the quantile of a stick length that does not change with the covariate, so its prevalence is the same at every covariate value and its persistence is set separately by the covariance; the whole feature matrix at a covariate value is an Indian buffet process only when there is no shared feature-level process, and with one the items are correlated and fewer features are occupied
+# THEORY-1006: dIBP prevalence is constant across covariates
 
 ## Source
 

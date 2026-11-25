@@ -12,7 +12,16 @@ promote_when: >-
   non-stationary distribution without growth. Not met, and not defeated,
   by tests of whether real networks are scale free, which bear on the
   proposal's reach and not on what the paper found.
-title: 'Barabási and Albert, growing a network one vertex at a time with links attached in proportion to degree, find a stationary power-law degree distribution with exponent near 3 by simulation and exactly 3 by a mean-field argument, an exponential distribution without preferential attachment, a non-stationary one tending to a complete graph without growth, and scaling only for a linear kernel, and propose growth and preferential attachment as the generic origin of the power-law tails they report in real networks'
+title: 'Growth plus preferential attachment gives k^−3'
+statement: >-
+  Barabási and Albert, growing a network one vertex at a time with links
+  attached in proportion to degree, find a stationary power-law degree
+  distribution with exponent near 3 by simulation and exactly 3 by a
+  mean-field argument, an exponential distribution without preferential
+  attachment, a non-stationary one tending to a complete graph without
+  growth, and scaling only for a linear kernel, and propose growth and
+  preferential attachment as the generic origin of the power-law tails they
+  report in real networks
 version: 1
 tags:
 - network-science
@@ -35,7 +44,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-2181 THEORY-2184 — Proposed; the readings beside this one -->
 <!-- inactive-ok-file: CLAIM-817 CLAIM-830 THEORY-2172 ARG-179 — Proposed or new; the claims this reading grounds, the reading that qualifies its premise and the argument that says how -->
 
-# THEORY-2180: Barabási and Albert, growing a network one vertex at a time with links attached in proportion to degree, find a stationary power-law degree distribution with exponent near 3 by simulation and exactly 3 by a mean-field argument, an exponential distribution without preferential attachment, a non-stationary one tending to a complete graph without growth, and scaling only for a linear kernel, and propose growth and preferential attachment as the generic origin of the power-law tails they report in real networks
+# THEORY-2180: Growth plus preferential attachment gives k^−3
 
 ## Source
 

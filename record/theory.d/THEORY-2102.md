@@ -3,7 +3,13 @@ number: 2102
 status: Proposed
 formerly:
 - THEORY-tmp9hirk
-title: 'Tomasello proposes that great apes add a metacognitive tier of control to the executive tier common to mammals, monitoring their own executive decisions and uncertainty, and that they understand others as agents by attributing to them the goals, perceptions and knowledge they monitor in themselves'
+title: 'Apes add a metacognitive control tier'
+statement: >-
+  Tomasello proposes that great apes add a metacognitive tier of control to
+  the executive tier common to mammals, monitoring their own executive
+  decisions and uncertainty, and that they understand others as agents by
+  attributing to them the goals, perceptions and knowledge they monitor in
+  themselves
 version: 1
 source:
 - LIT-2913
@@ -22,7 +28,7 @@ summary: >-
   chapter 4 of [LIT-2912](../literature.d/LIT-2912.md). Proposed until its promote_when is met.
 ---
 
-# THEORY-2102: Tomasello proposes that great apes add a metacognitive tier of control to the executive tier common to mammals, monitoring their own executive decisions and uncertainty, and that they understand others as agents by attributing to them the goals, perceptions and knowledge they monitor in themselves
+# THEORY-2102: Apes add a metacognitive control tier
 
 ## The account
 

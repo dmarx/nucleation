@@ -3,7 +3,14 @@ number: 2091
 status: Proposed
 formerly:
 - THEORY-tmpoqh3f
-title: 'Ito and colleagues find that pretraining a small network on rule primitives and two-rule combinations of a compositional rule task builds abstract rule representations that give high zero-shot accuracy on the full task, that a network without pretraining needs several times more samples, pretraining counted, to match it, and that reversing the pretraining order leaves generalization at chance'
+title: 'Primitive pretraining gives zero-shot rule use'
+statement: >-
+  Ito and colleagues find that pretraining a small network on rule
+  primitives and two-rule combinations of a compositional rule task builds
+  abstract rule representations that give high zero-shot accuracy on the
+  full task, that a network without pretraining needs several times more
+  samples, pretraining counted, to match it, and that reversing the
+  pretraining order leaves generalization at chance
 version: 1
 source:
 - LIT-2877
@@ -27,7 +34,7 @@ summary: >-
   Proposed until its promote_when is met.
 ---
 
-# THEORY-2091: Ito and colleagues find that pretraining a small network on rule primitives and two-rule combinations of a compositional rule task builds abstract rule representations that give high zero-shot accuracy on the full task, that a network without pretraining needs several times more samples, pretraining counted, to match it, and that reversing the pretraining order leaves generalization at chance
+# THEORY-2091: Primitive pretraining gives zero-shot rule use
 
 ## The account
 

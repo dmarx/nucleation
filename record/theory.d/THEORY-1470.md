@@ -3,7 +3,17 @@ number: 1470
 status: Active
 formerly:
 - THEORY-tmp7ch1y
-title: 'Collins and Shester find that US cities whose states enabled federal urban renewal earlier received more renewal grants and, per $100 of grants per 1950 resident, had about 2.4% higher median family income, 6.9% higher median property value and 9–11% more population and housing units in 1980 than similar cities, gains not explained by a changed racial or educational composition and not faded by 2000, decades after new funding ended, while the projects cleared or planned to clear over 400,000 housing units and relocated over 300,000 families, about 54% nonwhite, whose costs the city-level design does not measure'
+title: 'Urban renewal raised city income, value, size'
+statement: >-
+  Collins and Shester find that US cities whose states enabled federal urban
+  renewal earlier received more renewal grants and, per $100 of grants per
+  1950 resident, had about 2.4% higher median family income, 6.9% higher
+  median property value and 9–11% more population and housing units in 1980
+  than similar cities, gains not explained by a changed racial or
+  educational composition and not faded by 2000, decades after new funding
+  ended, while the projects cleared or planned to clear over 400,000 housing
+  units and relocated over 300,000 families, about 54% nonwhite, whose costs
+  the city-level design does not measure
 version: 4
 history:
 - version: 2
@@ -58,7 +68,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: NOTE-1680 — Skimmed; cited from the reading of Collins and Shester (2013) as open -->
 
-# THEORY-1470: Collins and Shester find that US cities whose states enabled federal urban renewal earlier received more renewal grants and, per $100 of grants per 1950 resident, had about 2.4% higher median family income, 6.9% higher median property value and 9–11% more population and housing units in 1980 than similar cities, gains not explained by a changed racial or educational composition and not faded by 2000, decades after new funding ended, while the projects cleared or planned to clear over 400,000 housing units and relocated over 300,000 families, about 54% nonwhite, whose costs the city-level design does not measure
+# THEORY-1470: Urban renewal raised city income, value, size
 
 ## Source
 

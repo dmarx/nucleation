@@ -12,7 +12,13 @@ promote_when: >-
   sperm miR-34c-5p, or any of the three regions, with childhood
   maltreatment. A study of offspring is not required, since the title
   claims nothing about them.
-title: 'Tuulari, Bourgery and colleagues report that Finnish fathers who had suffered severe childhood maltreatment differed from fathers who had not in sperm DNA methylation at three regions and in the levels of dozens of sperm small RNAs, among them lower miR-34c-5p, and grant that transmission to offspring was not tested'
+title: 'Maltreated fathers'' sperm methylation differs'
+statement: >-
+  Tuulari, Bourgery and colleagues report that Finnish fathers who had
+  suffered severe childhood maltreatment differed from fathers who had not
+  in sperm DNA methylation at three regions and in the levels of dozens of
+  sperm small RNAs, among them lower miR-34c-5p, and grant that transmission
+  to offspring was not tested
 version: 1
 tags:
 - natural-sciences
@@ -32,7 +38,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-1017 — filed by the lead run of 2026-11-23 -->
 
-# THEORY-2303: Tuulari, Bourgery and colleagues report that Finnish fathers who had suffered severe childhood maltreatment differed from fathers who had not in sperm DNA methylation at three regions and in the levels of dozens of sperm small RNAs, among them lower miR-34c-5p, and grant that transmission to offspring was not tested
+# THEORY-2303: Maltreated fathers' sperm methylation differs
 
 ## The account
 

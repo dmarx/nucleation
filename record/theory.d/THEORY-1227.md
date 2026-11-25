@@ -3,7 +3,14 @@ number: 1227
 status: Active
 formerly:
 - THEORY-tmp1drab
-title: 'Haken, Kelso and Bunz model the switch of rhythmic bimanual coordination from anti-phase to in-phase at a critical frequency as the loss of one stable state of an order parameter, relative phase, derived from two coupled oscillators; Kelso, Scholz and Schöner report the variability of relative phase rising before the switch in the anti-phase pattern only, in a few subjects and with no statistical test'
+title: 'Bimanual switch is loss of a stable phase'
+statement: >-
+  Haken, Kelso and Bunz model the switch of rhythmic bimanual coordination
+  from anti-phase to in-phase at a critical frequency as the loss of one
+  stable state of an order parameter, relative phase, derived from two
+  coupled oscillators; Kelso, Scholz and Schöner report the variability of
+  relative phase rising before the switch in the anti-phase pattern only, in
+  a few subjects and with no statistical test
 version: 1
 tags:
 - behavioral-integration
@@ -28,7 +35,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-069 — Proposed; the account this is split from, which holds the question whether the switch is the transition it proposes -->
 
-# THEORY-1227: Haken, Kelso and Bunz model the switch of rhythmic bimanual coordination from anti-phase to in-phase at a critical frequency as the loss of one stable state of an order parameter, relative phase, derived from two coupled oscillators; Kelso, Scholz and Schöner report the variability of relative phase rising before the switch in the anti-phase pattern only, in a few subjects and with no statistical test
+# THEORY-1227: Bimanual switch is loss of a stable phase
 
 ## Source
 

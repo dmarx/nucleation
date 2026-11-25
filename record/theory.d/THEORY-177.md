@@ -3,7 +3,13 @@ number: 177
 status: Active
 formerly:
 - THEORY-tmpsywrj
-title: "In a binary cyclic system, the Contextuality-by-Default measure of signalling is twice the sum, over contents, of the least direct influence of context that a canonical causal model of the data must place on each content, and each content's least influence is the total-variation distance between its two marginals"
+title: 'CbD signalling is twice least context influence'
+statement: >-
+  In a binary cyclic system, the Contextuality-by-Default measure of
+  signalling is twice the sum, over contents, of the least direct influence
+  of context that a canonical causal model of the data must place on each
+  content, and each content's least influence is the total-variation
+  distance between its two marginals
 version: 2
 history:
 - version: 2
@@ -36,7 +42,7 @@ summary: >-
 ---
 
 
-# THEORY-177: In a binary cyclic system, the Contextuality-by-Default measure of signalling is twice the sum, over contents, of the least direct influence of context that a canonical causal model of the data must place on each content, and each content's least influence is the total-variation distance between its two marginals
+# THEORY-177: CbD signalling is twice least context influence
 
 ## Source
 

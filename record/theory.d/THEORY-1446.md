@@ -3,7 +3,16 @@ number: 1446
 status: Active
 formerly:
 - THEORY-tmpcfriw
-title: 'Majikes and colleagues find, across 34 designs of one 2D DNA origami rectangle annealed under deliberately poor conditions and scored by AFM classification, that defectivity tracks design-level aggregates: the skew of the distribution of loop-entropy penalties each fold would pay if it bound first and the measured melt temperature are its principal correlates, a linear combination of these with a staple-blocking metric collapses 28 of the designs onto one trend, and designs with more short folds at the expense of medium folds are more defective'
+title: 'Origami defects track loop-entropy skew'
+statement: >-
+  Majikes and colleagues find, across 34 designs of one 2D DNA origami
+  rectangle annealed under deliberately poor conditions and scored by AFM
+  classification, that defectivity tracks design-level aggregates: the skew
+  of the distribution of loop-entropy penalties each fold would pay if it
+  bound first and the measured melt temperature are its principal
+  correlates, a linear combination of these with a staple-blocking metric
+  collapses 28 of the designs onto one trend, and designs with more short
+  folds at the expense of medium folds are more defective
 version: 2
 history:
 - version: 2
@@ -51,7 +60,7 @@ summary: >-
   funnel-like rather than path-like is their interpretation of the fit.
 ---
 
-# THEORY-1446: Majikes and colleagues find, across 34 designs of one 2D DNA origami rectangle annealed under deliberately poor conditions and scored by AFM classification, that defectivity tracks design-level aggregates: the skew of the distribution of loop-entropy penalties each fold would pay if it bound first and the measured melt temperature are its principal correlates, a linear combination of these with a staple-blocking metric collapses 28 of the designs onto one trend, and designs with more short folds at the expense of medium folds are more defective
+# THEORY-1446: Origami defects track loop-entropy skew
 
 ## Source
 

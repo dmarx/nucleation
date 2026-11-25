@@ -12,7 +12,13 @@ promote_when: >-
   supply one: it solves unbalanced starts only when already decoupled. A
   later silent-alignment analysis that supplies one would serve. Further
   simulations of small hand-built datasets cannot settle it.
-title: 'A deep linear network trained from small weights learns the singular modes of its input–output correlations one at a time in order of strength, each in a sharp sigmoidal transition, while a shallow network learns them all together; the stages come from the product of layers and the data''s spectrum, not from nonlinearity'
+title: 'Deep linear nets learn modes stage by stage'
+statement: >-
+  A deep linear network trained from small weights learns the singular modes
+  of its input–output correlations one at a time in order of strength, each
+  in a sharp sigmoidal transition, while a shallow network learns them all
+  together; the stages come from the product of layers and the data's
+  spectrum, not from nonlinearity
 version: 5
 history:
 - version: 2
@@ -69,7 +75,7 @@ bears_on:
 <!-- inactive-ok-file: CLAIM-774 — Proposed; filed in the contribution of 2026-11-20 on μP, depth scaling and modular duality -->
 <!-- inactive-ok-file: THEORY-182 THEORY-183 THEORY-039 — Proposed; accounts this one underlies or is set beside -->
 
-# THEORY-186: A deep linear network trained from small weights learns the singular modes of its input–output correlations one at a time in order of strength, each in a sharp sigmoidal transition, while a shallow network learns them all together; the stages come from the product of layers and the data's spectrum, not from nonlinearity
+# THEORY-186: Deep linear nets learn modes stage by stage
 
 ## Source
 

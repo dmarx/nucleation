@@ -3,7 +3,14 @@ number: 2095
 status: Proposed
 formerly:
 - THEORY-tmpndxv9
-title: 'Kuhn holds that the exemplars of a science, shared concrete problem-solutions, teach a learned perception of similarity rather than rules, by which a new problem is seen as like one already solved so that its formalism follows and only manipulative difficulties remain, and that knowledge stored in that similarity relation differs from knowledge stored as rules'
+title: 'Exemplars teach similarity, not rules'
+statement: >-
+  Kuhn holds that the exemplars of a science, shared concrete
+  problem-solutions, teach a learned perception of similarity rather than
+  rules, by which a new problem is seen as like one already solved so that
+  its formalism follows and only manipulative difficulties remain, and that
+  knowledge stored in that similarity relation differs from knowledge stored
+  as rules
 version: 1
 source:
 - LIT-2883
@@ -28,7 +35,7 @@ summary: >-
   is met.
 ---
 
-# THEORY-2095: Kuhn holds that the exemplars of a science, shared concrete problem-solutions, teach a learned perception of similarity rather than rules, by which a new problem is seen as like one already solved so that its formalism follows and only manipulative difficulties remain, and that knowledge stored in that similarity relation differs from knowledge stored as rules
+# THEORY-2095: Exemplars teach similarity, not rules
 
 ## The account
 

@@ -16,7 +16,13 @@ promote_when: >-
   a stage can want. More cases that the account describes without
   contradiction cannot settle it, since consistency is what the
   construction guarantees.
-title: "If continuant persons are maximal aggregates of person-stages interrelated by the psychological relation R, then the relation of belonging to one person is R itself, so Parfit's premises do not show that identity is not what matters; the price is that persons overlap in fission and are counted by a relation weaker than identity"
+title: 'Stage-aggregate persons make identity matter'
+statement: >-
+  If continuant persons are maximal aggregates of person-stages interrelated
+  by the psychological relation R, then the relation of belonging to one
+  person is R itself, so Parfit's premises do not show that identity is not
+  what matters; the price is that persons overlap in fission and are counted
+  by a relation weaker than identity
 version: 1
 tags:
 - personhood
@@ -39,7 +45,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-447 THEORY-448 THEORY-490 THEORY-531 — Proposed; filed in the same batch and named as a rival, a parallel or a contrast, not leaned on -->
 
-# THEORY-476: If continuant persons are maximal aggregates of person-stages interrelated by the psychological relation R, then the relation of belonging to one person is R itself, so Parfit's premises do not show that identity is not what matters; the price is that persons overlap in fission and are counted by a relation weaker than identity
+# THEORY-476: Stage-aggregate persons make identity matter
 
 ## Source
 

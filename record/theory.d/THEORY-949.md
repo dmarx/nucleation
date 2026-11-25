@@ -12,7 +12,16 @@ promote_when: >-
   changes the output beyond seed variation, preferably measured as each
   operator's counterfactual effect on the image. More GPT-4V win rates on
   the same unreported sample do not meet it.
-title: 'When several LoRAs take turns over one denoising trajectory, each given the same share of steps, the result depends on the schedule and not only on the shares: switching at every step scored worst (a composition win rate against weight merging near 38%, against about 59% when each LoRA kept five consecutive steps), shortening the turns late in sampling scored worse than keeping them fixed, and which LoRA acted first mattered more than the order of the rest, the character first scoring best and the style first slightly below a random order'
+title: 'LoRA turn schedule matters, not just shares'
+statement: >-
+  When several LoRAs take turns over one denoising trajectory, each given
+  the same share of steps, the result depends on the schedule and not only
+  on the shares: switching at every step scored worst (a composition win
+  rate against weight merging near 38%, against about 59% when each LoRA
+  kept five consecutive steps), shortening the turns late in sampling scored
+  worse than keeping them fixed, and which LoRA acted first mattered more
+  than the order of the rest, the character first scoring best and the style
+  first slightly below a random order
 version: 1
 history:
 - version: 1
@@ -36,7 +45,7 @@ summary: >-
   elements should come first, is theirs and untested.
 ---
 
-# THEORY-949: When several LoRAs take turns over one denoising trajectory, each given the same share of steps, the result depends on the schedule and not only on the shares: switching at every step scored worst (a composition win rate against weight merging near 38%, against about 59% when each LoRA kept five consecutive steps), shortening the turns late in sampling scored worse than keeping them fixed, and which LoRA acted first mattered more than the order of the rest, the character first scoring best and the style first slightly below a random order
+# THEORY-949: LoRA turn schedule matters, not just shares
 
 ## Source
 

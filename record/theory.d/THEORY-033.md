@@ -15,7 +15,12 @@ promote_when: >-
   once the learning-rate temperature is controlled would refute it, as
   would a per-step progress law that keeps growing with B past the knee,
   such as log(1 + SNR).
-title: 'The measured noise scale B_simple tracks the critical batch size within about 10× on six of eight tasks and about 20× on two generative models, so the gradient''s noise-to-signal ratio sets the critical batch only as far as the local quadratic model with an optimal step holds'
+title: 'Noise scale tracks critical batch only roughly'
+statement: >-
+  The measured noise scale B_simple tracks the critical batch size within
+  about 10× on six of eight tasks and about 20× on two generative models, so
+  the gradient's noise-to-signal ratio sets the critical batch only as far
+  as the local quadratic model with an optimal step holds
 version: 2
 history:
 - version: 2
@@ -49,7 +54,7 @@ summary: >-
   information-theoretic, and its temperature ε/B is not k_BT.
 ---
 
-# THEORY-033: The measured noise scale B_simple tracks the critical batch size within about 10× on six of eight tasks and about 20× on two generative models, so the gradient's noise-to-signal ratio sets the critical batch only as far as the local quadratic model with an optimal step holds
+# THEORY-033: Noise scale tracks critical batch only roughly
 
 ## Source
 

@@ -3,7 +3,14 @@ number: 2097
 status: Proposed
 formerly:
 - THEORY-tmp5lj70
-title: 'Alexander holds that moral systems are in essence systems of indirect reciprocity arising from conflicts of reproductive interest, in which help seen by others pays through those observers'' later choices, so that some indiscriminate altruism is social investment, idealized universal moralities misread it as self-sacrifice, and morality as practised is cohesion within groups that may be directed against others'
+title: 'Morality is indirect reciprocity'
+statement: >-
+  Alexander holds that moral systems are in essence systems of indirect
+  reciprocity arising from conflicts of reproductive interest, in which help
+  seen by others pays through those observers' later choices, so that some
+  indiscriminate altruism is social investment, idealized universal
+  moralities misread it as self-sacrifice, and morality as practised is
+  cohesion within groups that may be directed against others
 version: 1
 source:
 - LIT-2886
@@ -27,7 +34,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-495 — Unfetched; the book this account is meant to stand for -->
 
-# THEORY-2097: Alexander holds that moral systems are in essence systems of indirect reciprocity arising from conflicts of reproductive interest, in which help seen by others pays through those observers' later choices, so that some indiscriminate altruism is social investment, idealized universal moralities misread it as self-sacrifice, and morality as practised is cohesion within groups that may be directed against others
+# THEORY-2097: Morality is indirect reciprocity
 
 ## The account
 

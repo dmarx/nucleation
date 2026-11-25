@@ -3,7 +3,13 @@ number: 1734
 status: Proposed
 formerly:
 - THEORY-tmp5ac00
-title: 'Shumailov et al. show that when each generation of a generative model is trained only on samples from the previous generation, finite-sample, expressivity and approximation errors compound so that the tails of the original distribution are lost and the learned distribution drifts toward a low-variance point'
+title: 'Recursive training loses tails and collapses'
+statement: >-
+  Shumailov et al. show that when each generation of a generative model is
+  trained only on samples from the previous generation, finite-sample,
+  expressivity and approximation errors compound so that the tails of the
+  original distribution are lost and the learned distribution drifts toward
+  a low-variance point
 version: 1
 tags:
 - learning-theory
@@ -24,7 +30,7 @@ summary: >-
   its promote_when is met.
 ---
 
-# THEORY-1734: Shumailov et al. show that when each generation of a generative model is trained only on samples from the previous generation, finite-sample, expressivity and approximation errors compound so that the tails of the original distribution are lost and the learned distribution drifts toward a low-variance point
+# THEORY-1734: Recursive training loses tails and collapses
 
 ## The account
 

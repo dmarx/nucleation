@@ -3,7 +3,15 @@ number: 368
 status: Active
 formerly:
 - THEORY-tmpc25xn
-title: "On two-dimensional point sets constructed for the purpose, the authors' code for fast-preprocessing DiskANN, HNSW and NSG, at parameters from the original papers, in most cases found none or few of a query's five nearest neighbours until the search queue held about 10% of the points, for n from 10⁵ to 2·10⁶, and at that queue length ten graph indexes averaged recall@5 between 0.0 and 0.42; this is shown by experiment on one query per instance, and no theorem bounds these algorithms"
+title: 'Graph ANN indexes fail on adversarial 2D sets'
+statement: >-
+  On two-dimensional point sets constructed for the purpose, the authors'
+  code for fast-preprocessing DiskANN, HNSW and NSG, at parameters from the
+  original papers, in most cases found none or few of a query's five nearest
+  neighbours until the search queue held about 10% of the points, for n from
+  10⁵ to 2·10⁶, and at that queue length ten graph indexes averaged recall@5
+  between 0.0 and 0.42; this is shown by experiment on one query per
+  instance, and no theorem bounds these algorithms
 version: 3
 history:
 - version: 2
@@ -42,7 +50,7 @@ bears_on:
 - QUESTION-230
 ---
 
-# THEORY-368: On two-dimensional point sets constructed for the purpose, the authors' code for fast-preprocessing DiskANN, HNSW and NSG, at parameters from the original papers, in most cases found none or few of a query's five nearest neighbours until the search queue held about 10% of the points, for n from 10⁵ to 2·10⁶, and at that queue length ten graph indexes averaged recall@5 between 0.0 and 0.42; this is shown by experiment on one query per instance, and no theorem bounds these algorithms
+# THEORY-368: Graph ANN indexes fail on adversarial 2D sets
 
 ## Source
 

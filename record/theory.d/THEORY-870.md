@@ -3,7 +3,16 @@ number: 870
 status: Active
 formerly:
 - THEORY-tmp9y4pc
-title: 'In one study of 33 experienced Transcendental Meditation practitioners and 33 matched controls who counted instead, the practitioners rated their session higher on a retrospective pure-awareness scale whose top was defined for them as free from content (d = 0.77), and a classifier on EEG separated meditation from counting at 65% balanced accuracy on held-out subjects and, within practitioners, meditation from rest with 88% sensitivity; the authors found no robust association between the ratings and the EEG features'
+title: 'TM pure-awareness ratings unlinked to EEG'
+statement: >-
+  In one study of 33 experienced Transcendental Meditation practitioners and
+  33 matched controls who counted instead, the practitioners rated their
+  session higher on a retrospective pure-awareness scale whose top was
+  defined for them as free from content (d = 0.77), and a classifier on EEG
+  separated meditation from counting at 65% balanced accuracy on held-out
+  subjects and, within practitioners, meditation from rest with 88%
+  sensitivity; the authors found no robust association between the ratings
+  and the EEG features
 version: 3
 history:
 - version: 2
@@ -74,7 +83,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-1241 — Proposed; filed beside this reading by the twenty-fourth status review: the general form of the finding -->
 <!-- inactive-ok-file: CLAIM-412 — Proposed; the claims this one bears on, named and not leaned on -->
 
-# THEORY-870: In one study of 33 experienced Transcendental Meditation practitioners and 33 matched controls who counted instead, the practitioners rated their session higher on a retrospective pure-awareness scale whose top was defined for them as free from content (d = 0.77), and a classifier on EEG separated meditation from counting at 65% balanced accuracy on held-out subjects and, within practitioners, meditation from rest with 88% sensitivity; the authors found no robust association between the ratings and the EEG features
+# THEORY-870: TM pure-awareness ratings unlinked to EEG
 
 ## Source
 

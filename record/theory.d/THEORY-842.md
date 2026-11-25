@@ -3,7 +3,14 @@ number: 842
 status: Active
 formerly:
 - THEORY-tmpbonn4
-title: 'Among 100 Chapel Hill voters not yet committed to a candidate in September–October 1968, the aggregate emphasis they gave the campaign''s main issues correlated +.967 with the emphasis of the major news items, and +.979 with that of the minor items, in the nine media serving them; and voters leaning to a candidate agreed more with all the news than with news about their own side in 18 of 24 comparisons'
+title: 'Voters'' issue emphasis tracks news emphasis'
+statement: >-
+  Among 100 Chapel Hill voters not yet committed to a candidate in
+  September–October 1968, the aggregate emphasis they gave the campaign's
+  main issues correlated +.967 with the emphasis of the major news items,
+  and +.979 with that of the minor items, in the nine media serving them;
+  and voters leaning to a candidate agreed more with all the news than with
+  news about their own side in 18 of 24 comparisons
 version: 2
 history:
 - version: 1
@@ -44,7 +51,7 @@ corroborates:
 <!-- inactive-ok-file: QUESTION-253 — Proposed or Answered; cited in the reading review's history note of 2026-11-11 -->
 <!-- inactive-ok-file: THEORY-838 — Proposed; the causal hypothesis these correlations are offered for, filed beside this one -->
 
-# THEORY-842: Among 100 Chapel Hill voters not yet committed to a candidate in September–October 1968, the aggregate emphasis they gave the campaign's main issues correlated +.967 with the emphasis of the major news items, and +.979 with that of the minor items, in the nine media serving them; and voters leaning to a candidate agreed more with all the news than with news about their own side in 18 of 24 comparisons
+# THEORY-842: Voters' issue emphasis tracks news emphasis
 
 ## Source
 

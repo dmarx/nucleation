@@ -12,7 +12,13 @@ promote_when: >-
   consumers, with the alignment of the designers measured independently of
   the outcome. A further laboratory study with alignment assigned would
   not settle it.
-title: 'Insulating a regulator from future political revision fixes in place the interests of whoever designs the insulated regime: it relieves the underinvestment that electoral pressure on prices causes when the designers serve consumers, and entrenches capture, removing the electoral pressure that would correct it, when they serve the regulated industry'
+title: 'Insulating regulators entrenches designers'' aims'
+statement: >-
+  Insulating a regulator from future political revision fixes in place the
+  interests of whoever designs the insulated regime: it relieves the
+  underinvestment that electoral pressure on prices causes when the
+  designers serve consumers, and entrenches capture, removing the electoral
+  pressure that would correct it, when they serve the regulated industry
 version: 1
 history:
 - version: 1
@@ -39,7 +45,7 @@ summary: >-
   nothing yet about real independent agencies, about how capture arises,
   or about designs between the two extremes.
 ---
-# THEORY-858: Insulating a regulator from future political revision fixes in place the interests of whoever designs the insulated regime: it relieves the underinvestment that electoral pressure on prices causes when the designers serve consumers, and entrenches capture, removing the electoral pressure that would correct it, when they serve the regulated industry
+# THEORY-858: Insulating regulators entrenches designers' aims
 
 ## Source
 

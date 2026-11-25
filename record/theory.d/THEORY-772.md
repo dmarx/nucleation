@@ -17,7 +17,19 @@ promote_when: >-
   A claim about the sign of the flux at a fixed positive scale, or about where
   the dissipation would sit in a vanishing-viscosity limit, is not covered by
   this entry and would need a different theorem.
-title: 'For every β < 1/3 there is a weak solution of the 3D incompressible Euler equations on the periodic box, in C⁰_t(B^β_{3,∞} ∩ L^{1/(1−3β)}), whose Duchon–Robert dissipation is the smooth nonnegative density E(t, x) = −e(t)e′(t)ρ₀(x₁, x₂)² fixed at the construction''s first step; for such a solution the local coarse-grained energy flux into scales below ℓ converges, as ℓ → 0 and as a distribution in space and time, to E, so the transfer into vanishing scales is one-way at every place and time in the limit, nonzero inside a periodic array of pipes and zero outside them; where and how fast energy is dissipated is chosen by the construction, not forced by the equations, and nothing is shown about the sign at any positive scale'
+title: 'Euler solutions can confine dissipation to pipes'
+statement: >-
+  For every β < 1/3 there is a weak solution of the 3D incompressible Euler
+  equations on the periodic box, in C⁰_t(B^β_{3,∞} ∩ L^{1/(1−3β)}), whose
+  Duchon–Robert dissipation is the smooth nonnegative density E(t, x) =
+  −e(t)e′(t)ρ₀(x₁, x₂)² fixed at the construction's first step; for such a
+  solution the local coarse-grained energy flux into scales below ℓ
+  converges, as ℓ → 0 and as a distribution in space and time, to E, so the
+  transfer into vanishing scales is one-way at every place and time in the
+  limit, nonzero inside a periodic array of pipes and zero outside them;
+  where and how fast energy is dissipated is chosen by the construction, not
+  forced by the equations, and nothing is shown about the sign at any
+  positive scale
 version: 2
 history:
 - version: 1
@@ -62,7 +74,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-821 — Proposed; Isett's Hölder flows with the local inequality, cited for contrast -->
 <!-- inactive-ok-file: THEORY-776 THEORY-763 — Proposed; the whole-box dissipative and the two-signed accounts, cited for contrast -->
 <!-- inactive-ok-file: NOTE-1022 — Skimmed; this entry's reading -->
-# THEORY-772: For every β < 1/3 there is a weak solution of the 3D incompressible Euler equations on the periodic box, in C⁰_t(B^β_{3,∞} ∩ L^{1/(1−3β)}), whose Duchon–Robert dissipation is the smooth nonnegative density E(t, x) = −e(t)e′(t)ρ₀(x₁, x₂)² fixed at the construction's first step; for such a solution the local coarse-grained energy flux into scales below ℓ converges, as ℓ → 0 and as a distribution in space and time, to E, so the transfer into vanishing scales is one-way at every place and time in the limit, nonzero inside a periodic array of pipes and zero outside them; where and how fast energy is dissipated is chosen by the construction, not forced by the equations, and nothing is shown about the sign at any positive scale
+# THEORY-772: Euler solutions can confine dissipation to pipes
 
 ## Source
 

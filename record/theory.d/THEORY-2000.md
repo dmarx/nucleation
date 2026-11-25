@@ -10,7 +10,13 @@ promote_when: >-
   indicting any individual or team, and that the reason given is that
   blame keeps people from bringing issues to light. Whether the practice
   achieves this is not asserted.
-title: 'Lunney and Lueder state Google''s blameless postmortem as a review that records an incident''s contributing causes and the follow-up actions to prevent recurrence without indicting any individual or team, on the ground that blame keeps people from bringing issues to light, so that correction is aimed at systems and processes rather than at people'
+title: 'Blameless postmortems aim correction at systems'
+statement: >-
+  Lunney and Lueder state Google's blameless postmortem as a review that
+  records an incident's contributing causes and the follow-up actions to
+  prevent recurrence without indicting any individual or team, on the ground
+  that blame keeps people from bringing issues to light, so that correction
+  is aimed at systems and processes rather than at people
 version: 2
 history:
 - version: 2
@@ -40,7 +46,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-742 — Proposed; the claim this corroborates -->
 
-# THEORY-2000: Lunney and Lueder state Google's blameless postmortem as a review that records an incident's contributing causes and the follow-up actions to prevent recurrence without indicting any individual or team, on the ground that blame keeps people from bringing issues to light, so that correction is aimed at systems and processes rather than at people
+# THEORY-2000: Blameless postmortems aim correction at systems
 
 Lunney and Lueder (2016), [LIT-2784](../literature.d/LIT-2784.md), read in [NOTE-2082](../notes.d/NOTE-2082.md).
 

@@ -11,7 +11,14 @@ promote_when: >-
   above theirs at K = 9 by more than seed variation, and above 90% of
   the single-LoRA oracle. A result on another objective or another
   modality would not settle it.
-title: 'Merging the LoRAs of a diffusion model by concatenating them along the rank dimension and inserting a fixed router, the least-squares map that reconstructs each LoRA''s output on its own task''s inputs from one calibration prompt per task, kept over 90% of single-LoRA subject fidelity with nine LoRAs on FLUX.1-dev, above task arithmetic, TIES and DARE applied to the same updates'
+title: 'Routed LoRA concatenation keeps subject fidelity'
+statement: >-
+  Merging the LoRAs of a diffusion model by concatenating them along the
+  rank dimension and inserting a fixed router, the least-squares map that
+  reconstructs each LoRA's output on its own task's inputs from one
+  calibration prompt per task, kept over 90% of single-LoRA subject fidelity
+  with nine LoRAs on FLUX.1-dev, above task arithmetic, TIES and DARE
+  applied to the same updates
 version: 1
 tags:
 - loss-landscapes
@@ -31,7 +38,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-107 — Proposed; the coordinate account this one is set beside -->
 
-# THEORY-1905: Merging the LoRAs of a diffusion model by concatenating them along the rank dimension and inserting a fixed router, the least-squares map that reconstructs each LoRA's output on its own task's inputs from one calibration prompt per task, kept over 90% of single-LoRA subject fidelity with nine LoRAs on FLUX.1-dev, above task arithmetic, TIES and DARE applied to the same updates
+# THEORY-1905: Routed LoRA concatenation keeps subject fidelity
 
 ## Source
 

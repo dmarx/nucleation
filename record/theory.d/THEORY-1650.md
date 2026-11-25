@@ -3,7 +3,14 @@ number: 1650
 status: Proposed
 formerly:
 - THEORY-tmp1w39g
-title: 'Dranseika, granting Devanesan that a mereology of pregnancy shapes which analogies an argument about abortion can use without fixing its conclusion, argues that the dependence also runs the other way: normative commitments may legitimately guide the choice among mereological views still in contention, but a mereology chosen partly to fit a commitment gives that commitment no independent support'
+title: 'Mereology fit to a norm can''t support it'
+statement: >-
+  Dranseika, granting Devanesan that a mereology of pregnancy shapes which
+  analogies an argument about abortion can use without fixing its
+  conclusion, argues that the dependence also runs the other way: normative
+  commitments may legitimately guide the choice among mereological views
+  still in contention, but a mereology chosen partly to fit a commitment
+  gives that commitment no independent support
 version: 1
 source:
 - LIT-2427
@@ -28,7 +35,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-2409 — Unavailable; filed from the same exchange -->
 
-# THEORY-1650: Dranseika, granting Devanesan that a mereology of pregnancy shapes which analogies an argument about abortion can use without fixing its conclusion, argues that the dependence also runs the other way: normative commitments may legitimately guide the choice among mereological views still in contention, but a mereology chosen partly to fit a commitment gives that commitment no independent support
+# THEORY-1650: Mereology fit to a norm can't support it
 
 ## The account
 

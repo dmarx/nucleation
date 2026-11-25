@@ -12,7 +12,13 @@ promote_when: >-
   √((1 + θ_i²)(c + θ_i²)/θ_i²) when θ_i > c^(1/4) and to 1 + √c otherwise,
   and that for r = 1 the left singular vector's squared overlap tends to
   1 − c(1 + θ²)/(θ²(θ² + c)) above the threshold and to zero below.
-title: "Benaych-Georges and Nadakuditi show that a large Gaussian rectangular matrix plus a fixed-rank deterministic perturbation has an outlying singular value, and singular vectors correlated with the perturbation's, only for perturbation singular values above the fourth root of the aspect ratio, with closed forms for both above it"
+title: 'Low-rank signal outlies above a fourth-root bar'
+statement: >-
+  Benaych-Georges and Nadakuditi show that a large Gaussian rectangular
+  matrix plus a fixed-rank deterministic perturbation has an outlying
+  singular value, and singular vectors correlated with the perturbation's,
+  only for perturbation singular values above the fourth root of the aspect
+  ratio, with closed forms for both above it
 version: 1
 tags:
 - mathematics
@@ -33,7 +39,7 @@ summary: >-
 <!-- inactive-ok-file: NOTE-2246 — Skimmed; the reading this account is filed from -->
 <!-- inactive-ok-file: CASE-301 CLAIM-827 ARG-135 — Proposed; the entries that use this reading, and the argument of 2026-11-21 -->
 
-# THEORY-2152: Benaych-Georges and Nadakuditi show that a large Gaussian rectangular matrix plus a fixed-rank deterministic perturbation has an outlying singular value, and singular vectors correlated with the perturbation's, only for perturbation singular values above the fourth root of the aspect ratio, with closed forms for both above it
+# THEORY-2152: Low-rank signal outlies above a fourth-root bar
 
 ## Source
 

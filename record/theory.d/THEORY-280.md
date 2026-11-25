@@ -3,7 +3,13 @@ number: 280
 status: Active
 formerly:
 - THEORY-tmprft5t
-title: "The bisimulation metric between two finite Markov chains with observed states and a known cost bounded by 1 can be estimated without a transition model from independent samples of each chain's discounted state-pair occupancy, to accuracy ε with probability 1 − δ from a number of samples polynomial in the state-space sizes, 1/(1−γ), log(1/δ) and 1/ε²"
+title: 'Bisimulation metric estimable without a model'
+statement: >-
+  The bisimulation metric between two finite Markov chains with observed
+  states and a known cost bounded by 1 can be estimated without a transition
+  model from independent samples of each chain's discounted state-pair
+  occupancy, to accuracy ε with probability 1 − δ from a number of samples
+  polynomial in the state-space sizes, 1/(1−γ), log(1/δ) and 1/ε²
 version: 3
 history:
 - version: 2
@@ -49,7 +55,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: QUESTION-008 — Deferred or Proposed; the set-aside question this bears on, and the identification this account inherits, cited as open -->
 
-# THEORY-280: The bisimulation metric between two finite Markov chains with observed states and a known cost bounded by 1 can be estimated without a transition model from independent samples of each chain's discounted state-pair occupancy, to accuracy ε with probability 1 − δ from a number of samples polynomial in the state-space sizes, 1/(1−γ), log(1/δ) and 1/ε²
+# THEORY-280: Bisimulation metric estimable without a model
 
 ## Source
 

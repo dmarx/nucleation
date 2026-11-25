@@ -3,7 +3,15 @@ number: 1443
 status: Active
 formerly:
 - THEORY-tmp8ofc7
-title: 'Wagenbauer, Wachauf and Dietz show that a 42-helix multilayer DNA origami bundle with 5 or 15 of its 207 staples omitted looks the same as the complete object under negative-stain TEM averaging and agarose-gel mobility, while a gel-based fluorescent de Bruijn probe for unpaired bases tells them apart and, across five bundle designs, estimates that complete reactions still leave 44 to 263 of 7,560 bases unpaired, 96.5% to over 99% quality, depending on design and folding schedule'
+title: 'Only a base probe detects missing staples'
+statement: >-
+  Wagenbauer, Wachauf and Dietz show that a 42-helix multilayer DNA origami
+  bundle with 5 or 15 of its 207 staples omitted looks the same as the
+  complete object under negative-stain TEM averaging and agarose-gel
+  mobility, while a gel-based fluorescent de Bruijn probe for unpaired bases
+  tells them apart and, across five bundle designs, estimates that complete
+  reactions still leave 44 to 263 of 7,560 bases unpaired, 96.5% to over 99%
+  quality, depending on design and folding schedule
 version: 2
 history:
 - version: 2
@@ -49,7 +57,7 @@ corroborates:
 - CLAIM-594
 ---
 
-# THEORY-1443: Wagenbauer, Wachauf and Dietz show that a 42-helix multilayer DNA origami bundle with 5 or 15 of its 207 staples omitted looks the same as the complete object under negative-stain TEM averaging and agarose-gel mobility, while a gel-based fluorescent de Bruijn probe for unpaired bases tells them apart and, across five bundle designs, estimates that complete reactions still leave 44 to 263 of 7,560 bases unpaired, 96.5% to over 99% quality, depending on design and folding schedule
+# THEORY-1443: Only a base probe detects missing staples
 
 ## Source
 

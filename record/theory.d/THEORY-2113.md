@@ -3,7 +3,13 @@ number: 2113
 status: Proposed
 formerly:
 - THEORY-tmpjqrp3
-title: 'Grueneisen, Wyman and Tomasello show that six-year-olds use first- and second-order false-belief reasoning to coordinate with a peer without communication, choosing the option their partner falsely believes, or falsely believes they believe, to hold the larger reward, more often than when they choose independently'
+title: 'Six-year-olds coordinate via false beliefs'
+statement: >-
+  Grueneisen, Wyman and Tomasello show that six-year-olds use first- and
+  second-order false-belief reasoning to coordinate with a peer without
+  communication, choosing the option their partner falsely believes, or
+  falsely believes they believe, to hold the larger reward, more often than
+  when they choose independently
 version: 1
 source:
 - LIT-2900
@@ -21,7 +27,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-2113: Grueneisen, Wyman and Tomasello show that six-year-olds use first- and second-order false-belief reasoning to coordinate with a peer without communication, choosing the option their partner falsely believes, or falsely believes they believe, to hold the larger reward, more often than when they choose independently
+# THEORY-2113: Six-year-olds coordinate via false beliefs
 
 ## The account
 

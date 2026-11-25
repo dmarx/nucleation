@@ -21,7 +21,12 @@ promote_when: >-
   intuitive cases, since the account is built from them; or arguments
   that etiological theories handle the swamp lion differently, which
   concern a rival account and not this one's adequacy.
-title: 'A far-from-equilibrium system that contributes to its own maintenance has functions relative to itself, with no history or observer needed, and one that switches among self-maintaining processes has indications of success that can be false by its own lights'
+title: 'Self-maintenance grounds intrinsic function'
+statement: >-
+  A far-from-equilibrium system that contributes to its own maintenance has
+  functions relative to itself, with no history or observer needed, and one
+  that switches among self-maintaining processes has indications of success
+  that can be false by its own lights
 version: 5
 history:
 - version: 2
@@ -87,7 +92,7 @@ bounds:
 ---
 <!-- inactive-ok-file: THEORY-071 THEORY-072 — Proposed; compared, nothing here rests on them -->
 
-# THEORY-220: A far-from-equilibrium system that contributes to its own maintenance has functions relative to itself, with no history or observer needed, and one that switches among self-maintaining processes has indications of success that can be false by its own lights
+# THEORY-220: Self-maintenance grounds intrinsic function
 
 ## Source
 

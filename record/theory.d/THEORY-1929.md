@@ -3,7 +3,13 @@ number: 1929
 status: Proposed
 formerly:
 - THEORY-tmpej5sl
-title: 'Mazinani and O''Connor''s review of eight meta-analyses finds the most consistent and largest risk markers for physical intimate partner violence in the relationship context, prior aggression, emotional abuse and dissatisfaction, and holds that analysing violence dyadically implies neither symmetric control nor shared responsibility'
+title: 'Relationship factors best predict physical IPV'
+statement: >-
+  Mazinani and O'Connor's review of eight meta-analyses finds the most
+  consistent and largest risk markers for physical intimate partner violence
+  in the relationship context, prior aggression, emotional abuse and
+  dissatisfaction, and holds that analysing violence dyadically implies
+  neither symmetric control nor shared responsibility
 version: 2
 history:
 - version: 2
@@ -35,7 +41,7 @@ corroborates:
 ---
 <!-- unresolved-ok-file: THEORY-tmpaul2b — removed at the reconciliation of 2026-11-18; named for provenance -->
 <!-- inactive-ok-file: CLAIM-709 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
-# THEORY-1929: Mazinani and O'Connor's review of eight meta-analyses finds the most consistent and largest risk markers for physical intimate partner violence in the relationship context, prior aggression, emotional abuse and dissatisfaction, and holds that analysing violence dyadically implies neither symmetric control nor shared responsibility
+# THEORY-1929: Relationship factors best predict physical IPV
 
 ## Source
 

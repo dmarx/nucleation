@@ -23,7 +23,12 @@ promote_when: >-
   evidence. What cannot settle it: a good fit of the full model with all
   parameters free in every condition, since a flexible model absorbs
   anything; the test is which parameter moves.
-title: 'In evidence-accumulation tasks, goals and instructions act on a decision by setting the parameters of the accumulation (drift, starting point or baseline, and threshold), not by specifying the response, and this holds for when to act as well as for which'
+title: 'Goals set accumulation parameters, not responses'
+statement: >-
+  In evidence-accumulation tasks, goals and instructions act on a decision
+  by setting the parameters of the accumulation (drift, starting point or
+  baseline, and threshold), not by specifying the response, and this holds
+  for when to act as well as for which
 version: 1
 tags:
 - behavioral-integration
@@ -52,7 +57,7 @@ bears_on:
 <!-- inactive-ok-file: LIT-600 LIT-604 — Unavailable, unread; Norman & Shallice and Carver & Scheier named as the older traditions, not leaned on -->
 <!-- inactive-ok-file: THEORY-059 THEORY-070 — Proposed; companion accounts in this batch, named for what each adds -->
 
-# THEORY-061: In evidence-accumulation tasks, goals and instructions act on a decision by setting the parameters of the accumulation (drift, starting point or baseline, and threshold), not by specifying the response, and this holds for when to act as well as for which
+# THEORY-061: Goals set accumulation parameters, not responses
 
 ## Source
 

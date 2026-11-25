@@ -3,7 +3,16 @@ number: 2071
 status: Proposed
 formerly:
 - THEORY-tmpk9cmk
-title: 'Hu, Petty, Shi, Merrill and Linzen report that a short first phase of training on a formal language with hierarchical dependencies, before natural-language pretraining, lowers the natural-language tokens a transformer needs to reach a given loss, counting the first phase''s tokens, by a third at 1B parameters against no first phase; that the copy language and random strings raise that cost; and that attention heads found by pruning after the first phase remain more important than random heads after natural-language training'
+title: 'Formal-language pre-pretraining saves tokens'
+statement: >-
+  Hu, Petty, Shi, Merrill and Linzen report that a short first phase of
+  training on a formal language with hierarchical dependencies, before
+  natural-language pretraining, lowers the natural-language tokens a
+  transformer needs to reach a given loss, counting the first phase's
+  tokens, by a third at 1B parameters against no first phase; that the copy
+  language and random strings raise that cost; and that attention heads
+  found by pruning after the first phase remain more important than random
+  heads after natural-language training
 version: 1
 source:
 - LIT-2871
@@ -28,7 +37,7 @@ summary: >-
   Proposed until its promote_when is met.
 ---
 
-# THEORY-2071: Hu, Petty, Shi, Merrill and Linzen report that a short first phase of training on a formal language with hierarchical dependencies, before natural-language pretraining, lowers the natural-language tokens a transformer needs to reach a given loss, counting the first phase's tokens, by a third at 1B parameters against no first phase; that the copy language and random strings raise that cost; and that attention heads found by pruning after the first phase remain more important than random heads after natural-language training
+# THEORY-2071: Formal-language pre-pretraining saves tokens
 
 ## The account
 

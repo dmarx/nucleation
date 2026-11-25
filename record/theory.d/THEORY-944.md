@@ -3,7 +3,13 @@ number: 944
 status: Active
 formerly:
 - THEORY-tmpxh6cj
-title: "The value of the zero-sum game between two populations' evaluation matrices does not depend on which Nash equilibrium is used, is unchanged by adding agents that behave as mixtures of existing members, and is not positive for a population whose agents are all behavioural mixtures of the other's"
+title: 'Population Nash value is equilibrium-independent'
+statement: >-
+  The value of the zero-sum game between two populations' evaluation
+  matrices does not depend on which Nash equilibrium is used, is unchanged
+  by adding agents that behave as mixtures of existing members, and is not
+  positive for a population whose agents are all behavioural mixtures of the
+  other's
 version: 3
 history:
 - version: 2
@@ -53,7 +59,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: CLAIM-451 — Proposed; named in prose, nothing here rests on it -->
 
-# THEORY-944: The value of the zero-sum game between two populations' evaluation matrices does not depend on which Nash equilibrium is used, is unchanged by adding agents that behave as mixtures of existing members, and is not positive for a population whose agents are all behavioural mixtures of the other's
+# THEORY-944: Population Nash value is equilibrium-independent
 
 ## Source
 

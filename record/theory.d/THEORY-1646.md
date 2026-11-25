@@ -12,7 +12,12 @@ promote_when: >-
   system". The title reports a definition and a concession; whether the
   measure tracks meaning, or picks out agents, is not asserted and cannot
   settle it either way.
-title: "Kolchinsky and Wolpert define a system's semantic information as the part of its syntactic information about its environment that is causally necessary for it to keep existing, found by scrambling the environment until viability falls, with the viability function chosen by the analyst"
+title: 'Semantic information is what viability needs'
+statement: >-
+  Kolchinsky and Wolpert define a system's semantic information as the part
+  of its syntactic information about its environment that is causally
+  necessary for it to keep existing, found by scrambling the environment
+  until viability falls, with the viability function chosen by the analyst
 version: 1
 history:
 - version: 1
@@ -36,7 +41,7 @@ bears_on:
 - QUESTION-285
 ---
 
-# THEORY-1646: Kolchinsky and Wolpert define a system's semantic information as the part of its syntactic information about its environment that is causally necessary for it to keep existing, found by scrambling the environment until viability falls, with the viability function chosen by the analyst
+# THEORY-1646: Semantic information is what viability needs
 
 Kolchinsky and Wolpert (2018), [LIT-1149](../literature.d/LIT-1149.md), read in full in [NOTE-1370](../notes.d/NOTE-1370.md).
 

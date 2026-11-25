@@ -3,7 +3,14 @@ number: 946
 status: Active
 formerly:
 - THEORY-tmpzogk3
-title: "In the zero-sum meta-game on an antisymmetric evaluation matrix the maximum-entropy Nash equilibrium is unique; when the meta-game has only one Nash equilibrium, adding exact copies of an agent splits that agent's mass evenly and leaves every Nash average unchanged; the equilibrium is uniform exactly when every agent's mean log-odds is zero, and uniform on the top-rated agents when the matrix is a pure gradient"
+title: 'Max-entropy Nash average ignores agent copies'
+statement: >-
+  In the zero-sum meta-game on an antisymmetric evaluation matrix the
+  maximum-entropy Nash equilibrium is unique; when the meta-game has only
+  one Nash equilibrium, adding exact copies of an agent splits that agent's
+  mass evenly and leaves every Nash average unchanged; the equilibrium is
+  uniform exactly when every agent's mean log-odds is zero, and uniform on
+  the top-rated agents when the matrix is a pure gradient
 version: 3
 history:
 - version: 2
@@ -53,7 +60,7 @@ bears_on:
 - QUESTION-271
 ---
 
-# THEORY-946: In the zero-sum meta-game on an antisymmetric evaluation matrix the maximum-entropy Nash equilibrium is unique; when the meta-game has only one Nash equilibrium, adding exact copies of an agent splits that agent's mass evenly and leaves every Nash average unchanged; the equilibrium is uniform exactly when every agent's mean log-odds is zero, and uniform on the top-rated agents when the matrix is a pure gradient
+# THEORY-946: Max-entropy Nash average ignores agent copies
 
 ## Source
 

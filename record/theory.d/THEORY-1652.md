@@ -3,7 +3,15 @@ number: 1652
 status: Proposed
 formerly:
 - THEORY-tmp378u2
-title: 'Reisinger and Cederroth (2026) argue that the FDA''s approval of the OTOF gene therapy Otarmeni makes genetic diagnosis of infants with bilateral hearing loss necessary before cochlear implantation, because the therapy is gene-specific and time-sensitive, while outcomes remain incomplete (a quarter of trial children reached normal pure-tone hearing) and families who choose or decline it, and the Deaf community''s perspectives, need support and attention.'
+title: 'OTOF therapy makes infant genetic testing needed'
+statement: >-
+  Reisinger and Cederroth (2026) argue that the FDA's approval of the OTOF
+  gene therapy Otarmeni makes genetic diagnosis of infants with bilateral
+  hearing loss necessary before cochlear implantation, because the therapy
+  is gene-specific and time-sensitive, while outcomes remain incomplete (a
+  quarter of trial children reached normal pure-tone hearing) and families
+  who choose or decline it, and the Deaf community's perspectives, need
+  support and attention.
 version: 1
 source:
 - LIT-2366
@@ -29,7 +37,7 @@ summary: >-
   before a cochlear implant.
 ---
 
-# THEORY-1652: Reisinger and Cederroth (2026) argue that the FDA's approval of the OTOF gene therapy Otarmeni makes genetic diagnosis of infants with bilateral hearing loss necessary before cochlear implantation, because the therapy is gene-specific and time-sensitive, while outcomes remain incomplete (a quarter of trial children reached normal pure-tone hearing) and families who choose or decline it, and the Deaf community's perspectives, need support and attention.
+# THEORY-1652: OTOF therapy makes infant genetic testing needed
 
 ## The account
 

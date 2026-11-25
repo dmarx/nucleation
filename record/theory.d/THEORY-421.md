@@ -3,7 +3,14 @@ number: 421
 status: Active
 formerly:
 - THEORY-tmp2ngm5
-title: "In HGCN embeddings of two synthetic 3-ary trees trained for link prediction or node classification, distance from the origin is only a partial reading of hierarchical level: the root is not innermost (distance 1.8–3.3 against a minimum of 1.2–2.4) and level order is recovered for 69–75% of node pairs; a loss built only on pairwise distances leaves the origin arbitrary"
+title: 'Hyperbolic radius only partly reads hierarchy'
+statement: >-
+  In HGCN embeddings of two synthetic 3-ary trees trained for link
+  prediction or node classification, distance from the origin is only a
+  partial reading of hierarchical level: the root is not innermost (distance
+  1.8–3.3 against a minimum of 1.2–2.4) and level order is recovered for
+  69–75% of node pairs; a loss built only on pairwise distances leaves the
+  origin arbitrary
 version: 3
 history:
 - version: 2
@@ -50,7 +57,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-825 — Proposed; the general claim this measurement was narrowed from, filed to carry it -->
 <!-- inactive-ok-file: THEORY-196 — Proposed; other encodings of hierarchy and the paper this one tests, named in Connections, not leaned on -->
 
-# THEORY-421: In HGCN embeddings of two synthetic 3-ary trees trained for link prediction or node classification, distance from the origin is only a partial reading of hierarchical level: the root is not innermost (distance 1.8–3.3 against a minimum of 1.2–2.4) and level order is recovered for 69–75% of node pairs; a loss built only on pairwise distances leaves the origin arbitrary
+# THEORY-421: Hyperbolic radius only partly reads hierarchy
 
 ## Source
 

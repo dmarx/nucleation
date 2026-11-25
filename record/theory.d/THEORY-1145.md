@@ -14,7 +14,16 @@ promote_when: >-
   aligners alike, beyond what the language pair alone predicts. It is
   refuted if one aligner succeeds where the measure says the spaces are
   far apart, or if most failures disappear with restarts.
-title: 'Unsupervised alignment of two monolingual word-embedding spaces recovers translations only where the spaces are close to isometric, and the distance from isometry depends on the corpora and the embedding algorithm as well as on the languages: adversarial alignment fails for English with Estonian or Finnish, across corpus domains, and between skip-gram and CBOW spaces of the same language pair, GW alignment is weakest on the same Finnish pair, and a spectral dissimilarity of small nearest-neighbour graphs tracks success'
+title: 'Unsupervised alignment needs near-isometric spaces'
+statement: >-
+  Unsupervised alignment of two monolingual word-embedding spaces recovers
+  translations only where the spaces are close to isometric, and the
+  distance from isometry depends on the corpora and the embedding algorithm
+  as well as on the languages: adversarial alignment fails for English with
+  Estonian or Finnish, across corpus domains, and between skip-gram and CBOW
+  spaces of the same language pair, GW alignment is weakest on the same
+  Finnish pair, and a spectral dissimilarity of small nearest-neighbour
+  graphs tracks success
 version: 1
 tags:
 - translation
@@ -34,7 +43,7 @@ summary: >-
   words mean the same.
 ---
 
-# THEORY-1145: Unsupervised alignment of two monolingual word-embedding spaces recovers translations only where the spaces are close to isometric, and the distance from isometry depends on the corpora and the embedding algorithm as well as on the languages: adversarial alignment fails for English with Estonian or Finnish, across corpus domains, and between skip-gram and CBOW spaces of the same language pair, GW alignment is weakest on the same Finnish pair, and a spectral dissimilarity of small nearest-neighbour graphs tracks success
+# THEORY-1145: Unsupervised alignment needs near-isometric spaces
 
 ## Source
 

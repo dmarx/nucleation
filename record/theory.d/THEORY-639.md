@@ -3,7 +3,14 @@ number: 639
 status: Active
 formerly:
 - THEORY-tmpten7m
-title: "Inductive risk arises not only when a hypothesis is accepted but in choosing a significance level, in characterising data and in interpreting results: in the dioxin cancer studies each of these choices traded false positives against false negatives, three panels scored the same rat-liver slides differently, and threshold and no-threshold readings of the same data underlie regulatory limits about 100 times apart"
+title: 'Inductive risk pervades the whole inquiry'
+statement: >-
+  Inductive risk arises not only when a hypothesis is accepted but in
+  choosing a significance level, in characterising data and in interpreting
+  results: in the dioxin cancer studies each of these choices traded false
+  positives against false negatives, three panels scored the same rat-liver
+  slides differently, and threshold and no-threshold readings of the same
+  data underlie regulatory limits about 100 times apart
 version: 1
 tags:
 - philosophy-of-science
@@ -23,7 +30,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-442 — Proposed; the normative claim built on this finding, filed in the same batch -->
 
-# THEORY-639: Inductive risk arises not only when a hypothesis is accepted but in choosing a significance level, in characterising data and in interpreting results: in the dioxin cancer studies each of these choices traded false positives against false negatives, three panels scored the same rat-liver slides differently, and threshold and no-threshold readings of the same data underlie regulatory limits about 100 times apart
+# THEORY-639: Inductive risk pervades the whole inquiry
 
 ## Source
 

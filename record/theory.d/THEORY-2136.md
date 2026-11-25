@@ -9,7 +9,14 @@ promote_when: >-
   (11)–(12) are the duality maps of the composite and tuple norms, and a
   check that iteration (15) maps every singular value in (0, √3) to 1 in
   the limit.
-title: 'Bernstein and Newhouse construct a duality map for general networks by assigning each layer an operator norm and inducing a map recursively through the modular norm; for a linear layer under the RMS→RMS norm it sends a gradient UΣVᵀ to √(d_out/d_in)·UVᵀ, an update whose singular values all have the same magnitude, approximated by a Newton–Schulz iteration that converges to UVᵀ'
+title: 'Duality map orthogonalizes linear-layer gradients'
+statement: >-
+  Bernstein and Newhouse construct a duality map for general networks by
+  assigning each layer an operator norm and inducing a map recursively
+  through the modular norm; for a linear layer under the RMS→RMS norm it
+  sends a gradient UΣVᵀ to √(d_out/d_in)·UVᵀ, an update whose singular
+  values all have the same magnitude, approximated by a Newton–Schulz
+  iteration that converges to UVᵀ
 version: 1
 tags:
 - learning-theory
@@ -26,7 +33,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-186 — Proposed; cited in the readings of 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-774 THEORY-2138 THEORY-2139 — Proposed, Deferred or new; filed in this contribution of 2026-11-21 or the ones it builds on -->
 
-# THEORY-2136: Bernstein and Newhouse construct a duality map for general networks by assigning each layer an operator norm and inducing a map recursively through the modular norm; for a linear layer under the RMS→RMS norm it sends a gradient UΣVᵀ to √(d_out/d_in)·UVᵀ, an update whose singular values all have the same magnitude, approximated by a Newton–Schulz iteration that converges to UVᵀ
+# THEORY-2136: Duality map orthogonalizes linear-layer gradients
 
 ## Source
 

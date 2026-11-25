@@ -3,7 +3,13 @@ number: 1434
 status: Active
 formerly:
 - THEORY-tmpykyk4
-title: 'Raussen shows that for a concurrent PV program on shared resources of given capacities, a spare capacity computed from the program text bounds from below the connectivity of every space of executions to the target, so that spare capacity zero marks deadlocks, at least one excludes them, and at least two makes all executions equivalent'
+title: 'Spare capacity bounds deadlock in PV programs'
+statement: >-
+  Raussen shows that for a concurrent PV program on shared resources of
+  given capacities, a spare capacity computed from the program text bounds
+  from below the connectivity of every space of executions to the target, so
+  that spare capacity zero marks deadlocks, at least one excludes them, and
+  at least two makes all executions equivalent
 version: 2
 history:
 - version: 2
@@ -39,7 +45,7 @@ summary: >-
 corroborates:
 - CLAIM-591
 ---
-# THEORY-1434: Raussen shows that for a concurrent PV program on shared resources of given capacities, a spare capacity computed from the program text bounds from below the connectivity of every space of executions to the target, so that spare capacity zero marks deadlocks, at least one excludes them, and at least two makes all executions equivalent
+# THEORY-1434: Spare capacity bounds deadlock in PV programs
 
 ## Source
 

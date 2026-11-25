@@ -3,7 +3,10 @@ number: 1786
 status: Proposed
 formerly:
 - THEORY-tmpqb5z0
-title: 'The TRACE-OU-Bench card (2026) describes 620 LLM-generated ontology-update proposals from SEC 10-Q filings of 2016–2026'
+title: '620 LLM ontology updates from 10-Q filings'
+statement: >-
+  The TRACE-OU-Bench card (2026) describes 620 LLM-generated ontology-update
+  proposals from SEC 10-Q filings of 2016–2026
 version: 1
 tags:
 - learning-theory
@@ -22,7 +25,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-1786: The TRACE-OU-Bench card (2026) describes 620 LLM-generated ontology-update proposals from SEC 10-Q filings of 2016–2026
+# THEORY-1786: 620 LLM ontology updates from 10-Q filings
 
 ## The account
 

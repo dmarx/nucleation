@@ -3,7 +3,16 @@ number: 1352
 status: Active
 formerly:
 - THEORY-tmpmr4g4
-title: 'In Van Lange and Bergmann''s model, human cooperation is readily sustained between individuals, above all in dyads, through precise reciprocity, empathy and a partner who cannot be excluded at no cost, and is fragile between groups: categorization alone yields mistrust and in-group favouritism by bounded reciprocity, observed out-group favouritism hardens it into distrust, and chiefly negative interdependence, real or perceived, turns that into costly competition, aggression and hate, so that the processes that build in-group cooperation can fuel intergroup conflict'
+title: 'Cooperation holds in dyads, frays between groups'
+statement: >-
+  In Van Lange and Bergmann's model, human cooperation is readily sustained
+  between individuals, above all in dyads, through precise reciprocity,
+  empathy and a partner who cannot be excluded at no cost, and is fragile
+  between groups: categorization alone yields mistrust and in-group
+  favouritism by bounded reciprocity, observed out-group favouritism hardens
+  it into distrust, and chiefly negative interdependence, real or perceived,
+  turns that into costly competition, aggression and hate, so that the
+  processes that build in-group cooperation can fuel intergroup conflict
 version: 2
 history:
 - version: 2
@@ -53,7 +62,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1529 — Proposed or new; the thesis filed beside this report, cited as open -->
 
-# THEORY-1352: In Van Lange and Bergmann's model, human cooperation is readily sustained between individuals, above all in dyads, through precise reciprocity, empathy and a partner who cannot be excluded at no cost, and is fragile between groups: categorization alone yields mistrust and in-group favouritism by bounded reciprocity, observed out-group favouritism hardens it into distrust, and chiefly negative interdependence, real or perceived, turns that into costly competition, aggression and hate, so that the processes that build in-group cooperation can fuel intergroup conflict
+# THEORY-1352: Cooperation holds in dyads, frays between groups
 
 ## Source
 

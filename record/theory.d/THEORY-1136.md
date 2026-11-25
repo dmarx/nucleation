@@ -14,7 +14,16 @@ promote_when: >-
   non-linear registration beats both. It is refuted if GW matches the
   non-linear registration, which would make the failure a wrong choice
   of invariance class rather than distortion.
-title: 'Poincaré embeddings of one hierarchy from different random seeds differ by more than an isometry of the hyperbolic ball, with branches placed differently and pairwise distances changed, so aligners that allow only a global orthogonal or Möbius map recover almost none of the correspondence, while a non-linear registration by a hyperbolic neural network, trained through a Sinkhorn divergence and started from a pretraining step, recovers a substantial part of it but finds the exact match for under a quarter of items even when the two hierarchies are identical'
+title: 'Poincaré embeddings differ by more than isometry'
+statement: >-
+  Poincaré embeddings of one hierarchy from different random seeds differ by
+  more than an isometry of the hyperbolic ball, with branches placed
+  differently and pairwise distances changed, so aligners that allow only a
+  global orthogonal or Möbius map recover almost none of the correspondence,
+  while a non-linear registration by a hyperbolic neural network, trained
+  through a Sinkhorn divergence and started from a pretraining step,
+  recovers a substantial part of it but finds the exact match for under a
+  quarter of items even when the two hierarchies are identical
 version: 1
 tags:
 - representation-learning
@@ -31,7 +40,7 @@ summary: >-
   preserves the hierarchy's direction, which it does not enforce.
 ---
 
-# THEORY-1136: Poincaré embeddings of one hierarchy from different random seeds differ by more than an isometry of the hyperbolic ball, with branches placed differently and pairwise distances changed, so aligners that allow only a global orthogonal or Möbius map recover almost none of the correspondence, while a non-linear registration by a hyperbolic neural network, trained through a Sinkhorn divergence and started from a pretraining step, recovers a substantial part of it but finds the exact match for under a quarter of items even when the two hierarchies are identical
+# THEORY-1136: Poincaré embeddings differ by more than isometry
 
 ## Source
 

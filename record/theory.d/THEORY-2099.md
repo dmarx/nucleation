@@ -3,7 +3,14 @@ number: 2099
 status: Proposed
 formerly:
 - THEORY-tmp68snm
-title: 'Recht argues that the mathematical rationality built with the first computers, which casts every decision under uncertainty as maximising expected utility under a probability model, is valid only in narrow settings such as regulation and engineering, so that outsourcing most decisions, political or value-laden ones above all, to computation built on it is itself irrational'
+title: 'Computing value-laden decisions is irrational'
+statement: >-
+  Recht argues that the mathematical rationality built with the first
+  computers, which casts every decision under uncertainty as maximising
+  expected utility under a probability model, is valid only in narrow
+  settings such as regulation and engineering, so that outsourcing most
+  decisions, political or value-laden ones above all, to computation built
+  on it is itself irrational
 version: 1
 source:
 - LIT-2918
@@ -21,7 +28,7 @@ summary: >-
   [LIT-2917](../literature.d/LIT-2917.md). Proposed until its promote_when is met.
 ---
 
-# THEORY-2099: Recht argues that the mathematical rationality built with the first computers, which casts every decision under uncertainty as maximising expected utility under a probability model, is valid only in narrow settings such as regulation and engineering, so that outsourcing most decisions, political or value-laden ones above all, to computation built on it is itself irrational
+# THEORY-2099: Computing value-laden decisions is irrational
 
 ## The account
 

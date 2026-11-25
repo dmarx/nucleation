@@ -3,7 +3,16 @@ number: 860
 status: Active
 formerly:
 - THEORY-tmpwiydx
-title: 'In Szeidl and Szucs''s model of two outlets competing for readers and advertisers, where state-owned advertisers reward only the connected outlet''s slant, with weight δ, every equilibrium has the slant gap between the connected and the unconnected outlet equal to their owners'' ideal-point gap plus a favor-exchange term (βδ/NT)·Σ over government advertisers of masⱼWⱼ, up to measurement noise; readers'' preference for slant cancels from the gap, so equal observed gaps can come from different mixes of ideology and exchange'
+title: 'Slant gap is ideology gap plus favor exchange'
+statement: >-
+  In Szeidl and Szucs's model of two outlets competing for readers and
+  advertisers, where state-owned advertisers reward only the connected
+  outlet's slant, with weight δ, every equilibrium has the slant gap between
+  the connected and the unconnected outlet equal to their owners'
+  ideal-point gap plus a favor-exchange term (βδ/NT)·Σ over government
+  advertisers of masⱼWⱼ, up to measurement noise; readers' preference for
+  slant cancels from the gap, so equal observed gaps can come from different
+  mixes of ideology and exchange
 version: 3
 history:
 - version: 1
@@ -48,7 +57,7 @@ corroborates:
 - CLAIM-407
 ---
 
-# THEORY-860: In Szeidl and Szucs's model of two outlets competing for readers and advertisers, where state-owned advertisers reward only the connected outlet's slant, with weight δ, every equilibrium has the slant gap between the connected and the unconnected outlet equal to their owners' ideal-point gap plus a favor-exchange term (βδ/NT)·Σ over government advertisers of masⱼWⱼ, up to measurement noise; readers' preference for slant cancels from the gap, so equal observed gaps can come from different mixes of ideology and exchange
+# THEORY-860: Slant gap is ideology gap plus favor exchange
 
 ## Source
 

@@ -23,7 +23,12 @@ promote_when: >-
   relabelling of the regulators. What cannot settle it: more reports
   that dACC responds to conflict, errors, pain or reward, which every
   account of dACC accommodates.
-title: 'How much cognitive control to exert, and on what, is decided by a cost-benefit computation (the expected value of control) in a specification system distinct from the structures that implement the control'
+title: 'Control allocation is a cost-benefit computation'
+statement: >-
+  How much cognitive control to exert, and on what, is decided by a
+  cost-benefit computation (the expected value of control) in a
+  specification system distinct from the structures that implement the
+  control
 version: 1
 tags:
 - behavioral-integration
@@ -52,7 +57,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-067 THEORY-062 THEORY-061 — new in this batch; accounts this one is set beside -->
 <!-- inactive-ok-file: CASE-382 CLAIM-981 — new on 2026-11-22; the cost-side fit and its finding, cited in the note of 2026-11-22 -->
 
-# THEORY-070: How much cognitive control to exert, and on what, is decided by a cost-benefit computation (the expected value of control) in a specification system distinct from the structures that implement the control
+# THEORY-070: Control allocation is a cost-benefit computation
 
 ## Source
 

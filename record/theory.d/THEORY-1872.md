@@ -16,7 +16,14 @@ promote_when: >-
   survive, the account holds as stated. If they vanish, the effect
   depends on the arbitrary index order and the title's "low frequencies"
   name nothing about the updates themselves.
-title: 'Zheng and Wang: for models fine-tuned from one pretrained start, the 2D Fourier spectra, taken over the row and column order of each weight matrix, of different tasks'' weight updates differ most in amplitude at low frequencies, that difference goes with lower merged accuracy, and removing the low frequencies from each update before adding them improves data-free merging over task arithmetic and TIES'
+title: 'Low-frequency update gaps hurt merging'
+statement: >-
+  Zheng and Wang: for models fine-tuned from one pretrained start, the 2D
+  Fourier spectra, taken over the row and column order of each weight
+  matrix, of different tasks' weight updates differ most in amplitude at low
+  frequencies, that difference goes with lower merged accuracy, and removing
+  the low frequencies from each update before adding them improves data-free
+  merging over task arithmetic and TIES
 version: 1
 tags:
 - loss-landscapes
@@ -38,7 +45,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-107 THEORY-1874 THEORY-1898 — new tmp codes, or Proposed; source, reading and neighbouring accounts, named and not leaned on -->
 
-# THEORY-1872: Zheng and Wang: for models fine-tuned from one pretrained start, the 2D Fourier spectra, taken over the row and column order of each weight matrix, of different tasks' weight updates differ most in amplitude at low frequencies, that difference goes with lower merged accuracy, and removing the low frequencies from each update before adding them improves data-free merging over task arithmetic and TIES
+# THEORY-1872: Low-frequency update gaps hurt merging
 
 ## Source
 

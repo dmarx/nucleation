@@ -9,7 +9,15 @@ promote_when: >-
   between exercising rights and defining future ones (p. 251), the
   constitutional level (n. 2), and Table 1 with its four positions (p. 252).
   The empirical claims about Maine lobster grounds are not asserted.
-title: 'Schlager and Ostrom propose that property rights in a common-pool resource unbundle into rights of access and withdrawal at the operational level and of management, exclusion and alienation at the collective-choice level, the latter being authority to define future operational rights, that the five are independent but usually held cumulatively as the positions of authorized user, claimant, proprietor and owner, and that a constitutional level devises the collective-choice rules'
+title: 'Property rights unbundle into five rights'
+statement: >-
+  Schlager and Ostrom propose that property rights in a common-pool resource
+  unbundle into rights of access and withdrawal at the operational level and
+  of management, exclusion and alienation at the collective-choice level,
+  the latter being authority to define future operational rights, that the
+  five are independent but usually held cumulatively as the positions of
+  authorized user, claimant, proprietor and owner, and that a constitutional
+  level devises the collective-choice rules
 version: 1
 tags:
 - society-and-governance
@@ -33,7 +41,7 @@ summary: >-
   reader's; adopting it is the owner's call.
 ---
 
-# THEORY-1957: Schlager and Ostrom propose that property rights in a common-pool resource unbundle into rights of access and withdrawal at the operational level and of management, exclusion and alienation at the collective-choice level, the latter being authority to define future operational rights, that the five are independent but usually held cumulatively as the positions of authorized user, claimant, proprietor and owner, and that a constitutional level devises the collective-choice rules
+# THEORY-1957: Property rights unbundle into five rights
 
 Schlager & Ostrom (1992), [LIT-2761](../literature.d/LIT-2761.md).
 

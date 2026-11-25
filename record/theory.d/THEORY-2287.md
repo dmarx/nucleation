@@ -3,7 +3,14 @@ number: 2287
 status: Active
 formerly:
 - THEORY-tmpac7iw
-title: "On Chesson's account of MacArthur's consumer-resource model, the ratio of interspecific to intraspecific competition is a niche overlap, a weighted cosine of two species' consumption vectors, times a ratio of average fitnesses, so the two coexist, each recovering from low density, exactly when their fitness ratio lies strictly between the overlap and its reciprocal"
+title: 'Coexistence needs fitness ratio within overlap'
+statement: >-
+  On Chesson's account of MacArthur's consumer-resource model, the ratio of
+  interspecific to intraspecific competition is a niche overlap, a weighted
+  cosine of two species' consumption vectors, times a ratio of average
+  fitnesses, so the two coexist, each recovering from low density, exactly
+  when their fitness ratio lies strictly between the overlap and its
+  reciprocal
 version: 2
 history:
 - version: 1
@@ -57,7 +64,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-1826 LIT-1219 — Unfetched and Unavailable; the 1990 paper the source stands in for, and the 2000 review it cites, not read -->
 
-# THEORY-2287: On Chesson's account of MacArthur's consumer-resource model, the ratio of interspecific to intraspecific competition is a niche overlap, a weighted cosine of two species' consumption vectors, times a ratio of average fitnesses, so the two coexist, each recovering from low density, exactly when their fitness ratio lies strictly between the overlap and its reciprocal
+# THEORY-2287: Coexistence needs fitness ratio within overlap
 
 Chesson (2011), [LIT-3154](../literature.d/LIT-3154.md), read in [NOTE-2380](../notes.d/NOTE-2380.md), restating Chesson
 (1990), [LIT-1826](../literature.d/LIT-1826.md), which was not reached.

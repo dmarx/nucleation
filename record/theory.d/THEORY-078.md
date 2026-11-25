@@ -17,7 +17,12 @@ promote_when: >-
   cannot settle it, since their outliers carry the residual term as well.
   Neither can further measurements under the deterministic protocol of
   LIT-617, which the existing evidence already covers.
-title: "The top C eigenvalues of a trained C-class classifier's Fisher are carried by the second moment of its class-mean logit derivatives, so a cut at the bulk edge keeps the span of the class means, and they stand clear of the bulk to the extent between-class separation exceeds within-class variation"
+title: 'Top Fisher eigenvalues span the class means'
+statement: >-
+  The top C eigenvalues of a trained C-class classifier's Fisher are carried
+  by the second moment of its class-mean logit derivatives, so a cut at the
+  bulk edge keeps the span of the class means, and they stand clear of the
+  bulk to the extent between-class separation exceeds within-class variation
 version: 2
 history:
 - version: 2
@@ -63,7 +68,7 @@ corroborates:
 
 <!-- inactive-ok-file: THEORY-085 THEORY-084 — Proposed; named in Connections, nothing here rests on them -->
 
-# THEORY-078: The top C eigenvalues of a trained C-class classifier's Fisher are carried by the second moment of its class-mean logit derivatives, so a cut at the bulk edge keeps the span of the class means, and they stand clear of the bulk to the extent between-class separation exceeds within-class variation
+# THEORY-078: Top Fisher eigenvalues span the class means
 
 ## Source
 

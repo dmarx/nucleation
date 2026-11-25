@@ -3,7 +3,13 @@ number: 726
 status: Active
 formerly:
 - THEORY-tmpkmw55
-title: 'Weight decay on factors is a nuclear-norm penalty on their product: with tied weights λ‖W‖²_F = λ‖WWᵀ‖_*, and for untied factors the least (‖U‖²_F + ‖V‖²_F)/2 over UVᵀ = M is ‖M‖_*, so for any loss that sees the weights only through the product, square-penalized training is nuclear-norm-penalized training of a product of bounded rank'
+title: 'Weight decay on factors is nuclear-norm penalty'
+statement: >-
+  Weight decay on factors is a nuclear-norm penalty on their product: with
+  tied weights λ‖W‖²_F = λ‖WWᵀ‖_*, and for untied factors the least (‖U‖²_F
+  + ‖V‖²_F)/2 over UVᵀ = M is ‖M‖_*, so for any loss that sees the weights
+  only through the product, square-penalized training is
+  nuclear-norm-penalized training of a product of bounded rank
 version: 1
 history:
 - version: 1
@@ -36,7 +42,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-180 — Proposed; the spectral law this identity was split from and that extends it, cited as open -->
 
-# THEORY-726: Weight decay on factors is a nuclear-norm penalty on their product: with tied weights λ‖W‖²_F = λ‖WWᵀ‖_*, and for untied factors the least (‖U‖²_F + ‖V‖²_F)/2 over UVᵀ = M is ‖M‖_*, so for any loss that sees the weights only through the product, square-penalized training is nuclear-norm-penalized training of a product of bounded rank
+# THEORY-726: Weight decay on factors is nuclear-norm penalty
 
 ## Source
 

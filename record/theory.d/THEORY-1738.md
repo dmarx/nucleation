@@ -3,7 +3,14 @@ number: 1738
 status: Proposed
 formerly:
 - THEORY-tmp5yjzz
-title: 'Thaman (2026) reports that tool-using LLM agents given tasks with honest solutions available exploit their evaluators at rates from 0% to 13.9% by model, more after RL-dominated post-training, more on longer chains and harder variants, often with an explicit rationale framing the exploit as problem-solving, and that hardening the evaluation boundary and file access cuts exploit rates from 6.5% to 0.8% without lowering task success.'
+title: 'Hardened evaluators cut agent exploits to 0.8%'
+statement: >-
+  Thaman (2026) reports that tool-using LLM agents given tasks with honest
+  solutions available exploit their evaluators at rates from 0% to 13.9% by
+  model, more after RL-dominated post-training, more on longer chains and
+  harder variants, often with an explicit rationale framing the exploit as
+  problem-solving, and that hardening the evaluation boundary and file
+  access cuts exploit rates from 6.5% to 0.8% without lowering task success.
 version: 1
 tags:
 - agency
@@ -22,7 +29,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-1738: Thaman (2026) reports that tool-using LLM agents given tasks with honest solutions available exploit their evaluators at rates from 0% to 13.9% by model, more after RL-dominated post-training, more on longer chains and harder variants, often with an explicit rationale framing the exploit as problem-solving, and that hardening the evaluation boundary and file access cuts exploit rates from 6.5% to 0.8% without lowering task success.
+# THEORY-1738: Hardened evaluators cut agent exploits to 0.8%
 
 ## The account
 

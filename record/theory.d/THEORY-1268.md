@@ -3,7 +3,15 @@ number: 1268
 status: Active
 formerly:
 - THEORY-tmpnaoak
-title: 'In a nonequilibrium steady state of a thermodynamically consistent Markov jump network, the entropy produced while a current is counted, times the squared relative uncertainty of that count, is at least 2k_B, independent of the counting time, so a current precise to ε costs at least 2k_BT/ε² of dissipation; the 2015 letter proves this within linear response and for single-cycle networks at any affinity, and for many-cycle networks far from equilibrium shows it numerically and states it as a conjecture'
+title: 'Current precision costs at least 2k_B entropy'
+statement: >-
+  In a nonequilibrium steady state of a thermodynamically consistent Markov
+  jump network, the entropy produced while a current is counted, times the
+  squared relative uncertainty of that count, is at least 2k_B, independent
+  of the counting time, so a current precise to ε costs at least 2k_BT/ε² of
+  dissipation; the 2015 letter proves this within linear response and for
+  single-cycle networks at any affinity, and for many-cycle networks far
+  from equilibrium shows it numerically and states it as a conjecture
 version: 2
 history:
 - version: 2
@@ -31,7 +39,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-671 — Proposed; named as a principle this bound does not bear out -->
 <!-- inactive-ok-file: THEORY-2196 — Proposed; the reading of Gingrich and colleagues, 2026-11-22 -->
 
-# THEORY-1268: In a nonequilibrium steady state of a thermodynamically consistent Markov jump network, the entropy produced while a current is counted, times the squared relative uncertainty of that count, is at least 2k_B, independent of the counting time, so a current precise to ε costs at least 2k_BT/ε² of dissipation; the 2015 letter proves this within linear response and for single-cycle networks at any affinity, and for many-cycle networks far from equilibrium shows it numerically and states it as a conjecture
+# THEORY-1268: Current precision costs at least 2k_B entropy
 
 ## Source
 

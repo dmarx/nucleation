@@ -14,7 +14,13 @@ promote_when: >-
   liberalism), which concern whether it is right, not whether this is
   what it says; or the survey's reading of it as consumer-based, which
   Millikan disputes.
-title: "On Millikan's biosemantics, a sign has content because a producer and a consumer were shaped by selection or learning to cooperate through it: its content is the affair it must map onto, by a rule, for the consumer to perform its functions in the way that explains that shaping, and it can be true or false only by reference to that history, which natural signs lack"
+title: 'Sign content comes from producer–consumer history'
+statement: >-
+  On Millikan's biosemantics, a sign has content because a producer and a
+  consumer were shaped by selection or learning to cooperate through it: its
+  content is the affair it must map onto, by a rule, for the consumer to
+  perform its functions in the way that explains that shaping, and it can be
+  true or false only by reference to that history, which natural signs lack
 version: 1
 tags:
 - philosophy-of-language
@@ -40,7 +46,7 @@ summary: >-
 <!-- inactive-ok-file: ARG-204 CLAIM-920 — Proposed; filed for LEAD-018 in this batch -->
 <!-- inactive-ok-file: CLAIM-650 CLAIM-648 THEORY-220 — Proposed; held entries this reading bears on, cited with their standing -->
 
-# THEORY-2234: On Millikan's biosemantics, a sign has content because a producer and a consumer were shaped by selection or learning to cooperate through it: its content is the affair it must map onto, by a rule, for the consumer to perform its functions in the way that explains that shaping, and it can be true or false only by reference to that history, which natural signs lack
+# THEORY-2234: Sign content comes from producer–consumer history
 
 ## Source
 

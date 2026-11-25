@@ -5,7 +5,14 @@ formerly:
 - THEORY-tmplz597
 promote_when: >-
   A second reading confirms, from Tables 1 and 2 and §3.3, the DINO and user-preference comparison with Textual Inversion and the reported training time per subject.
-title: 'Fine-tuning all weights of a pretrained text-to-image diffusion model on 3–5 images of a subject, bound to a rare-token identifier and regularized by a class-prior-preservation loss, renders that subject in new contexts with higher subject fidelity than Textual Inversion''s frozen-model embedding (DINO 0.668 against 0.569 on Stable Diffusion; 68% against 22% of users), at about five accelerator-minutes per subject'
+title: 'Full fine-tuning beats embeddings on fidelity'
+statement: >-
+  Fine-tuning all weights of a pretrained text-to-image diffusion model on
+  3–5 images of a subject, bound to a rare-token identifier and regularized
+  by a class-prior-preservation loss, renders that subject in new contexts
+  with higher subject fidelity than Textual Inversion's frozen-model
+  embedding (DINO 0.668 against 0.569 on Stable Diffusion; 68% against 22%
+  of users), at about five accelerator-minutes per subject
 version: 1
 history:
 - version: 1
@@ -23,7 +30,7 @@ summary: >-
   Nataniel Ruiz, Yuanzhen Li, Varun Jampani, Yael Pritch, Michael Rubinstein and Kfir Aberman (2022), [LIT-2336](../literature.d/LIT-2336.md), read in [NOTE-1720](../notes.d/NOTE-1720.md). CVPR 2023 (arXiv comment: "Published at CVPR 2023").
 ---
 
-# THEORY-1644: Fine-tuning all weights of a pretrained text-to-image diffusion model on 3–5 images of a subject, bound to a rare-token identifier and regularized by a class-prior-preservation loss, renders that subject in new contexts with higher subject fidelity than Textual Inversion's frozen-model embedding (DINO 0.668 against 0.569 on Stable Diffusion; 68% against 22% of users), at about five accelerator-minutes per subject
+# THEORY-1644: Full fine-tuning beats embeddings on fidelity
 
 ## Source
 

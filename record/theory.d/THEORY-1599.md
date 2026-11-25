@@ -3,7 +3,14 @@ number: 1599
 status: Active
 formerly:
 - THEORY-tmpftim9
-title: 'Wickersham et al. report that writing about one''s legacy, or about a loved place under climate change, raised pro-environmental intentions and hypothetical donations by small amounts that did not differ by age, and that each task raised both legacy motivation and love of nature, which in a model with both mediators carried at least as much of the legacy task''s donation effect'
+title: 'Legacy writing nudges pro-environmental intent'
+statement: >-
+  Wickersham et al. report that writing about one's legacy, or about a loved
+  place under climate change, raised pro-environmental intentions and
+  hypothetical donations by small amounts that did not differ by age, and
+  that each task raised both legacy motivation and love of nature, which in
+  a model with both mediators carried at least as much of the legacy task's
+  donation effect
 version: 2
 history:
 - version: 1
@@ -35,7 +42,7 @@ bears_on:
 - QUESTION-301
 ---
 
-# THEORY-1599: Wickersham et al. report that writing about one's legacy, or about a loved place under climate change, raised pro-environmental intentions and hypothetical donations by small amounts that did not differ by age, and that each task raised both legacy motivation and love of nature, which in a model with both mediators carried at least as much of the legacy task's donation effect
+# THEORY-1599: Legacy writing nudges pro-environmental intent
 
 ## The account
 

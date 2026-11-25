@@ -12,7 +12,11 @@ promote_when: >-
   constants at once. More placements of structures on the triangle,
   asymptotic tables of known methods, or benchmarks cannot settle it, since
   they show where particular designs sit, not what no design can reach.
-title: 'No access method is optimal on read, update and memory overhead at once: bounding any two of the three forces the third above a hard lower bound that cannot be further reduced'
+title: 'No access method optimizes read, update, memory'
+statement: >-
+  No access method is optimal on read, update and memory overhead at once:
+  bounding any two of the three forces the third above a hard lower bound
+  that cannot be further reduced
 version: 1
 tags:
 - databases
@@ -29,7 +33,7 @@ summary: >-
   entry's question.
 ---
 
-# THEORY-1244: No access method is optimal on read, update and memory overhead at once: bounding any two of the three forces the third above a hard lower bound that cannot be further reduced
+# THEORY-1244: No access method optimizes read, update, memory
 
 ## Source
 

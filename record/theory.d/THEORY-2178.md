@@ -12,7 +12,15 @@ promote_when: >-
   institutional version of that effect and gives no model of either. Not
   met by evidence that citations or resources are concentrated, which
   does not hold the contribution fixed.
-title: "Merton names the Matthew effect, the accrual of disproportionate recognition for a given scientific contribution to scientists already eminent and its withholding from those not yet known, an inequity for careers that may raise the visibility of eminent scientists' work in science's communication system, and treats cumulative advantage, in which the rich get richer, as one institutional version of it, giving no model of either"
+title: 'Credit accrues to already eminent scientists'
+statement: >-
+  Merton names the Matthew effect, the accrual of disproportionate
+  recognition for a given scientific contribution to scientists already
+  eminent and its withholding from those not yet known, an inequity for
+  careers that may raise the visibility of eminent scientists' work in
+  science's communication system, and treats cumulative advantage, in which
+  the rich get richer, as one institutional version of it, giving no model
+  of either
 version: 1
 tags:
 - social-science
@@ -33,7 +41,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-817 TERM-145 — Proposed; the claim that uses the name and the term that separates its senses -->
 
-# THEORY-2178: Merton names the Matthew effect, the accrual of disproportionate recognition for a given scientific contribution to scientists already eminent and its withholding from those not yet known, an inequity for careers that may raise the visibility of eminent scientists' work in science's communication system, and treats cumulative advantage, in which the rich get richer, as one institutional version of it, giving no model of either
+# THEORY-2178: Credit accrues to already eminent scientists
 
 ## Source
 

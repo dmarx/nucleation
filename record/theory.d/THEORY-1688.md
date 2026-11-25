@@ -3,7 +3,14 @@ number: 1688
 status: Proposed
 formerly:
 - THEORY-tmpjwfto
-title: 'Jia and colleagues, reviewing cancer neuroscience, describe tumours as actively recruiting and reprogramming the host''s nerves (by neurotrophic recruitment, synaptic integration in the brain and perineural invasion) and using sympathetic signalling to build an immunosuppressive microenvironment, a pattern they name tumor neuron hijack, by analogy with immune escape'
+title: 'Tumours hijack the host''s nerves'
+statement: >-
+  Jia and colleagues, reviewing cancer neuroscience, describe tumours as
+  actively recruiting and reprogramming the host's nerves (by neurotrophic
+  recruitment, synaptic integration in the brain and perineural invasion)
+  and using sympathetic signalling to build an immunosuppressive
+  microenvironment, a pattern they name tumor neuron hijack, by analogy with
+  immune escape
 version: 1
 source:
 - LIT-2412
@@ -31,7 +38,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-1758 — Skimmed; the reading filed from the same exchange -->
 
-# THEORY-1688: Jia and colleagues, reviewing cancer neuroscience, describe tumours as actively recruiting and reprogramming the host's nerves (by neurotrophic recruitment, synaptic integration in the brain and perineural invasion) and using sympathetic signalling to build an immunosuppressive microenvironment, a pattern they name tumor neuron hijack, by analogy with immune escape
+# THEORY-1688: Tumours hijack the host's nerves
 
 ## The account
 

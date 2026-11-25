@@ -3,7 +3,15 @@ number: 253
 status: Active
 formerly:
 - THEORY-tmp99x1h
-title: "In Liu, Liu, Michaud, Gore and Tegmark's Geometry model of independent skills with orthogonal task vectors, simulation shows skills progressing together under gradient descent, the weaker taking about 1/p of the time, and in sequence under sign descent, a weaker skill progressing fast only once a stronger is done and the ratio of their times approaching 2; on a rotated quadratic the sequence appears under sign descent only when the loss's eigendirections are misaligned with the coordinates"
+title: 'Sign descent learns skills in sequence'
+statement: >-
+  In Liu, Liu, Michaud, Gore and Tegmark's Geometry model of independent
+  skills with orthogonal task vectors, simulation shows skills progressing
+  together under gradient descent, the weaker taking about 1/p of the time,
+  and in sequence under sign descent, a weaker skill progressing fast only
+  once a stronger is done and the ratio of their times approaching 2; on a
+  rotated quadratic the sequence appears under sign descent only when the
+  loss's eigendirections are misaligned with the coordinates
 version: 5
 history:
 - version: 2
@@ -61,7 +69,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-783 — Proposed; the wider claim this account dropped, filed separately and cited as open -->
 <!-- inactive-ok-file: THEORY-186 THEORY-212 THEORY-039 — Proposed; accounts this one is set beside, none of them rested on -->
 
-# THEORY-253: In Liu, Liu, Michaud, Gore and Tegmark's Geometry model of independent skills with orthogonal task vectors, simulation shows skills progressing together under gradient descent, the weaker taking about 1/p of the time, and in sequence under sign descent, a weaker skill progressing fast only once a stronger is done and the ratio of their times approaching 2; on a rotated quadratic the sequence appears under sign descent only when the loss's eigendirections are misaligned with the coordinates
+# THEORY-253: Sign descent learns skills in sequence
 
 ## Source
 

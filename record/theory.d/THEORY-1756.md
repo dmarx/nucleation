@@ -3,7 +3,16 @@ number: 1756
 status: Proposed
 formerly:
 - THEORY-tmpe8wmn
-title: 'Hegde et al. (2025) present KGCL, a data model and controlled natural language for ontology and knowledge-graph changes in which one change object serves both as a prospective patch and a retrospective diff, applied through an agent (Ontobot) that turns curators'' requests into pull requests that cannot be merged without a curator''s approval, and they report a community survey in which 82% rated understanding ontology changes very important and 8% were satisfied with existing ways of viewing them.'
+title: 'One change object serves as patch and diff'
+statement: >-
+  Hegde et al. (2025) present KGCL, a data model and controlled natural
+  language for ontology and knowledge-graph changes in which one change
+  object serves both as a prospective patch and a retrospective diff,
+  applied through an agent (Ontobot) that turns curators' requests into pull
+  requests that cannot be merged without a curator's approval, and they
+  report a community survey in which 82% rated understanding ontology
+  changes very important and 8% were satisfied with existing ways of viewing
+  them.
 version: 1
 tags:
 - databases
@@ -21,7 +30,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-1756: Hegde et al. (2025) present KGCL, a data model and controlled natural language for ontology and knowledge-graph changes in which one change object serves both as a prospective patch and a retrospective diff, applied through an agent (Ontobot) that turns curators' requests into pull requests that cannot be merged without a curator's approval, and they report a community survey in which 82% rated understanding ontology changes very important and 8% were satisfied with existing ways of viewing them.
+# THEORY-1756: One change object serves as patch and diff
 
 ## The account
 

@@ -14,7 +14,16 @@ promote_when: >-
   uniform or strictly periodic start unchanged. It does not need the
   field identification of fairy circles with hybrid states, which the
   title attributes to the authors.
-title: 'On Zelnik, Meron and Bel, in a soil-water–biomass model fitted to Namibian fairy-circle grassland the rainfall range where uniform grass and a periodic gap pattern are both stable contains a subrange of many stable hybrid mosaics, and brief droughts or wet spells that leave it add or remove gaps one domain at a time, which the authors identify with fairy-circle birth and death; repeated pulses carry the system gradually between the two states, a shift the same pulses do not cause from a uniform or strictly periodic start'
+title: 'Climate pulses birth and kill fairy circles'
+statement: >-
+  On Zelnik, Meron and Bel, in a soil-water–biomass model fitted to Namibian
+  fairy-circle grassland the rainfall range where uniform grass and a
+  periodic gap pattern are both stable contains a subrange of many stable
+  hybrid mosaics, and brief droughts or wet spells that leave it add or
+  remove gaps one domain at a time, which the authors identify with
+  fairy-circle birth and death; repeated pulses carry the system gradually
+  between the two states, a shift the same pulses do not cause from a
+  uniform or strictly periodic start
 version: 1
 tags:
 - ecology
@@ -34,7 +43,7 @@ summary: >-
   the authors concede, push the simplified model to a uniform state.
 ---
 
-# THEORY-1834: On Zelnik, Meron and Bel, in a soil-water–biomass model fitted to Namibian fairy-circle grassland the rainfall range where uniform grass and a periodic gap pattern are both stable contains a subrange of many stable hybrid mosaics, and brief droughts or wet spells that leave it add or remove gaps one domain at a time, which the authors identify with fairy-circle birth and death; repeated pulses carry the system gradually between the two states, a shift the same pulses do not cause from a uniform or strictly periodic start
+# THEORY-1834: Climate pulses birth and kill fairy circles
 
 ## Source
 

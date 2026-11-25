@@ -3,7 +3,16 @@ number: 391
 status: Active
 formerly:
 - THEORY-tmp644mk
-title: 'Recovery of a k-sparse vector by ℓ₁ minimization from n random measurements in dimension N switches, as N grows with δ = n/N and ρ = k/n fixed, from near-certain success to near-certain failure across a curve ρ(δ) that, for Gaussian matrices, the authors'' earlier face-counting theorems fix; in 2,948,000 optimizations at N = 200, 400 and 1600, eight non-Gaussian ensembles approached that curve in a way consistent with gaps shrinking as N^(−1/2), an exponent fitted on the same data, while at finite N the location depended on the ensemble'
+title: 'Non-Gaussian ℓ₁ transitions approach Gaussian''s'
+statement: >-
+  Recovery of a k-sparse vector by ℓ₁ minimization from n random
+  measurements in dimension N switches, as N grows with δ = n/N and ρ = k/n
+  fixed, from near-certain success to near-certain failure across a curve
+  ρ(δ) that, for Gaussian matrices, the authors' earlier face-counting
+  theorems fix; in 2,948,000 optimizations at N = 200, 400 and 1600, eight
+  non-Gaussian ensembles approached that curve in a way consistent with gaps
+  shrinking as N^(−1/2), an exponent fitted on the same data, while at
+  finite N the location depended on the ensemble
 version: 4
 history:
 - version: 2
@@ -52,7 +61,7 @@ bears_on:
 ---
 
 <!-- inactive-ok-file: THEORY-812 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
-# THEORY-391: Recovery of a k-sparse vector by ℓ₁ minimization from n random measurements in dimension N switches, as N grows with δ = n/N and ρ = k/n fixed, from near-certain success to near-certain failure across a curve ρ(δ) that, for Gaussian matrices, the authors' earlier face-counting theorems fix; in 2,948,000 optimizations at N = 200, 400 and 1600, eight non-Gaussian ensembles approached that curve in a way consistent with gaps shrinking as N^(−1/2), an exponent fitted on the same data, while at finite N the location depended on the ensemble
+# THEORY-391: Non-Gaussian ℓ₁ transitions approach Gaussian's
 
 ## Source
 

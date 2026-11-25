@@ -11,7 +11,14 @@ promote_when: >-
   traces them to replenishment targets set from past issues. Not met by
   the authors' own simulation re-run, nor by a finding of stock-outs
   caused by central shortage.
-title: 'Leung, Chen, Yadav and Gallien find, from stock cards in 145 Zambian clinics and a validated simulation, that stock-outs of artemether-lumefantrine rose to about 20-30 % of clinics in early 2010 while the national warehouse held ample stock, caused by max-min replenishment targets set from past monthly issues, which miss seasonal demand and rainy-season lead times'
+title: 'Zambian stock-outs came from replenishment rules'
+statement: >-
+  Leung, Chen, Yadav and Gallien find, from stock cards in 145 Zambian
+  clinics and a validated simulation, that stock-outs of
+  artemether-lumefantrine rose to about 20-30 % of clinics in early 2010
+  while the national warehouse held ample stock, caused by max-min
+  replenishment targets set from past monthly issues, which miss seasonal
+  demand and rainy-season lead times
 version: 1
 history:
 - version: 1
@@ -37,7 +44,7 @@ summary: >-
   averaging changes help little.
 ---
 
-# THEORY-2283: Leung, Chen, Yadav and Gallien find, from stock cards in 145 Zambian clinics and a validated simulation, that stock-outs of artemether-lumefantrine rose to about 20-30 % of clinics in early 2010 while the national warehouse held ample stock, caused by max-min replenishment targets set from past monthly issues, which miss seasonal demand and rainy-season lead times
+# THEORY-2283: Zambian stock-outs came from replenishment rules
 
 ## The account
 

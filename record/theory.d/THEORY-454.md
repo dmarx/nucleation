@@ -14,7 +14,13 @@ promote_when: >-
   conditions that the corresponding percepts meet. Further lists of
   differences between working memory and perception cannot settle it,
   since Block grants that they "do not show a change in format".
-title: "Perception is constitutively iconic, nonconceptual and nonpropositional and cognition paradigmatically discursive, and percepts are put to cognitive use only inside a 'cognitive envelope', the global workspace read as conceptualisation, where working memory holds recoded, task-dependent abstractions rather than the percepts themselves"
+title: 'Percepts enter cognition only when recoded'
+statement: >-
+  Perception is constitutively iconic, nonconceptual and nonpropositional
+  and cognition paradigmatically discursive, and percepts are put to
+  cognitive use only inside a 'cognitive envelope', the global workspace
+  read as conceptualisation, where working memory holds recoded,
+  task-dependent abstractions rather than the percepts themselves
 version: 2
 history:
 - version: 2
@@ -48,7 +54,7 @@ corroborates:
 <!-- inactive-ok-file: THEORY-096 THEORY-103 — Proposed; neighbouring accounts of the workspace and of perceptual consciousness, named in Connections, not leaned on -->
 <!-- inactive-ok-file: THEORY-541 — Proposed; a neighbouring account of concepts in perception, named in Connections, not leaned on -->
 
-# THEORY-454: Perception is constitutively iconic, nonconceptual and nonpropositional and cognition paradigmatically discursive, and percepts are put to cognitive use only inside a 'cognitive envelope', the global workspace read as conceptualisation, where working memory holds recoded, task-dependent abstractions rather than the percepts themselves
+# THEORY-454: Percepts enter cognition only when recoded
 
 ## Source
 

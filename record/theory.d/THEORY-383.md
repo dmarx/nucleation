@@ -3,7 +3,15 @@ number: 383
 status: Active
 formerly:
 - THEORY-tmprwm4f
-title: 'On one Apache and Informix server answering cheap indexed selections over 1000 pages, a page whose query result was stored in the DBMS and refreshed on every update answered more slowly than one recomputed on each request at five or more updates per second, which the authors explain by reading the stored result costing about as much as recomputing it and its refresh loading the same DBMS, while a finished page stored at the web server and rewritten on every update answered 10 to 230 times faster than either'
+title: 'Stored DB results can be slower than recomputing'
+statement: >-
+  On one Apache and Informix server answering cheap indexed selections over
+  1000 pages, a page whose query result was stored in the DBMS and refreshed
+  on every update answered more slowly than one recomputed on each request
+  at five or more updates per second, which the authors explain by reading
+  the stored result costing about as much as recomputing it and its refresh
+  loading the same DBMS, while a finished page stored at the web server and
+  rewritten on every update answered 10 to 230 times faster than either
 version: 3
 history:
 - version: 2
@@ -67,7 +75,7 @@ bears_on:
 - QUESTION-347
 ---
 
-# THEORY-383: On one Apache and Informix server answering cheap indexed selections over 1000 pages, a page whose query result was stored in the DBMS and refreshed on every update answered more slowly than one recomputed on each request at five or more updates per second, which the authors explain by reading the stored result costing about as much as recomputing it and its refresh loading the same DBMS, while a finished page stored at the web server and rewritten on every update answered 10 to 230 times faster than either
+# THEORY-383: Stored DB results can be slower than recomputing
 
 ## Source
 

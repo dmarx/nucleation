@@ -3,7 +3,13 @@ number: 566
 status: Active
 formerly:
 - THEORY-tmpka1qg
-title: 'In Ganea et al.''s hyperbolic neural networks, linear maps and nonlinearities are Euclidean ones read through the chart at the origin, so a stack of them without biases is a Euclidean network conjugated by that chart, and the curvature acts only through the bias translations and the distance-based output layer'
+title: 'Hyperbolic nets curve only through biases'
+statement: >-
+  In Ganea et al.'s hyperbolic neural networks, linear maps and
+  nonlinearities are Euclidean ones read through the chart at the origin, so
+  a stack of them without biases is a Euclidean network conjugated by that
+  chart, and the curvature acts only through the bias translations and the
+  distance-based output layer
 version: 3
 history:
 - version: 2
@@ -45,7 +51,7 @@ bears_on:
 - QUESTION-162
 ---
 
-# THEORY-566: In Ganea et al.'s hyperbolic neural networks, linear maps and nonlinearities are Euclidean ones read through the chart at the origin, so a stack of them without biases is a Euclidean network conjugated by that chart, and the curvature acts only through the bias translations and the distance-based output layer
+# THEORY-566: Hyperbolic nets curve only through biases
 
 ## Source
 

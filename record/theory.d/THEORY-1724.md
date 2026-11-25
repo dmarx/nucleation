@@ -3,7 +3,12 @@ number: 1724
 status: Proposed
 formerly:
 - THEORY-tmp0twjb
-title: 'Xie et al. (2026) report that on 300 tasks pairing paper-derived mechanisms with real datasets, AI agents'' open-form mechanistic hypotheses predict the direction of responses under withheld conditions well below reference statements of the true mechanism'
+title: 'Agent hypotheses predict far worse than truth'
+statement: >-
+  Xie et al. (2026) report that on 300 tasks pairing paper-derived
+  mechanisms with real datasets, AI agents' open-form mechanistic hypotheses
+  predict the direction of responses under withheld conditions well below
+  reference statements of the true mechanism
 version: 1
 tags:
 - philosophy-of-science
@@ -22,7 +27,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-1724: Xie et al. (2026) report that on 300 tasks pairing paper-derived mechanisms with real datasets, AI agents' open-form mechanistic hypotheses predict the direction of responses under withheld conditions well below reference statements of the true mechanism
+# THEORY-1724: Agent hypotheses predict far worse than truth
 
 ## The account
 

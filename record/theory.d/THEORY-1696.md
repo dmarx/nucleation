@@ -3,7 +3,16 @@ number: 1696
 status: Proposed
 formerly:
 - THEORY-tmppsy9d
-title: 'Harman''s survey treats the moral question whether abortion is wrong apart from whether it should be legally restricted, and organises the debate as arguments against abortion with replies. Among the replies read: Thomson''s violinist case grants the fetus a right to life and denies that this makes abortion wrong, recasting abortion as withdrawing life-sustaining aid; and McMahan''s time-relative interests view denies that a pre-conscious fetus has an interest in its future, because it has no psychological connection to it'
+title: 'Abortion''s wrongness is apart from its legality'
+statement: >-
+  Harman's survey treats the moral question whether abortion is wrong apart
+  from whether it should be legally restricted, and organises the debate as
+  arguments against abortion with replies. Among the replies read: Thomson's
+  violinist case grants the fetus a right to life and denies that this makes
+  abortion wrong, recasting abortion as withdrawing life-sustaining aid; and
+  McMahan's time-relative interests view denies that a pre-conscious fetus
+  has an interest in its future, because it has no psychological connection
+  to it
 version: 1
 source:
 - LIT-2410
@@ -26,7 +35,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-1788 — Skimmed; the reading filed from the same exchange -->
 
-# THEORY-1696: Harman's survey treats the moral question whether abortion is wrong apart from whether it should be legally restricted, and organises the debate as arguments against abortion with replies. Among the replies read: Thomson's violinist case grants the fetus a right to life and denies that this makes abortion wrong, recasting abortion as withdrawing life-sustaining aid; and McMahan's time-relative interests view denies that a pre-conscious fetus has an interest in its future, because it has no psychological connection to it
+# THEORY-1696: Abortion's wrongness is apart from its legality
 
 ## The account
 

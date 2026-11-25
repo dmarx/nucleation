@@ -20,7 +20,13 @@ promote_when: >-
   bands or sites this study did not sample (low-frequency activity, other
   prefrontal regions). More onset-locked decoding cannot settle it, since
   the claim is about what happens after onset.
-title: 'In human visual cortex the content of a sustained seen image is carried by a stable population code that lasts as long as the image, not by a sustained level of activity, and frontoparietal cortex marks only its onset; so a sustained experience rests on sensory representation and its discrete updates on frontoparietal representation'
+title: 'Sustained seeing rests on a stable sensory code'
+statement: >-
+  In human visual cortex the content of a sustained seen image is carried by
+  a stable population code that lasts as long as the image, not by a
+  sustained level of activity, and frontoparietal cortex marks only its
+  onset; so a sustained experience rests on sensory representation and its
+  discrete updates on frontoparietal representation
 version: 1
 tags:
 - consciousness
@@ -42,7 +48,7 @@ summary: >-
   method or cohort and a case where percept and input come apart test it.
 ---
 
-# THEORY-830: In human visual cortex the content of a sustained seen image is carried by a stable population code that lasts as long as the image, not by a sustained level of activity, and frontoparietal cortex marks only its onset; so a sustained experience rests on sensory representation and its discrete updates on frontoparietal representation
+# THEORY-830: Sustained seeing rests on a stable sensory code
 
 ## Source
 

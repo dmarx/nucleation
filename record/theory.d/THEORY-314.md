@@ -3,7 +3,12 @@ number: 314
 status: Active
 formerly:
 - THEORY-tmpiw6t1
-title: "Every minimizer of an arbitrary cost on the training outputs plus a strictly increasing function of the RKHS norm lies in the span of the kernel functions at the training points, by the reproducing property and orthogonal decomposition alone"
+title: 'RKHS minimizers lie in the training kernels'' span'
+statement: >-
+  Every minimizer of an arbitrary cost on the training outputs plus a
+  strictly increasing function of the RKHS norm lies in the span of the
+  kernel functions at the training points, by the reproducing property and
+  orthogonal decomposition alone
 version: 2
 history:
 - version: 2
@@ -30,7 +35,7 @@ summary: >-
   through its values at the training points.
 ---
 
-# THEORY-314: Every minimizer of an arbitrary cost on the training outputs plus a strictly increasing function of the RKHS norm lies in the span of the kernel functions at the training points, by the reproducing property and orthogonal decomposition alone
+# THEORY-314: RKHS minimizers lie in the training kernels' span
 
 ## Source
 

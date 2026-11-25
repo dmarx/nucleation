@@ -16,7 +16,15 @@ promote_when: >-
   re-initialized heads take the late roles on the same schedule, so that
   the earlier role was incidental. Further two-checkpoint token-in-context
   comparisons cannot settle it.
-title: 'In a two-layer attention-only transformer, attention heads change function during training: heads in the first layer that predict simple n-grams early later become the previous-token heads of the induction circuit, a bracket-matching support head, or supporting members of a circuit with second-layer n-gram heads, giving up simple n-grams as they do, and particular n-grams pass from one head to another; so later circuits form partly by repurposing components that already had a role'
+title: 'Attention heads are repurposed during training'
+statement: >-
+  In a two-layer attention-only transformer, attention heads change function
+  during training: heads in the first layer that predict simple n-grams
+  early later become the previous-token heads of the induction circuit, a
+  bracket-matching support head, or supporting members of a circuit with
+  second-layer n-gram heads, giving up simple n-grams as they do, and
+  particular n-grams pass from one head to another; so later circuits form
+  partly by repurposing components that already had a role
 version: 1
 history:
 - version: 1
@@ -44,7 +52,7 @@ summary: >-
   follow them in time, is not tested.
 ---
 <!-- inactive-ok-file: THEORY-279 — Proposed; the thesis on continuity by transmission and a neighbouring account, cited as open -->
-# THEORY-967: In a two-layer attention-only transformer, attention heads change function during training: heads in the first layer that predict simple n-grams early later become the previous-token heads of the induction circuit, a bracket-matching support head, or supporting members of a circuit with second-layer n-gram heads, giving up simple n-grams as they do, and particular n-grams pass from one head to another; so later circuits form partly by repurposing components that already had a role
+# THEORY-967: Attention heads are repurposed during training
 
 ## Source
 

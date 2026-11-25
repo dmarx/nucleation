@@ -12,7 +12,14 @@ promote_when: >-
   raise patient choice further. The title asserts Schuhr's reading, that
   the chooser does the bundling, only as his, so a rival reading of the
   same pattern does not defeat it.
-title: 'Schuhr finds in a laboratory experiment with real money that intertemporal choices presented as a free series of two or three paired decisions, chosen at once, are more patient in their first choices than the same choices presented singly, and that forcing the paired decisions to match lowers patient choice, which he reads as reward bundling done by the chooser rather than imposed'
+title: 'Choosing in a series raises patience'
+statement: >-
+  Schuhr finds in a laboratory experiment with real money that intertemporal
+  choices presented as a free series of two or three paired decisions,
+  chosen at once, are more patient in their first choices than the same
+  choices presented singly, and that forcing the paired decisions to match
+  lowers patient choice, which he reads as reward bundling done by the
+  chooser rather than imposed
 version: 1
 tags:
 - behavioral-integration
@@ -31,7 +38,7 @@ summary: >-
   since every decision in the series is made at once.
 ---
 
-# THEORY-2237: Schuhr finds in a laboratory experiment with real money that intertemporal choices presented as a free series of two or three paired decisions, chosen at once, are more patient in their first choices than the same choices presented singly, and that forcing the paired decisions to match lowers patient choice, which he reads as reward bundling done by the chooser rather than imposed
+# THEORY-2237: Choosing in a series raises patience
 
 ## Source
 

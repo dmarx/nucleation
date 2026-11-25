@@ -26,7 +26,12 @@ promote_when: >-
   entropy production, which both sides of the line have; or a verdict on
   the flame asserted without the definitions applied, which is how every
   holding in the record now treats it.
-title: 'Organisms differ from dissipative structures such as a candle flame not by far-from-equilibrium self-maintenance, nor by circular self-maintenance alone, but by organisational differentiation: several distinct constraints that produce one another at different time scales'
+title: 'Organisms differ from flames by differentiation'
+statement: >-
+  Organisms differ from dissipative structures such as a candle flame not by
+  far-from-equilibrium self-maintenance, nor by circular self-maintenance
+  alone, but by organisational differentiation: several distinct constraints
+  that produce one another at different time scales
 version: 5
 history:
 - version: 2
@@ -103,7 +108,7 @@ bounds:
 <!-- inactive-ok-file: LIT-536 LIT-529 — Unfetched or Unavailable; Biological Autonomy (Unfetched for its chapters; the Introduction is read in NOTE-1437), Deacon and Nicolis & Prigogine are named as the unread works that would bear on this, not leaned on -->
 <!-- inactive-ok-file: THEORY-071 — Proposed; the bearing of this account on them is stated, nothing here rests on them -->
 
-# THEORY-072: Organisms differ from dissipative structures such as a candle flame not by far-from-equilibrium self-maintenance, nor by circular self-maintenance alone, but by organisational differentiation: several distinct constraints that produce one another at different time scales
+# THEORY-072: Organisms differ from flames by differentiation
 
 ## Source
 

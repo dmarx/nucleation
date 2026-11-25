@@ -14,7 +14,14 @@ promote_when: >-
   plainly the right count. More cases in which "one cat" sounds right cannot
   settle it, and neither can the record's spectral-gap analogy, which is the
   record's addition and not Lewis's.
-title: "A thing with many equally good candidate boundaries can be counted as one in two ways that cover each other's failures: supervaluation makes 'there is one cat' true on every precisification though no candidate is definitely the cat, and counting by almost-identity, meaning extensive mereological overlap, makes it true enough where the candidates overlap almost completely"
+title: 'Supervaluation and near-identity count one cat'
+statement: >-
+  A thing with many equally good candidate boundaries can be counted as one
+  in two ways that cover each other's failures: supervaluation makes 'there
+  is one cat' true on every precisification though no candidate is
+  definitely the cat, and counting by almost-identity, meaning extensive
+  mereological overlap, makes it true enough where the candidates overlap
+  almost completely
 version: 1
 tags:
 - metaphysics
@@ -38,7 +45,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-622 — Proposed; a neighbouring account of boundaries filed in the same batch, named for comparison, not leaned on -->
 
-# THEORY-452: A thing with many equally good candidate boundaries can be counted as one in two ways that cover each other's failures: supervaluation makes 'there is one cat' true on every precisification though no candidate is definitely the cat, and counting by almost-identity, meaning extensive mereological overlap, makes it true enough where the candidates overlap almost completely
+# THEORY-452: Supervaluation and near-identity count one cat
 
 ## Source
 

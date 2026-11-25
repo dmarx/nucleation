@@ -3,7 +3,13 @@ number: 1428
 status: Active
 formerly:
 - THEORY-tmpv4i3y
-title: 'Evans, Silverberg and Santangelo show that a lattice theory of origami tessellations predicts that the inhomogeneous soft deformations of a Miura-ori sheet are edge modes decaying from its boundaries with an analytic decay length, so that its number of degrees of freedom scales with its perimeter, not its area'
+title: 'Miura-ori soft modes are edge modes'
+statement: >-
+  Evans, Silverberg and Santangelo show that a lattice theory of origami
+  tessellations predicts that the inhomogeneous soft deformations of a
+  Miura-ori sheet are edge modes decaying from its boundaries with an
+  analytic decay length, so that its number of degrees of freedom scales
+  with its perimeter, not its area
 version: 3
 history:
 - version: 2
@@ -56,7 +62,7 @@ bears_on:
 - QUESTION-447
 ---
 
-# THEORY-1428: Evans, Silverberg and Santangelo show that a lattice theory of origami tessellations predicts that the inhomogeneous soft deformations of a Miura-ori sheet are edge modes decaying from its boundaries with an analytic decay length, so that its number of degrees of freedom scales with its perimeter, not its area
+# THEORY-1428: Miura-ori soft modes are edge modes
 
 ## Source
 

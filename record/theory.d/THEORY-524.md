@@ -3,7 +3,15 @@ number: 524
 status: Active
 formerly:
 - THEORY-tmpg26fz
-title: "On cyclic measurement scenarios, where the contexts' overlaps form one chordless N-cycle, the ℤ/2 Čech obstruction computed on the (N−1)-th iterated joint model is exact for logical and strong contextuality, the bound N − 1 being tight; beyond cycles no such result is established, the published extension is false on its own example, and the completeness conjecture fails on a Kochen–Specker cover that is never detected at any level"
+title: 'Čech obstruction is exact on cyclic scenarios'
+statement: >-
+  On cyclic measurement scenarios, where the contexts' overlaps form one
+  chordless N-cycle, the ℤ/2 Čech obstruction computed on the (N−1)-th
+  iterated joint model is exact for logical and strong contextuality, the
+  bound N − 1 being tight; beyond cycles no such result is established, the
+  published extension is false on its own example, and the completeness
+  conjecture fails on a Kochen–Specker cover that is never detected at any
+  level
 version: 1
 tags:
 - contextuality
@@ -25,7 +33,7 @@ summary: >-
   The joint models grow exponentially; nothing analyses the cost.
 ---
 
-# THEORY-524: On cyclic measurement scenarios, where the contexts' overlaps form one chordless N-cycle, the ℤ/2 Čech obstruction computed on the (N−1)-th iterated joint model is exact for logical and strong contextuality, the bound N − 1 being tight; beyond cycles no such result is established, the published extension is false on its own example, and the completeness conjecture fails on a Kochen–Specker cover that is never detected at any level
+# THEORY-524: Čech obstruction is exact on cyclic scenarios
 
 ## Source
 

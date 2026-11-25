@@ -13,7 +13,14 @@ promote_when: >-
   whose round trip closes using only what the intermediate's audience
   reads. Further examples of hiding, without the capacity manipulation,
   do not settle it.
-title: 'When one domain carries more information than the other, a translation trained only to make the round trip close cannot meet that requirement through a correspondence in the intermediate''s visible code, so the round trip closes through a channel the intermediate''s audience does not read; agreement of the round trip with its source therefore says nothing about whether the intermediate renders the source''s content for that audience'
+title: 'Round-trip agreement says nothing of fidelity'
+statement: >-
+  When one domain carries more information than the other, a translation
+  trained only to make the round trip close cannot meet that requirement
+  through a correspondence in the intermediate's visible code, so the round
+  trip closes through a channel the intermediate's audience does not read;
+  agreement of the round trip with its source therefore says nothing about
+  whether the intermediate renders the source's content for that audience
 version: 1
 tags:
 - information-theory
@@ -32,7 +39,7 @@ summary: >-
   here because everything does, out of sight.
 ---
 
-# THEORY-1143: When one domain carries more information than the other, a translation trained only to make the round trip close cannot meet that requirement through a correspondence in the intermediate's visible code, so the round trip closes through a channel the intermediate's audience does not read; agreement of the round trip with its source therefore says nothing about whether the intermediate renders the source's content for that audience
+# THEORY-1143: Round-trip agreement says nothing of fidelity
 
 ## Source
 

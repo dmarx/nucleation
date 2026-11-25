@@ -3,7 +3,19 @@ number: 1516
 status: Active
 formerly:
 - THEORY-tmpylzh6
-title: 'Beuschlein and colleagues, for the European Society of Endocrinology and the Endocrine Society, hold that exogenous glucocorticoids at anti-inflammatory doses invariably suppress the HPA axis by negative feedback and that prolonged use leads to pituitary hyporesponsiveness and adrenal atrophy; that after withdrawal the axis recovers first centrally and then adrenally, over months to years and incompletely in a minority; that courses under 3–4 weeks can be stopped without taper, while longer ones are tapered, once the disease is controlled, quickly at high doses and slowly near the physiologic dose, with replacement kept low enough to leave a stimulus for recovery; and that no study has compared taper schemes'
+title: 'Glucocorticoids invariably suppress the HPA axis'
+statement: >-
+  Beuschlein and colleagues, for the European Society of Endocrinology and
+  the Endocrine Society, hold that exogenous glucocorticoids at
+  anti-inflammatory doses invariably suppress the HPA axis by negative
+  feedback and that prolonged use leads to pituitary hyporesponsiveness and
+  adrenal atrophy; that after withdrawal the axis recovers first centrally
+  and then adrenally, over months to years and incompletely in a minority;
+  that courses under 3–4 weeks can be stopped without taper, while longer
+  ones are tapered, once the disease is controlled, quickly at high doses
+  and slowly near the physiologic dose, with replacement kept low enough to
+  leave a stimulus for recovery; and that no study has compared taper
+  schemes
 version: 3
 history:
 - version: 2
@@ -56,7 +68,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-1549 — Proposed; the wide form of this reading, split off by the status review of 2026-11-06 -->
 
-# THEORY-1516: Beuschlein and colleagues, for the European Society of Endocrinology and the Endocrine Society, hold that exogenous glucocorticoids at anti-inflammatory doses invariably suppress the HPA axis by negative feedback and that prolonged use leads to pituitary hyporesponsiveness and adrenal atrophy; that after withdrawal the axis recovers first centrally and then adrenally, over months to years and incompletely in a minority; that courses under 3–4 weeks can be stopped without taper, while longer ones are tapered, once the disease is controlled, quickly at high doses and slowly near the physiologic dose, with replacement kept low enough to leave a stimulus for recovery; and that no study has compared taper schemes
+# THEORY-1516: Glucocorticoids invariably suppress the HPA axis
 
 ## Source
 

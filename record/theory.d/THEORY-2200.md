@@ -3,7 +3,18 @@ number: 2200
 status: Proposed
 formerly:
 - THEORY-tmpl7rgc
-title: 'Crutchfield and Feldman show that for a stationary process on a finite alphabet the excess entropy, the summed excess of the finite-L entropy-rate estimates over the entropy rate, equals both the subextensive part of the block entropy and the mutual information between past and future, is bounded below by its finite-block estimates, and is finite for finitary processes, whose estimates fall faster than 1/L; that an observer who ignores it at block length L overestimates the entropy rate by E/L; and that it does not fix the structure of a process, which the transient information and the number of causal states can separate where the excess entropy cannot'
+title: 'Excess entropy is past–future information'
+statement: >-
+  Crutchfield and Feldman show that for a stationary process on a finite
+  alphabet the excess entropy, the summed excess of the finite-L
+  entropy-rate estimates over the entropy rate, equals both the subextensive
+  part of the block entropy and the mutual information between past and
+  future, is bounded below by its finite-block estimates, and is finite for
+  finitary processes, whose estimates fall faster than 1/L; that an observer
+  who ignores it at block length L overestimates the entropy rate by E/L;
+  and that it does not fix the structure of a process, which the transient
+  information and the number of causal states can separate where the excess
+  entropy cannot
 promote_when: >-
   A second reading (Shalizi and Crutchfield, LIT-1126, or a textbook
   treatment) confirms the identities E = lim [H(L) − hµL] = I(past;
@@ -33,7 +44,7 @@ summary: >-
 <!-- inactive-ok-file: TERM-141 CLAIM-805 — Proposed; the term that draws on this reading and the claim it corroborates -->
 <!-- inactive-ok-file: THEORY-2151 THEORY-784 — Proposed; readings this account parallels -->
 
-# THEORY-2200: Crutchfield and Feldman show that for a stationary process on a finite alphabet the excess entropy, the summed excess of the finite-L entropy-rate estimates over the entropy rate, equals both the subextensive part of the block entropy and the mutual information between past and future, is bounded below by its finite-block estimates, and is finite for finitary processes, whose estimates fall faster than 1/L; that an observer who ignores it at block length L overestimates the entropy rate by E/L; and that it does not fix the structure of a process, which the transient information and the number of causal states can separate where the excess entropy cannot
+# THEORY-2200: Excess entropy is past–future information
 
 ## Source
 

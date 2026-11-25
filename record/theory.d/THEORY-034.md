@@ -3,7 +3,13 @@ number: 34
 status: Active
 formerly:
 - THEORY-tmpd2g4g
-title: 'Chakravartty''s dilemma reaches only structural realisms that keep relata but deny them every intrinsic identity-fixing feature, and of the seven structural-realist texts read here against it, two are of that kind: Floridi''s informational structural realism and Esfeld and Lam''s moderate structural realism'
+title: 'Chakravartty''s dilemma reaches only two of seven'
+statement: >-
+  Chakravartty's dilemma reaches only structural realisms that keep relata
+  but deny them every intrinsic identity-fixing feature, and of the seven
+  structural-realist texts read here against it, two are of that kind:
+  Floridi's informational structural realism and Esfeld and Lam's moderate
+  structural realism
 version: 4
 history:
 - version: 2
@@ -74,7 +80,7 @@ bounds:
 <!-- inactive-ok-file: LIT-301 LIT-342 — Unavailable; founding texts named in promote_when and as unread, not leaned on -->
 <!-- inactive-ok-file: THEORY-453 THEORY-038 — Proposed; the second position of the target kind, placed in the table and named, and the eliminative-horn account, named; nothing here rests on their being settled -->
 
-# THEORY-034: Chakravartty's dilemma reaches only structural realisms that keep relata but deny them every intrinsic identity-fixing feature, and of the seven structural-realist texts read here against it, two are of that kind: Floridi's informational structural realism and Esfeld and Lam's moderate structural realism
+# THEORY-034: Chakravartty's dilemma reaches only two of seven
 
 ## Source
 

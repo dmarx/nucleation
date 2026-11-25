@@ -3,7 +3,14 @@ number: 567
 status: Active
 formerly:
 - THEORY-tmpkifk7
-title: "In the donation game, where a cooperator pays c for another to get b, defectors win in a well-mixed population, and each of five mechanisms makes cooperators evolutionarily stable above a benefit-to-cost threshold: kin selection r > c/b, direct reciprocity w > c/b, indirect reciprocity q > c/b, network reciprocity b/c > k and group selection b/c > 1 + n/m; the rules cover altruism only, not mutualism, coordination or conflict"
+title: 'Five mechanisms each stabilise cooperation'
+statement: >-
+  In the donation game, where a cooperator pays c for another to get b,
+  defectors win in a well-mixed population, and each of five mechanisms
+  makes cooperators evolutionarily stable above a benefit-to-cost threshold:
+  kin selection r > c/b, direct reciprocity w > c/b, indirect reciprocity q
+  > c/b, network reciprocity b/c > k and group selection b/c > 1 + n/m; the
+  rules cover altruism only, not mutualism, coordination or conflict
 version: 1
 tags:
 - natural-sciences
@@ -28,7 +35,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-503 — Proposed: Curry 2016, the statement of morality-as-cooperation; cited for listing this review as incomplete -->
 <!-- inactive-ok-file: LIT-495 — Unavailable: Alexander 1987, The Biology of Moral Systems; cited as the source of the review's one sentence on morality -->
 
-# THEORY-567: In the donation game, where a cooperator pays c for another to get b, defectors win in a well-mixed population, and each of five mechanisms makes cooperators evolutionarily stable above a benefit-to-cost threshold: kin selection r > c/b, direct reciprocity w > c/b, indirect reciprocity q > c/b, network reciprocity b/c > k and group selection b/c > 1 + n/m; the rules cover altruism only, not mutualism, coordination or conflict
+# THEORY-567: Five mechanisms each stabilise cooperation
 
 ## Source
 

@@ -3,7 +3,16 @@ number: 1012
 status: Active
 formerly:
 - THEORY-tmpwm0kx
-title: 'Latent features made dependent through a layer of categories, each observation''s features being a function of how many of its categories carry each feature, stay finite on finite data when a feature carried by none of an observation''s categories is always off; under that condition a category can switch features on and never off, so features depend on one another by sharing a category, or, where an observation has a single category, by excluding one another, and no feature or category suppresses another'
+title: 'Category-shared features never suppress each other'
+statement: >-
+  Latent features made dependent through a layer of categories, each
+  observation's features being a function of how many of its categories
+  carry each feature, stay finite on finite data when a feature carried by
+  none of an observation's categories is always off; under that condition a
+  category can switch features on and never off, so features depend on one
+  another by sharing a category, or, where an observation has a single
+  category, by excluding one another, and no feature or category suppresses
+  another
 version: 2
 history:
 - version: 1
@@ -45,7 +54,7 @@ corroborates:
 - CLAIM-454
 ---
 
-# THEORY-1012: Latent features made dependent through a layer of categories, each observation's features being a function of how many of its categories carry each feature, stay finite on finite data when a feature carried by none of an observation's categories is always off; under that condition a category can switch features on and never off, so features depend on one another by sharing a category, or, where an observation has a single category, by excluding one another, and no feature or category suppresses another
+# THEORY-1012: Category-shared features never suppress each other
 
 ## Source
 

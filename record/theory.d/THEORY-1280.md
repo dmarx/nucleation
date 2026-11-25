@@ -13,7 +13,13 @@ promote_when: >-
   agent-based one misses, on a case where the two disagree. What cannot
   settle it: further rereadings of episodes already described, which show
   that the vocabulary applies, not that it discriminates.
-title: 'Agency can be redescribed without agents, as the affective force by which one individuation process takes up another''s excess action in a communicative event and both pass from a lesser to an augmented ability to act; agents are then effects of such events, and the absence of the force is disindividuation'
+title: 'Agency is affective force, agents its effects'
+statement: >-
+  Agency can be redescribed without agents, as the affective force by which
+  one individuation process takes up another's excess action in a
+  communicative event and both pass from a lesser to an augmented ability to
+  act; agents are then effects of such events, and the absence of the force
+  is disindividuation
 version: 1
 tags:
 - individuation
@@ -36,7 +42,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-355 — Proposed; the record's own claim set beside this reading -->
 
-# THEORY-1280: Agency can be redescribed without agents, as the affective force by which one individuation process takes up another's excess action in a communicative event and both pass from a lesser to an augmented ability to act; agents are then effects of such events, and the absence of the force is disindividuation
+# THEORY-1280: Agency is affective force, agents its effects
 
 ## Source
 

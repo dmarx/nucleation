@@ -16,7 +16,14 @@ promote_when: >-
   settle it, being brief and hedged, and neither can its closing question
   of whether ethics fixes what matters, which would change how every case
   is read without counting for or against this one.
-title: "In the ethical questions that seem to turn on whether someone is the same person, among them prudential concern, responsibility, abortion, advance directives and the separateness of persons, the relation that decides is usually not numerical identity but one that comes apart from it, so the metaphysics of persistence constrains these questions and rarely settles them"
+title: 'Ethics turns on relations other than identity'
+statement: >-
+  In the ethical questions that seem to turn on whether someone is the same
+  person, among them prudential concern, responsibility, abortion, advance
+  directives and the separateness of persons, the relation that decides is
+  usually not numerical identity but one that comes apart from it, so the
+  metaphysics of persistence constrains these questions and rarely settles
+  them
 version: 2
 history:
 - version: 2
@@ -54,7 +61,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-448 THEORY-546 THEORY-650 — Proposed; filed in the same batch and named as a rival, a parallel or a contrast, not leaned on -->
 <!-- inactive-ok-file: THEORY-147 — Proposed; named as a neighbouring account, nothing here rests on its being settled -->
 
-# THEORY-464: In the ethical questions that seem to turn on whether someone is the same person, among them prudential concern, responsibility, abortion, advance directives and the separateness of persons, the relation that decides is usually not numerical identity but one that comes apart from it, so the metaphysics of persistence constrains these questions and rarely settles them
+# THEORY-464: Ethics turns on relations other than identity
 
 ## Source
 

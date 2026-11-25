@@ -3,7 +3,13 @@ number: 530
 status: Active
 formerly:
 - THEORY-tmpgx4tw
-title: "The spectrum of a matrix bounds the norm of its rational functions up to a constant only if the matrix is diagonalisable, with the eigenvector condition number as the constant, while the closed numerical range of any Hilbert-space operator does so with a universal constant between 2 and 11.08, exactly 2 for 2×2 matrices"
+title: 'Numerical range bounds rational functions'
+statement: >-
+  The spectrum of a matrix bounds the norm of its rational functions up to a
+  constant only if the matrix is diagonalisable, with the eigenvector
+  condition number as the constant, while the closed numerical range of any
+  Hilbert-space operator does so with a universal constant between 2 and
+  11.08, exactly 2 for 2×2 matrices
 version: 1
 tags:
 - mathematics
@@ -23,7 +29,7 @@ summary: >-
 
 <!-- inactive-ok-file: THEORY-325 — Proposed; named in Connections for contrast, not leaned on -->
 
-# THEORY-530: The spectrum of a matrix bounds the norm of its rational functions up to a constant only if the matrix is diagonalisable, with the eigenvector condition number as the constant, while the closed numerical range of any Hilbert-space operator does so with a universal constant between 2 and 11.08, exactly 2 for 2×2 matrices
+# THEORY-530: Numerical range bounds rational functions
 
 ## Source
 

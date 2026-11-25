@@ -3,7 +3,13 @@ number: 608
 status: Active
 formerly:
 - THEORY-tmppr4ux
-title: "On one physical piano-movers puzzle scaled to the solver, ant groups solve better as they grow, while human groups barred from speech and gesture solve worse than individuals and talking groups only about as well as one; large ant groups keep speed and heading through wall contact, and the human mechanisms offered are fitted or observed informally, not tested"
+title: 'Ant groups improve with size; humans don''t'
+statement: >-
+  On one physical piano-movers puzzle scaled to the solver, ant groups solve
+  better as they grow, while human groups barred from speech and gesture
+  solve worse than individuals and talking groups only about as well as one;
+  large ant groups keep speed and heading through wall contact, and the
+  human mechanisms offered are fitted or observed informally, not tested
 version: 1
 tags:
 - complex-systems
@@ -25,7 +31,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-402 — Proposed; the account that leans on this finding, named for context -->
 
-# THEORY-608: On one physical piano-movers puzzle scaled to the solver, ant groups solve better as they grow, while human groups barred from speech and gesture solve worse than individuals and talking groups only about as well as one; large ant groups keep speed and heading through wall contact, and the human mechanisms offered are fitted or observed informally, not tested
+# THEORY-608: Ant groups improve with size; humans don't
 
 ## Source
 

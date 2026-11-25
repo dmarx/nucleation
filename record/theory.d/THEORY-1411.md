@@ -10,7 +10,14 @@ promote_when: >-
   and that training reduces the number of accessible folded structures as
   the variance of crease stiffness grows while enlarging the attractors of
   those that remain.
-title: 'Stern, Arinze, Perez, Palmer and Murugan show in simulation that a creased thin sheet trained by repeatedly folding it under example force patterns, with each crease softening when a supervisor judges the fold correct and stiffening otherwise, comes to fold unseen test force patterns into the correct class''s structure, because the heterogeneous stiffness it acquires eliminates most folded structures and enlarges the basins of a few'
+title: 'Creased sheet can learn to classify forces'
+statement: >-
+  Stern, Arinze, Perez, Palmer and Murugan show in simulation that a creased
+  thin sheet trained by repeatedly folding it under example force patterns,
+  with each crease softening when a supervisor judges the fold correct and
+  stiffening otherwise, comes to fold unseen test force patterns into the
+  correct class's structure, because the heterogeneous stiffness it acquires
+  eliminates most folded structures and enlarges the basins of a few
 version: 2
 history:
 - version: 2
@@ -42,7 +49,7 @@ bears_on:
 - QUESTION-388
 ---
 
-# THEORY-1411: Stern, Arinze, Perez, Palmer and Murugan show in simulation that a creased thin sheet trained by repeatedly folding it under example force patterns, with each crease softening when a supervisor judges the fold correct and stiffening otherwise, comes to fold unseen test force patterns into the correct class's structure, because the heterogeneous stiffness it acquires eliminates most folded structures and enlarges the basins of a few
+# THEORY-1411: Creased sheet can learn to classify forces
 
 ## Source
 

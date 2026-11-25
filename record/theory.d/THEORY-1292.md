@@ -12,7 +12,16 @@ promote_when: >-
   (the damped ones regaining phase faster, the self-sustained ones slower
   or by a long delay), or must fail to. Further simulations, or isolation
   results without the phase-shift comparison, do not settle it.
-title: 'Whether a coupled oscillator sustains its own rhythm or is a damped oscillator driven from outside is settled directly by removing the drive, and, because the two arrangements are not dynamically equivalent, may also show in how they respond to a shift of phase: in Leise and Siegelmann''s model, damped peripheral clocks regain their phase relation to the central clock quickly, while self-sustained ones take longer, need strong coupling, and sometimes resynchronize by a long delay instead of an advance'
+title: 'Drive removal tells self-sustained from damped'
+statement: >-
+  Whether a coupled oscillator sustains its own rhythm or is a damped
+  oscillator driven from outside is settled directly by removing the drive,
+  and, because the two arrangements are not dynamically equivalent, may also
+  show in how they respond to a shift of phase: in Leise and Siegelmann's
+  model, damped peripheral clocks regain their phase relation to the central
+  clock quickly, while self-sustained ones take longer, need strong
+  coupling, and sometimes resynchronize by a long delay instead of an
+  advance
 version: 1
 history:
 - version: 1
@@ -44,7 +53,7 @@ summary: >-
   state may tell them apart.
 ---
 
-# THEORY-1292: Whether a coupled oscillator sustains its own rhythm or is a damped oscillator driven from outside is settled directly by removing the drive, and, because the two arrangements are not dynamically equivalent, may also show in how they respond to a shift of phase: in Leise and Siegelmann's model, damped peripheral clocks regain their phase relation to the central clock quickly, while self-sustained ones take longer, need strong coupling, and sometimes resynchronize by a long delay instead of an advance
+# THEORY-1292: Drive removal tells self-sustained from damped
 
 ## Source
 

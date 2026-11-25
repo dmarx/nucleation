@@ -3,7 +3,14 @@ number: 1015
 status: Active
 formerly:
 - THEORY-tmpz726y
-title: 'Groups of objects drawn from beta processes share features only if the measure they are drawn around is discrete; in the hierarchical beta process that measure is itself a beta process draw, and at each shared feature a group''s prevalence is Beta(c_j b, c_j(1 − b)) around the shared prevalence b, so a small c_j lets groups differ and a large one pulls them together'
+title: 'Concentration c_j sets how much groups share'
+statement: >-
+  Groups of objects drawn from beta processes share features only if the
+  measure they are drawn around is discrete; in the hierarchical beta
+  process that measure is itself a beta process draw, and at each shared
+  feature a group's prevalence is Beta(c_j b, c_j(1 − b)) around the shared
+  prevalence b, so a small c_j lets groups differ and a large one pulls them
+  together
 version: 2
 history:
 - version: 1
@@ -39,7 +46,7 @@ bears_on:
 - QUESTION-276
 ---
 
-# THEORY-1015: Groups of objects drawn from beta processes share features only if the measure they are drawn around is discrete; in the hierarchical beta process that measure is itself a beta process draw, and at each shared feature a group's prevalence is Beta(c_j b, c_j(1 − b)) around the shared prevalence b, so a small c_j lets groups differ and a large one pulls them together
+# THEORY-1015: Concentration c_j sets how much groups share
 
 ## Source
 

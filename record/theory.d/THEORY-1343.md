@@ -16,7 +16,14 @@ promote_when: >-
   numerics in integrable models only, does not settle it, and neither does
   insensitivity of slow eigenvalues to L in a model whose IOMs are exact
   eigenoperators.
-title: 'The first-order picture in which a small integral of motion Q of a many-body Hamiltonian is, under weak local noise, the slowest Lindbladian eigenoperator holds at large system size whenever its leak ε out of span{Q} satisfies ε ≲ γ ≪ 1, because the gap controlling the perturbation is not the exponentially small level spacing but one of order min(γL, √(v_Bγ)), set by the ballistic growth of the operators Q leaks into'
+title: 'Weak noise makes near-conserved Q slowest mode'
+statement: >-
+  The first-order picture in which a small integral of motion Q of a
+  many-body Hamiltonian is, under weak local noise, the slowest Lindbladian
+  eigenoperator holds at large system size whenever its leak ε out of
+  span{Q} satisfies ε ≲ γ ≪ 1, because the gap controlling the perturbation
+  is not the exponentially small level spacing but one of order min(γL,
+  √(v_Bγ)), set by the ballistic growth of the operators Q leaks into
 version: 1
 tags:
 - natural-sciences
@@ -34,7 +41,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-478 — Proposed; the claim the time-scale ratio bears on -->
 
-# THEORY-1343: The first-order picture in which a small integral of motion Q of a many-body Hamiltonian is, under weak local noise, the slowest Lindbladian eigenoperator holds at large system size whenever its leak ε out of span{Q} satisfies ε ≲ γ ≪ 1, because the gap controlling the perturbation is not the exponentially small level spacing but one of order min(γL, √(v_Bγ)), set by the ballistic growth of the operators Q leaks into
+# THEORY-1343: Weak noise makes near-conserved Q slowest mode
 
 ## Source
 

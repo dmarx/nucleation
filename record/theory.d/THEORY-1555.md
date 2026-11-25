@@ -14,7 +14,15 @@ promote_when: >-
   in 1 and 2 dimensions the loss rate falls exponentially with amplitude so
   that they never decay. Whether fine-tuned oscillons are permanent is not
   asked.
-title: 'For a real scalar field with an analytic potential, every localized oscillating state except the 1+1 dimensional sine-Gordon breather radiates, at a rate exponentially small in its amplitude parameter but nonzero; in 3+1 dimensions such oscillons are stable only above a minimum amplitude and decay suddenly once radiation has carried them below it, after a few thousand oscillations at most, while in 1 and 2 dimensions the loss rate falls exponentially as the amplitude falls and they never decay'
+title: 'Oscillons radiate except the sine-Gordon breather'
+statement: >-
+  For a real scalar field with an analytic potential, every localized
+  oscillating state except the 1+1 dimensional sine-Gordon breather
+  radiates, at a rate exponentially small in its amplitude parameter but
+  nonzero; in 3+1 dimensions such oscillons are stable only above a minimum
+  amplitude and decay suddenly once radiation has carried them below it,
+  after a few thousand oscillations at most, while in 1 and 2 dimensions the
+  loss rate falls exponentially as the amplitude falls and they never decay
 version: 1
 tags:
 - natural-sciences
@@ -35,7 +43,7 @@ summary: >-
   the old title and condition word for word.
 ---
 
-# THEORY-1555: For a real scalar field with an analytic potential, every localized oscillating state except the 1+1 dimensional sine-Gordon breather radiates, at a rate exponentially small in its amplitude parameter but nonzero; in 3+1 dimensions such oscillons are stable only above a minimum amplitude and decay suddenly once radiation has carried them below it, after a few thousand oscillations at most, while in 1 and 2 dimensions the loss rate falls exponentially as the amplitude falls and they never decay
+# THEORY-1555: Oscillons radiate except the sine-Gordon breather
 
 ## Source
 

@@ -3,7 +3,16 @@ number: 2003
 status: Proposed
 formerly:
 - THEORY-tmp1cus0
-title: 'Geiger and colleagues define a high-level causal model as a constructive abstraction of a network when, under an alignment that partitions the network''s variables into cells mapped onto high-level variables, translating the network''s solutions under each aligned intervention gives the high-level model''s solutions under the corresponding intervention, and they test this with interchange interventions that set aligned variables to the values a different source input would give, scored as interchange intervention accuracy'
+title: 'Interchange interventions test causal abstraction'
+statement: >-
+  Geiger and colleagues define a high-level causal model as a constructive
+  abstraction of a network when, under an alignment that partitions the
+  network's variables into cells mapped onto high-level variables,
+  translating the network's solutions under each aligned intervention gives
+  the high-level model's solutions under the corresponding intervention, and
+  they test this with interchange interventions that set aligned variables
+  to the values a different source input would give, scored as interchange
+  intervention accuracy
 version: 1
 source:
 - LIT-2800
@@ -38,7 +47,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-2086 — Skimmed; cited in this filing of 2026-11-19 -->
 
-# THEORY-2003: Geiger and colleagues define a high-level causal model as a constructive abstraction of a network when, under an alignment that partitions the network's variables into cells mapped onto high-level variables, translating the network's solutions under each aligned intervention gives the high-level model's solutions under the corresponding intervention, and they test this with interchange interventions that set aligned variables to the values a different source input would give, scored as interchange intervention accuracy
+# THEORY-2003: Interchange interventions test causal abstraction
 
 ## The account
 

@@ -13,7 +13,13 @@ promote_when: >-
   It is promoted if those track r; it is refuted if the behaviours are as
   common at low measured r as at high. More natural-history cases that fit
   cannot settle it, since §7 explains contrary cases away one by one.
-title: "Social behaviour evolves as if each individual valued a neighbour's fitness against its own by their coefficient of relationship, and its discriminations evolve to make that coefficient determinate; so kin are favoured and strangers met with hostility, relatives fight less, and haplodiploid sisters, related by 3/4, are predisposed to worker altruism"
+title: 'Behaviour weighs kin fitness by relatedness'
+statement: >-
+  Social behaviour evolves as if each individual valued a neighbour's
+  fitness against its own by their coefficient of relationship, and its
+  discriminations evolve to make that coefficient determinate; so kin are
+  favoured and strangers met with hostility, relatives fight less, and
+  haplodiploid sisters, related by 3/4, are predisposed to worker altruism
 version: 3
 history:
 - version: 2
@@ -54,7 +60,7 @@ corroborates:
 
 <!-- inactive-ok-file: LIT-503 — Proposed: Curry 2016, the statement of morality-as-cooperation; cited for the family and group-loyalty domains it credits to "Hamilton, 1964" -->
 
-# THEORY-655: Social behaviour evolves as if each individual valued a neighbour's fitness against its own by their coefficient of relationship, and its discriminations evolve to make that coefficient determinate; so kin are favoured and strangers met with hostility, relatives fight less, and haplodiploid sisters, related by 3/4, are predisposed to worker altruism
+# THEORY-655: Behaviour weighs kin fitness by relatedness
 
 ## Source
 

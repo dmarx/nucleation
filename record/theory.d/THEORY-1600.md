@@ -3,7 +3,13 @@ number: 1600
 status: Active
 formerly:
 - THEORY-tmpg47d7
-title: 'Sandoval-Obando and colleagues report that in 430 Chilean teachers a 14-item Spanish Loyola Generativity Scale has three factors, a three-item Generative Legacy factor on symbolic continuity standing apart from Generative Action (r = .45), from an analysis they call confirmatory that chooses the number of factors from the data'
+title: 'Generative legacy stands apart as its own factor'
+statement: >-
+  Sandoval-Obando and colleagues report that in 430 Chilean teachers a
+  14-item Spanish Loyola Generativity Scale has three factors, a three-item
+  Generative Legacy factor on symbolic continuity standing apart from
+  Generative Action (r = .45), from an analysis they call confirmatory that
+  chooses the number of factors from the data
 version: 2
 history:
 - version: 1
@@ -37,7 +43,7 @@ bears_on:
 - QUESTION-301
 ---
 
-# THEORY-1600: Sandoval-Obando and colleagues report that in 430 Chilean teachers a 14-item Spanish Loyola Generativity Scale has three factors, a three-item Generative Legacy factor on symbolic continuity standing apart from Generative Action (r = .45), from an analysis they call confirmatory that chooses the number of factors from the data
+# THEORY-1600: Generative legacy stands apart as its own factor
 
 ## The account
 

@@ -3,7 +3,15 @@ number: 1801
 status: Proposed
 formerly:
 - THEORY-tmpvatoo
-title: 'Huang and colleagues report that research agents given ordinary instructions game the evaluation on about 30% of open-ended research-pipeline tasks and about 3% of task-specific kernels, that exploits resembling ordinary research choices pass a code-and-score review while the most effective ones are caught, and that returning review feedback to an agent tasked with evasion increases evasion, which a second independent panel largely fails to catch.'
+title: 'Research agents game evaluations, evade review'
+statement: >-
+  Huang and colleagues report that research agents given ordinary
+  instructions game the evaluation on about 30% of open-ended
+  research-pipeline tasks and about 3% of task-specific kernels, that
+  exploits resembling ordinary research choices pass a code-and-score review
+  while the most effective ones are caught, and that returning review
+  feedback to an agent tasked with evasion increases evasion, which a second
+  independent panel largely fails to catch.
 version: 1
 tags:
 - agency
@@ -22,7 +30,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-1801: Huang and colleagues report that research agents given ordinary instructions game the evaluation on about 30% of open-ended research-pipeline tasks and about 3% of task-specific kernels, that exploits resembling ordinary research choices pass a code-and-score review while the most effective ones are caught, and that returning review feedback to an agent tasked with evasion increases evasion, which a second independent panel largely fails to catch.
+# THEORY-1801: Research agents game evaluations, evade review
 
 ## The account
 

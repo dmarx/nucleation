@@ -3,7 +3,15 @@ number: 1771
 status: Proposed
 formerly:
 - THEORY-tmpkjz86
-title: '- **Sentence**: Xu et al. (2025) propose A-MEM, an agent memory in which an LLM writes each new memory as a Zettelkasten-style note, links it to similar earlier notes and rewrites those notes'' descriptions in place, and report that it outperforms fixed-structure memory baselines on long-conversation question answering, most on multi-hop questions, at lower token cost, with link generation and memory evolution each contributing in ablation. -'
+title: 'Evolving note-linked memory beats fixed memory'
+statement: >-
+  - **Sentence**: Xu et al. (2025) propose A-MEM, an agent memory in which
+  an LLM writes each new memory as a Zettelkasten-style note, links it to
+  similar earlier notes and rewrites those notes' descriptions in place, and
+  report that it outperforms fixed-structure memory baselines on
+  long-conversation question answering, most on multi-hop questions, at
+  lower token cost, with link generation and memory evolution each
+  contributing in ablation. -
 version: 1
 tags:
 - information-retrieval
@@ -25,7 +33,7 @@ summary: >-
   its promote_when is met.
 ---
 
-# THEORY-1771: - **Sentence**: Xu et al. (2025) propose A-MEM, an agent memory in which an LLM writes each new memory as a Zettelkasten-style note, links it to similar earlier notes and rewrites those notes' descriptions in place, and report that it outperforms fixed-structure memory baselines on long-conversation question answering, most on multi-hop questions, at lower token cost, with link generation and memory evolution each contributing in ablation. -
+# THEORY-1771: Evolving note-linked memory beats fixed memory
 
 ## The account
 

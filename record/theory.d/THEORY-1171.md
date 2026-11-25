@@ -3,7 +3,11 @@ number: 1171
 status: Proposed
 formerly:
 - THEORY-tmpjlg7h
-title: 'In groups that build a new communication system, larger groups make it more systematic, and the greater variety of input they face drives the effect'
+title: 'Larger groups build more systematic languages'
+statement: >-
+  In groups that build a new communication system, larger groups make it
+  more systematic, and the greater variety of input they face drives the
+  effect
 version: 1
 tags:
 - linguistics
@@ -35,7 +39,7 @@ summary: >-
   variability causes it, is open.
 ---
 
-# THEORY-1171: In groups that build a new communication system, larger groups make it more systematic, and the greater variety of input they face drives the effect
+# THEORY-1171: Larger groups build more systematic languages
 
 ## Source
 

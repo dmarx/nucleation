@@ -3,7 +3,14 @@ number: 216
 status: Active
 formerly:
 - THEORY-tmp7w5tq
-title: 'On the 2017 r/place log, with coalitions recovered from co-placement, which coalitions survive is barely predictable early from their size, area, start time and colour entropy, the size distribution of recovered coalitions shifts toward large ones as the event proceeds, and some lasting artworks were held by coalitions that kept working under sustained overwriting'
+title: 'r/place coalition survival is barely predictable'
+statement: >-
+  On the 2017 r/place log, with coalitions recovered from co-placement,
+  which coalitions survive is barely predictable early from their size,
+  area, start time and colour entropy, the size distribution of recovered
+  coalitions shifts toward large ones as the event proceeds, and some
+  lasting artworks were held by coalitions that kept working under sustained
+  overwriting
 version: 5
 history:
 - version: 2
@@ -64,7 +71,7 @@ bounds:
 ---
 <!-- inactive-ok-file: THEORY-795 — Proposed; the population thesis this entry's narrowing dropped, filed apart under ADR-047 v4 and extending this one -->
 
-# THEORY-216: On the 2017 r/place log, with coalitions recovered from co-placement, which coalitions survive is barely predictable early from their size, area, start time and colour entropy, the size distribution of recovered coalitions shifts toward large ones as the event proceeds, and some lasting artworks were held by coalitions that kept working under sustained overwriting
+# THEORY-216: r/place coalition survival is barely predictable
 
 ## Source
 

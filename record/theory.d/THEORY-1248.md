@@ -3,7 +3,13 @@ number: 1248
 status: Active
 formerly:
 - THEORY-tmp05y8u
-title: 'Catalysts cancel out of the stoichiometric matrix, so a cycle of mutual catalytic production among species is not a stoichiometric cycle: the cycles that carry a reaction network''s steady currents and affinities are fuel-to-waste pathways through it, and who catalyses whom enters only the rates, never the thermodynamic driving'
+title: 'Catalysis cycles aren''t thermodynamic cycles'
+statement: >-
+  Catalysts cancel out of the stoichiometric matrix, so a cycle of mutual
+  catalytic production among species is not a stoichiometric cycle: the
+  cycles that carry a reaction network's steady currents and affinities are
+  fuel-to-waste pathways through it, and who catalyses whom enters only the
+  rates, never the thermodynamic driving
 version: 2
 history:
 - version: 2
@@ -35,7 +41,7 @@ bounds:
 - CLAIM-516
 ---
 
-# THEORY-1248: Catalysts cancel out of the stoichiometric matrix, so a cycle of mutual catalytic production among species is not a stoichiometric cycle: the cycles that carry a reaction network's steady currents and affinities are fuel-to-waste pathways through it, and who catalyses whom enters only the rates, never the thermodynamic driving
+# THEORY-1248: Catalysis cycles aren't thermodynamic cycles
 
 ## Source
 

@@ -3,7 +3,15 @@ number: 754
 status: Active
 formerly:
 - THEORY-tmpfcxzq
-title: 'If a velocity field''s third-order increments obey ‖δu(r)‖₃ ≤ C u_rms (r/L)^σ at every separation r, with 0 < σ < 1, then for a smooth, rapidly decaying filter the space-averaged energy flux across scale ℓ takes at most a fraction of order (ℓ/Δ)^(1−σ) from strain at scales above Δ and of order (δ/ℓ)^(2σ) from stress at scales below δ, measured against u_rms³/L·(ℓ/L)^(3σ−1); so transfer between scales is local in scale, with a power-law decay and no gap'
+title: 'Energy transfer is local in scale'
+statement: >-
+  If a velocity field's third-order increments obey ‖δu(r)‖₃ ≤ C u_rms
+  (r/L)^σ at every separation r, with 0 < σ < 1, then for a smooth, rapidly
+  decaying filter the space-averaged energy flux across scale ℓ takes at
+  most a fraction of order (ℓ/Δ)^(1−σ) from strain at scales above Δ and of
+  order (δ/ℓ)^(2σ) from stress at scales below δ, measured against
+  u_rms³/L·(ℓ/L)^(3σ−1); so transfer between scales is local in scale, with
+  a power-law decay and no gap
 version: 3
 history:
 - version: 1
@@ -50,7 +58,7 @@ bears_on:
 <!-- inactive-ok-file: LIT-1252 — Deferred; the paper holding the original proofs, registered unread, cited as the source the reading refers to -->
 <!-- inactive-ok-file: CLAIM-157 — Proposed; the block criterion this account is contrasted with, open -->
 <!-- inactive-ok-file: THEORY-2187 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
-# THEORY-754: If a velocity field's third-order increments obey ‖δu(r)‖₃ ≤ C u_rms (r/L)^σ at every separation r, with 0 < σ < 1, then for a smooth, rapidly decaying filter the space-averaged energy flux across scale ℓ takes at most a fraction of order (ℓ/Δ)^(1−σ) from strain at scales above Δ and of order (δ/ℓ)^(2σ) from stress at scales below δ, measured against u_rms³/L·(ℓ/L)^(3σ−1); so transfer between scales is local in scale, with a power-law decay and no gap
+# THEORY-754: Energy transfer is local in scale
 
 ## Source
 

@@ -18,7 +18,16 @@ promote_when: >-
   do. It is refuted for a modality if its constancies are fully accounted
   for by invariants of the stimulus, with no internal transformation
   needed.
-title: 'Perceptual constancies are invariants of transformations that act within experience, not only of physical transformations or planar projections, since perceived shape and depth match no linear projection and the transformations can be realized with no physical change; on Isaac''s structuralist account, after Cassirer, it is these invariants, co-present in experience with the varying appearances they abstract from, that make experience represent an objective world and so distinguish subject from object'
+title: 'Constancies are invariants within experience'
+statement: >-
+  Perceptual constancies are invariants of transformations that act within
+  experience, not only of physical transformations or planar projections,
+  since perceived shape and depth match no linear projection and the
+  transformations can be realized with no physical change; on Isaac's
+  structuralist account, after Cassirer, it is these invariants, co-present
+  in experience with the varying appearances they abstract from, that make
+  experience represent an objective world and so distinguish subject from
+  object
 version: 1
 history:
 - version: 1
@@ -50,7 +59,7 @@ summary: >-
   loosely: the paper's own examples are groupoids or toy models.
 ---
 <!-- inactive-ok-file: CLAIM-412 THEORY-880 THEORY-867 — Proposed; the record's claims and the structuralist account this one is set beside, nothing here rests on their being settled -->
-# THEORY-959: Perceptual constancies are invariants of transformations that act within experience, not only of physical transformations or planar projections, since perceived shape and depth match no linear projection and the transformations can be realized with no physical change; on Isaac's structuralist account, after Cassirer, it is these invariants, co-present in experience with the varying appearances they abstract from, that make experience represent an objective world and so distinguish subject from object
+# THEORY-959: Constancies are invariants within experience
 
 ## Source
 

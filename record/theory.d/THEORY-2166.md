@@ -3,7 +3,15 @@ number: 2166
 status: Proposed
 formerly:
 - THEORY-tmpt1tw7
-title: 'Transtrum and Qiu reduce a sloppy model by following a geodesic along the Fisher metric''s least sensitive direction until its smallest eigenvalue goes to zero at a boundary of the bounded model manifold, evaluating the limit found there to remove one parameter combination, refitting and repeating, so that the reduced model sits at a hypercorner; the method needs the manifold to have a hierarchy of edges and corners as well as of widths'
+title: 'Geodesics to manifold edges reduce sloppy models'
+statement: >-
+  Transtrum and Qiu reduce a sloppy model by following a geodesic along the
+  Fisher metric's least sensitive direction until its smallest eigenvalue
+  goes to zero at a boundary of the bounded model manifold, evaluating the
+  limit found there to remove one parameter combination, refitting and
+  repeating, so that the reduced model sits at a hypercorner; the method
+  needs the manifold to have a hierarchy of edges and corners as well as of
+  widths
 promote_when: >-
   An application of the method by authors outside the Sethna group and
   its authors' collaborators, to a model they did not design, that
@@ -31,7 +39,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-833 — Proposed; filed 2026-11-21 from the exchange "Rich Get Richer Power Laws" -->
 
-# THEORY-2166: Transtrum and Qiu reduce a sloppy model by following a geodesic along the Fisher metric's least sensitive direction until its smallest eigenvalue goes to zero at a boundary of the bounded model manifold, evaluating the limit found there to remove one parameter combination, refitting and repeating, so that the reduced model sits at a hypercorner; the method needs the manifold to have a hierarchy of edges and corners as well as of widths
+# THEORY-2166: Geodesics to manifold edges reduce sloppy models
 
 ## Source
 

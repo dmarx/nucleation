@@ -11,7 +11,14 @@ promote_when: >-
   freedom space, where linear actuators must act to drive the permitted
   motions without parasitic error shifts with the flexures' stiffness as
   the twist–wrench stiffness matrix predicts.
-title: "All freedom–constraint space pairs of a flexure-guided rigid body fall into 50 types, only those whose constraint space holds enough pure-force lines can be realised by parallel flexures while the rest need modules stacked in series, and where linear actuators must act to drive the permitted motions without parasitic error is set by the flexures' stiffness and not by the freedom space alone"
+title: 'Freedom–constraint pairs fall into 50 types'
+statement: >-
+  All freedom–constraint space pairs of a flexure-guided rigid body fall
+  into 50 types, only those whose constraint space holds enough pure-force
+  lines can be realised by parallel flexures while the rest need modules
+  stacked in series, and where linear actuators must act to drive the
+  permitted motions without parasitic error is set by the flexures'
+  stiffness and not by the freedom space alone
 version: 1
 history:
 - version: 1
@@ -44,7 +51,7 @@ summary: >-
   classification and a second test exist.
 ---
 
-# THEORY-1556: All freedom–constraint space pairs of a flexure-guided rigid body fall into 50 types, only those whose constraint space holds enough pure-force lines can be realised by parallel flexures while the rest need modules stacked in series, and where linear actuators must act to drive the permitted motions without parasitic error is set by the flexures' stiffness and not by the freedom space alone
+# THEORY-1556: Freedom–constraint pairs fall into 50 types
 
 ## Source
 

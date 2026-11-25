@@ -12,7 +12,12 @@ promote_when: >-
   share of government expenditure under a comparable design. The same
   designs finding no effect, or a positive one, would refute it. Further
   bivariate correlations or case narratives cannot settle it.
-title: 'Large aid sustained over decades can weaken a recipient state''s institutions: it substitutes for taxation, grants and not loans going with lower revenue, and it decouples the state''s revenue from its performance, weakening its accountability to citizens'
+title: 'Large sustained aid can weaken institutions'
+statement: >-
+  Large aid sustained over decades can weaken a recipient state's
+  institutions: it substitutes for taxation, grants and not loans going with
+  lower revenue, and it decouples the state's revenue from its performance,
+  weakening its accountability to citizens
 version: 1
 tags:
 - society-and-governance
@@ -32,7 +37,7 @@ corroborates:
 - CLAIM-602
 ---
 
-# THEORY-1460: Large aid sustained over decades can weaken a recipient state's institutions: it substitutes for taxation, grants and not loans going with lower revenue, and it decouples the state's revenue from its performance, weakening its accountability to citizens
+# THEORY-1460: Large sustained aid can weaken institutions
 
 ## Source
 

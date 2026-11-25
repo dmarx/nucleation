@@ -3,7 +3,14 @@ number: 229
 status: Active
 formerly:
 - THEORY-tmpbaoyn
-title: "For a symmetrized Barlow Twins loss on a linear or fixed-kernel model, gradient flow from a small initialization of common scale aligned with the top eigenvectors of the pairs' symmetrized cross-correlation learns them one at a time, in order of eigenvalue, and ends at a top spectral solution, which is exactly a minimum-norm zero-loss solution: kernel PCA on K_Γ"
+title: 'Barlow Twins learns eigenvectors in order'
+statement: >-
+  For a symmetrized Barlow Twins loss on a linear or fixed-kernel model,
+  gradient flow from a small initialization of common scale aligned with the
+  top eigenvectors of the pairs' symmetrized cross-correlation learns them
+  one at a time, in order of eigenvalue, and ends at a top spectral
+  solution, which is exactly a minimum-norm zero-loss solution: kernel PCA
+  on K_Γ
 version: 4
 history:
 - version: 2
@@ -59,7 +66,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-793 — Proposed; the wider claim this account was narrowed from, which extends it and is cited as open -->
 <!-- inactive-ok-file: THEORY-182 THEORY-186 — Proposed or Open, or Active and cited for context; this account rests on none of them -->
 
-# THEORY-229: For a symmetrized Barlow Twins loss on a linear or fixed-kernel model, gradient flow from a small initialization of common scale aligned with the top eigenvectors of the pairs' symmetrized cross-correlation learns them one at a time, in order of eigenvalue, and ends at a top spectral solution, which is exactly a minimum-norm zero-loss solution: kernel PCA on K_Γ
+# THEORY-229: Barlow Twins learns eigenvectors in order
 
 ## Source
 

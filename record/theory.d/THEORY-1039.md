@@ -18,7 +18,12 @@ promote_when: >-
   ablation alone removes it. More successful edits cannot settle it: an
   edit's success at a layer shows that the layer can write the needed
   output, not that it held the fact (Makelov et al.'s Lemma D.2).
-title: 'In autoregressive transformer language models, factual associations are recalled through middle-layer MLP modules acting as key–value memories, and any fact could be stored equally in any one of the middle MLP layers, as Meng, Bau, Andonian and Belinkov conjecture'
+title: 'Any middle MLP layer could store a fact'
+statement: >-
+  In autoregressive transformer language models, factual associations are
+  recalled through middle-layer MLP modules acting as key–value memories,
+  and any fact could be stored equally in any one of the middle MLP layers,
+  as Meng, Bau, Andonian and Belinkov conjecture
 version: 1
 history:
 - version: 1
@@ -54,7 +59,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-1011 — Rejected; the entry this conjecture was split from, cited as its origin -->
 <!-- inactive-ok-file: THEORY-1026 — Proposed; Hase et al.'s neighbouring account, cited as the nearest rival reading -->
 
-# THEORY-1039: In autoregressive transformer language models, factual associations are recalled through middle-layer MLP modules acting as key–value memories, and any fact could be stored equally in any one of the middle MLP layers, as Meng, Bau, Andonian and Belinkov conjecture
+# THEORY-1039: Any middle MLP layer could store a fact
 
 ## Source
 

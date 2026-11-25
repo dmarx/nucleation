@@ -3,7 +3,15 @@ number: 1679
 status: Proposed
 formerly:
 - THEORY-tmpdxfxs
-title: 'The Digital Services Act forbids online platforms to design or operate interfaces that deceive, manipulate or otherwise materially distort users'' ability to make free and informed decisions, except where consumer or data-protection law already governs the practice; it requires platforms to disclose the main parameters of their recommender systems and why items are suggested, and requires very large platforms to offer at least one recommender option not based on profiling'
+title: 'DSA bans dark patterns, needs a non-profiled feed'
+statement: >-
+  The Digital Services Act forbids online platforms to design or operate
+  interfaces that deceive, manipulate or otherwise materially distort users'
+  ability to make free and informed decisions, except where consumer or
+  data-protection law already governs the practice; it requires platforms to
+  disclose the main parameters of their recommender systems and why items
+  are suggested, and requires very large platforms to offer at least one
+  recommender option not based on profiling
 version: 1
 source:
 - LIT-2411
@@ -27,7 +35,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-1754 — Skimmed; the reading filed from the same exchange -->
 
-# THEORY-1679: The Digital Services Act forbids online platforms to design or operate interfaces that deceive, manipulate or otherwise materially distort users' ability to make free and informed decisions, except where consumer or data-protection law already governs the practice; it requires platforms to disclose the main parameters of their recommender systems and why items are suggested, and requires very large platforms to offer at least one recommender option not based on profiling
+# THEORY-1679: DSA bans dark patterns, needs a non-profiled feed
 
 ## The account
 

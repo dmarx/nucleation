@@ -3,7 +3,13 @@ number: 757
 status: Active
 formerly:
 - THEORY-tmpkusod
-title: 'The information bottleneck is successively refinable between every pair of budgets when Y is a function of X, by nested erasures of Y, and when X and Y are both binary, where the optimum at each nonzero budget is unique up to merging and relabelling and its two decoder points are the ends of an interval of the source simplex that only widens as the budget grows'
+title: 'IB refinable when Y=f(X) or both binary'
+statement: >-
+  The information bottleneck is successively refinable between every pair of
+  budgets when Y is a function of X, by nested erasures of Y, and when X and
+  Y are both binary, where the optimum at each nonzero budget is unique up
+  to merging and relabelling and its two decoder points are the ends of an
+  interval of the source simplex that only widens as the budget grows
 version: 2
 history:
 - version: 1
@@ -31,7 +37,7 @@ summary: >-
 bounds:
 - CLAIM-392
 ---
-# THEORY-757: The information bottleneck is successively refinable between every pair of budgets when Y is a function of X, by nested erasures of Y, and when X and Y are both binary, where the optimum at each nonzero budget is unique up to merging and relabelling and its two decoder points are the ends of an interval of the source simplex that only widens as the budget grows
+# THEORY-757: IB refinable when Y=f(X) or both binary
 
 ## Source
 

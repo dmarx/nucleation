@@ -3,7 +3,13 @@ number: 1630
 status: Active
 formerly:
 - THEORY-tmpyjtlo
-title: 'Sugden argues that theories of social preference either fit any choice trivially or cannot represent trust, and that cooperative team reasoning, which intends the common interests of members rather than the collective interest of the team, represents trust and market exchange as joint action for mutual benefit'
+title: 'Team reasoning represents trust and exchange'
+statement: >-
+  Sugden argues that theories of social preference either fit any choice
+  trivially or cannot represent trust, and that cooperative team reasoning,
+  which intends the common interests of members rather than the collective
+  interest of the team, represents trust and market exchange as joint action
+  for mutual benefit
 version: 2
 history:
 - version: 1
@@ -35,7 +41,7 @@ bears_on:
 - QUESTION-300
 ---
 
-# THEORY-1630: Sugden argues that theories of social preference either fit any choice trivially or cannot represent trust, and that cooperative team reasoning, which intends the common interests of members rather than the collective interest of the team, represents trust and market exchange as joint action for mutual benefit
+# THEORY-1630: Team reasoning represents trust and exchange
 
 ## The account
 

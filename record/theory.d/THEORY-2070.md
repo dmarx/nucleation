@@ -3,7 +3,16 @@ number: 2070
 status: Proposed
 formerly:
 - THEORY-tmpj5upc
-title: 'Krohn and Weninger find over all Reddit posts and comments from 2005 to 2019 that links to subreddits that did not yet exist preceded the creation of a sixth of the subreddits later created, that a linked subreddit was created sooner than a randomly drawn later one, and that the chance of creation rose with repeated links to about a third at some twenty, and report all of it as correlation, not cause; links to existing subreddits come with a small, short-lived rise in activity, about as often after a rise as before'
+title: 'Links to missing subreddits precede creation'
+statement: >-
+  Krohn and Weninger find over all Reddit posts and comments from 2005 to
+  2019 that links to subreddits that did not yet exist preceded the creation
+  of a sixth of the subreddits later created, that a linked subreddit was
+  created sooner than a randomly drawn later one, and that the chance of
+  creation rose with repeated links to about a third at some twenty, and
+  report all of it as correlation, not cause; links to existing subreddits
+  come with a small, short-lived rise in activity, about as often after a
+  rise as before
 version: 1
 source:
 - LIT-2860
@@ -23,7 +32,7 @@ summary: >-
   report correlation. Proposed until its promote_when is met.
 ---
 
-# THEORY-2070: Krohn and Weninger find over all Reddit posts and comments from 2005 to 2019 that links to subreddits that did not yet exist preceded the creation of a sixth of the subreddits later created, that a linked subreddit was created sooner than a randomly drawn later one, and that the chance of creation rose with repeated links to about a third at some twenty, and report all of it as correlation, not cause; links to existing subreddits come with a small, short-lived rise in activity, about as often after a rise as before
+# THEORY-2070: Links to missing subreddits precede creation
 
 ## The account
 

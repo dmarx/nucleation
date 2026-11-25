@@ -8,7 +8,12 @@ promote_when: >-
   (NOTE-751) confirms Thm 3.2, Prop. 3.1 and Thm 4.1 with their
   conditions (Thm 4.1 needs d ≥ d*), and one of HaoChen et al.
   (NOTE-740) confirms Lemmas 3.1–3.2.
-title: 'Kernel PCA under the positive-pair density ratio recovers the eigenfunctions of the positive-pair Markov chain, and their top span is minimax-optimal for linear prediction of approximately view-invariant targets'
+title: 'Kernel PCA on the density ratio is minimax-optimal'
+statement: >-
+  Kernel PCA under the positive-pair density ratio recovers the
+  eigenfunctions of the positive-pair Markov chain, and their top span is
+  minimax-optimal for linear prediction of approximately view-invariant
+  targets
 version: 4
 history:
 - version: 2
@@ -66,7 +71,7 @@ answers:
 - QUESTION-245
 ---
 
-# THEORY-007: Kernel PCA under the positive-pair density ratio recovers the eigenfunctions of the positive-pair Markov chain, and their top span is minimax-optimal for linear prediction of approximately view-invariant targets
+# THEORY-007: Kernel PCA on the density ratio is minimax-optimal
 
 ## Source
 

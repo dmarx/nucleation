@@ -3,7 +3,16 @@ number: 513
 status: Active
 formerly:
 - THEORY-tmpeh08y
-title: "Observational entropy taken relative to a maximum-entropy prior τ, S(τ) − D_M(ρ‖τ), lies between S(ρ) and S(τ) for states meeting the prior's constraint, is finite and continuous whenever S(τ) is, and reduces to about two dozen textbook entropies by choice of measurement and prior; its second laws are bounds on the time-averaged state's divergence from the prior, proved small only under sufficient conditions (nondegenerate energy gaps for equilibration, the eigenstate thermalization hypothesis for fit to the prior)"
+title: 'Prior-relative observational entropy unifies many'
+statement: >-
+  Observational entropy taken relative to a maximum-entropy prior τ, S(τ) −
+  D_M(ρ‖τ), lies between S(ρ) and S(τ) for states meeting the prior's
+  constraint, is finite and continuous whenever S(τ) is, and reduces to
+  about two dozen textbook entropies by choice of measurement and prior; its
+  second laws are bounds on the time-averaged state's divergence from the
+  prior, proved small only under sufficient conditions (nondegenerate energy
+  gaps for equilibration, the eigenstate thermalization hypothesis for fit
+  to the prior)
 version: 1
 tags:
 - information-theory
@@ -22,7 +31,7 @@ summary: >-
   as of the reading.
 ---
 
-# THEORY-513: Observational entropy taken relative to a maximum-entropy prior τ, S(τ) − D_M(ρ‖τ), lies between S(ρ) and S(τ) for states meeting the prior's constraint, is finite and continuous whenever S(τ) is, and reduces to about two dozen textbook entropies by choice of measurement and prior; its second laws are bounds on the time-averaged state's divergence from the prior, proved small only under sufficient conditions (nondegenerate energy gaps for equilibration, the eigenstate thermalization hypothesis for fit to the prior)
+# THEORY-513: Prior-relative observational entropy unifies many
 
 ## Source
 

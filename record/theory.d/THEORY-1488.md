@@ -3,7 +3,15 @@ number: 1488
 status: Active
 formerly:
 - THEORY-tmpqkyte
-title: 'In ten southern Costa Rican pasture sites where weeding stopped after 2.5 years, planting six tree islands (86 trees per 0.25 ha) or a full plantation (313) still raised later-successional seedling and sapling recruitment and reduced among-site compositional variability relative to natural regeneration after 16–18 years, yet in every treatment the tree layer remained dominated by a few pioneers and the planted cohort, whose own seedlings seldom reached the sapling layer'
+title: 'Tree islands aid recruitment; pioneers persist'
+statement: >-
+  In ten southern Costa Rican pasture sites where weeding stopped after 2.5
+  years, planting six tree islands (86 trees per 0.25 ha) or a full
+  plantation (313) still raised later-successional seedling and sapling
+  recruitment and reduced among-site compositional variability relative to
+  natural regeneration after 16–18 years, yet in every treatment the tree
+  layer remained dominated by a few pioneers and the planted cohort, whose
+  own seedlings seldom reached the sapling layer
 version: 4
 history:
 - version: 2
@@ -58,7 +66,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: LIT-2145 — Unavailable; cited from the reading of Schubert et al. (2024) as open -->
 
-# THEORY-1488: In ten southern Costa Rican pasture sites where weeding stopped after 2.5 years, planting six tree islands (86 trees per 0.25 ha) or a full plantation (313) still raised later-successional seedling and sapling recruitment and reduced among-site compositional variability relative to natural regeneration after 16–18 years, yet in every treatment the tree layer remained dominated by a few pioneers and the planted cohort, whose own seedlings seldom reached the sapling layer
+# THEORY-1488: Tree islands aid recruitment; pioneers persist
 
 ## Source
 

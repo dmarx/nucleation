@@ -9,7 +9,12 @@ promote_when: >-
   and that non-CA studies are treated as outside the tradition, or the
   reverse. One author's experience of review, and three cited studies,
   cannot settle it either way.
-title: "Montréal School CCO's commitment to interaction as the basis of organizing makes conversation analysis its method of choice, and that commitment keeps ventriloquism from serving as an open metamodel for communication theory"
+title: 'Conversation-analytic focus limits ventriloquism'
+statement: >-
+  Montréal School CCO's commitment to interaction as the basis of organizing
+  makes conversation analysis its method of choice, and that commitment
+  keeps ventriloquism from serving as an open metamodel for communication
+  theory
 version: 1
 tags:
 - social-science
@@ -24,7 +29,7 @@ summary: >-
   Brummans & Vézy ([LIT-1902](../literature.d/LIT-1902.md), pp. 1363–1364) cite it for.
 ---
 
-# THEORY-1281: Montréal School CCO's commitment to interaction as the basis of organizing makes conversation analysis its method of choice, and that commitment keeps ventriloquism from serving as an open metamodel for communication theory
+# THEORY-1281: Conversation-analytic focus limits ventriloquism
 
 ## Source
 

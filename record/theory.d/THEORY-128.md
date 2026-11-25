@@ -19,7 +19,12 @@ promote_when: >-
   carry recovery wherever both are measured. What cannot settle it: more
   correlations between fish biomass and coral cover at one time, which
   cannot separate cause from shared history.
-title: 'After mass bleaching, coral recovery on a reef crest depends on large herbivorous fishes keeping macroalgae down, because recovery runs through recruitment and survival that macroalgae suppress, not through the persistence of surviving colonies alone'
+title: 'Coral recovery needs herbivores to curb algae'
+statement: >-
+  After mass bleaching, coral recovery on a reef crest depends on large
+  herbivorous fishes keeping macroalgae down, because recovery runs through
+  recruitment and survival that macroalgae suppress, not through the
+  persistence of surviving colonies alone
 version: 1
 tags:
 - ecology
@@ -42,7 +47,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-058 THEORY-129 — Proposed; the record's alternative-stable-state account, named for a contrast, and the spawning account from the same batch; nothing here rests on them -->
 
-# THEORY-128: After mass bleaching, coral recovery on a reef crest depends on large herbivorous fishes keeping macroalgae down, because recovery runs through recruitment and survival that macroalgae suppress, not through the persistence of surviving colonies alone
+# THEORY-128: Coral recovery needs herbivores to curb algae
 
 ## Source
 

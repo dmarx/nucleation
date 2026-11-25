@@ -3,7 +3,13 @@ number: 848
 status: Active
 formerly:
 - THEORY-tmpjfhcb
-title: 'In an acyclic structural equation model, marginalising a variable that no declared intervention sets is an exact transformation, provided the coarse model''s exogenous noises may be dependent; so exactness does not require the dropped variable to be causally idle, and it can drop a variable that decides how its children respond to an intervention that is declared'
+title: 'Marginalizing unintervened variables is exact'
+statement: >-
+  In an acyclic structural equation model, marginalising a variable that no
+  declared intervention sets is an exact transformation, provided the coarse
+  model's exogenous noises may be dependent; so exactness does not require
+  the dropped variable to be causally idle, and it can drop a variable that
+  decides how its children respond to an intervention that is declared
 version: 1
 history:
 - version: 1
@@ -29,7 +35,7 @@ summary: >-
   that the coarse model keeps any one system's response.
 ---
 
-# THEORY-848: In an acyclic structural equation model, marginalising a variable that no declared intervention sets is an exact transformation, provided the coarse model's exogenous noises may be dependent; so exactness does not require the dropped variable to be causally idle, and it can drop a variable that decides how its children respond to an intervention that is declared
+# THEORY-848: Marginalizing unintervened variables is exact
 
 ## Source
 

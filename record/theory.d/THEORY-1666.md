@@ -3,7 +3,14 @@ number: 1666
 status: Proposed
 formerly:
 - THEORY-tmp9xq6s
-title: 'Żuradzki argues that where biological evidence and standard theoretical virtues underdetermine competing ontologies of pregnancy and early human life, considered normative judgments may count as evidence for choosing between them, either by weighting which biological features are metaphysically salient or by breaking ties among otherwise defensible frameworks'
+title: 'Norms may break ties among pregnancy ontologies'
+statement: >-
+  Żuradzki argues that where biological evidence and standard theoretical
+  virtues underdetermine competing ontologies of pregnancy and early human
+  life, considered normative judgments may count as evidence for choosing
+  between them, either by weighting which biological features are
+  metaphysically salient or by breaking ties among otherwise defensible
+  frameworks
 version: 1
 source:
 - LIT-2382
@@ -30,7 +37,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-2409 — Unavailable; filed from the same exchange -->
 
-# THEORY-1666: Żuradzki argues that where biological evidence and standard theoretical virtues underdetermine competing ontologies of pregnancy and early human life, considered normative judgments may count as evidence for choosing between them, either by weighting which biological features are metaphysically salient or by breaking ties among otherwise defensible frameworks
+# THEORY-1666: Norms may break ties among pregnancy ontologies
 
 ## The account
 

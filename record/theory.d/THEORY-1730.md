@@ -3,7 +3,11 @@ number: 1730
 status: Proposed
 formerly:
 - THEORY-tmp37mxv
-title: 'Liu and Yadav (2026) describe STATE-Bench as 450 multi-turn enterprise tasks in which an agent changes a database through tools while a rule-bound simulated customer reveals information on request'
+title: 'STATE-Bench poses 450 stateful enterprise tasks'
+statement: >-
+  Liu and Yadav (2026) describe STATE-Bench as 450 multi-turn enterprise
+  tasks in which an agent changes a database through tools while a
+  rule-bound simulated customer reveals information on request
 version: 1
 tags:
 - social-science
@@ -23,7 +27,7 @@ summary: >-
   its promote_when is met.
 ---
 
-# THEORY-1730: Liu and Yadav (2026) describe STATE-Bench as 450 multi-turn enterprise tasks in which an agent changes a database through tools while a rule-bound simulated customer reveals information on request
+# THEORY-1730: STATE-Bench poses 450 stateful enterprise tasks
 
 ## The account
 

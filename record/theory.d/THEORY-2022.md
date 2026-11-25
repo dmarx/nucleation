@@ -3,7 +3,15 @@ number: 2022
 status: Proposed
 formerly:
 - THEORY-tmpcxzxx
-title: 'Teo and Kane show that a defect in a non-interacting gapped insulator or superconductor can be classified by the homotopy class of the Bloch or Bogoliubov–de Gennes Hamiltonian H(k, r) on a surface enclosing it, that this classification depends only on the symmetry class and on δ = d − D, and that in their examples a nontrivial class coincides with protected gapless modes bound to the defect, a correspondence they observe rather than prove'
+title: 'Defects classified by symmetry class and d − D'
+statement: >-
+  Teo and Kane show that a defect in a non-interacting gapped insulator or
+  superconductor can be classified by the homotopy class of the Bloch or
+  Bogoliubov–de Gennes Hamiltonian H(k, r) on a surface enclosing it, that
+  this classification depends only on the symmetry class and on δ = d − D,
+  and that in their examples a nontrivial class coincides with protected
+  gapless modes bound to the defect, a correspondence they observe rather
+  than prove
 version: 1
 source:
 - LIT-2797
@@ -39,7 +47,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-606 CLAIM-694 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: NOTE-2124 — Skimmed; cited in this filing of 2026-11-19 -->
 
-# THEORY-2022: Teo and Kane show that a defect in a non-interacting gapped insulator or superconductor can be classified by the homotopy class of the Bloch or Bogoliubov–de Gennes Hamiltonian H(k, r) on a surface enclosing it, that this classification depends only on the symmetry class and on δ = d − D, and that in their examples a nontrivial class coincides with protected gapless modes bound to the defect, a correspondence they observe rather than prove
+# THEORY-2022: Defects classified by symmetry class and d − D
 
 ## The account
 

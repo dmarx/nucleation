@@ -3,7 +3,15 @@ number: 1139
 status: Active
 formerly:
 - THEORY-tmpe8kmr
-title: 'A graph network that learns its sheaf restriction maps from node features at each layer reaches the top, mostly within one standard deviation, of the standard small heterophilic node-classification benchmarks and stays within about one point of the best on homophilic ones; on a synthetic balanced bipartite graph it learns the negative transport the theory prescribes, but whether the maps it learns on real graphs have the geometry the theory credits for its success has not been examined'
+title: 'Learned sheaf maps top heterophilic benchmarks'
+statement: >-
+  A graph network that learns its sheaf restriction maps from node features
+  at each layer reaches the top, mostly within one standard deviation, of
+  the standard small heterophilic node-classification benchmarks and stays
+  within about one point of the best on homophilic ones; on a synthetic
+  balanced bipartite graph it learns the negative transport the theory
+  prescribes, but whether the maps it learns on real graphs have the
+  geometry the theory credits for its success has not been examined
 version: 2
 history:
 - version: 2
@@ -54,7 +62,7 @@ summary: >-
 
 <!-- inactive-ok-file: THEORY-1220 — Proposed; the wider thesis split from this entry, cited as open -->
 
-# THEORY-1139: A graph network that learns its sheaf restriction maps from node features at each layer reaches the top, mostly within one standard deviation, of the standard small heterophilic node-classification benchmarks and stays within about one point of the best on homophilic ones; on a synthetic balanced bipartite graph it learns the negative transport the theory prescribes, but whether the maps it learns on real graphs have the geometry the theory credits for its success has not been examined
+# THEORY-1139: Learned sheaf maps top heterophilic benchmarks
 
 ## Source
 

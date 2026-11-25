@@ -3,7 +3,15 @@ number: 659
 status: Active
 formerly:
 - THEORY-tmpwx87w
-title: "In the EEAS's 2024 sample of 505 foreign information manipulation incidents, the overt state voice is a small core: of the 2,055 channels that recur across incidents, 20% are attributed to Russia, 3.5% to China and 76.5% are not attributed, after some 28,000 disposable inauthentic accounts are set aside; the sample is not representative, and the four-tier Exposure Matrix used to grade channels' ties to a state is unvalidated"
+title: 'State-attributed FIMI channels are a small core'
+statement: >-
+  In the EEAS's 2024 sample of 505 foreign information manipulation
+  incidents, the overt state voice is a small core: of the 2,055 channels
+  that recur across incidents, 20% are attributed to Russia, 3.5% to China
+  and 76.5% are not attributed, after some 28,000 disposable inauthentic
+  accounts are set aside; the sample is not representative, and the
+  four-tier Exposure Matrix used to grade channels' ties to a state is
+  unvalidated
 version: 2
 history:
 - version: 2
@@ -33,7 +41,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: LIT-083 — Proposed; the DISINFOX preprint, named for its schema beside the Exposure Matrix, not leaned on -->
 
-# THEORY-659: In the EEAS's 2024 sample of 505 foreign information manipulation incidents, the overt state voice is a small core: of the 2,055 channels that recur across incidents, 20% are attributed to Russia, 3.5% to China and 76.5% are not attributed, after some 28,000 disposable inauthentic accounts are set aside; the sample is not representative, and the four-tier Exposure Matrix used to grade channels' ties to a state is unvalidated
+# THEORY-659: State-attributed FIMI channels are a small core
 
 ## Source
 

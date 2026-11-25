@@ -14,7 +14,14 @@ promote_when: >-
   emotions do not track exchange once those are controlled. Formal models of
   reciprocity cannot settle it, since they say nothing about which emotions
   carry it.
-title: "Altruism between non-relatives can be selected when each act costs the giver less than it benefits the recipient, the same partners meet often and symmetrically, and help is withheld from those who do not return it; in humans, moralistic aggression, gratitude, sympathy and guilt are adaptations that regulate such exchange, and selection then favours sham versions of each and the ability to detect them"
+title: 'Reciprocal altruism can evolve between non-kin'
+statement: >-
+  Altruism between non-relatives can be selected when each act costs the
+  giver less than it benefits the recipient, the same partners meet often
+  and symmetrically, and help is withheld from those who do not return it;
+  in humans, moralistic aggression, gratitude, sympathy and guilt are
+  adaptations that regulate such exchange, and selection then favours sham
+  versions of each and the ability to detect them
 version: 1
 tags:
 - natural-sciences
@@ -39,7 +46,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-503 — Proposed: Curry 2016, the statement of morality-as-cooperation; cited for the exchange domain it takes from Trivers -->
 <!-- inactive-ok-file: LIT-495 — Unavailable: Alexander 1987, The Biology of Moral Systems; cited as building moral systems on the indirect reciprocity this paper anticipates -->
 
-# THEORY-663: Altruism between non-relatives can be selected when each act costs the giver less than it benefits the recipient, the same partners meet often and symmetrically, and help is withheld from those who do not return it; in humans, moralistic aggression, gratitude, sympathy and guilt are adaptations that regulate such exchange, and selection then favours sham versions of each and the ability to detect them
+# THEORY-663: Reciprocal altruism can evolve between non-kin
 
 ## Source
 

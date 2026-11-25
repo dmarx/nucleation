@@ -16,7 +16,13 @@ promote_when: >-
   worse. That would mean the representation, not the fit, ties them.
   More steering pictures cannot settle it, since steering shows what a
   direction does, not whether a better one exists.
-title: 'In CNN image classifiers, concept directions fitted one concept at a time align for attributes that co-occur in the labels, yet a joint fit finds mutually orthogonal directions that still separate each concept with little loss of AUROC, so the alignment is a property of the separate fits and not forced by the representation'
+title: 'Concept-direction alignment is a fitting artefact'
+statement: >-
+  In CNN image classifiers, concept directions fitted one concept at a time
+  align for attributes that co-occur in the labels, yet a joint fit finds
+  mutually orthogonal directions that still separate each concept with
+  little loss of AUROC, so the alignment is a property of the separate fits
+  and not forced by the representation
 version: 1
 tags:
 - representation-learning
@@ -35,7 +41,7 @@ bears_on:
 - QUESTION-025
 ---
 
-# THEORY-292: In CNN image classifiers, concept directions fitted one concept at a time align for attributes that co-occur in the labels, yet a joint fit finds mutually orthogonal directions that still separate each concept with little loss of AUROC, so the alignment is a property of the separate fits and not forced by the representation
+# THEORY-292: Concept-direction alignment is a fitting artefact
 
 ## Source
 

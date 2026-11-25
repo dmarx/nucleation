@@ -11,7 +11,13 @@ promote_when: >-
   correction e^(−β₀E)(1 + σ²E²/2)) and the p. 7 remark that the large-E
   behaviour depends on f. Not met by a check of which densities give power
   laws, which the title does not assert.
-title: "Beck and Cohen define superstatistics as the Laplace transform of a slowly fluctuating inverse temperature's density, show that a gamma density gives Tsallis's q-exponential and that every superstatistics shares the same first correction at small variance, and leave the large-energy behaviour to the density"
+title: 'Gamma superstatistics gives Tsallis statistics'
+statement: >-
+  Beck and Cohen define superstatistics as the Laplace transform of a slowly
+  fluctuating inverse temperature's density, show that a gamma density gives
+  Tsallis's q-exponential and that every superstatistics shares the same
+  first correction at small variance, and leave the large-energy behaviour
+  to the density
 version: 1
 history:
 - version: 1
@@ -39,7 +45,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-795 CLAIM-769 CLAIM-857 THEORY-2131 — Proposed or new; this account's reading and the entries it bears on -->
 
-# THEORY-2176: Beck and Cohen define superstatistics as the Laplace transform of a slowly fluctuating inverse temperature's density, show that a gamma density gives Tsallis's q-exponential and that every superstatistics shares the same first correction at small variance, and leave the large-energy behaviour to the density
+# THEORY-2176: Gamma superstatistics gives Tsallis statistics
 
 ## Source
 

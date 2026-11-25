@@ -3,7 +3,15 @@ number: 1473
 status: Active
 formerly:
 - THEORY-tmpazwuz
-title: 'Watson finds, across seven Brazilian cities, that condominial sewerage cost a third to a quarter of conventional sewerage and performed as well in about half the cases, that upkeep devolved to residents'' blocks rarely worked, and that the systems lasted where agencies kept up trunk maintenance, monitoring, education and backup on feeder lines in face-to-face contact with residents and decayed where agencies withdrew from or refused the networks'
+title: 'Condominial sewers last only with agency upkeep'
+statement: >-
+  Watson finds, across seven Brazilian cities, that condominial sewerage
+  cost a third to a quarter of conventional sewerage and performed as well
+  in about half the cases, that upkeep devolved to residents' blocks rarely
+  worked, and that the systems lasted where agencies kept up trunk
+  maintenance, monitoring, education and backup on feeder lines in
+  face-to-face contact with residents and decayed where agencies withdrew
+  from or refused the networks
 version: 3
 history:
 - version: 2
@@ -61,7 +69,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: LIT-2140 — Unavailable; cited from the reading of Watson (1995) as open -->
 
-# THEORY-1473: Watson finds, across seven Brazilian cities, that condominial sewerage cost a third to a quarter of conventional sewerage and performed as well in about half the cases, that upkeep devolved to residents' blocks rarely worked, and that the systems lasted where agencies kept up trunk maintenance, monitoring, education and backup on feeder lines in face-to-face contact with residents and decayed where agencies withdrew from or refused the networks
+# THEORY-1473: Condominial sewers last only with agency upkeep
 
 ## Source
 

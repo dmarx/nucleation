@@ -10,7 +10,13 @@ promote_when: >-
   generic quadrilateral tiling rotationally symmetric about its tile's
   side midpoints, showing that the first two admit no crease-separable
   driving force that selects one mode and the third does.
-title: 'Hull and Tachi show that the Miura-ori and Chicken Wire origami tessellations cannot be uniquely self-folded by crease-local driving forces, while generic quadrilateral tessellations rotationally symmetric about the midpoints of the tile''s sides, which have only two folding modes, can be'
+title: 'Miura-ori cannot uniquely self-fold'
+statement: >-
+  Hull and Tachi show that the Miura-ori and Chicken Wire origami
+  tessellations cannot be uniquely self-folded by crease-local driving
+  forces, while generic quadrilateral tessellations rotationally symmetric
+  about the midpoints of the tile's sides, which have only two folding
+  modes, can be
 version: 1
 tags:
 - mathematics
@@ -28,7 +34,7 @@ corroborates:
 - CLAIM-567
 ---
 
-# THEORY-1409: Hull and Tachi show that the Miura-ori and Chicken Wire origami tessellations cannot be uniquely self-folded by crease-local driving forces, while generic quadrilateral tessellations rotationally symmetric about the midpoints of the tile's sides, which have only two folding modes, can be
+# THEORY-1409: Miura-ori cannot uniquely self-fold
 
 ## Source
 

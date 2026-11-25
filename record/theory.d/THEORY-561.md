@@ -16,7 +16,14 @@ promote_when: >-
   contributions past an unspecified threshold. More cause-marketing and
   crowdfunding examples, which are all designed aggregators summing like
   contributions, cannot settle it.
-title: "If moral evaluation has thresholds below which effects are negligible, a system of agents can do good or evil that none of its members' interactions does, and the same thresholds make an environment tolerant of small evils and inert to small goods; on the examples offered the non-additivity lies in the evaluation, as a step function of summed impact, not in the actions"
+title: 'Moral thresholds make group good non-additive'
+statement: >-
+  If moral evaluation has thresholds below which effects are negligible, a
+  system of agents can do good or evil that none of its members'
+  interactions does, and the same thresholds make an environment tolerant of
+  small evils and inert to small goods; on the examples offered the
+  non-additivity lies in the evaluation, as a step function of summed
+  impact, not in the actions
 version: 1
 tags:
 - ethics
@@ -37,7 +44,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-207 — Proposed; related or rival accounts named in Connections, nothing here rests on their being settled -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the open question this account bears on, cited as such -->
 
-# THEORY-561: If moral evaluation has thresholds below which effects are negligible, a system of agents can do good or evil that none of its members' interactions does, and the same thresholds make an environment tolerant of small evils and inert to small goods; on the examples offered the non-additivity lies in the evaluation, as a step function of summed impact, not in the actions
+# THEORY-561: Moral thresholds make group good non-additive
 
 ## Source
 

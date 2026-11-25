@@ -3,7 +3,17 @@ number: 2204
 status: Proposed
 formerly:
 - THEORY-tmps8t83
-title: 'Natschläger, Bertschinger and Legenstein show, by an annealed mean-field theory and simulation, that random networks of binary threshold gates driven by a random binary input have an order-to-chaos line where a single flipped input bit flips on average one node (K·P_bf = 1), that a separation measure corrected for initial-condition and input-drive separation peaks near that line, that a trained linear readout performs best near it on delayed parity and random Boolean functions of recent inputs, averaged over many tasks, and that a local synaptic-scaling rule drives networks to the line'
+title: 'Random networks compute best near chaos line'
+statement: >-
+  Natschläger, Bertschinger and Legenstein show, by an annealed mean-field
+  theory and simulation, that random networks of binary threshold gates
+  driven by a random binary input have an order-to-chaos line where a single
+  flipped input bit flips on average one node (K·P_bf = 1), that a
+  separation measure corrected for initial-condition and input-drive
+  separation peaks near that line, that a trained linear readout performs
+  best near it on delayed parity and random Boolean functions of recent
+  inputs, averaged over many tasks, and that a local synaptic-scaling rule
+  drives networks to the line
 promote_when: >-
   An independent study or replication in driven random threshold or
   Boolean networks finds task-averaged readout performance on nonlinear
@@ -31,7 +41,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-2991 ARG-196 CLAIM-809 CLAIM-814 CLAIM-850 THEORY-2168 THEORY-2041 — Unavailable, Proposed or new; the work this stands in for and the entries it bears on -->
 
-# THEORY-2204: Natschläger, Bertschinger and Legenstein show, by an annealed mean-field theory and simulation, that random networks of binary threshold gates driven by a random binary input have an order-to-chaos line where a single flipped input bit flips on average one node (K·P_bf = 1), that a separation measure corrected for initial-condition and input-drive separation peaks near that line, that a trained linear readout performs best near it on delayed parity and random Boolean functions of recent inputs, averaged over many tasks, and that a local synaptic-scaling rule drives networks to the line
+# THEORY-2204: Random networks compute best near chaos line
 
 ## Source
 

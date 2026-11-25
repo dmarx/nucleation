@@ -14,7 +14,13 @@ promote_when: >-
   the reply's proposed intervention speed. Further toy institutions built
   from a regulative rule cannot settle it, since every such case reduces by
   construction.
-title: "Institutions are rules in equilibrium, correlated equilibria of coordination games with several equilibria that the players represent to themselves as rules, and a constitutive rule 'X counts as Y in C' is a regulative rule split by a coined term into a base rule and a status rule, so the term adds a name and cognitive economy but no new kind of fact"
+title: 'Institutions are rules in equilibrium'
+statement: >-
+  Institutions are rules in equilibrium, correlated equilibria of
+  coordination games with several equilibria that the players represent to
+  themselves as rules, and a constitutive rule 'X counts as Y in C' is a
+  regulative rule split by a coined term into a base rule and a status rule,
+  so the term adds a name and cognitive economy but no new kind of fact
 version: 1
 tags:
 - social-ontology
@@ -40,7 +46,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-487 — Proposed; a sibling account filed in the same batch, named in Connections and not leaned on -->
 <!-- inactive-ok-file: LIT-473 — Unavailable, no lawful full text; Lewis's Convention, named as the account this paper extends, as the paper states it -->
 
-# THEORY-414: Institutions are rules in equilibrium, correlated equilibria of coordination games with several equilibria that the players represent to themselves as rules, and a constitutive rule 'X counts as Y in C' is a regulative rule split by a coined term into a base rule and a status rule, so the term adds a name and cognitive economy but no new kind of fact
+# THEORY-414: Institutions are rules in equilibrium
 
 ## Source
 

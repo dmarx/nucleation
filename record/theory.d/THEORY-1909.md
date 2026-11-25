@@ -8,7 +8,15 @@ promote_when: >-
   least one text-attack-robust erasure method regenerating its concept
   under a probe that does not search over text inputs on SD 1.4, and the
   same for most of the seven methods.
-title: 'On Lu and colleagues, most of seven concept-erasure methods applied to Stable Diffusion 1.4 over 13 concepts can be made to regenerate the erased concept by at least one probe that does not search over text inputs, such as inpainting, diffusion completion, added noise along the trajectory or latent classifier guidance, including methods robust to text-based attacks, which the authors read as steering guidance away from a concept rather than removing it'
+title: 'Erased diffusion concepts regenerate via probes'
+statement: >-
+  On Lu and colleagues, most of seven concept-erasure methods applied to
+  Stable Diffusion 1.4 over 13 concepts can be made to regenerate the erased
+  concept by at least one probe that does not search over text inputs, such
+  as inpainting, diffusion completion, added noise along the trajectory or
+  latent classifier guidance, including methods robust to text-based
+  attacks, which the authors read as steering guidance away from a concept
+  rather than removing it
 version: 1
 tags:
 - representation-learning
@@ -23,7 +31,7 @@ summary: >-
   adopting it is the owner's call.
 ---
 
-# THEORY-1909: On Lu and colleagues, most of seven concept-erasure methods applied to Stable Diffusion 1.4 over 13 concepts can be made to regenerate the erased concept by at least one probe that does not search over text inputs, such as inpainting, diffusion completion, added noise along the trajectory or latent classifier guidance, including methods robust to text-based attacks, which the authors read as steering guidance away from a concept rather than removing it
+# THEORY-1909: Erased diffusion concepts regenerate via probes
 
 ## Source
 

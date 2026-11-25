@@ -18,7 +18,11 @@ promote_when: >-
   tested. Optimizer benchmarks cannot settle it. K-FAC's damping and
   re-scaling can make it a good optimizer with misplaced outliers, and a
   better approximation need not train faster.
-title: "A classifier's class-driven Fisher outliers pair each class's feature mean with that class's own error mean, so K-FAC's single Kronecker product of class-averaged factors adds every cross-class pairing and misplaces them"
+title: 'K-FAC misplaces cross-class Fisher pairings'
+statement: >-
+  A classifier's class-driven Fisher outliers pair each class's feature mean
+  with that class's own error mean, so K-FAC's single Kronecker product of
+  class-averaged factors adds every cross-class pairing and misplaces them
 version: 2
 history:
 - version: 2
@@ -59,7 +63,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-078 — Proposed; this account extends it per layer and is no firmer than it -->
 
-# THEORY-085: A classifier's class-driven Fisher outliers pair each class's feature mean with that class's own error mean, so K-FAC's single Kronecker product of class-averaged factors adds every cross-class pairing and misplaces them
+# THEORY-085: K-FAC misplaces cross-class Fisher pairings
 
 ## Source
 

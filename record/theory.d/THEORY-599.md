@@ -3,7 +3,14 @@ number: 599
 status: Active
 formerly:
 - THEORY-tmpom30b
-title: "In trained neural-network weights stored as BF16 or FP32, nearly all the redundancy a lossless coder can remove lies in the floating-point exponent, which occupies about 40 of its 256 values and compresses to about a third under single-symbol Huffman coding, while sign and mantissa are near-incompressible; the redundancy belongs to the number format, not to the learned function"
+title: 'Weight redundancy lies in the float exponent'
+statement: >-
+  In trained neural-network weights stored as BF16 or FP32, nearly all the
+  redundancy a lossless coder can remove lies in the floating-point
+  exponent, which occupies about 40 of its 256 values and compresses to
+  about a third under single-symbol Huffman coding, while sign and mantissa
+  are near-incompressible; the redundancy belongs to the number format, not
+  to the learned function
 version: 1
 tags:
 - information-theory
@@ -23,7 +30,7 @@ summary: >-
 
 <!-- inactive-ok-file: THEORY-277 — Proposed; named for the distinction they draw, nothing here rests on them -->
 
-# THEORY-599: In trained neural-network weights stored as BF16 or FP32, nearly all the redundancy a lossless coder can remove lies in the floating-point exponent, which occupies about 40 of its 256 values and compresses to about a third under single-symbol Huffman coding, while sign and mantissa are near-incompressible; the redundancy belongs to the number format, not to the learned function
+# THEORY-599: Weight redundancy lies in the float exponent
 
 ## Source
 

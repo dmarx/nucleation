@@ -3,7 +3,15 @@ number: 1287
 status: Active
 formerly:
 - THEORY-tmp09e3b
-title: 'The experiments mechanists use to find a mechanism''s components (correlation, lesion, stimulation, and intervening on the whole while recording the parts) run in both directions between part and whole and, by Craver and Bechtel''s own account, show only prima facie that an item is a component, because an item not interactively integrated into the system could be a background condition; they give no test of integration, so the experiments do not by themselves fix where a mechanism ends'
+title: 'Mechanist experiments don''t fix boundaries'
+statement: >-
+  The experiments mechanists use to find a mechanism's components
+  (correlation, lesion, stimulation, and intervening on the whole while
+  recording the parts) run in both directions between part and whole and, by
+  Craver and Bechtel's own account, show only prima facie that an item is a
+  component, because an item not interactively integrated into the system
+  could be a background condition; they give no test of integration, so the
+  experiments do not by themselves fix where a mechanism ends
 version: 1
 history:
 - version: 1
@@ -34,7 +42,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-832 LIT-1930 LIT-1931 CASE-163 — Proposed, Open, Unavailable or Unfetched; the claim drawn from this reading, the question it bears on, and the unread texts that state the criterion, cited as open -->
 
-# THEORY-1287: The experiments mechanists use to find a mechanism's components (correlation, lesion, stimulation, and intervening on the whole while recording the parts) run in both directions between part and whole and, by Craver and Bechtel's own account, show only prima facie that an item is a component, because an item not interactively integrated into the system could be a background condition; they give no test of integration, so the experiments do not by themselves fix where a mechanism ends
+# THEORY-1287: Mechanist experiments don't fix boundaries
 
 ## Source
 

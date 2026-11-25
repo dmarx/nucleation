@@ -17,7 +17,13 @@ promote_when: >-
   aggregate benchmark scores without an error analysis, or automatic
   scoring by a vision-language model, which the paper finds tracks human
   judgement poorly.
-title: "DALL-E 3 renders single familiar relations well but is not robustly compositional: human-judged agreement falls when subject and object of an asymmetric relation are reversed and when two relations are combined, and its failures on reversed prompts are mostly wrong or role-swapped relations, not missing objects"
+title: 'DALL-E 3 isn''t robustly compositional'
+statement: >-
+  DALL-E 3 renders single familiar relations well but is not robustly
+  compositional: human-judged agreement falls when subject and object of an
+  asymmetric relation are reversed and when two relations are combined, and
+  its failures on reversed prompts are mostly wrong or role-swapped
+  relations, not missing objects
 version: 2
 history:
 - version: 2
@@ -47,7 +53,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: CLAIM-013 — Proposed; the claims and theory this bears on, open -->
 
-# THEORY-250: DALL-E 3 renders single familiar relations well but is not robustly compositional: human-judged agreement falls when subject and object of an asymmetric relation are reversed and when two relations are combined, and its failures on reversed prompts are mostly wrong or role-swapped relations, not missing objects
+# THEORY-250: DALL-E 3 isn't robustly compositional
 
 ## Source
 

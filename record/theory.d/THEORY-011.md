@@ -3,7 +3,12 @@ number: 11
 status: Active
 formerly:
 - THEORY-tmp28873
-title: 'Generalized contextuality is strictly broader than Kochen–Specker contextuality: a qubit already has no preparation-noncontextual model, though no Kochen–Specker argument with sharp measurements exists in dimension two'
+title: 'Generalized contextuality is broader than KS'
+statement: >-
+  Generalized contextuality is strictly broader than Kochen–Specker
+  contextuality: a qubit already has no preparation-noncontextual model,
+  though no Kochen–Specker argument with sharp measurements exists in
+  dimension two
 version: 4
 history:
 - version: 2
@@ -56,7 +61,7 @@ answers:
 - QUESTION-246
 ---
 
-# THEORY-011: Generalized contextuality is strictly broader than Kochen–Specker contextuality: a qubit already has no preparation-noncontextual model, though no Kochen–Specker argument with sharp measurements exists in dimension two
+# THEORY-011: Generalized contextuality is broader than KS
 
 ## Source
 

@@ -22,7 +22,11 @@ promote_when: >-
   structure is found to weigh something other than the two predictions'
   reliability. What cannot settle it: more demonstrations that habits
   form with over-training, which every account predicts.
-title: 'Model-based and model-free predictions both operate in instrumental and in Pavlovian learning, and which one controls behaviour follows their relative reliability, not the preference of a supervising system'
+title: 'Reliability, not a supervisor, arbitrates control'
+statement: >-
+  Model-based and model-free predictions both operate in instrumental and in
+  Pavlovian learning, and which one controls behaviour follows their
+  relative reliability, not the preference of a supervising system
 version: 2
 history:
 - version: 2
@@ -64,7 +68,7 @@ bounds:
 <!-- inactive-ok-file: THEORY-056 THEORY-045 — Proposed; accounts this one bears on, with the bearing stated and nothing resting on them -->
 <!-- inactive-ok-file: THEORY-070 THEORY-067 — new in this batch; accounts this one is set beside -->
 
-# THEORY-062: Model-based and model-free predictions both operate in instrumental and in Pavlovian learning, and which one controls behaviour follows their relative reliability, not the preference of a supervising system
+# THEORY-062: Reliability, not a supervisor, arbitrates control
 
 ## Source
 

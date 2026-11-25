@@ -3,7 +3,14 @@ number: 2030
 status: Proposed
 formerly:
 - THEORY-tmphw7hd
-title: 'Ibrahim argues that collective capabilities, those that result from collective agency and that no individual alone could have or achieve, are intrinsically and instrumentally important for human capabilities, that their generation is good only when participation is free and voluntary and the agency empowering, and that the capability approach''s evaluative space should therefore extend from the individual to the collectivity'
+title: 'Collective capabilities matter intrinsically'
+statement: >-
+  Ibrahim argues that collective capabilities, those that result from
+  collective agency and that no individual alone could have or achieve, are
+  intrinsically and instrumentally important for human capabilities, that
+  their generation is good only when participation is free and voluntary and
+  the agency empowering, and that the capability approach's evaluative space
+  should therefore extend from the individual to the collectivity
 version: 1
 source:
 - LIT-2802
@@ -38,7 +45,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-2823 — Unavailable; cited in this filing of 2026-11-19 -->
 
-# THEORY-2030: Ibrahim argues that collective capabilities, those that result from collective agency and that no individual alone could have or achieve, are intrinsically and instrumentally important for human capabilities, that their generation is good only when participation is free and voluntary and the agency empowering, and that the capability approach's evaluative space should therefore extend from the individual to the collectivity
+# THEORY-2030: Collective capabilities matter intrinsically
 
 ## The account
 

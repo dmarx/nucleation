@@ -10,7 +10,13 @@ promote_when: >-
   overridden duty survives as a moral remainder that makes remorse apt and
   can ground rectificatory duties. Whether dirty hands are always produced
   by others' wrongdoing is not asserted and not asked.
-title: 'Dirty hands are coherent, on Eggert''s account: when two actual duties conflict, an act that is all things considered permissible, even required, can remain wrong, because the overridden duty survives as a moral remainder that makes remorse apt and can ground duties of apology or compensation'
+title: 'Overridden duties leave a moral remainder'
+statement: >-
+  Dirty hands are coherent, on Eggert's account: when two actual duties
+  conflict, an act that is all things considered permissible, even required,
+  can remain wrong, because the overridden duty survives as a moral
+  remainder that makes remorse apt and can ground duties of apology or
+  compensation
 version: 1
 tags:
 - ethics
@@ -28,7 +34,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-708 — new or Proposed; the work, its reading and the claim it was registered for -->
 
-# THEORY-1982: Dirty hands are coherent, on Eggert's account: when two actual duties conflict, an act that is all things considered permissible, even required, can remain wrong, because the overridden duty survives as a moral remainder that makes remorse apt and can ground duties of apology or compensation
+# THEORY-1982: Overridden duties leave a moral remainder
 
 Eggert (2023), [LIT-2724](../literature.d/LIT-2724.md), read in [NOTE-2040](../notes.d/NOTE-2040.md).
 

@@ -10,7 +10,15 @@ promote_when: >-
   kurtosis near the GUE Tracy-Widom values (about 0.224 and 0.093), apart
   from GOE and Gaussian; or the authors' flat-interface measurements in
   the same system find the GOE counterpart.
-title: "Takeuchi and Sano find that turbulent DSM2 clusters growing in nematic electroconvection, driven well above threshold, roughen with the 1+1-dimensional KPZ exponents and that their local-radius fluctuations follow the GUE Tracy-Widom distribution, with GOE and Gaussian ruled out by the parameter-free skewness and kurtosis, and Airy₂ correlations, which they attribute to strictly local growth, intrinsic noise and the absence of quenched disorder"
+title: 'Turbulent liquid-crystal fronts follow GUE TW'
+statement: >-
+  Takeuchi and Sano find that turbulent DSM2 clusters growing in nematic
+  electroconvection, driven well above threshold, roughen with the
+  1+1-dimensional KPZ exponents and that their local-radius fluctuations
+  follow the GUE Tracy-Widom distribution, with GOE and Gaussian ruled out
+  by the parameter-free skewness and kurtosis, and Airy₂ correlations, which
+  they attribute to strictly local growth, intrinsic noise and the absence
+  of quenched disorder
 version: 1
 tags:
 - complex-systems
@@ -32,7 +40,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-2202 ARG-195 — new; this reading, its companion and the argument on the claim it grounds -->
 <!-- inactive-ok-file: CLAIM-841 — Proposed or Open; the claim and lead it bears on -->
 
-# THEORY-2201: Takeuchi and Sano find that turbulent DSM2 clusters growing in nematic electroconvection, driven well above threshold, roughen with the 1+1-dimensional KPZ exponents and that their local-radius fluctuations follow the GUE Tracy-Widom distribution, with GOE and Gaussian ruled out by the parameter-free skewness and kurtosis, and Airy₂ correlations, which they attribute to strictly local growth, intrinsic noise and the absence of quenched disorder
+# THEORY-2201: Turbulent liquid-crystal fronts follow GUE TW
 
 ## Source
 

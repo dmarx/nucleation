@@ -17,7 +17,13 @@ promote_when: >-
   minority view holds, and on identity if the reported states do not
   differ across practices. Further syntheses of expert texts, or arguments
   about what counts as content, cannot settle it.
-title: 'The so-called contentless goal-states of Shamatha, Transcendental and Stillness Meditation are neither truly contentless nor identical: they lack thoughts, perceptions, images and memories but keep wakefulness, calm, stillness, a non-conceptual knowing and the like, and they differ across the practices in attentional stability'
+title: '''Contentless'' meditation states aren''t, nor alike'
+statement: >-
+  The so-called contentless goal-states of Shamatha, Transcendental and
+  Stillness Meditation are neither truly contentless nor identical: they
+  lack thoughts, perceptions, images and memories but keep wakefulness,
+  calm, stillness, a non-conceptual knowing and the like, and they differ
+  across the practices in attentional stability
 version: 1
 tags:
 - phenomenology
@@ -36,7 +42,7 @@ summary: >-
   [THEORY-866](THEORY-866.md)'s old condition.
 ---
 
-# THEORY-1246: The so-called contentless goal-states of Shamatha, Transcendental and Stillness Meditation are neither truly contentless nor identical: they lack thoughts, perceptions, images and memories but keep wakefulness, calm, stillness, a non-conceptual knowing and the like, and they differ across the practices in attentional stability
+# THEORY-1246: 'Contentless' meditation states aren't, nor alike
 
 ## Source
 

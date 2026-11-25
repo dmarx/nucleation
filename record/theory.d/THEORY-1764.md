@@ -3,7 +3,15 @@ number: 1764
 status: Proposed
 formerly:
 - THEORY-tmphftwv
-title: 'Hasib et al., mapping 87 studies of LLM and agent systems for scientific discovery (to July 2025) onto exploration, hypothesis generation and testing, find exploration (retrieval, knowledge assembly) most mature and the transition from hypotheses to executable tests, with feedback that revises them, the weakest link, and note that integrated systems still rely on human judgment for problem formulation, evidence interpretation and hypothesis revision.'
+title: 'Hypothesis-to-test is AI discovery''s weak link'
+statement: >-
+  Hasib et al., mapping 87 studies of LLM and agent systems for scientific
+  discovery (to July 2025) onto exploration, hypothesis generation and
+  testing, find exploration (retrieval, knowledge assembly) most mature and
+  the transition from hypotheses to executable tests, with feedback that
+  revises them, the weakest link, and note that integrated systems still
+  rely on human judgment for problem formulation, evidence interpretation
+  and hypothesis revision.
 version: 1
 tags:
 - philosophy-of-science
@@ -23,7 +31,7 @@ summary: >-
   its promote_when is met.
 ---
 
-# THEORY-1764: Hasib et al., mapping 87 studies of LLM and agent systems for scientific discovery (to July 2025) onto exploration, hypothesis generation and testing, find exploration (retrieval, knowledge assembly) most mature and the transition from hypotheses to executable tests, with feedback that revises them, the weakest link, and note that integrated systems still rely on human judgment for problem formulation, evidence interpretation and hypothesis revision.
+# THEORY-1764: Hypothesis-to-test is AI discovery's weak link
 
 ## The account
 

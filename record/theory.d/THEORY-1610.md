@@ -3,7 +3,14 @@ number: 1610
 status: Active
 formerly:
 - THEORY-tmppemix
-title: 'Parfit argues that narrow person-affecting principles fail in non-identity and different-number cases, and that a wide person-affecting principle, on which being caused to exist with a life worth living is an intrinsic benefit and an outcome is in one way worse if it benefits people less, solves the non-identity problem and keeps the relation of being better transitive'
+title: 'Wide person-affecting view solves non-identity'
+statement: >-
+  Parfit argues that narrow person-affecting principles fail in non-identity
+  and different-number cases, and that a wide person-affecting principle, on
+  which being caused to exist with a life worth living is an intrinsic
+  benefit and an outcome is in one way worse if it benefits people less,
+  solves the non-identity problem and keeps the relation of being better
+  transitive
 version: 2
 history:
 - version: 1
@@ -34,7 +41,7 @@ bears_on:
 - QUESTION-299
 ---
 
-# THEORY-1610: Parfit argues that narrow person-affecting principles fail in non-identity and different-number cases, and that a wide person-affecting principle, on which being caused to exist with a life worth living is an intrinsic benefit and an outcome is in one way worse if it benefits people less, solves the non-identity problem and keeps the relation of being better transitive
+# THEORY-1610: Wide person-affecting view solves non-identity
 
 ## The account
 

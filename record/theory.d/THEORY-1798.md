@@ -3,7 +3,14 @@ number: 1798
 status: Proposed
 formerly:
 - THEORY-tmpucfiy
-title: 'Patriarca et al.''s scoping review of 321 academic publications (2003–mid-2020) on STAMP, STPA and CAST finds that STPA dominates the literature, that control structures are almost always presented while process models, safety constraints and validation are often omitted, that almost half the papers propose modifications or extensions, and that industry engagement is rarely visible.'
+title: 'STPA work omits process models and validation'
+statement: >-
+  Patriarca et al.'s scoping review of 321 academic publications
+  (2003–mid-2020) on STAMP, STPA and CAST finds that STPA dominates the
+  literature, that control structures are almost always presented while
+  process models, safety constraints and validation are often omitted, that
+  almost half the papers propose modifications or extensions, and that
+  industry engagement is rarely visible.
 version: 1
 tags:
 - control-theory
@@ -21,7 +28,7 @@ summary: >-
   its promote_when is met.
 ---
 
-# THEORY-1798: Patriarca et al.'s scoping review of 321 academic publications (2003–mid-2020) on STAMP, STPA and CAST finds that STPA dominates the literature, that control structures are almost always presented while process models, safety constraints and validation are often omitted, that almost half the papers propose modifications or extensions, and that industry engagement is rarely visible.
+# THEORY-1798: STPA work omits process models and validation
 
 ## The account
 

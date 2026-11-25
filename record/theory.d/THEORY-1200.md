@@ -13,7 +13,11 @@ promote_when: >-
   what the claim already rests on. It is refuted for the Asgard ancestor
   if the lineages nearest eukaryotes are found to grow without partners,
   by respiration or autotrophy, as their primary way of life.
-title: 'The Asgard archaeal ancestor of eukaryotes depended on metabolic partners: like Candidatus Prometheoarchaeum syntrophicum, it degraded amino acids in syntrophy, handing hydrogen and formate to partners that removed them'
+title: 'Asgard ancestor lived in hydrogen syntrophy'
+statement: >-
+  The Asgard archaeal ancestor of eukaryotes depended on metabolic partners:
+  like Candidatus Prometheoarchaeum syntrophicum, it degraded amino acids in
+  syntrophy, handing hydrogen and formate to partners that removed them
 version: 1
 tags:
 - endosymbiosis
@@ -33,7 +37,7 @@ summary: >-
   its promote_when is [THEORY-1108](THEORY-1108.md)'s old condition, word for word.
 ---
 
-# THEORY-1200: The Asgard archaeal ancestor of eukaryotes depended on metabolic partners: like Candidatus Prometheoarchaeum syntrophicum, it degraded amino acids in syntrophy, handing hydrogen and formate to partners that removed them
+# THEORY-1200: Asgard ancestor lived in hydrogen syntrophy
 
 ## Source
 

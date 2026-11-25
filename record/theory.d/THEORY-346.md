@@ -3,7 +3,14 @@ number: 346
 status: Active
 formerly:
 - THEORY-tmpkxugz
-title: "When information stays in view at a known place, people consult it less and rely on memory more as the time to reach it rises, in a graded trend across added delays from 0 to 3.2 seconds, even where the memory is weak and the display perfect; in one copying task a model that prices memory and display access in time alone, with no preference for either source, fits how many items people encode per look"
+title: 'Costlier access shifts reliance to memory'
+statement: >-
+  When information stays in view at a known place, people consult it less
+  and rely on memory more as the time to reach it rises, in a graded trend
+  across added delays from 0 to 3.2 seconds, even where the memory is weak
+  and the display perfect; in one copying task a model that prices memory
+  and display access in time alone, with no preference for either source,
+  fits how many items people encode per look
 version: 1
 tags:
 - cognition
@@ -27,7 +34,7 @@ bears_on:
 - QUESTION-095
 ---
 
-# THEORY-346: When information stays in view at a known place, people consult it less and rely on memory more as the time to reach it rises, in a graded trend across added delays from 0 to 3.2 seconds, even where the memory is weak and the display perfect; in one copying task a model that prices memory and display access in time alone, with no preference for either source, fits how many items people encode per look
+# THEORY-346: Costlier access shifts reliance to memory
 
 ## Source
 

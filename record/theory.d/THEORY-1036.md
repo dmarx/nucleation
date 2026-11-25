@@ -3,7 +3,17 @@ number: 1036
 status: Active
 formerly:
 - THEORY-tmp68zar
-title: 'In a model that fits y = Σ v_i x_i² with ỹ = Σ_r (W_r·x)² + b, on independent inputs of zero mean, unit variance and common fourth moment k, the expected squared error at the optimal bias is (k − 1)Σ(n_i − v_i)² − 2Σn_i² + 2Σn_i²/C_i, in the squared embedding lengths n_i and capacities C_i = (w_i·w_i)²/Σ_j(w_i·w_j)², and its minimum with the capacities summing to the number of neurons D gives C_i = clip((k − 1)v_i/((k − 3)λ) − 2/(k − 3), 0, 1): for k ≤ 3 each feature is given a whole dimension or none, and for k > 3 a feature is shared between neurons exactly when 2λ/(k − 1) < v_i < λ'
+title: 'Kurtosis above 3 makes features share neurons'
+statement: >-
+  In a model that fits y = Σ v_i x_i² with ỹ = Σ_r (W_r·x)² + b, on
+  independent inputs of zero mean, unit variance and common fourth moment k,
+  the expected squared error at the optimal bias is (k − 1)Σ(n_i − v_i)² −
+  2Σn_i² + 2Σn_i²/C_i, in the squared embedding lengths n_i and capacities
+  C_i = (w_i·w_i)²/Σ_j(w_i·w_j)², and its minimum with the capacities
+  summing to the number of neurons D gives C_i = clip((k − 1)v_i/((k − 3)λ)
+  − 2/(k − 3), 0, 1): for k ≤ 3 each feature is given a whole dimension or
+  none, and for k > 3 a feature is shared between neurons exactly when 2λ/(k
+  − 1) < v_i < λ
 version: 1
 history:
 - version: 1
@@ -36,7 +46,7 @@ summary: >-
   nothing directly about trained networks.
 ---
 <!-- inactive-ok-file: THEORY-1035 — Proposed; the authors' wider account, cited as open -->
-# THEORY-1036: In a model that fits y = Σ v_i x_i² with ỹ = Σ_r (W_r·x)² + b, on independent inputs of zero mean, unit variance and common fourth moment k, the expected squared error at the optimal bias is (k − 1)Σ(n_i − v_i)² − 2Σn_i² + 2Σn_i²/C_i, in the squared embedding lengths n_i and capacities C_i = (w_i·w_i)²/Σ_j(w_i·w_j)², and its minimum with the capacities summing to the number of neurons D gives C_i = clip((k − 1)v_i/((k − 3)λ) − 2/(k − 3), 0, 1): for k ≤ 3 each feature is given a whole dimension or none, and for k > 3 a feature is shared between neurons exactly when 2λ/(k − 1) < v_i < λ
+# THEORY-1036: Kurtosis above 3 makes features share neurons
 
 ## Source
 

@@ -22,7 +22,13 @@ promote_when: >-
   Palau did, so that the integration never reaches emotion. Survey data
   on whether people accept sentences ascribing emotions to groups cannot
   settle it, and neither can further thought experiments.
-title: "A group can itself be in an emotional state that is not its members' states in aggregation, when its distributed routines integrate the capacities an emotion requires into one action-oriented representation; because emotions are functional kinds such a state need not be felt, and no actual case has yet been shown"
+title: 'Group emotion is possible, though none is shown'
+statement: >-
+  A group can itself be in an emotional state that is not its members'
+  states in aggregation, when its distributed routines integrate the
+  capacities an emotion requires into one action-oriented representation;
+  because emotions are functional kinds such a state need not be felt, and
+  no actual case has yet been shown
 version: 1
 tags:
 - emotion-and-affect
@@ -60,7 +66,7 @@ corroborates:
 <!-- inactive-ok-file: THEORY-126 — Proposed; filed in the same batch, the convergence account this is compatible with and the group-judgment result this parallels, no relation declared -->
 <!-- inactive-ok-file: THEORY-043 THEORY-045 THEORY-055 THEORY-057 — Proposed; named in Connections for how this bears on them, nothing here rests on them -->
 
-# THEORY-125: A group can itself be in an emotional state that is not its members' states in aggregation, when its distributed routines integrate the capacities an emotion requires into one action-oriented representation; because emotions are functional kinds such a state need not be felt, and no actual case has yet been shown
+# THEORY-125: Group emotion is possible, though none is shown
 
 ## Source
 

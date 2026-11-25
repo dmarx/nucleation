@@ -3,7 +3,12 @@ number: 1860
 status: Proposed
 formerly:
 - THEORY-tmpwsjea
-title: 'Benjamin argues that imagination is a collective capacity and a field of political struggle, which institutions ration and dominant imaginaries confine, so that building alternative social arrangements requires cultivating imagination collectively'
+title: 'Imagination is a collective political field'
+statement: >-
+  Benjamin argues that imagination is a collective capacity and a field of
+  political struggle, which institutions ration and dominant imaginaries
+  confine, so that building alternative social arrangements requires
+  cultivating imagination collectively
 version: 1
 source:
 - LIT-2565
@@ -19,7 +24,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-1923 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Skimmed -->
 
-# THEORY-1860: Benjamin argues that imagination is a collective capacity and a field of political struggle, which institutions ration and dominant imaginaries confine, so that building alternative social arrangements requires cultivating imagination collectively
+# THEORY-1860: Imagination is a collective political field
 
 ## The account
 

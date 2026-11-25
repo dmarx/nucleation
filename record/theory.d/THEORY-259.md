@@ -3,7 +3,14 @@ number: 259
 status: Active
 formerly:
 - THEORY-tmpetzzi
-title: "For a recursive family of likelihoods and the universal prior, the Bayesian two-part code length −log Pr(D|H) − log m(H) equals the ideal-MDL length K(D|H) + K(H) plus the randomness deficiency of D for H, up to a constant fixed by the family; so ideal MDL and MAP selection agree to within a constant among hypotheses for which the data are random, and can part where they are not"
+title: 'Ideal MDL and MAP agree when data are random'
+statement: >-
+  For a recursive family of likelihoods and the universal prior, the
+  Bayesian two-part code length −log Pr(D|H) − log m(H) equals the ideal-MDL
+  length K(D|H) + K(H) plus the randomness deficiency of D for H, up to a
+  constant fixed by the family; so ideal MDL and MAP selection agree to
+  within a constant among hypotheses for which the data are random, and can
+  part where they are not
 version: 3
 history:
 - version: 2
@@ -49,7 +56,7 @@ bounds:
 ---
 <!-- inactive-ok-file: THEORY-277 — Proposed; the companion theory filed today and the entries named under Connections -->
 
-# THEORY-259: For a recursive family of likelihoods and the universal prior, the Bayesian two-part code length −log Pr(D|H) − log m(H) equals the ideal-MDL length K(D|H) + K(H) plus the randomness deficiency of D for H, up to a constant fixed by the family; so ideal MDL and MAP selection agree to within a constant among hypotheses for which the data are random, and can part where they are not
+# THEORY-259: Ideal MDL and MAP agree when data are random
 
 ## Source
 

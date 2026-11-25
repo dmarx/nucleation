@@ -22,7 +22,10 @@ promote_when: >-
   stipulates by identifying "self" with a substantial individual; and more
   body-ownership illusions, which show that the self-model can be
   manipulated but not that it is all there is.
-title: "What is experienced as a self is the content of a self-model the system cannot recognise as a model, and nothing beyond such models is a self"
+title: 'Self is an unrecognised self-model''s content'
+statement: >-
+  What is experienced as a self is the content of a self-model the system
+  cannot recognise as a model, and nothing beyond such models is a self
 version: 1
 tags:
 - self
@@ -52,7 +55,7 @@ corroborates:
 <!-- inactive-ok-file: LIT-467 — Unavailable; Being No One, named as the unread book that could move this, not leaned on -->
 <!-- inactive-ok-file: THEORY-029 THEORY-044 THEORY-045 THEORY-051 THEORY-063 THEORY-060 — Proposed; the accounts this one bears on, named in prose, nothing here rests on them -->
 
-# THEORY-064: What is experienced as a self is the content of a self-model the system cannot recognise as a model, and nothing beyond such models is a self
+# THEORY-064: Self is an unrecognised self-model's content
 
 ## Which word this is about
 

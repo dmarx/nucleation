@@ -7,7 +7,13 @@ promote_when: >-
   A reading confirms that the paper's eqs. (1)–(4), (49)–(50) and (51)–(53)
   establish the convergence, the eigenvalue cos²α and the minimum slope as
   titled.
-title: 'Asano shows that a passive rimless wheel''s gravity-powered gait on a slope is asymptotically stable and period-1 because its impact posture and the energy gravity restores each step are fixed by geometry, so the return map''s eigenvalue is cos²α, independent of the step period, and the gait exists only above a minimum slope tan²(α/2)'
+title: 'Rimless wheel gait is stable by geometry'
+statement: >-
+  Asano shows that a passive rimless wheel's gravity-powered gait on a slope
+  is asymptotically stable and period-1 because its impact posture and the
+  energy gravity restores each step are fixed by geometry, so the return
+  map's eigenvalue is cos²α, independent of the step period, and the gait
+  exists only above a minimum slope tan²(α/2)
 version: 1
 tags:
 - control-theory
@@ -25,7 +31,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-2108 — Unavailable and new; the original Asano (2012) stands in for, cited as open -->
 
-# THEORY-1387: Asano shows that a passive rimless wheel's gravity-powered gait on a slope is asymptotically stable and period-1 because its impact posture and the energy gravity restores each step are fixed by geometry, so the return map's eigenvalue is cos²α, independent of the step period, and the gait exists only above a minimum slope tan²(α/2)
+# THEORY-1387: Rimless wheel gait is stable by geometry
 
 ## Source
 

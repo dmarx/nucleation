@@ -3,7 +3,12 @@ number: 42
 status: Active
 formerly:
 - THEORY-tmpzaisj
-title: 'Under a superselection rule a coherent superposition across sectors is operationally a mixture, because no observable connects the sectors; Wick, Wightman and Wigner proved such a rule for integer versus half-integer spin and only postulated it for charge'
+title: 'Cross-sector superposition is operationally mixed'
+statement: >-
+  Under a superselection rule a coherent superposition across sectors is
+  operationally a mixture, because no observable connects the sectors; Wick,
+  Wightman and Wigner proved such a rule for integer versus half-integer
+  spin and only postulated it for charge
 version: 1
 tags:
 - quantum-foundations
@@ -26,7 +31,7 @@ bears_on:
 - QUESTION-055
 ---
 
-# THEORY-042: Under a superselection rule a coherent superposition across sectors is operationally a mixture, because no observable connects the sectors; Wick, Wightman and Wigner proved such a rule for integer versus half-integer spin and only postulated it for charge
+# THEORY-042: Cross-sector superposition is operationally mixed
 
 ## Source
 

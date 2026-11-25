@@ -10,7 +10,13 @@ promote_when: >-
   which a pattern reaches its minimum degrees of freedom depends on the
   selection rule, the number of candidates sampled per step and the
   fraction of triangular facets as Li and Choi report.
-title: 'Li and Choi show that the rigidity of general origami patterns can be tuned by enforcing or relaxing the planarity of selected facets, and that the critical density at which a pattern reaches its minimum number of degrees of freedom depends on the facet-selection rule, the number of candidates sampled per step and the fraction of triangular facets'
+title: 'Facet planarity tunes origami rigidity'
+statement: >-
+  Li and Choi show that the rigidity of general origami patterns can be
+  tuned by enforcing or relaxing the planarity of selected facets, and that
+  the critical density at which a pattern reaches its minimum number of
+  degrees of freedom depends on the facet-selection rule, the number of
+  candidates sampled per step and the fraction of triangular facets
 version: 2
 history:
 - version: 2
@@ -39,7 +45,7 @@ bears_on:
 - QUESTION-377
 ---
 
-# THEORY-1377: Li and Choi show that the rigidity of general origami patterns can be tuned by enforcing or relaxing the planarity of selected facets, and that the critical density at which a pattern reaches its minimum number of degrees of freedom depends on the facet-selection rule, the number of candidates sampled per step and the fraction of triangular facets
+# THEORY-1377: Facet planarity tunes origami rigidity
 
 ## Source
 

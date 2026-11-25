@@ -3,7 +3,13 @@ number: 2098
 status: Proposed
 formerly:
 - THEORY-tmp2aaek
-title: 'Solms argues that consciousness is generated in the upper brainstem and is fundamentally affective, feeling being the precision-weighting by which an organism that minimises free energy prioritises among its homeostatic needs in unpredicted contexts, so that rising uncertainty about a need is felt as unpleasure and falling uncertainty as pleasure'
+title: 'Consciousness is affective, born in the brainstem'
+statement: >-
+  Solms argues that consciousness is generated in the upper brainstem and is
+  fundamentally affective, feeling being the precision-weighting by which an
+  organism that minimises free energy prioritises among its homeostatic
+  needs in unpredicted contexts, so that rising uncertainty about a need is
+  felt as unpleasure and falling uncertainty as pleasure
 version: 1
 source:
 - LIT-2891
@@ -22,7 +28,7 @@ summary: >-
   [LIT-2916](../literature.d/LIT-2916.md). Proposed until its promote_when is met.
 ---
 
-# THEORY-2098: Solms argues that consciousness is generated in the upper brainstem and is fundamentally affective, feeling being the precision-weighting by which an organism that minimises free energy prioritises among its homeostatic needs in unpredicted contexts, so that rising uncertainty about a need is felt as unpleasure and falling uncertainty as pleasure
+# THEORY-2098: Consciousness is affective, born in the brainstem
 
 ## The account
 

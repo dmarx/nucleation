@@ -10,7 +10,14 @@ promote_when: >-
   images or the published version rather than from extracted text, within
   the stated conditions: the local induction approximation, a negligible
   normal-fluid velocity and small friction.
-title: 'Under the local induction approximation a thin vortex filament carries a soliton of its own shape: its curvature and torsion combine into a field obeying the cubic nonlinear Schrödinger equation, whose sech soliton is a localized pattern of the filament; with weak mutual friction and a negligible normal-fluid velocity the soliton survives, perturbed at first order in the friction, and decays at a rate of at most second order'
+title: 'Vortex filaments carry NLS solitons'
+statement: >-
+  Under the local induction approximation a thin vortex filament carries a
+  soliton of its own shape: its curvature and torsion combine into a field
+  obeying the cubic nonlinear Schrödinger equation, whose sech soliton is a
+  localized pattern of the filament; with weak mutual friction and a
+  negligible normal-fluid velocity the soliton survives, perturbed at first
+  order in the friction, and decays at a rate of at most second order
 version: 1
 tags:
 - natural-sciences
@@ -31,7 +38,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-2611 — Unavailable or Proposed; the work this stands in for, and a held reading of weak-loss decay -->
 
-# THEORY-1868: Under the local induction approximation a thin vortex filament carries a soliton of its own shape: its curvature and torsion combine into a field obeying the cubic nonlinear Schrödinger equation, whose sech soliton is a localized pattern of the filament; with weak mutual friction and a negligible normal-fluid velocity the soliton survives, perturbed at first order in the friction, and decays at a rate of at most second order
+# THEORY-1868: Vortex filaments carry NLS solitons
 
 Van Gorder (2014), [LIT-2612](../literature.d/LIT-2612.md).
 

@@ -3,7 +3,15 @@ number: 1522
 status: Active
 formerly:
 - THEORY-tmpwcxn9
-title: 'Ahn reads Bainbridge''s ironies of automation as holding that automation takes the routine work and leaves the operator the atypical cases, recalls the operator at its failure, when the system is least predictable, and leaves the operator''s manual and cognitive skills degraded from disuse; and, as his own remedies for medical education, he proposes building core skills in phases free of AI before AI is introduced, and simulations in which AI failures are injected'
+title: 'Train skills before AI, inject AI failures'
+statement: >-
+  Ahn reads Bainbridge's ironies of automation as holding that automation
+  takes the routine work and leaves the operator the atypical cases, recalls
+  the operator at its failure, when the system is least predictable, and
+  leaves the operator's manual and cognitive skills degraded from disuse;
+  and, as his own remedies for medical education, he proposes building core
+  skills in phases free of AI before AI is introduced, and simulations in
+  which AI failures are injected
 version: 4
 history:
 - version: 2
@@ -64,7 +72,7 @@ corroborates:
 <!-- inactive-ok-file: THEORY-1551 — Proposed; the wide form of this reading, split off by the status review of 2026-11-06 -->
 <!-- inactive-ok-file: LIT-2225 — Unavailable; the unread original whose reading this states -->
 
-# THEORY-1522: Ahn reads Bainbridge's ironies of automation as holding that automation takes the routine work and leaves the operator the atypical cases, recalls the operator at its failure, when the system is least predictable, and leaves the operator's manual and cognitive skills degraded from disuse; and, as his own remedies for medical education, he proposes building core skills in phases free of AI before AI is introduced, and simulations in which AI failures are injected
+# THEORY-1522: Train skills before AI, inject AI failures
 
 ## Source
 

@@ -37,8 +37,12 @@ promote_when: >-
 
 # The claim. Repeat it as the body's `# THEORY-823:` heading; the lint checks
 # that the two agree.
-title: 'Tetris players rotate pieces more often than planning a placement and then executing it would require, rotate them early and check the column more the higher the drop, because these moves are epistemic actions: physical action that stands in for mental computation at the moment of use'
-
+title: 'Tetris rotations are epistemic actions'
+statement: >-
+  Tetris players rotate pieces more often than planning a placement and then
+  executing it would require, rotate them early and check the column more
+  the higher the drop, because these moves are epistemic actions: physical
+  action that stands in for mental computation at the moment of use
 version: 1
 
 # One or more topics from luria.yaml, primary first — the same table the
@@ -77,7 +81,7 @@ bears_on:
 - QUESTION-095
 ---
 
-# THEORY-823: Tetris players rotate pieces more often than planning a placement and then executing it would require, rotate them early and check the column more the higher the drop, because these moves are epistemic actions: physical action that stands in for mental computation at the moment of use
+# THEORY-823: Tetris rotations are epistemic actions
 
 ## Source
 

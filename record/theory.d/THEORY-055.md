@@ -20,7 +20,11 @@ promote_when: >-
   their emotion labels, since the rival reads appraisals as descriptions
   produced by the same categorization, or further everyday examples like
   the ones the source paper argues from.
-title: "An appraisal of an event's pertinence to the agent's concerns elicits the emotion, as a state of action readiness, and emotions differ by their mode of action readiness"
+title: 'Appraisal elicits emotion as action readiness'
+statement: >-
+  An appraisal of an event's pertinence to the agent's concerns elicits the
+  emotion, as a state of action readiness, and emotions differ by their mode
+  of action readiness
 version: 1
 tags:
 - emotion-and-affect
@@ -52,7 +56,7 @@ answers:
 <!-- inactive-ok-file: LIT-546 LIT-550 — Unavailable, no lawful full text; named as the fuller statements of appraisal theory that this account cannot lean on -->
 <!-- inactive-ok-file: THEORY-057 THEORY-045 THEORY-056 — Proposed; the rival and the neighbours, stated as such -->
 
-# THEORY-055: An appraisal of an event's pertinence to the agent's concerns elicits the emotion, as a state of action readiness, and emotions differ by their mode of action readiness
+# THEORY-055: Appraisal elicits emotion as action readiness
 
 ## Note of 2026-10-27: the concept separated from the account
 

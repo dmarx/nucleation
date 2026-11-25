@@ -27,8 +27,13 @@ promote_when: 'Replication outside the protocol of LIT-618, read in the record. 
 
 # The claim. Repeat it as the body's `# THEORY-788:` heading; the lint checks
 # that the two agree.
-title: 'Training a deep classifier past zero training error generally collapses its last-layer features onto their class means, drives the centred means toward a simplex equiangular tight frame aligned with the classifier, and makes the decision nearest class mean, as Papyan, Han and Donoho propose from their runs'
-
+title: 'Training past zero error yields neural collapse'
+statement: >-
+  Training a deep classifier past zero training error generally collapses
+  its last-layer features onto their class means, drives the centred means
+  toward a simplex equiangular tight frame aligned with the classifier, and
+  makes the decision nearest class mean, as Papyan, Han and Donoho propose
+  from their runs
 version: 1
 
 # One or more topics from luria.yaml, primary first — the same table the
@@ -65,7 +70,7 @@ answers:
 
 <!-- inactive-ok-file: THEORY-286 — Proposed; the imbalanced-class geometry this claim defers to, cited as open -->
 
-# THEORY-788: Training a deep classifier past zero training error generally collapses its last-layer features onto their class means, drives the centred means toward a simplex equiangular tight frame aligned with the classifier, and makes the decision nearest class mean, as Papyan, Han and Donoho propose from their runs
+# THEORY-788: Training past zero error yields neural collapse
 
 ## Source
 

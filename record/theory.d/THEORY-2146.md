@@ -10,7 +10,16 @@ promote_when: >-
   its learned contribution scales as 1/L and adds coherently through
   cross-block gradient correlation, and the optimal learning rate is
   stable across depth.
-title: 'Bordelon, Noci, Li, Hanin and Pehlevan show, by a physics-level dynamical mean-field derivation and experiments on ResNets and ViTs, that a residual network with μP scaling and branches scaled by 1/√depth has a joint infinite-width and infinite-depth feature-learning limit in which each preactivation evolves over layer time as a diffusion from random contributions uncorrelated across blocks, each of order 1/√L, plus a drift from learned updates that skip connections correlate across blocks, each of order 1/L, with no depth factor in the learning rate'
+title: '1/√L ResNets have a width-depth feature limit'
+statement: >-
+  Bordelon, Noci, Li, Hanin and Pehlevan show, by a physics-level dynamical
+  mean-field derivation and experiments on ResNets and ViTs, that a residual
+  network with μP scaling and branches scaled by 1/√depth has a joint
+  infinite-width and infinite-depth feature-learning limit in which each
+  preactivation evolves over layer time as a diffusion from random
+  contributions uncorrelated across blocks, each of order 1/√L, plus a drift
+  from learned updates that skip connections correlate across blocks, each
+  of order 1/L, with no depth factor in the learning rate
 version: 1
 tags:
 - learning-theory
@@ -28,7 +37,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-2041 — Proposed; cited in the readings of 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-767 THEORY-2134 — Proposed, Deferred or new; filed in this contribution of 2026-11-21 or the ones it builds on -->
 
-# THEORY-2146: Bordelon, Noci, Li, Hanin and Pehlevan show, by a physics-level dynamical mean-field derivation and experiments on ResNets and ViTs, that a residual network with μP scaling and branches scaled by 1/√depth has a joint infinite-width and infinite-depth feature-learning limit in which each preactivation evolves over layer time as a diffusion from random contributions uncorrelated across blocks, each of order 1/√L, plus a drift from learned updates that skip connections correlate across blocks, each of order 1/L, with no depth factor in the learning rate
+# THEORY-2146: 1/√L ResNets have a width-depth feature limit
 
 ## Source
 

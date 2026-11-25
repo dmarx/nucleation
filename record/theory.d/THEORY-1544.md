@@ -11,7 +11,15 @@ promote_when: >-
   others, then succeeds where restored conditions alone did not;
   persistence after restored conditions counts only once slow transient
   succession is excluded (THEORY-136).
-title: 'Where degradation has built biotic–abiotic feedbacks that hold the degraded state, such as invader-driven fire and nitrogen cycles, herbivory on regenerating plants, lost seed sources or bare soil that sheds rain, restoring the historical disturbance regime or abiotic conditions does not return the community; restoration must first disrupt those feedbacks or move the state directly, often by several actions together, before restored conditions suffice'
+title: 'Degraded feedbacks block restoration'
+statement: >-
+  Where degradation has built biotic–abiotic feedbacks that hold the
+  degraded state, such as invader-driven fire and nitrogen cycles, herbivory
+  on regenerating plants, lost seed sources or bare soil that sheds rain,
+  restoring the historical disturbance regime or abiotic conditions does not
+  return the community; restoration must first disrupt those feedbacks or
+  move the state directly, often by several actions together, before
+  restored conditions suffice
 version: 1
 tags:
 - ecology
@@ -32,7 +40,7 @@ summary: >-
   restoration efforts, and [THEORY-136](THEORY-136.md)'s bar applies.
 ---
 
-# THEORY-1544: Where degradation has built biotic–abiotic feedbacks that hold the degraded state, such as invader-driven fire and nitrogen cycles, herbivory on regenerating plants, lost seed sources or bare soil that sheds rain, restoring the historical disturbance regime or abiotic conditions does not return the community; restoration must first disrupt those feedbacks or move the state directly, often by several actions together, before restored conditions suffice
+# THEORY-1544: Degraded feedbacks block restoration
 
 ## Source
 

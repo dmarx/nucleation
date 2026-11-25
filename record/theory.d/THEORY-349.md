@@ -3,7 +3,15 @@ number: 349
 status: Active
 formerly:
 - THEORY-tmpn4mcl
-title: "For binary outcomes and a fixed representation of individuals, a predictor can pass every test in a bounded class without being close to nature: outcome indistinguishability to tests that see the sampled prediction is equivalent, with stated losses, to multicalibration over a closely related class of sets, a predictor meeting it exists at size polynomial in the tests' size and the tolerance whatever nature's complexity, and learning one is as hard as weak agnostic learning of the class"
+title: 'OI to bounded tests is multicalibration'
+statement: >-
+  For binary outcomes and a fixed representation of individuals, a predictor
+  can pass every test in a bounded class without being close to nature:
+  outcome indistinguishability to tests that see the sampled prediction is
+  equivalent, with stated losses, to multicalibration over a closely related
+  class of sets, a predictor meeting it exists at size polynomial in the
+  tests' size and the tolerance whatever nature's complexity, and learning
+  one is as hard as weak agnostic learning of the class
 version: 1
 tags:
 - learning-theory
@@ -29,7 +37,7 @@ bears_on:
 - QUESTION-103
 ---
 
-# THEORY-349: For binary outcomes and a fixed representation of individuals, a predictor can pass every test in a bounded class without being close to nature: outcome indistinguishability to tests that see the sampled prediction is equivalent, with stated losses, to multicalibration over a closely related class of sets, a predictor meeting it exists at size polynomial in the tests' size and the tolerance whatever nature's complexity, and learning one is as hard as weak agnostic learning of the class
+# THEORY-349: OI to bounded tests is multicalibration
 
 ## Source
 

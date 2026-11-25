@@ -11,7 +11,16 @@ promote_when: >-
   structural change and in estimated dissipation at the passage, and a
   bias toward ordered motifs that grows with dissipation. The
   interpretation as proofreading is not required.
-title: 'Lee and colleagues report that mixtures of starfish embryos at two developmental ages, whose fluid-mediated interactions grow less nonreciprocal as they develop, pass abruptly from a traveling, flock-like collective state to a fluctuating, crystal-like one; weak nonreciprocity favours structural order and strong nonreciprocity fragments it, and at the passage both the rate of structural change and the estimated dissipation fall, while dissipation biases local rearrangements toward ordered motifs'
+title: 'Less nonreciprocity turns embryo flocks crystal'
+statement: >-
+  Lee and colleagues report that mixtures of starfish embryos at two
+  developmental ages, whose fluid-mediated interactions grow less
+  nonreciprocal as they develop, pass abruptly from a traveling, flock-like
+  collective state to a fluctuating, crystal-like one; weak nonreciprocity
+  favours structural order and strong nonreciprocity fragments it, and at
+  the passage both the rate of structural change and the estimated
+  dissipation fall, while dissipation biases local rearrangements toward
+  ordered motifs
 version: 1
 tags:
 - natural-sciences
@@ -31,7 +40,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-2408 — Skimmed; the reading this account comes from -->
 
-# THEORY-2298: Lee and colleagues report that mixtures of starfish embryos at two developmental ages, whose fluid-mediated interactions grow less nonreciprocal as they develop, pass abruptly from a traveling, flock-like collective state to a fluctuating, crystal-like one; weak nonreciprocity favours structural order and strong nonreciprocity fragments it, and at the passage both the rate of structural change and the estimated dissipation fall, while dissipation biases local rearrangements toward ordered motifs
+# THEORY-2298: Less nonreciprocity turns embryo flocks crystal
 
 ## Source
 

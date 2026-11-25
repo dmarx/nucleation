@@ -21,7 +21,11 @@ promote_when: >-
   between Laplace BMR and Laplace re-fits of the reduced models, which
   share the approximation; and the Dirichlet reductions of LIT-615,
   which rest on a mean-field approximation, not on Laplace.
-title: 'Bayesian model reduction under the Laplace approximation prices the reductions of a singular parent model with a Gaussian Occam factor, so its free-energy differences can be wrong by a term that grows with log n'
+title: 'Laplace BMR misprices singular reductions'
+statement: >-
+  Bayesian model reduction under the Laplace approximation prices the
+  reductions of a singular parent model with a Gaussian Occam factor, so its
+  free-energy differences can be wrong by a term that grows with log n
 version: 3
 history:
 - version: 2
@@ -63,7 +67,7 @@ corroborates:
 - CLAIM-188
 ---
 
-# THEORY-079: Bayesian model reduction under the Laplace approximation prices the reductions of a singular parent model with a Gaussian Occam factor, so its free-energy differences can be wrong by a term that grows with log n
+# THEORY-079: Laplace BMR misprices singular reductions
 
 ## Source
 

@@ -3,7 +3,13 @@ number: 1567
 status: Active
 formerly:
 - THEORY-tmp2nd2j
-title: 'MacAskill, Thomas and Vallinder factor the change in value an event makes through a feature of the world as significance times persistence times contingency, give its marginal, ex ante and alternative forms, and place it as an estimate of the importance factor of the importance, tractability and neglectedness framework'
+title: 'Significance, persistence, contingency multiply'
+statement: >-
+  MacAskill, Thomas and Vallinder factor the change in value an event makes
+  through a feature of the world as significance times persistence times
+  contingency, give its marginal, ex ante and alternative forms, and place
+  it as an estimate of the importance factor of the importance, tractability
+  and neglectedness framework
 version: 2
 history:
 - version: 1
@@ -35,7 +41,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: LIT-1747 — Unavailable; the works, notes, questions and claims the reading cites, cited with their standing -->
 
-# THEORY-1567: MacAskill, Thomas and Vallinder factor the change in value an event makes through a feature of the world as significance times persistence times contingency, give its marginal, ex ante and alternative forms, and place it as an estimate of the importance factor of the importance, tractability and neglectedness framework
+# THEORY-1567: Significance, persistence, contingency multiply
 
 ## The account
 

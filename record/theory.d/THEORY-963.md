@@ -3,7 +3,14 @@ number: 963
 status: Active
 formerly:
 - THEORY-tmpyulw1
-title: 'The minimax regret of every finite partial-monitoring game against an oblivious adversary, degenerate and duplicate actions included, is 0 when no two actions are neighbours, Θ̃(√n) when every pair of neighbours is locally observable, Θ(n^2/3) when every pair is globally but some pair is not locally observable, and linear otherwise; its lower bounds are proved against stochastic outcomes, so the same four classes hold for them'
+title: 'Partial-monitoring regret has four classes'
+statement: >-
+  The minimax regret of every finite partial-monitoring game against an
+  oblivious adversary, degenerate and duplicate actions included, is 0 when
+  no two actions are neighbours, Θ̃(√n) when every pair of neighbours is
+  locally observable, Θ(n^2/3) when every pair is globally but some pair is
+  not locally observable, and linear otherwise; its lower bounds are proved
+  against stochastic outcomes, so the same four classes hold for them
 version: 2
 history:
 - version: 1
@@ -55,7 +62,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: THEORY-964 — Superseded by THEORY-963; the earlier statement this one completes, nothing here rests on it -->
 <!-- inactive-ok-file: CLAIM-446 — Proposed; the claim whose variants are classified here, nothing here rests on it -->
-# THEORY-963: The minimax regret of every finite partial-monitoring game against an oblivious adversary, degenerate and duplicate actions included, is 0 when no two actions are neighbours, Θ̃(√n) when every pair of neighbours is locally observable, Θ(n^2/3) when every pair is globally but some pair is not locally observable, and linear otherwise; its lower bounds are proved against stochastic outcomes, so the same four classes hold for them
+# THEORY-963: Partial-monitoring regret has four classes
 
 ## Source
 

@@ -3,7 +3,14 @@ number: 2058
 status: Proposed
 formerly:
 - THEORY-tmp1b3hj
-title: 'Wang and colleagues find, with a per-step Shapley value of each training point toward a validation loss summed over a run, that in GPT-2 pretraining on the Pile the value toward a math corpus goes mostly to ArXiv, that general web crawl holds a positive share only in the first few hundred steps, and that the value per point of every domain shrinks as training proceeds'
+title: 'Training-point value shrinks as pretraining runs'
+statement: >-
+  Wang and colleagues find, with a per-step Shapley value of each training
+  point toward a validation loss summed over a run, that in GPT-2
+  pretraining on the Pile the value toward a math corpus goes mostly to
+  ArXiv, that general web crawl holds a positive share only in the first few
+  hundred steps, and that the value per point of every domain shrinks as
+  training proceeds
 version: 1
 source:
 - LIT-2865
@@ -23,7 +30,7 @@ summary: >-
   ones. Proposed until its promote_when is met.
 ---
 
-# THEORY-2058: Wang and colleagues find, with a per-step Shapley value of each training point toward a validation loss summed over a run, that in GPT-2 pretraining on the Pile the value toward a math corpus goes mostly to ArXiv, that general web crawl holds a positive share only in the first few hundred steps, and that the value per point of every domain shrinks as training proceeds
+# THEORY-2058: Training-point value shrinks as pretraining runs
 
 ## The account
 

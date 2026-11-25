@@ -3,7 +3,16 @@ number: 1456
 status: Active
 formerly:
 - THEORY-tmpzb4hv
-title: 'Rothemund shows that a 7-kilobase single-stranded scaffold routed through a shape, with about 200 unpurified staple strands in excess designed to bind only the scaffold, folds in one two-hour anneal from 95 °C to 20 °C into designed shapes about 100 nm across, with AFM-judged yields of well-formed structures from about 1% to 90% by design and at least 70% for rigid designs on circular scaffold; he proposes, without testing, that strand invasion, staple excess and cooperative staple binding account for this'
+title: 'Scaffold and staples fold arbitrary DNA shapes'
+statement: >-
+  Rothemund shows that a 7-kilobase single-stranded scaffold routed through
+  a shape, with about 200 unpurified staple strands in excess designed to
+  bind only the scaffold, folds in one two-hour anneal from 95 °C to 20 °C
+  into designed shapes about 100 nm across, with AFM-judged yields of
+  well-formed structures from about 1% to 90% by design and at least 70% for
+  rigid designs on circular scaffold; he proposes, without testing, that
+  strand invasion, staple excess and cooperative staple binding account for
+  this
 version: 2
 history:
 - version: 2
@@ -35,7 +44,7 @@ summary: >-
   hysteresis, which were not measured.
 ---
 
-# THEORY-1456: Rothemund shows that a 7-kilobase single-stranded scaffold routed through a shape, with about 200 unpurified staple strands in excess designed to bind only the scaffold, folds in one two-hour anneal from 95 °C to 20 °C into designed shapes about 100 nm across, with AFM-judged yields of well-formed structures from about 1% to 90% by design and at least 70% for rigid designs on circular scaffold; he proposes, without testing, that strand invasion, staple excess and cooperative staple binding account for this
+# THEORY-1456: Scaffold and staples fold arbitrary DNA shapes
 
 ## Source
 

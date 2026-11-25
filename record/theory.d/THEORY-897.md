@@ -3,7 +3,13 @@ number: 897
 status: Active
 formerly:
 - THEORY-tmp0vr2q
-title: 'In Brown, Price and Dombrovski''s reading of seven computational learning studies they selected without a systematic search, with mixed directions, anxiety goes with altered adjustment of learning rate to uncertainty, mostly for aversive outcomes, while overall learning rate, choice consistency and outcome valuation show little relation to it'
+title: 'Anxiety alters learning-rate adjustment'
+statement: >-
+  In Brown, Price and Dombrovski's reading of seven computational learning
+  studies they selected without a systematic search, with mixed directions,
+  anxiety goes with altered adjustment of learning rate to uncertainty,
+  mostly for aversive outcomes, while overall learning rate, choice
+  consistency and outcome valuation show little relation to it
 version: 2
 history:
 - version: 2
@@ -42,7 +48,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: CLAIM-446 — Proposed; the claim this bears on and the companion filed from the same reading, named -->
 
-# THEORY-897: In Brown, Price and Dombrovski's reading of seven computational learning studies they selected without a systematic search, with mixed directions, anxiety goes with altered adjustment of learning rate to uncertainty, mostly for aversive outcomes, while overall learning rate, choice consistency and outcome valuation show little relation to it
+# THEORY-897: Anxiety alters learning-rate adjustment
 
 ## Source
 

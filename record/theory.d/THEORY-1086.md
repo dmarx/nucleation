@@ -11,7 +11,13 @@ promote_when: >-
   is all-or-nothing under every such limit. Not settled by more examples of
   Newtonian mechanics approximating quantum mechanics, which bear on
   theories, not on the feature.
-title: 'A fundamental metaphysics bears on the metaphysics of the lifeworld only through features that admit no approximation; without any, a relational world can approximate one of separable individuals, and the independence of social theorizing from fundamental metaphysics is then real but contingent, on the size of Planck''s constant, not principled'
+title: 'Social theory''s independence is contingent'
+statement: >-
+  A fundamental metaphysics bears on the metaphysics of the lifeworld only
+  through features that admit no approximation; without any, a relational
+  world can approximate one of separable individuals, and the independence
+  of social theorizing from fundamental metaphysics is then real but
+  contingent, on the size of Planck's constant, not principled
 version: 2
 history:
 - version: 2
@@ -43,7 +49,7 @@ bears_on:
 - QUESTION-280
 ---
 
-# THEORY-1086: A fundamental metaphysics bears on the metaphysics of the lifeworld only through features that admit no approximation; without any, a relational world can approximate one of separable individuals, and the independence of social theorizing from fundamental metaphysics is then real but contingent, on the size of Planck's constant, not principled
+# THEORY-1086: Social theory's independence is contingent
 
 ## Source
 

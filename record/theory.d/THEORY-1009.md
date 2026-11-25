@@ -3,7 +3,17 @@ number: 1009
 status: Active
 formerly:
 - THEORY-tmpvqsx2
-title: 'In Musat, Pimentel, Zucchet and Hofmann''s two-layer attention-only transformer on in-context bigrams, once an in-weights circuit that maps each common token to its memorized partner has saturated, the population gradient on the induction circuit is what it would be without it multiplied by fr + (1 − fr)fv, the share of the data the memorized map does not solve, up to errors that vanish at large vocabulary and large in-weights margin when no distractor block carries the query''s partner; the two circuits occupy orthogonal coordinates and still interact, because they solve overlapping parts of the data'
+title: 'In-weights circuit scales the induction gradient'
+statement: >-
+  In Musat, Pimentel, Zucchet and Hofmann's two-layer attention-only
+  transformer on in-context bigrams, once an in-weights circuit that maps
+  each common token to its memorized partner has saturated, the population
+  gradient on the induction circuit is what it would be without it
+  multiplied by fr + (1 − fr)fv, the share of the data the memorized map
+  does not solve, up to errors that vanish at large vocabulary and large
+  in-weights margin when no distractor block carries the query's partner;
+  the two circuits occupy orthogonal coordinates and still interact, because
+  they solve overlapping parts of the data
 version: 2
 history:
 - version: 1
@@ -50,7 +60,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: THEORY-783 CLAIM-367 — Proposed; the account and claim this one is set beside, cited as open -->
 
-# THEORY-1009: In Musat, Pimentel, Zucchet and Hofmann's two-layer attention-only transformer on in-context bigrams, once an in-weights circuit that maps each common token to its memorized partner has saturated, the population gradient on the induction circuit is what it would be without it multiplied by fr + (1 − fr)fv, the share of the data the memorized map does not solve, up to errors that vanish at large vocabulary and large in-weights margin when no distractor block carries the query's partner; the two circuits occupy orthogonal coordinates and still interact, because they solve overlapping parts of the data
+# THEORY-1009: In-weights circuit scales the induction gradient
 
 ## Source
 

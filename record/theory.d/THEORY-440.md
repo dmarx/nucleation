@@ -14,7 +14,14 @@ promote_when: >-
   or if a breakdown comes as suspended elections, which is the other
   pattern the account denies. A verdict that turns on where an index draws
   a category boundary cannot settle it, and neither can commentary.
-title: "A democracy that breaks down under an elected incumbent need not become a dictatorship: elections, courts and a legal opposition can continue while the incumbent uses state power against opponents and tilts the field, giving competitive authoritarianism, in which competition is real but unfair and the decisive loss is the opposition that withdraws or never forms; Levitsky and Way forecast this for the second Trump term"
+title: 'Breakdown can yield competitive authoritarianism'
+statement: >-
+  A democracy that breaks down under an elected incumbent need not become a
+  dictatorship: elections, courts and a legal opposition can continue while
+  the incumbent uses state power against opponents and tilts the field,
+  giving competitive authoritarianism, in which competition is real but
+  unfair and the decisive loss is the opposition that withdraws or never
+  forms; Levitsky and Way forecast this for the second Trump term
 version: 1
 tags:
 - society-and-governance
@@ -31,7 +38,7 @@ summary: >-
   the reading, and the post's index figures are second-hand.
 ---
 
-# THEORY-440: A democracy that breaks down under an elected incumbent need not become a dictatorship: elections, courts and a legal opposition can continue while the incumbent uses state power against opponents and tilts the field, giving competitive authoritarianism, in which competition is real but unfair and the decisive loss is the opposition that withdraws or never forms; Levitsky and Way forecast this for the second Trump term
+# THEORY-440: Breakdown can yield competitive authoritarianism
 
 ## Source
 

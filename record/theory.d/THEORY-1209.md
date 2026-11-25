@@ -3,7 +3,12 @@ number: 1209
 status: Proposed
 formerly:
 - THEORY-tmpfnh2y
-title: 'In genetically identical E. coli, a cell''s swarming potential is a transient inherited state: its descendants share it for about four generations and lose it by about seven, and it tracks the cell''s iron status rather than a bistable switch'
+title: 'E. coli swarming is a transient inherited state'
+statement: >-
+  In genetically identical E. coli, a cell's swarming potential is a
+  transient inherited state: its descendants share it for about four
+  generations and lose it by about seven, and it tracks the cell's iron
+  status rather than a bistable switch
 version: 1
 tags:
 - natural-sciences
@@ -35,7 +40,7 @@ summary: >-
   and the delay model is fitted to two time points.
 ---
 
-# THEORY-1209: In genetically identical E. coli, a cell's swarming potential is a transient inherited state: its descendants share it for about four generations and lose it by about seven, and it tracks the cell's iron status rather than a bistable switch
+# THEORY-1209: E. coli swarming is a transient inherited state
 
 ## Source
 

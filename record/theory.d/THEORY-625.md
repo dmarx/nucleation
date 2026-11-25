@@ -14,7 +14,14 @@ promote_when: >-
   equilibrium does not already give (the point THEORY-414 denies).
   More examples of status functions from one society cannot settle it,
   since the paper's examples already fit by construction.
-title: "Institutional facts are status functions, imposed by collective acceptance on things that cannot perform the function by their physical structure alone; the status carries deontic powers that give desire-independent reasons for action, and it exists only as represented, so institutions require language; 'X counts as Y in C' is the common case of the more general 'We accept (S has power (S does A))'"
+title: 'Institutions are accepted status functions'
+statement: >-
+  Institutional facts are status functions, imposed by collective acceptance
+  on things that cannot perform the function by their physical structure
+  alone; the status carries deontic powers that give desire-independent
+  reasons for action, and it exists only as represented, so institutions
+  require language; 'X counts as Y in C' is the common case of the more
+  general 'We accept (S has power (S does A))'
 version: 2
 history:
 - version: 2
@@ -57,7 +64,7 @@ corroborates:
 <!-- inactive-ok-file: LIT-485 — Unavailable, no lawful full text; Searle's 1995 book, which this paper restates; nothing here is taken from the book itself -->
 <!-- inactive-ok-file: LIT-490 — Unavailable, no lawful full text; Searle's 1990 paper, cited by this paper for collective intentionality and not read -->
 
-# THEORY-625: Institutional facts are status functions, imposed by collective acceptance on things that cannot perform the function by their physical structure alone; the status carries deontic powers that give desire-independent reasons for action, and it exists only as represented, so institutions require language; 'X counts as Y in C' is the common case of the more general 'We accept (S has power (S does A))'
+# THEORY-625: Institutions are accepted status functions
 
 ## Source
 

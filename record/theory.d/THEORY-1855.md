@@ -3,7 +3,13 @@ number: 1855
 status: Proposed
 formerly:
 - THEORY-tmps3a0q
-title: 'Morozov argues that solutionism, recasting political and moral problems as technical problems to be optimized with sensors, data and incentives, leaves structural causes untouched, displaces moral motivation, and can make a nominally voluntary technology such as self-tracking a penalty on those who decline it'
+title: 'Solutionism leaves structural causes untouched'
+statement: >-
+  Morozov argues that solutionism, recasting political and moral problems as
+  technical problems to be optimized with sensors, data and incentives,
+  leaves structural causes untouched, displaces moral motivation, and can
+  make a nominally voluntary technology such as self-tracking a penalty on
+  those who decline it
 version: 1
 source:
 - LIT-2607
@@ -25,7 +31,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-677 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: LIT-2606 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Unavailable -->
 
-# THEORY-1855: Morozov argues that solutionism, recasting political and moral problems as technical problems to be optimized with sensors, data and incentives, leaves structural causes untouched, displaces moral motivation, and can make a nominally voluntary technology such as self-tracking a penalty on those who decline it
+# THEORY-1855: Solutionism leaves structural causes untouched
 
 ## The account
 

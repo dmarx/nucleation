@@ -10,7 +10,16 @@ promote_when: >-
   were irrelevant to the outcome, and the vacatur of the Policy and of the
   refusals based solely on it. Whether the ruling survives appeal is not
   asserted.
-title: 'In CLINIC v. Rubio the Southern District of New York held that the State Department''s 2026 policy ordering consular officers to refuse immigrant visas to nationals of 75 countries, whatever individualized assessment found of their eligibility, made those determinations irrelevant to the outcome, was contrary to the bar on nationality discrimination and to the rule that refusals rest on grounds the law sets out, and exceeded the Secretary of State''s authority, and vacated it with the refusals based solely on it'
+title: 'Nationality visa ban vacated as unlawful'
+statement: >-
+  In CLINIC v. Rubio the Southern District of New York held that the State
+  Department's 2026 policy ordering consular officers to refuse immigrant
+  visas to nationals of 75 countries, whatever individualized assessment
+  found of their eligibility, made those determinations irrelevant to the
+  outcome, was contrary to the bar on nationality discrimination and to the
+  rule that refusals rest on grounds the law sets out, and exceeded the
+  Secretary of State's authority, and vacated it with the refusals based
+  solely on it
 version: 1
 tags:
 - society-and-governance
@@ -31,7 +40,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-745 — Proposed or new; the reading and the claim it grounds -->
 
-# THEORY-1952: In CLINIC v. Rubio the Southern District of New York held that the State Department's 2026 policy ordering consular officers to refuse immigrant visas to nationals of 75 countries, whatever individualized assessment found of their eligibility, made those determinations irrelevant to the outcome, was contrary to the bar on nationality discrimination and to the rule that refusals rest on grounds the law sets out, and exceeded the Secretary of State's authority, and vacated it with the refusals based solely on it
+# THEORY-1952: Nationality visa ban vacated as unlawful
 
 CLINIC v. Rubio, ECF No. 83, [LIT-2727](../literature.d/LIT-2727.md).
 

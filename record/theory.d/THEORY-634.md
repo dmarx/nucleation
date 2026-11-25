@@ -3,7 +3,15 @@ number: 634
 status: Active
 formerly:
 - THEORY-tmpsuuh4
-title: "In a ring of M chemotactic catalyst species, each making the next one's substrate, the non-reciprocal nearest-neighbour coupling makes the linear stability matrix circulant: the uniform state goes unstable for any M exactly when the species attract themselves, and the parity of M then decides the leading mode, a real alternating mode for even M that sorts species by parity into two static clusters, and a complex pair for odd M that can give persistent oscillation"
+title: 'Catalyst ring parity decides pattern mode'
+statement: >-
+  In a ring of M chemotactic catalyst species, each making the next one's
+  substrate, the non-reciprocal nearest-neighbour coupling makes the linear
+  stability matrix circulant: the uniform state goes unstable for any M
+  exactly when the species attract themselves, and the parity of M then
+  decides the leading mode, a real alternating mode for even M that sorts
+  species by parity into two static clusters, and a complex pair for odd M
+  that can give persistent oscillation
 version: 2
 history:
 - version: 2
@@ -33,7 +41,7 @@ bounds:
 ---
 <!-- inactive-ok-file: THEORY-412 THEORY-492 — Proposed; accounts that name this paper, or a parallel, cited for context, nothing here rests on their being settled -->
 
-# THEORY-634: In a ring of M chemotactic catalyst species, each making the next one's substrate, the non-reciprocal nearest-neighbour coupling makes the linear stability matrix circulant: the uniform state goes unstable for any M exactly when the species attract themselves, and the parity of M then decides the leading mode, a real alternating mode for even M that sorts species by parity into two static clusters, and a complex pair for odd M that can give persistent oscillation
+# THEORY-634: Catalyst ring parity decides pattern mode
 
 ## Source
 

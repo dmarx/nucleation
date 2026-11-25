@@ -3,7 +3,13 @@ number: 700
 status: Active
 formerly:
 - THEORY-tmp0xaeq
-title: "For jointly Gaussian stationary processes, Granger causality in Geweke's generalized-variance form is exactly twice the transfer entropy, conditional and multivariate, at the regressions' lags, because least-squares residual covariance is the partial covariance and a Gaussian's conditional entropy is half its log-determinant plus a constant"
+title: 'Gaussian Granger causality is twice TE'
+statement: >-
+  For jointly Gaussian stationary processes, Granger causality in Geweke's
+  generalized-variance form is exactly twice the transfer entropy,
+  conditional and multivariate, at the regressions' lags, because
+  least-squares residual covariance is the partial covariance and a
+  Gaussian's conditional entropy is half its log-determinant plus a constant
 version: 2
 history:
 - version: 2
@@ -34,7 +40,7 @@ bears_on:
 - QUESTION-221
 ---
 
-# THEORY-700: For jointly Gaussian stationary processes, Granger causality in Geweke's generalized-variance form is exactly twice the transfer entropy, conditional and multivariate, at the regressions' lags, because least-squares residual covariance is the partial covariance and a Gaussian's conditional entropy is half its log-determinant plus a constant
+# THEORY-700: Gaussian Granger causality is twice TE
 
 ## Source
 

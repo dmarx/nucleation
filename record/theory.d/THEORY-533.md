@@ -15,7 +15,13 @@ promote_when: >-
   and in trouble if such payments are held unlawful and stop, or if
   Congress reasserts purpose control. Commentary on a single shutdown
   cannot settle it.
-title: "When a President can end a funding lapse selectively, paying the parts of government he favours from funds named by no appropriation, a shutdown stops checking him and instead hands him the choice of what to fund; each payment left unchallenged becomes a precedent, and a Speaker who lets it stand gives up his own chamber's power of the purse"
+title: 'Selective shutdown pay hands the President power'
+statement: >-
+  When a President can end a funding lapse selectively, paying the parts of
+  government he favours from funds named by no appropriation, a shutdown
+  stops checking him and instead hands him the choice of what to fund; each
+  payment left unchallenged becomes a precedent, and a Speaker who lets it
+  stand gives up his own chamber's power of the purse
 version: 1
 tags:
 - society-and-governance
@@ -32,7 +38,7 @@ summary: >-
   choice it gives the Speaker is the author's framing.
 ---
 
-# THEORY-533: When a President can end a funding lapse selectively, paying the parts of government he favours from funds named by no appropriation, a shutdown stops checking him and instead hands him the choice of what to fund; each payment left unchallenged becomes a precedent, and a Speaker who lets it stand gives up his own chamber's power of the purse
+# THEORY-533: Selective shutdown pay hands the President power
 
 ## Source
 

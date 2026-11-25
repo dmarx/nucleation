@@ -3,7 +3,15 @@ number: 1681
 status: Proposed
 formerly:
 - THEORY-tmpee6xr
-title: 'Amano and Simonov estimate, from the full transaction log of one free-to-play mobile game, that regular players value loot boxes mainly for their help in play while the 1.5% of players who give 90% of revenue get almost all their loot-box value from opening the boxes themselves, and their simulations find that the game''s difficulty is set to balance this minority''s revenue against the majority''s engagement rather than at the revenue-maximizing level the minority''s spending would favour.'
+title: 'Whales value loot boxes for opening them'
+statement: >-
+  Amano and Simonov estimate, from the full transaction log of one
+  free-to-play mobile game, that regular players value loot boxes mainly for
+  their help in play while the 1.5% of players who give 90% of revenue get
+  almost all their loot-box value from opening the boxes themselves, and
+  their simulations find that the game's difficulty is set to balance this
+  minority's revenue against the majority's engagement rather than at the
+  revenue-maximizing level the minority's spending would favour.
 version: 1
 source:
 - LIT-2401
@@ -31,7 +39,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-1747 — Skimmed; the reading filed from the same exchange -->
 
-# THEORY-1681: Amano and Simonov estimate, from the full transaction log of one free-to-play mobile game, that regular players value loot boxes mainly for their help in play while the 1.5% of players who give 90% of revenue get almost all their loot-box value from opening the boxes themselves, and their simulations find that the game's difficulty is set to balance this minority's revenue against the majority's engagement rather than at the revenue-maximizing level the minority's spending would favour.
+# THEORY-1681: Whales value loot boxes for opening them
 
 ## The account
 

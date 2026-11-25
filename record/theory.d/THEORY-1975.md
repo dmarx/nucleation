@@ -10,7 +10,13 @@ promote_when: >-
   obligations to aid a sufferer cannot be explained that way, so that
   wronging or exclusionary reasons may suffice for obligation. Whether
   Stern is right is not asked.
-title: 'Stern argues that Darwall''s account, on which moral obligation consists in what persons have legitimate second-personal authority to demand of one another rather than in actual demands, cannot explain obligations to aid a sufferer who makes no demand, so that wronging, or exclusionary reasons, may suffice for obligation without second-personal authority'
+title: 'Obligation needs no second-personal authority'
+statement: >-
+  Stern argues that Darwall's account, on which moral obligation consists in
+  what persons have legitimate second-personal authority to demand of one
+  another rather than in actual demands, cannot explain obligations to aid a
+  sufferer who makes no demand, so that wronging, or exclusionary reasons,
+  may suffice for obligation without second-personal authority
 version: 1
 tags:
 - ethics
@@ -31,7 +37,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-2756 — Unavailable; the work this stands in for -->
 
-# THEORY-1975: Stern argues that Darwall's account, on which moral obligation consists in what persons have legitimate second-personal authority to demand of one another rather than in actual demands, cannot explain obligations to aid a sufferer who makes no demand, so that wronging, or exclusionary reasons, may suffice for obligation without second-personal authority
+# THEORY-1975: Obligation needs no second-personal authority
 
 Stern (2014), [LIT-2767](../literature.d/LIT-2767.md), on Darwall (2006), [LIT-2756](../literature.d/LIT-2756.md).
 

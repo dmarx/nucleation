@@ -13,7 +13,13 @@ promote_when: >-
   prediction, rotational structure in the data, or a trained network that
   reproduces the dynamics do not settle it, since a bottom-up mechanism with
   the same low-dimensional summary produces all of them.
-title: 'Training forms a task-defined, low-dimensional subregion of prefrontal and premotor population activity (a preparatory subspace, an axis of choice organized as a line attractor) that constrains a monkey''s delayed response top down, holding behavior to what the task requires while the trial''s cue and evidence select within it'
+title: 'Training carves a task subspace guiding behaviour'
+statement: >-
+  Training forms a task-defined, low-dimensional subregion of prefrontal and
+  premotor population activity (a preparatory subspace, an axis of choice
+  organized as a line attractor) that constrains a monkey's delayed response
+  top down, holding behavior to what the task requires while the trial's cue
+  and evidence select within it
 version: 1
 history:
 - version: 1
@@ -44,7 +50,7 @@ summary: >-
   with no intervention on the pattern.
 ---
 
-# THEORY-1559: Training forms a task-defined, low-dimensional subregion of prefrontal and premotor population activity (a preparatory subspace, an axis of choice organized as a line attractor) that constrains a monkey's delayed response top down, holding behavior to what the task requires while the trial's cue and evidence select within it
+# THEORY-1559: Training carves a task subspace guiding behaviour
 
 ## Source
 

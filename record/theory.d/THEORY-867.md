@@ -18,7 +18,14 @@ promote_when: >-
   opponent-composition judgements are artefacts of language or task.
   Inspection of a picture of CIELAB, which is what the source offers,
   cannot promote it.
-title: "The geometry of the colour similarity space does not mark the four unique hues, nor the difference between the black–white axis, along which every grey is a mixture of both ends, and the opponent axes, along which each half shows only one end; so a structuralism on which phenomenal character is fixed by similarity relations alone cannot account for how colour experiences are composed"
+title: 'Colour space geometry misses unique hues'
+statement: >-
+  The geometry of the colour similarity space does not mark the four unique
+  hues, nor the difference between the black–white axis, along which every
+  grey is a mixture of both ends, and the opponent axes, along which each
+  half shows only one end; so a structuralism on which phenomenal character
+  is fixed by similarity relations alone cannot account for how colour
+  experiences are composed
 version: 2
 history:
 - version: 2
@@ -45,7 +52,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-880 THEORY-868 — Proposed; the account this objects to and the other objection filed in the same batch, named -->
 <!-- inactive-ok-file: CLAIM-412 CLAIM-136 — Proposed; the record's claims this account bears on, not leaned on -->
 
-# THEORY-867: The geometry of the colour similarity space does not mark the four unique hues, nor the difference between the black–white axis, along which every grey is a mixture of both ends, and the opponent axes, along which each half shows only one end; so a structuralism on which phenomenal character is fixed by similarity relations alone cannot account for how colour experiences are composed
+# THEORY-867: Colour space geometry misses unique hues
 
 ## Source
 

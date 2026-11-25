@@ -3,7 +3,14 @@ number: 293
 status: Active
 formerly:
 - THEORY-tmpxwps9
-title: "For an optimal capacity-bounded learner on an orthogonal mixture of equally frequent random facts and a second domain, the facts are learned not at all below a capacity threshold set by the mixing ratio and in full once capacity exceeds it by the facts' total entropy, and Pythia models trained on synthetic biographies mixed into web text show a threshold in model size and in mixing ratio"
+title: 'Facts are learned past a capacity threshold'
+statement: >-
+  For an optimal capacity-bounded learner on an orthogonal mixture of
+  equally frequent random facts and a second domain, the facts are learned
+  not at all below a capacity threshold set by the mixing ratio and in full
+  once capacity exceeds it by the facts' total entropy, and Pythia models
+  trained on synthetic biographies mixed into web text show a threshold in
+  model size and in mixing ratio
 version: 4
 history:
 - version: 2
@@ -56,7 +63,7 @@ rivals:
 <!-- inactive-ok-file: THEORY-809 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
 <!-- inactive-ok-file: THEORY-039 — Proposed; partial answers to the same question, compared, not leaned on -->
 
-# THEORY-293: For an optimal capacity-bounded learner on an orthogonal mixture of equally frequent random facts and a second domain, the facts are learned not at all below a capacity threshold set by the mixing ratio and in full once capacity exceeds it by the facts' total entropy, and Pythia models trained on synthetic biographies mixed into web text show a threshold in model size and in mixing ratio
+# THEORY-293: Facts are learned past a capacity threshold
 
 ## Source
 

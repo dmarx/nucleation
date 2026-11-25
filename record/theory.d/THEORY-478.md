@@ -3,7 +3,16 @@ number: 478
 status: Active
 formerly:
 - THEORY-tmpa223w
-title: "If the diffusion densities' Hellinger distances obey a Hölder bound with exponent θ in d_T / t^(1/β) and are bounded below once d_T exceeds a multiple of t^(1/β), then for 0 < α < θ/β summing scale-weighted hyperbolic distances between diffusion densities over dyadic times gives a distance two-sided equivalent, up to constants, to min{1, d_T^(αβ)} for pairs above the finest scale: it keeps the tree's neighbourhoods and not its global distances; whether a tree's heat kernel, or sampled data, meets the bounds, and with which θ, is not shown"
+title: 'Diffusion hyperbolic distance keeps local tree'
+statement: >-
+  If the diffusion densities' Hellinger distances obey a Hölder bound with
+  exponent θ in d_T / t^(1/β) and are bounded below once d_T exceeds a
+  multiple of t^(1/β), then for 0 < α < θ/β summing scale-weighted
+  hyperbolic distances between diffusion densities over dyadic times gives a
+  distance two-sided equivalent, up to constants, to min{1, d_T^(αβ)} for
+  pairs above the finest scale: it keeps the tree's neighbourhoods and not
+  its global distances; whether a tree's heat kernel, or sampled data, meets
+  the bounds, and with which θ, is not shown
 version: 3
 history:
 - version: 2
@@ -48,7 +57,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: CLAIM-119 THEORY-196 — Proposed; the lattice claim and the tree-embedding account set beside this one, not leaned on -->
 
-# THEORY-478: If the diffusion densities' Hellinger distances obey a Hölder bound with exponent θ in d_T / t^(1/β) and are bounded below once d_T exceeds a multiple of t^(1/β), then for 0 < α < θ/β summing scale-weighted hyperbolic distances between diffusion densities over dyadic times gives a distance two-sided equivalent, up to constants, to min{1, d_T^(αβ)} for pairs above the finest scale: it keeps the tree's neighbourhoods and not its global distances; whether a tree's heat kernel, or sampled data, meets the bounds, and with which θ, is not shown
+# THEORY-478: Diffusion hyperbolic distance keeps local tree
 
 ## Source
 

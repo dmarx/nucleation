@@ -13,7 +13,16 @@ promote_when: >-
   Or a published version of the paper reporting the same results. Evidence
   that real aid recipients behave this way is not asked for: the title
   asserts what holds in the model.
-title: "In Azam, Devarajan and O'Connell's model, where the cost of taxing falls with depreciating revenue-collecting experience and grant aid fills the fiscal gap, aid that ignores this learning drives a country whose initial institutions are weaker than a threshold to aid financing the whole budget and the loss of its tax capacity, while one with stronger institutions converges to a low-aid state; a planner who internalizes the learning still has a stable high-aid, low-capacity equilibrium beside the efficient saddle path, which is reached only by an up-front cut in aid"
+title: 'Aid can erode tax capacity past a threshold'
+statement: >-
+  In Azam, Devarajan and O'Connell's model, where the cost of taxing falls
+  with depreciating revenue-collecting experience and grant aid fills the
+  fiscal gap, aid that ignores this learning drives a country whose initial
+  institutions are weaker than a threshold to aid financing the whole budget
+  and the loss of its tax capacity, while one with stronger institutions
+  converges to a low-aid state; a planner who internalizes the learning
+  still has a stable high-aid, low-capacity equilibrium beside the efficient
+  saddle path, which is reached only by an up-front cut in aid
 version: 1
 tags:
 - social-science
@@ -34,7 +43,7 @@ corroborates:
 - CLAIM-605
 ---
 
-# THEORY-1483: In Azam, Devarajan and O'Connell's model, where the cost of taxing falls with depreciating revenue-collecting experience and grant aid fills the fiscal gap, aid that ignores this learning drives a country whose initial institutions are weaker than a threshold to aid financing the whole budget and the loss of its tax capacity, while one with stronger institutions converges to a low-aid state; a planner who internalizes the learning still has a stable high-aid, low-capacity equilibrium beside the efficient saddle path, which is reached only by an up-front cut in aid
+# THEORY-1483: Aid can erode tax capacity past a threshold
 
 ## Source
 

@@ -3,7 +3,12 @@ number: 1623
 status: Active
 formerly:
 - THEORY-tmpvd640
-title: 'Ord reports that since The Precipice existential risk from climate change has fallen, risk from nuclear war has risen, and risk from pandemics and from AI has moved in no clear direction, so that none of the book''s rounded per-century estimates has moved far'
+title: 'Existential risk estimates have moved little'
+statement: >-
+  Ord reports that since The Precipice existential risk from climate change
+  has fallen, risk from nuclear war has risen, and risk from pandemics and
+  from AI has moved in no clear direction, so that none of the book's
+  rounded per-century estimates has moved far
 version: 2
 history:
 - version: 1
@@ -32,7 +37,7 @@ bears_on:
 - QUESTION-299
 ---
 
-# THEORY-1623: Ord reports that since The Precipice existential risk from climate change has fallen, risk from nuclear war has risen, and risk from pandemics and from AI has moved in no clear direction, so that none of the book's rounded per-century estimates has moved far
+# THEORY-1623: Existential risk estimates have moved little
 
 ## The account
 

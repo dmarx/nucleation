@@ -13,7 +13,14 @@ promote_when: >-
   attachment, or the authors' longer paper checked against this letter.
   Not met by a restatement that cites this paper, and not defeated by a
   model with fitness or aging, which the title does not cover.
-title: 'Krapivsky, Redner and Leyvraz, solving the rate equations of a growing tree whose new sites attach with probability proportional to a kernel A_k, find a stretched-exponential degree distribution for A_k = k^γ with 0 < γ < 1, a single site taking nearly all links for γ > 1, and a power law only at γ = 1, where an asymptotically linear kernel A_k → a∞k gives an exponent ν = 1 + μ/a∞ that can take any value above 2'
+title: 'Only linear attachment gives a power law'
+statement: >-
+  Krapivsky, Redner and Leyvraz, solving the rate equations of a growing
+  tree whose new sites attach with probability proportional to a kernel A_k,
+  find a stretched-exponential degree distribution for A_k = k^γ with 0 < γ
+  < 1, a single site taking nearly all links for γ > 1, and a power law only
+  at γ = 1, where an asymptotically linear kernel A_k → a∞k gives an
+  exponent ν = 1 + μ/a∞ that can take any value above 2
 version: 1
 tags:
 - network-science
@@ -35,7 +42,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-817 CLAIM-806 ARG-184 — Proposed or new; the claims this reading grounds and the argument that says how -->
 
-# THEORY-2181: Krapivsky, Redner and Leyvraz, solving the rate equations of a growing tree whose new sites attach with probability proportional to a kernel A_k, find a stretched-exponential degree distribution for A_k = k^γ with 0 < γ < 1, a single site taking nearly all links for γ > 1, and a power law only at γ = 1, where an asymptotically linear kernel A_k → a∞k gives an exponent ν = 1 + μ/a∞ that can take any value above 2
+# THEORY-2181: Only linear attachment gives a power law
 
 ## Source
 

@@ -3,7 +3,12 @@ number: 1564
 status: Active
 formerly:
 - THEORY-tmp0lc8z
-title: 'Bencherki and Iliadis propose that knowledge of an entity should focus on its individuation process and reflect on the way that knowledge itself has individuated, and the first author, the ethnographer of their illustrating case, describes his own individuation through the fieldwork'
+title: 'Know an entity through its individuation'
+statement: >-
+  Bencherki and Iliadis propose that knowledge of an entity should focus on
+  its individuation process and reflect on the way that knowledge itself has
+  individuated, and the first author, the ethnographer of their illustrating
+  case, describes his own individuation through the fieldwork
 version: 2
 history:
 - version: 1
@@ -35,7 +40,7 @@ bears_on:
 - QUESTION-366
 ---
 
-# THEORY-1564: Bencherki and Iliadis propose that knowledge of an entity should focus on its individuation process and reflect on the way that knowledge itself has individuated, and the first author, the ethnographer of their illustrating case, describes his own individuation through the fieldwork
+# THEORY-1564: Know an entity through its individuation
 
 ## The account
 

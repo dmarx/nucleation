@@ -3,7 +3,15 @@ number: 1390
 status: Active
 formerly:
 - THEORY-tmpeo94c
-title: "Hopkins (2010) holds that all freedom–constraint space pairs of a flexure-guided rigid body fall into 50 types, that only those whose constraint space holds enough pure-force lines can be realised by parallel flexures while the rest need modules stacked in series, and that where linear actuators must act to drive the permitted motions without parasitic error is computed from a stiffness matrix that carries each flexure's location, orientation, geometry and material"
+title: 'Flexure freedom–constraint pairs fall in 50 types'
+statement: >-
+  Hopkins (2010) holds that all freedom–constraint space pairs of a
+  flexure-guided rigid body fall into 50 types, that only those whose
+  constraint space holds enough pure-force lines can be realised by parallel
+  flexures while the rest need modules stacked in series, and that where
+  linear actuators must act to drive the permitted motions without parasitic
+  error is computed from a stiffness matrix that carries each flexure's
+  location, orientation, geometry and material
 version: 2
 history:
 - version: 2
@@ -45,7 +53,7 @@ summary: >-
 corroborates:
 - CLAIM-589
 ---
-# THEORY-1390: Hopkins (2010) holds that all freedom–constraint space pairs of a flexure-guided rigid body fall into 50 types, that only those whose constraint space holds enough pure-force lines can be realised by parallel flexures while the rest need modules stacked in series, and that where linear actuators must act to drive the permitted motions without parasitic error is computed from a stiffness matrix that carries each flexure's location, orientation, geometry and material
+# THEORY-1390: Flexure freedom–constraint pairs fall in 50 types
 
 ## Source
 

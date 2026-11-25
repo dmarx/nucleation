@@ -16,7 +16,13 @@ promote_when: >-
   cannot settle it: the entry's placements are its authors' tentative
   judgements, and its qualifiers "some parts" and "some groups" have no
   criterion.
-title: "Being a biological individual is not being an organism: evolutionary (Darwinian) individuality and physiological individuality come apart, and each is found among parts of organisms and groups of organisms as well as among organisms, so a part or a group can be an individual of one kind and not the other"
+title: 'Biological individuals needn''t be organisms'
+statement: >-
+  Being a biological individual is not being an organism: evolutionary
+  (Darwinian) individuality and physiological individuality come apart, and
+  each is found among parts of organisms and groups of organisms as well as
+  among organisms, so a part or a group can be an individual of one kind and
+  not the other
 version: 1
 tags:
 - individuation
@@ -39,7 +45,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-448 — Proposed; filed in the same batch and named as a rival, a parallel or a contrast, not leaned on -->
 <!-- inactive-ok-file: THEORY-071 THEORY-128 THEORY-130 THEORY-135 THEORY-141 — Proposed; named as a neighbouring account, nothing here rests on its being settled -->
 
-# THEORY-443: Being a biological individual is not being an organism: evolutionary (Darwinian) individuality and physiological individuality come apart, and each is found among parts of organisms and groups of organisms as well as among organisms, so a part or a group can be an individual of one kind and not the other
+# THEORY-443: Biological individuals needn't be organisms
 
 ## Source
 

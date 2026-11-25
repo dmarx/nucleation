@@ -3,7 +3,15 @@ number: 2047
 status: Proposed
 formerly:
 - THEORY-tmpte85d
-title: 'Belkin and Niyogi show that embedding the vertices of a weighted neighbourhood graph by minimizing the Dirichlet energy Σ(y_i − y_j)²W_ij under the constraints yᵀDy = I and yᵀD1 = 0 gives the eigenvectors of Ly = λDy with the smallest non-zero eigenvalues, that the constraints exist to stop the energy from collapsing every vertex onto a constant, and that the graph Laplacian so used is a discrete analogue of the Laplace-Beltrami operator on the data manifold'
+title: 'Laplacian eigenmaps minimize Dirichlet energy'
+statement: >-
+  Belkin and Niyogi show that embedding the vertices of a weighted
+  neighbourhood graph by minimizing the Dirichlet energy Σ(y_i − y_j)²W_ij
+  under the constraints yᵀDy = I and yᵀD1 = 0 gives the eigenvectors of Ly =
+  λDy with the smallest non-zero eigenvalues, that the constraints exist to
+  stop the energy from collapsing every vertex onto a constant, and that the
+  graph Laplacian so used is a discrete analogue of the Laplace-Beltrami
+  operator on the data manifold
 version: 1
 source:
 - LIT-2794
@@ -34,7 +42,7 @@ summary: >-
   It has the energy and the collapse but no flow. Read in its NOTE.
 ---
 
-# THEORY-2047: Belkin and Niyogi show that embedding the vertices of a weighted neighbourhood graph by minimizing the Dirichlet energy Σ(y_i − y_j)²W_ij under the constraints yᵀDy = I and yᵀD1 = 0 gives the eigenvectors of Ly = λDy with the smallest non-zero eigenvalues, that the constraints exist to stop the energy from collapsing every vertex onto a constant, and that the graph Laplacian so used is a discrete analogue of the Laplace-Beltrami operator on the data manifold
+# THEORY-2047: Laplacian eigenmaps minimize Dirichlet energy
 
 ## The account
 

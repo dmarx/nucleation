@@ -3,7 +3,14 @@ number: 1690
 status: Proposed
 formerly:
 - THEORY-tmplhx65
-title: 'Ince et al. report, from two cross-sectional samples of male pornography users (1,356 US, 944 UK), that self-reported quantitative tolerance (needing more pornography for satisfaction) is the most central node in the network of use patterns and problematic-use symptoms and the main bridge between them, with genre escalation, binges, edging and tab-jumping linked to problematic use largely through it.'
+title: 'Tolerance is the hub of problematic porn use'
+statement: >-
+  Ince et al. report, from two cross-sectional samples of male pornography
+  users (1,356 US, 944 UK), that self-reported quantitative tolerance
+  (needing more pornography for satisfaction) is the most central node in
+  the network of use patterns and problematic-use symptoms and the main
+  bridge between them, with genre escalation, binges, edging and tab-jumping
+  linked to problematic use largely through it.
 version: 1
 source:
 - LIT-2397
@@ -25,7 +32,7 @@ summary: >-
   frequency; edging; tab-jumping.
 ---
 
-# THEORY-1690: Ince et al. report, from two cross-sectional samples of male pornography users (1,356 US, 944 UK), that self-reported quantitative tolerance (needing more pornography for satisfaction) is the most central node in the network of use patterns and problematic-use symptoms and the main bridge between them, with genre escalation, binges, edging and tab-jumping linked to problematic use largely through it.
+# THEORY-1690: Tolerance is the hub of problematic porn use
 
 ## The account
 

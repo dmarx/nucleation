@@ -3,7 +3,12 @@ number: 450
 status: Active
 formerly:
 - THEORY-tmp6743v
-title: "Across 1,176 premodern archaeological sites, the house-size Gini rises only weakly with the number of levels of political hierarchy and with polity population, and the spread of Gini widens with scale: scale raises the ceiling on domestic wealth inequality without setting its level"
+title: 'Scale raises the ceiling on wealth inequality'
+statement: >-
+  Across 1,176 premodern archaeological sites, the house-size Gini rises
+  only weakly with the number of levels of political hierarchy and with
+  polity population, and the spread of Gini widens with scale: scale raises
+  the ceiling on domestic wealth inequality without setting its level
 version: 1
 tags:
 - social-science
@@ -26,7 +31,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-429 — Proposed; North's account, named as a neighbour, nothing here rests on it -->
 
-# THEORY-450: Across 1,176 premodern archaeological sites, the house-size Gini rises only weakly with the number of levels of political hierarchy and with polity population, and the spread of Gini widens with scale: scale raises the ceiling on domestic wealth inequality without setting its level
+# THEORY-450: Scale raises the ceiling on wealth inequality
 
 ## Source
 

@@ -3,7 +3,15 @@ number: 1455
 status: Active
 formerly:
 - THEORY-tmpz96qc
-title: 'Shirt-Ediss, Torelli and colleagues report that, for four DNA origami designs each folded from three scaffold sequences with fully complementary staples under one protocol, the sequence that their energy model scored highest in off-target staple–scaffold, scaffold–scaffold, staple–staple and hairpin binding gave the fewest well-folded AFM objects in every design (0–20% against up to about 66–75%), and they attribute the loss to kinetic trapping and scaffold aggregation'
+title: 'Best-scored scaffold folded worst'
+statement: >-
+  Shirt-Ediss, Torelli and colleagues report that, for four DNA origami
+  designs each folded from three scaffold sequences with fully complementary
+  staples under one protocol, the sequence that their energy model scored
+  highest in off-target staple–scaffold, scaffold–scaffold, staple–staple
+  and hairpin binding gave the fewest well-folded AFM objects in every
+  design (0–20% against up to about 66–75%), and they attribute the loss to
+  kinetic trapping and scaffold aggregation
 version: 2
 history:
 - version: 2
@@ -41,7 +49,7 @@ summary: >-
   wording of the title is the reader's.
 ---
 
-# THEORY-1455: Shirt-Ediss, Torelli and colleagues report that, for four DNA origami designs each folded from three scaffold sequences with fully complementary staples under one protocol, the sequence that their energy model scored highest in off-target staple–scaffold, scaffold–scaffold, staple–staple and hairpin binding gave the fewest well-folded AFM objects in every design (0–20% against up to about 66–75%), and they attribute the loss to kinetic trapping and scaffold aggregation
+# THEORY-1455: Best-scored scaffold folded worst
 
 ## Source
 

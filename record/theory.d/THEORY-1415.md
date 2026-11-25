@@ -9,7 +9,12 @@ promote_when: >-
   reachable by uniaxial loading, and that defect states exist which no
   uniaxial protocol from the main graph reaches and whose exits by erasure
   or shift are not reversed by reversing the load.
-title: 'A series stack of decoupled bistable Kresling barrels is a Preisach memory whose reachable states are fixed by the order of the switching thresholds, while hidden elastic degrees of freedom admit defect states that the loading protocol cannot reach and can leave only irreversibly'
+title: 'Kresling stacks are Preisach memories'
+statement: >-
+  A series stack of decoupled bistable Kresling barrels is a Preisach memory
+  whose reachable states are fixed by the order of the switching thresholds,
+  while hidden elastic degrees of freedom admit defect states that the
+  loading protocol cannot reach and can leave only irreversibly
 version: 2
 history:
 - version: 2
@@ -40,7 +45,7 @@ bears_on:
 - QUESTION-373
 ---
 
-# THEORY-1415: A series stack of decoupled bistable Kresling barrels is a Preisach memory whose reachable states are fixed by the order of the switching thresholds, while hidden elastic degrees of freedom admit defect states that the loading protocol cannot reach and can leave only irreversibly
+# THEORY-1415: Kresling stacks are Preisach memories
 
 ## Source
 

@@ -3,7 +3,13 @@ number: 1606
 status: Active
 formerly:
 - THEORY-tmpkibvp
-title: 'Eyerman argues, in his book''s first chapter, that cultural trauma is a loss of identity and meaning in a group rather than an individual wound, and that slavery became the cultural trauma of African Americans in retrospect, for a generation after emancipation, by shared fate rather than by experience or descent'
+title: 'Slavery became cultural trauma in retrospect'
+statement: >-
+  Eyerman argues, in his book's first chapter, that cultural trauma is a
+  loss of identity and meaning in a group rather than an individual wound,
+  and that slavery became the cultural trauma of African Americans in
+  retrospect, for a generation after emancipation, by shared fate rather
+  than by experience or descent
 version: 2
 history:
 - version: 1
@@ -34,7 +40,7 @@ bears_on:
 - QUESTION-297
 ---
 
-# THEORY-1606: Eyerman argues, in his book's first chapter, that cultural trauma is a loss of identity and meaning in a group rather than an individual wound, and that slavery became the cultural trauma of African Americans in retrospect, for a generation after emancipation, by shared fate rather than by experience or descent
+# THEORY-1606: Slavery became cultural trauma in retrospect
 
 ## The account
 

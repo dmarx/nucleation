@@ -3,7 +3,14 @@ number: 661
 status: Active
 formerly:
 - THEORY-tmpx1n2e
-title: "In a nearly decomposable system, where interactions within subsystems are much stronger than interactions between them, each subsystem's short-run behaviour is approximately independent of the others', and in the long run each depends on the others only through their aggregate behaviour; so a hierarchy defined by intensity of interaction separates fast dynamics inside its parts from slow, aggregate dynamics between them"
+title: 'Near-decomposability separates fast and slow'
+statement: >-
+  In a nearly decomposable system, where interactions within subsystems are
+  much stronger than interactions between them, each subsystem's short-run
+  behaviour is approximately independent of the others', and in the long run
+  each depends on the others only through their aggregate behaviour; so a
+  hierarchy defined by intensity of interaction separates fast dynamics
+  inside its parts from slow, aggregate dynamics between them
 version: 5
 history:
 - version: 2
@@ -60,7 +67,7 @@ bears_on:
 <!-- inactive-ok-file: CLAIM-157 THEORY-257 — Proposed; claims that rest on this result and neighbouring accounts, named for context -->
 <!-- inactive-ok-file: CLAIM-173 — Rejected; the objection named for what the theorem does not settle -->
 
-# THEORY-661: In a nearly decomposable system, where interactions within subsystems are much stronger than interactions between them, each subsystem's short-run behaviour is approximately independent of the others', and in the long run each depends on the others only through their aggregate behaviour; so a hierarchy defined by intensity of interaction separates fast dynamics inside its parts from slow, aggregate dynamics between them
+# THEORY-661: Near-decomposability separates fast and slow
 
 ## Source
 

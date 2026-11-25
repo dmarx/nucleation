@@ -3,7 +3,15 @@ number: 1134
 status: Active
 formerly:
 - THEORY-tmpa9y98
-title: 'A translation metric that predicts a sentence score and token-level error spans from one shared encoder reaches segment-level agreement with expert MQM annotation of Kendall τ about 0.4 and span F1 under 0.33, the best among open metrics and GPT-4 prompting at the time, while the score computed from its own spans correlates with its regression scores at Pearson 0.73 to 0.82, and at 0.90 to 0.92 with its final score, which includes the span score by construction'
+title: 'Joint score-span metric reaches τ ≈ 0.4 with MQM'
+statement: >-
+  A translation metric that predicts a sentence score and token-level error
+  spans from one shared encoder reaches segment-level agreement with expert
+  MQM annotation of Kendall τ about 0.4 and span F1 under 0.33, the best
+  among open metrics and GPT-4 prompting at the time, while the score
+  computed from its own spans correlates with its regression scores at
+  Pearson 0.73 to 0.82, and at 0.90 to 0.92 with its final score, which
+  includes the span score by construction
 version: 2
 history:
 - version: 2
@@ -52,7 +60,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-507 — Proposed; the record's reading split from this entry, cited as open -->
 
-# THEORY-1134: A translation metric that predicts a sentence score and token-level error spans from one shared encoder reaches segment-level agreement with expert MQM annotation of Kendall τ about 0.4 and span F1 under 0.33, the best among open metrics and GPT-4 prompting at the time, while the score computed from its own spans correlates with its regression scores at Pearson 0.73 to 0.82, and at 0.90 to 0.92 with its final score, which includes the span score by construction
+# THEORY-1134: Joint score-span metric reaches τ ≈ 0.4 with MQM
 
 ## Source
 

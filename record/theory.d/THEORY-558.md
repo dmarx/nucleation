@@ -12,7 +12,11 @@ promote_when: >-
   affect, under preregistered conditions. Evidence from non-moral judgment,
   however strong, cannot settle it, and neither can a case of reasoning
   changing a judgment, which the model assigns to its rare links.
-title: "Moral judgment is usually caused by quick affective intuitions, and moral reasoning is usually a post-hoc search for supporting reasons that changes judgments mainly by triggering intuitions in other people"
+title: 'Moral judgment is intuition; reasoning post hoc'
+statement: >-
+  Moral judgment is usually caused by quick affective intuitions, and moral
+  reasoning is usually a post-hoc search for supporting reasons that changes
+  judgments mainly by triggering intuitions in other people
 version: 1
 tags:
 - moral-psychology
@@ -30,7 +34,7 @@ summary: >-
   manipulations that were its direct causal evidence were later disputed.
 ---
 
-# THEORY-558: Moral judgment is usually caused by quick affective intuitions, and moral reasoning is usually a post-hoc search for supporting reasons that changes judgments mainly by triggering intuitions in other people
+# THEORY-558: Moral judgment is intuition; reasoning post hoc
 
 ## Source
 

@@ -21,7 +21,12 @@ promote_when: >-
   local measure other than the Hessian (such as a learning-coefficient
   estimate) that separates the cases, since that would bear on why
   curvature fails, not on whether global structure predicts.
-title: 'Across load and temperature, the connectivity and output similarity of independently trained solutions predict test accuracy where endpoint curvature does not: a flat but poorly connected landscape generalizes worse than a connected one of the same curvature'
+title: 'Connectivity, not flatness, predicts accuracy'
+statement: >-
+  Across load and temperature, the connectivity and output similarity of
+  independently trained solutions predict test accuracy where endpoint
+  curvature does not: a flat but poorly connected landscape generalizes
+  worse than a connected one of the same curvature
 version: 1
 tags:
 - loss-landscapes
@@ -50,7 +55,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-2171 — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
 <!-- inactive-ok-file: THEORY-078 — Proposed; named in Connections for what endpoint curvature measures, nothing here rests on them -->
 
-# THEORY-108: Across load and temperature, the connectivity and output similarity of independently trained solutions predict test accuracy where endpoint curvature does not: a flat but poorly connected landscape generalizes worse than a connected one of the same curvature
+# THEORY-108: Connectivity, not flatness, predicts accuracy
 
 ## Source
 

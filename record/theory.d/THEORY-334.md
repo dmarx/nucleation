@@ -3,7 +3,17 @@ number: 334
 status: Active
 formerly:
 - THEORY-tmp6oz2d
-title: 'In copying a pattern of coloured blocks that stays in view, seven subjects told to work quickly looked back at the model about 1.3 times per block, and their commonest cycle, which looks at the model both before picking up a block and before dropping it, was the slowest per block in the authors'' observed tallies (about 3 s, against 1.5 s for a cycle that copies from memory); looks fell to 1.0 per block with model and copy 70° apart and to 0.7 with one-colour patterns that could be chunked, and in three subjects a colour change made during a saccade raised fixation time by about 129 ms after pickup against about 50 ms before; no statistics are reported'
+title: 'Block copiers look back rather than memorize'
+statement: >-
+  In copying a pattern of coloured blocks that stays in view, seven subjects
+  told to work quickly looked back at the model about 1.3 times per block,
+  and their commonest cycle, which looks at the model both before picking up
+  a block and before dropping it, was the slowest per block in the authors'
+  observed tallies (about 3 s, against 1.5 s for a cycle that copies from
+  memory); looks fell to 1.0 per block with model and copy 70° apart and to
+  0.7 with one-colour patterns that could be chunked, and in three subjects
+  a colour change made during a saccade raised fixation time by about 129 ms
+  after pickup against about 50 ms before; no statistics are reported
 version: 3
 history:
 - version: 2
@@ -48,7 +58,7 @@ bears_on:
 - QUESTION-235
 ---
 
-# THEORY-334: In copying a pattern of coloured blocks that stays in view, seven subjects told to work quickly looked back at the model about 1.3 times per block, and their commonest cycle, which looks at the model both before picking up a block and before dropping it, was the slowest per block in the authors' observed tallies (about 3 s, against 1.5 s for a cycle that copies from memory); looks fell to 1.0 per block with model and copy 70° apart and to 0.7 with one-colour patterns that could be chunked, and in three subjects a colour change made during a saccade raised fixation time by about 129 ms after pickup against about 50 ms before; no statistics are reported
+# THEORY-334: Block copiers look back rather than memorize
 
 ## Source
 

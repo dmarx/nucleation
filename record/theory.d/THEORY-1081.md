@@ -3,7 +3,18 @@ number: 1081
 status: Active
 formerly:
 - THEORY-tmpo4ob4
-title: 'Di Biagio and Rovelli locate the Frauchiger–Renner contradiction and the violation of the Local Friendliness inequalities in one step, a superobserver using facts relative to a friend he holds in full quantum control as if they were his own, which is the classical sum rule applied where those facts are not stable for him; they base quantum ontology on facts relative to systems rather than on stable facts, arguing that stability is itself relational and only approximate and counting the Local Friendliness violation as evidence, with an absolute macroreality emerging only approximately and only relative to systems for which decoherence is strong'
+title: 'FR paradox misuses unstable relative facts'
+statement: >-
+  Di Biagio and Rovelli locate the Frauchiger–Renner contradiction and the
+  violation of the Local Friendliness inequalities in one step, a
+  superobserver using facts relative to a friend he holds in full quantum
+  control as if they were his own, which is the classical sum rule applied
+  where those facts are not stable for him; they base quantum ontology on
+  facts relative to systems rather than on stable facts, arguing that
+  stability is itself relational and only approximate and counting the Local
+  Friendliness violation as evidence, with an absolute macroreality emerging
+  only approximately and only relative to systems for which decoherence is
+  strong
 version: 3
 history:
 - version: 2
@@ -72,7 +83,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-1230 — Proposed; filed beside this reading by the twenty-fourth status review: the general consistency of relative facts -->
 <!-- inactive-ok-file: THEORY-621 — Proposed; the RQM rule this one shares its gap with, cited as open -->
 
-# THEORY-1081: Di Biagio and Rovelli locate the Frauchiger–Renner contradiction and the violation of the Local Friendliness inequalities in one step, a superobserver using facts relative to a friend he holds in full quantum control as if they were his own, which is the classical sum rule applied where those facts are not stable for him; they base quantum ontology on facts relative to systems rather than on stable facts, arguing that stability is itself relational and only approximate and counting the Local Friendliness violation as evidence, with an absolute macroreality emerging only approximately and only relative to systems for which decoherence is strong
+# THEORY-1081: FR paradox misuses unstable relative facts
 
 ## Source
 

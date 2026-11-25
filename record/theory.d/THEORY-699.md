@@ -16,7 +16,13 @@ promote_when: >-
   graded and engineerable with no line where the paper puts one. More
   plant behaviour, or more intuitions about a self-maintaining car, cannot
   settle it.
-title: "Adaptive self-maintenance across varied conditions is sufficient, without sentience, for having a good of one's own, so insentient plants and a self-maintaining machine are welfare subjects while thermostats are not; but the line against thermostats is argued as one of degree, and the reasons such welfare gives are extremely weak"
+title: 'Insentient self-maintainers have a good'
+statement: >-
+  Adaptive self-maintenance across varied conditions is sufficient, without
+  sentience, for having a good of one's own, so insentient plants and a
+  self-maintaining machine are welfare subjects while thermostats are not;
+  but the line against thermostats is argued as one of degree, and the
+  reasons such welfare gives are extremely weak
 version: 2
 history:
 - version: 2
@@ -51,7 +57,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-072 THEORY-221 THEORY-449 THEORY-658 — Proposed; related or rival accounts named in Connections, nothing here rests on their being settled -->
 
-# THEORY-699: Adaptive self-maintenance across varied conditions is sufficient, without sentience, for having a good of one's own, so insentient plants and a self-maintaining machine are welfare subjects while thermostats are not; but the line against thermostats is argued as one of degree, and the reasons such welfare gives are extremely weak
+# THEORY-699: Insentient self-maintainers have a good
 
 ## Source
 

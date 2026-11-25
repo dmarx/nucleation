@@ -3,7 +3,17 @@ number: 127
 status: Active
 formerly:
 - THEORY-tmpwsee8
-title: "On the court agenda, and on any agenda in which every proposition reaches every other by conditional entailment and some minimally inconsistent triple stays consistent with two of its members negated, a group whose judgments are robustly rational under universal domain and respect unanimity cannot form its judgment on each proposition from its members' judgments on that proposition alone unless one member dictates; its judgments must supervene on the members' whole sets of judgments, and so can depart from what the members judge on the same proposition while being wholly fixed by them"
+title: 'Robust group judgments can''t be propositionwise'
+statement: >-
+  On the court agenda, and on any agenda in which every proposition reaches
+  every other by conditional entailment and some minimally inconsistent
+  triple stays consistent with two of its members negated, a group whose
+  judgments are robustly rational under universal domain and respect
+  unanimity cannot form its judgment on each proposition from its members'
+  judgments on that proposition alone unless one member dictates; its
+  judgments must supervene on the members' whole sets of judgments, and so
+  can depart from what the members judge on the same proposition while being
+  wholly fixed by them
 version: 5
 history:
 - version: 2
@@ -85,7 +95,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-125 — Proposed; filed in the same batch, Huebner's genuinely collective emotion, named for the parallel, no relation declared -->
 <!-- inactive-ok-file: THEORY-043 THEORY-065 — Proposed; named in Connections for how this bears on group agency, nothing here rests on them -->
 
-# THEORY-127: On the court agenda, and on any agenda in which every proposition reaches every other by conditional entailment and some minimally inconsistent triple stays consistent with two of its members negated, a group whose judgments are robustly rational under universal domain and respect unanimity cannot form its judgment on each proposition from its members' judgments on that proposition alone unless one member dictates; its judgments must supervene on the members' whole sets of judgments, and so can depart from what the members judge on the same proposition while being wholly fixed by them
+# THEORY-127: Robust group judgments can't be propositionwise
 
 ## Source
 

@@ -3,7 +3,15 @@ number: 1333
 status: Active
 formerly:
 - THEORY-tmpnkdiy
-title: 'Bishop''s contextual emergence, as stated in his 2024 SEP revision, is an ontological account: stability conditions not given at smaller and faster scales (parameter values, dimensionality, large-scale flows) constrain or enable what is possible and actual at those scales, as convection rolls constrain the motions of fluid molecules, without the brute new causal powers of strong emergence; laws bound possibility and contexts fix actualization'
+title: 'Large-scale contexts constrain without new powers'
+statement: >-
+  Bishop's contextual emergence, as stated in his 2024 SEP revision, is an
+  ontological account: stability conditions not given at smaller and faster
+  scales (parameter values, dimensionality, large-scale flows) constrain or
+  enable what is possible and actual at those scales, as convection rolls
+  constrain the motions of fluid molecules, without the brute new causal
+  powers of strong emergence; laws bound possibility and contexts fix
+  actualization
 version: 2
 history:
 - version: 2
@@ -47,7 +55,7 @@ bounds:
 <!-- inactive-ok-file: THEORY-1314 — Proposed; the reading of Jennings 2026 this corrects -->
 <!-- inactive-ok-file: LIT-1993 LIT-1987 — Unavailable or Unfetched; the book and paper the entry summarizes -->
 
-# THEORY-1333: Bishop's contextual emergence, as stated in his 2024 SEP revision, is an ontological account: stability conditions not given at smaller and faster scales (parameter values, dimensionality, large-scale flows) constrain or enable what is possible and actual at those scales, as convection rolls constrain the motions of fluid molecules, without the brute new causal powers of strong emergence; laws bound possibility and contexts fix actualization
+# THEORY-1333: Large-scale contexts constrain without new powers
 
 ## Source
 

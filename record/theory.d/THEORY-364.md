@@ -3,7 +3,15 @@ number: 364
 status: Active
 formerly:
 - THEORY-tmp4ezx1
-title: "When each cached value is an interval its source guarantees to contain the current value, and a query must return an answer interval no wider than R whatever the true values, choosing the cheapest set of exact reads for a SUM is a 0/1 knapsack problem, NP-complete in general and solved by taking the narrowest intervals first when read costs are equal, and for a COUNT with a selection predicate the cheapest choice is the ⌈|T?| − R⌉ cheapest undecided tuples"
+title: 'Interval-cache SUM reads are a knapsack problem'
+statement: >-
+  When each cached value is an interval its source guarantees to contain the
+  current value, and a query must return an answer interval no wider than R
+  whatever the true values, choosing the cheapest set of exact reads for a
+  SUM is a 0/1 knapsack problem, NP-complete in general and solved by taking
+  the narrowest intervals first when read costs are equal, and for a COUNT
+  with a selection predicate the cheapest choice is the ⌈|T?| − R⌉ cheapest
+  undecided tuples
 version: 1
 tags:
 - databases
@@ -25,7 +33,7 @@ bears_on:
 - QUESTION-114
 ---
 
-# THEORY-364: When each cached value is an interval its source guarantees to contain the current value, and a query must return an answer interval no wider than R whatever the true values, choosing the cheapest set of exact reads for a SUM is a 0/1 knapsack problem, NP-complete in general and solved by taking the narrowest intervals first when read costs are equal, and for a COUNT with a selection predicate the cheapest choice is the ⌈|T?| − R⌉ cheapest undecided tuples
+# THEORY-364: Interval-cache SUM reads are a knapsack problem
 
 ## Source
 

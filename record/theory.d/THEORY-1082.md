@@ -3,7 +3,15 @@ number: 1082
 status: Active
 formerly:
 - THEORY-tmpoeig9
-title: 'On a connected graph whose edges carry phase shifts αᵢⱼ = −αⱼᵢ, the edge relations zⱼ = e^{iαᵢⱼ}zᵢ have a common nonzero solution, equivalently the twisted Laplacian Lα = δα*δα has a zero mode, exactly when the phase accumulated around every cycle is 0 mod 2π; otherwise each relation can be met alone but not all together, and the smallest eigenvalue of Lα, positive, measures the residual incompatibility, which on an isolated ℓ-cycle is largest at holonomy π'
+title: 'Zero cycle holonomy iff twisted zero mode'
+statement: >-
+  On a connected graph whose edges carry phase shifts αᵢⱼ = −αⱼᵢ, the edge
+  relations zⱼ = e^{iαᵢⱼ}zᵢ have a common nonzero solution, equivalently the
+  twisted Laplacian Lα = δα*δα has a zero mode, exactly when the phase
+  accumulated around every cycle is 0 mod 2π; otherwise each relation can be
+  met alone but not all together, and the smallest eigenvalue of Lα,
+  positive, measures the residual incompatibility, which on an isolated
+  ℓ-cycle is largest at holonomy π
 version: 1
 tags:
 - network-science
@@ -22,7 +30,7 @@ summary: >-
   concerns the relaxed linear problem, not the phase dynamics.
 ---
 
-# THEORY-1082: On a connected graph whose edges carry phase shifts αᵢⱼ = −αⱼᵢ, the edge relations zⱼ = e^{iαᵢⱼ}zᵢ have a common nonzero solution, equivalently the twisted Laplacian Lα = δα*δα has a zero mode, exactly when the phase accumulated around every cycle is 0 mod 2π; otherwise each relation can be met alone but not all together, and the smallest eigenvalue of Lα, positive, measures the residual incompatibility, which on an isolated ℓ-cycle is largest at holonomy π
+# THEORY-1082: Zero cycle holonomy iff twisted zero mode
 
 ## Source
 

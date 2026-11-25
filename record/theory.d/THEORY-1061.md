@@ -3,7 +3,16 @@ number: 1061
 status: Active
 formerly:
 - THEORY-tmp7ps0w
-title: 'Flack makes downward causation operational as components tuning their behaviour to their own estimates of aggregate variables they collectively compute: weak (apparent) when at least one component tunes to a variable slower than the behaviour producing it, strong (effective) when the variable is predictive, robust, used nearly universally, agreed on and gaining mutual information with the microscopic behaviour; she speaks of a new level only at the strong form, and regeneration of the variable by its use is not among her criteria'
+title: 'Downward causation is tuning to aggregates'
+statement: >-
+  Flack makes downward causation operational as components tuning their
+  behaviour to their own estimates of aggregate variables they collectively
+  compute: weak (apparent) when at least one component tunes to a variable
+  slower than the behaviour producing it, strong (effective) when the
+  variable is predictive, robust, used nearly universally, agreed on and
+  gaining mutual information with the microscopic behaviour; she speaks of a
+  new level only at the strong form, and regeneration of the variable by its
+  use is not among her criteria
 version: 2
 history:
 - version: 2
@@ -37,7 +46,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: CLAIM-327 — Proposed; the claim this reading corroborates, nothing here rests on it -->
 
-# THEORY-1061: Flack makes downward causation operational as components tuning their behaviour to their own estimates of aggregate variables they collectively compute: weak (apparent) when at least one component tunes to a variable slower than the behaviour producing it, strong (effective) when the variable is predictive, robust, used nearly universally, agreed on and gaining mutual information with the microscopic behaviour; she speaks of a new level only at the strong form, and regeneration of the variable by its use is not among her criteria
+# THEORY-1061: Downward causation is tuning to aggregates
 
 ## Source
 

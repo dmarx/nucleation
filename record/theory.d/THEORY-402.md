@@ -12,7 +12,14 @@ promote_when: >-
   runs against that balance. Retellings of published cases, chosen to fit
   and described after the fact, cannot settle it, and neither can the
   standard σ²/n result for averaging independent errors.
-title: "Collective intelligence is resource-bounded computation with a larger but modular budget: a group has more sensing, state, processing and action than any member, and pays coordination and cooperation costs because those resources sit in autonomous members, so the same trade-off yields groups that do better than their members on some tasks, groups that run qualitatively different algorithms, and groups that do worse"
+title: 'Collective intelligence is modular bounded compute'
+statement: >-
+  Collective intelligence is resource-bounded computation with a larger but
+  modular budget: a group has more sensing, state, processing and action
+  than any member, and pays coordination and cooperation costs because those
+  resources sit in autonomous members, so the same trade-off yields groups
+  that do better than their members on some tasks, groups that run
+  qualitatively different algorithms, and groups that do worse
 version: 1
 tags:
 - complex-systems
@@ -35,7 +42,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-046 — Proposed; the source this account states, placed by its NOTE, whose verdict the account carries -->
 <!-- inactive-ok-file: THEORY-043 — Proposed; a neighbouring account named for context, nothing here rests on its being settled -->
 
-# THEORY-402: Collective intelligence is resource-bounded computation with a larger but modular budget: a group has more sensing, state, processing and action than any member, and pays coordination and cooperation costs because those resources sit in autonomous members, so the same trade-off yields groups that do better than their members on some tasks, groups that run qualitatively different algorithms, and groups that do worse
+# THEORY-402: Collective intelligence is modular bounded compute
 
 ## Source
 

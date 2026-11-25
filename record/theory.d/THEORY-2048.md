@@ -3,7 +3,14 @@ number: 2048
 status: Proposed
 formerly:
 - THEORY-tmpuy990
-title: 'Keller and colleagues show that a simple recurrent network whose recurrence is a local convolution initialised as a shift carries travelling waves in its hidden state, and that on copy, adding and sequential-image tasks it learns faster and keeps inputs over far longer delays than a matched wave-free recurrent network, because propagation moves each input along instead of letting later inputs overwrite it'
+title: 'Travelling waves extend RNN memory'
+statement: >-
+  Keller and colleagues show that a simple recurrent network whose
+  recurrence is a local convolution initialised as a shift carries
+  travelling waves in its hidden state, and that on copy, adding and
+  sequential-image tasks it learns faster and keeps inputs over far longer
+  delays than a matched wave-free recurrent network, because propagation
+  moves each input along instead of letting later inputs overwrite it
 version: 1
 source:
 - LIT-2834
@@ -39,7 +46,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-647 — Unavailable; cited in this filing of 2026-11-19 -->
 
-# THEORY-2048: Keller and colleagues show that a simple recurrent network whose recurrence is a local convolution initialised as a shift carries travelling waves in its hidden state, and that on copy, adding and sequential-image tasks it learns faster and keeps inputs over far longer delays than a matched wave-free recurrent network, because propagation moves each input along instead of letting later inputs overwrite it
+# THEORY-2048: Travelling waves extend RNN memory
 
 ## The account
 

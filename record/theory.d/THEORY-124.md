@@ -3,7 +3,16 @@ number: 124
 status: Active
 formerly:
 - THEORY-tmp8wxwa
-title: 'In Posani et al.''s analysis of the IBL Brainwide Map, recorded while trained mice performed one visual decision task, the eight-variable selectivity profiles of neurons within one cortical area clustered beyond a covariance-matched Gaussian null only in VISp, AUDp and SSp-ul of about 20 areas tested, while profiles pooled across areas clustered along anatomical lines; and over the task conditions each area distinguishes, at least 95% of random balanced dichotomies were linearly decodable above a label-shuffled null in 15 of 16 areas, a lenient criterion'
+title: 'Selectivity clusters in only 3 of ~20 areas'
+statement: >-
+  In Posani et al.'s analysis of the IBL Brainwide Map, recorded while
+  trained mice performed one visual decision task, the eight-variable
+  selectivity profiles of neurons within one cortical area clustered beyond
+  a covariance-matched Gaussian null only in VISp, AUDp and SSp-ul of about
+  20 areas tested, while profiles pooled across areas clustered along
+  anatomical lines; and over the task conditions each area distinguishes, at
+  least 95% of random balanced dichotomies were linearly decodable above a
+  label-shuffled null in 15 of 16 areas, a lenient criterion
 version: 2
 history:
 - version: 2
@@ -61,7 +70,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-1196 — Proposed; the wide form kept beside this narrowed reading (ADR-047, kind 1) -->
 
-# THEORY-124: In Posani et al.'s analysis of the IBL Brainwide Map, recorded while trained mice performed one visual decision task, the eight-variable selectivity profiles of neurons within one cortical area clustered beyond a covariance-matched Gaussian null only in VISp, AUDp and SSp-ul of about 20 areas tested, while profiles pooled across areas clustered along anatomical lines; and over the task conditions each area distinguishes, at least 95% of random balanced dichotomies were linearly decodable above a label-shuffled null in 15 of 16 areas, a lenient criterion
+# THEORY-124: Selectivity clusters in only 3 of ~20 areas
 
 ## Source
 

@@ -3,7 +3,16 @@ number: 2162
 status: Proposed
 formerly:
 - THEORY-tmpu3iio
-title: 'Xu finds that in ten trained language models, replacing the final hidden state''s component along the 5% of directions the centred, norm-folded unembedding amplifies least moves the logits less than equal-length random changes but changes the next-token distribution and the loss several times more; the prediction change per unit of logit distance stays near random over most of the spectrum and peaks at that bottom band, where the two leading candidate tokens differ disproportionately, while in total the top band''s removal costs as much loss or more'
+title: 'Low-amplified directions sway predictions most'
+statement: >-
+  Xu finds that in ten trained language models, replacing the final hidden
+  state's component along the 5% of directions the centred, norm-folded
+  unembedding amplifies least moves the logits less than equal-length random
+  changes but changes the next-token distribution and the loss several times
+  more; the prediction change per unit of logit distance stays near random
+  over most of the spectrum and peaks at that bottom band, where the two
+  leading candidate tokens differ disproportionately, while in total the top
+  band's removal costs as much loss or more
 promote_when: >-
   An independent replication on at least one of the ten models finds the
   bottom band's equal-length prediction-change ratio above one and the
@@ -31,7 +40,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-835 — Proposed or new; the reading this account comes from and the claim it bears on -->
 
-# THEORY-2162: Xu finds that in ten trained language models, replacing the final hidden state's component along the 5% of directions the centred, norm-folded unembedding amplifies least moves the logits less than equal-length random changes but changes the next-token distribution and the loss several times more; the prediction change per unit of logit distance stays near random over most of the spectrum and peaks at that bottom band, where the two leading candidate tokens differ disproportionately, while in total the top band's removal costs as much loss or more
+# THEORY-2162: Low-amplified directions sway predictions most
 
 ## Source
 

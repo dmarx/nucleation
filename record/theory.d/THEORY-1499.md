@@ -3,7 +3,18 @@ number: 1499
 status: Active
 formerly:
 - THEORY-tmp0fvik
-title: 'Davis and Weinstein find that the Allied bombing of Japanese cities in World War II, which destroyed almost half the structures in the 66 targeted cities, changed relative city size only temporarily: across 303 cities, 1947–60 population growth undid 1940–47 growth instrumented on deaths and buildings destroyed per capita one for one, or by about three-quarters once 1925–40 trend growth is controlled, and wholly by 1965, with Hiroshima and Nagasaki back on their prewar trends; the authors read this as rejecting random growth and as showing that spatial catastrophes from temporary shocks are not a central tendency, favouring locational fundamentals'
+title: 'Bombed Japanese cities regained their size'
+statement: >-
+  Davis and Weinstein find that the Allied bombing of Japanese cities in
+  World War II, which destroyed almost half the structures in the 66
+  targeted cities, changed relative city size only temporarily: across 303
+  cities, 1947–60 population growth undid 1940–47 growth instrumented on
+  deaths and buildings destroyed per capita one for one, or by about
+  three-quarters once 1925–40 trend growth is controlled, and wholly by
+  1965, with Hiroshima and Nagasaki back on their prewar trends; the authors
+  read this as rejecting random growth and as showing that spatial
+  catastrophes from temporary shocks are not a central tendency, favouring
+  locational fundamentals
 version: 3
 history:
 - version: 2
@@ -54,7 +65,7 @@ bears_on:
 <!-- inactive-ok-file: CLAIM-817 — new; cited in the note of 2026-11-21 on the exchange "Rich Get Richer Power Laws" -->
 <!-- inactive-ok-file: ARG-127 — new and Proposed or Rejected, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
 
-# THEORY-1499: Davis and Weinstein find that the Allied bombing of Japanese cities in World War II, which destroyed almost half the structures in the 66 targeted cities, changed relative city size only temporarily: across 303 cities, 1947–60 population growth undid 1940–47 growth instrumented on deaths and buildings destroyed per capita one for one, or by about three-quarters once 1925–40 trend growth is controlled, and wholly by 1965, with Hiroshima and Nagasaki back on their prewar trends; the authors read this as rejecting random growth and as showing that spatial catastrophes from temporary shocks are not a central tendency, favouring locational fundamentals
+# THEORY-1499: Bombed Japanese cities regained their size
 
 ## Source
 

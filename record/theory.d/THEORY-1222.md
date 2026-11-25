@@ -3,7 +3,14 @@ number: 1222
 status: Proposed
 formerly:
 - THEORY-tmpux2fy
-title: 'In relational quantum mechanics as stated in Rovelli (1996), rules (i) and (ii), that there is no state except within a further observer''s information and no information without interaction, exclude any contradiction between observers'' views: what a third system predicts of two observers'' information always agrees with what it finds on interacting with them'
+title: 'RQM''s rules exclude observer contradictions'
+statement: >-
+  In relational quantum mechanics as stated in Rovelli (1996), rules (i) and
+  (ii), that there is no state except within a further observer's
+  information and no information without interaction, exclude any
+  contradiction between observers' views: what a third system predicts of
+  two observers' information always agrees with what it finds on interacting
+  with them
 version: 1
 tags:
 - quantum-foundations
@@ -30,7 +37,7 @@ summary: >-
   introduced in general with "The reader may convince himself".
 ---
 
-# THEORY-1222: In relational quantum mechanics as stated in Rovelli (1996), rules (i) and (ii), that there is no state except within a further observer's information and no information without interaction, exclude any contradiction between observers' views: what a third system predicts of two observers' information always agrees with what it finds on interacting with them
+# THEORY-1222: RQM's rules exclude observer contradictions
 
 ## Source
 

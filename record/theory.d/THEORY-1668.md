@@ -3,7 +3,14 @@ number: 1668
 status: Proposed
 formerly:
 - THEORY-tmpakn1l
-title: 'Gan shows that a seller facing one buyer of known value who weights probabilities as prospect theory says maximizes revenue with a stationary loot box if the buyer is naive about her inconsistency, and with loot boxes plus a guaranteed purchase after enough failures if she is sophisticated, so randomized selling can be optimal without any screening of buyers'' values.'
+title: 'Loot boxes can be optimal without screening'
+statement: >-
+  Gan shows that a seller facing one buyer of known value who weights
+  probabilities as prospect theory says maximizes revenue with a stationary
+  loot box if the buyer is naive about her inconsistency, and with loot
+  boxes plus a guaranteed purchase after enough failures if she is
+  sophisticated, so randomized selling can be optimal without any screening
+  of buyers' values.
 version: 1
 source:
 - LIT-2467
@@ -24,7 +31,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-1778 — Skimmed; the reading filed from the same exchange -->
 
-# THEORY-1668: Gan shows that a seller facing one buyer of known value who weights probabilities as prospect theory says maximizes revenue with a stationary loot box if the buyer is naive about her inconsistency, and with loot boxes plus a guaranteed purchase after enough failures if she is sophisticated, so randomized selling can be optimal without any screening of buyers' values.
+# THEORY-1668: Loot boxes can be optimal without screening
 
 ## The account
 

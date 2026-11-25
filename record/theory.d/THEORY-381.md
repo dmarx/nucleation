@@ -3,7 +3,15 @@ number: 381
 status: Active
 formerly:
 - THEORY-tmpnbhb3
-title: "In the cell-probe model, a near-neighbour structure on n random points that answers in t probes with m cells of w bits must satisfy m^t·w/n ≥ the robust expansion of the metric's neighbourhood graph at measure 1/m^t (and (mwt/n)^t ≥ its vertex expansion if deterministic), so in expanding spaces such as the hypercube fast queries need space polynomially larger than the data; the bounds are average case, approximate, and fall off exponentially in t"
+title: 'Fast near-neighbour queries need much more space'
+statement: >-
+  In the cell-probe model, a near-neighbour structure on n random points
+  that answers in t probes with m cells of w bits must satisfy m^t·w/n ≥ the
+  robust expansion of the metric's neighbourhood graph at measure 1/m^t (and
+  (mwt/n)^t ≥ its vertex expansion if deterministic), so in expanding spaces
+  such as the hypercube fast queries need space polynomially larger than the
+  data; the bounds are average case, approximate, and fall off exponentially
+  in t
 version: 1
 tags:
 - databases
@@ -26,7 +34,7 @@ bears_on:
 - QUESTION-114
 ---
 
-# THEORY-381: In the cell-probe model, a near-neighbour structure on n random points that answers in t probes with m cells of w bits must satisfy m^t·w/n ≥ the robust expansion of the metric's neighbourhood graph at measure 1/m^t (and (mwt/n)^t ≥ its vertex expansion if deterministic), so in expanding spaces such as the hypercube fast queries need space polynomially larger than the data; the bounds are average case, approximate, and fall off exponentially in t
+# THEORY-381: Fast near-neighbour queries need much more space
 
 ## Source
 

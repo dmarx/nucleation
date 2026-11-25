@@ -3,7 +3,12 @@ number: 724
 status: Active
 formerly:
 - THEORY-tmp8dvpa
-title: 'For a linear system du/dt = A(t)u, non-normality is necessary for time dependence to destabilize an operator that is uniformly stable at every instant, and a non-normal operator neutral at every instant can be asymptotically unstable under switching'
+title: 'Destabilization by switching needs non-normality'
+statement: >-
+  For a linear system du/dt = A(t)u, non-normality is necessary for time
+  dependence to destabilize an operator that is uniformly stable at every
+  instant, and a non-normal operator neutral at every instant can be
+  asymptotically unstable under switching
 version: 2
 history:
 - version: 1
@@ -55,7 +60,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: THEORY-325 — Proposed; the stochastic account this half was split from and that extends it, cited as open -->
 
-# THEORY-724: For a linear system du/dt = A(t)u, non-normality is necessary for time dependence to destabilize an operator that is uniformly stable at every instant, and a non-normal operator neutral at every instant can be asymptotically unstable under switching
+# THEORY-724: Destabilization by switching needs non-normality
 
 ## Source
 

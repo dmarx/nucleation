@@ -3,7 +3,14 @@ number: 1174
 status: Proposed
 formerly:
 - THEORY-tmp5c7t8
-title: 'Industry can bias a scientific community toward a worse treatment without corrupting any individual, by selectively funding researchers whose methods already favour its product, provided researchers differ in method and both influence and the training of newcomers follow productivity; an independent funder that discounts industry-funded work counteracts this, and one that funds on productivity alone makes it worse'
+title: 'Industry funding biases science with no corruption'
+statement: >-
+  Industry can bias a scientific community toward a worse treatment without
+  corrupting any individual, by selectively funding researchers whose
+  methods already favour its product, provided researchers differ in method
+  and both influence and the training of newcomers follow productivity; an
+  independent funder that discounts industry-funded work counteracts this,
+  and one that funds on productivity alone makes it worse
 version: 1
 tags:
 - philosophy-of-science
@@ -38,7 +45,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: ADR-047 — Superseded by ADR-057, which keeps its evidence rulings; cited for the kind-1 rule this entry is filed under -->
 
-# THEORY-1174: Industry can bias a scientific community toward a worse treatment without corrupting any individual, by selectively funding researchers whose methods already favour its product, provided researchers differ in method and both influence and the training of newcomers follow productivity; an independent funder that discounts industry-funded work counteracts this, and one that funds on productivity alone makes it worse
+# THEORY-1174: Industry funding biases science with no corruption
 
 ## Source
 

@@ -3,7 +3,14 @@ number: 408
 status: Active
 formerly:
 - THEORY-tmp15rjw
-title: "In a one-locus model with non-overlapping generations, random mating and weak selection, gene frequencies change as if each individual maximized its inclusive fitness, so a trait that costs its bearer spreads only if its effect on relatives exceeds 1/r times the cost; the increase of mean inclusive fitness is proved only for traits whose total effect on others is not negative"
+title: 'Gene frequencies track inclusive fitness'
+statement: >-
+  In a one-locus model with non-overlapping generations, random mating and
+  weak selection, gene frequencies change as if each individual maximized
+  its inclusive fitness, so a trait that costs its bearer spreads only if
+  its effect on relatives exceeds 1/r times the cost; the increase of mean
+  inclusive fitness is proved only for traits whose total effect on others
+  is not negative
 version: 3
 history:
 - version: 2
@@ -46,7 +53,7 @@ bears_on:
 
 <!-- inactive-ok-file: LIT-503 — Proposed: Curry 2016, the statement of morality-as-cooperation; cited for the kin domain it credits to "Hamilton, 1964" -->
 
-# THEORY-408: In a one-locus model with non-overlapping generations, random mating and weak selection, gene frequencies change as if each individual maximized its inclusive fitness, so a trait that costs its bearer spreads only if its effect on relatives exceeds 1/r times the cost; the increase of mean inclusive fitness is proved only for traits whose total effect on others is not negative
+# THEORY-408: Gene frequencies track inclusive fitness
 
 ## Source
 

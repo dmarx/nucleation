@@ -3,7 +3,12 @@ number: 2076
 status: Proposed
 formerly:
 - THEORY-tmpngig0
-title: 'Feng, Prabhumoye and colleagues find that pretraining an 8B language model on a diverse blend followed by a shorter high-quality blend scores higher than the same data in random order at the same total tokens, mostly in math and code, with the second phase best at about two-fifths of training'
+title: 'Two-phase blends beat random order'
+statement: >-
+  Feng, Prabhumoye and colleagues find that pretraining an 8B language model
+  on a diverse blend followed by a shorter high-quality blend scores higher
+  than the same data in random order at the same total tokens, mostly in
+  math and code, with the second phase best at about two-fifths of training
 version: 1
 source:
 - LIT-2848
@@ -22,7 +27,7 @@ summary: >-
   Proposed until its promote_when is met.
 ---
 
-# THEORY-2076: Feng, Prabhumoye and colleagues find that pretraining an 8B language model on a diverse blend followed by a shorter high-quality blend scores higher than the same data in random order at the same total tokens, mostly in math and code, with the second phase best at about two-fifths of training
+# THEORY-2076: Two-phase blends beat random order
 
 ## The account
 

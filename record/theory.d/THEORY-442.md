@@ -15,7 +15,13 @@ promote_when: >-
   use of values from a direct one in practice. More cases in which values
   shaped a threshold cannot settle it, since they show that values were
   used, not that they were required.
-title: "Where the non-epistemic consequences of error are foreseeable, sound scientific reasoning requires weighing them in the internal choices that carry inductive risk, and non-epistemic values then enter legitimately only indirectly, through the costs of error, never as reasons to think a claim true"
+title: 'Non-epistemic values enter only via error costs'
+statement: >-
+  Where the non-epistemic consequences of error are foreseeable, sound
+  scientific reasoning requires weighing them in the internal choices that
+  carry inductive risk, and non-epistemic values then enter legitimately
+  only indirectly, through the costs of error, never as reasons to think a
+  claim true
 version: 1
 tags:
 - philosophy-of-science
@@ -36,7 +42,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-151 THEORY-537 — Proposed; named as parallel accounts, nothing here rests on them -->
 
-# THEORY-442: Where the non-epistemic consequences of error are foreseeable, sound scientific reasoning requires weighing them in the internal choices that carry inductive risk, and non-epistemic values then enter legitimately only indirectly, through the costs of error, never as reasons to think a claim true
+# THEORY-442: Non-epistemic values enter only via error costs
 
 ## Source
 

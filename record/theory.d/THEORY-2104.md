@@ -3,7 +3,15 @@ number: 2104
 status: Proposed
 formerly:
 - THEORY-tmpe5ngv
-title: 'Tomasello and colleagues hypothesize that uniquely human cooperation evolved in two steps, first obligate collaborative foraging that made partners interdependent and selected, through partner choice by reputation as a good collaborator, for joint goals, commitment and helping, with reciprocity playing only a minor role, and then group growth and intergroup competition that scaled this into collective intentionality with conventions, norms and institutions'
+title: 'Human cooperation evolved in two steps'
+statement: >-
+  Tomasello and colleagues hypothesize that uniquely human cooperation
+  evolved in two steps, first obligate collaborative foraging that made
+  partners interdependent and selected, through partner choice by reputation
+  as a good collaborator, for joint goals, commitment and helping, with
+  reciprocity playing only a minor role, and then group growth and
+  intergroup competition that scaled this into collective intentionality
+  with conventions, norms and institutions
 version: 1
 source:
 - LIT-2921
@@ -24,7 +32,7 @@ summary: >-
   modelled. Proposed until its promote_when is met.
 ---
 
-# THEORY-2104: Tomasello and colleagues hypothesize that uniquely human cooperation evolved in two steps, first obligate collaborative foraging that made partners interdependent and selected, through partner choice by reputation as a good collaborator, for joint goals, commitment and helping, with reciprocity playing only a minor role, and then group growth and intergroup competition that scaled this into collective intentionality with conventions, norms and institutions
+# THEORY-2104: Human cooperation evolved in two steps
 
 ## The account
 

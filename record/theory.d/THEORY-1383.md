@@ -8,7 +8,13 @@ promote_when: >-
   thin, V-shaped, slit basin and that §4(a)–(c) attribute these features to
   the λ-lemma near the saddle and to non-uniform deformation near the
   centre-unstable manifold.
-title: 'Obayashi, Aoi, Tsuchiya and Kokubu explain the small, thin, fractal-like basin of attraction of the simplest passive walking model by the saddle-type instability of its upright equilibrium: pulled back through the swing phase, the set of states that take a step is thinned along the saddle''s stable manifold and folded into a V with nested slits'
+title: 'Saddle instability thins passive walker''s basin'
+statement: >-
+  Obayashi, Aoi, Tsuchiya and Kokubu explain the small, thin, fractal-like
+  basin of attraction of the simplest passive walking model by the
+  saddle-type instability of its upright equilibrium: pulled back through
+  the swing phase, the set of states that take a step is thinned along the
+  saddle's stable manifold and folded into a V with nested slits
 version: 1
 tags:
 - mathematics
@@ -29,7 +35,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: LIT-2108 — Unavailable and new; the original Obayashi et al. (2016) stand in for, cited as open -->
 
-# THEORY-1383: Obayashi, Aoi, Tsuchiya and Kokubu explain the small, thin, fractal-like basin of attraction of the simplest passive walking model by the saddle-type instability of its upright equilibrium: pulled back through the swing phase, the set of states that take a step is thinned along the saddle's stable manifold and folded into a V with nested slits
+# THEORY-1383: Saddle instability thins passive walker's basin
 
 ## Source
 

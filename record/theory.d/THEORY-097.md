@@ -17,7 +17,12 @@ promote_when: >-
   correlations from the same open dataset (DANDI 000673) cannot settle it,
   and nor can further reports that ripples co-occur in the LFP, since that
   much was known before LIT-633.
-title: 'Long-range coordination in the human forebrain is carried by brief ripples that co-occur at distant sites: during them neurons co-fire more whatever the distance between them, and at retrieval they carry stimulus-specific reinstatement of encoding co-firing'
+title: 'Distant co-ripples carry forebrain coordination'
+statement: >-
+  Long-range coordination in the human forebrain is carried by brief ripples
+  that co-occur at distant sites: during them neurons co-fire more whatever
+  the distance between them, and at retrieval they carry stimulus-specific
+  reinstatement of encoding co-firing
 version: 1
 tags:
 - neuroscience
@@ -46,7 +51,7 @@ bears_on:
 <!-- inactive-ok-file: LIT-385 — Unavailable, unread; Damasio's convergence-zone proposal, named as the older idea the reinstatement result resembles, no relation claimed -->
 <!-- inactive-ok-file: LIT-647 — Unavailable, unread; the traveling-wave review, named for contrast, nothing here rests on it -->
 
-# THEORY-097: Long-range coordination in the human forebrain is carried by brief ripples that co-occur at distant sites: during them neurons co-fire more whatever the distance between them, and at retrieval they carry stimulus-specific reinstatement of encoding co-firing
+# THEORY-097: Distant co-ripples carry forebrain coordination
 
 ## Source
 

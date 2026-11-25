@@ -3,7 +3,13 @@ number: 677
 status: Active
 formerly:
 - THEORY-tmpy2zno
-title: "Under uncertainty about which beings are sentient, an appeal to precaution does not by itself fix which error is worse to make: precaution on behalf of a possibly sentient being and precaution on behalf of human liberty point opposite ways, and judging which mistake costs more turns on the very science in doubt"
+title: 'Precaution alone can''t settle sentience errors'
+statement: >-
+  Under uncertainty about which beings are sentient, an appeal to precaution
+  does not by itself fix which error is worse to make: precaution on behalf
+  of a possibly sentient being and precaution on behalf of human liberty
+  point opposite ways, and judging which mistake costs more turns on the
+  very science in doubt
 version: 1
 tags:
 - ethics
@@ -24,7 +30,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-449 THEORY-554 — Proposed; related or rival accounts named in Connections, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-126 — Rejected; cited for the position it states, not leaned on -->
 
-# THEORY-677: Under uncertainty about which beings are sentient, an appeal to precaution does not by itself fix which error is worse to make: precaution on behalf of a possibly sentient being and precaution on behalf of human liberty point opposite ways, and judging which mistake costs more turns on the very science in doubt
+# THEORY-677: Precaution alone can't settle sentience errors
 
 ## Source
 

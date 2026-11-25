@@ -11,7 +11,16 @@ promote_when: >-
   competing effort, not merely where, as in the assassin and husband
   cases, there is one aim and an external obstacle. Restating the
   analogies does not settle it.
-title: 'Kane answers the luck objection by making indeterminism a hindrance inside goal-directed effort rather than a cause on its own: in a self-forming action the agent makes two competing efforts, each meeting the indeterminacy as interference from the other, so whichever succeeds is a willed success for which the agent is responsible; indeterminism lessens the agent''s control but not its responsibility, and what responsibility needs is macro-control of processes involving many neurons, not control of each'
+title: 'Indeterminism hinders effort, not responsibility'
+statement: >-
+  Kane answers the luck objection by making indeterminism a hindrance inside
+  goal-directed effort rather than a cause on its own: in a self-forming
+  action the agent makes two competing efforts, each meeting the
+  indeterminacy as interference from the other, so whichever succeeds is a
+  willed success for which the agent is responsible; indeterminism lessens
+  the agent's control but not its responsibility, and what responsibility
+  needs is macro-control of processes involving many neurons, not control of
+  each
 version: 1
 tags:
 - free-will
@@ -29,7 +38,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-328 — Proposed; the entries this reply bears on -->
 
-# THEORY-1328: Kane answers the luck objection by making indeterminism a hindrance inside goal-directed effort rather than a cause on its own: in a self-forming action the agent makes two competing efforts, each meeting the indeterminacy as interference from the other, so whichever succeeds is a willed success for which the agent is responsible; indeterminism lessens the agent's control but not its responsibility, and what responsibility needs is macro-control of processes involving many neurons, not control of each
+# THEORY-1328: Indeterminism hinders effort, not responsibility
 
 ## Source
 

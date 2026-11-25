@@ -13,7 +13,13 @@ promote_when: >-
   Further neuroimaging of default-mode and frontoparietal coupling during
   mind-wandering cannot settle it by itself, since it shows co-activation,
   not selection.
-title: "Deliberate thought selects and sustains candidates from a stream of unintended thoughts that mind-wandering generates, and whether the conscious model of oneself as a knower that accompanies the selection causes it, enables it or only accompanies it is undecided by current evidence"
+title: 'Deliberation selects from mind-wandering''s stream'
+statement: >-
+  Deliberate thought selects and sustains candidates from a stream of
+  unintended thoughts that mind-wandering generates, and whether the
+  conscious model of oneself as a knower that accompanies the selection
+  causes it, enables it or only accompanies it is undecided by current
+  evidence
 version: 2
 history:
 - version: 2
@@ -55,7 +61,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-882 CLAIM-484 — Proposed; the PP account and the claim this one is set beside, cited as open -->
 <!-- inactive-ok-file: THEORY-2265 — new in this filing and Proposed or Rejected; the reading of LEAD-141, cited as open -->
 
-# THEORY-1296: Deliberate thought selects and sustains candidates from a stream of unintended thoughts that mind-wandering generates, and whether the conscious model of oneself as a knower that accompanies the selection causes it, enables it or only accompanies it is undecided by current evidence
+# THEORY-1296: Deliberation selects from mind-wandering's stream
 
 ## Source
 

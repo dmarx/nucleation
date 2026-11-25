@@ -12,7 +12,13 @@ promote_when: >-
   not settle it, because THEORY-086 already covers that regime and this
   entry concerns a network trained with Adam outside it. Experiments in
   other settings bear on a wider claim, not on this one.
-title: 'A six-layer, 256-unit ReLU network trained by full-batch Adam to regress a sum of sinusoids at 5 to 50 cycles on [0, 1] fits the components in order of frequency, and keeps that order when the amplitudes rise tenfold with frequency, so in this setting the order of acquisition is set by the learner and not by the strength of the target''s components'
+title: 'Network fits low frequencies first regardless'
+statement: >-
+  A six-layer, 256-unit ReLU network trained by full-batch Adam to regress a
+  sum of sinusoids at 5 to 50 cycles on [0, 1] fits the components in order
+  of frequency, and keeps that order when the amplitudes rise tenfold with
+  frequency, so in this setting the order of acquisition is set by the
+  learner and not by the strength of the target's components
 version: 1
 tags:
 - learning-theory
@@ -33,7 +39,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-186 — Proposed; accounts this is contrasted with, nothing here rests on their being settled -->
 
-# THEORY-759: A six-layer, 256-unit ReLU network trained by full-batch Adam to regress a sum of sinusoids at 5 to 50 cycles on [0, 1] fits the components in order of frequency, and keeps that order when the amplitudes rise tenfold with frequency, so in this setting the order of acquisition is set by the learner and not by the strength of the target's components
+# THEORY-759: Network fits low frequencies first regardless
 
 ## Source
 

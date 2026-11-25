@@ -3,7 +3,17 @@ number: 863
 status: Active
 formerly:
 - THEORY-tmpxzls4
-title: 'In Arthur''s model of two agent types arriving in random order, each adopting whichever of two technologies pays it more, with returns linear in previous adoptions, increasing returns make the adoption difference a random walk with absorbing barriers: one technology takes the whole market with probability one, A with probability Δ_R/(Δ_R + Δ_S) where Δ_R and Δ_S are the gaps at which each type switches, the winner need not be the better technology, and once it has locked in no small change in returns alters later choices; with diminishing returns the barriers reflect and the shares go predictably to one half'
+title: 'Increasing returns lock in a random winner'
+statement: >-
+  In Arthur's model of two agent types arriving in random order, each
+  adopting whichever of two technologies pays it more, with returns linear
+  in previous adoptions, increasing returns make the adoption difference a
+  random walk with absorbing barriers: one technology takes the whole market
+  with probability one, A with probability Δ_R/(Δ_R + Δ_S) where Δ_R and Δ_S
+  are the gaps at which each type switches, the winner need not be the
+  better technology, and once it has locked in no small change in returns
+  alters later choices; with diminishing returns the barriers reflect and
+  the shares go predictably to one half
 version: 2
 history:
 - version: 1
@@ -42,7 +52,7 @@ bounds:
 ---
 <!-- inactive-ok-file: THEORY-2193 — Proposed; the reading of Yang filed 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-429 — Proposed; a held reading named for comparison, nothing here rests on it -->
-# THEORY-863: In Arthur's model of two agent types arriving in random order, each adopting whichever of two technologies pays it more, with returns linear in previous adoptions, increasing returns make the adoption difference a random walk with absorbing barriers: one technology takes the whole market with probability one, A with probability Δ_R/(Δ_R + Δ_S) where Δ_R and Δ_S are the gaps at which each type switches, the winner need not be the better technology, and once it has locked in no small change in returns alters later choices; with diminishing returns the barriers reflect and the shares go predictably to one half
+# THEORY-863: Increasing returns lock in a random winner
 
 ## Source
 

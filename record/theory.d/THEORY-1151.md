@@ -3,7 +3,15 @@ number: 1151
 status: Active
 formerly:
 - THEORY-tmpt1otv
-title: 'A learned translation metric trained with synthetic hallucinations and diagnostic perturbations alongside human MQM flags most injected localized critical errors (all but 0 to 17 percent, by type and model size) and ranks fully detached hallucinations below other translations with AUROC up to 0.96, and without a reference it ranks hallucinations better than with one; how far this reflects the synthetic training data has not been separated from how far it generalises'
+title: 'Hallucination-trained metric flags critical errors'
+statement: >-
+  A learned translation metric trained with synthetic hallucinations and
+  diagnostic perturbations alongside human MQM flags most injected localized
+  critical errors (all but 0 to 17 percent, by type and model size) and
+  ranks fully detached hallucinations below other translations with AUROC up
+  to 0.96, and without a reference it ranks hallucinations better than with
+  one; how far this reflects the synthetic training data has not been
+  separated from how far it generalises
 version: 2
 history:
 - version: 2
@@ -42,7 +50,7 @@ summary: >-
 ---
 
 
-# THEORY-1151: A learned translation metric trained with synthetic hallucinations and diagnostic perturbations alongside human MQM flags most injected localized critical errors (all but 0 to 17 percent, by type and model size) and ranks fully detached hallucinations below other translations with AUROC up to 0.96, and without a reference it ranks hallucinations better than with one; how far this reflects the synthetic training data has not been separated from how far it generalises
+# THEORY-1151: Hallucination-trained metric flags critical errors
 
 ## Source
 

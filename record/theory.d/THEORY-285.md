@@ -3,7 +3,16 @@ number: 285
 status: Active
 formerly:
 - THEORY-tmpta57o
-title: 'In an illustrative active-inference simulation of post-traumatic context inference, run once per phenotype, a prior that one is in a harmful context, made overly precise by a run of harmful trials under the "vulnerable" learning and forgetting weights, makes exploratory sampling look uninformative, so the agent attenuates the periphery, never receives the evidence that would correct the prior, and the belief sustains itself; lowering precision makes the attenuation policy less vigorous without correcting the prior, and the policy returns when precision is restored'
+title: 'Precise harm priors can sustain themselves'
+statement: >-
+  In an illustrative active-inference simulation of post-traumatic context
+  inference, run once per phenotype, a prior that one is in a harmful
+  context, made overly precise by a run of harmful trials under the
+  "vulnerable" learning and forgetting weights, makes exploratory sampling
+  look uninformative, so the agent attenuates the periphery, never receives
+  the evidence that would correct the prior, and the belief sustains itself;
+  lowering precision makes the attenuation policy less vigorous without
+  correcting the prior, and the policy returns when precision is restored
 version: 2
 history:
 - version: 2
@@ -48,7 +57,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-058 — Proposed; the loop account this model gives a mechanism for -->
 
-# THEORY-285: In an illustrative active-inference simulation of post-traumatic context inference, run once per phenotype, a prior that one is in a harmful context, made overly precise by a run of harmful trials under the "vulnerable" learning and forgetting weights, makes exploratory sampling look uninformative, so the agent attenuates the periphery, never receives the evidence that would correct the prior, and the belief sustains itself; lowering precision makes the attenuation policy less vigorous without correcting the prior, and the policy returns when precision is restored
+# THEORY-285: Precise harm priors can sustain themselves
 
 ## Source
 

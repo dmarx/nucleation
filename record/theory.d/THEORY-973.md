@@ -3,7 +3,15 @@ number: 973
 status: Active
 formerly:
 - THEORY-tmp8cat0
-title: 'In small attention-only transformer language models of two to six layers, in-context learning, measured as the loss at token 500 minus the loss at token 50, appears abruptly in one early window of training in which induction heads form, and ablating those heads at test time removes nearly all of it; one-layer models show neither, and letting a single layer attend by the previous token brings the jump to one-layer models and moves it earlier in two-layer ones'
+title: 'Induction heads cause abrupt in-context learning'
+statement: >-
+  In small attention-only transformer language models of two to six layers,
+  in-context learning, measured as the loss at token 500 minus the loss at
+  token 50, appears abruptly in one early window of training in which
+  induction heads form, and ablating those heads at test time removes nearly
+  all of it; one-layer models show neither, and letting a single layer
+  attend by the previous token brings the jump to one-layer models and moves
+  it earlier in two-layer ones
 version: 2
 history:
 - version: 1
@@ -41,7 +49,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-2042 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-990 THEORY-783 — Proposed; the wider thesis and neighbouring accounts, cited as open -->
-# THEORY-973: In small attention-only transformer language models of two to six layers, in-context learning, measured as the loss at token 500 minus the loss at token 50, appears abruptly in one early window of training in which induction heads form, and ablating those heads at test time removes nearly all of it; one-layer models show neither, and letting a single layer attend by the previous token brings the jump to one-layer models and moves it earlier in two-layer ones
+# THEORY-973: Induction heads cause abrupt in-context learning
 
 ## Source
 

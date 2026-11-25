@@ -10,7 +10,16 @@ promote_when: >-
   courts, unequal legal services and lagging rules add interlocking layers
   of advantage (pp. 119–25, Figure 3). Whether the account is empirically
   right is not asserted.
-title: 'Galanter proposes that repeat players, parties that litigate often with low stakes in any one case and the resources to pursue long-run interests, hold strategic advantages over one-shotters, including playing for rules as well as outcomes, and that passive, overloaded courts, which delay recovery, raise the cost of keeping a case alive and protect the possessor, together with unequal legal services and lagging rules, compound those advantages, so that a formally neutral legal system tends to let the haves come out ahead'
+title: 'Repeat players make the haves come out ahead'
+statement: >-
+  Galanter proposes that repeat players, parties that litigate often with
+  low stakes in any one case and the resources to pursue long-run interests,
+  hold strategic advantages over one-shotters, including playing for rules
+  as well as outcomes, and that passive, overloaded courts, which delay
+  recovery, raise the cost of keeping a case alive and protect the
+  possessor, together with unequal legal services and lagging rules,
+  compound those advantages, so that a formally neutral legal system tends
+  to let the haves come out ahead
 version: 1
 tags:
 - society-and-governance
@@ -37,7 +46,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-748 — Proposed or new; the reading and the claim it corroborates -->
 
-# THEORY-1981: Galanter proposes that repeat players, parties that litigate often with low stakes in any one case and the resources to pursue long-run interests, hold strategic advantages over one-shotters, including playing for rules as well as outcomes, and that passive, overloaded courts, which delay recovery, raise the cost of keeping a case alive and protect the possessor, together with unequal legal services and lagging rules, compound those advantages, so that a formally neutral legal system tends to let the haves come out ahead
+# THEORY-1981: Repeat players make the haves come out ahead
 
 Galanter (1974), [LIT-2728](../literature.d/LIT-2728.md).
 

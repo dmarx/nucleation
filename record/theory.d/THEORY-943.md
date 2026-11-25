@@ -3,7 +3,15 @@ number: 943
 status: Active
 formerly:
 - THEORY-tmpx9mep
-title: 'When a center with no ground truth pays each rater a strictly proper scoring rule on the distribution of a reference rater''s report implied by her own report, under a common prior and a known signal model in which raters'' signals are stochastically relevant to one another, truthful reporting is a strict Nash equilibrium, but not necessarily the only one: in the authors'' two-signal example under the log rule, every rater always reporting h, or always reporting l, is also an equilibrium'
+title: 'Peer prediction: truth is a strict, non-unique NE'
+statement: >-
+  When a center with no ground truth pays each rater a strictly proper
+  scoring rule on the distribution of a reference rater's report implied by
+  her own report, under a common prior and a known signal model in which
+  raters' signals are stochastically relevant to one another, truthful
+  reporting is a strict Nash equilibrium, but not necessarily the only one:
+  in the authors' two-signal example under the log rule, every rater always
+  reporting h, or always reporting l, is also an equilibrium
 version: 3
 history:
 - version: 2
@@ -72,7 +80,7 @@ bears_on:
 - QUESTION-271
 ---
 
-# THEORY-943: When a center with no ground truth pays each rater a strictly proper scoring rule on the distribution of a reference rater's report implied by her own report, under a common prior and a known signal model in which raters' signals are stochastically relevant to one another, truthful reporting is a strict Nash equilibrium, but not necessarily the only one: in the authors' two-signal example under the log rule, every rater always reporting h, or always reporting l, is also an equilibrium
+# THEORY-943: Peer prediction: truth is a strict, non-unique NE
 
 ## Source
 

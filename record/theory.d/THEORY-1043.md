@@ -3,7 +3,14 @@ number: 1043
 status: Active
 formerly:
 - THEORY-tmpo1cju
-title: 'The finite feature model in which each of K features has prevalence Beta(α/K, 1) has, as K grows, a limit on equivalence classes of binary matrices that ignore the order of columns, and the Indian buffet process, in which the i-th object takes each earlier feature with probability m/i and Poisson(α/i) new ones, produces the same distribution, so its objects are exchangeable and the number of features they hold is Poisson(αH_N)'
+title: 'IBP is the finite feature model''s limit'
+statement: >-
+  The finite feature model in which each of K features has prevalence
+  Beta(α/K, 1) has, as K grows, a limit on equivalence classes of binary
+  matrices that ignore the order of columns, and the Indian buffet process,
+  in which the i-th object takes each earlier feature with probability m/i
+  and Poisson(α/i) new ones, produces the same distribution, so its objects
+  are exchangeable and the number of features they hold is Poisson(αH_N)
 version: 2
 history:
 - version: 1
@@ -45,7 +52,7 @@ bears_on:
 - QUESTION-276
 ---
 
-# THEORY-1043: The finite feature model in which each of K features has prevalence Beta(α/K, 1) has, as K grows, a limit on equivalence classes of binary matrices that ignore the order of columns, and the Indian buffet process, in which the i-th object takes each earlier feature with probability m/i and Poisson(α/i) new ones, produces the same distribution, so its objects are exchangeable and the number of features they hold is Poisson(αH_N)
+# THEORY-1043: IBP is the finite feature model's limit
 
 ## Source
 

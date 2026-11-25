@@ -3,7 +3,13 @@ number: 1854
 status: Proposed
 formerly:
 - THEORY-tmpq29mb
-title: 'Crawford and Joler argue that even a small AI device rests on a planetary system of extraction of minerals, labour and data, whose value concentrates in a very thin layer, and that transparency without real choice and corporate accountability does not change the resulting power asymmetry'
+title: 'AI devices rest on planetary extraction'
+statement: >-
+  Crawford and Joler argue that even a small AI device rests on a planetary
+  system of extraction of minerals, labour and data, whose value
+  concentrates in a very thin layer, and that transparency without real
+  choice and corporate accountability does not change the resulting power
+  asymmetry
 version: 1
 source:
 - LIT-2601
@@ -21,7 +27,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-2593 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Unavailable -->
 
-# THEORY-1854: Crawford and Joler argue that even a small AI device rests on a planetary system of extraction of minerals, labour and data, whose value concentrates in a very thin layer, and that transparency without real choice and corporate accountability does not change the resulting power asymmetry
+# THEORY-1854: AI devices rest on planetary extraction
 
 ## The account
 

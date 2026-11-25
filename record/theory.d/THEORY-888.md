@@ -17,7 +17,14 @@ promote_when: >-
   boundary between event models. Further studies from the originating
   paradigm and lab, however many, cannot settle it, since its trial counts
   and room design are what is in question.
-title: 'Walking through a doorway into a new room, rather than as far within one, lowers recognition of an object being carried, through retrieval interference between the event models of the two rooms that both hold it, not through a longer retention interval, a passing cost of updating, or loss of the encoding context; outside the originating paradigm, with passive movement and no extra load, it has not appeared'
+title: 'Doorways impair memory via event interference'
+statement: >-
+  Walking through a doorway into a new room, rather than as far within one,
+  lowers recognition of an object being carried, through retrieval
+  interference between the event models of the two rooms that both hold it,
+  not through a longer retention interval, a passing cost of updating, or
+  loss of the encoding context; outside the originating paradigm, with
+  passive movement and no extra load, it has not appeared
 version: 1
 tags:
 - cognition
@@ -39,7 +46,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-886 — Proposed; claims and accounts this bears on, named, not leaned on -->
 
-# THEORY-888: Walking through a doorway into a new room, rather than as far within one, lowers recognition of an object being carried, through retrieval interference between the event models of the two rooms that both hold it, not through a longer retention interval, a passing cost of updating, or loss of the encoding context; outside the originating paradigm, with passive movement and no extra load, it has not appeared
+# THEORY-888: Doorways impair memory via event interference
 
 ## Source
 

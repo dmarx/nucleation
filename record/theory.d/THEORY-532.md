@@ -16,7 +16,12 @@ promote_when: >-
   chosen because organized structure raises dissipation there cannot
   settle it, and neither can surface-temperature contrasts between sites
   that differ in water as well as maturity.
-title: "Systems pushed from equilibrium develop structures that degrade the applied gradient faster, and living systems and maturing ecosystems are such structures, continuous with convection cells and vortices, so the second law is a necessary but not a sufficient condition for life"
+title: 'Life degrades applied gradients faster'
+statement: >-
+  Systems pushed from equilibrium develop structures that degrade the
+  applied gradient faster, and living systems and maturing ecosystems are
+  such structures, continuous with convection cells and vortices, so the
+  second law is a necessary but not a sufficient condition for life
 version: 1
 tags:
 - thermodynamics
@@ -40,7 +45,7 @@ summary: >-
 
 <!-- inactive-ok-file: THEORY-072 THEORY-412 THEORY-492 THEORY-671 THEORY-517 — Proposed; named as neighbouring and contrary accounts, not leaned on -->
 
-# THEORY-532: Systems pushed from equilibrium develop structures that degrade the applied gradient faster, and living systems and maturing ecosystems are such structures, continuous with convection cells and vortices, so the second law is a necessary but not a sufficient condition for life
+# THEORY-532: Life degrades applied gradients faster
 
 ## Source
 

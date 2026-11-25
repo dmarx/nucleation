@@ -3,7 +3,12 @@ number: 27
 status: Active
 formerly:
 - THEORY-tmp66o95
-title: 'Two individually decisive people, weak Pareto and an unrestricted domain cannot all hold, even when choice need only yield a best element; unlike Arrow''s theorem, the conflict is not removed by interpersonal comparability'
+title: 'Liberalism and Pareto clash despite comparability'
+statement: >-
+  Two individually decisive people, weak Pareto and an unrestricted domain
+  cannot all hold, even when choice need only yield a best element; unlike
+  Arrow's theorem, the conflict is not removed by interpersonal
+  comparability
 version: 2
 history:
 - version: 2
@@ -35,7 +40,7 @@ bounds:
 - CLAIM-436
 ---
 
-# THEORY-027: Two individually decisive people, weak Pareto and an unrestricted domain cannot all hold, even when choice need only yield a best element; unlike Arrow's theorem, the conflict is not removed by interpersonal comparability
+# THEORY-027: Liberalism and Pareto clash despite comparability
 
 ## Source
 

@@ -3,7 +3,15 @@ number: 1440
 status: Active
 formerly:
 - THEORY-tmp500wn
-title: 'Sobczak reports, from work in the Dietz group, that 3D DNA origami folds cooperatively within a structure-specific window of about 5 °C and can be folded at a constant temperature within it, while folded objects held for two hours above the window unfold only 5–10 °C higher and within seconds, against minutes to hours for folding, and that the brick forms nothing in 48 hours 6 °C above its best folding temperature; the thesis does not pair persistence and non-formation at one temperature'
+title: '3D origami folds in a narrow 5 °C window'
+statement: >-
+  Sobczak reports, from work in the Dietz group, that 3D DNA origami folds
+  cooperatively within a structure-specific window of about 5 °C and can be
+  folded at a constant temperature within it, while folded objects held for
+  two hours above the window unfold only 5–10 °C higher and within seconds,
+  against minutes to hours for folding, and that the brick forms nothing in
+  48 hours 6 °C above its best folding temperature; the thesis does not pair
+  persistence and non-formation at one temperature
 version: 3
 history:
 - version: 2
@@ -66,7 +74,7 @@ corroborates:
 ---
 <!-- inactive-ok-file: LIT-2131 — Unavailable; cited from the reading of Sobczak (2018) as open -->
 
-# THEORY-1440: Sobczak reports, from work in the Dietz group, that 3D DNA origami folds cooperatively within a structure-specific window of about 5 °C and can be folded at a constant temperature within it, while folded objects held for two hours above the window unfold only 5–10 °C higher and within seconds, against minutes to hours for folding, and that the brick forms nothing in 48 hours 6 °C above its best folding temperature; the thesis does not pair persistence and non-formation at one temperature
+# THEORY-1440: 3D origami folds in a narrow 5 °C window
 
 ## Source
 

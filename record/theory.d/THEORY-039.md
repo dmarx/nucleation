@@ -18,7 +18,12 @@ promote_when: >-
   also refuted by a later phase in which I(X;T), under network-intrinsic
   noise, falls and tracks generalisation across nonlinearities and
   optimisers.
-title: 'The later phases reported in neural-network training differ in kind: after the transition a network may simplify its weights, acquire item-specific information, lose generalisation, confine its tangent kernel or saturate its units, and none of these is a measured compression of I(X;T)'
+title: 'Later training phases are not I(X;T) compression'
+statement: >-
+  The later phases reported in neural-network training differ in kind: after
+  the transition a network may simplify its weights, acquire item-specific
+  information, lose generalisation, confine its tangent kernel or saturate
+  its units, and none of these is a measured compression of I(X;T)
 version: 2
 history:
 - version: 2
@@ -54,7 +59,7 @@ bears_on:
 - QUESTION-039
 ---
 
-# THEORY-039: The later phases reported in neural-network training differ in kind: after the transition a network may simplify its weights, acquire item-specific information, lose generalisation, confine its tangent kernel or saturate its units, and none of these is a measured compression of I(X;T)
+# THEORY-039: Later training phases are not I(X;T) compression
 
 ## Source
 

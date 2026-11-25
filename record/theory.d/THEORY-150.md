@@ -14,7 +14,14 @@ promote_when: >-
   unrelated to switching costs. More well-told cases of platforms getting
   worse cannot settle it, since a decaying platform is what the account
   was built from.
-title: 'A platform that sits between the two sides of a market and can cheaply change how it allocates value tends to decay in three stages, first good to its users, then abusing them to favour its business customers, then abusing both to claw the value back for itself, each stage made possible by the lock-in the one before it built; how far it can go is set by the cost of leaving, so lowering that cost is the remedy'
+title: 'Platforms decay in three stages'
+statement: >-
+  A platform that sits between the two sides of a market and can cheaply
+  change how it allocates value tends to decay in three stages, first good
+  to its users, then abusing them to favour its business customers, then
+  abusing both to claw the value back for itself, each stage made possible
+  by the lock-in the one before it built; how far it can go is set by the
+  cost of leaving, so lowering that cost is the remedy
 version: 1
 tags:
 - society-and-governance
@@ -34,7 +41,7 @@ corroborates:
 <!-- inactive-ok-file: THEORY-470 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: LIT-753 — Unavailable; cited for context or as the source of this reading, nothing here rests on its being settled -->
 
-# THEORY-150: A platform that sits between the two sides of a market and can cheaply change how it allocates value tends to decay in three stages, first good to its users, then abusing them to favour its business customers, then abusing both to claw the value back for itself, each stage made possible by the lock-in the one before it built; how far it can go is set by the cost of leaving, so lowering that cost is the remedy
+# THEORY-150: Platforms decay in three stages
 
 ## Source
 

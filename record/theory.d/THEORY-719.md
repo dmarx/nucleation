@@ -3,7 +3,11 @@ number: 719
 status: Active
 formerly:
 - THEORY-tmpsuto2
-title: 'On a finite augmentation space, over unconstrained functions of the two views, the spectral contrastive and NT-Logistic losses are both minimized at the positive-pair density ratio'
+title: 'Two contrastive losses share a density-ratio min'
+statement: >-
+  On a finite augmentation space, over unconstrained functions of the two
+  views, the spectral contrastive and NT-Logistic losses are both minimized
+  at the positive-pair density ratio
 version: 2
 history:
 - version: 1
@@ -47,7 +51,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-001 — Proposed; the three-way account this half was split from and that extends it, cited as open -->
 
-# THEORY-719: On a finite augmentation space, over unconstrained functions of the two views, the spectral contrastive and NT-Logistic losses are both minimized at the positive-pair density ratio
+# THEORY-719: Two contrastive losses share a density-ratio min
 
 ## Source
 

@@ -14,7 +14,15 @@ promote_when: >-
   on a lattice small enough to enumerate would serve for the first few
   steps. A further scaling argument does not settle it, since the claim at
   issue is what the numbers are.
-title: 'In Monte Carlo on a 64×64 periodic square-lattice Ising model at its critical point, parametrized by a field and 13 nearby couplings and observed only through the spins left after n checkerboard decimations (b = √2 per step, n ≤ 6), the two Fisher eigenvalues along the field and the gradient of T_c stay within a factor of about two of their microscopic values, while the others fall by up to about six decades, in three groups whose decay is consistent with b^(2y−d) per step for y = 0, −2 and −4'
+title: 'Decimation keeps only relevant Fisher directions'
+statement: >-
+  In Monte Carlo on a 64×64 periodic square-lattice Ising model at its
+  critical point, parametrized by a field and 13 nearby couplings and
+  observed only through the spins left after n checkerboard decimations (b =
+  √2 per step, n ≤ 6), the two Fisher eigenvalues along the field and the
+  gradient of T_c stay within a factor of about two of their microscopic
+  values, while the others fall by up to about six decades, in three groups
+  whose decay is consistent with b^(2y−d) per step for y = 0, −2 and −4
 version: 1
 history:
 - version: 1
@@ -46,7 +54,7 @@ bears_on:
 
 <!-- inactive-ok-file: THEORY-2167 — Proposed or new; the reading of the 2023 review by Quinn and colleagues, 2026-11-22 -->
 
-# THEORY-777: In Monte Carlo on a 64×64 periodic square-lattice Ising model at its critical point, parametrized by a field and 13 nearby couplings and observed only through the spins left after n checkerboard decimations (b = √2 per step, n ≤ 6), the two Fisher eigenvalues along the field and the gradient of T_c stay within a factor of about two of their microscopic values, while the others fall by up to about six decades, in three groups whose decay is consistent with b^(2y−d) per step for y = 0, −2 and −4
+# THEORY-777: Decimation keeps only relevant Fisher directions
 
 ## Source
 

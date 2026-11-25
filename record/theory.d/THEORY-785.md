@@ -27,8 +27,12 @@ promote_when: 'Listener judgements in reference or signalling games whose altern
 
 # The claim. Repeat it as the body's `# THEORY-785:` heading; the lint checks
 # that the two agree.
-title: 'Listeners interpret an utterance by inverting a model of a speaker who chooses among alternatives by informativeness, so what a fixed form conveys depends on what else the speaker could have said, as the rational speech act account of Frank, Goodman and coauthors proposes'
-
+title: 'Meaning depends on what speaker could have said'
+statement: >-
+  Listeners interpret an utterance by inverting a model of a speaker who
+  chooses among alternatives by informativeness, so what a fixed form
+  conveys depends on what else the speaker could have said, as the rational
+  speech act account of Frank, Goodman and coauthors proposes
 version: 1
 
 # One or more topics from luria.yaml, primary first — the same table the
@@ -64,7 +68,7 @@ answers:
 ---
 
 
-# THEORY-785: Listeners interpret an utterance by inverting a model of a speaker who chooses among alternatives by informativeness, so what a fixed form conveys depends on what else the speaker could have said, as the rational speech act account of Frank, Goodman and coauthors proposes
+# THEORY-785: Meaning depends on what speaker could have said
 
 ## Source
 

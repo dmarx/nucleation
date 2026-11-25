@@ -9,7 +9,15 @@ promote_when: >-
   that Locke grounds the limit in the absence of power over one's own life,
   with forfeiture by fault excepted. Whether Locke's argument is sound is
   not asserted.
-title: 'Locke argues in the Second Treatise that because no one has an absolute arbitrary power over his own life no one can by compact or consent give another such power, except where life is forfeited by a fault deserving death, so that the legislative, holding only the joint power its members could transfer, cannot be absolutely arbitrary over their lives and fortunes and holds a fiduciary power the people may resume when the trust is breached'
+title: 'Legislative power is fiduciary, never arbitrary'
+statement: >-
+  Locke argues in the Second Treatise that because no one has an absolute
+  arbitrary power over his own life no one can by compact or consent give
+  another such power, except where life is forfeited by a fault deserving
+  death, so that the legislative, holding only the joint power its members
+  could transfer, cannot be absolutely arbitrary over their lives and
+  fortunes and holds a fiduciary power the people may resume when the trust
+  is breached
 version: 1
 tags:
 - society-and-governance
@@ -34,7 +42,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-2077 CLAIM-720 — Skimmed or Proposed; the reading and the claims it corroborates -->
 
-# THEORY-1959: Locke argues in the Second Treatise that because no one has an absolute arbitrary power over his own life no one can by compact or consent give another such power, except where life is forfeited by a fault deserving death, so that the legislative, holding only the joint power its members could transfer, cannot be absolutely arbitrary over their lives and fortunes and holds a fiduciary power the people may resume when the trust is breached
+# THEORY-1959: Legislative power is fiduciary, never arbitrary
 
 Locke, *Second Treatise*, [LIT-2738](../literature.d/LIT-2738.md).
 

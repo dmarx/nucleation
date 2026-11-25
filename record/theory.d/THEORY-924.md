@@ -3,7 +3,13 @@ number: 924
 status: Active
 formerly:
 - THEORY-tmp0fsks
-title: "When Elo ratings generate a win-probability matrix they are the row means of its log-odds; some set of Elo ratings reproduces a win-probability matrix exactly when its log-odds have no cyclic component, batch Elo otherwise matches only the row sums, and adding a copy of one agent shifts the batch Elo ratings of the others"
+title: 'Elo fits exactly only acyclic log-odds'
+statement: >-
+  When Elo ratings generate a win-probability matrix they are the row means
+  of its log-odds; some set of Elo ratings reproduces a win-probability
+  matrix exactly when its log-odds have no cyclic component, batch Elo
+  otherwise matches only the row sums, and adding a copy of one agent shifts
+  the batch Elo ratings of the others
 version: 3
 history:
 - version: 2
@@ -65,7 +71,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: CLAIM-451 — Proposed; named in prose, nothing here rests on it -->
 
-# THEORY-924: When Elo ratings generate a win-probability matrix they are the row means of its log-odds; some set of Elo ratings reproduces a win-probability matrix exactly when its log-odds have no cyclic component, batch Elo otherwise matches only the row sums, and adding a copy of one agent shifts the batch Elo ratings of the others
+# THEORY-924: Elo fits exactly only acyclic log-odds
 
 ## Source
 

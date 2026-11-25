@@ -3,7 +3,14 @@ number: 679
 status: Active
 formerly:
 - THEORY-tmpy68ek
-title: "For dynamics obeying detailed balance in a heat bath, the heat released in a transition between observer-defined macrostates is bounded below by the log-odds against its reversal less the internal entropy change; where a replicator's likeliest way back is a copy decaying within one generation, the bound grows with the copy's durability and the speed of copying, not with the information copied"
+title: 'Replication heat grows with durability, not info'
+statement: >-
+  For dynamics obeying detailed balance in a heat bath, the heat released in
+  a transition between observer-defined macrostates is bounded below by the
+  log-odds against its reversal less the internal entropy change; where a
+  replicator's likeliest way back is a copy decaying within one generation,
+  the bound grows with the copy's durability and the speed of copying, not
+  with the information copied
 version: 2
 history:
 - version: 2
@@ -34,7 +41,7 @@ bears_on:
 
 <!-- inactive-ok-file: THEORY-072 THEORY-412 THEORY-492 — Proposed; named as accounts this bound is checked against or contrasted with, not leaned on -->
 
-# THEORY-679: For dynamics obeying detailed balance in a heat bath, the heat released in a transition between observer-defined macrostates is bounded below by the log-odds against its reversal less the internal entropy change; where a replicator's likeliest way back is a copy decaying within one generation, the bound grows with the copy's durability and the speed of copying, not with the information copied
+# THEORY-679: Replication heat grows with durability, not info
 
 ## Source
 

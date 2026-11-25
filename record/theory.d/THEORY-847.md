@@ -3,7 +3,14 @@ number: 847
 status: Active
 formerly:
 - THEORY-tmpj5zq1
-title: 'In a linear structural equation model whose exogenous micro-causes W₁, …, W_n drive effects Z = AW + F, with interventions that set all of W, all of Z or both, averaging each block is an exact transformation onto Ẑ = (an/m)Ŵ + F̂ if and only if every column of A sums to the same a, the column-equitability of the block of A from W to Z; the transformation is exact only for those whole-block interventions'
+title: 'Block averaging exact iff columns sum equally'
+statement: >-
+  In a linear structural equation model whose exogenous micro-causes W₁, …,
+  W_n drive effects Z = AW + F, with interventions that set all of W, all of
+  Z or both, averaging each block is an exact transformation onto Ẑ =
+  (an/m)Ŵ + F̂ if and only if every column of A sums to the same a, the
+  column-equitability of the block of A from W to Z; the transformation is
+  exact only for those whole-block interventions
 version: 1
 history:
 - version: 1
@@ -30,7 +37,7 @@ summary: >-
   exactness, nor about nonlinear or approximate aggregation.
 ---
 
-# THEORY-847: In a linear structural equation model whose exogenous micro-causes W₁, …, W_n drive effects Z = AW + F, with interventions that set all of W, all of Z or both, averaging each block is an exact transformation onto Ẑ = (an/m)Ŵ + F̂ if and only if every column of A sums to the same a, the column-equitability of the block of A from W to Z; the transformation is exact only for those whole-block interventions
+# THEORY-847: Block averaging exact iff columns sum equally
 
 ## Source
 

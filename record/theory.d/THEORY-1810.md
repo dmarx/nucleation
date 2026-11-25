@@ -3,7 +3,15 @@ number: 1810
 status: Proposed
 formerly:
 - THEORY-tmpyxqep
-title: '- **Sentence**: Lesser and Erman (1977) report from three years of Hearsay-II that independent knowledge sources cooperating only through a shared, multi-level blackboard of uniformly structured, rated hypotheses made the system easy to reconfigure and avoided recomputation, but that each hypothesis''s state was too local to show the state of the hypothesis network it belonged to, and that the final configuration revised credibility by creating new hypotheses and never deleted any. -'
+title: 'Blackboard eased reconfiguring, hid network state'
+statement: >-
+  - **Sentence**: Lesser and Erman (1977) report from three years of
+  Hearsay-II that independent knowledge sources cooperating only through a
+  shared, multi-level blackboard of uniformly structured, rated hypotheses
+  made the system easy to reconfigure and avoided recomputation, but that
+  each hypothesis's state was too local to show the state of the hypothesis
+  network it belonged to, and that the final configuration revised
+  credibility by creating new hypotheses and never deleted any. -
 version: 1
 tags:
 - cognition
@@ -23,7 +31,7 @@ summary: >-
   its promote_when is met.
 ---
 
-# THEORY-1810: - **Sentence**: Lesser and Erman (1977) report from three years of Hearsay-II that independent knowledge sources cooperating only through a shared, multi-level blackboard of uniformly structured, rated hypotheses made the system easy to reconfigure and avoided recomputation, but that each hypothesis's state was too local to show the state of the hypothesis network it belonged to, and that the final configuration revised credibility by creating new hypotheses and never deleted any. -
+# THEORY-1810: Blackboard eased reconfiguring, hid network state
 
 ## The account
 

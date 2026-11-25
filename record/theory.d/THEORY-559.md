@@ -3,7 +3,14 @@ number: 559
 status: Active
 formerly:
 - THEORY-tmpjwpuk
-title: "In Kolmogorovian probability, joint distributedness is transitive, so representing a measurement by one random variable in every context it occurs in already puts all measurements of a connected system on one probability space; within that representation a Kochen–Specker or Bell contradiction refutes the context-independent identification of measurements, not the existence of a joint distribution"
+title: 'KS contradictions refute measurement identity'
+statement: >-
+  In Kolmogorovian probability, joint distributedness is transitive, so
+  representing a measurement by one random variable in every context it
+  occurs in already puts all measurements of a connected system on one
+  probability space; within that representation a Kochen–Specker or Bell
+  contradiction refutes the context-independent identification of
+  measurements, not the existence of a joint distribution
 version: 1
 tags:
 - contextuality
@@ -27,7 +34,7 @@ summary: >-
 
 <!-- inactive-ok-file: THEORY-013 — Proposed; named for the Contextuality-by-Default accounts this one sits beside, nothing here rests on them -->
 
-# THEORY-559: In Kolmogorovian probability, joint distributedness is transitive, so representing a measurement by one random variable in every context it occurs in already puts all measurements of a connected system on one probability space; within that representation a Kochen–Specker or Bell contradiction refutes the context-independent identification of measurements, not the existence of a joint distribution
+# THEORY-559: KS contradictions refute measurement identity
 
 ## Source
 

@@ -11,7 +11,12 @@ promote_when: >-
   agreement for each judge, and finding first-language agreement reliably
   higher across the languages. Agreement figures from model-screened
   annotators, or from different judges per language, do not settle it.
-title: 'Native-speaker crowd judges agree only modestly on the graded politeness of written requests in their own language, mean pairwise Spearman about 0.46 across nine languages, and the same bilinguals agree less on English requests, about 0.36'
+title: 'Native judges agree modestly on politeness'
+statement: >-
+  Native-speaker crowd judges agree only modestly on the graded politeness
+  of written requests in their own language, mean pairwise Spearman about
+  0.46 across nine languages, and the same bilinguals agree less on English
+  requests, about 0.36
 version: 1
 tags:
 - pragmatics
@@ -29,7 +34,7 @@ summary: >-
   annotators had been screened for agreeing with an XLM-R classifier.
 ---
 
-# THEORY-1157: Native-speaker crowd judges agree only modestly on the graded politeness of written requests in their own language, mean pairwise Spearman about 0.46 across nine languages, and the same bilinguals agree less on English requests, about 0.36
+# THEORY-1157: Native judges agree modestly on politeness
 
 ## Source
 

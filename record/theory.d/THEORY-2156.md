@@ -3,7 +3,18 @@ number: 2156
 status: Proposed
 formerly:
 - THEORY-tmpkoje5
-title: "Transtrum, Machta and Sethna (2010) argue that a nonlinear least-squares model's manifold of predictions is typically bounded and ribbon-like, its cross-sectional widths each thinner than the last by a roughly constant factor, from the error of polynomial interpolation for analytic models of one variable; in one eight-parameter model they observe the geodesic widths along the eigendirections of JᵀJ tracking the square roots of its eigenvalues over about four decades; fits fail where algorithms reach the manifold's boundaries, and adding geodesic acceleration to Levenberg–Marquardt raised its success on one four-exponential test from 33% to 65%"
+title: 'Fits fail at the model manifold''s boundaries'
+statement: >-
+  Transtrum, Machta and Sethna (2010) argue that a nonlinear least-squares
+  model's manifold of predictions is typically bounded and ribbon-like, its
+  cross-sectional widths each thinner than the last by a roughly constant
+  factor, from the error of polynomial interpolation for analytic models of
+  one variable; in one eight-parameter model they observe the geodesic
+  widths along the eigendirections of JᵀJ tracking the square roots of its
+  eigenvalues over about four decades; fits fail where algorithms reach the
+  manifold's boundaries, and adding geodesic acceleration to
+  Levenberg–Marquardt raised its success on one four-exponential test from
+  33% to 65%
 promote_when: >-
   An independent reproduction (not by the authors) of the paper's two
   computations: geodesic cross-sectional widths along the eigendirections
@@ -32,7 +43,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-2155 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
-# THEORY-2156: Transtrum, Machta and Sethna (2010) argue that a nonlinear least-squares model's manifold of predictions is typically bounded and ribbon-like, its cross-sectional widths each thinner than the last by a roughly constant factor, from the error of polynomial interpolation for analytic models of one variable; in one eight-parameter model they observe the geodesic widths along the eigendirections of JᵀJ tracking the square roots of its eigenvalues over about four decades; fits fail where algorithms reach the manifold's boundaries, and adding geodesic acceleration to Levenberg–Marquardt raised its success on one four-exponential test from 33% to 65%
+# THEORY-2156: Fits fail at the model manifold's boundaries
 
 ## Source
 

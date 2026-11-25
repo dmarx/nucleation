@@ -3,7 +3,16 @@ number: 1514
 status: Active
 formerly:
 - THEORY-tmpfuiq1
-title: 'Goligher and colleagues hold that mechanical ventilation harms the diaphragm at both ends of effort, atrophy following low effort from over-assistance or sedation and injury possibly following excessive effort, so that ventilation and sedation should be titrated to keep an effort close to that of quiet breathing; that support proportional to the patient''s own neural drive makes disuse from over-assistance unlikely, since assist falls as diaphragm activity falls; and that trials confirming the benefit of this approach are still required'
+title: 'Ventilate to quiet-breathing diaphragm effort'
+statement: >-
+  Goligher and colleagues hold that mechanical ventilation harms the
+  diaphragm at both ends of effort, atrophy following low effort from
+  over-assistance or sedation and injury possibly following excessive
+  effort, so that ventilation and sedation should be titrated to keep an
+  effort close to that of quiet breathing; that support proportional to the
+  patient's own neural drive makes disuse from over-assistance unlikely,
+  since assist falls as diaphragm activity falls; and that trials confirming
+  the benefit of this approach are still required
 version: 4
 history:
 - version: 2
@@ -56,7 +65,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-1537 — Proposed; the wide form of this reading, split off by the status review of 2026-11-06 -->
 <!-- inactive-ok-file: LIT-2212 — Unavailable; the unread original, cited as open -->
 
-# THEORY-1514: Goligher and colleagues hold that mechanical ventilation harms the diaphragm at both ends of effort, atrophy following low effort from over-assistance or sedation and injury possibly following excessive effort, so that ventilation and sedation should be titrated to keep an effort close to that of quiet breathing; that support proportional to the patient's own neural drive makes disuse from over-assistance unlikely, since assist falls as diaphragm activity falls; and that trials confirming the benefit of this approach are still required
+# THEORY-1514: Ventilate to quiet-breathing diaphragm effort
 
 ## Source
 

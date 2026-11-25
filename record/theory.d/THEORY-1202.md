@@ -13,7 +13,12 @@ promote_when: >-
   risk. It is refuted if routine inaction goes with no latent anxiety, or
   if the post-disruption reaction is equally strong when the disruption
   has no security meaning.
-title: 'A securitised public keeps its routines by not attending to routine security practices, which keeps an anxiety about the threat latent rather than absent; when the security apparatus itself disrupts those routines the anxiety surfaces, and with it blame of the apparatus'
+title: 'Securitized publics keep threat anxiety latent'
+statement: >-
+  A securitised public keeps its routines by not attending to routine
+  security practices, which keeps an anxiety about the threat latent rather
+  than absent; when the security apparatus itself disrupts those routines
+  the anxiety surfaces, and with it blame of the apparatus
 version: 1
 tags:
 - society-and-governance
@@ -31,7 +36,7 @@ summary: >-
   habituation and low perceived risk were not tested against it.
 ---
 
-# THEORY-1202: A securitised public keeps its routines by not attending to routine security practices, which keeps an anxiety about the threat latent rather than absent; when the security apparatus itself disrupts those routines the anxiety surfaces, and with it blame of the apparatus
+# THEORY-1202: Securitized publics keep threat anxiety latent
 
 ## Source
 

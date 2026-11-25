@@ -13,7 +13,14 @@ promote_when: >-
   is refuted if partner recognition and joint meaning reduce to each
   individual's detection and inference once the coupling is controlled.
   Further illustrative examples cannot settle it.
-title: "When coordination between two autonomous agents and the continuation of their encounter shape each other, the interaction gains an autonomy of its own, a precarious self-sustaining organization that lasts only while both agents stay autonomous; coordinating movement then coordinates sense-making, so some social understanding, such as recognising a partner, is a property of the interaction's dynamics and not of either individual"
+title: 'Interaction can gain autonomy of its own'
+statement: >-
+  When coordination between two autonomous agents and the continuation of
+  their encounter shape each other, the interaction gains an autonomy of its
+  own, a precarious self-sustaining organization that lasts only while both
+  agents stay autonomous; coordinating movement then coordinates
+  sense-making, so some social understanding, such as recognising a partner,
+  is a property of the interaction's dynamics and not of either individual
 version: 1
 tags:
 - embodied-cognition
@@ -37,7 +44,7 @@ summary: >-
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the question this account constrains -->
 <!-- inactive-ok-file: THEORY-069 — Proposed; the coordination-dynamics account named in Connections -->
 
-# THEORY-520: When coordination between two autonomous agents and the continuation of their encounter shape each other, the interaction gains an autonomy of its own, a precarious self-sustaining organization that lasts only while both agents stay autonomous; coordinating movement then coordinates sense-making, so some social understanding, such as recognising a partner, is a property of the interaction's dynamics and not of either individual
+# THEORY-520: Interaction can gain autonomy of its own
 
 ## Source
 

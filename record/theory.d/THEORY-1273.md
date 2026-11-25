@@ -3,7 +3,16 @@ number: 1273
 status: Active
 formerly:
 - THEORY-tmpwystk
-title: 'In a driven chemical system with two stable states and a finite number of molecules, each maintained state is metastable: it is left by fluctuation after a time exponential in system size, set by a barrier in a nonequilibrium quasi-potential that closes at the saddle-node, and the long-run share of time in each state is fixed by the parameters and system size, not by the initial condition; the deterministic rate equation, where the initial condition decides, holds only on times short of that escape time'
+title: 'Bistable chemical states are metastable'
+statement: >-
+  In a driven chemical system with two stable states and a finite number of
+  molecules, each maintained state is metastable: it is left by fluctuation
+  after a time exponential in system size, set by a barrier in a
+  nonequilibrium quasi-potential that closes at the saddle-node, and the
+  long-run share of time in each state is fixed by the parameters and system
+  size, not by the initial condition; the deterministic rate equation, where
+  the initial condition decides, holds only on times short of that escape
+  time
 version: 3
 history:
 - version: 2
@@ -43,7 +52,7 @@ bounds:
 - CLAIM-521
 ---
 
-# THEORY-1273: In a driven chemical system with two stable states and a finite number of molecules, each maintained state is metastable: it is left by fluctuation after a time exponential in system size, set by a barrier in a nonequilibrium quasi-potential that closes at the saddle-node, and the long-run share of time in each state is fixed by the parameters and system size, not by the initial condition; the deterministic rate equation, where the initial condition decides, holds only on times short of that escape time
+# THEORY-1273: Bistable chemical states are metastable
 
 ## Source
 

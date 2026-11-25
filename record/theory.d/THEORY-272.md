@@ -3,7 +3,14 @@ number: 272
 status: Active
 formerly:
 - THEORY-tmplenr2
-title: 'In Hopfield''s 1982 simulations at N = 30 and 100, a network of threshold units with symmetric Hebbian couplings acts as a content-addressable memory whose stored random patterns are attractors: recall degrades severely near 0.15N patterns, a pattern placed 10 bits from another at N = 100 often fuses with it, and at 25-fold overload no stored pattern stays stable'
+title: 'Hopfield nets recall up to about 0.15N'
+statement: >-
+  In Hopfield's 1982 simulations at N = 30 and 100, a network of threshold
+  units with symmetric Hebbian couplings acts as a content-addressable
+  memory whose stored random patterns are attractors: recall degrades
+  severely near 0.15N patterns, a pattern placed 10 bits from another at N =
+  100 often fuses with it, and at 25-fold overload no stored pattern stays
+  stable
 version: 4
 history:
 - version: 2
@@ -52,7 +59,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-800 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
 <!-- inactive-ok-file: CLAIM-179 CLAIM-180 — Proposed; open, and cited as open: the theses of the nucleating-argument line are under test, not settled -->
 
-# THEORY-272: In Hopfield's 1982 simulations at N = 30 and 100, a network of threshold units with symmetric Hebbian couplings acts as a content-addressable memory whose stored random patterns are attractors: recall degrades severely near 0.15N patterns, a pattern placed 10 bits from another at N = 100 often fuses with it, and at 25-fold overload no stored pattern stays stable
+# THEORY-272: Hopfield nets recall up to about 0.15N
 
 ## Source
 

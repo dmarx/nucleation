@@ -7,7 +7,14 @@ promote_when: >-
   existential is a pair of a witness and a realizer of its instance and a
   realizer of a true atomic sentence is 0, and the soundness theorem for
   Heyting arithmetic. A second survey repeating van Oosten does not count.
-title: 'In Kleene''s 1945 realizability a realizer of an arithmetical sentence is information about how it holds, not a proof of it: for an existential, a witness paired with a realizer of its instance; for an implication or universal, a program; for a true atomic sentence, the number 0; the relation is classical and every theorem of Heyting arithmetic has a realizer, and the typed, proof-relevant form came later, with Kreisel'
+title: 'Realizers carry information, not proofs'
+statement: >-
+  In Kleene's 1945 realizability a realizer of an arithmetical sentence is
+  information about how it holds, not a proof of it: for an existential, a
+  witness paired with a realizer of its instance; for an implication or
+  universal, a program; for a true atomic sentence, the number 0; the
+  relation is classical and every theorem of Heyting arithmetic has a
+  realizer, and the typed, proof-relevant form came later, with Kreisel
 version: 1
 tags:
 - logic
@@ -29,7 +36,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-949 LIT-tmp9cdlq ARG-tmp68y3c — Proposed or Unavailable; the claim this bears on, the work it reports, and the argument that weighs it -->
 
-# THEORY-tmpqj2d4: In Kleene's 1945 realizability a realizer of an arithmetical sentence is information about how it holds, not a proof of it: for an existential, a witness paired with a realizer of its instance; for an implication or universal, a program; for a true atomic sentence, the number 0; the relation is classical and every theorem of Heyting arithmetic has a realizer, and the typed, proof-relevant form came later, with Kreisel
+# THEORY-tmpqj2d4: Realizers carry information, not proofs
 
 ## Source
 

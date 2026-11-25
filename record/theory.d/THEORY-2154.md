@@ -3,7 +3,17 @@ number: 2154
 status: Proposed
 formerly:
 - THEORY-tmpd7a4j
-title: 'Transtrum and colleagues (2015) characterize a sloppy model by Fisher eigenvalues roughly evenly spaced in log over many decades with no boundary between stiff and sloppy combinations, and, since those eigenvalues change under reparametrization, locate the invariant content in a bounded model manifold whose geodesic widths fall exponentially, the hyperribbon, approximated by the square roots of the eigenvalues in dimensionless parameters, argued from interpolation for one independent variable, and read through parameter-space compression as why coarse-grained theories predict well'
+title: 'Sloppiness is a hyperribbon model manifold'
+statement: >-
+  Transtrum and colleagues (2015) characterize a sloppy model by Fisher
+  eigenvalues roughly evenly spaced in log over many decades with no
+  boundary between stiff and sloppy combinations, and, since those
+  eigenvalues change under reparametrization, locate the invariant content
+  in a bounded model manifold whose geodesic widths fall exponentially, the
+  hyperribbon, approximated by the square roots of the eigenvalues in
+  dimensionless parameters, argued from interpolation for one independent
+  variable, and read through parameter-space compression as why
+  coarse-grained theories predict well
 promote_when: >-
   A check of the review's statements as quoted against the published
   Perspective (J. Chem. Phys. 143, 010901), since arXiv v1 was read; and an
@@ -33,7 +43,7 @@ summary: >-
   not its weights.
 ---
 
-# THEORY-2154: Transtrum and colleagues (2015) characterize a sloppy model by Fisher eigenvalues roughly evenly spaced in log over many decades with no boundary between stiff and sloppy combinations, and, since those eigenvalues change under reparametrization, locate the invariant content in a bounded model manifold whose geodesic widths fall exponentially, the hyperribbon, approximated by the square roots of the eigenvalues in dimensionless parameters, argued from interpolation for one independent variable, and read through parameter-space compression as why coarse-grained theories predict well
+# THEORY-2154: Sloppiness is a hyperribbon model manifold
 
 ## Source
 

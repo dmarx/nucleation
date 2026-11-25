@@ -10,7 +10,13 @@ promote_when: >-
   shows the response between two neurons changing with the state of a
   third neuron on an indirect, nonlinear path, gating or changing sign or
   kernel shape, while the direct synapses stay unchanged.
-title: "Randi and Leifer show that in a network of graded neurons with a few nonlinear edges, the measured response between two neurons is a state- and time-dependent nonequilibrium Green's function that differs from the connectivity, so one nonlinear hub synapse can gate, or change the sign and kernel of, effective connections elsewhere"
+title: 'One nonlinear synapse can gate effective links'
+statement: >-
+  Randi and Leifer show that in a network of graded neurons with a few
+  nonlinear edges, the measured response between two neurons is a state- and
+  time-dependent nonequilibrium Green's function that differs from the
+  connectivity, so one nonlinear hub synapse can gate, or change the sign
+  and kernel of, effective connections elsewhere
 version: 1
 tags:
 - neuroscience
@@ -30,7 +36,7 @@ summary: >-
   the owner's call.
 ---
 
-# THEORY-1887: Randi and Leifer show that in a network of graded neurons with a few nonlinear edges, the measured response between two neurons is a state- and time-dependent nonequilibrium Green's function that differs from the connectivity, so one nonlinear hub synapse can gate, or change the sign and kernel of, effective connections elsewhere
+# THEORY-1887: One nonlinear synapse can gate effective links
 
 ## Source
 

@@ -3,7 +3,14 @@ number: 1714
 status: Proposed
 formerly:
 - THEORY-tmpxjies
-title: 'Cuny and Poelman review evidence that koinobiont parasitoids regulate the development and feeding of the herbivores they grow inside, usually arresting but sometimes prolonging host growth and in some species switching with conditions, through polydnaviruses, venom, teratocytes and larval secretions that act on the host''s own hormones, and that these changes in the host alter how plants respond to herbivory.'
+title: 'Parasitoids reset host growth via host hormones'
+statement: >-
+  Cuny and Poelman review evidence that koinobiont parasitoids regulate the
+  development and feeding of the herbivores they grow inside, usually
+  arresting but sometimes prolonging host growth and in some species
+  switching with conditions, through polydnaviruses, venom, teratocytes and
+  larval secretions that act on the host's own hormones, and that these
+  changes in the host alter how plants respond to herbivory.
 version: 1
 source:
 - LIT-2464
@@ -31,7 +38,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-1756 — Skimmed; the reading filed from the same exchange -->
 
-# THEORY-1714: Cuny and Poelman review evidence that koinobiont parasitoids regulate the development and feeding of the herbivores they grow inside, usually arresting but sometimes prolonging host growth and in some species switching with conditions, through polydnaviruses, venom, teratocytes and larval secretions that act on the host's own hormones, and that these changes in the host alter how plants respond to herbivory.
+# THEORY-1714: Parasitoids reset host growth via host hormones
 
 ## The account
 

@@ -16,7 +16,11 @@ promote_when: >-
   undermining persists when time pressure is removed and earnings are
   equated. What cannot settle it: re-codings of the same meta-analytic
   database, since both sides have shown that the coding decides the result.
-title: 'Whether an expected tangible reward lowers or raises later intrinsic motivation depends on how tightly its stated contingency ties it to performance and success'
+title: 'Reward''s effect hinges on its stated contingency'
+statement: >-
+  Whether an expected tangible reward lowers or raises later intrinsic
+  motivation depends on how tightly its stated contingency ties it to
+  performance and success
 version: 1
 tags:
 - motivation
@@ -42,7 +46,7 @@ bears_on:
 <!-- inactive-ok-file: LIT-754 — Unavailable: Eisenberger, Pierce & Cameron (1999) is unread; named as the source of the control-group comparison, described from LIT-562's account -->
 <!-- inactive-ok-file: THEORY-049 — Proposed; the rival account -->
 
-# THEORY-154: Whether an expected tangible reward lowers or raises later intrinsic motivation depends on how tightly its stated contingency ties it to performance and success
+# THEORY-154: Reward's effect hinges on its stated contingency
 
 ## Source
 

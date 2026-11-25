@@ -3,7 +3,14 @@ number: 1579
 status: Active
 formerly:
 - THEORY-tmp7vt9y
-title: 'Syropoulos et al. report that felt responsibility to future generations is endorsed by most people in Europe and the US, is nearly unrelated to ideology and demographics and half as tied to conservatism as responsibility for climate, predicts self-reported proenvironmentalism, and was raised a little by each of five brief interventions, most by a letter to a person born today and least by a longtermist text'
+title: 'Most feel responsible to future generations'
+statement: >-
+  Syropoulos et al. report that felt responsibility to future generations is
+  endorsed by most people in Europe and the US, is nearly unrelated to
+  ideology and demographics and half as tied to conservatism as
+  responsibility for climate, predicts self-reported proenvironmentalism,
+  and was raised a little by each of five brief interventions, most by a
+  letter to a person born today and least by a longtermist text
 version: 2
 history:
 - version: 1
@@ -35,7 +42,7 @@ bears_on:
 - QUESTION-299
 ---
 
-# THEORY-1579: Syropoulos et al. report that felt responsibility to future generations is endorsed by most people in Europe and the US, is nearly unrelated to ideology and demographics and half as tied to conservatism as responsibility for climate, predicts self-reported proenvironmentalism, and was raised a little by each of five brief interventions, most by a letter to a person born today and least by a longtermist text
+# THEORY-1579: Most feel responsible to future generations
 
 ## The account
 

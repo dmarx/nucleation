@@ -16,7 +16,16 @@ promote_when: >-
   that redundancy is what objectivity means. A state with a high plateau
   whose fragments do not each determine the pointer outcome, if it is the
   generic case for decoherence dynamics, would defeat the identification.
-title: 'In models of decoherence, the information a small fraction of the environment holds about a system rises steeply to a plateau at the system''s entropy H_S, so many disjoint fragments each carry nearly all of it, and this redundancy is high only for the pointer observable; Zurek identifies it with objective existence, many observers learning the pointer state independently and without disturbing the system, though the paper argues and does not prove that a plateau in mutual information gives each observer the same record'
+title: 'Redundant pointer records mark objectivity'
+statement: >-
+  In models of decoherence, the information a small fraction of the
+  environment holds about a system rises steeply to a plateau at the
+  system's entropy H_S, so many disjoint fragments each carry nearly all of
+  it, and this redundancy is high only for the pointer observable; Zurek
+  identifies it with objective existence, many observers learning the
+  pointer state independently and without disturbing the system, though the
+  paper argues and does not prove that a plateau in mutual information gives
+  each observer the same record
 version: 1
 tags:
 - quantum-foundations
@@ -37,7 +46,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-621 — Proposed or new; neighbouring readings, cited as open -->
 
-# THEORY-1055: In models of decoherence, the information a small fraction of the environment holds about a system rises steeply to a plateau at the system's entropy H_S, so many disjoint fragments each carry nearly all of it, and this redundancy is high only for the pointer observable; Zurek identifies it with objective existence, many observers learning the pointer state independently and without disturbing the system, though the paper argues and does not prove that a plateau in mutual information gives each observer the same record
+# THEORY-1055: Redundant pointer records mark objectivity
 
 ## Source
 

@@ -14,7 +14,12 @@ promote_when: >-
   whose patching from one form into the other restores accuracy. What
   cannot settle it: more function-vector results of the same kind, or
   accuracy matched across the two forms, which the claim already allows.
-title: 'A task given by demonstrations and the same task given by an instruction are carried in a language model by mostly different attention heads, so function vectors find no common task representation across the two presentations'
+title: 'Demos and instructions use different heads'
+statement: >-
+  A task given by demonstrations and the same task given by an instruction
+  are carried in a language model by mostly different attention heads, so
+  function vectors find no common task representation across the two
+  presentations
 version: 2
 history:
 - version: 2
@@ -44,7 +49,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: CLAIM-029 THEORY-251 — Proposed; claims and theories this account bears on, open -->
 
-# THEORY-264: A task given by demonstrations and the same task given by an instruction are carried in a language model by mostly different attention heads, so function vectors find no common task representation across the two presentations
+# THEORY-264: Demos and instructions use different heads
 
 ## Source
 

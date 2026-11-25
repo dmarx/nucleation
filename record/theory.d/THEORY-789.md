@@ -27,8 +27,13 @@ promote_when: 'A system whose relevant variables were not known beforehand, in t
 
 # The claim. Repeat it as the body's `# THEORY-789:` heading; the lint checks
 # that the two agree.
-title: 'The block coarse-graining that maximizes mutual information with the system beyond a buffer picks out the renormalization-group-relevant variables in general, so those variables can be found from samples by information alone, without being known beforehand, as Koch-Janusz and Ringel propose'
-
+title: 'Max-information coarse-graining finds RG variables'
+statement: >-
+  The block coarse-graining that maximizes mutual information with the
+  system beyond a buffer picks out the renormalization-group-relevant
+  variables in general, so those variables can be found from samples by
+  information alone, without being known beforehand, as Koch-Janusz and
+  Ringel propose
 version: 1
 
 # One or more topics from luria.yaml, primary first — the same table the
@@ -61,7 +66,7 @@ answers:
 ---
 
 
-# THEORY-789: The block coarse-graining that maximizes mutual information with the system beyond a buffer picks out the renormalization-group-relevant variables in general, so those variables can be found from samples by information alone, without being known beforehand, as Koch-Janusz and Ringel propose
+# THEORY-789: Max-information coarse-graining finds RG variables
 
 ## Source
 

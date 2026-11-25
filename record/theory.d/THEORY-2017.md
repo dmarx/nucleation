@@ -3,7 +3,14 @@ number: 2017
 status: Active
 formerly:
 - THEORY-tmpai35t
-title: 'Carnap (1950) holds that an explication replaces an inexact concept by an exact one and is judged as more or less satisfactory, not right or wrong, after the concept to be explicated has been made practically clear by examples of uses intended and not intended; an adequate explicatum is similar enough to it (considerable differences permitted), exact, fruitful for formulating general statements, and as simple as those three permit'
+title: 'Explications are judged satisfactory, not true'
+statement: >-
+  Carnap (1950) holds that an explication replaces an inexact concept by an
+  exact one and is judged as more or less satisfactory, not right or wrong,
+  after the concept to be explicated has been made practically clear by
+  examples of uses intended and not intended; an adequate explicatum is
+  similar enough to it (considerable differences permitted), exact, fruitful
+  for formulating general statements, and as simple as those three permit
 version: 2
 history:
 - version: 1
@@ -41,7 +48,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1797 — Proposed; the decision this reading grounds and the secondary account it backs -->
 
-# THEORY-2017: Carnap (1950) holds that an explication replaces an inexact concept by an exact one and is judged as more or less satisfactory, not right or wrong, after the concept to be explicated has been made practically clear by examples of uses intended and not intended; an adequate explicatum is similar enough to it (considerable differences permitted), exact, fruitful for formulating general statements, and as simple as those three permit
+# THEORY-2017: Explications are judged satisfactory, not true
 
 ## The account
 

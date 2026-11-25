@@ -3,7 +3,14 @@ number: 2294
 status: Active
 formerly:
 - THEORY-tmpm653d
-title: 'Rogers, Suriar, Lueder, Deo and Sudhakar present Google''s blameless postmortem as aimed at what failed and not who, with action items that improve systems rather than people, kept blameless by leaders who recast blameful questions, to managers and from executives, as questions about process, while questions about priorities set above the team are left to reviews of repeated incidents'
+title: 'Leaders keep postmortems blameless'
+statement: >-
+  Rogers, Suriar, Lueder, Deo and Sudhakar present Google's blameless
+  postmortem as aimed at what failed and not who, with action items that
+  improve systems rather than people, kept blameless by leaders who recast
+  blameful questions, to managers and from executives, as questions about
+  process, while questions about priorities set above the team are left to
+  reviews of repeated incidents
 version: 2
 history:
 - version: 2
@@ -51,7 +58,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-742 CLAIM-750 THEORY-2000 — Proposed; the claims this corroborates and the reading of the earlier chapter -->
 <!-- inactive-ok-file: CLAIM-1062 CASE-418 — new; the objection and the specimen filed from the reading -->
 
-# THEORY-2294: Rogers, Suriar, Lueder, Deo and Sudhakar present Google's blameless postmortem as aimed at what failed and not who, with action items that improve systems rather than people, kept blameless by leaders who recast blameful questions, to managers and from executives, as questions about process, while questions about priorities set above the team are left to reviews of repeated incidents
+# THEORY-2294: Leaders keep postmortems blameless
 
 Rogers, Suriar, Lueder, Deo and Sudhakar (2018), [LIT-3187](../literature.d/LIT-3187.md), read in
 [NOTE-2391](../notes.d/NOTE-2391.md).

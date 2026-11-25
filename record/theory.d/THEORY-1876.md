@@ -10,7 +10,14 @@ promote_when: >-
   simulation decoding k bound pairs against m candidate items at an error
   rate q would do), and the noisy decoded vector is shown to need, and to
   be restored by, a nearest-item clean-up.
-title: 'Plate represents compositional structure in fixed-width distributed vectors by binding with circular convolution, superposing by addition and decoding with circular correlation, an approximate inverse of convolution whose output is a noisy version of the bound item that a separate item memory must clean up; for independent random vectors the number of pairs a trace can hold grows about linearly with the dimension'
+title: 'Circular convolution binds holographic vectors'
+statement: >-
+  Plate represents compositional structure in fixed-width distributed
+  vectors by binding with circular convolution, superposing by addition and
+  decoding with circular correlation, an approximate inverse of convolution
+  whose output is a noisy version of the bound item that a separate item
+  memory must clean up; for independent random vectors the number of pairs a
+  trace can hold grows about linearly with the dimension
 version: 1
 tags:
 - representation-learning
@@ -32,7 +39,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-182 — a Proposed claim, cited as an analogy or as having no bearing -->
 
-# THEORY-1876: Plate represents compositional structure in fixed-width distributed vectors by binding with circular convolution, superposing by addition and decoding with circular correlation, an approximate inverse of convolution whose output is a noisy version of the bound item that a separate item memory must clean up; for independent random vectors the number of pairs a trace can hold grows about linearly with the dimension
+# THEORY-1876: Circular convolution binds holographic vectors
 
 Plate (1995), [LIT-2644](../literature.d/LIT-2644.md); read in [NOTE-1959](../notes.d/NOTE-1959.md).
 

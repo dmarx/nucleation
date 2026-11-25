@@ -3,7 +3,15 @@ number: 1861
 status: Proposed
 formerly:
 - THEORY-tmpww16o
-title: 'Illich holds that industrial tools used to replace labour end by enslaving their users, that people need tools to work with rather than tools that work for them, that conviviality, individual freedom realized in personal interdependence, is an intrinsic ethical value, and that radical monopoly arises when one industrial process takes exclusive control of a pressing need and excludes non-industrial activity, as motor traffic curtails the right to walk'
+title: 'Tools replacing labour enslave their users'
+statement: >-
+  Illich holds that industrial tools used to replace labour end by enslaving
+  their users, that people need tools to work with rather than tools that
+  work for them, that conviviality, individual freedom realized in personal
+  interdependence, is an intrinsic ethical value, and that radical monopoly
+  arises when one industrial process takes exclusive control of a pressing
+  need and excludes non-industrial activity, as motor traffic curtails the
+  right to walk
 version: 1
 source:
 - LIT-2558
@@ -34,7 +42,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-677 CLAIM-682 THEORY-1862 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: NOTE-1921 — filed from the readings of 2026-11-13, Skimmed; Illich, a two-page excerpt -->
 
-# THEORY-1861: Illich holds that industrial tools used to replace labour end by enslaving their users, that people need tools to work with rather than tools that work for them, that conviviality, individual freedom realized in personal interdependence, is an intrinsic ethical value, and that radical monopoly arises when one industrial process takes exclusive control of a pressing need and excludes non-industrial activity, as motor traffic curtails the right to walk
+# THEORY-1861: Tools replacing labour enslave their users
 
 ## The account
 

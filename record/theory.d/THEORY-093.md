@@ -27,7 +27,13 @@ promote_when: >-
   and so are what every theory predicts; the effect of anaesthetics on
   plants; and more arguments from the definition of consciousness as
   ownership.
-title: "A content of mind is conscious when a continuous flow of homeostatic feelings identifies it as the organism's own; the feelings are conscious in themselves and hybrid, partly made of the body state they map, because interoceptive pathways let the body act directly on the neurons that map it"
+title: 'Homeostatic feelings make contents conscious'
+statement: >-
+  A content of mind is conscious when a continuous flow of homeostatic
+  feelings identifies it as the organism's own; the feelings are conscious
+  in themselves and hybrid, partly made of the body state they map, because
+  interoceptive pathways let the body act directly on the neurons that map
+  it
 version: 2
 history:
 - version: 2
@@ -74,7 +80,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-387 — Unavailable; the Damasios' parallel statement, unread, named as what could move this, not leaned on -->
 <!-- inactive-ok-file: NOTE-507 — Skimmed; this account's own reading of its first source, cited for what was covered and how -->
 
-# THEORY-093: A content of mind is conscious when a continuous flow of homeostatic feelings identifies it as the organism's own; the feelings are conscious in themselves and hybrid, partly made of the body state they map, because interoceptive pathways let the body act directly on the neurons that map it
+# THEORY-093: Homeostatic feelings make contents conscious
 
 ## Source
 

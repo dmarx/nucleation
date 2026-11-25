@@ -10,7 +10,14 @@ promote_when: >-
   pursuit, while orofacial taste reactivity to the same reward stays flat
   or falls, replicated outside the originating laboratories. A review,
   however thorough, cannot settle it.
-title: 'Reward has separable components: ''liking'', its hedonic impact, measurable without report by orofacial taste reactivity in humans, apes, monkeys and rodents, and ''wanting'', its incentive salience; brain stimulation and sensitization can raise ''wanting'' without raising ''liking'', so motivation can grow while pleasure stays flat or falls, and ''liking'' reactions can occur without any subjective feeling of pleasure'
+title: 'Wanting can rise without liking'
+statement: >-
+  Reward has separable components: 'liking', its hedonic impact, measurable
+  without report by orofacial taste reactivity in humans, apes, monkeys and
+  rodents, and 'wanting', its incentive salience; brain stimulation and
+  sensitization can raise 'wanting' without raising 'liking', so motivation
+  can grow while pleasure stays flat or falls, and 'liking' reactions can
+  occur without any subjective feeling of pleasure
 version: 3
 history:
 - version: 2
@@ -51,7 +58,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: CLAIM-440 CLAIM-438 — Proposed; the account this reading bears on and the objection filed from it, cited as open -->
 
-# THEORY-893: Reward has separable components: 'liking', its hedonic impact, measurable without report by orofacial taste reactivity in humans, apes, monkeys and rodents, and 'wanting', its incentive salience; brain stimulation and sensitization can raise 'wanting' without raising 'liking', so motivation can grow while pleasure stays flat or falls, and 'liking' reactions can occur without any subjective feeling of pleasure
+# THEORY-893: Wanting can rise without liking
 
 ## Source
 

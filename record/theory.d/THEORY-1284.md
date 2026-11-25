@@ -11,7 +11,12 @@ promote_when: >-
   rigid. Further rereadings of ethnographies chosen because they show
   change cannot settle it. A finding of performance that stays the same
   across many iterations, with no drift, would count against it.
-title: 'Organization is a secondary accomplishment of change: change in organizations is continuous, as actors reweave their webs of beliefs and habits to accommodate new experience, and organization is both the attempt to stabilize that flux and the pattern that emerges from it'
+title: 'Organization is a secondary effect of change'
+statement: >-
+  Organization is a secondary accomplishment of change: change in
+  organizations is continuous, as actors reweave their webs of beliefs and
+  habits to accommodate new experience, and organization is both the attempt
+  to stabilize that flux and the pattern that emerges from it
 version: 1
 tags:
 - social-ontology
@@ -29,7 +34,7 @@ summary: >-
   change it describes is carried by human actors, not agent-free.
 ---
 
-# THEORY-1284: Organization is a secondary accomplishment of change: change in organizations is continuous, as actors reweave their webs of beliefs and habits to accommodate new experience, and organization is both the attempt to stabilize that flux and the pattern that emerges from it
+# THEORY-1284: Organization is a secondary effect of change
 
 ## Source
 

@@ -3,7 +3,13 @@ number: 2064
 status: Proposed
 formerly:
 - THEORY-tmpbsmcq
-title: 'Aryabumi and colleagues find that at a fixed total of 400B tokens, a 470M-parameter language model initialized by pretraining on 200B tokens of code and continued on mostly text scores higher on natural-language reasoning than one trained on text alone, before a final cooldown, and lower after it'
+title: 'Code init helps reasoning until cooldown'
+statement: >-
+  Aryabumi and colleagues find that at a fixed total of 400B tokens, a
+  470M-parameter language model initialized by pretraining on 200B tokens of
+  code and continued on mostly text scores higher on natural-language
+  reasoning than one trained on text alone, before a final cooldown, and
+  lower after it
 version: 1
 source:
 - LIT-2844
@@ -24,7 +30,7 @@ summary: >-
   promote_when is met.
 ---
 
-# THEORY-2064: Aryabumi and colleagues find that at a fixed total of 400B tokens, a 470M-parameter language model initialized by pretraining on 200B tokens of code and continued on mostly text scores higher on natural-language reasoning than one trained on text alone, before a final cooldown, and lower after it
+# THEORY-2064: Code init helps reasoning until cooldown
 
 ## The account
 

@@ -3,7 +3,15 @@ number: 1708
 status: Proposed
 formerly:
 - THEORY-tmpua5s5
-title: 'Burke et al. argue that recommender systems should be evaluated by the outcomes they produce for each stakeholder group (consumers, providers, upstream, downstream, the platform and third parties), with metrics derived from each group''s values and goals, and that the resulting multidimensional scores may be left unaggregated or combined by weights, constraints, Pareto-frontier distance or learned expert orderings, there being no single correct way to quantify the values involved.'
+title: 'Evaluate recommenders per stakeholder outcome'
+statement: >-
+  Burke et al. argue that recommender systems should be evaluated by the
+  outcomes they produce for each stakeholder group (consumers, providers,
+  upstream, downstream, the platform and third parties), with metrics
+  derived from each group's values and goals, and that the resulting
+  multidimensional scores may be left unaggregated or combined by weights,
+  constraints, Pareto-frontier distance or learned expert orderings, there
+  being no single correct way to quantify the values involved.
 version: 1
 source:
 - LIT-2400
@@ -26,7 +34,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-1793 — Skimmed; the reading filed from the same exchange -->
 
-# THEORY-1708: Burke et al. argue that recommender systems should be evaluated by the outcomes they produce for each stakeholder group (consumers, providers, upstream, downstream, the platform and third parties), with metrics derived from each group's values and goals, and that the resulting multidimensional scores may be left unaggregated or combined by weights, constraints, Pareto-frontier distance or learned expert orderings, there being no single correct way to quantify the values involved.
+# THEORY-1708: Evaluate recommenders per stakeholder outcome
 
 ## The account
 

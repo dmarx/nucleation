@@ -3,7 +3,17 @@ number: 712
 status: Active
 formerly:
 - THEORY-tmpt4nh7
-title: "Under any partial information decomposition satisfying the consistency equations, a transfer entropy T_{Y→X} = I(X_{t+1}; Y_t | X_t) is the unique information of the source's past about the target's next state plus the synergy of source and target pasts, which Williams and Beer call state-independent and state-dependent transfer; time-delayed mutual information is the unique part plus redundancy; with the I_min redundancy the state-independent part alone suffices for perfect open-loop control, and a two-source transfer entropy splits into unique, redundant and synergistic transfer"
+title: 'TE is unique plus synergistic information'
+statement: >-
+  Under any partial information decomposition satisfying the consistency
+  equations, a transfer entropy T_{Y→X} = I(X_{t+1}; Y_t | X_t) is the
+  unique information of the source's past about the target's next state plus
+  the synergy of source and target pasts, which Williams and Beer call
+  state-independent and state-dependent transfer; time-delayed mutual
+  information is the unique part plus redundancy; with the I_min redundancy
+  the state-independent part alone suffices for perfect open-loop control,
+  and a two-source transfer entropy splits into unique, redundant and
+  synergistic transfer
 version: 2
 history:
 - version: 2
@@ -26,7 +36,7 @@ summary: >-
 ---
 
 
-# THEORY-712: Under any partial information decomposition satisfying the consistency equations, a transfer entropy T_{Y→X} = I(X_{t+1}; Y_t | X_t) is the unique information of the source's past about the target's next state plus the synergy of source and target pasts, which Williams and Beer call state-independent and state-dependent transfer; time-delayed mutual information is the unique part plus redundancy; with the I_min redundancy the state-independent part alone suffices for perfect open-loop control, and a two-source transfer entropy splits into unique, redundant and synergistic transfer
+# THEORY-712: TE is unique plus synergistic information
 
 ## Source
 

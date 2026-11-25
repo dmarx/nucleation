@@ -3,7 +3,10 @@ number: 24
 status: Rejected
 formerly:
 - THEORY-tmp4dpbp
-title: 'Classical Boolean logic is restored when a presheaf of contextual data acquires a global section or is sheafified'
+title: 'Global sections restore classical Boolean logic'
+statement: >-
+  Classical Boolean logic is restored when a presheaf of contextual data
+  acquires a global section or is sheafified
 version: 2
 history:
 - version: 2
@@ -34,7 +37,7 @@ summary: >-
   itself is untouched.
 ---
 
-# THEORY-024: Classical Boolean logic is restored when a presheaf of contextual data acquires a global section or is sheafified
+# THEORY-024: Global sections restore classical Boolean logic
 
 ## Source
 

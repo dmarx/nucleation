@@ -3,7 +3,11 @@ number: 1790
 status: Proposed
 formerly:
 - THEORY-tmprcmsd
-title: 'Bragg et al. (2025) report that across 57 agents on AstaBench''s 2,400+ problems, scored with standardized date-restricted literature tools and cost accounting, literature understanding is fairly well handled'
+title: 'Agents handle literature understanding fairly well'
+statement: >-
+  Bragg et al. (2025) report that across 57 agents on AstaBench's 2,400+
+  problems, scored with standardized date-restricted literature tools and
+  cost accounting, literature understanding is fairly well handled
 version: 1
 tags:
 - agency
@@ -21,7 +25,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-1870 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
-# THEORY-1790: Bragg et al. (2025) report that across 57 agents on AstaBench's 2,400+ problems, scored with standardized date-restricted literature tools and cost accounting, literature understanding is fairly well handled
+# THEORY-1790: Agents handle literature understanding fairly well
 
 ## The account
 

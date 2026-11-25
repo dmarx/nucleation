@@ -3,7 +3,16 @@ number: 1931
 status: Proposed
 formerly:
 - THEORY-tmpeq8z1
-title: 'The Hong Kong Monetary Authority proposes that agentic AI in banking be governed by authority defined in advance and technically enforced, with human oversight counted only where it is effective: a formal approval step is not oversight when the volume or velocity of actions outruns review, intervention must be designed around detection, decision and stopping time so that it comes before harm becomes irreversible, and where oversight cannot keep pace the agent''s authority, scope or velocity should be reduced'
+title: 'Oversight counts only if it can keep pace'
+statement: >-
+  The Hong Kong Monetary Authority proposes that agentic AI in banking be
+  governed by authority defined in advance and technically enforced, with
+  human oversight counted only where it is effective: a formal approval step
+  is not oversight when the volume or velocity of actions outruns review,
+  intervention must be designed around detection, decision and stopping time
+  so that it comes before harm becomes irreversible, and where oversight
+  cannot keep pace the agent's authority, scope or velocity should be
+  reduced
 version: 2
 history:
 - version: 2
@@ -46,7 +55,7 @@ bears_on:
 <!-- inactive-ok-file: CLAIM-715 CLAIM-730 — Proposed or Unfetched; entries the second reading bears on, cited with their standing -->
 <!-- unresolved-ok-file: THEORY-tmpoi5oo — removed at the reconciliation of 2026-11-18; named for provenance -->
 <!-- inactive-ok-file: CLAIM-705 CLAIM-711 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
-# THEORY-1931: The Hong Kong Monetary Authority proposes that agentic AI in banking be governed by authority defined in advance and technically enforced, with human oversight counted only where it is effective: a formal approval step is not oversight when the volume or velocity of actions outruns review, intervention must be designed around detection, decision and stopping time so that it comes before harm becomes irreversible, and where oversight cannot keep pace the agent's authority, scope or velocity should be reduced
+# THEORY-1931: Oversight counts only if it can keep pace
 
 ## Source
 

@@ -3,7 +3,13 @@ number: 1840
 status: Proposed
 formerly:
 - THEORY-tmp8mi75
-title: 'Postman holds that technological change is a trade-off whose costs and benefits fall unevenly, that each technology carries an ideological bias that reshapes a culture''s terms, that its effects are ecological, vast, often unpredictable and largely irreversible, and that technologies become mythic, accepted as natural and hard to control'
+title: 'Technological change is an uneven trade-off'
+statement: >-
+  Postman holds that technological change is a trade-off whose costs and
+  benefits fall unevenly, that each technology carries an ideological bias
+  that reshapes a culture's terms, that its effects are ecological, vast,
+  often unpredictable and largely irreversible, and that technologies become
+  mythic, accepted as natural and hard to control
 version: 1
 tags:
 - philosophy-of-technology
@@ -24,7 +30,7 @@ corroborates:
 <!-- inactive-ok-file: CLAIM-677 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: NOTE-1936 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Skimmed -->
 
-# THEORY-1840: Postman holds that technological change is a trade-off whose costs and benefits fall unevenly, that each technology carries an ideological bias that reshapes a culture's terms, that its effects are ecological, vast, often unpredictable and largely irreversible, and that technologies become mythic, accepted as natural and hard to control
+# THEORY-1840: Technological change is an uneven trade-off
 
 ## The account
 

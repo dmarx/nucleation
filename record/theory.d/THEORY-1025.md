@@ -3,7 +3,13 @@ number: 1025
 status: Active
 formerly:
 - THEORY-tmpgikxe
-title: 'The inputs causal scrubbing samples for a treeified hypothesis are the unique maximum-entropy distribution, on finite inputs, among those that give the inputs of every interpretation node the joint distribution they have on the data, so whatever the hypothesis does not claim is resampled as independently as the claims allow'
+title: 'Causal scrubbing resamples at maximum entropy'
+statement: >-
+  The inputs causal scrubbing samples for a treeified hypothesis are the
+  unique maximum-entropy distribution, on finite inputs, among those that
+  give the inputs of every interpretation node the joint distribution they
+  have on the data, so whatever the hypothesis does not claim is resampled
+  as independently as the claims allow
 version: 2
 history:
 - version: 1
@@ -48,7 +54,7 @@ bears_on:
 - QUESTION-234
 ---
 
-# THEORY-1025: The inputs causal scrubbing samples for a treeified hypothesis are the unique maximum-entropy distribution, on finite inputs, among those that give the inputs of every interpretation node the joint distribution they have on the data, so whatever the hypothesis does not claim is resampled as independently as the claims allow
+# THEORY-1025: Causal scrubbing resamples at maximum entropy
 
 ## Source
 

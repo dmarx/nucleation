@@ -3,7 +3,13 @@ number: 640
 status: Active
 formerly:
 - THEORY-tmptjbe9
-title: "Measured as mutual 10-nearest-neighbour overlap, competent vision models agree more with one another and better language models agree more with vision models, but the cross-modal score reaches only 0.16 of a possible 1, is the maximum over all layer pairs, and was adopted after a global kernel metric showed only a very weak trend"
+title: 'Cross-modal representation convergence is weak'
+statement: >-
+  Measured as mutual 10-nearest-neighbour overlap, competent vision models
+  agree more with one another and better language models agree more with
+  vision models, but the cross-modal score reaches only 0.16 of a possible
+  1, is the maximum over all layer pairs, and was adopted after a global
+  kernel metric showed only a very weak trend
 version: 1
 tags:
 - representation-learning
@@ -23,7 +29,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-002 — Proposed; the formal reading of the hypothesis and an account of readout agreement, set beside this measurement, not leaned on -->
 
-# THEORY-640: Measured as mutual 10-nearest-neighbour overlap, competent vision models agree more with one another and better language models agree more with vision models, but the cross-modal score reaches only 0.16 of a possible 1, is the maximum over all layer pairs, and was adopted after a global kernel metric showed only a very weak trend
+# THEORY-640: Cross-modal representation convergence is weak
 
 ## Source
 

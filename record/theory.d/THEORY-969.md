@@ -3,7 +3,13 @@ number: 969
 status: Active
 formerly:
 - THEORY-tmp5t37f
-title: 'In hierarchical LDA every document draws all its words from the topics on one root-to-leaf path of a tree drawn from the nested Chinese restaurant process, so the prior is a nested sequence of partitions of the documents, exchangeable in them, and two documents share a topic only by sharing the whole path above it: no document can draw on two sibling subtrees'
+title: 'hLDA documents draw from a single tree path'
+statement: >-
+  In hierarchical LDA every document draws all its words from the topics on
+  one root-to-leaf path of a tree drawn from the nested Chinese restaurant
+  process, so the prior is a nested sequence of partitions of the documents,
+  exchangeable in them, and two documents share a topic only by sharing the
+  whole path above it: no document can draw on two sibling subtrees
 version: 2
 history:
 - version: 1
@@ -40,7 +46,7 @@ bears_on:
 - QUESTION-276
 ---
 
-# THEORY-969: In hierarchical LDA every document draws all its words from the topics on one root-to-leaf path of a tree drawn from the nested Chinese restaurant process, so the prior is a nested sequence of partitions of the documents, exchangeable in them, and two documents share a topic only by sharing the whole path above it: no document can draw on two sibling subtrees
+# THEORY-969: hLDA documents draw from a single tree path
 
 ## Source
 

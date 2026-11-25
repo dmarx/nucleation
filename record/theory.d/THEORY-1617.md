@@ -3,7 +3,13 @@ number: 1617
 status: Active
 formerly:
 - THEORY-tmptv00n
-title: 'Caviola et al. report that laypeople judge adding a very happy person to a world as good as adding a very unhappy one is bad, prefer larger happy populations with averages fixed but less so as numbers grow, reversing at one billion against ten billion, and tend to favour the higher average when average and total conflict'
+title: 'Laypeople weigh happy and unhappy lives equally'
+statement: >-
+  Caviola et al. report that laypeople judge adding a very happy person to a
+  world as good as adding a very unhappy one is bad, prefer larger happy
+  populations with averages fixed but less so as numbers grow, reversing at
+  one billion against ten billion, and tend to favour the higher average
+  when average and total conflict
 version: 2
 history:
 - version: 1
@@ -33,7 +39,7 @@ bears_on:
 - QUESTION-299
 ---
 
-# THEORY-1617: Caviola et al. report that laypeople judge adding a very happy person to a world as good as adding a very unhappy one is bad, prefer larger happy populations with averages fixed but less so as numbers grow, reversing at one billion against ten billion, and tend to favour the higher average when average and total conflict
+# THEORY-1617: Laypeople weigh happy and unhappy lives equally
 
 ## The account
 

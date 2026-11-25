@@ -3,7 +3,13 @@ number: 1918
 status: Proposed
 formerly:
 - THEORY-tmp7zlwf
-title: 'Frey and Schneider argue that Hirschman''s voice divides into affective voice, which seeks to persuade those in power, and effective voice, which binds through transparent processes, and that online platforms make exit and affective voice cheap while effective voice is nearly absent under consolidated control'
+title: 'Platforms cheapen exit, lack effective voice'
+statement: >-
+  Frey and Schneider argue that Hirschman's voice divides into affective
+  voice, which seeks to persuade those in power, and effective voice, which
+  binds through transparent processes, and that online platforms make exit
+  and affective voice cheap while effective voice is nearly absent under
+  consolidated control
 version: 1
 tags:
 - society-and-governance
@@ -19,7 +25,7 @@ corroborates:
 - CLAIM-523
 ---
 <!-- inactive-ok-file: LIT-2685 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
-# THEORY-1918: Frey and Schneider argue that Hirschman's voice divides into affective voice, which seeks to persuade those in power, and effective voice, which binds through transparent processes, and that online platforms make exit and affective voice cheap while effective voice is nearly absent under consolidated control
+# THEORY-1918: Platforms cheapen exit, lack effective voice
 
 ## Source
 

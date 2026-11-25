@@ -3,7 +3,14 @@ number: 191
 status: Active
 formerly:
 - THEORY-tmp7qz7l
-title: 'In four natural odour sources (strawberry, tomato, blueberry and mouse-urine volatiles), the rank order of correlations between compound concentrations has the Betti-curve signature of points near the boundary of a three-dimensional hyperbolic ball, not of any uniform Euclidean cube tried, and human odour-descriptor profiles for 127 odorants have that of a full three-dimensional hyperbolic ball'
+title: 'Odour statistics look hyperbolic, not Euclidean'
+statement: >-
+  In four natural odour sources (strawberry, tomato, blueberry and
+  mouse-urine volatiles), the rank order of correlations between compound
+  concentrations has the Betti-curve signature of points near the boundary
+  of a three-dimensional hyperbolic ball, not of any uniform Euclidean cube
+  tried, and human odour-descriptor profiles for 127 odorants have that of a
+  full three-dimensional hyperbolic ball
 version: 3
 history:
 - version: 2
@@ -48,7 +55,7 @@ bears_on:
 ---
 
 
-# THEORY-191: In four natural odour sources (strawberry, tomato, blueberry and mouse-urine volatiles), the rank order of correlations between compound concentrations has the Betti-curve signature of points near the boundary of a three-dimensional hyperbolic ball, not of any uniform Euclidean cube tried, and human odour-descriptor profiles for 127 odorants have that of a full three-dimensional hyperbolic ball
+# THEORY-191: Odour statistics look hyperbolic, not Euclidean
 
 ## Source
 

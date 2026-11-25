@@ -3,7 +3,16 @@ number: 851
 status: Active
 formerly:
 - THEORY-tmplatcg
-title: 'In Argentina''s four main national newspapers, April 1998 to December 2007, a newspaper''s monthly front-page coverage of the federal government''s corruption scandals was lower in months when it received more government advertising, within newspaper and month and within each newspaper-president pair (about 0.31 of a front page per standard deviation of advertising in the 2010 working paper); the association held for advertising placed through the presidency''s agency and not for autonomous agencies, and not for scandals of non-political actors'
+title: 'Government ads cut Argentine corruption coverage'
+statement: >-
+  In Argentina's four main national newspapers, April 1998 to December 2007,
+  a newspaper's monthly front-page coverage of the federal government's
+  corruption scandals was lower in months when it received more government
+  advertising, within newspaper and month and within each
+  newspaper-president pair (about 0.31 of a front page per standard
+  deviation of advertising in the 2010 working paper); the association held
+  for advertising placed through the presidency's agency and not for
+  autonomous agencies, and not for scandals of non-political actors
 version: 1
 history:
 - version: 1
@@ -31,7 +40,7 @@ summary: >-
   checked here.
 ---
 
-# THEORY-851: In Argentina's four main national newspapers, April 1998 to December 2007, a newspaper's monthly front-page coverage of the federal government's corruption scandals was lower in months when it received more government advertising, within newspaper and month and within each newspaper-president pair (about 0.31 of a front page per standard deviation of advertising in the 2010 working paper); the association held for advertising placed through the presidency's agency and not for autonomous agencies, and not for scandals of non-political actors
+# THEORY-851: Government ads cut Argentine corruption coverage
 
 ## Source
 

@@ -3,7 +3,13 @@ number: 1669
 status: Proposed
 formerly:
 - THEORY-tmpao6ui
-title: 'Dierickx et al. propose that the quality of datasets used for machine learning in journalism be assessed against three principles of journalism ethics, accuracy, fairness and transparency, turned into data-quality checks across collection, cleaning, augmentation and labelling, on the view that trust in AI outputs starts with trust in their data.'
+title: 'Judge journalism ML data by journalism ethics'
+statement: >-
+  Dierickx et al. propose that the quality of datasets used for machine
+  learning in journalism be assessed against three principles of journalism
+  ethics, accuracy, fairness and transparency, turned into data-quality
+  checks across collection, cleaning, augmentation and labelling, on the
+  view that trust in AI outputs starts with trust in their data.
 version: 1
 source:
 - LIT-2367
@@ -27,7 +33,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-1736 — Skimmed; the reading filed from the same exchange -->
 
-# THEORY-1669: Dierickx et al. propose that the quality of datasets used for machine learning in journalism be assessed against three principles of journalism ethics, accuracy, fairness and transparency, turned into data-quality checks across collection, cleaning, augmentation and labelling, on the view that trust in AI outputs starts with trust in their data.
+# THEORY-1669: Judge journalism ML data by journalism ethics
 
 ## The account
 

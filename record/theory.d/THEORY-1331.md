@@ -3,7 +3,13 @@ number: 1331
 status: Active
 formerly:
 - THEORY-tmplookm
-title: 'Deci and Ryan''s General Causality Orientations Scale measures autonomy, control and impersonal orientations as three separately scored and largely independent dispositions, reliable and stable over two months, whose validity rests on correlations with self-report measures in small samples, with behaviour its weakest support'
+title: 'GCOS orientations independent, weakly validated'
+statement: >-
+  Deci and Ryan's General Causality Orientations Scale measures autonomy,
+  control and impersonal orientations as three separately scored and largely
+  independent dispositions, reliable and stable over two months, whose
+  validity rests on correlations with self-report measures in small samples,
+  with behaviour its weakest support
 version: 1
 tags:
 - motivation
@@ -23,7 +29,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-049 THEORY-054 — Proposed; neighbours named in Connections -->
 
-# THEORY-1331: Deci and Ryan's General Causality Orientations Scale measures autonomy, control and impersonal orientations as three separately scored and largely independent dispositions, reliable and stable over two months, whose validity rests on correlations with self-report measures in small samples, with behaviour its weakest support
+# THEORY-1331: GCOS orientations independent, weakly validated
 
 ## Source
 

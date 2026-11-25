@@ -3,7 +3,15 @@ number: 2187
 status: Proposed
 formerly:
 - THEORY-tmpc73s5
-title: 'Martínez-Sánchez, Arranz and Lozano-Durán find that decomposing the predictive information that the volume-averaged interscale energy fluxes at four inertial-range filter widths of a forced isotropic turbulence simulation carry about each other''s futures gives unique terms only from each scale to the next smaller one, with any small-to-large dependence redundant and synergy minor, and read this as directed causality of the forward cascade'
+title: 'Turbulent energy causality runs large to small'
+statement: >-
+  Martínez-Sánchez, Arranz and Lozano-Durán find that decomposing the
+  predictive information that the volume-averaged interscale energy fluxes
+  at four inertial-range filter widths of a forced isotropic turbulence
+  simulation carry about each other's futures gives unique terms only from
+  each scale to the next smaller one, with any small-to-large dependence
+  redundant and synergy minor, and read this as directed causality of the
+  forward cascade
 promote_when: >-
   An independent analysis of a different turbulence dataset, or of local
   rather than volume-averaged fluxes, with lags not chosen to maximize the
@@ -30,7 +38,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-810 ARG-185 ARG-187 — Proposed or new; the claim this reading bears on and the arguments that weigh it -->
 
-# THEORY-2187: Martínez-Sánchez, Arranz and Lozano-Durán find that decomposing the predictive information that the volume-averaged interscale energy fluxes at four inertial-range filter widths of a forced isotropic turbulence simulation carry about each other's futures gives unique terms only from each scale to the next smaller one, with any small-to-large dependence redundant and synergy minor, and read this as directed causality of the forward cascade
+# THEORY-2187: Turbulent energy causality runs large to small
 
 ## Source
 

@@ -15,7 +15,13 @@ promote_when: >-
   does not grow with their overlap. What cannot settle it: Ashby's own
   probability calculations, which establish the type-cases, and the
   qualitative fit to ablation and interference data he offers.
-title: 'Adaptation by trial and error in a large system finishes in a practicable time only if partial adaptations are retained, and retention requires that the system not be fully joined: parts must be separated, at least temporarily, by constancies, and where later learning shares parts with earlier learning it destroys it'
+title: 'Adaptation needs parts separated by constancies'
+statement: >-
+  Adaptation by trial and error in a large system finishes in a practicable
+  time only if partial adaptations are retained, and retention requires that
+  the system not be fully joined: parts must be separated, at least
+  temporarily, by constancies, and where later learning shares parts with
+  earlier learning it destroys it
 version: 1
 tags:
 - complex-systems
@@ -36,7 +42,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-185 CLAIM-176 CLAIM-180 CLAIM-179 — Proposed; the claims this account bears on, open -->
 <!-- inactive-ok-file: LIT-930 — Unavailable; May, named for comparison -->
 
-# THEORY-307: Adaptation by trial and error in a large system finishes in a practicable time only if partial adaptations are retained, and retention requires that the system not be fully joined: parts must be separated, at least temporarily, by constancies, and where later learning shares parts with earlier learning it destroys it
+# THEORY-307: Adaptation needs parts separated by constancies
 
 ## Source
 

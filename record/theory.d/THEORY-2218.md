@@ -3,7 +3,18 @@ number: 2218
 status: Proposed
 formerly:
 - THEORY-tmpam6lh
-title: 'Caliari (2026) shows that a welfare method satisfying Informational Responsiveness (one more choice of x over an indifferent y tips the ranking to x), with neutrality, choice non-negativeness and independence from menus lacking x and y, is exactly a weighted choice-count refinement of Bernheim and Rangel''s Pareto relation and recovers the true preference for all preference-monotonic choice models; in a 145-subject experiment such methods cut expected false positives against subjects'' reported rankings relative to the Pareto relation, while attention-type models, under which choice frequency and preference come apart, lie outside the guarantee'
+title: 'Choice counts refine welfare''s Pareto relation'
+statement: >-
+  Caliari (2026) shows that a welfare method satisfying Informational
+  Responsiveness (one more choice of x over an indifferent y tips the
+  ranking to x), with neutrality, choice non-negativeness and independence
+  from menus lacking x and y, is exactly a weighted choice-count refinement
+  of Bernheim and Rangel's Pareto relation and recovers the true preference
+  for all preference-monotonic choice models; in a 145-subject experiment
+  such methods cut expected false positives against subjects' reported
+  rankings relative to the Pareto relation, while attention-type models,
+  under which choice frequency and preference come apart, lie outside the
+  guarantee
 version: 1
 source:
 - LIT-2363
@@ -32,7 +43,7 @@ summary: >-
   Every welfare method is "implicitly model-based".
 ---
 
-# THEORY-2218: Caliari (2026) shows that a welfare method satisfying Informational Responsiveness (one more choice of x over an indifferent y tips the ranking to x), with neutrality, choice non-negativeness and independence from menus lacking x and y, is exactly a weighted choice-count refinement of Bernheim and Rangel's Pareto relation and recovers the true preference for all preference-monotonic choice models; in a 145-subject experiment such methods cut expected false positives against subjects' reported rankings relative to the Pareto relation, while attention-type models, under which choice frequency and preference come apart, lie outside the guarantee
+# THEORY-2218: Choice counts refine welfare's Pareto relation
 
 ## The account
 

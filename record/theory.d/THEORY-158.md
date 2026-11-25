@@ -3,7 +3,13 @@ number: 158
 status: Active
 formerly:
 - THEORY-tmpnp46m
-title: 'For a Markov process on a finite state space, an observable commutes with the generator exactly when its mean and variance are both conserved in every state, which is exactly when it is constant on each connected component of the transition graph, so a conserved mean alone does not give a symmetry'
+title: 'Conserved mean alone doesn''t give a symmetry'
+statement: >-
+  For a Markov process on a finite state space, an observable commutes with
+  the generator exactly when its mean and variance are both conserved in
+  every state, which is exactly when it is constant on each connected
+  component of the transition graph, so a conserved mean alone does not give
+  a symmetry
 version: 4
 history:
 - version: 2
@@ -60,7 +66,7 @@ bounds:
 ---
 
 
-# THEORY-158: For a Markov process on a finite state space, an observable commutes with the generator exactly when its mean and variance are both conserved in every state, which is exactly when it is constant on each connected component of the transition graph, so a conserved mean alone does not give a symmetry
+# THEORY-158: Conserved mean alone doesn't give a symmetry
 
 ## Source
 

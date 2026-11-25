@@ -3,7 +3,16 @@ number: 1123
 status: Active
 formerly:
 - THEORY-tmp1lvzk
-title: 'In COTA''s formulation of causal abstraction learning as multi-marginal optimal transport, the term meant to impose do-calculus relations between the transport plans of comparable interventions depends only on the plans'' marginals and on normalisers built from them, which the transport constraints fix to the empirical distributions, so it is constant on the feasible set; its weight changes the solution only by rescaling the cost and entropy weights, and the paper''s evidence that the constraints help, a sweep over that weight, cannot separate the two'
+title: 'COTA''s causal term is constant on its feasible set'
+statement: >-
+  In COTA's formulation of causal abstraction learning as multi-marginal
+  optimal transport, the term meant to impose do-calculus relations between
+  the transport plans of comparable interventions depends only on the plans'
+  marginals and on normalisers built from them, which the transport
+  constraints fix to the empirical distributions, so it is constant on the
+  feasible set; its weight changes the solution only by rescaling the cost
+  and entropy weights, and the paper's evidence that the constraints help, a
+  sweep over that weight, cannot separate the two
 version: 1
 tags:
 - causality
@@ -23,7 +32,7 @@ summary: >-
   constraints.
 ---
 
-# THEORY-1123: In COTA's formulation of causal abstraction learning as multi-marginal optimal transport, the term meant to impose do-calculus relations between the transport plans of comparable interventions depends only on the plans' marginals and on normalisers built from them, which the transport constraints fix to the empirical distributions, so it is constant on the feasible set; its weight changes the solution only by rescaling the cost and entropy weights, and the paper's evidence that the constraints help, a sweep over that weight, cannot separate the two
+# THEORY-1123: COTA's causal term is constant on its feasible set
 
 ## Source
 

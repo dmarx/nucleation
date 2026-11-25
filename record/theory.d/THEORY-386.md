@@ -3,7 +3,14 @@ number: 386
 status: Active
 formerly:
 - THEORY-tmpsvwtz
-title: "When a cached interval of width W is kept valid by its source, which pushes a refresh at cost C_vr whenever the value leaves it, and queries fetch the exact value at cost C_qr whenever it is too wide, and the chances of the two per step go as 1/W² and as W, the expected refresh cost is least at W* = (ρK₁/K₂)^(1/3) with ρ = 2C_vr/C_qr, where ρ times the chance of a pushed refresh equals the chance of a fetch"
+title: 'Optimal cached interval width is a cube root'
+statement: >-
+  When a cached interval of width W is kept valid by its source, which
+  pushes a refresh at cost C_vr whenever the value leaves it, and queries
+  fetch the exact value at cost C_qr whenever it is too wide, and the
+  chances of the two per step go as 1/W² and as W, the expected refresh cost
+  is least at W* = (ρK₁/K₂)^(1/3) with ρ = 2C_vr/C_qr, where ρ times the
+  chance of a pushed refresh equals the chance of a fetch
 version: 1
 tags:
 - databases
@@ -24,7 +31,7 @@ bears_on:
 - QUESTION-114
 ---
 
-# THEORY-386: When a cached interval of width W is kept valid by its source, which pushes a refresh at cost C_vr whenever the value leaves it, and queries fetch the exact value at cost C_qr whenever it is too wide, and the chances of the two per step go as 1/W² and as W, the expected refresh cost is least at W* = (ρK₁/K₂)^(1/3) with ρ = 2C_vr/C_qr, where ρ times the chance of a pushed refresh equals the chance of a fetch
+# THEORY-386: Optimal cached interval width is a cube root
 
 ## Source
 

@@ -10,7 +10,12 @@ promote_when: >-
   it would have to separate outcomes that consensus-building or
   bargaining accounts do not. What cannot settle it: further statements
   of the ideal, or cases chosen because they ended well.
-title: 'Micropolitics is the modulation of a relational field toward a maximally inclusive co-patterning of contrasting tendencies, in which each realizes itself without curtailing the others; the co-patterning is aesthetic, an affirmation of discord rather than its resolution'
+title: 'Micropolitics co-patterns discord inclusively'
+statement: >-
+  Micropolitics is the modulation of a relational field toward a maximally
+  inclusive co-patterning of contrasting tendencies, in which each realizes
+  itself without curtailing the others; the co-patterning is aesthetic, an
+  affirmation of discord rather than its resolution
 version: 1
 tags:
 - society-and-governance
@@ -30,7 +35,7 @@ summary: >-
   organizational becoming is constituted by.
 ---
 
-# THEORY-1283: Micropolitics is the modulation of a relational field toward a maximally inclusive co-patterning of contrasting tendencies, in which each realizes itself without curtailing the others; the co-patterning is aesthetic, an affirmation of discord rather than its resolution
+# THEORY-1283: Micropolitics co-patterns discord inclusively
 
 ## Source
 

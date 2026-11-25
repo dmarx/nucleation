@@ -3,7 +3,15 @@ number: 1345
 status: Active
 formerly:
 - THEORY-tmpvfke3
-title: 'In three cross-sectional studies of undergraduates, most of the variance in adult attachment security lay within persons, across relational partners (56–79%, error included), and relationship-specific satisfaction of the needs for autonomy, competence and relatedness predicted relationship-specific security in every relationship tested, also with the relatedness items removed; relatedness was the strongest unique predictor, then autonomy, then competence'
+title: 'Per-tie need satisfaction predicts security'
+statement: >-
+  In three cross-sectional studies of undergraduates, most of the variance
+  in adult attachment security lay within persons, across relational
+  partners (56–79%, error included), and relationship-specific satisfaction
+  of the needs for autonomy, competence and relatedness predicted
+  relationship-specific security in every relationship tested, also with the
+  relatedness items removed; relatedness was the strongest unique predictor,
+  then autonomy, then competence
 version: 2
 history:
 - version: 2
@@ -29,7 +37,7 @@ bears_on:
 - QUESTION-369
 ---
 
-# THEORY-1345: In three cross-sectional studies of undergraduates, most of the variance in adult attachment security lay within persons, across relational partners (56–79%, error included), and relationship-specific satisfaction of the needs for autonomy, competence and relatedness predicted relationship-specific security in every relationship tested, also with the relatedness items removed; relatedness was the strongest unique predictor, then autonomy, then competence
+# THEORY-1345: Per-tie need satisfaction predicts security
 
 ## Source
 

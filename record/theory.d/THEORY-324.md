@@ -3,7 +3,14 @@ number: 324
 status: Active
 formerly:
 - THEORY-tmpxwn52
-title: 'A system adapts by trial and error to an environment whose effect on its essential variables it does not know only if a second feedback, through those variables, changes the parameters of its primary feedback; and if that feedback changes them whenever, and for as long as, an essential variable is outside its limits, every equilibrium the whole can reach is an adapted one'
+title: 'Adaptation needs a second, parameter-changing loop'
+statement: >-
+  A system adapts by trial and error to an environment whose effect on its
+  essential variables it does not know only if a second feedback, through
+  those variables, changes the parameters of its primary feedback; and if
+  that feedback changes them whenever, and for as long as, an essential
+  variable is outside its limits, every equilibrium the whole can reach is
+  an adapted one
 version: 3
 history:
 - version: 2
@@ -48,7 +55,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-307 THEORY-217 THEORY-153 — Proposed; the companion account and the accounts that use Ashby's terms, open -->
 
-# THEORY-324: A system adapts by trial and error to an environment whose effect on its essential variables it does not know only if a second feedback, through those variables, changes the parameters of its primary feedback; and if that feedback changes them whenever, and for as long as, an essential variable is outside its limits, every equilibrium the whole can reach is an adapted one
+# THEORY-324: Adaptation needs a second, parameter-changing loop
 
 ## Source
 

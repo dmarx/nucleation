@@ -12,7 +12,17 @@ promote_when: >-
   schemes exists. Alternatively, a completed randomized trial such as
   TOASST reports on abrupt against gradual withdrawal from
   near-physiologic doses, which would settle or revise the fourth point.
-title: 'Exogenous glucocorticoids at anti-inflammatory doses invariably suppress the HPA axis by negative feedback and prolonged use leads to pituitary hyporesponsiveness and adrenal atrophy; after withdrawal the axis recovers first centrally and then adrenally, over months to years and incompletely in a minority; courses under 3–4 weeks can be stopped without taper, while longer ones are tapered, once the disease is controlled, quickly at high doses and slowly near the physiologic dose, with replacement kept low enough to leave a stimulus for recovery; and no study has compared taper schemes'
+title: 'Glucocorticoids always suppress the HPA axis'
+statement: >-
+  Exogenous glucocorticoids at anti-inflammatory doses invariably suppress
+  the HPA axis by negative feedback and prolonged use leads to pituitary
+  hyporesponsiveness and adrenal atrophy; after withdrawal the axis recovers
+  first centrally and then adrenally, over months to years and incompletely
+  in a minority; courses under 3–4 weeks can be stopped without taper, while
+  longer ones are tapered, once the disease is controlled, quickly at high
+  doses and slowly near the physiologic dose, with replacement kept low
+  enough to leave a stimulus for recovery; and no study has compared taper
+  schemes
 version: 1
 tags:
 - natural-sciences
@@ -29,7 +39,7 @@ summary: >-
   carried, word for word.
 ---
 
-# THEORY-1549: Exogenous glucocorticoids at anti-inflammatory doses invariably suppress the HPA axis by negative feedback and prolonged use leads to pituitary hyporesponsiveness and adrenal atrophy; after withdrawal the axis recovers first centrally and then adrenally, over months to years and incompletely in a minority; courses under 3–4 weeks can be stopped without taper, while longer ones are tapered, once the disease is controlled, quickly at high doses and slowly near the physiologic dose, with replacement kept low enough to leave a stimulus for recovery; and no study has compared taper schemes
+# THEORY-1549: Glucocorticoids always suppress the HPA axis
 
 ## Source
 

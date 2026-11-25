@@ -13,7 +13,16 @@ promote_when: >-
   with a hysteresis loop. It does not need the proposed field experiment
   to have been run, or either mechanism to be shown to operate in a real
   dryland.
-title: 'On Martinez-Garcia and colleagues, dryland vegetation models in which plants only compete over a finite range, and models in which they facilitate nearby and compete farther away, both give the gap–labyrinth–spot sequence along falling rainfall, but the first lose vegetation smoothly and the second collapse abruptly with hysteresis, so the pattern alone does not say which collapse follows; a transplant experiment reading the sign of the net plant interaction under canopy and in bare soil would tell them apart'
+title: 'Vegetation patterns don''t say how collapse comes'
+statement: >-
+  On Martinez-Garcia and colleagues, dryland vegetation models in which
+  plants only compete over a finite range, and models in which they
+  facilitate nearby and compete farther away, both give the
+  gap–labyrinth–spot sequence along falling rainfall, but the first lose
+  vegetation smoothly and the second collapse abruptly with hysteresis, so
+  the pattern alone does not say which collapse follows; a transplant
+  experiment reading the sign of the net plant interaction under canopy and
+  in bare soil would tell them apart
 version: 1
 tags:
 - ecology
@@ -33,7 +42,7 @@ summary: >-
   and only one plant type is treated.
 ---
 
-# THEORY-1831: On Martinez-Garcia and colleagues, dryland vegetation models in which plants only compete over a finite range, and models in which they facilitate nearby and compete farther away, both give the gap–labyrinth–spot sequence along falling rainfall, but the first lose vegetation smoothly and the second collapse abruptly with hysteresis, so the pattern alone does not say which collapse follows; a transplant experiment reading the sign of the net plant interaction under canopy and in bare soil would tell them apart
+# THEORY-1831: Vegetation patterns don't say how collapse comes
 
 ## Source
 

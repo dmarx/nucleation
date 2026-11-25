@@ -10,7 +10,14 @@ promote_when: >-
   from a domain of attraction, and the stable set on which the limiting
   stationary distribution concentrates, as infima of the action functional
   over the relevant paths.
-title: 'Freidlin and Wentzell hold that for a dynamical system under small random perturbations, the behaviour over long times, exit from a domain of attraction and which stable set the stationary distribution concentrates on, is decided by the logarithmic asymptotics of the probabilities of rare events on finite intervals, given by the infimum of an action functional over the relevant paths'
+title: 'Action functionals govern small-noise long times'
+statement: >-
+  Freidlin and Wentzell hold that for a dynamical system under small random
+  perturbations, the behaviour over long times, exit from a domain of
+  attraction and which stable set the stationary distribution concentrates
+  on, is decided by the logarithmic asymptotics of the probabilities of rare
+  events on finite intervals, given by the infimum of an action functional
+  over the relevant paths
 version: 1
 tags:
 - mathematics
@@ -30,7 +37,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-1562 — Skimmed and new; the front-matter reading this account comes from, cited as open -->
 
-# THEORY-1366: Freidlin and Wentzell hold that for a dynamical system under small random perturbations, the behaviour over long times, exit from a domain of attraction and which stable set the stationary distribution concentrates on, is decided by the logarithmic asymptotics of the probabilities of rare events on finite intervals, given by the infimum of an action functional over the relevant paths
+# THEORY-1366: Action functionals govern small-noise long times
 
 ## Source
 

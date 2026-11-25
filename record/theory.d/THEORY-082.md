@@ -3,7 +3,13 @@ number: 82
 status: Active
 formerly:
 - THEORY-tmpe0spv
-title: "Steepest descent is defined only relative to a metric, and Amari's proof that natural-gradient learning is Fisher efficient needs the Fisher information at the optimum to be invertible, the condition whose failure WBIC calls singular; in a multilayer perceptron it fails wherever an output weight is zero"
+title: 'Natural-gradient efficiency needs full-rank Fisher'
+statement: >-
+  Steepest descent is defined only relative to a metric, and Amari's proof
+  that natural-gradient learning is Fisher efficient needs the Fisher
+  information at the optimum to be invertible, the condition whose failure
+  WBIC calls singular; in a multilayer perceptron it fails wherever an
+  output weight is zero
 version: 1
 tags:
 - information-geometry
@@ -33,7 +39,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-354 THEORY-078 — Proposed or Unavailable; named in Connections, nothing here rests on them -->
 <!-- inactive-ok-file: THEORY-2163 THEORY-2164 THEORY-2009 — Proposed readings; the first two filed 2026-11-21 -->
 
-# THEORY-082: Steepest descent is defined only relative to a metric, and Amari's proof that natural-gradient learning is Fisher efficient needs the Fisher information at the optimum to be invertible, the condition whose failure WBIC calls singular; in a multilayer perceptron it fails wherever an output weight is zero
+# THEORY-082: Natural-gradient efficiency needs full-rank Fisher
 
 ## Source
 

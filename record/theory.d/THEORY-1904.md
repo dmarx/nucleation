@@ -13,7 +13,14 @@ promote_when: >-
   It is refuted if, so tuned, added task vectors fall well below the
   specialised models on most task pairs, or negation costs the control
   task about as much as the target.
-title: 'Ilharco et al.: for CLIP, GPT-2 and T5 models fine-tuned from one pretrained start, adding the weight differences that fine-tuning on different tasks produced, scaled by a coefficient tuned on validation data, gives one model close to the specialised models on all of the tasks, and subtracting a task''s difference lowers accuracy on that task with little loss on a control task'
+title: 'Task vectors add and negate task skills'
+statement: >-
+  Ilharco et al.: for CLIP, GPT-2 and T5 models fine-tuned from one
+  pretrained start, adding the weight differences that fine-tuning on
+  different tasks produced, scaled by a coefficient tuned on validation
+  data, gives one model close to the specialised models on all of the tasks,
+  and subtracting a task's difference lowers accuracy on that task with
+  little loss on a control task
 version: 1
 tags:
 - loss-landscapes
@@ -36,7 +43,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-107 THEORY-1892 THEORY-1874 THEORY-1898 THEORY-1872 THEORY-1890 — new tmp codes, or Proposed; this account's source and reading, and accounts that explain or qualify it, named and not leaned on -->
 
-# THEORY-1904: Ilharco et al.: for CLIP, GPT-2 and T5 models fine-tuned from one pretrained start, adding the weight differences that fine-tuning on different tasks produced, scaled by a coefficient tuned on validation data, gives one model close to the specialised models on all of the tasks, and subtracting a task's difference lowers accuracy on that task with little loss on a control task
+# THEORY-1904: Task vectors add and negate task skills
 
 ## Source
 

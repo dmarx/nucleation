@@ -15,7 +15,14 @@ promote_when: >-
   ablation changes predictions unrelated to its key's patterns as much as
   related ones. More maximum-activation patterns or vocabulary projections
   cannot settle it: that is the evidence it already rests on.
-title: 'In transformer language models, each hidden unit of a feed-forward layer acts as a key–value memory, its input weights detecting patterns in the prefix and its output weights promoting the tokens that follow them, and a layer''s output composes many such memories while the residual stream refines the prediction from layer to layer, as Geva, Schuster, Berant and Levy propose'
+title: 'Feed-forward units are key–value memories'
+statement: >-
+  In transformer language models, each hidden unit of a feed-forward layer
+  acts as a key–value memory, its input weights detecting patterns in the
+  prefix and its output weights promoting the tokens that follow them, and a
+  layer's output composes many such memories while the residual stream
+  refines the prediction from layer to layer, as Geva, Schuster, Berant and
+  Levy propose
 version: 2
 history:
 - version: 1
@@ -52,7 +59,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1011 THEORY-802 — Proposed; the storage hypothesis that borrows this reading and the basis question it bears on, cited as open -->
 
-# THEORY-1030: In transformer language models, each hidden unit of a feed-forward layer acts as a key–value memory, its input weights detecting patterns in the prefix and its output weights promoting the tokens that follow them, and a layer's output composes many such memories while the residual stream refines the prediction from layer to layer, as Geva, Schuster, Berant and Levy propose
+# THEORY-1030: Feed-forward units are key–value memories
 
 ## Source
 

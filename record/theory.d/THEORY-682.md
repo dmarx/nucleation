@@ -14,7 +14,15 @@ promote_when: >-
   the model's parameters to growth curves cannot settle it, nor can the
   qualitative match to "fewer motors, longer axons", which holds in the
   model only below a critical motor influx.
-title: "The time-average of a single threshold (Hill) response to a periodic signal is independent of the signal's period for a fixed waveform, so a frequency cannot be read by one sigmoidal stage; two cascaded stages can read it, because the first changes the waveform with period; and a delayed kinesin–dynein signalling loop whose period grows with axon length, read out this way and coupled to protrusion and contraction, can hold an axon at a stable length"
+title: 'Two-stage cascade can read signal frequency'
+statement: >-
+  The time-average of a single threshold (Hill) response to a periodic
+  signal is independent of the signal's period for a fixed waveform, so a
+  frequency cannot be read by one sigmoidal stage; two cascaded stages can
+  read it, because the first changes the waveform with period; and a delayed
+  kinesin–dynein signalling loop whose period grows with axon length, read
+  out this way and coupled to protrusion and contraction, can hold an axon
+  at a stable length
 version: 1
 tags:
 - neuroscience
@@ -33,7 +41,7 @@ summary: >-
   reproduced. A proof of mechanism, not a model fitted to axons.
 ---
 
-# THEORY-682: The time-average of a single threshold (Hill) response to a periodic signal is independent of the signal's period for a fixed waveform, so a frequency cannot be read by one sigmoidal stage; two cascaded stages can read it, because the first changes the waveform with period; and a delayed kinesin–dynein signalling loop whose period grows with axon length, read out this way and coupled to protrusion and contraction, can hold an axon at a stable length
+# THEORY-682: Two-stage cascade can read signal frequency
 
 ## Source
 

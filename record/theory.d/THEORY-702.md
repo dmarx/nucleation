@@ -3,7 +3,17 @@ number: 702
 status: Active
 formerly:
 - THEORY-tmp22xor
-title: "Transfer entropy is the average of a local transfer entropy, the log ratio at each observation of the destination's next-state probability with and without the source given the destination's past, which can be negative where the source misleads; the destination history must be long for it to exclude self-influence routed through the source; and conditioning also on the destination's other causal parents (complete) can differ sharply from conditioning on its past alone (apparent), as in elementary cellular automata, where long-history local transfer entropy picks out gliders and domain walls"
+title: 'Local transfer entropy picks out gliders'
+statement: >-
+  Transfer entropy is the average of a local transfer entropy, the log ratio
+  at each observation of the destination's next-state probability with and
+  without the source given the destination's past, which can be negative
+  where the source misleads; the destination history must be long for it to
+  exclude self-influence routed through the source; and conditioning also on
+  the destination's other causal parents (complete) can differ sharply from
+  conditioning on its past alone (apparent), as in elementary cellular
+  automata, where long-history local transfer entropy picks out gliders and
+  domain walls
 version: 1
 tags:
 - complex-systems
@@ -18,7 +28,7 @@ summary: >-
   local values and rule 18's XOR structure were checked.
 ---
 
-# THEORY-702: Transfer entropy is the average of a local transfer entropy, the log ratio at each observation of the destination's next-state probability with and without the source given the destination's past, which can be negative where the source misleads; the destination history must be long for it to exclude self-influence routed through the source; and conditioning also on the destination's other causal parents (complete) can differ sharply from conditioning on its past alone (apparent), as in elementary cellular automata, where long-history local transfer entropy picks out gliders and domain walls
+# THEORY-702: Local transfer entropy picks out gliders
 
 ## Source
 

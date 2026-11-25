@@ -19,7 +19,10 @@ promote_when: >-
   document named are now met: LIT-372 shows networks that generalise
   with no fall in I(X;T) (ReLU, deep linear) and a network that compresses
   while overfitting (tanh on 30% of the data).
-title: 'Deep networks generalise because the diffusion phase of SGD compresses each layer''s information about the input'
+title: 'SGD diffusion compression explains generalisation'
+statement: >-
+  Deep networks generalise because the diffusion phase of SGD compresses
+  each layer's information about the input
 version: 5
 history:
 - version: 2
@@ -82,7 +85,7 @@ summary: >-
   are not.
 ---
 
-# THEORY-035: Deep networks generalise because the diffusion phase of SGD compresses each layer's information about the input
+# THEORY-035: SGD diffusion compression explains generalisation
 
 ## Source
 

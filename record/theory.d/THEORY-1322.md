@@ -3,7 +3,15 @@ number: 1322
 status: Active
 formerly:
 - THEORY-tmpeqxmj
-title: 'In Belgian adolescents, need frustration measured by the twelve BPNSFS frustration items statistically absorbs most of the association between depressive and eating disorder symptoms: cross-sectionally their latent correlation falls from .50 to a non-significant .18, and in a two-wave latent change model their correlated change falls from .43 to .24; its mediating role is shown in correlated change over the same six months, not in temporal order'
+title: 'Need frustration absorbs depression–eating link'
+statement: >-
+  In Belgian adolescents, need frustration measured by the twelve BPNSFS
+  frustration items statistically absorbs most of the association between
+  depressive and eating disorder symptoms: cross-sectionally their latent
+  correlation falls from .50 to a non-significant .18, and in a two-wave
+  latent change model their correlated change falls from .43 to .24; its
+  mediating role is shown in correlated change over the same six months, not
+  in temporal order
 version: 2
 history:
 - version: 2
@@ -32,7 +40,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-052 THEORY-1311 — Proposed; neighbours cited as open -->
 
-# THEORY-1322: In Belgian adolescents, need frustration measured by the twelve BPNSFS frustration items statistically absorbs most of the association between depressive and eating disorder symptoms: cross-sectionally their latent correlation falls from .50 to a non-significant .18, and in a two-wave latent change model their correlated change falls from .43 to .24; its mediating role is shown in correlated change over the same six months, not in temporal order
+# THEORY-1322: Need frustration absorbs depression–eating link
 
 ## Source
 

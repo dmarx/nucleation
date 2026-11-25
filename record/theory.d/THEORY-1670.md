@@ -3,7 +3,14 @@ number: 1670
 status: Proposed
 formerly:
 - THEORY-tmpaq03n
-title: 'George and Bates review evidence that ion channels and membrane potential regulate cell death, proliferation, polarity, migration and the BMP, Notch, Wnt and Hedgehog pathways in development, propose that calcium oscillations and membrane potential together coordinate cells across a tissue, and state that how bioelectric signals act on development remains unclear.'
+title: 'Ion channels regulate development; how is unclear'
+statement: >-
+  George and Bates review evidence that ion channels and membrane potential
+  regulate cell death, proliferation, polarity, migration and the BMP,
+  Notch, Wnt and Hedgehog pathways in development, propose that calcium
+  oscillations and membrane potential together coordinate cells across a
+  tissue, and state that how bioelectric signals act on development remains
+  unclear.
 version: 1
 source:
 - LIT-2406
@@ -29,7 +36,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-1772 — Skimmed; the reading filed from the same exchange -->
 
-# THEORY-1670: George and Bates review evidence that ion channels and membrane potential regulate cell death, proliferation, polarity, migration and the BMP, Notch, Wnt and Hedgehog pathways in development, propose that calcium oscillations and membrane potential together coordinate cells across a tissue, and state that how bioelectric signals act on development remains unclear.
+# THEORY-1670: Ion channels regulate development; how is unclear
 
 ## The account
 

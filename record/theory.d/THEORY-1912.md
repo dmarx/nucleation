@@ -3,7 +3,13 @@ number: 1912
 status: Proposed
 formerly:
 - THEORY-tmp30k8f
-title: 'Tognazzini and Coates find no agreed account of what blame is, among cognitive, emotional, conative and functional theories, and hold that whether blaming is appropriate depends not only on whether its target is blameworthy but on the blaming interaction and on the blamer, whose standing hypocrisy, complicity in the wrong and meddling can undermine'
+title: 'Blame''s fittingness depends on the blamer too'
+statement: >-
+  Tognazzini and Coates find no agreed account of what blame is, among
+  cognitive, emotional, conative and functional theories, and hold that
+  whether blaming is appropriate depends not only on whether its target is
+  blameworthy but on the blaming interaction and on the blamer, whose
+  standing hypocrisy, complicity in the wrong and meddling can undermine
 version: 1
 tags:
 - ethics
@@ -23,7 +29,7 @@ bears_on:
 - QUESTION-468
 ---
 <!-- inactive-ok-file: CLAIM-708 LIT-2694 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
-# THEORY-1912: Tognazzini and Coates find no agreed account of what blame is, among cognitive, emotional, conative and functional theories, and hold that whether blaming is appropriate depends not only on whether its target is blameworthy but on the blaming interaction and on the blamer, whose standing hypocrisy, complicity in the wrong and meddling can undermine
+# THEORY-1912: Blame's fittingness depends on the blamer too
 
 ## Source
 
