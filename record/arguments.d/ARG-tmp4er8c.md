@@ -15,7 +15,12 @@ date: '2026-11-24'
 line:
 - organizational-normativity
 - organizational-affect
-title: "The sanction-lift analysis of remorse and prudence, carried by analogy to A48's test, shows that whether a corporation keeps honouring a party's claim once honouring it stops paying separates normative from instrumental recognition only with reputation and other benefits held fixed"
+title: 'Sanction-lift test → standing limits optimizing'
+statement: >-
+  The sanction-lift analysis of remorse and prudence, carried by analogy to
+  A48's test, shows that whether a corporation keeps honouring a party's
+  claim once honouring it stops paying separates normative from instrumental
+  recognition only with reputation and other benefits held fixed
 summary: >-
   A48 §1 of the exchange "Memes, Contracts, and Systemic Normativity"
   (ChatGPT, 2026-11-24) offers "what happens when respecting their justified
@@ -29,7 +34,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-1169 CLAIM-431 CLAIM-tmpa61rf — Proposed or Open; the premises, the conclusion and the leads -->
 
-# ARG-tmp4er8c: The sanction-lift analysis of remorse and prudence, carried by analogy to A48's test, shows that whether a corporation keeps honouring a party's claim once honouring it stops paying separates normative from instrumental recognition only with reputation and other benefits held fixed
+# ARG-tmp4er8c: Sanction-lift test → standing limits optimizing
 
 ## The inference
 

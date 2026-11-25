@@ -1,6 +1,13 @@
 ---
 status: Proposed
-title: 'The persistence of race-based power after American abolition, read with a norm''s justification and its support kept apart, shows that a norm''s endurance measures the capacity of those who maintain it and not its adequacy, and so supports the critique of conservatism that treats endurance as a presumption of adequacy; it leaves standing a presumption under uncertainty that is defeasible by justice'
+title: 'Post-abolition race power → endurance not adequacy'
+statement: >-
+  The persistence of race-based power after American abolition, read with a
+  norm's justification and its support kept apart, shows that a norm's
+  endurance measures the capacity of those who maintain it and not its
+  adequacy, and so supports the critique of conservatism that treats
+  endurance as a presumption of adequacy; it leaves standing a presumption
+  under uncertainty that is defeasible by justice
 version: 1
 form: evidence
 grounds:
@@ -32,7 +39,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-tmp3euq0 CLAIM-tmps8ou2 CLAIM-tmplc0vv CLAIM-tmpdzcj6 CLAIM-tmp8l5s9 ARG-tmpqkfwb — Proposed or Open; the case, the claims the argument rests on and concludes, and the objection it answers -->
 
-# ARG-tmpo7ijm: The persistence of race-based power after American abolition, read with a norm's justification and its support kept apart, shows that a norm's endurance measures the capacity of those who maintain it and not its adequacy, and so supports the critique of conservatism that treats endurance as a presumption of adequacy; it leaves standing a presumption under uncertainty that is defeasible by justice
+# ARG-tmpo7ijm: Post-abolition race power → endurance not adequacy
 
 ## The argument
 

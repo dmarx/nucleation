@@ -1,6 +1,11 @@
 ---
 status: Proposed
-title: 'The global Chubby planned outage, one documented specimen, as evidence, shows that realized reliability above a declared guarantee can induce dependence beyond it and that holding reliability to the guarantee can flush that dependence out, but not how often either happens'
+title: 'Chubby outage → over-reliance lowers resilience'
+statement: >-
+  The global Chubby planned outage, one documented specimen, as evidence,
+  shows that realized reliability above a declared guarantee can induce
+  dependence beyond it and that holding reliability to the guarantee can
+  flush that dependence out, but not how often either happens
 version: 1
 form: evidence
 grounds:
@@ -29,7 +34,7 @@ summary: >-
 
 <!-- inactive-ok-file: CASE-tmp3xxqg CLAIM-603 CLAIM-tmpb1wyc — Proposed, Deferred or new; filed or registered with the exchange 'Memes, Contracts, and Systemic Normativity', cited whatever their standing -->
 
-# ARG-tmptccms: The global Chubby planned outage, one documented specimen, as evidence, shows that realized reliability above a declared guarantee can induce dependence beyond it and that holding reliability to the guarantee can flush that dependence out, but not how often either happens
+# ARG-tmptccms: Chubby outage → over-reliance lowers resilience
 
 ## The inference
 

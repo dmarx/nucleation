@@ -1,6 +1,11 @@
 ---
 status: Proposed
-title: 'The graph that asserted an inference nobody made, read as two views of one argument that its grammar made incompatible until a distinction was added, shows by existence that an inquiry can progress by a distinction that restores compatibility between its representations'
+title: 'Unasserted inference graph → inquiry as atlas'
+statement: >-
+  The graph that asserted an inference nobody made, read as two views of one
+  argument that its grammar made incompatible until a distinction was added,
+  shows by existence that an inquiry can progress by a distinction that
+  restores compatibility between its representations
 version: 1
 form: existence
 grounds:
@@ -25,7 +30,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-tmplz7ng CLAIM-181 — Proposed or new; the thesis it concludes and the claim the case illustrates -->
 
-# ARG-tmpmj7av: The graph that asserted an inference nobody made, read as two views of one argument that its grammar made incompatible until a distinction was added, shows by existence that an inquiry can progress by a distinction that restores compatibility between its representations
+# ARG-tmpmj7av: Unasserted inference graph → inquiry as atlas
 
 ## The inference
 

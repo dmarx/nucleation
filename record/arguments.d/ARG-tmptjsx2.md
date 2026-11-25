@@ -1,6 +1,10 @@
 ---
 status: Rejected
-title: 'That a formative specification does not exhaust an organization''s continuing constitution, applied to originalism, shows that originalism is deficient where it assumes specification exhaustiveness'
+title: 'Fidelity with drift → originalism''s exhaustiveness'
+statement: >-
+  That a formative specification does not exhaust an organization's
+  continuing constitution, applied to originalism, shows that originalism is
+  deficient where it assumes specification exhaustiveness
 version: 1
 form: formal-application
 rests_on:
@@ -27,7 +31,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-tmpazcha CLAIM-tmpmp2wh CLAIM-tmpr2qzg LIT-tmp3huft LIT-tmps708j — Proposed, Deferred or Rejected; filed or cited in the filing of the exchange 'Memes, Contracts, and Systemic Normativity', whatever their standing -->
 
-# ARG-tmptjsx2: That a formative specification does not exhaust an organization's continuing constitution, applied to originalism, shows that originalism is deficient where it assumes specification exhaustiveness
+# ARG-tmptjsx2: Fidelity with drift → originalism's exhaustiveness
 
 ## The inference
 

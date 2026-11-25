@@ -1,6 +1,12 @@
 ---
 status: Proposed
-title: 'The Chubby mechanism, by analogy, carries to constitutional conventions where institutions rely on a restraint as consumers rely on a service, but the analogy transfers the dependence and not the remedy, since no one can synthesize breaches of a convention to keep reliance at what law guarantees'
+title: 'Chubby and two-term norm → reliance on restraint'
+statement: >-
+  The Chubby mechanism, by analogy, carries to constitutional conventions
+  where institutions rely on a restraint as consumers rely on a service, but
+  the analogy transfers the dependence and not the remedy, since no one can
+  synthesize breaches of a convention to keep reliance at what law
+  guarantees
 version: 1
 form: analogy
 rests_on:
@@ -30,7 +36,7 @@ summary: >-
 
 <!-- inactive-ok-file: CASE-tmp3xxqg CASE-tmpfh2in CLAIM-tmpb1wyc CLAIM-tmpzas6q — Proposed, Deferred or new; filed or registered with the exchange 'Memes, Contracts, and Systemic Normativity', cited whatever their standing -->
 
-# ARG-tmpmtbby: The Chubby mechanism, by analogy, carries to constitutional conventions where institutions rely on a restraint as consumers rely on a service, but the analogy transfers the dependence and not the remedy, since no one can synthesize breaches of a convention to keep reliance at what law guarantees
+# ARG-tmpmtbby: Chubby and two-term norm → reliance on restraint
 
 ## The inference
 

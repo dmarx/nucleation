@@ -1,6 +1,12 @@
 ---
 status: Proposed
-title: 'Dunfield and Krishnaswami''s survey, as evidence, shows synthesis reading a type off a term as a fact and checking holding a term to a type given as a requirement, which supports reading the two as the two directions of fit, and shows that neither moves the term, so that the update that moves a term to fit lies outside checking, where the survey does not go'
+title: 'Dunfield–Krishnaswami → typed specification'
+statement: >-
+  Dunfield and Krishnaswami's survey, as evidence, shows synthesis reading a
+  type off a term as a fact and checking holding a term to a type given as a
+  requirement, which supports reading the two as the two directions of fit,
+  and shows that neither moves the term, so that the update that moves a
+  term to fit lies outside checking, where the survey does not go
 version: 1
 form: evidence
 grounds:
@@ -31,7 +37,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-949 — Proposed; the claim argued about and the term it is stated in -->
 <!-- inactive-ok-file: THEORY-tmptsz1u CLAIM-tmpugw2q — Proposed; the reading of Dunfield and Krishnaswami (2021) and the entries filed from it, or the entries it bears on -->
 
-# ARG-tmpcpo8g: Dunfield and Krishnaswami's survey, as evidence, shows synthesis reading a type off a term as a fact and checking holding a term to a type given as a requirement, which supports reading the two as the two directions of fit, and shows that neither moves the term, so that the update that moves a term to fit lies outside checking, where the survey does not go
+# ARG-tmpcpo8g: Dunfield–Krishnaswami → typed specification
 
 ## The inference
 

@@ -1,6 +1,13 @@
 ---
 status: Proposed
-title: 'Martin-Löf''s set of the elements such that a property holds, whose elements pair a witness with a proof that it has the property, shows by analogy that a realization passing a specification''s tests is held as an inhabitant carried with the evidence that it passes, and that the refinement a descriptor makes is inhabited with that evidence, the first of the type-theory readings in which the evidence is kept'
+title: 'Martin-Löf''s subsets → typed specification'
+statement: >-
+  Martin-Löf's set of the elements such that a property holds, whose
+  elements pair a witness with a proof that it has the property, shows by
+  analogy that a realization passing a specification's tests is held as an
+  inhabitant carried with the evidence that it passes, and that the
+  refinement a descriptor makes is inhabited with that evidence, the first
+  of the type-theory readings in which the evidence is kept
 version: 1
 form: analogy
 grounds:
@@ -32,7 +39,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-tmp62cvo CLAIM-949 CLAIM-783 TERM-153 TERM-154 ARG-209 ARG-214 — Proposed; the reading, the claims, the terms and the earlier arguments this joins -->
 
-# ARG-tmpneexr: Martin-Löf's set of the elements such that a property holds, whose elements pair a witness with a proof that it has the property, shows by analogy that a realization passing a specification's tests is held as an inhabitant carried with the evidence that it passes, and that the refinement a descriptor makes is inhabited with that evidence, the first of the type-theory readings in which the evidence is kept
+# ARG-tmpneexr: Martin-Löf's subsets → typed specification
 
 ## The inference
 

@@ -1,6 +1,12 @@
 ---
 status: Proposed
-title: "The priority-inversion construction, as an existence case, shows that two arbitration rules alike on the ordinary course can part under contention for a lock, and that the high-priority process's missed deadline is governance-induced only while no other process needs to finish before the work is done"
+title: 'Priority inversion → hidden process contracts'
+statement: >-
+  The priority-inversion construction, as an existence case, shows that two
+  arbitration rules alike on the ordinary course can part under contention
+  for a lock, and that the high-priority process's missed deadline is
+  governance-induced only while no other process needs to finish before the
+  work is done
 version: 1
 form: existence
 grounds:
@@ -29,7 +35,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-tmptpna1 CLAIM-tmp7hqtl CLAIM-tmpersgx CLAIM-tmpkvzcn — Proposed; cited as filed or held beside this entry, whatever its standing -->
 <!-- inactive-ok-file: LIT-tmphhs41 — Deferred; cited as filed or held beside this entry, whatever its standing -->
 
-# ARG-tmp2dpcv: The priority-inversion construction, as an existence case, shows that two arbitration rules alike on the ordinary course can part under contention for a lock, and that the high-priority process's missed deadline is governance-induced only while no other process needs to finish before the work is done
+# ARG-tmp2dpcv: Priority inversion → hidden process contracts
 
 ## The argument
 
