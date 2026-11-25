@@ -33,7 +33,9 @@ pull_requests:
 discussions:
 - https://claude.ai/code/session_01HcmtbsE6G69iL3KUD21o5V
 summary: >-
-  At the owner's word of 2026-11-25 ("before tackling that huge stack of
+  Workshopped at the owner's word the same day: eleven items, each the
+  instruction text that produced an error and a proposed rewording. At the
+  owner's word of 2026-11-25 ("before tackling that huge stack of
   work, let's take a beat for a retro"). It covers the assistant's stretch
   from the manuscript governance-of-possibility ([#768](https://github.com/dmarx/nucleation/issues/768), [#769](https://github.com/dmarx/nucleation/issues/769)) to the
   syntheses rule and its correction ([#809](https://github.com/dmarx/nucleation/issues/809), [#811](https://github.com/dmarx/nucleation/issues/811)). What went well: each of
@@ -165,6 +167,157 @@ this one cites them only where they meet its findings.
 6. **Let a guard see the form.** Consider a report, not a lint, that flags
    a SYNTHESIS whose body is mostly list items, and a manuscript part that
    says "the record holds". Fire it on the record before trusting it.
+
+## Workshop: the wording that produced the errors, and proposed rewordings
+
+At the owner's word of 2026-11-25 ("let's workshop this retro … if wording
+was a problem: let's brainstorm how we should reword instructions. if
+protocols are ambiguous, let's clarify the ambiguity"). Each item gives the
+text as it stands, what it produced, and a proposed text. Nothing here is
+applied; adopting an item is a revision of the instruction it names, each
+in its own pull request with its first application.
+
+### W1. "File the argument" has no test for what is argument
+
+*Now* (CLAUDE.md, the dialectic regime): "While it is on, file the argument
+the exchange develops as you go, without offering first: new entries in the
+argument schemes …".
+
+*Produced*: every argued turn was filed in the argument schemes, including
+a turn about how the record should file itself (QUESTION-tmptcvtu and two
+claims, retired in #811).
+
+*Proposed*: "While it is on, file what the exchange develops, by its
+subject. What it argues about the subject of the inquiry goes in the
+argument schemes (those of ADR-032, and WORKBENCH and LEAD). What it argues
+about the record itself (what to file, where, under which scheme,
+vocabulary, rule or skill) is procedure, and goes in an ADR or a revision of
+one, with the readings in its Alternatives. Claims about the record as an
+object of the inquiry (the line record-as-apparatus) are subject matter,
+not procedure."
+
+### W2. The held list contradicts hands-free filing and itself
+
+*Now*: "Status changes on held entries, ADRs and DPs, `luria.yaml`, CI,
+delegated readings, outside services and merges into main still wait for
+the owner".
+
+*Produced*: a works registration held for a go-ahead (devlog 07:20), and an
+ambiguity W1 makes worse: if procedure goes in ADRs and ADRs wait, nothing
+procedural can be filed hands free.
+
+*Proposed*: "Filing is never held: a Proposed entry of any scheme, ADRs and
+DPs included, and a vocabulary entry added under an existing rule, are
+filed and reported. What waits for the owner is what is hard to undo or
+reaches outside the record: merges into main; outside services and
+delegated readings; adopting an ADR or DP (setting it Active); a status
+change on an entry the owner holds (Active, Current, or in the owner's
+voice); changes to CI and to luria.yaml outside its vocabularies."
+
+### W3. "Several valid readings … file each" applies to procedure too
+
+*Now*: "When a turn admits several valid readings that would be filed
+differently, file each, marked as alternatives".
+
+*Produced*: the two answer-claims of #807, filed as alternatives because
+the owner's question had two readings.
+
+*Proposed*: add "This is for readings of the owner's words about the
+subject. Alternatives of procedure go in the ADR's Alternatives section,
+and the assistant acts on its stated lean."
+
+### W4. "Adds nothing" was read as "says nothing but the list"
+
+*Now* (ADR-084's summary, still standing beside ADR-tmpw306d): syntheses
+"map a scope's components and add nothing"; the scheme was "the scheme of
+accounts".
+
+*Produced*: inventories (#809's occasion).
+
+*Proposed*: a version of ADR-084 that says "asserts nothing its components
+do not; it states how they combine, which is what a synthesis is", and that
+drops "account" and "map" for "synthesis" and "argument". ADR-tmpw306d
+already rules this; ADR-084's own text still teaches the old reading to
+anyone who reads it first.
+
+### W5. The write-manuscript skill still contradicts itself on voices
+
+*Now*: step 5's first bullet (revised in #809) says voices belong in the
+README; its third bullet still says "Voices stay separate. Name the owner's
+theses as the owner's, another assistant's as theirs, and the drafting
+assistant's own additions as its own."
+
+*Proposed*: "Voices stay separate in the record, which keeps them in each
+entry. In the text, name a voice only where the argument turns on whose a
+step is; the README attributes the rest."
+
+### W6. "Account for" is still the read-and-file skill's closing verb
+
+*Now*: step 9b's "Account for it" and step 10's heading "Account for
+everything", where the curation entry is written.
+
+*Proposed*: "Record the audit" and "Close the filing". After ADR-tmpw306d
+the word "account" should not name a list anywhere.
+
+### W7. Membership by "any wording" inflates works
+
+*Now* (ADR-104): a claim is a member when the manuscript "states the
+entry's proposition, in any wording; or" uses it as a step.
+
+*Produced*: 116 members added to governance-of-possibility in one pass,
+49 of them stated as neighbours, parallels or limits rather than used.
+
+*Proposed* (an alternative, since the owner's merge of #781 adopted the
+literal reading): "A claim is a member when the work's argument depends on
+it: it is a step, or it is the work's own thesis. A claim the work states
+to mark a neighbour, a parallel, a limit or a rival is cited, not a
+member."
+
+### W8. Bookkeeping edits are versioned like content edits
+
+*Now*: no rule; ADR-144's precedent was "each with a history note and a
+version bump", and every pass since followed it.
+
+*Produced*: passes that edited 116, 65, 40 and 55 entries, each a version,
+and the version collisions that blocked #781 and #806.
+
+*Proposed*: "Adding a relation or a membership (a `works`, `line` or
+`complements` value) under a decision is not a new version of the entry:
+the decision names the pass and git keeps the edit. A version is a change
+to what the entry says: its title, body, definition or status."
+
+### W9. "A decision goes with a demonstration" says nothing of sweeps
+
+*Now* (CLAUDE.md): "the pull request that proposes an ADR carries its
+first application".
+
+*Produced*: a sweep of 115 syntheses started minutes after the rule
+merged, before the owner had read its demonstrations.
+
+*Proposed*: add "A sweep that applies a new form to many entries starts
+after the owner has had a turn on the first application; it then runs one
+unit (a line, a manuscript) per pull request."
+
+### W10. Nothing says to look for other sessions' work
+
+*Now*: ADR-139 governs workers within one session; nothing covers another
+session editing the same files.
+
+*Produced*: Part A's rewrite set aside after #804's refresh.
+
+*Proposed*: add to CLAUDE.md's "Working": "Before rewriting a manuscript
+file or editing more than a handful of entries, list the open pull
+requests and branches that touch them. If another session's open work
+does, leave those files and say so, or coordinate in that work's pull
+request."
+
+### W11. "One open pull request" against "each unit its own pull request"
+
+*Now*: the regime says "Put them in one open pull request into staging";
+ADR-071 says each logical unit gets its own.
+
+*Proposed*: "Put the regime's filings for one unit of work (one exchange,
+one decision) in one open pull request into staging".
 
 ## The devlog notes it answers
 
