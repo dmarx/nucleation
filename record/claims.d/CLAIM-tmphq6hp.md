@@ -99,7 +99,7 @@ record's term that already holds it).
   model that "its maintenance rule is supplied by the modeler".
 
 ## Note of 2026-11-25: restoration and a copied majority, from the manuscript governance-of-becoming, Article 7
-<!-- inactive-ok-file: CLAIM-946 CASE-362 TERM-148 — Proposed; the executed study, its finding and the term it tested, cited with their standing -->
+<!-- inactive-ok-file: CLAIM-946 TERM-148 — Proposed; the executed study, its finding and the term it tested, cited with their standing -->
 
 The manuscript's Article 7 (§7.6, join J7.4) carries [CLAIM-946](CLAIM-946.md) over to
 this claim's marker. Neither entry cites the other. [CASE-362](../cases.d/CASE-362.md) (Proposed,

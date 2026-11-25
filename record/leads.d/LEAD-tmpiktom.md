@@ -93,7 +93,7 @@ defeater.
 A51 Article 7: "The transport and reconstruction theory does not need to be recreated"; "The memetic and hyperstitional synthesis itself needs careful integration." A51 names no executed memetic study, and the record holds none. Formal precedents exist for three of A4's interventions: seed dispensability, a transient encounter that forms a connector then maintained by what it enables, every single-pathway knockout ending it ([CASE-189](../cases.d/CASE-189.md), Active); formation provenance told apart only by a knockout during formation ([CASE-191](../cases.d/CASE-191.md), Active); carrier against concept, transplanting interpretive rules between populations matched in behaviour ([CASE-148](../cases.d/CASE-148.md), Active). The empirical study stays open; these give its step 4 its constructions. The owner's U32 holds that the series' proposed experiments are "largely already satisfied by prior work" ([CLAIM-tmpyp0ju](../claims.d/CLAIM-tmpyp0ju.md)). The note is the assistant's (Claude, in this session); whether to narrow, lower or close the lead is the owner's call. No status change.
 
 ## Note of 2026-11-25: the first site was run, from the manuscript governance-of-becoming, Article 7
-<!-- inactive-ok-file: CASE-367 CASE-347 CASE-362 CLAIM-946 — Proposed; the executed studies the note above leaves out, cited with their standing -->
+<!-- inactive-ok-file: CASE-367 CASE-347 CLAIM-946 — Proposed; the executed studies the note above leaves out, cited with their standing -->
 
 The note of 2026-11-24 says that A51 names no executed memetic study "and
 the record holds none". That is not consistent with step 5, which names

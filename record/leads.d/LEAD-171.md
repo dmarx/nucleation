@@ -1,10 +1,23 @@
 ---
 number: 171
-status: Open
+status: Done
 formerly:
 - LEAD-tmpurgpv
 title: 'Write a threshold version of the crowding-out model'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-25'
+  note: >-
+    Done, at the owner's go-ahead of 2026-11-25 ("go ahead with the
+    reruns"), whose brief for the recomputation pass of LEAD-tmpc0rqa
+    took in closing the leads whose runs are recorded and meet their
+    own "What would count", as housekeeping and not a change of
+    credence. What would count, a model that shows whether CLAIM-602's
+    limit holds, is held: CLAIM-605 (Active, demonstrated) is the
+    threshold version, with an unstable threshold below which capacity
+    does not regrow (the note of 2026-11-22). The stage is left as it
+    stood.
 stage: idea
 priority: medium
 method:
@@ -50,3 +63,7 @@ capacity does not regrow. It calls this "the capability trap that
 scratch/formal/capability_trap_toy.py. What the lead asks is held;
 whether to mark it Done is the owner's. No status or stage is changed
 here.
+
+## Note of 2026-11-25: closed
+
+Closed as Done in the recomputation pass of LEAD-tmpc0rqa (history, version 2). The lead's model is CLAIM-605, Active, as the audit of 2026-11-22 found; nothing remains of the lead. The note is the assistant's (Claude, in this session).

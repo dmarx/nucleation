@@ -23,7 +23,7 @@ summary: >-
   [TERM-085](../terms.d/TERM-085.md) (finding and carrying out a correction share one deadline).
   A52's answer is [CLAIM-1157](../claims.d/CLAIM-1157.md). Filed in the owner's voice.
 ---
-<!-- inactive-ok-file: CLAIM-1157 CLAIM-1008 CLAIM-1025 CLAIM-1114 CASE-386 — Proposed; the answer and the entries filed with this question on 2026-11-23 -->
+<!-- inactive-ok-file: CLAIM-1157 CLAIM-1008 CLAIM-1025 CASE-386 — Proposed; the answer and the entries filed with this question on 2026-11-23 -->
 
 # QUESTION-520: Since asking a question and answering it are each resource-bounded, do the two compete for related resources, or is the coupling between them, through time as a shared resource, already shown?
 

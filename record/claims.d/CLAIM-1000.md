@@ -63,7 +63,6 @@ summary: >-
   ([CASE-401](../cases.d/CASE-401.md)). The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-1021 — new; the study this claim rests on and its companions, filed in the same batch -->
 
 # CLAIM-1000: In two coupled meaning–influence institutions, each stable alone, with nonnegative channels by which each one's meaning moves the other's evidence or conferral, the symmetric state of the pair is unstable exactly when the round-trip gain exceeds one, which for the built institutions is (θ + σ_E ω)(χ + σ_P ψ) > Δ_E Δ_P with Δ_i each institution's own margin; the meaning rates and the conferral memories cancel, and each institution's inner loop enters only through its margin
 

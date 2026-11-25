@@ -68,7 +68,6 @@ draws_on:
 - THEORY-1088
 - THEORY-1090
 ---
-<!-- inactive-ok-file: CASE-333 CLAIM-903 — filed from LEAD-098's run of 2026-11-22, new -->
 <!-- inactive-ok-file: THEORY-2014 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CASE-225 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-616 — filed from the same exchange, Proposed -->

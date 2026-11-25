@@ -33,7 +33,7 @@ summary: >-
   pursuit?" A54 develops it ([CLAIM-1148](CLAIM-1148.md), [CLAIM-1002](CLAIM-1002.md),
   [CLAIM-1177](CLAIM-1177.md)). Filed in the owner's voice.
 ---
-<!-- inactive-ok-file: CLAIM-1148 CLAIM-1002 CLAIM-1177 CLAIM-1025 CLAIM-1114 CLAIM-185 CLAIM-182 CLAIM-1001 — Proposed; A's development, the gap fill, and the held claims the conjecture is read against -->
+<!-- inactive-ok-file: CLAIM-1148 CLAIM-1002 CLAIM-1177 CLAIM-1025 CLAIM-185 CLAIM-182 CLAIM-1001 — Proposed; A's development, the gap fill, and the held claims the conjecture is read against -->
 
 # CLAIM-1004: Parallel processing may complicate the joint boundary of inquiry and response, and persisted alternative perspectives may serve as conceptual nucleation sites for pursuing inquiry in depth in parallel
 

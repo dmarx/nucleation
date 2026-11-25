@@ -46,7 +46,7 @@ summary: >-
   the hypothesis family; and external restoration that is paid for. Not
   run. The analytic error rates hold only where admission is protected.
 ---
-<!-- inactive-ok-file: CASE-348 CLAIM-928 CASE-332 — new or Proposed; LEAD-140's run and claim, and the run it builds on, cited in the note of 2026-11-22 -->
+<!-- inactive-ok-file: CASE-348 CLAIM-928 — new or Proposed; LEAD-140's run and claim, and the run it builds on, cited in the note of 2026-11-22 -->
 <!-- inactive-ok-file: CASE-255 — filed from the exchange "luria experiment design", Proposed or Deferred; cited in the note of 2026-11-12 -->
 <!-- inactive-ok-file: LIT-2287 — Deferred; cited in the note of 2026-11-12 for what each holds, not as settled -->
 <!-- inactive-ok-file: THEORY-1750 THEORY-1755 THEORY-1766 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->

@@ -189,7 +189,6 @@ But interventions on state do separate them. From c = 0.01 the controlled system
 
 ## Note of 2026-11-22: a run in which an intervention on state separates the arrangements
 
-<!-- inactive-ok-block: CASE-332 — new; the run of LEAD-048 -->
 In [CASE-332](../cases.d/CASE-332.md), a reduced run of [CASE-186](../cases.d/CASE-186.md), zeroing both maintained
 capacities, an intervention on state, separated reciprocal maintenance (0
 of 64 second corrections) from external restoration (64 of 64). Its outside
@@ -220,7 +219,6 @@ with the claim; no edge.
 No status change.
 
 ## Note of 2026-11-24: from the revision of the manuscript governance-of-becoming, Part I
-<!-- inactive-ok-file: CASE-332 — Proposed; cited with their standing -->
 
 Article 1 of the manuscript (§1.5.2) cites [CASE-161](../cases.d/CASE-161.md) as a run of this
 claim's separating move, the intervention on the maintaining mechanism.

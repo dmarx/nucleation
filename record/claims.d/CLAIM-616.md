@@ -51,7 +51,6 @@ summary: >-
   owner's. The qualification is A's, tied to the record by the reader;
   the wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-333 CLAIM-903 — filed from LEAD-098's run of 2026-11-22, new -->
 <!-- inactive-ok-file: CLAIM-163 — Superseded; cited as the earlier objection this claim is distinguished from -->
 <!-- inactive-ok-file: ARG-016 — Proposed; cited as the argument that superseded CLAIM-163 -->
 <!-- inactive-ok-file: CLAIM-545 — Proposed; cited for its domination clause, as A12's qualification parallels it -->

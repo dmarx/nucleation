@@ -26,7 +26,7 @@ summary: >-
   improver and correctability is A's, and adopting it is the owner's
   call.
 ---
-<!-- inactive-ok-file: CASE-348 CLAIM-928 CASE-332 — new or Proposed; LEAD-140's run and claim, and the run it builds on, cited in the note of 2026-11-22 -->
+<!-- inactive-ok-file: CASE-348 CLAIM-928 — new or Proposed; LEAD-140's run and claim, and the run it builds on, cited in the note of 2026-11-22 -->
 <!-- inactive-ok-file: LIT-2287 — Deferred; registered from the same exchange, not read -->
 <!-- inactive-ok-file: LIT-2488 — Deferred; registered from the same exchange, not read -->
 <!-- inactive-ok-file: CASE-255 — filed from the same exchange, Proposed -->

@@ -1,7 +1,15 @@
 ---
 status: Open
 title: 'Recompute, in a session other than the filer''s, the demonstrated claims and executed studies the manuscript governance-of-becoming leans on that only their filers have checked, from their kept scripts where there are scripts and from their stated derivations where there are none, recording each result on its entry'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-25'
+  note: >-
+    blocked_on removed: the owner's go-ahead of 2026-11-25 for the
+    reruns ("go ahead with the reruns") was taken as covering this
+    pass, and the pass was run the same day (the note of 2026-11-25).
+    Status and stage unchanged: one item, CASE-382's fit, remains.
 stage: specified
 method:
 - formal
@@ -25,9 +33,6 @@ advances:
 - CLAIM-741
 - CLAIM-1114
 - CLAIM-1021
-blocked_on: >-
-  The owner's go-ahead for a rerun pass, as the reruns of 2026-11-25 had
-  (the audit of what was left out, 2026-11-25, C2).
 summary: >-
   From the manuscript governance-of-becoming: Article 1's G1.7 ("The
   assistant's constructions and runs cited here as rungs and withdrawals,
@@ -38,7 +43,8 @@ summary: >-
   all. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-265 CASE-268 CLAIM-693 CASE-332 CASE-333 CASE-365 CLAIM-953 CLAIM-646 CLAIM-755 CLAIM-tmp9ia3w CLAIM-tmp7rl3d CASE-382 CLAIM-741 CLAIM-903 CLAIM-672 CASE-367 CASE-362 CASE-347 CASE-410 CLAIM-1114 CASE-225 CLAIM-1021 CLAIM-889 CLAIM-tmpm76n5 LEAD-089 LEAD-181 — Done, Proposed; cited in prose with their standing, whatever it is -->
+<!-- inactive-ok-file: CASE-265 CASE-268 CLAIM-693 CASE-365 CLAIM-953 CLAIM-646 CLAIM-755 CLAIM-tmp9ia3w CLAIM-tmp7rl3d CASE-382 CLAIM-741 CLAIM-672 CASE-367 CASE-347 CASE-410 CASE-225 CLAIM-889 CLAIM-tmpm76n5 LEAD-089 LEAD-181 — Done, Proposed; cited in prose with their standing, whatever it is -->
+<!-- inactive-ok-file: CASE-236 CASE-259 CASE-260 CASE-264 CASE-283 CLAIM-364 CLAIM-tmp6nzs1 CLAIM-1157 CLAIM-1025 CLAIM-1008 CLAIM-1203 — Proposed; the grounds and premises that hold the kept entries back, an added item, and the chain a promotion frees -->
 
 # LEAD-tmpc0rqa: Recompute, in a session other than the filer's, the demonstrated claims and executed studies the manuscript governance-of-becoming leans on that only their filers have checked, from their kept scripts where there are scripts and from their stated derivations where there are none, recording each result on its entry
 
@@ -103,3 +109,16 @@ Open, at stage specified; blocked on the owner's go-ahead. Checked first,
 by grep over leads.d for "rerun" and "recomput": [LEAD-tmp0j28l](LEAD-tmp0j28l.md) is the
 promotion review that reads reruns, and [LEAD-089](LEAD-089.md) and [LEAD-181](LEAD-181.md) hold
 single reruns; none holds this pass.
+
+## Note of 2026-11-25: the pass run
+
+Run on 2026-11-25 by a delegated session other than the filers', at the owner's go-ahead of 2026-11-25 ("go ahead with the reruns"), with the dialectic regime on and "largely hands free" (the devlog note of 2026-11-25 07:20). The lead's `blocked_on` is removed (history, version 2). Every item of the list, and two added by the brief (CLAIM-tmp6nzs1 and CLAIM-tmpv6tw7), carries a dated note of 2026-11-25 saying what was rerun, what matched and what did not; the table is the curation entry of the pass. In short:
+
+- **Reproduced and promoted** under the owner's delegation of 2026-11-24, with every premise Active: CASE-332, CASE-333, CLAIM-903, CASE-362, CLAIM-1114 (now with a kept script and a seed), CLAIM-1021 and CLAIM-tmpv6tw7.
+- **Reproduced, kept Proposed by a Proposed ground or premise**: CLAIM-693 (CASE-265, CASE-268), CLAIM-646 (CASE-236), CLAIM-672 (CASE-259, CASE-260), CLAIM-741 (CASE-283), CLAIM-tmp7rl3d (CLAIM-tmpm76n5), CLAIM-tmp6nzs1 (CASE-264), CLAIM-953 (CASE-365); and CLAIM-755, by its own blocker note, which the rerun confirms.
+- **Reproduced, constructions whose adoption is the owner's**: CASE-265, CASE-268, CASE-225.
+- **Runs reproduce, text misstates one figure or statement**, so kept Proposed with the correction in the note: CASE-365, CASE-367, CASE-347.
+- **Re-derived, one step that does not follow**: CLAIM-tmp9ia3w (step 4; also held by CLAIM-364).
+- **Partly rerun**: CASE-410 (the model byte for byte; the testimony not reread) and CASE-382 (the tests only; the fit needs its data fetched again from OSF, an outside service that waits for the owner).
+
+What remains: CASE-382's fit. CLAIM-889, named above as already meeting the rule, was not in the list and was not touched. CLAIM-1114's promotion frees CLAIM-1157 and, through it, CLAIM-1025, CLAIM-1008 and CLAIM-1203, for the next status step. The note is the assistant's (Claude, in this session).

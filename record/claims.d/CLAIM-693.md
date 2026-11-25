@@ -67,3 +67,7 @@ against coarse maintainers.
 
 That fidelity is one-dimensional. A maintainer can be exact in one
 respect and crude in another, and then each respect has its own rung.
+
+## Note of 2026-11-25: rerun, and what holds it back
+
+Rerun on 2026-11-25 by the assistant, a session other than the filer's, in the recomputation pass of LEAD-tmpc0rqa, at the owner's go-ahead of 2026-11-25 ("go ahead with the reruns"). Both constructions it rests on reproduce (their notes of this date): `scratch/formal/maintainer_ladder_check.py` gives the gaps 0.146, 0.083, 0.033 and 0.010 for τ = 1, 0.3, 0.1 and 0.03, 0.146 for the constant supply and zero for the exact controller, and an independent RK4 integration agrees to four decimals; `scratch/formal/soliton_testbed_checks.py` passes. What holds it back: ADR-057's first criterion. Its grounds CASE-268 and CASE-265 are Proposed constructions, whose adoption is the owner's and is not a matter of recomputation. It goes Active when they do. The note is the assistant's (Claude, in this session). No status change.

@@ -94,3 +94,7 @@ review, doi:10.1016/j.physrep.2013.06.001, which A attributes to Saxena,
 Prasad and Ramaswamy. Crossref gives that DOI to Koseska, Volkov and
 Kurths, "Oscillation quenching mechanisms", registered unread as
 [LIT-2234](../literature.d/LIT-2234.md).
+
+## Note of 2026-11-25: rerun by a session other than the filer's
+
+Rerun on 2026-11-25 by the assistant, a session other than the filer's, in the recomputation pass of LEAD-tmpc0rqa, at the owner's go-ahead of 2026-11-25 ("go ahead with the reruns"). The reader's rerun was not kept, so it was rebuilt from the case's text as `scratch/formal/forced_stuart_landau_check.py` (numpy and scipy), run with python3 -I, at μ = 0.5, u = 1, ω = 1, F = 0.02, Ω = 1.3. The driven amplitude under control is 0.03424 (mean over the last 50 time units of 400), against the predicted 0.03430 and the case's 0.03428. With the drive removed and the control kept, |z| falls to 1.6 × 10⁻¹⁴, the integrator's tolerance (the case's 4 × 10⁻³⁶ is the same decay taken further). With both removed, |z| = 0.7071 = √μ (the case's 0.7075 is short of convergence). And with u = 0 and a drive large enough to lock (F = 0.3), a self-sustained (μ = 0.5) and a damped (μ = −0.5) oscillator both run at the drive's frequency 1.3000, and only the drive's withdrawal parts them (0.7071 against 0). Everything reproduces. No status change: a construction, A's, whose adoption is the owner's call. The note is the assistant's (Claude, in this session).

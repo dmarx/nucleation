@@ -1,10 +1,25 @@
 ---
 number: 110
-status: Open
+status: Done
 formerly:
 - LEAD-tmpiwm65
 title: 'Work the part-whole case through to one of its three results: which relation of part to whole grounds a norm concerning the part, and who bears the obligation'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-25'
+  note: >-
+    Done, at the owner's go-ahead of 2026-11-25 ("go ahead with the
+    reruns"), whose brief for the recomputation pass of LEAD-tmpc0rqa
+    took in closing the leads whose runs are recorded and meet their
+    own "What would count", as housekeeping and not a change of
+    credence. What would count, any of CASE-256's three results, is
+    met under either reading filed by its run of 2026-11-22: CLAIM-960
+    (the second result for the ground, the third for the bearer) and
+    CLAIM-959 (the first, conditional on an associative-obligation
+    principle). Which sense of "whole" the case is about, and so which
+    result answers QUESTION-460, stays the owner's; the closing does
+    not choose. The stage is left as it stood.
 stage: specified
 priority: medium
 method:
@@ -67,3 +82,7 @@ an associative-obligation principle (and so whether to hold [CLAIM-959](../claim
 the usual status/stage calls. [QUESTION-460](../questions.d/QUESTION-460.md)'s prior part, whether a non-agent
 whole can owe anything beyond the functional, is untouched and stays open;
 neither reading needs it settled. The stage is unchanged.
+
+## Note of 2026-11-25: closed
+
+Closed as Done in the recomputation pass of LEAD-tmpc0rqa (history, version 2): the case was worked through to a result under each of its two readings, so the lead's work is done whichever the owner adopts. The choice between CLAIM-960 and CLAIM-959, and QUESTION-460's prior part, stay open. The note is the assistant's (Claude, in this session).

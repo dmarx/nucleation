@@ -63,3 +63,13 @@ intervention is the one that does not.
   which [TERM-100](../terms.d/TERM-100.md)'s formation sense reads, during formation ([CASE-191](../cases.d/CASE-191.md)).
 - Not that the boundary between inside and outside is given. It must be
   declared ([CLAIM-522](CLAIM-522.md)).
+
+## Note of 2026-11-25: re-derived, one step that does not follow, and what holds it back
+
+Re-derived on 2026-11-25 by the assistant, a session other than the filer's, in the recomputation pass of LEAD-tmpc0rqa, at the owner's go-ahead of 2026-11-25 ("go ahead with the reruns"). There is nothing to compute; the derivation was checked step by step against CLAIM-364 and TERM-100.
+
+- **Steps 1 and 2** restate their sources correctly.
+- **Step 3** strengthens its source. CLAIM-364 relays A45's caution that compliance "may persist too" when the supervisor is removed, "so this test alone is insufficient"; the step has both kinds of coordination persist. The claim holds where conditioned compliance does persist, which is the case its defeated_if addresses (compliance upheld by another outside supply), so this is a precision, not a defect.
+- **Step 4 does not follow as stated.** It says the interventions that part the two probe how the constituents' processes answer dissent, "not whose process maintains the arrangement", and the title calls removing the supervisor "the one maintenance-provenance test among them". But A45's fourth test, "Perturb the local coupling mechanism", with behaviour that "degrades in a mechanistically predictable way" against behaviour that depends "on fixed compliance rules", knocks out the constituents' own coupling and asks whether that process keeps the arrangement going. Under TERM-100 ("knocking out that process") that is a maintenance-provenance test, of the constituents' process rather than the supervisor's, and it does part the two. What follows is narrower: removing the supervisor is the one test among A45's of maintenance provenance *with respect to the supervisor*, and it does not discriminate; the dissent tests (new demands, a changed dominant policy, evidence of error) probe how dissent is answered; and perturbing the local coupling is a second maintenance-provenance test, which does.
+
+What holds it back: ADR-057's first criterion (its premise CLAIM-364 is Proposed), and the step above, which a revision of the title and step 4 would answer. The revision is the filer's or the owner's to make; this note records it. The note is the assistant's (Claude, in this session). No status change.

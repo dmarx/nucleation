@@ -72,3 +72,7 @@ copy is not exposed by any intervention on state, only by one on mechanism.
 That the separation shrinks monotonically for every family of imperfect
 controllers. Only this delay family was run. Nor does it show that the
 margin in a real system would be measurable above noise.
+
+## Note of 2026-11-25: rerun by a session other than the filer's
+
+Rerun on 2026-11-25 by the assistant, a session other than the filer's, in the recomputation pass of LEAD-tmpc0rqa, at the owner's go-ahead of 2026-11-25 ("go ahead with the reruns"). `scratch/formal/maintainer_ladder_check.py`, run unchanged with python3 -I, prints "maintainer ladder check: all passed", with the largest gaps 0.1458 (constant), 0.1458, 0.0834, 0.0327 and 0.0104 (delays 1, 0.3, 0.1 and 0.03), the table's 0.146, 0.146, 0.083, 0.033 and 0.010; it asserts the exact controller's gap below 10⁻⁹ under every knock and start tried and a gap above 0.3 once the internal pathway is cut. A separate integration in the session's scratch space (RK4 at step 2 × 10⁻⁴, its own delay buffer, the same knock and the same L1 gap) gives 0.1457, 0.1457, 0.0834, 0.0327 and 0.0104. Nothing failed to reproduce. The gap is |Δc| + |Δr|, which "the largest gap in (c, r)" leaves unstated. No status change: a construction, the assistant's, whose adoption is the owner's call. The note is the assistant's (Claude, in this session).

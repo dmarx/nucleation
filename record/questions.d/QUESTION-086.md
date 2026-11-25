@@ -234,7 +234,6 @@ owner's call.
 
 ## Note of 2026-11-22: a simulated organization, [LEAD-048](../leads.d/LEAD-048.md)
 
-<!-- inactive-ok-block: CASE-332 — new; the run of LEAD-048 and the claim drawn from it -->
 [CASE-332](../cases.d/CASE-332.md) ran [CASE-186](../cases.d/CASE-186.md)'s organization in reduced form. Systems that
 behave alike under a sham injury are told apart by interventions:
 - lesions of single audit operations, or partial losses of a maintained

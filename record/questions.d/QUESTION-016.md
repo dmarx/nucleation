@@ -91,7 +91,6 @@ carries no `answers` edge.
 
 ## Note of 2026-11-22: reconstruction as a channel under damage, [LEAD-048](../leads.d/LEAD-048.md)
 
-<!-- inactive-ok-block: CASE-332 — new; the run of LEAD-048 -->
 In [CASE-332](../cases.d/CASE-332.md) an acting student, erased every 50 steps, is
 reconstructed through a copier whose success rate is the
 evidence-governance integrity. A partial loss of that integrity cost the

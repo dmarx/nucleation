@@ -165,7 +165,6 @@ recognized by the institution's evaluator is not a remedy found
 
 ## Note of 2026-11-22: a remedy unavailable by construction, [LEAD-048](../leads.d/LEAD-048.md)
 
-<!-- inactive-ok-block: CASE-332 — new; the run of LEAD-048 -->
 In [CASE-332](../cases.d/CASE-332.md), once both maintained capacities were destroyed, the
 reciprocal arrangement could not correct again in any world. Its
 production law has a fixed point at zero, so no internal procedure was

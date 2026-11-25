@@ -1,10 +1,26 @@
 ---
 number: 903
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpo7igy
 title: 'In a network of oscillators, passive tests of timing and of gluing cannot tell a shared drive from coupling among the members, while displacing the drive for one member only, perturbing one member, or withdrawing the drive can; and a revision of the correspondence maps that only restores consistency makes an apparatus coherent without making it predict interventions it did not choose'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-25'
+  note: >-
+    Promoted to Active under the owner's delegation of 2026-11-24
+    ("handle the fixes for the twelve ... use your best judgement"),
+    as the status pass of 2026-11-24 and the reruns of 2026-11-25
+    applied it to independently recomputed demonstrated claims and
+    executed studies, in the recomputation pass of 2026-11-25
+    (LEAD-tmpc0rqa). ADR-057: its one ground, CASE-333, was rerun by a
+    session other than the filer's and promoted in the same pass; it
+    rests on no claim; no objection targets it; and the rerun meets
+    none of its defeated_if (the uncoupled members follow the
+    displaced drive by 0.002, against 0.30 and 0.58 coupled, and
+    revision to the observed offsets leaves the held-out error
+    unchanged). Every figure in the summary matches the rerun.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -46,7 +62,6 @@ summary: >-
   the assistant's (Claude, in this session); adopting it is the owner's
   call.
 ---
-<!-- inactive-ok-file: CASE-333 — filed from this study, new -->
 <!-- inactive-ok-file: CLAIM-616 — Proposed; the laboratory claim this result bears on -->
 
 # CLAIM-903: In a network of oscillators, passive tests of timing and of gluing cannot tell a shared drive from coupling among the members, while displacing the drive for one member only, perturbing one member, or withdrawing the drive can; and a revision of the correspondence maps that only restores consistency makes an apparatus coherent without making it predict interventions it did not choose
@@ -94,3 +109,7 @@ order, for the separation of compatibility, dynamics and inquiry. For
 [CLAIM-616](CLAIM-616.md), it is a run whose arms could have come out otherwise: the
 uncoupled members could have followed the displaced drive, and the
 knocked-out unit's loss could have shown in its output.
+
+## Note of 2026-11-25: rerun by a session other than the filer's
+
+Rerun on 2026-11-25 by the assistant, a session other than the filer's, in the recomputation pass of LEAD-tmpc0rqa, at the owner's go-ahead of 2026-11-25 ("go ahead with the reruns"). CASE-333's study was regenerated from nothing (its note of this date): every item agrees with the stored results but timings, and every figure this claim quotes matches: phase-locking 0.9985 and 0.9996, displacement followed by 0.2, 30 and 58 per cent, kicks reaching the others at 0.010 against 0.12 to 0.14, withdrawal orders 0.47 and 0.996, the passive fit's spurious gain 0.068 against the true 0.3, and maps revised to the observed offsets reaching coherence (incompatibility 10⁻⁶ to 2 × 10⁻⁵) with the held-out error unchanged, while gains checked against held-out kicks find 0.001, 0.29 and 0.90. The factors in part 2 are 0.30/0.0022 ≈ 136 and 0.117/0.0102 ≈ 11.5. Promoted in the same pass (history, version 2). The note is the assistant's (Claude, in this session).

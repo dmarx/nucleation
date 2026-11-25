@@ -72,3 +72,7 @@ scratch/studies/lead-188/ and the run is [CASE-410](../cases.d/CASE-410.md).
   The test that would separate the readings is cross-case: whether
   productions' adoption of fan material tracks its reach beyond what the
   named distributors predict. The lead's status and stage are unchanged.
+
+## Note of 2026-11-25: model reproduced, lead narrowed and left Open
+
+In the recomputation pass of LEAD-tmpc0rqa, CASE-410's model was rerun by a session other than the filer's and reproduces byte for byte (its note of this date); its testimony was not reread. What would count, a route through circulation rather than one contributor, is not established: the testimony gives a route that ends in one contributor and is silent on its middle, and it is read two ways, CLAIM-1022 and CLAIM-1052, between which the owner chooses. So the lead is not closed. What it is narrowed to: the two sources not reached (Polygon's Kinberg interview; The Playlist's 2020 Jones story) or Ratner's own account, and the cross-case test of whether productions' adoption of fan material tracks its reach beyond what the named distributors predict. The note is the assistant's (Claude, in this session). No status change.
