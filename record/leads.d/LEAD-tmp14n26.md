@@ -66,3 +66,33 @@ cost of resolving or contesting the invocation does not reduce to them.
 
 Nothing outside the record; [CASE-326](../cases.d/CASE-326.md)'s illustrative values and [LEAD-108](LEAD-108.md)'s
 model are the starting point.
+
+## Note of 2026-11-24: from the revision of the manuscript governance-of-becoming, Part I
+<!-- inactive-ok-file: CASE-343 CLAIM-921 — Proposed; cited with their standing -->
+
+The revision of the manuscript's Article 3 (§3.3.4) sorted this lead by
+the write-manuscript skill's step 3a ("What the record has already done")
+and found it done in part. Held work plays part of its role:
+
+- erosion that depends on how long a supply has done the work, for a
+  capacity learned by doing: CLAIM-602 (Active, demonstrated), "what
+  decides dependence is the order in which supply and capacity are used,
+  not the amount of supply";
+- step 1's matched pair, for a capacity rather than a contract: CLAIM-675
+  (Active, demonstrated), "Two forms of support that give a party the same
+  capabilities now can leave it different capabilities later";
+- a state whose funding follows its own use: CASE-343, run, with
+  CLAIM-921 deriving the loss;
+- CLAIM-921's note of 2026-11-24, which carries that loss to rarely
+  invoked guarantees (A32 §9): "The contract might remain formally
+  recognized while its guarantee becomes unrealizable."
+
+What no entry does is this lead's own case: a relationship whose
+invocations expand its practical jurisdiction and erode the recipient's
+alternatives, priced per party over a horizon, including revision and
+exit, against one whose invocations leave it unchanged, with the question
+whether time-varying ε, σ and R suffice or a term of a new kind is needed.
+The extension is that contract case and the per-party ledger; the rest can
+cite the entries above. Whether to narrow the lead to it is the owner's
+call. No status change. The wording is the assistant's (Claude, in this
+session).

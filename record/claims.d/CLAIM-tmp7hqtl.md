@@ -118,3 +118,50 @@ It does not say that every stable relation between processes is a
 contract, nor that a contract's formation is always beneficial: A16 §12
 notes that a contract "requiring impossible performance could instead
 induce resource exhaustion, deceptive reporting or cascading failure."
+
+## Note of 2026-11-24: from the revision of the manuscript governance-of-becoming, Part I
+<!-- inactive-ok-file: CLAIM-tmphq6hp CLAIM-tmp0d1fq TERM-tmplpplx SYNTHESIS-tmp4tvbr — Proposed; cited with their standing -->
+
+Two points that the revision of the manuscript's Article 2 left for this
+entry.
+
+**Does "violation" presuppose a requirement?** The first draft read the
+second mark, "Differentiated responses to satisfaction and violation", as
+CLAIM-tmphq6hp's operative norm (its join J2.2). The independent reader of
+the joins found that the reading failed (SYNTHESIS-tmp4tvbr, "The joins of
+the manuscript governance-of-becoming, Part I"), and left a residue. Read
+literally, the second mark may not exclude a mere predictor that revises
+its expectation on disconfirmation, and CLAIM-tmp0d1fq's `defeated_if`
+needs that excluded ("never more than a learned prediction or a bare
+causal dependence"). Two readings are open.
+
+- *"Violation" presupposes a requirement.* A predictor's disconfirmation
+  is then no violation, and the mark excludes it. The weight moves to
+  mark 1's "reciprocal expectations or requirements": the mark works only
+  if what is maintained is a requirement, and no test here tells a
+  requirement from an expectation.
+- *"Violation" is any failure of the expected behaviour.* A predictor that
+  revises on disconfirmation then responds differently to satisfaction
+  and violation, and the mark does not exclude it. The work falls to the
+  missing condition the assistant's note above proposes: change the terms,
+  keep the processes.
+
+The reader's verdict is that this is a disambiguation for a note, not a
+claim. Neither reading is decided here. The two controllers of the note
+above pass the mark on either reading, since they correct.
+
+**"or" against "and".** This claim's title says "governs deviation,
+conflict or breach", after A16 §13 ("counterfactual circumstances of
+deviation, conflict or breach"). TERM-tmplpplx, which takes its criterion
+from this claim, says "deviation, conflict and breach". In a necessary
+condition "and" is the stricter. The gap is narrower than it looks, since
+this claim's third mark ("settles which prevails when they conflict")
+already requires that conflict be governed; what differs is whether a
+relation must govern both deviation and breach. The manuscript now quotes
+the claim's "or" where it cites the claim (its review's correction 2.3).
+Which the record means is open, and aligning the two is a wording change
+to either entry, the owner's call.
+
+Bearing: a disambiguation and a wording discrepancy; no change to the
+title or the status. The wording is the assistant's (Claude, in this
+session).

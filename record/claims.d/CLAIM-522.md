@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpr8p2x
 title: 'Recovery under interventions on state cannot show where maintenance is realized: an outside controller that measures the constraint capacities and supplies the internal production law as state feedback yields the same trajectory under every perturbation of state, damage and recovery included, even with every capacity observed exactly; only interventions on the production mechanisms, relative to a declared boundary, separate the two'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-11-03'
@@ -37,6 +37,14 @@ history:
   date: '2026-11-22'
   note: >-
     A dated note: the LEAD-176 readings of 2026-11-22 (see the note). No other change.
+- version: 7
+  date: '2026-11-24'
+  note: >-
+    A dated note from the revision of the manuscript
+    governance-of-becoming, Part I: CASE-161's audit pulse, an
+    intervention on state, parts its external reset from reciprocal
+    production (1.00 against 0.18), outside the claim's ideal case. No
+    other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -210,3 +218,34 @@ with the claim; no edge.
   itself produced from inside.
 
 No status change.
+
+## Note of 2026-11-24: from the revision of the manuscript governance-of-becoming, Part I
+<!-- inactive-ok-file: CASE-332 CASE-265 — Proposed; cited with their standing -->
+
+Article 1 of the manuscript (§1.5.2) cites CASE-161 as a run of this
+claim's separating move, the intervention on the maintaining mechanism.
+The revision found that the same study also holds an intervention on state
+that parts its arrangements. In CASE-161's v1.7 run, "At the intervention
+step all three arrangements have the same recorded 21-dimensional source
+state on every seed and history". Then, "After the same audit pulse, which
+sets audit integrity to 0, the next audit integrity is 1.00 under external
+reset, 0.18 under reciprocal production and 0.00 under feedback only"
+(checked against CASE-161 on this date). The pulse is an intervention on
+state, and it parts external reset from reciprocal production at the next
+audit.
+
+CASE-161's external reset restores the rule from outside. It does not
+supply the internal production law as state feedback, so, like the
+constant-rate service of CASE-332 and the constant controller of
+CASE-265, it is outside this claim's ideal case and is no
+counterexample. It is one more controller of the kind "What it does not
+say" allows, one that is not ideal and leaves a signature under a state
+probe. What is new is where it sits: in the study the record cites for
+this claim's other half. A reader who cites CASE-161 for this claim
+should cite both: interventions on mechanism part all three arrangements,
+and here an intervention on state does too, because the reset is not the
+ideal controller.
+
+Bearing: an instance at the edge of the claim's scope; the claim is
+unchanged, and no status changes. The wording is the assistant's (Claude,
+in this session).

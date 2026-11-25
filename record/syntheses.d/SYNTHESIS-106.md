@@ -4,7 +4,15 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmphvng7
 title: 'Stored work and the cost structure of possibility: a stabilized constraint that supplies cheaper operations can move a task under a per-task budget, so amortization becomes capability expansion, within the limits that persistence is not amortization and an added restriction enlarges nothing; economic and dynamical separation of time scales come apart; an acquisition can be worth making for what it does to the cost of others; and a fall in one party''s cost may be work transferred, not saved'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-24'
+  note: >-
+    A dated note from the revision of the manuscript
+    governance-of-becoming, Part I: the account predates CASE-326 and
+    gives CLAIM-760 and CLAIM-761 as Proposed, though Active since
+    2026-11-20; revising it is a synthesis review. No other change.
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
   this part (how work stored in an organization changes what can be
@@ -123,3 +131,25 @@ summary: >-
 That every emergent organization is such an investment
 ([CLAIM-761](../claims.d/CLAIM-761.md)'s stronger reading), or that a transfer of work is
 wrongful ([CLAIM-760](../claims.d/CLAIM-760.md)'s).
+
+## Note of 2026-11-24: from the revision of the manuscript governance-of-becoming, Part I
+<!-- inactive-ok-file: CASE-326 CLAIM-891 CLAIM-892 ARG-tmpa5ped CLAIM-tmpsf9hp — Proposed; cited with their standing -->
+
+The revision of the manuscript's Article 3 (its gap G3.1) found that no
+account maps the stored-work cost model as it now stands. This account is
+dated 2026-11-19. It predates CASE-326 (2026-11-22), the cost model run on
+three cases, with CLAIM-891 and CLAIM-892 filed from it, and the entries
+of 2026-11-24 that apply the model to contracts (ARG-tmpa5ped,
+CLAIM-tmpsf9hp). It also gives CLAIM-761 and CLAIM-760 as Proposed, in
+the account and in its list of components. Both have been Active since
+2026-11-20, promoted at a status review whose rulings the owner delegated
+(ADR-057).
+
+So the account is stale on two components' standing and silent on the
+part's later entries, which its own defeater ("an in-force component of
+this part ... left out without a reason given") will reach as those
+entries come into force. Revising it is a synthesis review, on the
+synthesis-review skill's stage 4, and is not done here. Whether the
+account is Current is also before the owner in the manuscript's standing
+review. Bearing: a note; no change to `integrates`, the title or the
+status. The wording is the assistant's (Claude, in this session).
