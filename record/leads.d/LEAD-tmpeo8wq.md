@@ -150,3 +150,33 @@ The lead should say which it means before step 3 is counted as done.
 Neither is decided here. No status change; whether to narrow the lead
 further is the owner's call. The wording is the assistant's (Claude, in
 this session).
+
+## Note of 2026-11-25: the open item computed for a scalar capacity, from the manuscript governance-of-becoming, Article 9
+<!-- inactive-ok-file: CLAIM-tmp6nzs1 CASE-264 — Proposed or new; the computation and the bargaining case it uses -->
+
+The first note above leaves open "whether solo reach's shrinkage, not a
+price, moves the terms the other can offer". The manuscript's Article 9
+§9.4 computes it for a scalar capacity, filed as [CLAIM-tmp6nzs1](../claims.d/CLAIM-tmp6nzs1.md) with its
+script under scratch/manuscripts/governance-of-becoming/analysis/. P's
+capacity follows [CLAIM-605](../claims.d/CLAIM-605.md)'s model under full substitution, and its outside
+option in [CASE-264](../cases.d/CASE-264.md)'s Nash split is valued from that capacity. With no
+transition's price changed and no exit, P's share falls from 6.000 to
+4.199 over six time units; ended before [CLAIM-605](../claims.d/CLAIM-605.md)'s deadline the supply
+leaves the fallback restorable (o_P back to 4.000 or 3.916), after it not
+(0.041, 0.003). Capacity-first supply, the lead's step 4 control, moves
+nothing.
+
+On the second note's two readings: the computation values the fallback
+by current output, the first reading (*capacity as the actor's state*,
+transition costs fixed functions of it), and by the forward value of the
+stand-alone path, which counts what rebuilding the capacity would bring,
+nearer the second. The terms move on both (to 4.347 and to 4.199 by
+t = 6), so for a scalar capacity the shrinkage moves the terms either
+way. They differ in where: the forward valuation's fall is steepest at
+the deadline (for r ≤ 0.25), the current-output one's at the start, so
+the deadline shows in the terms only on the second reading. What stays open is
+what the lead asks beyond that: reach over [TERM-114](../terms.d/TERM-114.md) indexed by actor,
+the authority index W, and the four predicates per transition. The
+computation is the assistant's, run by its filer only. No status change;
+whether this narrows the lead further is the owner's call. The wording is
+the assistant's (Claude, in this session).

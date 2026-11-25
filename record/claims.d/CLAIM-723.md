@@ -233,3 +233,29 @@ name is A's.
 <!-- inactive-ok-file: THEORY-1972 — new reading and theory of 2026-11-18, Proposed -->
 
 Fuentes v. Shevin (1972), read ([NOTE-2072](../notes.d/NOTE-2072.md), [THEORY-1972](../theory.d/THEORY-1972.md)), which the claim cites from A59 as unread. The Court locates the wrong in the timing of the opportunity: it "must be granted at a time when the deprivation can still be prevented", because "no later hearing and no damage award can undo the fact that the arbitrary taking that was subject to the right of procedural due process has already occurred" (Part IV). It holds the right independent of the merits, "The right to be heard does not depend upon an advance showing that one will surely prevail at the hearing" (Part V), which is the claim's "even where the objection would have failed". It counts a temporary deprivation as one. Its "extraordinary situations", which "must be truly unusual" (Part VI), correspond to the claim's "without adequate justification". Scope: a constitutional rule about state-assisted seizures of property from a possessor, decided 4–3 and called "a narrow one" by the Court; it supports the claim as a legal analogue, not as a moral principle, and its later doctrinal standing was not checked. A59's wording is a close paraphrase of Part IV, not a quotation. No status changes.
+
+## Note of 2026-11-25: the timing of defeated standing, modelled, from the manuscript governance-of-becoming, Article 8
+<!-- inactive-ok-file: CASE-316 CLAIM-879 — Proposed; the executed study, its finding and the held form of the wrong, cited with their standing -->
+
+The manuscript's Article 8 (§8.4.2, join J8.3) links two entries that do
+not cite each other. [CASE-316](../cases.d/CASE-316.md) (Proposed, executed study; [CLAIM-879](CLAIM-879.md) states
+its finding) is a queueing model in which an overseer with "the same
+authority, information and reviewers at every speed" can suspend an act
+until it becomes irreversible. What it counts, the share of objectionable
+actions made irreversible before an objection can take effect (0.994
+stopped in time at the base speed, 0.396 at ten times, 0.043 with volume
+multiplied as well), is how often CLAIM-723's second condition, "the act
+made that standing ineffective before it could be exercised", is met, for
+objectionable actions only, by timing alone.
+
+It measures the occasion of CLAIM-723's wrong, not the wrong. The model
+has no affected party (the standing is the overseer's power to suspend),
+does not count objections that would have failed, which are the case
+CLAIM-723 is distinctive for, and models neither attribution to the
+actor's timing or control over execution (condition three; [CASE-316](../cases.d/CASE-316.md)
+lists among what it cannot show "Intent to outrun review") nor justification (condition
+four). So it says how often the occasion arises as speed rises, and which
+remedies (precommitted limits, automatic suspension) win it back, under
+invented rates. A dated note, not a claim: the link adds no inference
+beyond the two entries. No change of status. The wording is the
+assistant's (Claude, in this session).
