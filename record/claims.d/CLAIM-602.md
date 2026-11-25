@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpoh07b
 title: "Where an organization's capacity is learned by doing the work it serves, and decays with disuse, outside supply that does the work first lowers the capacity kept, and the longer it does all of it the longer recovery takes once it stops, while supply that covers only what the organization cannot yet do leaves its learning untouched, so what decides dependence is the order in which supply and capacity are used, not the amount of supply"
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-11-06'
@@ -44,6 +44,14 @@ history:
     2026-11-11): it no longer carries realizability, which no
     relation to a realizability-first entry supplies (ADR-085). No
     other change.
+- version: 5
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-144) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §12.4, §12.7. No other
+    change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -96,6 +104,8 @@ summary: >-
   and leaves capacity to grow as if there were no aid. The first point is
   Azam et al.'s; the second and third are not in their paper. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
+works:
+- governance-of-possibility
 ---
 
 # CLAIM-602: Where an organization's capacity is learned by doing the work it serves, and decays with disuse, outside supply that does the work first lowers the capacity kept, and the longer it does all of it the longer recovery takes once it stops, while supply that covers only what the organization cannot yet do leaves its learning untouched, so what decides dependence is the order in which supply and capacity are used, not the amount of supply

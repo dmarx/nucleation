@@ -6,9 +6,9 @@
 
 **What a record of inquiry keeps** — what a record of a developing argument or inquiry can secure through revision — traceable change, accountability structure, decision sufficiency — and what keeping it buys beyond current conclusions; split from nucleating-argument (ADR-082).
 
-2 of 120 SYNTHESIS documents. Back to the [full index](../README.md).
+2 of 124 SYNTHESIS documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-| [SYNTHESIS-017](../../../record/syntheses.d/SYNTHESIS-017.md) v2 | What a record of a developing argument can secure is traceable change over its accountability structure, which is neither sufficiency for revision nor correctness: current conclusions and support topology do not fix revisions, a sufficient state makes history redundant only while its model and decisions hold, and what kept justifications can buy is a wider family of decisions and decisions a bounded agent could not otherwise make |  | Proposed |
+| [SYNTHESIS-017](../../../record/syntheses.d/SYNTHESIS-017.md) v3 | What a record of a developing argument can secure is traceable change over its accountability structure, which is neither sufficiency for revision nor correctness: current conclusions and support topology do not fix revisions, a sufficient state makes history redundant only while its model and decisions hold, and what kept justifications can buy is a wider family of decisions and decisions a bounded agent could not otherwise make |  | Proposed |
 | [SYNTHESIS-115](../../../record/syntheses.d/SYNTHESIS-115.md) v2 | In the record, iterated transmission can forget its origin while staying far from it, serial reconstruction is filtered by the transmitters' biases with convergence to the prior proved for sampling learners, arguments restated across memoryless sessions lose identity, an anchor is held to secure what its reference is tied to, re-reading a kept source to settle interpretation on an offset rather than a drift, and exact copies of a revised source to go stale, and what a record can secure is held to be traceability |  | Proposed |

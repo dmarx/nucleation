@@ -2,7 +2,7 @@
 number: 4
 status: Open
 formerly:
-- LEAD-004
+- LEAD-tmpadknn
 title: 'Test whether acquired organization changes which probes a learner can afford or chooses to make: random, uncertainty, information-gain, expected-free-energy and cost-aware probe selection after the environment changes, with a forced-probe condition separating inquiry failure from inference failure'
 version: 1
 stage: idea

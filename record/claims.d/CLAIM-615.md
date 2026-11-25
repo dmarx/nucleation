@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpcdshj
 title: 'An organized individual''s identity over time is carried by the causal transmission of the relations that keep its repertoire realizable, not by its constituents or by any structure invariant across its realizations, so a structuralism about individuals has to be historical: the structure can change under maps that are not isomorphisms while the individual continues, two structurally identical copies can be two individuals, the transmitting organization may lie outside the individual, and when those relations part at a succession, different successors can continue different respects of it'
-version: 8
+version: 9
 history:
 - version: 2
   date: '2026-11-07'
@@ -68,6 +68,13 @@ history:
     review of this date (the owner delegated these rulings), and the
     parenthesis now says so. The claim is
     unchanged and stays Proposed.
+- version: 9
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-144) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §3.0. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -127,6 +134,8 @@ summary: >-
   SYNTHESIS scheme as SYNTHESIS-001 on 2026-11-07 ([ADR-076](../decisions.d/ADR-076.md)), where it was
   admitted as an independent hypothesis under [ADR-075](../decisions.d/ADR-075.md), and returned to
   CLAIM under its own code on 2026-11-08 (ADR-084).
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: ADR-076 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-611 CLAIM-617 CASE-223 — filed from the same exchange, Proposed; premise, component and the owner's study -->
@@ -134,6 +143,7 @@ summary: >-
 <!-- inactive-ok-file: QUESTION-290 — Answered, by CLAIM-328; cited for that answer -->
 <!-- inactive-ok-file: CLAIM-620 — filed from the same exchange, Proposed; the later theses that rest on this one -->
 <!-- inactive-ok-file: CLAIM-576 CLAIM-136 — Proposed; components, cited with their standing -->
+<!-- inactive-ok-file: CLAIM-983 CLAIM-986 ARG-216 — new; the two readings that fill the admission slot, and the argument they share (LEAD-163) -->
 
 # CLAIM-615: An organized individual's identity over time is carried by the causal transmission of the relations that keep its repertoire realizable, not by its constituents or by any structure invariant across its realizations, so a structuralism about individuals has to be historical: the structure can change under maps that are not isomorphisms while the individual continues, two structurally identical copies can be two individuals, the transmitting organization may lie outside the individual, and when those relations part at a succession, different successors can continue different respects of it
 
@@ -262,3 +272,45 @@ Under [ADR-075](../decisions.d/ADR-075.md)'s admission test, the integration mus
 ## Note of 2026-11-20: what holds it back
 
 [CLAIM-329](CLAIM-329.md) went Active at the status review of this date, so [CLAIM-611](CLAIM-611.md), on what persists through changes of state and mode, is the one premise not held.
+
+## Note of 2026-11-22: the admission slot, filled two ways
+
+For [LEAD-163](../leads.d/LEAD-163.md). The synthesis review of 2026-11-11 found the admission case
+above realistic, a car that changes garages, and so a defeater by this
+claim's own `defeated_if`. The case moves from "nothing of the first
+workshop's maintaining organization transmitted" to "nothing of that
+organization was transmitted". The slot is which organization "that
+organization" names.
+
+Both readings filed close it by one shared step, [ARG-216](../arguments.d/ARG-216.md): a new
+maintainer that restores the thing from what it finds in it transmits the
+thing's organization through the thing, as [CLAIM-329](CLAIM-329.md)'s newcomers take a
+collective's organization from the collective. So the car continues, and
+the case is not a defeater. They part on organization held only by a
+maintainer:
+
+- **Reading (a), [CLAIM-983](CLAIM-983.md):** a maintainer is a channel, never what
+  is transmitted. Layer 4 is read by its words, "the transmitting
+  organization". It reads [CLAIM-611](CLAIM-611.md)'s "inside the individual or outside
+  it" as about the processes, which is a cost.
+- **Reading (b), [CLAIM-986](CLAIM-986.md):** an outside maintainer's organization is
+  transmitted insofar as the individual does not carry it and a competent
+  unrelated replacement would not supply it. It keeps [CLAIM-611](CLAIM-611.md)'s words,
+  and lets [CASE-223](../cases.d/CASE-223.md) find a parting where participants say "it's not the
+  same thing". The assistant leans to (b).
+
+On either reading the admission section above needs a different failure
+case, since the garage is no longer one: a replica built from the type by
+a maker with no tie to the token, counted the same car by a stipulated
+continuation morphism (a registration transferred to it). The record's
+criteria do not count such a replica the same, so the case is stipulated,
+as [ADR-075](../decisions.d/ADR-075.md) asks, and not realistic. Under reading (a) the residual risk is
+a car taken apart and put back from its own interchangeable parts by the
+manual, with no rival successor, and counted the same. The claim's text
+and status are unchanged; which reading, and whether the admission
+section takes the replica, are the owner's.
+
+## Note of 2026-11-23: restated for collectives, uncited
+
+<!-- inactive-ok-block: CLAIM-1165 — new; the restatement, the kernel it is tested by and the correction to its distance -->
+A64b of the exchange "Explain First Contact RL" (ChatGPT, the branch of 2026-11-23 08:51) reached this claim's criterion for a collective without citing it: "Two independently formed organizations might have identical response kernels without being the same historically continuous organization", so collective identity needs "historical organizational continuity" and "maintained, revisable causal organization"; "The first distinguishes continuation from duplication." Its thesis is [CLAIM-1165](CLAIM-1165.md), which rests on this claim. What it adds is which relations carry a collective: those of its question–answer game, the means of revising its rules included. With the repair in [CLAIM-1095](CLAIM-1095.md), duplicates are at observational distance zero and differ only historically, as this claim says. The note is the assistant's (Claude, in this session); adopting it is the owner's call.

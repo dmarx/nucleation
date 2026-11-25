@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpvhj8j
 title: 'Where successful response requires several complementary capacities, the value of preserving one depends on whether the others remain deployable, so individual resource utilization need not track the organization''s response capability'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -12,6 +12,14 @@ history:
     Promoted at the status review's ruling (the owner delegated these
     rulings; ADR-057): TERM-115, its one premise, was adopted in the
     same change; the construction was followed.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-144) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §9.10, §12.4. No other
+    change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -46,6 +54,8 @@ summary: >-
   keeping one capacity depends on the others. A: "the marginal value of a
   capability depends on the system in which it is embedded." The wording
   is A's; adopting it is the owner's call.
+works:
+- governance-of-possibility
 ---
 
 # CLAIM-587: Where successful response requires several complementary capacities, the value of preserving one depends on whether the others remain deployable, so individual resource utilization need not track the organization's response capability

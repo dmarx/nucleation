@@ -56,6 +56,7 @@ summary: >-
   which are closed downward. The wording is the assistant's (Claude, in
   this session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CASE-389 CLAIM-1085 — new; filed by the lead run of 2026-11-23 -->
 
 # CLAIM-599: Because establishing more relations can lower the chance of forming a target, the sets of relations that are productive nuclei need not be closed upward: two productive nuclei can combine into a trap, so the minimal productive sets describe the productive ones only where adding relations never hurts
 
@@ -116,3 +117,12 @@ raised defects, again a design change and not a factorial test of nuclei.
 - **That nucleation in organizations is non-monotone.** Whether adding
   relations to an organizational core can lower its chance of forming
   needs a model of its own.
+
+## Note of 2026-11-23: upward non-closure with every set compatible
+
+The lead run of 2026-11-23 ([CASE-389](../cases.d/CASE-389.md)) gives an instance from dynamics in
+which every seed set is compatible with the target: in a kinetic
+constraint-growth model, 38 of 40 significant falls in V from adding one
+target-state seed are confirmed with 3000 runs ([CLAIM-1085](CLAIM-1085.md), which
+corroborates this claim). The earlier dynamic instance had its two seams
+incompatible by construction. No status change.

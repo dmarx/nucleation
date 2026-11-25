@@ -124,7 +124,7 @@ neither [CLAIM-337](../claims.d/CLAIM-337.md) nor [CLAIM-439](../claims.d/CLAIM-
 
 ## Note of 2026-11-22: Dorsch, Coeckelbergh and Vierkant, read
 
-A **parallel**, no edge ([LIT-2373](../literature.d/LIT-2373.md), [NOTE-tmpdb4eb](../notes.d/NOTE-tmpdb4eb.md)). Dorsch and colleagues'
+A **parallel**, no edge ([LIT-2373](../literature.d/LIT-2373.md), [NOTE-2307](../notes.d/NOTE-2307.md)). Dorsch and colleagues'
 epistemic-luck argument rests on the premise that "no phenomenological
 difference exists" between metacognitive feelings from reliable processes
 and from systemic biases, so that users "remain reflectively unable to

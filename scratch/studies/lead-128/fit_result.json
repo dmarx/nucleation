@@ -1,0 +1,49 @@
+{
+  "n_trials": 4428,
+  "n_participants": 122,
+  "beta_full": 0.5886403928422852,
+  "cost": {
+    "1": 0.0,
+    "2": -0.015101324726846773,
+    "3": 0.029742594242696315,
+    "4": 0.28149978490065497
+  },
+  "beta_null": 0.5335059165954578,
+  "nll_full": 2900.8855764147975,
+  "nll_null": 2906.1276938000374,
+  "aic_full": 5809.771152829595,
+  "aic_null": 5814.255387600075,
+  "bic_full": 5835.353966004909,
+  "bic_null": 5820.6510908939035,
+  "lr_stat": 10.484234770479816,
+  "lr_df": 3,
+  "lr_p": 0.014868224020879135,
+  "per_participant": {
+    "n_fit": 116,
+    "median_c4": 1.0220771997622684,
+    "frac_increasing_cost": 0.5086206896551724
+  },
+  "per_participant_linear": {
+    "n_fit": 116,
+    "n_always_avoided_higher_effort": 4,
+    "n_always_sought_higher_effort": 2,
+    "median_k_eur_per_level": 0.25556753588084,
+    "iqr_k_eur_per_level": [
+      -0.001537164915883616,
+      0.5220844719211029
+    ],
+    "frac_k_positive": 0.75,
+    "frac_effort_averse_incl_separable": 0.7459016393442623
+  },
+  "group_norm_indiff_reward_by_level": {
+    "1": 0.9216393442622951,
+    "2": 0.8869262295081967,
+    "3": 0.7808333333333334,
+    "4": 0.5986885245901639
+  },
+  "p_choose_higher_n_at_equal_reward": {
+    "2vs1": 0.5022222977963303,
+    "3vs1": 0.49562318870772804,
+    "4vs1": 0.45866899024434765
+  }
+}

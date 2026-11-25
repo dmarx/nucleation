@@ -51,3 +51,31 @@ Moore is read.
 
 Readings that show commitment exploited by design test [CLAIM-713](../claims.d/CLAIM-713.md) and
 [CLAIM-703](../claims.d/CLAIM-703.md).
+
+## Note of 2026-11-22: carried out; works not reached, the argument filed
+<!-- inactive-ok-file: ARG-210 THEORY-1985 THEORY-1979 — Rejected, Proposed; the argument filed and the two readings it starts from -->
+
+Carried out on a branch cut from staging. The four works were
+route-checked again; all remain Unfetched, and none was reached:
+
+- [LIT-2742](../literature.d/LIT-2742.md) (Hart and Moore 1990): OpenAlex's one green location, a
+  Harvard DASH bitstream URL not tried before, answered HTTP 429
+  (CloudFront, retry-after 900) on 2026-11-22; not retried.
+- [LIT-2732](../literature.d/LIT-2732.md) (Berge and Kuyper) and [LIT-2686](../literature.d/LIT-2686.md) (Cameron):
+  OpenAlex lists no repository full text; the only copy is the
+  Cloudflare-blocked SAGE publisher version. No untried lawful route.
+- [LIT-2682](../literature.d/LIT-2682.md) (Robillard thesis): UConn copy behind Cloudflare
+  (prior); no reachable neighbour.
+
+The argument [CLAIM-728](../claims.d/CLAIM-728.md) asks for is filed as [ARG-210](../arguments.d/ARG-210.md) (Rejected),
+grounded in the read Grossman and Hart ([THEORY-1985](../theory.d/THEORY-1985.md)) and Hart's 2016
+lecture ([THEORY-1979](../theory.d/THEORY-1979.md), the read neighbour of the Unfetched Hart and
+Moore): the readings carry the residual-control definition but tell
+against the claim's last clause. The note of 2026-11-22 on [CLAIM-728](../claims.d/CLAIM-728.md)
+sets out the owner's choice on revising that clause.
+
+What remains: the four works themselves are unread, blocked on lawful
+copies the owner would supply or hosts the owner would allow; the other
+entries this lead advances ([CLAIM-703](../claims.d/CLAIM-703.md), [CLAIM-713](../claims.d/CLAIM-713.md), [CLAIM-682](../claims.d/CLAIM-682.md),
+[CLAIM-690](../claims.d/CLAIM-690.md), [QUESTION-472](../questions.d/QUESTION-472.md)) are not further advanced, since testing them
+needs the readings. The owner marks the lead's status and stage.

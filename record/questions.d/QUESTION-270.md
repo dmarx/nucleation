@@ -31,7 +31,7 @@ history:
 - version: 5
   date: '2026-11-22'
   note: >-
-    A dated note added: CASE-tmp9e5vf (LEAD-017) measures registration
+    A dated note added: CASE-355 (LEAD-017) measures registration
     from the organization's record by perturbing the evaluation, without
     reading the setting, in three synthetic organizations of matched
     pursuit. It meets the second requirement within a stipulated model. No
@@ -273,12 +273,12 @@ No status changes.
 
 ## Note of 2026-11-22: registration measured from the record, in A13's three organizations
 
-<!-- inactive-ok-file: CASE-tmp9e5vf CLAIM-tmpphfb4 — new, filed by LEAD-017 -->
+<!-- inactive-ok-file: CASE-355 CLAIM-934 — new, filed by LEAD-017 -->
 
 [LEAD-017](../leads.d/LEAD-017.md) built the three organizations of the note of 2026-11-04, read as
 denied uptake, deliberate accommodation under a tolerance widened by
 compensation, and evaluative isolation, with pursuit calibrated to 0.6 in
-each and liking declining progressively ([CASE-tmp9e5vf](../cases.d/CASE-tmp9e5vf.md)). Registration
+each and liking declining progressively ([CASE-355](../cases.d/CASE-355.md)). Registration
 is a gain the generator sets and the analyst never reads. The measure
 perturbs the consummatory evaluation at random and asks whether the
 organization's record, mixed and noisy, responds beyond the outcome, the
@@ -300,7 +300,7 @@ action and the pursuing process's learned value.
 
 So the second requirement under "What would answer it", registration
 measured apart from the experimenter's setting, is met within a
-stipulated synthetic class ([CLAIM-tmpphfb4](../claims.d/CLAIM-tmpphfb4.md)). The measure needs the other
+stipulated synthetic class ([CLAIM-934](../claims.d/CLAIM-934.md)). The measure needs the other
 routes into the record named, and a probe of the evaluating process. No
 world's authority shapes its evidence, and the epistemic instance is not
 touched. No Active claim or reading answers the question ([ADR-049](../decisions.d/ADR-049.md)),

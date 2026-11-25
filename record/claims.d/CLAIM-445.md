@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp28sti
 title: 'A protective regime, in a person, an institution or a system of states, becomes self-maintaining when the interventions it authorizes shift the evidence used to judge its necessity, the authority and resources of those who judge it, the capacities of its constituents or the threat environment itself in ways that favour its continuation; this can happen when the original threat was real and the first protection apt, and it is a failure only where the regime has become less responsive to evidence that it is no longer needed'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-30'
@@ -47,6 +47,14 @@ history:
     A dated note: A9 §6 of the exchange "Assess Depp Heard Abuse"
     gives the mechanism between two persons, and a claim filed from it
     rests on this one. No other change.
+- version: 6
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-144) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §11.4, §13.7. No other
+    change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -92,8 +100,10 @@ summary: >-
   securitization, policy feedback, emergency powers and the security
   dilemma. The literatures support components of the mechanism; none
   shows a single self-confirming loop behind every protective policy.
+works:
+- governance-of-possibility
 ---
-<!-- inactive-ok-file: CASE-tmpxmuri CLAIM-tmpqp1h6 — new; filed by LEAD-076 on 2026-11-22 and cited in its note of that date -->
+<!-- inactive-ok-file: CLAIM-924 — new; filed by LEAD-076 on 2026-11-22 and cited in its note of that date -->
 <!-- inactive-ok-file: CLAIM-446 — Proposed or new; the premise and LEAD-047's readings of 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-677 — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
 <!-- inactive-ok-file: ARG-025 — Proposed; the argument that holds the grades of evidence CLAIM-427 set out, cited for the grading -->
@@ -253,13 +263,13 @@ No status changes.
 The search for an individual-level test of this claim's premise
 [CLAIM-446](CLAIM-446.md) found no study that intervenes on defensive authority with
 threat belief held fixed ([LEAD-047](../leads.d/LEAD-047.md), scratch/studies/lead-047/; readings
-[NOTE-tmpexziy](../notes.d/NOTE-tmpexziy.md) and [NOTE-tmpkouzt](../notes.d/NOTE-tmpkouzt.md)). The premise's distinctive part stays
+[NOTE-2299](../notes.d/NOTE-2299.md) and [NOTE-2300](../notes.d/NOTE-2300.md)). The premise's distinctive part stays
 untested. No status changes.
 
 ## Note of 2026-11-22: a sentry that restricts its own evidence, from [LEAD-076](../leads.d/LEAD-076.md)
 
 [LEAD-076](../leads.d/LEAD-076.md) ran [CASE-153](../cases.d/CASE-153.md)'s sentry with hidden state and evidence restriction
-([CASE-tmpxmuri](../cases.d/CASE-tmpxmuri.md)). In the model, a protective regime whose authority is
+([CASE-346](../cases.d/CASE-346.md)). In the model, a protective regime whose authority is
 rewarded by its apparent success, and which can block the inspection that
 would judge it, maintains itself through 400 safe steps. In 43 % of runs
 the belief is never corrected. It still protects when danger returns. An
@@ -270,7 +280,7 @@ So the model does not meet this claim's second defeater.
 Restriction alone, under independent evaluation, maintains the regime
 only with a strong sentry (κ ≥ 2.75), or when the agent assumes the world
 almost never changes. This supports the claim's evidence clause as
-possible within a model, nothing more ([ARG-025](../arguments.d/ARG-025.md)). [CLAIM-tmpqp1h6](CLAIM-tmpqp1h6.md) holds the
+possible within a model, nothing more ([ARG-025](../arguments.d/ARG-025.md)). [CLAIM-924](CLAIM-924.md) holds the
 finding.
 
 No status change.

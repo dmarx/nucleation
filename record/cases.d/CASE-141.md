@@ -84,7 +84,7 @@ as his only way into the work. The case is unchanged.
 
 ## Note of 2026-11-22: Merton's Matthew effect, read
 
-**A parallel** ([LIT-3002](../literature.d/LIT-3002.md), [NOTE-tmp4eogg](../notes.d/NOTE-tmp4eogg.md)). The case's mechanism, a label
+**A parallel** ([LIT-3002](../literature.d/LIT-3002.md), [NOTE-2268](../notes.d/NOTE-2268.md)). The case's mechanism, a label
 confirmed through others' treatment, has a positive mirror in Merton's own
 later work: an eminent scientist's work gets more attention and so more
 recognition, which Merton calls "a special application of the

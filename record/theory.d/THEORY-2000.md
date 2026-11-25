@@ -11,7 +11,14 @@ promote_when: >-
   blame keeps people from bringing issues to light. Whether the practice
   achieves this is not asserted.
 title: 'Lunney and Lueder state Google''s blameless postmortem as a review that records an incident''s contributing causes and the follow-up actions to prevent recurrence without indicting any individual or team, on the ground that blame keeps people from bringing issues to light, so that correction is aimed at systems and processes rather than at people'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-22'
+  note: >-
+    A dated note added: the SRE workbook chapter, read for LEAD-189,
+    meets the promote_when; promotion left to the owner. No change of
+    status or title.
 tags:
 - software-engineering
 - society-and-governance
@@ -62,3 +69,7 @@ individual or team for bad or inappropriate behavior", because under blame
   chapter's "Google weathers fewer outages" comes without figures.
 - Anything about the level at which contributing causes are found, or
   whether action items are completed.
+
+## Note of 2026-11-22: the SRE workbook read; this theory's promote_when is met
+
+The `promote_when` asks for "A reading of the chapter, or of Google's later SRE workbook on the same practice" confirming that a blameless postmortem identifies contributing causes and follow-up actions "without indicting any individual or team", and that the reason given is that blame keeps people from bringing issues to light. The workbook's chapter 10, read in full on 2026-11-22 ([THEORY-2294](THEORY-2294.md), [NOTE-2391](../notes.d/NOTE-2391.md)), confirms both: in the good postmortem "No individual or team is blamed for the incident", and naming individuals makes people "afraid of being publicly shamed. They may be motivated to cover up facts critical to understanding and preventing recurrence." The reading is of another book by other authors (Sue Lueder is an author of both), and independent of the reading that filed this theory. Promotion is left to the owner; no status change.

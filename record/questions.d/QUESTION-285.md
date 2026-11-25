@@ -330,8 +330,8 @@ test the third accomplishment is [CASE-239](../cases.d/CASE-239.md). The questio
 
 ## Note of 2026-11-22: self-testing of an apparatus, [LEAD-048](../leads.d/LEAD-048.md)
 
-<!-- inactive-ok-block: CASE-tmpl0ccq — new; the run of LEAD-048 and the claim drawn from it -->
-In [CASE-tmpl0ccq](../cases.d/CASE-tmpl0ccq.md) the interventions were the experimenter's: undisclosed
+<!-- inactive-ok-block: CASE-332 — new; the run of LEAD-048 and the claim drawn from it -->
+In [CASE-332](../cases.d/CASE-332.md) the interventions were the experimenter's: undisclosed
 lesions of evidence generation, admission and scoring, which the system did
 not select. Recovering a second correction needed a self-test of each
 operation on known inputs, a way to stay answerable to what the apparatus
@@ -339,3 +339,52 @@ did not produce, and a producer to rebuild what the test found. Without the
 test no arrangement recovered. The test was stipulated, not evolved,
 and the run does not say what organization would arrive at one. The question
 stays Open.
+
+## Note of 2026-11-22: a ladder on one channel, and a network that revises its correspondences, [LEAD-177](../leads.d/LEAD-177.md)
+
+<!-- inactive-ok-block: CASE-239 — new or Proposed; the runs of LEAD-177, the claims drawn from them and the design run -->
+The question's answer 2 asked for systems with identical sensory correlations
+and different memory, use and adaptivity. [CASE-421](../cases.d/CASE-421.md) builds four on one
+sensor channel: acting on an absence with nothing kept, registering a bounded
+non-response, placing the fault, and finding a fault outside the catalog from
+a record of real outcomes. Each comes apart from the rung below in the run.
+[CASE-239](../cases.d/CASE-239.md)'s forager adds the separation of revising estimates from revising
+what counts ([CLAIM-1149](../claims.d/CLAIM-1149.md)). For answer 3, [CASE-390](../cases.d/CASE-390.md) makes a Robinson-style
+network's correspondences revisable: revision by disagreement alone restores
+consistency and not accuracy, and revision against beacons the world places,
+through a channel G can neither rewrite nor refuse, restores accuracy
+([CLAIM-1183](../claims.d/CLAIM-1183.md)). Both are constructions, and neither invents a question it
+could not ask: the candidates for revision are features already sensed. The
+question stays Open.
+
+## Note of 2026-11-24: the exchange "Memes, Contracts, and Systemic Normativity", A7 §9, A9 §X and A10 §11
+
+Three turns of the exchange apply its account to the record itself, and
+each asks this question's second part of it.
+
+- A7 §9: the record's schemes and conventions are at once "Memetic
+  carriers of the inquiry's characteristic organization", "Nucleation
+  sites", "Constraints on which contributions become legible" and
+  "Potential sources of organized ignorance". With AI assistants, "A
+  conceptual distinction proposed externally could become integrated into
+  the inquiry's subsequent organization and maintained through its own
+  procedures"; the safeguard is whether the inquiry can "distinguish
+  externally supplied structures from established conclusions", and "the
+  presence of those mechanisms does not by itself establish their
+  effectiveness."
+- A9 §X: "Can it distinguish conceptual generativity from self-confirming
+  conceptual entrenchment?"
+- A10 §11: "If Nucleation's vocabulary becomes sufficiently generative, the
+  inquiry may increasingly encounter phenomena organized through that
+  vocabulary—including phenomena within its own research apparatus." "**The
+  inquiry must distinguish discovering its object from participating in
+  the construction of its object.**"
+
+The last is [CLAIM-402](../claims.d/CLAIM-402.md)'s warning (a category's own use producing the
+regularities that confirm it) turned on the record's vocabulary, with
+[CLAIM-476](../claims.d/CLAIM-476.md)'s constitutive reading of its apparatus. A7's point about
+assistants is a question of formation provenance ([TERM-100](../terms.d/TERM-100.md)) for the
+record's own distinctions; the record's voice rules, which file an
+assistant's ideas as Proposed in its own voice, are the mechanism A7
+names, and nothing filed tests whether they work. None of the three
+proposes a test. The question stays Open.

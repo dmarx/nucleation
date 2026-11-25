@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpyesgg
 title: 'How does the record identify exploitation in an organization: what separates it from dependence and from domination, which declared standard supplies the verdict, and who, if anyone, answers for it when the arrangement is not an agent?'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-11-15'
@@ -29,6 +29,14 @@ history:
     A dated note: A15 §8 of the exchange "Assess Depp Heard Abuse"
     offers four dimensions as a candidate declared standard for
     exploitation through moral commitments. No other change.
+- version: 6
+  date: '2026-11-24'
+  note: >-
+    A dated note added: A22 §19 of the exchange "Memes, Contracts, and
+    Systemic Normativity" offers three levels separating functional
+    appropriation and asymmetric organization from exploitation, and
+    the filing adds claims that bear on the question. No change of
+    status or title.
 tags:
 - ethics
 - society-and-governance
@@ -201,4 +209,34 @@ someone's obligations is domination too. For the third, who answers when
 the arrangement is not an agent, [CLAIM-707](../claims.d/CLAIM-707.md) says where blame tends to
 land instead.
 
+The question stays Open.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A22
+
+<!-- inactive-ok-file: CLAIM-tmp05a1l CLAIM-tmppx64t CLAIM-tmp1nubb CLAIM-tmp8bimm — new; the claims filed on 2026-11-24 that bear on this question -->
+
+A22 §19 (ChatGPT, 2026-11-24) answers the first part of the question, what
+separates exploitation from dependence, with three levels, keeping the
+record's restriction of moral exploitation to [TERM-123](../terms.d/TERM-123.md):
+
+| Level | A22's characterization |
+|---|---|
+| Functional appropriation | "One process benefits from another's maintained activity." |
+| Asymmetric contractual organization | "Benefits, burdens, dependencies or revision authority are unevenly distributed." |
+| Normative exploitation | "A party benefits through terms that violate a justified standard concerning another party with relevant standing." |
+
+"Functional appropriation is widespread and not intrinsically
+pathological. Asymmetry may be productive, justified or necessary.
+Normative exploitation requires a further argument." The levels let the
+record describe "exploitation-like dynamics in computational systems,
+evolutionary ecology and subpersonal organization without prematurely
+attributing moral duties or moral patienthood to their constituents."
+
+This is a sorting of the question's terms, not an answer to its second and
+third parts, which standard and who answers. The filing of 2026-11-24 adds
+four claims that bear on the question: the owner's U17, filed as two
+readings ([CLAIM-tmp05a1l](../claims.d/CLAIM-tmp05a1l.md), reliance as exposure; [CLAIM-tmppx64t](../claims.d/CLAIM-tmppx64t.md), exploitation
+as revelation); identification of an implicit contract by perturbation
+rather than routine behaviour ([CLAIM-tmp1nubb](../claims.d/CLAIM-tmp1nubb.md)); and the regulatory surplus
+whose capture is a candidate mechanism of exploitation ([CLAIM-tmp8bimm](../claims.d/CLAIM-tmp8bimm.md)).
 The question stays Open.

@@ -25,7 +25,7 @@ summary: >-
   compositions on their own operation. Proposed until its promote_when is
   met.
 ---
-<!-- inactive-ok-file: THEORY-tmpu0f9k — Proposed; the reading of Yang filed 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2193 — Proposed; the reading of Yang filed 2026-11-22 -->
 
 # THEORY-2086: Furuta and colleagues find that in one-layer transformers learning modular arithmetic, a frozen embedding or body pre-grokked on an elementary operation lowers the training fraction needed to grok some related linear expressions, but for quadratic and cubic polynomials more often raises it or prevents grokking, including polynomials composed on that same operation
 
@@ -40,5 +40,5 @@ Three seeds averaged; a coarse grid; transplant without ablation.
 ## Note of 2026-11-22: Yang, read
 
 Background. Another account of grokking in modular arithmetic: Yang
-([THEORY-tmpu0f9k](THEORY-tmpu0f9k.md)) times it by a probe's crossing and a weight-decay-driven
+([THEORY-2193](THEORY-2193.md)) times it by a probe's crossing and a weight-decay-driven
 escape, with no transfer or pre-training.

@@ -70,7 +70,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-209 THEORY-039 THEORY-286 — Proposed; the record's statement of collapse, its account of limiting dynamics, its comparison of late phases, and the imbalance account filed beside this one -->
 <!-- inactive-ok-file: THEORY-797 — Proposed; the wider proposal this entry's narrowing dropped, filed apart under ADR-047 v4 and extending this one -->
-<!-- inactive-ok-file: THEORY-tmp8sxta — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
+<!-- inactive-ok-file: THEORY-2185 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 # THEORY-278: Under MSE loss, in Han, Papyan and Donoho's VGG, ResNet and DenseNet runs on five balanced ten-class datasets, the trained classifier stays near the least-squares classifier for its own features from an early epoch; and on that central path, for unconstrained features continually renormalized to identity within-class covariance and without weight decay, gradient flow drives the class-separation singular values to infinity at equal rates, which in that model is neural collapse
 
@@ -197,7 +197,7 @@ measured or derived content is its evidence. Nothing here changes.
 
 ## Note of 2026-11-22: Yang, Steinhardt and Hu, read
 
-Yang, Steinhardt and Hu ([LIT-2957](../literature.d/LIT-2957.md), [NOTE-tmpl260d](../notes.d/NOTE-tmpl260d.md), [THEORY-tmp8sxta](THEORY-tmp8sxta.md)): **a contrast
+Yang, Steinhardt and Hu ([LIT-2957](../literature.d/LIT-2957.md), [NOTE-2276](../notes.d/NOTE-2276.md), [THEORY-2185](THEORY-2185.md)): **a contrast
 only.** Cross-entropy, not MSE; it attacks the unconstrained-feature model's
 data-blindness, the model in which this account's renormalized flow is
 derived. No relation.

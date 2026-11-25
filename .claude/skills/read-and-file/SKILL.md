@@ -198,7 +198,7 @@ Bare codes only. Never write a link target, and do not run `luria repair`,
   step. It never writes to the record, never commits a downloaded text,
   and never force-pushes. When the reading is filed, remove the worktree
   and delete the branch, locally and on the remote.
-- **Parallel workers in one working tree** (ADR-tmp9sp9d). Drafters and
+- **Parallel workers in one working tree** (ADR-139). Drafters and
   filers share the filing branch's checkout. Each brief asks the worker
   to list the files it creates or edits. While any worker is writing,
   commit only listed files, never `git add -A`, and pull CI's repair only
@@ -294,6 +294,10 @@ not a finding.
 - **A QUESTION** needs a `line:`.
 - **Titles and H1 headings** carry no codes, so they keep agreeing after
   CI's repair (dmarx/luria#393).
+- **The H1 repeats the title word for word**, as `# CODE: title` with the
+  entry's own code, never a shortened heading. `luria lint` fails the
+  pull request otherwise. Before pushing, check only your own files:
+  `luria.lint.check_title` with `luria.adr_index.read_document`.
 
 ## 9a. Fill the gaps (ADR-137)
 
@@ -308,6 +312,11 @@ the ledger found, not only when the owner asks.
     `python3 -I` where it computes, the check stated in the entry;
   - *a correction*: in the entry that uses the mistaken step, quoting the
     source and giving the right value with the check;
+  - *a model's reading*: when the source draws a verbal conclusion from a
+    toy model, check both that the numbers are right and that each
+    parameter means what the conclusion takes it to mean. In the exchange
+    "Memes, Contracts, and Systemic Normativity" three corrections out of
+    three were of the second kind, and one was the checker's own;
   - *a question*: when the gap is open and the record should hold it so;
   - *a lead* (ADR-109): for a test or reading that would settle it.
 - **Say which gap it fills** and which turn or passage it answers. The
@@ -439,7 +448,7 @@ Nothing in the source is dropped silently. Add a changelog fragment
   only a relation field cites. A code that excuses nothing is dead weight.
 - **Check only your own files.** A narrow scan of the files you changed,
   with `luria.ref_status.scan(files=...)`, is fine for diagnosis.
-- **Gate each commit on its edit** (ADR-tmp9sp9d): edit, check and exit
+- **Gate each commit on its edit** (ADR-139): edit, check and exit
   non-zero on failure in one script, then commit with `&&`.
 - **Commit and push each step.** Pull before every push, because CI's
   repair lands as its own commit.

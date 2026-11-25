@@ -10,7 +10,7 @@ history:
   date: '2026-11-22'
   note: >-
     Edited in place on 2026-11-22 after Bak, Tang and Wiesenfeld
-    (LIT-2992) was read (NOTE-tmpnl00y, THEORY-tmpehudh): the
+    (LIT-2992) was read (NOTE-2269, THEORY-2179): the
     feedback-onto-a-threshold answer is marked as the later framing of
     self-organized criticality, not the 1987 letter's, and the letter's
     own partial answer is added, relaxation stopping at marginal
@@ -24,7 +24,7 @@ history:
     were read, and Kosterlitz and Thouless (LIT-2969) through neighbours:
     four partial answers added (KPZ, Toner–Tu, BKT, and one system with
     both a tuned and an untuned regime), with the inferences that are the
-    reader's marked so; the assistant's CLAIM-tmpvq33w, which states what
+    reader's marked so; the assistant's CLAIM-862, which states what
     three of them share, is named. The question and its status are
     unchanged.
 tags:
@@ -55,9 +55,9 @@ summary: >-
   Laws", A6, A8, A23); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: TERM-139 CLAIM-841 — filed with this question on 2026-11-21 -->
-<!-- inactive-ok-file: LIT-2969 LIT-tmpoc5u6 — Unfetched or Deferred; Kosterlitz and Thouless, read through neighbours, and the directed-percolation letter registered from Takeuchi and Sano -->
-<!-- inactive-ok-file: THEORY-tmpo3w5v THEORY-tmpdcfxq THEORY-tmpmoyol THEORY-tmpdfeto THEORY-tmpwdka8 THEORY-tmpaojie NOTE-tmpcjw5n CLAIM-tmpvq33w — Proposed, Skimmed or new; the readings of 2026-11-22 and the assistant's claim filed from them -->
-<!-- inactive-ok-file: THEORY-tmpehudh CLAIM-tmpfwwrf — Proposed or new; the reading of Bak, Tang and Wiesenfeld and the record's reproduction of the sandpile -->
+<!-- inactive-ok-file: LIT-2969 LIT-3060 — Unfetched or Deferred; Kosterlitz and Thouless, read through neighbours, and the directed-percolation letter registered from Takeuchi and Sano -->
+<!-- inactive-ok-file: THEORY-2202 THEORY-2198 THEORY-2201 THEORY-2199 THEORY-2206 THEORY-2197 NOTE-2285 CLAIM-862 — Proposed, Skimmed or new; the readings of 2026-11-22 and the assistant's claim filed from them -->
+<!-- inactive-ok-file: THEORY-2179 CLAIM-858 — Proposed or new; the reading of Bak, Tang and Wiesenfeld and the record's reproduction of the sandpile -->
 <!-- inactive-ok-file: THEORY-1095 — Proposed; Toner–Tu long-range order in two dimensions -->
 
 # QUESTION-508: Why do some systems reach scale invariance without any parameter being tuned, while others show it only at a tuned critical point?
@@ -105,7 +105,7 @@ direction left to tune.
   ([LIT-2992](../literature.d/LIT-2992.md)) state none of slow drive, time-scale separation or
   conservation as a condition (see the next item).
 - **Relaxation that stops at marginal stability** (Bak, Tang and
-  Wiesenfeld, [LIT-2992](../literature.d/LIT-2992.md), p. 382; [THEORY-tmpehudh](../theory.d/THEORY-tmpehudh.md)). A pile relaxed from a
+  Wiesenfeld, [LIT-2992](../literature.d/LIT-2992.md), p. 382; [THEORY-2179](../theory.d/THEORY-2179.md)). A pile relaxed from a
   strongly unstable start stops at the first stable state, and "The
   system will become stable precisely at the point when the network of
   minimally stable states has been broken down to the level where the
@@ -118,41 +118,41 @@ direction left to tune.
   below.
 
 - **Symmetry, and whether the nonlinearity is relevant** (Kardar, Parisi
-  and Zhang, [LIT-2978](../literature.d/LIT-2978.md), p. 889; [THEORY-tmpo3w5v](../theory.d/THEORY-tmpo3w5v.md)). The KPZ equation is
+  and Zhang, [LIT-2978](../literature.d/LIT-2978.md), p. 889; [THEORY-2202](../theory.d/THEORY-2202.md)). The KPZ equation is
   invariant under h → h + const and under a small tilt. That the shift
   invariance forbids a restoring term ∝ h, and that the tilt symmetry is
   what keeps λ unrenormalized and fixes χ + z = 2, are the reader's
   inferences, the second later stated by Le Doussal ("Galilean
   invariance (i.e. the STS symmetry) ensures the relation χ = 2 − z",
-  [THEORY-tmpdcfxq](../theory.d/THEORY-tmpdcfxq.md)); the letter itself says only that whether λ is
+  [THEORY-2198](../theory.d/THEORY-2198.md)); the letter itself says only that whether λ is
   relevant decides which scale-free class is reached: relevant for
   d < 2, marginally relevant at 2, and above two dimensions irrelevant
   when small, with a tuned strong-coupling threshold between two
   scale-invariant phases.
 - **Symmetry plus conservation** (Toner and Tu, [LIT-2970](../literature.d/LIT-2970.md), pp. 46–50,
-  63–64; [THEORY-tmpdfeto](../theory.d/THEORY-tmpdfeto.md)). Rotation invariance forbids a mass for the
+  63–64; [THEORY-2199](../theory.d/THEORY-2199.md)). Rotation invariance forbids a mass for the
   transverse velocity, which a compass restores; pseudo-Galilean
   invariance and exact mass conservation fix the d = 2 exponents; and
   the ordered phase's scaling belongs to "the low temperature fixed
   point", reached with nothing tuned.
 - **U(1) symmetry together with two dimensions** (BKT, through
-  Kosterlitz's lecture, [LIT-tmp3k6np](../literature.d/LIT-tmp3k6np.md), and Drouin-Touchette, [LIT-tmp6hh1r](../literature.d/LIT-tmp6hh1r.md);
-  [THEORY-tmpwdka8](../theory.d/THEORY-tmpwdka8.md), [THEORY-tmpaojie](../theory.d/THEORY-tmpaojie.md)). A free vortex's energy and its
+  Kosterlitz's lecture, [LIT-3053](../literature.d/LIT-3053.md), and Drouin-Touchette, [LIT-3055](../literature.d/LIT-3055.md);
+  [THEORY-2206](../theory.d/THEORY-2206.md), [THEORY-2197](../theory.d/THEORY-2197.md)). A free vortex's energy and its
   entropy both grow as ln L, so below T_KT the fugacity, the one relevant
   candidate, flows to zero on a line of fixed points. The symmetry alone
   does not do it: the logarithm is a two-dimensional fact. A finite
   interaction range, the penetration depth λ of a charged film, cuts off
   the logarithm and frees vortices "at any T > 0" (lecture, p. 98).
 - **One system, both regimes** (Takeuchi and Sano, [LIT-2982](../literature.d/LIT-2982.md);
-  [THEORY-tmpmoyol](../theory.d/THEORY-tmpmoyol.md)). Nematic electroconvection shows tuned
+  [THEORY-2201](../theory.d/THEORY-2201.md)). Nematic electroconvection shows tuned
   directed-percolation criticality at the DSM1–DSM2 threshold
-  ("spatiotemporal intermittency", p. 2; [LIT-tmpoc5u6](../literature.d/LIT-tmpoc5u6.md), registered,
+  ("spatiotemporal intermittency", p. 2; [LIT-3060](../literature.d/LIT-3060.md), registered,
   unread, known by its title) and untuned KPZ growth well above it, which
   the authors credit to local growth, intrinsic noise and no quenched
   disorder. So the answer is not a property of a system as a whole but
   of a regime.
 
-The assistant's [CLAIM-tmpvq33w](../claims.d/CLAIM-tmpvq33w.md) states what the first three share: a
+The assistant's [CLAIM-862](../claims.d/CLAIM-862.md) states what the first three share: a
 protection, and a perturbation that undoes it; it bears on this question
 and leaves the feedback, flux and growth routes aside.
 
@@ -179,38 +179,38 @@ critical point) narrows the question and is filed as a claim that
 
 ## Note of 2026-11-22: Bak, Tang and Wiesenfeld, read
 
-Bak, Tang and Wiesenfeld ([LIT-2992](../literature.d/LIT-2992.md), read in full in [NOTE-tmpnl00y](../notes.d/NOTE-tmpnl00y.md); the
-reading is [THEORY-tmpehudh](../theory.d/THEORY-tmpehudh.md)) **give one partial answer and leave the
+Bak, Tang and Wiesenfeld ([LIT-2992](../literature.d/LIT-2992.md), read in full in [NOTE-2269](../notes.d/NOTE-2269.md); the
+reading is [THEORY-2179](../theory.d/THEORY-2179.md)) **give one partial answer and leave the
 general question open.** Their answer, now listed above, is a
 stopping-at-marginal-stability argument by analogy with percolation, not
 A24 §4's feedback balance, and it adds a condition the list lacked,
 d ≥ 2. Their protocol is relaxation from z ≫ K, then probing with local
 perturbations; the slow-drive, time-scale and conservation conditions
 the question attributes to SOC come from later work. The record's
-reproduction of the sandpile under slow drive ([CLAIM-tmpfwwrf](../claims.d/CLAIM-tmpfwwrf.md)) shows a
+reproduction of the sandpile under slow drive ([CLAIM-858](../claims.d/CLAIM-858.md)) shows a
 cutoff growing with lattice size and nothing tuned, which is the
-phenomenon the question asks about, not its explanation. [THEORY-tmpehudh](../theory.d/THEORY-tmpehudh.md)
+phenomenon the question asks about, not its explanation. [THEORY-2179](../theory.d/THEORY-2179.md)
 `bears_on` this question. Version 2.
 
 ## Note of 2026-11-22: Kardar, Parisi and Zhang, and Takeuchi and Sano, read
 
-KPZ ([LIT-2978](../literature.d/LIT-2978.md), [NOTE-tmpf6isj](../notes.d/NOTE-tmpf6isj.md), [THEORY-tmpo3w5v](../theory.d/THEORY-tmpo3w5v.md)) **gives a partial answer
+KPZ ([LIT-2978](../literature.d/LIT-2978.md), [NOTE-2287](../notes.d/NOTE-2287.md), [THEORY-2202](../theory.d/THEORY-2202.md)) **gives a partial answer
 for interfaces**, listed above, and marks a limit: the untuned reach of
-the class is d ≤ 2. Takeuchi and Sano ([LIT-2982](../literature.d/LIT-2982.md), [NOTE-tmpbmox1](../notes.d/NOTE-tmpbmox1.md),
-[THEORY-tmpmoyol](../theory.d/THEORY-tmpmoyol.md)) **give a contrast within one system** and conditions
+the class is d ≤ 2. Takeuchi and Sano ([LIT-2982](../literature.d/LIT-2982.md), [NOTE-2284](../notes.d/NOTE-2284.md),
+[THEORY-2201](../theory.d/THEORY-2201.md)) **give a contrast within one system** and conditions
 (locality, intrinsic noise, no quenched disorder) for that system only.
 Both THEORYs `bears_on` this question. Version 3.
 
 ## Note of 2026-11-22: Toner and Tu (1998), read
 
-Toner and Tu ([LIT-2970](../literature.d/LIT-2970.md), [NOTE-tmpcjw5n](../notes.d/NOTE-tmpcjw5n.md), [THEORY-tmpdfeto](../theory.d/THEORY-tmpdfeto.md)) **give a partial
+Toner and Tu ([LIT-2970](../literature.d/LIT-2970.md), [NOTE-2285](../notes.d/NOTE-2285.md), [THEORY-2199](../theory.d/THEORY-2199.md)) **give a partial
 answer for flocks**, listed above: symmetry plus conservation, the
 answer A's "Symmetry removes the restoring term" bullet gives, with a
-conservation law added. [THEORY-tmpdfeto](../theory.d/THEORY-tmpdfeto.md) `bears_on` this question.
+conservation law added. [THEORY-2199](../theory.d/THEORY-2199.md) `bears_on` this question.
 
 ## Note of 2026-11-22: Kosterlitz and Thouless, through two neighbours
 
-The lecture and the notes ([THEORY-tmpwdka8](../theory.d/THEORY-tmpwdka8.md), [THEORY-tmpaojie](../theory.d/THEORY-tmpaojie.md)) **narrow the
+The lecture and the notes ([THEORY-2206](../theory.d/THEORY-2206.md), [THEORY-2197](../theory.d/THEORY-2197.md)) **narrow the
 line-of-fixed-points answer**: it is not "symmetry removes θ²" alone but
 symmetry with dimension, and a finite interaction range ends it, which
 has the shape of the counterexample the question asks for, an

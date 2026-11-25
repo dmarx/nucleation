@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmptw11r
 title: 'Anchors entrench: a structure that persists early can lock in its framing, so that later structure grows on it and alternatives become hard to reach, and retirement by status is the record''s remedy only if superseded anchors stop attracting new structure'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-29'
@@ -42,6 +42,10 @@ history:
     owner's manuscript from the exchange "Topological protection
     explained": A43 §3.3 and §12 state its proposition, apart from its
     clause on the record's remedy. No other change.
+- version: 6
+  date: '2026-11-22'
+  note: >-
+    A dated note: the LEAD-176 readings of 2026-11-22 (see the note). No other change.
 role: counter
 warrant: interpretive
 tags:
@@ -70,6 +74,7 @@ summary: >-
 complements:
 - CLAIM-301
 ---
+<!-- inactive-ok-file: LIT-1926 — Unavailable since 2026-11-22; the book LEAD-176's neighbour stands in for, cited in its dated note -->
 <!-- inactive-ok-file: CLAIM-185 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: LIT-917 — Unavailable, unread; cited for what it is standardly cited for, and marked unread in the text -->
 <!-- inactive-ok-file: SYNTHESIS-012 — Proposed; cited in the note of 2026-11-12 for what each holds, not as settled -->
@@ -158,7 +163,7 @@ record's seed ([CLAIM-185](CLAIM-185.md), note of this date). No status, title o
 changes.
 
 ## Note of 2026-11-01: lock-in as generative entrenchment
-<!-- inactive-ok-block: LIT-188 LIT-1926 — Deferred, unread; Proposed: read in full; cited from the re-reading of LIT-188, not leaned on -->
+<!-- inactive-ok-block: LIT-188 — Deferred, unread; Proposed: read in full; cited from the re-reading of LIT-188, not leaned on -->
 
 The mechanism this claim names has a standard source the record now
 holds as a registration: Wimsatt's generative entrenchment
@@ -282,3 +287,23 @@ The claim is unchanged.
 ## Note of 2026-11-20: what holds it back
 
 Rechecked after [CASE-178](../cases.d/CASE-178.md)'s revisions of 2026-11-07 (line bookkeeping) and 2026-11-12 (it draws on [THEORY-1279](../theory.d/THEORY-1279.md)), and this claim's own of 2026-11-19, which joins a work. None bears on what holds it: [CASE-178](../cases.d/CASE-178.md)'s falling rate of grammar changes is still open between maturing and entrenching (note of 2026-11-12), the first half, that an early anchor locks in its framing so that alternatives become hard to reach, has no result on this record, and the loop [TERM-020](../terms.d/TERM-020.md) requires is not shown.
+
+## Note of 2026-11-22: entrenchment readings, an analogue
+
+Read for [LEAD-176](../leads.d/LEAD-176.md): Wimsatt and Schank 2004 ([LIT-3138](../literature.d/LIT-3138.md), [NOTE-2365](../notes.d/NOTE-2365.md)),
+standing in for Wimsatt's book ([LIT-1926](../literature.d/LIT-1926.md), Unavailable), and Shavit and
+Sharon 2023 ([LIT-1935](../literature.d/LIT-1935.md), [NOTE-2363](../notes.d/NOTE-2363.md)). An analogue; no edge.
+
+- Wimsatt and Schank give the biological mechanism the claim borrows:
+  elements that more later structure depends on are more conservative,
+  since changing them disrupts more. Their bicoid example adds
+  irreversibility "through loss of once useful but now redundant control
+  linkages": an early structure entrenches when the alternatives it
+  replaced are lost.
+- Shavit and Sharon's "point of no return" is the same shape in a human
+  case: once farming carries status, property and community roles,
+  reverting "threatens one's self as well as one's community as a
+  whole". It is asserted from a narrative, not measured.
+
+Neither bears on the claim's clause about the record's remedy. No status
+change.

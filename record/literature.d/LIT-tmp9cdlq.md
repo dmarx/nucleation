@@ -17,7 +17,7 @@ history:
 - version: 1
   date: '2026-11-22'
   note: >-
-    Filed, not read, for LEAD-tmp3xevc. Citation checked against Crossref
+    Filed, not read, for LEAD-215. Citation checked against Crossref
     on 2026-11-22: S. C. Kleene, Journal of Symbolic Logic 10(4), 109–124,
     December 1945 (month only; the first of the month is `published:`,
     per ADR-002, by the record's convention for month-only dates).
@@ -43,13 +43,13 @@ summary: >-
   Kleene (1945) introduces recursive realizability: a definition, by
   induction on an arithmetical sentence, of what it is for a natural number
   to realize it, under which every theorem of intuitionistic arithmetic has
-  a realizer. Registered for [LEAD-tmp3xevc](../leads.d/LEAD-tmp3xevc.md), to test [CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md)'s
+  a realizer. Registered for [LEAD-215](../leads.d/LEAD-215.md), to test [CLAIM-949](../claims.d/CLAIM-949.md)'s
   reading of Kleene's realizer as the record's realization with its witness
-  kept, and the witness and certificate pair ([TERM-tmp7s2aa](../terms.d/TERM-tmp7s2aa.md),
-  [TERM-tmp3mop8](../terms.d/TERM-tmp3mop8.md)). Unread; what is said of it here is van Oosten's account
+  kept, and the witness and certificate pair ([TERM-154](../terms.d/TERM-154.md),
+  [TERM-153](../terms.d/TERM-153.md)). Unread; what is said of it here is van Oosten's account
   ([LIT-tmpegqz0](LIT-tmpegqz0.md), [THEORY-tmpqj2d4](../theory.d/THEORY-tmpqj2d4.md)), not verified against Kleene's text.
 ---
-<!-- inactive-ok-file: CLAIM-tmpnookt TERM-tmp7s2aa TERM-tmp3mop8 THEORY-tmpqj2d4 — Proposed or Open; the claim, terms and lead this work was registered for, and the stand-in's reading -->
+<!-- inactive-ok-file: CLAIM-949 TERM-154 TERM-153 THEORY-tmpqj2d4 — Proposed or Open; the claim, terms and lead this work was registered for, and the stand-in's reading -->
 
 # LIT-tmp9cdlq: On the interpretation of intuitionistic number theory
 
@@ -72,7 +72,7 @@ intuitionistic meaning of the statements" (§2, as van Oosten quotes it).
 
 ## Standing in the record
 
-Registered on 2026-11-22 for [LEAD-tmp3xevc](../leads.d/LEAD-tmp3xevc.md). Unavailable; [LIT-tmpegqz0](LIT-tmpegqz0.md) stands
+Registered on 2026-11-22 for [LEAD-215](../leads.d/LEAD-215.md). Unavailable; [LIT-tmpegqz0](LIT-tmpegqz0.md) stands
 in for it. How far: van Oosten states all six clauses of the 1945
 definition, the soundness theorem (in the "glued" form he gives it), the
 weak Church's rule and the underivability of double-negation shift, and

@@ -6,11 +6,11 @@
 
 **Self** — what a self is — the minimal, bodily and pre-reflective self, self-models and the sense of being a subject, the self as process or as context, and whether machines or groups can be selves. Not the person, which is personhood (group: philosophy; ADR-024).
 
-4 of 211 LEAD documents. Back to the [full index](../README.md).
+4 of 234 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [LEAD-062](../../../record/leads.d/LEAD-062.md) | Find or design a study that measures the self's extent apart from caring and tests whether concern for future people and for one's legacy follows it, including legacy priming where no one will know | Three central questions and an Active claim share one test. Named in [QUESTION-301](../../../record/questions.d/QUESTION-301.md), [QUESTION-299](../../../record/questions.d/QUESTION-299.md) and [NOTE-1280](../../../record/notes.d/NOTE-1280.md). Filed by the backlog audit of 2026-11-19. | Open |
 | [LEAD-078](../../../record/leads.d/LEAD-078.md) | Find evidence on bundling by self-prediction rather than an imposed bundle, and on whether discounting mediates self-control change after mindfulness practice | Named in [CLAIM-169](../../../record/claims.d/CLAIM-169.md) and [CLAIM-156](../../../record/claims.d/CLAIM-156.md). Filed by the backlog audit of 2026-11-19. | Open |
 | [LEAD-092](../../../record/leads.d/LEAD-092.md) | Read the single unread works under central entries | Named in the curation entry of 2026-11-14 (094408) and [NOTE-1080](../../../record/notes.d/NOTE-1080.md). Filed by the backlog audit of 2026-11-19. | Open |
-| [LEAD-134](../../../record/leads.d/LEAD-134.md) | Run the imagined owner: a case with cause and report recorded apart, in which a unified self-model misdescribes who controls what | Named in [CLAIM-355](../../../record/claims.d/CLAIM-355.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-134](../../../record/leads.d/LEAD-134.md) v2 | Run the imagined owner: a case with cause and report recorded apart, in which a unified self-model misdescribes who controls what | Named in [CLAIM-355](../../../record/claims.d/CLAIM-355.md). Filed by the backlog audit of 2026-11-19. | Open |

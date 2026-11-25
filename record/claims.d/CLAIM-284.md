@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpspyay
 title: 'A self, in the self-governing sense, is a historically continuous organization of processes that takes part in governing the conditions of its own persistence, differentiation and transformation, not merely one that persists'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-22'
@@ -60,6 +60,13 @@ history:
     it (CLAIM-288 undercuts ARG-015, the sufficiency-test route, not this
     claim), and nothing in the record meets its defeated_if. Status
     Proposed to Active. The claim is unchanged.
+- version: 7
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-144) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §3.0. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -82,6 +89,7 @@ date: '2026-10-13'
 answers:
 - QUESTION-092
 works:
+- governance-of-possibility
 - self-as-recursive-ecology
 line:
 - distributed-agency
@@ -112,6 +120,7 @@ complements:
 ---
 <!-- inactive-ok-file: CLAIM-417 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CLAIM-165 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-1175 CLAIM-1044 — new; A's conjecture and its revision, cited in the note of 2026-11-22 -->
 
 # CLAIM-284: A self, in the self-governing sense, is a historically continuous organization of processes that takes part in governing the conditions of its own persistence, differentiation and transformation, not merely one that persists
 
@@ -237,3 +246,7 @@ The thirteenth status review decided the question the note above left
 to this pass, at the status review's ruling (the owner delegated these
 rulings). Every premise is held, no objection is live, and the claim is
 Active.
+
+## Note of 2026-11-22: A15's closing question, which this claim answers
+
+In the exchange "Explain First Contact RL" (ChatGPT, shared 2026-11-22), A15 ended its revision of a self conjecture ([CLAIM-1175](CLAIM-1175.md), revising [CLAIM-1044](CLAIM-1044.md)) with "What if a self is not chiefly the bearer of a repertoire of perspectives, but the ongoing process by which that repertoire becomes differentiated, coordinated, and capable of being revised?" This claim says so for the self-governing sense: an organization "that takes part in governing the conditions of its own persistence, differentiation and transformation". A15 adds the observational side this claim leaves out: that which perspectives the organization appears to have is relative to the probes afforded ([CLAIM-574](CLAIM-574.md)), and that it may admit several equally adequate factorizations. Both new claims rest on this one. No change.

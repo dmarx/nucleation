@@ -6,8 +6,8 @@
 
 **Logic** — valid inference and its formal theories — propositional and model-theoretic structures, proof and consequence, and inferentialist accounts of meaning (group: philosophy).
 
-0 of 211 LEAD documents. Back to the [full index](../README.md).
+1 of 234 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [LEAD-215](../../../record/leads.d/LEAD-215.md) v4 | Read the type-theoretic sources for the account of specification, propositions as problems, realizability, refinement types and bidirectional typing, to test the correspondences the record states from memory | Filed beside [CLAIM-949](../../../record/claims.d/CLAIM-949.md) under the dialectic regime, 2026-11-22. That claim relates specification to type theory from the assistant's knowledge; no source is held. Candidates: Kolmogorov 1932 on the logic of problems; Kleene 1945 on realizability; Martin-Löf 1984, Intuitionistic Type Theory; Freeman and Pfenning 1991 on refinement types; Dunfield and Krishnaswami 2021, a survey of bidirectional typing. The owner started the readings on 2026-11-22, one delegated reader per work, each filed in its own pull request into staging. | Open |

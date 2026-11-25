@@ -2,7 +2,7 @@
 number: 673
 status: Proposed
 formerly:
-- THEORY-673
+- THEORY-tmpxplka
 promote_when: >-
   Two results together. A treatment showing which Price partition a given
   causal model licenses, so that the schema's specialisation is not an

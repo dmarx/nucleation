@@ -19,6 +19,7 @@ summary: >-
   names several things. This question separates them so that the record
   can investigate each without presupposing that one is fundamental.
 ---
+<!-- inactive-ok-file: CASE-384 CLAIM-991 CLAIM-990 — new or Proposed; the LEAD-160 study and claims cited in the note of 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-519 TERM-086 — Proposed; the thesis and the term this question sorts, cited as open -->
 
 # QUESTION-362: Which predictive and causal query capabilities are implied by competence across specified goal families, which are available to the agent under its actual resource constraints, and which require distinct internal modeling mechanisms; and under what conditions can those mechanisms and capabilities be maintained, revised or reconstructed endogenously?
@@ -110,3 +111,27 @@ For stated goal and query families:
   after damage.
 
 The proposed study [CASE-187](../cases.d/CASE-187.md) is one route.
+
+## Note of 2026-11-22: a toy run of the proposed study
+
+[CASE-384](../cases.d/CASE-384.md) ran [CASE-187](../cases.d/CASE-187.md) at toy scale. It bears on four rows of the
+table.
+
+- **Recoverable is not available.** With goal competence matched exactly,
+  next states, distances, occupancies and post-intervention answers could
+  be read out of all three agents equally well. Within its own
+  per-decision computation, each answered a different family
+  ([CLAIM-991](../claims.d/CLAIM-991.md)).
+- **Realized mechanism.** A targeted intervention separated two agents
+  with identical behaviour. It did so relative to its declared scope: a
+  content-level edit made the distributed predictor respond as the planner
+  does, with no table ([CLAIM-990](../claims.d/CLAIM-990.md)).
+- **Maintenance and revision.** The explicit table recovered fastest from
+  change and damage. Its prediction error flagged exactly the damaged
+  units. The TD errors of the other two flagged most undamaged units as
+  well.
+- **Fragility.** The same table was more fragile to the same damage at
+  first.
+
+It does not answer the question. It is one tabular, deterministic
+instance of each row.

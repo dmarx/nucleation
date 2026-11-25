@@ -4,7 +4,15 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmps2rzp
 title: 'A communicative object is a context-indexed system of empirical constraints whose global realizability is to be found out, not assumed: where it fails, the obstruction lies in the supports or distributions, not in the event sheaf, in contexts that do not overlap or in frames whose correspondence is fixed, and it is neither ordinary context dependence nor ambiguity; within a fixed scenario the headline that translation keeps local meanings while changing global structure has only constructed cases, since the behavioural data read show no contextuality proper, and it is carried forward as a change in which questions readers can decide, whose standing as a change of cover is disputed; translation operations form a semigroup of directed lossy maps whose invertible core is the relabellings; whether communicative categories form a concept lattice is open; and many of the line''s defeat conditions cannot be met by any study'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    At the synthesis review of 2026-11-23, coverage: added CASE-370, an
+    in-force entry of the line no account integrated. It is set out at the
+    end of the components; the introduction's count changes from 57 to 58;
+    the title is unchanged.
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
   the contextuality part of the pragmatic-transport line left out without
@@ -77,6 +85,7 @@ integrates:
 - CLAIM-239
 - CLAIM-095
 - CASE-029
+- CASE-370
 ---
 <!-- inactive-ok-file: CLAIM-004 CLAIM-009 CLAIM-037 CLAIM-044 CLAIM-095 CLAIM-103 CLAIM-105 CLAIM-119 CLAIM-201 CLAIM-251 CLAIM-627 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: ARG-029 CASE-230 CLAIM-005 CLAIM-029 CLAIM-033 CLAIM-052 CLAIM-054 CLAIM-076 CLAIM-078 CLAIM-087 CLAIM-117 CLAIM-127 CLAIM-128 CLAIM-129 CLAIM-137 CLAIM-142 CLAIM-147 CLAIM-151 CLAIM-202 CLAIM-204 CLAIM-220 CLAIM-224 SYNTHESIS-030 SYNTHESIS-036 — Proposed; entries of other parts and decisions, cited for the links they state -->
@@ -91,7 +100,7 @@ communicative object as context-indexed constraints, on where and how such
 an object can fail to have one global realization, and on what the record
 holds of the headline that translation keeps local meanings while changing
 the global structure of meaning. The line's account is built over it and
-its sibling part accounts. It integrates 57 entries. Two entries the
+its sibling part accounts. It integrates 58 entries (57 until version 2). Two entries the
 mechanical map placed here are left to sibling parts, because their
 relations and text point there: [CLAIM-257](../claims.d/CLAIM-257.md), the restated observational
 distortion, to the fidelity part (it answers [CLAIM-256](../claims.d/CLAIM-256.md), uses [TERM-043](../terms.d/TERM-043.md) and
@@ -364,6 +373,21 @@ its components'.*
   Proposed.
 - [CASE-029](../cases.d/CASE-029.md), A35, A38 and A40, proposed study, stipulated, Active; a
   variant of [CASE-021](../cases.d/CASE-021.md) (frames).
+
+Added at version 2, at the synthesis review of 2026-11-23: one in-force
+entry of the line, filed after this account, that falls in its scope and
+that no account integrated. The account now integrates 58 entries.
+
+- [CASE-370](../cases.d/CASE-370.md), the assistant's computation run for [LEAD-103](../leads.d/LEAD-103.md); an executed
+  study, documented, Active. It derives the noncontextual inequality that
+  a pragmatic rendering experiment's operational equivalences imply under
+  preparation noncontextuality, the inequality [QUESTION-067](../questions.d/QUESTION-067.md) asks for and on
+  which it bears, and checks that a quantum realization violates it; its
+  second equivalence matches [CLAIM-044](../claims.d/CLAIM-044.md)'s mixed reading of an ambiguous
+  utterance, and its first the probe-relative observational equivalence of
+  [TERM-014](../terms.d/TERM-014.md) (in [SYNTHESIS-068](SYNTHESIS-068.md)). It illustrates [CLAIM-964](../claims.d/CLAIM-964.md) (Proposed), and
+  establishes the formal inequality, not that any pragmatic data violate
+  it.
 
 ## Links the components state, and where
 

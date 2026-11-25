@@ -76,7 +76,7 @@ The reading bears on what predicts concern for future generations.
 
 ## Note of 2026-11-22: Syropoulos, Law, Coleman and Young, read
 
-**Consonant**, no edge ([LIT-tmpa7f10](../literature.d/LIT-tmpa7f10.md), [NOTE-tmp11fci](../notes.d/NOTE-tmp11fci.md)). The paper's samples
+**Consonant**, no edge ([LIT-3082](../literature.d/LIT-3082.md), [NOTE-2315](../notes.d/NOTE-2315.md)). The paper's samples
 also endorse responsibility to future generations widely; it adds that the
 felt responsibility goes with one's own prospection, and that writing tasks
 raising that prospection do not reliably raise it.

@@ -31,7 +31,8 @@ summary: >-
   ends. An answer names, for a stated system, the transition that made the
   form and the one that would unmake it.
 ---
-<!-- inactive-ok-file: CASE-tmpfktyl CLAIM-tmp3twn6 CLAIM-tmpszhd7 CLAIM-tmpb80wu — new; LEAD-069's study and claims of 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2300 THEORY-2279 THEORY-2301 THEORY-2298 — Proposed; readings of LEAD-094's batch, 2026-11-22 -->
+<!-- inactive-ok-file: CASE-311 CLAIM-869 CLAIM-871 CLAIM-870 — new; LEAD-069's study and claims of 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-770 CLAIM-781 — Proposed; filed in the contribution of 2026-11-20 on hierarchy and hyperbolicity -->
 <!-- inactive-ok-file: THEORY-2038 THEORY-2041 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-616 — filed from the same exchange, Proposed -->
@@ -337,17 +338,51 @@ creation, stabilization and constitutive role are separate achievements.
 ## Note of 2026-11-22: whether the record individuates the block and the eater
 
 [LEAD-069](../leads.d/LEAD-069.md) applied the record's individuation criteria to the Life forms
-([CASE-tmpfktyl](../cases.d/CASE-tmpfktyl.md)). The verdicts are determinate once a criterion is fixed,
+([CASE-311](../cases.d/CASE-311.md)). The verdicts are determinate once a criterion is fixed,
 and they split by criterion. In [TERM-088](../terms.d/TERM-088.md)'s descriptive and dynamical
 senses, relative to stated perturbations, both the block and the eater are
 individuated. On [CLAIM-157](../claims.d/CLAIM-157.md)'s test of one system, the block is not
-([CLAIM-tmp3twn6](../claims.d/CLAIM-tmp3twn6.md)), and the eater is only at one generation. This question
+([CLAIM-869](../claims.d/CLAIM-869.md)), and the eater is only at one generation. This question
 does not say which sense its first half means, so two readings are filed.
-Reading (a), [CLAIM-tmpszhd7](../claims.d/CLAIM-tmpszhd7.md): the first half is met for Life. Reading (b),
-[CLAIM-tmpb80wu](../claims.d/CLAIM-tmpb80wu.md): it is not. The owner chooses.
+Reading (a), [CLAIM-871](../claims.d/CLAIM-871.md): the first half is met for Life. Reading (b),
+[CLAIM-870](../claims.d/CLAIM-870.md): it is not. The owner chooses.
 
 On reading (a), a token proviso applies to the second half. [CASE-260](../cases.d/CASE-260.md)'s two
 blocks in run 1 are on the same cells, two of them live throughout, so
 they are two blocks only when counted as shape instances. A soup transient
-in [CASE-tmpfktyl](../cases.d/CASE-tmpfktyl.md) that loses all four cells is created and not stabilized
+in [CASE-311](../cases.d/CASE-311.md) that loses all four cells is created and not stabilized
 on either count. No status change.
+
+## Note of 2026-11-22: Ott and Antonsen, read
+
+An instance of the question's first transition with an exact
+low-dimensional description ([THEORY-2295](../theory.d/THEORY-2295.md), [NOTE-2385](../notes.d/NOTE-2385.md)). For the
+Kuramoto model with Lorentzian frequencies of width Δ, the incoherent
+state's damping rate Δ − K/2 changes sign at Kc = 2Δ, and partial locking
+grows to the amplitude (1 − 2Δ/K)^{1/2} by a closed one-dimensional law;
+with a periodic drive, folds and a limit cycle appear whose bifurcations
+match the full system's. It bears on how a distinction comes into being,
+not on whether creation, stabilization and constitutive role are separate
+achievements. [THEORY-2295](../theory.d/THEORY-2295.md) bears on this question.
+
+## Note of 2026-11-22 (later): the rest of [LEAD-094](../leads.d/LEAD-094.md)'s batch, read
+
+Four readings bear on the question (each THEORY bears on it):
+
+- **Augustsson and colleagues 2026** ([THEORY-2300](../theory.d/THEORY-2300.md)). A split of
+  identical oscillators into synchronized and desynchronized groups arises
+  at a transverse instability of synchrony, keeps its membership through a
+  sequence of bifurcations of one group's dynamics, and is remade by
+  crisis-like jumps. Here a form's creation and its persistence come
+  apart: the membership survives while the dynamics changes.
+- **Hancock and colleagues 2024** ([THEORY-2279](../theory.d/THEORY-2279.md)). Escape across a
+  barrier by noise (multistability) and passage near saddles or a fixed
+  point's ghost without noise (metastability) are different transitions,
+  perhaps told apart by dwell times, exponential for the first.
+- **Kaur, Jain and Berman 2026** ([THEORY-2301](../theory.d/THEORY-2301.md)). Measured behavioral
+  states as metastable basins with heavy-tailed residences, which fit
+  neither of Hancock's two cases.
+- **Lee and colleagues 2025** ([THEORY-2298](../theory.d/THEORY-2298.md)). A measured, abrupt passage
+  between collective states of embryos as a slowly drifting interaction
+  crosses a range, with a fall in rate and dissipation at the passage; the
+  kind of transition is not named.

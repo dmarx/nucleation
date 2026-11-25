@@ -31,7 +31,7 @@ summary: >-
   with z < 2, which is expected "on physical grounds". The change-of-
   neighbours mechanism is a heuristic. Proposed for those two steps.
 ---
-<!-- inactive-ok-file: THEORY-tmpdfeto NOTE-tmpcjw5n — Proposed or Skimmed; the reading of the long paper, 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2199 NOTE-2285 — Proposed or Skimmed; the reading of the long paper, 2026-11-22 -->
 
 # THEORY-1095: In Toner and Tu's hydrodynamic model of a flock, true long-range orientational order survives in two dimensions, where the Mermin–Wagner theorem forbids it at equilibrium and the model's own linearized theory loses it, because the convective coupling of the velocity field to its own transport, relevant below four dimensions, keeps the transverse velocity fluctuations bounded; the authors' heuristic is that motion keeps changing each member's neighbours, so originally distant members come to interact
 
@@ -92,8 +92,8 @@ interaction which stabilizes the ordered phase" (p. 3).
 
 ## Note of 2026-11-22: Toner and Tu (1998), read
 
-The long paper ([LIT-2970](../literature.d/LIT-2970.md), read in [NOTE-tmpcjw5n](../notes.d/NOTE-tmpcjw5n.md); the reading is
-[THEORY-tmpdfeto](THEORY-tmpdfeto.md)) **keeps the conclusion and changes the argument.** Its
+The long paper ([LIT-2970](../literature.d/LIT-2970.md), read in [NOTE-2285](../notes.d/NOTE-2285.md); the reading is
+[THEORY-2199](THEORY-2199.md)) **keeps the conclusion and changes the argument.** Its
 d = 2 exponents are again z = 6/5, ζ = 3/5, χ = −1/5, "exact and universal
 for all flocks with the simple symmetries we discussed" (eq. 1.20, p. 10),
 and the 1995 results are "sound" in d = 2 (p. 11). But the two unproved
@@ -125,6 +125,6 @@ survives, but the type I/II analysis treats σ₂ alone.
 So the `promote_when` stands and is not met: the 1998 argument avoids the
 cubic vertex but has its own unproved step, a flow called "highly
 probable", and it is an argument, not the controlled calculation or
-finite-size scaling the condition asks for. [THEORY-tmpdfeto](THEORY-tmpdfeto.md) holds the
+finite-size scaling the condition asks for. [THEORY-2199](THEORY-2199.md) holds the
 long paper's account; the exactness stays this entry's question. No
 status change.

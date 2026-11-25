@@ -16,7 +16,7 @@ history:
   date: '2026-11-22'
   note: >-
     Registered as a stand-in for Kleene 1945 (LIT-tmp9cdlq; skill step
-    5, ADR-114), for LEAD-tmp3xevc, and read the same day. Citation
+    5, ADR-114), for LEAD-215, and read the same day. Citation
     checked against Crossref on 2026-11-22: Jaap van Oosten, Mathematical
     Structures in Computer Science 12(3), 239–263; print issue June 2002,
     online 6 August 2002, the earliest exact date and so `published:`
@@ -54,10 +54,10 @@ summary: >-
   Kreisel's modified realizability (1959) types the realizers by the
   formula's form, and in Hyland's effective topos Kleene's realizability is
   the truth definition for arithmetic. Read as the stand-in for Kleene 1945
-  ([LIT-tmp9cdlq](LIT-tmp9cdlq.md)) for [LEAD-tmp3xevc](../leads.d/LEAD-tmp3xevc.md); it bears on [CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md) and on the
-  terms witness and certificate ([TERM-tmp7s2aa](../terms.d/TERM-tmp7s2aa.md), [TERM-tmp3mop8](../terms.d/TERM-tmp3mop8.md)).
+  ([LIT-tmp9cdlq](LIT-tmp9cdlq.md)) for [LEAD-215](../leads.d/LEAD-215.md); it bears on [CLAIM-949](../claims.d/CLAIM-949.md) and on the
+  terms witness and certificate ([TERM-154](../terms.d/TERM-154.md), [TERM-153](../terms.d/TERM-153.md)).
 ---
-<!-- inactive-ok-file: CLAIM-tmpnookt TERM-tmp7s2aa TERM-tmp3mop8 THEORY-tmpqj2d4 LIT-tmp9cdlq — Proposed, Open or Unavailable; the claim, terms and lead this reading was made for, its own reading, and the work it stands in for -->
+<!-- inactive-ok-file: CLAIM-949 TERM-154 TERM-153 THEORY-tmpqj2d4 LIT-tmp9cdlq — Proposed, Open or Unavailable; the claim, terms and lead this reading was made for, its own reading, and the work it stands in for -->
 
 # LIT-tmpegqz0: Realizability: a historical essay
 

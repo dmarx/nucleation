@@ -91,7 +91,7 @@ the exchange (Ganea et al., [LIT-866](../literature.d/LIT-866.md)) is another th
 
 ## Note of 2026-11-21: Hoogland, Wang, Farrugia-Roberts, Carroll, Wei & Murfet, read
 
-Leaves the question open ([NOTE-tmp2pgi8](../notes.d/NOTE-tmp2pgi8.md)). The paper measures no strata.
+Leaves the question open ([NOTE-2248](../notes.d/NOTE-2248.md)). The paper measures no strata.
 Its estimated coefficient is not monotone over training (it falls in three
 stages), so if stages climbed a chain of strata by incidence, the estimate
 would not show the climb monotonically, or the estimate tracks something

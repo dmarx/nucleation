@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpwpvbz
 title: 'A process with no procedural friction can still be interruptible: standing constraints set slowly in advance and enforced by mechanisms faster than the process can foreclose alternatives keep it open to intervention without delaying it, so an opportunity to intervene does not consist in friction'
-version: 7
+version: 9
 history:
 - version: 2
   date: '2026-11-16'
@@ -38,6 +38,16 @@ history:
     Joins the work capability-restraint-relational-freedom
     (ADR-104), the owner's manuscript from the exchange "Assess
     Depp Heard Abuse": A49 §10 states its proposition. No other change.
+- version: 8
+  date: '2026-11-22'
+  note: >-
+    A dated note added: Frischmann and Benesch (LIT-3136) registered and read on 2026-11-22 for LEAD-152, NOTE-2359. No change of status or title.
+- version: 9
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-144), the owner's
+    manuscript from the exchange "Explain First Contact RL": A48 §7 uses
+    it: slow rule formation with fast execution. No other change.
 role: counter
 warrant: interpretive
 defeated_if: >-
@@ -57,6 +67,7 @@ date: '2026-11-15'
 line:
 - distributed-agency
 works:
+- governance-of-possibility
 - capability-restraint-relational-freedom
 objects_to:
 - CLAIM-710
@@ -193,7 +204,36 @@ without slowing each decision, as CLAIM-711 says is possible. Relation: corrobor
 (as an institutional proposal, not a demonstration that it works).
 
 ## Note of 2026-11-22: precommitted limits in [CASE-285](../cases.d/CASE-285.md)'s model
-<!-- inactive-ok-file: CASE-tmp8riid CLAIM-tmpsaql8 — new; the executed study and claim of LEAD-068, filed 2026-11-22 -->
+<!-- inactive-ok-file: CASE-316 CLAIM-879 — new; the executed study and claim of LEAD-068, filed 2026-11-22 -->
 <!-- inactive-ok-file: CASE-285 — Proposed; cited in the note of 2026-11-22 on LEAD-068's simulation -->
 
-[CASE-tmp8riid](../cases.d/CASE-tmp8riid.md) runs [CASE-285](../cases.d/CASE-285.md)'s design. Its precommitted limits are this claim's arrangement in a model: set before action, enforced at once, escalating what they catch. They kept the fast process interruptible without delaying the actions they let pass, and exactly in proportion to their coverage: outside what they foresaw nothing was won back, unless the overseer detected it in time by the ordinary route. That is the dependence this claim's defeated_if names ("interruptibility is kept only for the transitions foreseen"), made explicit; the model stipulates coverage and cannot say how much real limits foresee. [CLAIM-tmpsaql8](CLAIM-tmpsaql8.md) states the result. No status changes.
+[CASE-316](../cases.d/CASE-316.md) runs [CASE-285](../cases.d/CASE-285.md)'s design. Its precommitted limits are this claim's arrangement in a model: set before action, enforced at once, escalating what they catch. They kept the fast process interruptible without delaying the actions they let pass, and exactly in proportion to their coverage: outside what they foresaw nothing was won back, unless the overseer detected it in time by the ordinary route. That is the dependence this claim's defeated_if names ("interruptibility is kept only for the transitions foreseen"), made explicit; the model stipulates coverage and cannot say how much real limits foresee. [CLAIM-879](CLAIM-879.md) states the result. No status changes.
+
+## Note of 2026-11-22: Frischmann and Benesch, read
+
+Background, not evidence ([LIT-3136](../literature.d/LIT-3136.md), [NOTE-2359](../notes.d/NOTE-2359.md)). The content-neutral regulations Frischmann and Benesch sketch are standing rules set in advance, with triggers (a count of forwards, a border, social-graph distance) that delay what they catch and leave the rest alone (pp. 437–42): the shape this claim describes. They justify them by the deliberation they allow, not by interruptibility, and report no test. Relation: none. No status changes.
+
+<!-- inactive-ok-file: CLAIM-1070 — Proposed; filed in this filing of 2026-11-23 (third share) -->
+
+## Note of 2026-11-23: the slow commitment applied fast
+
+A42 §3 and A44 §4 of the exchange "Explain First Contact RL" (third share,
+ChatGPT, 2026-11-22) both cite this claim. A42: "the rate of executing a
+decision can be separated from the rate of revising the rules that
+authorize it". A44: "Preauthorize fast actions that remain within the
+jurisdiction of the slower governing structure. ... The commitment is
+slow; its application is fast." Both are faithful to it. A44 adds the
+residual case, an emergency outside the preauthorized categories, which
+needs "an escalation or revision pathway rather than merely faster
+execution of obsolete rules". [CLAIM-1051](CLAIM-1051.md) and [CLAIM-1070](CLAIM-1070.md) cite this
+claim.
+
+## Note of 2026-11-23: what holds it back
+
+<!-- inactive-ok-block: TERM-125 — Proposed; the sense this waits on -->
+Whether its counterexample removes friction or relocates it, the first
+clause of its defeated_if, turns on whether an independent execution gate is
+procedural friction in [CLAIM-710](CLAIM-710.md)'s sense, which [TERM-125](../terms.d/TERM-125.md) leaves open and
+[CLAIM-710](CLAIM-710.md)'s note of 2026-11-22 on [CASE-316](../cases.d/CASE-316.md) leaves to the owner. Promoting it
+would also make its concession due on [CLAIM-710](CLAIM-710.md), the owner's own claim, so
+the sense must be settled first.

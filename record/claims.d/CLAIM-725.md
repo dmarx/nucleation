@@ -4,7 +4,7 @@ formerly:
 - CLAIM-tmpc7shc
 status: Active
 title: "A demand's satisfaction condition does not carry its warrant: representing a requirement by the histories that satisfy it fixes what meets it, not its source, who bears it, to whom it is addressed or why it binds, so that the joint satisfiability of demands cannot certify that any deserves fulfilment, and an institution's maintained requirements cannot certify their own authority"
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-18'
@@ -24,6 +24,14 @@ history:
     different provenance held in the same representation, so the
     representation cannot carry their warrant; nothing in the record
     meets the defeat condition. The claim is unchanged.
+- version: 4
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-144) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §12.1, §13.1, §14.4, §14.8.
+    No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -55,6 +63,8 @@ summary: >-
   representation "generalizes" [TERM-060](../terms.d/TERM-060.md)'s acceptance sets; it re-indexes
   them from transformations to histories. The wording is A's; adopting it
   is the owner's call.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CASE-289 CLAIM-741 CLAIM-745 — filed from the exchange "Assess Depp Heard Abuse" (2026-11-17), new and Proposed -->
 <!-- inactive-ok-file: CLAIM-624 — Proposed; the record's nearest entries, cited with their standing -->

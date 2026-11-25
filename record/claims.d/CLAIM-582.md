@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpr4sof
 title: 'Under a fixed dynamical model an added hard constraint cannot enlarge the set of admissible trajectories, so it cannot enlarge what some admissible path reaches or lower the least cost of reaching it; what it can improve is a property required of every path a disturbance or a given process may take, such as robustness or reliability, and a constraint that does more has changed the mechanism'
-version: 3
+version: 5
 history:
 - version: 2
   date: '2026-11-06'
@@ -26,6 +26,19 @@ history:
     owner's manuscript from the exchange "Topological protection
     explained": A43 §4.2 states its proposition, and §11 its third
     limit. No other change.
+- version: 4
+  date: '2026-11-22'
+  note: >-
+    A dated note: the regulatory corollary, filed as a claim resting on
+    this one, from the exchange 'Explain First Contact RL' (2026-11-22).
+    No other change.
+- version: 5
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-144), the owner's
+    manuscript from the exchange "Explain First Contact RL": A48 §2 states
+    its proposition, and §9.3 uses it for the redesigned route. No other
+    change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -48,6 +61,7 @@ line:
 - realizability
 - formal-apparatus
 works:
+- governance-of-possibility
 - cost-structure-of-possibility
 complements:
 - CLAIM-354
@@ -177,3 +191,33 @@ change of mechanism each time.
 ## Note of 2026-11-05: the resource-bounded realizability readings
 
 The reading of Raussen ([NOTE-1581](../notes.d/NOTE-1581.md)), filed beside the pasted synthesis on resource-bounded realizability, supports the claim in a model of concurrent programs that share resources of given capacities. An artificial resource added to cut out doomed regions only removes states, and the spaces of directed paths to targets outside those regions are unchanged. That is the reader's reading of the model as stated. No status changes.
+
+## Note of 2026-11-22: the regulatory corollary
+
+A31 §4 of the exchange "Explain First Contact RL" (ChatGPT, 2026-11-22)
+states this claim of regulation: adding a hard constraint "cannot expand
+what is feasible" when everything else is fixed, though real regulation
+often changes the dynamics. [CLAIM-1121](CLAIM-1121.md) rests on this claim and derives
+the consequence for the compatibility complex of public demands. A pure
+hard constraint on fixed dynamics can only shrink the complex, so relief
+of the original demands needs a change of model. No status change.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A11 and A13
+
+<!-- inactive-ok-file: LIT-tmpa3t7o — Deferred; registered from the exchange of 2026-11-24, unread -->
+
+The exchange's integrating principle comes in two wordings. A11 §18: "A
+constraint does not merely prevent something from occurring. By
+restricting possible activity, it can enable organization that would
+otherwise be unrealizable." A13 §II: "A constraint eliminates certain
+trajectories while making other trajectories more reliably realizable."
+Under this claim A13's wording holds as stated, since reliability is what
+an added constraint can improve. A11's "would otherwise be unrealizable" holds only
+where the constraint has changed the mechanism, and the exchange's own
+examples are of that kind: a heuristic frees resources a bounded agent
+spends elsewhere (A11 §9, "A heuristic makes some cognitive trajectories
+more realizable by making others less available"), and natural frequencies
+change the representation in which an inference is computed ("The
+representational conditions under which the inference becomes realizable
+have changed", A11 §9; [LIT-tmpa3t7o](../literature.d/LIT-tmpa3t7o.md)). Bearing: this claim qualifies the
+principle; no entry is filed for the principle. The claim is unchanged.

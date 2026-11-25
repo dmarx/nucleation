@@ -32,12 +32,12 @@ summary: >-
   additions are the assistant's (Claude, in this session); adopting it is
   the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-tmpu0f9k — Proposed; the reading of Yang filed 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2193 — Proposed; the reading of Yang filed 2026-11-22 -->
 
 <!-- inactive-ok-file: CLAIM-813 — a Proposed claim filed with this case, and Deferred works registered from the exchange and not yet read -->
 <!-- inactive-ok-file: THEORY-2155 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
-<!-- inactive-ok-file: THEORY-tmpx26x7 — Proposed or new; the reading of the 2023 review by Quinn and colleagues, 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2167 — Proposed or new; the reading of the 2023 review by Quinn and colleagues, 2026-11-22 -->
 
 # CASE-302: Two mechanisms that merge: in F(a, b) = (a + b, ab), and in a sum of two exponentials with rates u ± v, the predictions depend on the difference v only through v², so the smaller Fisher eigenvalue falls as v² and is zero on the stratum a = b, where the model image has a smooth fold edge, the learning coefficient at a true point on the edge is 3/4 against 1 inside, and a smooth prior pushed into prediction space diverges at the edge as the inverse square root of the distance
 
@@ -135,13 +135,13 @@ are not in the papers; they stay the case's. The case now draws on
 
 Supports: in the sum of exponentials, one of the boundaries the manifold
 boundary approximation follows is where "two terms merge together"
-([NOTE-tmphbnqd](../notes.d/NOTE-tmphbnqd.md), para. 12), the case's stratum. It is the only kind of
+([NOTE-2253](../notes.d/NOTE-2253.md), para. 12), the case's stratum. It is the only kind of
 boundary in that model at finite parameter values. The letter does not
 compute how the eigenvalue goes to zero there.
 
 ## Note of 2026-11-22: Quinn, Abbott, Transtrum, Machta & Sethna (2023), read
 
-Supports ([NOTE-tmp3keyy](../notes.d/NOTE-tmp3keyy.md), [THEORY-tmpx26x7](../theory.d/THEORY-tmpx26x7.md)). The review's two-exponential
+Supports ([NOTE-2256](../notes.d/NOTE-2256.md), [THEORY-2167](../theory.d/THEORY-2167.md)). The review's two-exponential
 example, the case's second model, has a manifold that "folds on itself"
 at equal rates, a boundary at finite parameter values, and the review
 counts such folds among the "fold lines, corners, and other singularites"
@@ -150,7 +150,7 @@ compute how the eigenvalue goes to zero there. No relation is written.
 
 ## Note of 2026-11-22: Yang, read
 
-Background. Yang's merged prototypes ([THEORY-tmpu0f9k](../theory.d/THEORY-tmpu0f9k.md)) are where the
+Background. Yang's merged prototypes ([THEORY-2193](../theory.d/THEORY-2193.md)) are where the
 anti-symmetric directions go soft at βc, a merge of mechanisms of a kind,
 but the paper computes no local coefficient, so the 3/4 at this case's
 merge stratum has no counterpart there.

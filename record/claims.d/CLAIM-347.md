@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp55mls
 title: 'Frustration among an organization''s demands is an ordinal fact before it is a quantity: the jointly satisfiable sets of demands form a downward-closed complex whose minimal non-faces are the minimal conflicts, relief is strict enlargement of that complex for the same declared demands, reorganizations that relieve different conflicts are incomparable, and dropping or suppressing a demand is not relief'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-18'
@@ -40,6 +40,13 @@ history:
     recognized set cannot improve conjunctive compliance or lower the count
     of recognized violations, not that every score against the recognized
     set can only fall. No status change.
+- version: 5
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-144), the owner's
+    manuscript from the exchange "Explain First Contact RL": A48 §2.1 uses
+    it as a step: the compatibility complex, relief as enlargement. No
+    other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -87,6 +94,8 @@ summary: >-
   demands, so a reorganization that deletes a demand is not compared at
   all, and two reorganizations can be incomparable. It is the move
   [CLAIM-128](CLAIM-128.md) and [TERM-043](../terms.d/TERM-043.md) made for translation, in a new line.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: TERM-122 — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
 <!-- inactive-ok-file: NOTE-1793 — Skimmed; the reading filed from the same exchange -->
@@ -484,3 +493,26 @@ merely by ceasing to recognize a claim that was previously in conflict
 with its governing priorities." Both are this claim's relief against
 dropping a demand (with [CLAIM-556](CLAIM-556.md)), against a fixed reference set. A23's
 adaptation is used in [TERM-122](../terms.d/TERM-122.md). No change.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A34 §10 and A36 §9
+
+A34 §10 applies this claim to load shedding and graceful degradation,
+with the complex K(B) of demands jointly realizable under resources B: "A
+resource reduction can shrink the complex of jointly realizable demands.
+Graceful degradation selects an acceptable realization within that
+smaller space. Redesign, by contrast, might enlarge the space." It cites
+the claim for "Dropping a requirement is not equivalent to acquiring the
+capacity to satisfy it", and its table separates "Change the SLO |
+Revise the specification" from "Increase capacity | Expand
+realizability". A36 §9 reads the federal debt limit as a composition of
+specifications, spending, revenue, borrowing and payment, "Each can be
+intelligible in isolation. Their composition can nevertheless generate
+circumstances in which all applicable requirements cannot be satisfied
+through ordinary operations", and separates "debates over the substance
+of fiscal policy from the costs imposed by the mechanisms through which
+those debates are resolved".
+
+Bearing: two illustrations, one engineering and one fiscal; the fiscal one
+is [LEAD-tmps9jkd](../leads.d/LEAD-tmps9jkd.md)'s debt-limit case. A36's figure that the 2011 delay
+raised Treasury borrowing costs by about $1.3 billion is attributed to
+GAO and unchecked here. No status change. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

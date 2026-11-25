@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpm0bix
 title: 'Lock-in from selectively admitted evidence and lock-in from self-scoring need different remedies: weighting admitted evidence by known, positive admission probabilities undoes the first and leaves the second, so correcting for how evidence was selected is not correcting how it is scored'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-30'
@@ -18,6 +18,13 @@ history:
     every propensity 1 the inverse-propensity weights are all 1 and the
     correction is the identity. The body's "whose case is Proposed" is
     dropped. The claim is unchanged.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-144) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §4.1. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -47,6 +54,8 @@ summary: >-
   the informational and evaluative routes are distinct; this says their
   remedies are too. The edge: the correction is an oracle's, with known
   propensities.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CLAIM-758 THEORY-1353 — Proposed; cited in this filing of 2026-11-19 -->
 

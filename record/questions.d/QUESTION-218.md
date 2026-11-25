@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmplru2n
 title: 'Can a collective mode that is dynamically closed, but is not a weakly coupled block of the units carrying it, be one system, and if so what should a boundary test take as the unit: a subset of members or a function of the whole state?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
@@ -15,6 +15,12 @@ history:
     are neither upward- nor downward-closed in the refinement order
     (CLAIM-409), and no independent mark of unity was offered. The
     question is unchanged.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    Note of 2026-11-23 added, from the lead run of that date: a bound on
+    how definite a computed diffusion-wavelet level is as a subspace
+    (CLAIM-1083). The question is unchanged.
 tags:
 - individuation
 - complex-systems
@@ -31,7 +37,7 @@ summary: >-
   the two come apart; [CASE-120](../cases.d/CASE-120.md) is the construction. The question is
   which of them the record's "one system" should track.
 ---
-<!-- inactive-ok-file: CASE-tmpwyp15 CLAIM-tmpjwc0h — new; LEAD-083's study and claim of 2026-11-22 -->
+<!-- inactive-ok-file: CASE-334 CLAIM-904 — new; LEAD-083's study and claim of 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-2014 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-157 THEORY-257 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
 # QUESTION-218: Can a collective mode that is dynamically closed, but is not a weakly coupled block of the units carrying it, be one system, and if so what should a boundary test take as the unit: a subset of members or a function of the whole state?
@@ -124,7 +130,7 @@ A parallel ([NOTE-2096](../notes.d/NOTE-2096.md)): in Wang and Slotine's network
 
 ## Note of 2026-11-22: the independent marks measured in two closed modes
 
-[CASE-tmpwyp15](../cases.d/CASE-tmpwyp15.md) measured compensation and entrainment in two
+[CASE-334](../cases.d/CASE-334.md) measured compensation and entrainment in two
 closure-without-block cases. In a φ⁴ lattice kink, the sites within about
 1.5 units of the centre undo a sustained load's damage to the kink
 (κ = 1.00 at the core), and the set that does so moves with the kink: a
@@ -133,7 +139,31 @@ grouping of sites is set off by coupling, and the block ratio of a
 segment holding the kink falls as the square of the lattice spacing. In
 a uniformly coupled Kuramoto population, the 156 locked oscillators of
 200 compensate (0.97) and entrain (0.91), and on coupling constants every
-set of 156 scores as they do. [CLAIM-tmpjwc0h](../claims.d/CLAIM-tmpjwc0h.md) states it. That is the
+set of 156 scores as they do. [CLAIM-904](../claims.d/CLAIM-904.md) states it. That is the
 measurement this question's answer asks for, in two models at one setting
 each. It does not say the marks suffice for one system, and the kink has
 no timing to entrain. No status change.
+
+## Note of 2026-11-22: Ott and Antonsen, read
+
+Evidence on the unit a boundary test should take. Ott and Antonsen's order
+parameter is a function of the whole state, exactly closed on an invariant
+manifold under uniform coupling, where no subset of members is a block
+([THEORY-2295](../theory.d/THEORY-2295.md), [NOTE-2385](../notes.d/NOTE-2385.md)); in their model of communities of
+oscillators each community's order parameter closes at any coupling
+between communities, weak or strong. So a test that takes functions of
+the whole state finds closed units that tests on member subsets miss, as
+[CLAIM-388](../claims.d/CLAIM-388.md) found in a linear model. It does not say whether such a unit is
+one system. [THEORY-2295](../theory.d/THEORY-2295.md) bears on this question.
+
+## Note of 2026-11-23: a computed level is definite as a subspace, to a bound
+
+[CLAIM-1083](../claims.d/CLAIM-1083.md) (Proposed, filed by the lead run of 2026-11-23) bounds how far
+a level computed by the compressed diffusion-wavelet chain lies from the
+invariant subspace of the same dimension: the truncation residual plus the
+accumulated drift, over the smallest kept eigenvalue of the level's dyadic
+power. It bears on the question's second half on the subspace side. What a
+computed level makes definite is a function of the whole state, a
+subspace, and it is definite only where the kept spectrum stands well above
+the residual. The bound says nothing about a basis of members inside the
+level, so it leaves the block side where [NOTE-984](../notes.d/NOTE-984.md) left it.

@@ -1,0 +1,119 @@
+---
+number: 875
+status: Proposed
+formerly:
+- CLAIM-tmpf11gs
+title: 'Ito and Kaneko''s core is a regime the dynamics regenerate, not an asymmetry entrenched in its first holders: removed, it is refilled from the periphery, and made rare, it is recovered by its own members'
+version: 2
+history:
+- version: 1
+  date: '2026-11-22'
+  note: >-
+    Filed 2026-11-22 by the assistant, carrying out LEAD-065, from the
+    executed study CASE-313.
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-144) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §11.4, §12.4. No other
+    change.
+role: thesis
+warrant: empirical
+defeated_if: >-
+  Reruns of the removal protocol, at other points of the desynchronized
+  phase (3.7 < a < 4.0, c below the line c = 0.15(a − 3.7)), at larger N or
+  at other δ above 0.01, find that a deleted core is not re-formed from
+  the periphery at its former size and with few periphery-to-core links,
+  or that a core cut to small positive influence does not regain it. The
+  result must come from no added intervention after the perturbation. A
+  shorter run that stops before re-formation does not count, and neither
+  does a change of core criterion alone.
+tags:
+- complex-systems
+- network-science
+- ecology
+date: '2026-11-22'
+line:
+- distributed-agency
+bears_on:
+- QUESTION-132
+grounds:
+- CASE-313
+summary: >-
+  In the network of [LIT-1842](../literature.d/LIT-1842.md), [QUESTION-132](../questions.d/QUESTION-132.md)'s candidate case, the
+  core-periphery asymmetry does not depend on the units that first held
+  it. The study is [CASE-313](../cases.d/CASE-313.md), 12 seeds at the paper's parameter point.
+  With the core deleted, former periphery units re-form one of the same
+  size and the same one-way structure. With half deleted, periphery units
+  fill the vacancies. With the core's influence cut a thousandfold, its own
+  members regain it. So the case is not the question's third outcome,
+  entrenched asymmetry, if that means asymmetry held by early advantage.
+  What recovers is a role filled by interchangeable units, not a
+  specialist with a niche. Whether that is the question's first outcome or
+  a fourth is left to the owner as two readings. The wording is the
+  assistant's (Claude, in this session); adopting it is the owner's call.
+works:
+- governance-of-possibility
+---
+<!-- inactive-ok-file: CASE-313 — new, filed with this claim -->
+
+# CLAIM-875: Ito and Kaneko's core is a regime the dynamics regenerate, not an asymmetry entrenched in its first holders: removed, it is refilled from the periphery, and made rare, it is recovered by its own members
+
+## The claim
+
+[QUESTION-132](../questions.d/QUESTION-132.md)'s note of 2026-10-29 and [NOTE-1414](../notes.d/NOTE-1414.md) read Ito and Kaneko's split as
+looking like the third outcome, entrenched asymmetry. Their grounds were
+that membership is absorbing and that the core does not depend on the
+periphery. They left the test open: "Removing core units and seeing
+whether the periphery refills the core would decide it cheaply."
+[CASE-313](../cases.d/CASE-313.md) ran the test, and the periphery refills the core. In all 12
+seeds, a network stripped of its core grows a new one from former
+periphery units within 10⁶ steps. Its size, 17.2 ± 0.8, matches a
+same-sized network that lost periphery instead, 17.0 ± 1.1. Its
+periphery-to-core links stay few. A half-removed core is restored to full
+size. A core whose influence is cut to 10⁻³ is again, 10⁶ steps later, 92%
+made of its old members.
+
+The absorbing membership the paper reports is a fact about an undisturbed
+run. Holders stay because nothing displaces them. It is not a fact about
+the asymmetry: the dynamics recreate the asymmetry around whoever is
+available, and they restore it to its holders when those are made rare.
+That is what [CLAIM-279](CLAIM-279.md) means by roles being regimes that units fall into
+rather than kinds of unit. It is also the opposite of entrenchment by
+early advantage, the [CLAIM-277](CLAIM-277.md) loop, where an asymmetry would be lost
+with the units that won it.
+
+## Two readings for the question's classification
+
+These are alternatives, and the owner chooses.
+
+- **Reading A: the first outcome, at the level of roles.** The
+  differentiation recovers when rare. The core role, made rare in
+  influence, regains its share with no load balancer and no floor. By
+  [LEAD-065](../leads.d/LEAD-065.md)'s own criterion ("Refilling classes the system as one whose
+  differentiation recovers when rare") the case counts for stabilizing
+  coexistence.
+- **Reading B: a fourth outcome.** [QUESTION-132](../questions.d/QUESTION-132.md)'s first outcome is about
+  "functionally complementary specialists" each recovering when rare. Here
+  there is one role, and its holders are interchangeable. It is
+  regenerated by whichever units are present, not kept for particular
+  specialists by an open niche. This is role regeneration: a
+  differentiation that is robust while its holders are expendable. None of
+  the question's three outcomes names it.
+
+The assistant leans to B. The model has no function its units could
+specialize in. The question's distinction between specialists who
+complement each other and a hierarchy that recurs needs a model in which
+units differ in what they can do.
+
+## What it does not say
+
+- It does not say that the core is good, accurate or merited. Nothing in
+  the model can be right or wrong. [NOTE-1414](../notes.d/NOTE-1414.md)'s "concentration without
+  regard to accuracy" stands.
+- It does not say that the periphery recovers when rare. That was not
+  tested.
+- It does not say that the result holds beyond one parameter point, one N
+  and one δ.

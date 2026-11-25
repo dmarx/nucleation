@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpdhfze
 title: 'A collective that replaces all its members persists, when it does, by causal transmission of the organization that produces it, not by resemblance: an organization of the same kind that arises independently is not its continuation, and a lapse in its coherence need not end it'
-version: 7
+version: 10
 history:
 - version: 2
   date: '2026-10-21'
@@ -58,6 +58,22 @@ history:
     narrative and place, not a continuation; and the limit to a
     carrier's persistence, from the note of 2026-10-22, is now stated
     under "What it does not say". The title is unchanged.
+- version: 8
+  date: '2026-11-23'
+  note: >-
+    Note of 2026-11-23 added: open-source successions coded by the lead run
+    of that date; recognition followed the producers. The claim is unchanged.
+- version: 9
+  date: '2026-11-23'
+  note: >-
+    Note of 2026-11-23 (later) added: the 2005 Nationals' test, read from public statements by the lead run of that date; two readings of its bearing filed for the owner. The claim is unchanged.
+- version: 10
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-144) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §3.0. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -86,6 +102,7 @@ complements:
 - CLAIM-420
 - CLAIM-544
 works:
+- governance-of-possibility
 - organization-of-perspective
 - character-that-changed-parties
 uses:
@@ -332,3 +349,40 @@ Promoted by the status review of this date. The note of 2026-10-30 named three t
 - **A carrier's persistence.** Now stated under "What it does not say".
 
 [CASE-223](../cases.d/CASE-223.md), revised on 2026-11-07, adds A55's dated facts on Freenode and Libera, still unverified, so the claim takes nothing from it.
+
+## Note of 2026-11-23: the criterion as participants applied it, in open-source successions
+
+<!-- inactive-ok-block: CASE-411 CLAIM-1158 — new, Proposed; the run and the claim it supports -->
+[CASE-411](../cases.d/CASE-411.md) coded eight contested open-source successions. Where the
+creator or the body of core maintainers moved (Hudson to Jenkins, freenode
+to Libera Chat), the community's recognition went with them against the
+name; where part moved, it split ([CLAIM-1158](CLAIM-1158.md), which corroborates this
+claim). A participant states the criterion outright: SourceHut moved to
+Libera Chat because "the staff — have left for Libera Chat", and it was
+"proud to be following them". This is evidence of how participants judge
+persistence, not of what persistence is.
+
+## Note of 2026-11-23 (later): the 2005 Nationals, as the league's count, the club and supporters count them
+
+<!-- inactive-ok-block: CASE-392 CLAIM-1047 — new, Proposed; the study and the verdict filed by the lead run of 2026-11-23 -->
+The note of 2026-11-20 left the Nationals' test to [LEAD-099](../leads.d/LEAD-099.md). Its run coded
+fourteen public statements ([CASE-392](../cases.d/CASE-392.md)). No statement found counts the
+Nationals the original Senators continued ([CLAIM-1047](CLAIM-1047.md)): the Hall of
+Fame, the statistical reference and the AP count the franchise through
+Montreal and the original club's seasons with the Twins; the club's
+president in 2004 called it "a new team", with the Senators' records on a
+page of their own; and the club and supporters claim the Senators as
+Washington's baseball, honoured beside the Homestead Grays. So a shared
+name and city did not make participants count it a continuation, as this
+claim expects.
+
+<!-- inactive-ok-block: CLAIM-1129 CLAIM-1206 — new, Proposed; the two readings filed by the lead run of 2026-11-23 -->
+What that does to the defeater is filed two ways. [CLAIM-1129](CLAIM-1129.md), the
+run's lean: the defeater is not met, and the heritage claimed is a
+place's history whose carriers through the gap were the city's
+supporters, this claim's "a lapse in its coherence need not end it".
+[CLAIM-1206](CLAIM-1206.md), the alternative, objects: participants count Washington's
+major-league club as one tradition across three organizations with no
+transmission between them, which meets the defeater unless supporters'
+memory counts as transmission. The league's own pages were not reached.
+The claim is unchanged.

@@ -78,7 +78,7 @@ summary: >-
   limits are kept: persistence is not amortization, and a prior over
   authority must be told from a prior over actions.
 ---
-<!-- inactive-ok-file: CASE-tmpxmuri CLAIM-tmpqp1h6 — new; filed by LEAD-076 on 2026-11-22 and cited in its note of that date -->
+<!-- inactive-ok-file: CLAIM-924 — new; filed by LEAD-076 on 2026-11-22 and cited in its note of that date -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 
 # CLAIM-443: A learned prior over which processes govern, P(g | z, H) ∝ exp(βQ(g, z) + b_H(g, z)), its bias b_H trained by reward-modulated Hebbian updates to the relations by which one process recruits another or grants it influence, is a candidate mechanism for durable authority and for amortized governance; but persistence is not amortization, which is shown only when earlier work replaces later computation, communication or recruitment, and a prior over authority differs from a prior over actions only when what is appropriate changes
@@ -185,16 +185,28 @@ Stern et al.'s creased sheet ([NOTE-1615](../notes.d/NOTE-1615.md)), from the pa
 
 ## Note of 2026-11-22: a matched habit in the sentry, from [LEAD-076](../leads.d/LEAD-076.md)
 
-In [CASE-tmpxmuri](../cases.d/CASE-tmpxmuri.md) ([LEAD-076](../leads.d/LEAD-076.md)), a learned authority over protection and
+In [CASE-346](../cases.d/CASE-346.md) ([LEAD-076](../leads.d/LEAD-076.md)), a learned authority over protection and
 evidence, reinforced by the apparent success of protection, is compared
 with a cached habit of matched memory. They agree under every intervention
 the habit can receive, including the change in what is appropriate: the
 switch from danger to safety. They part only under interventions on the
 evaluation. This bears on this claim's defeater, "a cached action policy
 reproduces every response to intervention that the learned authority
-prior predicts". The two readings are set out in [CLAIM-tmpqp1h6](CLAIM-tmpqp1h6.md). It also
+prior predicts". The two readings are set out in [CLAIM-924](CLAIM-924.md). It also
 illustrates "Naive Hebbian learning entrenches": under success feedback
 the trained authority is self-confirming above a sentry strength of about
 1.25–1.5.
 
 No status change.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A12 and A13
+
+<!-- inactive-ok-file: CLAIM-tmpn754o — Proposed; filed from the exchange of 2026-11-24 -->
+
+A12 §9 and A13 §VI read this claim's prior as a kind of heuristic, a
+governance heuristic that settles "Which perspective or procedure should
+determine what to do", and propose that intuitive expertise and entrenched
+bias are one learned allocation, in and out of the conditions it was
+learned under ([CLAIM-tmpn754o](CLAIM-tmpn754o.md), A's, Proposed, resting on this claim). They
+cite this claim correctly, with its limit: "persistence alone does not
+demonstrate amortization". Bearing: an extension. The claim is unchanged.

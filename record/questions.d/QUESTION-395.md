@@ -74,3 +74,26 @@ two departments of [CASE-210](../cases.d/CASE-210.md).
 ## Note of 2026-11-20: the part split off
 
 Records kept of each capacity are settled by [QUESTION-498](QUESTION-498.md): they fix the marginals, which bound readiness and identify it only when the capacities' dependence is known ([CLAIM-632](../claims.d/CLAIM-632.md)). What stays open here is which of the other kinds of evidence listed above, alone or together, identify readiness for a specified rare contingency, and how that is weighed against the capability's cost and its alternatives.
+
+## Note of 2026-11-23: the manuscript governance-of-possibility
+
+Parallel, left open. A48 §9.2 and §9.4 of the owner's manuscript (ADR-
+tmpsfjxu) pose this question, "we should not simply maximize reserve
+capacity", without a criterion. The missing parameter is the contingency's
+probability times its loss against the reserve's cost per period; LEAD-
+tmpnblsf would sweep it.
+
+## Note of 2026-11-23: a gap of the manuscript governance-of-possibility
+
+Partial, the weighing half only; the assistant's. A gap of the manuscript governance-of-possibility, §9.6 (GC4). In the manuscript's model a reserve (its regime II against I) pays when p·L > pL*(τ, p, c), the value at which c times the extra capacity held (Δcap ≈ 1.83 at p = 0.02) equals L times the fall in late contingencies per period. At c = 0.1, from the long runs: at τ = 3, 0.579, 0.630, 0.701 and 1.153 for p = 0.005, 0.01, 0.02 and 0.05; at τ = 6, 0.363, 0.394, 0.401 and 0.502; at τ = 12, 0.625, 0.571, 0.565 and 0.689. It is linear in c (at τ = 6 and p = 0.02, 0.200 at c = 0.05 and 0.802 at c = 0.2), U-shaped in the deadline, and moves with p, because under the peak rule a use is a mobilization ([CLAIM-878](../claims.d/CLAIM-878.md)). Values read with python3 -I from scratch/manuscripts/governance-of-possibility/analysis/results.json.
+
+The rule decides only if readiness is known. Computed from readiness under do(c), pL* at τ = 6 is 0.27 to 0.31 where the long runs give 0.36 to 0.50: readiness observed in operation differs from readiness under an imposed contingency, by how often the capability is used. So the weighing against cost has a model answer, and the identification half of this question, which observations tell a warranted reserve from waste, stays open. The note is the assistant's (Claude, in this session); adopting it is the owner's call. No status change.
+
+## Note of 2026-11-23: the study filed
+
+The study the note above reads its break-even from is now on the record as [CASE-412](../cases.d/CASE-412.md), which bears on this question: it gives pL* by deadline, probability and cost, and shows that readiness observed in operation differs from readiness under an imposed contingency, so the identification half stays open. The note is the assistant's (Claude, in this session); adopting it is the owner's call.
+
+## Note of 2026-11-23: redundancy and differentiation in a coverage model, from "Explain First Contact RL"
+<!-- inactive-ok-block: CLAIM-1042 — new; the derivations and the claim they check -->
+
+Partial, a criterion in one model; the assistant's. A60 §2 of the exchange "Explain First Contact RL" (ChatGPT, 2026-11-23) separates groups with "nearly identical capabilities", which add redundancy, from differentiated ones, which add breadth, and grants that "Redundancy can improve reliability, especially against independent failures." In A60 §4's coverage model the assistant derived ([CLAIM-1042](../claims.d/CLAIM-1042.md)) that a perspective's marginal value is the demand-weighted excess of its readiness over the best already present, so under single selection a duplicate is worth nothing; under parallel independent attempts a redundant copy adds coverage and can be the warranted reserve; under a shared budget it can lower coverage. Which rule fits a department is part of what this question asks evidence to identify. The note is the assistant's (Claude, in this session); adopting it is the owner's call.

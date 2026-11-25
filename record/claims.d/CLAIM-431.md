@@ -55,7 +55,8 @@ summary: >-
 answers:
 - QUESTION-265
 ---
-<!-- inactive-ok-file: THEORY-tmpyc2wm — Proposed; the reading of Mulgan, 2026-11-22 -->
+<!-- inactive-ok-file: CASE-405 CLAIM-1169 CLAIM-1136 NOTE-2392 — new, Proposed or Skimmed; filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-file: THEORY-2216 — Proposed; the reading of Mulgan, 2026-11-22 -->
 
 <!-- inactive-ok-file: CLAIM-432 CLAIM-039 THEORY-892 — Proposed; the claims and reading this objection argues from or against, cited as open -->
 <!-- inactive-ok-file: LIT-1432 — Unavailable, no lawful full text; its abstract's "as if", not leaned on as read -->
@@ -132,11 +133,36 @@ harms once the external sanction is lifted, is a test nobody has run.
 
 ## Note of 2026-11-22: Mulgan, read
 
-A **rival framing, not a counterexample** ([LIT-1874](../literature.d/LIT-1874.md), [NOTE-tmpf00ch](../notes.d/NOTE-tmpf00ch.md);
-[THEORY-tmpyc2wm](../theory.d/THEORY-tmpyc2wm.md)). Mulgan does not try to tell remorse from prudence. He
+A **rival framing, not a counterexample** ([LIT-1874](../literature.d/LIT-1874.md), [NOTE-2306](../notes.d/NOTE-2306.md);
+[THEORY-2216](../theory.d/THEORY-2216.md)). Mulgan does not try to tell remorse from prudence. He
 calls a corporate group psychopathic when its structure lacks any mechanism
 for recognising and responding to moral reasons (p. 910), and makes moral
 agency depend on a reliable disposition to respond "appropriately" to them
 (p. 905), without saying how reliability would be told from
 self-interested compliance. That is this objection's difficulty, met by
 stipulation. The status is unchanged.
+
+## Note of 2026-11-23: the first answer's test, run on open sources
+
+[LEAD-101](../leads.d/LEAD-101.md) ran this objection's first answer, whether corporations whose
+procedures make others' harms their concern keep weighing them once the
+sanction lifts, on open sources ([CASE-405](../cases.d/CASE-405.md)). It is **not met either
+way**: no case holds reputation and benefit fixed.
+
+- **The test as stated cannot answer the objection through reversion.**
+  Worked through ([CLAIM-1169](CLAIM-1169.md)), this objection predicts what [CLAIM-432](CLAIM-432.md)
+  predicts of a sanction-only corporation (it reverts) and of a redesigned
+  one whose procedure still pays (it persists). They part only for a
+  redesigned corporation once keeping the procedure earns it nothing. The
+  reversion found in monitored firms ([CLAIM-1136](CLAIM-1136.md)) is evidence for
+  neither.
+- **What the cases add, as illustration.** Siemens's compliance leaders
+  told staff that violations could bring prosecution and "exclusion from
+  projects from multilateral development banks, which will have major
+  financial consequences for the company" ([NOTE-2410](../notes.d/NOTE-2410.md)): a procedure that
+  stopped a bribe at a cost, explained by threat, as this objection says
+  installed concerns are. Purdue's response to a 2013 subpoena was to stop
+  writing detailed board reports ([NOTE-2392](../notes.d/NOTE-2392.md)), a response to the threat
+  of the record, not to the harm.
+
+The status is unchanged.

@@ -37,7 +37,7 @@ history:
   date: '2026-11-22'
   note: >-
     Note of 2026-11-22 added: LEAD-087's run of CASE-145
-    (CASE-tmpez9id) gives no constructed instance of a shared
+    (CASE-362) gives no constructed instance of a shared
     perspective without a collective agent. The claim is unchanged.
 role: thesis
 warrant: interpretive
@@ -77,7 +77,8 @@ summary: >-
 bears_on:
 - QUESTION-264
 ---
-<!-- inactive-ok-file: CASE-tmpez9id CLAIM-tmpjmfmd — new, filed by LEAD-087's run -->
+<!-- inactive-ok-file: CLAIM-1133 CLAIM-1039 TERM-161 TERM-166 CLAIM-1019 — Proposed; filed from the exchange "Explain First Contact RL" of 2026-11-22 and cited in its dated note -->
+<!-- inactive-ok-file: CASE-362 CLAIM-945 — new, filed by LEAD-087's run -->
 <!-- inactive-ok-file: CLAIM-417 TERM-063 — Proposed; claims and terms cited as open, nothing here rests on their being settled -->
 
 # CLAIM-418: Possessing, enacting or being shaped by an organizational perspective does not establish an independent agent, and perspectival, agential and institutional boundaries need not coincide: several agents can share a perspective, one agent can act through several, and a perspective can be reproduced with no agent governing it; where a perspective contributes to an agent's activity it can enable and constrain the exercise of agency, and that exercise can reproduce or transform it, while whether agency universally requires such a perspective stays open
@@ -254,7 +255,7 @@ No status, title or warrant changes.
 
 ## Note of 2026-11-22: [CASE-145](../cases.d/CASE-145.md) run, no instance either way
 
-[LEAD-087](../leads.d/LEAD-087.md) ran [CASE-145](../cases.d/CASE-145.md) as [CASE-tmpez9id](../cases.d/CASE-tmpez9id.md), with a criterion of shared
+[LEAD-087](../leads.d/LEAD-087.md) ran [CASE-145](../cases.d/CASE-145.md) as [CASE-362](../cases.d/CASE-362.md), with a criterion of shared
 perspective stated in advance. No simulated population passed it, so the
 study neither illustrates this claim's separation in the direction the
 case asked for (a perspective with no collective agent) nor counts
@@ -262,7 +263,21 @@ against it. It does show the other direction, by construction: an
 independent population with a vote adapts as a collective agent in
 [TERM-044](../terms.d/TERM-044.md)'s sense with no shared perspective by the criterion: an
 agential boundary drawn where the criterion draws no perspectival one,
-which is part 2's "need not coincide" in the less contested direction. [CLAIM-tmpjmfmd](CLAIM-tmpjmfmd.md) says why the criterion found none, and what one that
+which is part 2's "need not coincide" in the less contested direction. [CLAIM-945](CLAIM-945.md) says why the criterion found none, and what one that
 could would measure.
 
 The claim is unchanged.
+
+## Note of 2026-11-22: a team as a pseudo-self, from the exchange "Explain First Contact RL" (https://chatgpt.com/share/6b037165-3a1c-83ea-9d7c-311c7807acd3)
+
+Applied, in A21 and A22, to the owner's U10, "a team as a pseudo-self where
+the perspectives are necessarily separable" ([CLAIM-1133](CLAIM-1133.md), the owner's).
+A21's objection is this claim's second clause turned on a team: the members
+are separable as carriers, the perspectives need not be ([CLAIM-1039](CLAIM-1039.md),
+Proposed, which rests on this claim). A29 §6 gave it a model: members'
+carrier-tagged measures on C × X are always mutually singular while their
+projections to X can coincide. A22 §1 writes the general form as m ≠ n
+between carriers and perspectives, and built [TERM-161](../terms.d/TERM-161.md)'s senses of
+singularity and [TERM-166](../terms.d/TERM-166.md)'s pseudo-self (both Proposed) on it.
+[CLAIM-1019](CLAIM-1019.md) (Proposed) concludes that self-like unity does not require
+one overarching perspective. The claim is unchanged.

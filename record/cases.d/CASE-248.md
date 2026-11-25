@@ -44,7 +44,7 @@ summary: >-
   hypotheses kept apart, and three levels of data. Not run. The cost
   figures were rechecked by the filer.
 ---
-<!-- inactive-ok-file: THEORY-tmpkdnvu — Proposed; the reading of Ivern and Carbonell, 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2219 — Proposed; the reading of Ivern and Carbonell, 2026-11-22 -->
 <!-- inactive-ok-file: NOTE-1747 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: NOTE-1778 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-653 CLAIM-655 — filed from the same exchange, Proposed -->
@@ -155,7 +155,7 @@ proposes to track.
 
 ## Note of 2026-11-22: Ivern and Carbonell, read
 
-[LIT-2447](../literature.d/LIT-2447.md) is now read ([NOTE-tmpzok4t](../notes.d/NOTE-tmpzok4t.md); [THEORY-tmpkdnvu](../theory.d/THEORY-tmpkdnvu.md)). It **supports the
+[LIT-2447](../literature.d/LIT-2447.md) is now read ([NOTE-2309](../notes.d/NOTE-2309.md); [THEORY-2219](../theory.d/THEORY-2219.md)). It **supports the
 case's list of what to record and sharpens it with a threat the case does
 not name**. "Ivern and Carbonell count 136 design features" is right; the
 136 are features the literature treats as problematic, ranked by how often

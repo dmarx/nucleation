@@ -6,7 +6,7 @@
 
 **Ethics** — moral philosophy — what is owed, permitted or good — including applied ethics of technology and institutions (group: philosophy).
 
-18 of 211 LEAD documents. Back to the [full index](../README.md).
+18 of 234 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -27,4 +27,4 @@
 | [LEAD-153](../../../record/leads.d/LEAD-153.md) | Compare two theatrical organizations with similar artistic outputs and different labour arrangements, to tell exploitation from dependence and from domination | Named in [QUESTION-468](../../../record/questions.d/QUESTION-468.md). Filed by the backlog audit of 2026-11-19. | Open |
 | [LEAD-158](../../../record/leads.d/LEAD-158.md) | Read the works on the objectivity of relational norms, with Leffler on constitutivism as the adversarial test | Named in [QUESTION-128](../../../record/questions.d/QUESTION-128.md). Filed by the backlog audit of 2026-11-19. | Open |
 | [LEAD-177](../../../record/leads.d/LEAD-177.md) | Construct systems with identical sensory correlations but different memory persistence, downstream use and adaptive capacity, starting with a forager that learns its own failure criteria | Named in [QUESTION-285](../../../record/questions.d/QUESTION-285.md) and [CASE-239](../../../record/cases.d/CASE-239.md). Filed by the backlog audit of 2026-11-19. | Open |
-| [LEAD-189](../../../record/leads.d/LEAD-189.md) | Read the blameless post-incident practice and check the Tempe prosecution | Named in the curation entry of 2026-11-18 (062004). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-189](../../../record/leads.d/LEAD-189.md) v2 | Read the blameless post-incident practice and check the Tempe prosecution | Named in the curation entry of 2026-11-18 (062004). Filed by the backlog audit of 2026-11-19. | Open |

@@ -1,0 +1,95 @@
+---
+number: 1125
+status: Active
+formerly:
+- CLAIM-tmpklggb
+title: 'A protected beacon''s miscalibration is unidentifiable from inside
+  the sensor network by a symmetry: a world whose beacon reports z* + d and
+  a world whose beacon is correct, with the target, the beacon placements
+  and every sensor bias shifted (z + d, z* + d, b_i - A_i d), give every report
+  identically, so no revision that uses only the network''s reports can find
+  d, and correcting it needs evidence that breaks the symmetry from outside'
+version: 3
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    rests_on CLAIM-1185 becomes corroborated_by: the translation
+    identity is derived without it, and the simulation is an instance it
+    explains (ADR-058). Proposed to Active at the status review's ruling
+    (the owner delegated these rulings): the identity A(z+d)+(b-Ad) = Az+b
+    is re-derived step by step, and scratch/formal/beacon_gauge_check.py
+    reproduces (1,000 trials, 0 mismatches; rank deficiency 2 for k = 1,
+    2, 3, 5).
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-144) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §13.7. No other change.
+role: thesis
+warrant: demonstrated
+defeated_if: An error in the identity, or a report available to the network
+  that differs between the two worlds. In LEAD-177's simulation, the target
+  is clipped to a box and the placements are uniform on a box. Those break
+  the symmetry at the boundary, so a system that knew those laws could in
+  principle learn d from boundary effects. The identity is exact for translation-invariant
+  laws.
+tags:
+- mathematics
+- epistemology
+- control-theory
+date: '2026-11-23'
+line:
+- distributed-agency
+- formal-apparatus
+complements:
+- CLAIM-1194
+- CLAIM-148
+summary: 'The assistant''s, answering the owner''s comparison with Gödel ([CLAIM-1111](CLAIM-1111.md)).
+  It gives the mechanism of [CLAIM-1185](CLAIM-1185.md)''s regress: a translation symmetry,
+  the same kind of limit as [LEAD-180](../leads.d/LEAD-180.md)''s relabelling ([CLAIM-1194](CLAIM-1194.md)), not
+  a diagonal argument. Checked in scratch/formal/beacon_gauge_check.py (1,000
+  random trials, no mismatch). The wording is the assistant''s (Claude, in
+  this session); adopting it is the owner''s call.'
+works:
+- governance-of-possibility
+---
+
+# CLAIM-1125: A protected beacon's miscalibration is unidentifiable from inside the sensor network by a symmetry: a world whose beacon reports z* + d and a world whose beacon is correct, with the target, the beacon placements and every sensor bias shifted (z + d, z* + d, b_i - A_i d), give every report identically, so no revision that uses only the network's reports can find d, and correcting it needs evidence that breaks the symmetry from outside
+
+## The identity
+
+Sensors report o_i = A_i z + b_i. The protected beacon is placed at z*;
+the sensors read it as A_i z* + b_i, and its channel reports z* + d.
+Shift the world: target z + d, placement z* + d, biases b_i − A_i d, beacon
+correct. Then A_i(z + d) + (b_i − A_i d) = A_i z + b_i, the same for the
+beacon's readings, and the channel reports z* + d in both worlds. Every
+report the network receives is the same. So d is not identifiable from
+the network's reports, whatever revision rule it runs. That is why its
+consistency radius was unchanged in [CLAIM-1185](CLAIM-1185.md)'s runs (0.114 in both).
+
+Checked numerically: `python3 -I scratch/formal/beacon_gauge_check.py`,
+1,000 random draws of maps, biases, d, target and placement, with no
+mismatch.
+
+## What it shows
+
+The regress of anchors is a symmetry limit, of the kind the record holds
+elsewhere:
+- **[LEAD-180](../leads.d/LEAD-180.md)'s relabelling** ([CLAIM-1194](CLAIM-1194.md)): dissent and attack swap
+  without any observable change.
+- **Factorization identified only up to a change of latent coordinates**
+  ([CLAIM-148](CLAIM-148.md)).
+
+The survey in [CLAIM-1185](CLAIM-1185.md) works because it breaks the symmetry. It
+places a point whose position arrives by a different channel from the
+beacon's. Each further anchor breaks the symmetry left by the one below
+it, and leaves its own.
+
+## Limits
+
+The simulation's box-clipped target and box-uniform placements break the
+symmetry at the edges. The identity is exact only for translation-invariant
+laws, and the defeater says so.

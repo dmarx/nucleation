@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpbf8uv
 title: 'An arrangement of institutions can keep, or increase, its capacity for effective action while its capacity to be effectively corrected by others degrades, because the two are maintained by different relations, so the first is no evidence of the second'
-version: 9
+version: 10
 history:
 - version: 2
   date: '2026-10-29'
@@ -64,6 +64,12 @@ history:
     (ADR-104), the owner's manuscript from the exchange "Assess
     Depp Heard Abuse": A49 §9 and §10 state its proposition. No other
     change.
+- version: 10
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-144), the owner's
+    manuscript from the exchange "Explain First Contact RL": A48 §13
+    states it: action capacity without correctability. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -82,6 +88,7 @@ date: '2026-10-27'
 line:
 - distributed-agency
 works:
+- governance-of-possibility
 - capability-restraint-relational-freedom
 rests_on:
 - CLAIM-422
@@ -299,7 +306,20 @@ friction); the timescale statement is [CLAIM-730](CLAIM-730.md).
 No status changes.
 
 ## Note of 2026-11-22: separation by timing alone, in a model
-<!-- inactive-ok-file: CASE-tmp8riid CLAIM-tmpsaql8 — new; the executed study and claim of LEAD-068, filed 2026-11-22 -->
+<!-- inactive-ok-file: CASE-316 CLAIM-879 — new; the executed study and claim of LEAD-068, filed 2026-11-22 -->
 <!-- inactive-ok-file: CASE-285 — Proposed; cited in the note of 2026-11-22 on LEAD-068's simulation -->
 
-[CASE-tmp8riid](../cases.d/CASE-tmp8riid.md) runs [CASE-285](../cases.d/CASE-285.md)'s design. With the overseer's authority, information and reviewers fixed, raising only how soon the acting institution's actions become irreversible raised its benefit per action (0.025 to 0.572 in the model's measure) while the share of objectionable actions stopped in time fell from 0.994 to 0.396; the overseer was less busy as it lost effect, since it skips what is already beyond stopping. That is this claim's capacity to act and capacity to be corrected coming apart by timing alone, shown possible in a construction. [CLAIM-tmpsaql8](CLAIM-tmpsaql8.md), which states the result, carries `corroborates` to this claim. No status changes.
+[CASE-316](../cases.d/CASE-316.md) runs [CASE-285](../cases.d/CASE-285.md)'s design. With the overseer's authority, information and reviewers fixed, raising only how soon the acting institution's actions become irreversible raised its benefit per action (0.025 to 0.572 in the model's measure) while the share of objectionable actions stopped in time fell from 0.994 to 0.396; the overseer was less busy as it lost effect, since it skips what is already beyond stopping. That is this claim's capacity to act and capacity to be corrected coming apart by timing alone, shown possible in a construction. [CLAIM-879](CLAIM-879.md), which states the result, carries `corroborates` to this claim. No status changes.
+
+## Note of 2026-11-22: a construction with the enforcer gated, [LEAD-168](../leads.d/LEAD-168.md)
+<!-- inactive-ok-file: CASE-380 CLAIM-978 CLAIM-979 — new; LEAD-168's executed study and its two alternative readings -->
+
+[CASE-380](../cases.d/CASE-380.md) illustrates this claim in a stipulated model: the executive's
+capacity for effective action is the same whether or not its signal gates
+the enforcer's execution of corrective orders, and the arrangement's
+capacity to correct it differs. With fixed policies the difference shows
+only at execution of an order the executive withholds ([CLAIM-978](CLAIM-978.md));
+with anticipation it can show as bolder action instead ([CLAIM-979](CLAIM-979.md)),
+which bears on this claim's second defeater: degraded correction then
+shows in the arrangement's ordinary outputs, but only against a
+counterfactual baseline. No change of status or title.

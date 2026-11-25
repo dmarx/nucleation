@@ -25,7 +25,7 @@ summary: >-
   2026-11-19.
 ---
 <!-- inactive-ok-file: CLAIM-156 CLAIM-169 — Proposed; cited in the backlog audit of 2026-11-19 -->
-<!-- inactive-ok-file: THEORY-067 THEORY-tmp353ez THEORY-tmpx5wbu THEORY-tmpbidvo ARG-tmpc8jqe LIT-tmpk7imr LIT-tmpqbo3w — Proposed, new or Unavailable; the account, readings and registered works this lead produced, cited in the dated note -->
+<!-- inactive-ok-file: THEORY-067 THEORY-2236 THEORY-2237 THEORY-2241 ARG-206 LIT-3115 LIT-3116 — Proposed, new or Unavailable; the account, readings and registered works this lead produced, cited in the dated note -->
 
 # LEAD-078: Find evidence on bundling by self-prediction rather than an imposed bundle, and on whether discounting mediates self-control change after mindfulness practice
 
@@ -49,12 +49,12 @@ Done on branch claude/lead-078-bundling
 (scratch/studies/lead-078/search.md and PROGRESS.md).
 
 - **Searched** both kinds of study (twelve queries, logged).
-- **Read** three works: Khan and Dhar 2007 ([LIT-tmpgi12m](../literature.d/LIT-tmpgi12m.md), [NOTE-tmpq33n0](../notes.d/NOTE-tmpq33n0.md),
-  [THEORY-tmp353ez](../theory.d/THEORY-tmp353ez.md)), Schuhr 2015 ([LIT-tmpj7m62](../literature.d/LIT-tmpj7m62.md), [NOTE-tmpjem53](../notes.d/NOTE-tmpjem53.md),
-  [THEORY-tmpx5wbu](../theory.d/THEORY-tmpx5wbu.md)) and Ge et al. 2024 ([LIT-916](../literature.d/LIT-916.md), now Active; [NOTE-tmp1yxz6](../notes.d/NOTE-tmp1yxz6.md),
-  [THEORY-tmpbidvo](../theory.d/THEORY-tmpbidvo.md), [ARG-tmpc8jqe](../arguments.d/ARG-tmpc8jqe.md)).
-- **Registered** two unread: Kirby and Guastello 2001 ([LIT-tmpk7imr](../literature.d/LIT-tmpk7imr.md)) and
-  Hofmeyr et al. 2011 ([LIT-tmpqbo3w](../literature.d/LIT-tmpqbo3w.md)), both Unavailable.
+- **Read** three works: Khan and Dhar 2007 ([LIT-3113](../literature.d/LIT-3113.md), [NOTE-2326](../notes.d/NOTE-2326.md),
+  [THEORY-2236](../theory.d/THEORY-2236.md)), Schuhr 2015 ([LIT-3114](../literature.d/LIT-3114.md), [NOTE-2327](../notes.d/NOTE-2327.md),
+  [THEORY-2237](../theory.d/THEORY-2237.md)) and Ge et al. 2024 ([LIT-916](../literature.d/LIT-916.md), now Active; [NOTE-2331](../notes.d/NOTE-2331.md),
+  [THEORY-2241](../theory.d/THEORY-2241.md), [ARG-206](../arguments.d/ARG-206.md)).
+- **Registered** two unread: Kirby and Guastello 2001 ([LIT-3115](../literature.d/LIT-3115.md)) and
+  Hofmeyr et al. 2011 ([LIT-3116](../literature.d/LIT-3116.md)), both Unavailable.
 - **Result, self-predicted bundling.** One direct manipulation of
   perceived precedent found (Khan and Dhar's link study): it moves choice
   toward the virtue, back to about the isolated rate, with the precedent

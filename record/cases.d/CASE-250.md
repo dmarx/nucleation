@@ -85,7 +85,7 @@ skip, daily rewards); it does not measure efficacy of commitments.
 
 ## Note of 2026-11-22: Ivern and Carbonell, read
 
-**Instances**, no edge ([LIT-2447](../literature.d/LIT-2447.md), [NOTE-tmpzok4t](../notes.d/NOTE-tmpzok4t.md)). The review's
+**Instances**, no edge ([LIT-2447](../literature.d/LIT-2447.md), [NOTE-2309](../notes.d/NOTE-2309.md)). The review's
 Self-Regulation Obstacles category, design "decreasing friction for spending
 or restricting selfimposed limits", includes "LBs purchasing process lacks
 confirmation steps", "LB spending or opening limits cannot be set by the

@@ -35,7 +35,7 @@ summary: >-
   required".
 ---
 
-<!-- inactive-ok-file: THEORY-tmpye6xs LIT-tmpcc25u — Proposed or new; the reading of Azizpour and colleagues, 2026-11-22, and the Deferred work it names -->
+<!-- inactive-ok-file: THEORY-2168 LIT-3027 — Proposed or new; the reading of Azizpour and colleagues, 2026-11-22, and the Deferred work it names -->
 
 # NOTE-054: Brain states across spacetime via whole-brain models
 
@@ -131,9 +131,9 @@ This is a programme review from the Deco/Kringelbach/Cabral group. Most modellin
 A qualification of an assumption this reading records, not of the review
 read here. The Assumptions list "The brain operates near criticality,
 where dynamic range and information capacity are maximal", cited from
-power-law observations. Azizpour and colleagues ([LIT-2980](../literature.d/LIT-2980.md), [NOTE-tmporpz2](NOTE-tmporpz2.md),
-[THEORY-tmpye6xs](../theory.d/THEORY-tmpye6xs.md)) take the dynamic-range maximum at criticality from
-Kinouchi and Copelli ([LIT-tmpcc25u](../literature.d/LIT-tmpcc25u.md), registered, Deferred) and show that,
+power-law observations. Azizpour and colleagues ([LIT-2980](../literature.d/LIT-2980.md), [NOTE-2259](NOTE-2259.md),
+[THEORY-2168](../theory.d/THEORY-2168.md)) take the dynamic-range maximum at criticality from
+Kinouchi and Copelli ([LIT-3027](../literature.d/LIT-3027.md), registered, Deferred) and show that,
 in a branching network read out by a leaky integrator, it holds only for
 infinite integration time: "a finite T results in a substantial reduction
 of the dynamic range in the vicinity of the critical point", and every

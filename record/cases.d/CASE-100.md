@@ -29,7 +29,11 @@ summary: >-
   X-Men fans or the internet at large, is not.
 reported_in:
 - LIT-1142
+- NOTE-2396
+- NOTE-2412
+- NOTE-2411
 ---
+<!-- inactive-ok-file: CASE-410 NOTE-2396 NOTE-2412 NOTE-2411 CLAIM-1006 CLAIM-1022 CLAIM-1052 — new; filed by the lead run of 2026-11-23 -->
 
 # CASE-100: A fan redub of an X-Men cartoon, circulated online in 2006, put "I'm the Juggernaut, bitch!" into X-Men: The Last Stand three months later
 
@@ -97,3 +101,25 @@ not shown to have caused the reshoot decision, stands.
 The agents the article names are two creators, a mass audience, a news
 segment and one director, not the X-Men fandom as such. That is
 consistent with A7 §4's "passing coalition".
+
+## Note of 2026-11-23: production testimony on the route
+
+The lead run of 2026-11-23 ([CASE-410](CASE-410.md)) searched interviews and
+trade press. The strengthener this case asks for, "production
+testimony on the decision", is now in part supplied:
+
+- The actor Vinnie Jones ([NOTE-2396](../notes.d/NOTE-2396.md), 2020): the director "found that
+  on the internet and wanted to do that".
+- Jones again ([NOTE-2412](../notes.d/NOTE-2412.md), 2024): "Brett Ratner phoned me ... He'd
+  seen it online, I think ... we had to go to Elstree for the day and we
+  did that one line."
+- Kinberg via Polygon, as reported ([NOTE-2411](../notes.d/NOTE-2411.md)): not in the shooting
+  script; "a reshoot Ratner line".
+
+So the line was the director's, added at a one-line pickup after
+principal photography, for a video the actor believes he saw online.
+The borrowing this case's note of 2026-10-29 called very likely now has
+a production witness. What still is not shown is how the video reached
+the director, and so whether circulation, rather than a site or a
+person, carried it ([CLAIM-1006](../claims.d/CLAIM-1006.md); two readings, [CLAIM-1022](../claims.d/CLAIM-1022.md) and
+[CLAIM-1052](../claims.d/CLAIM-1052.md)). The case's standing and status are unchanged.

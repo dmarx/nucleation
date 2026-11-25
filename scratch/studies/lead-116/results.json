@@ -1,0 +1,511 @@
+{
+  "nonmonotone": {
+    "q_empty": 0.1864605766739839,
+    "q_a": 0.8079958322539303,
+    "q_b": 0.8079958322539302,
+    "q_ab": 0.04027972880731076,
+    "q_ac": 0.8670994792789263,
+    "q_abc": 0.04280496032061714,
+    "delta_a": 0.6215352555799465,
+    "delta_b": 0.6215352555799463,
+    "delta_ab": -0.14618084786667315
+  },
+  "committor_ranking": [
+    [
+      [
+        "a",
+        "c"
+      ],
+      2,
+      0.8671
+    ],
+    [
+      [
+        "a",
+        "d"
+      ],
+      2,
+      0.8671
+    ],
+    [
+      [
+        "b",
+        "c"
+      ],
+      2,
+      0.8671
+    ],
+    [
+      [
+        "b",
+        "d"
+      ],
+      2,
+      0.8671
+    ],
+    [
+      [
+        "a"
+      ],
+      1,
+      0.808
+    ],
+    [
+      [
+        "b"
+      ],
+      1,
+      0.808
+    ],
+    [
+      [
+        "c",
+        "d"
+      ],
+      2,
+      0.2248
+    ],
+    [
+      [
+        "c"
+      ],
+      1,
+      0.1987
+    ],
+    [
+      [
+        "d"
+      ],
+      1,
+      0.1987
+    ],
+    [
+      [],
+      0,
+      0.1865
+    ],
+    [
+      [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      4,
+      0.0473
+    ],
+    [
+      [
+        "a",
+        "b",
+        "c"
+      ],
+      3,
+      0.0428
+    ],
+    [
+      [
+        "a",
+        "b",
+        "d"
+      ],
+      3,
+      0.0428
+    ],
+    [
+      [
+        "a",
+        "b"
+      ],
+      2,
+      0.0403
+    ]
+  ],
+  "mc_check": {
+    "estimate": 0.1885,
+    "exact": 0.1865
+  },
+  "mean_first_passage_empty": 0.497,
+  "factorial": {
+    "A/uniform": {
+      "q_empty": 0.24260557690698195,
+      "q_designed_seam": 0.8129737391820872,
+      "delta_q_N": 0.5703681622751052,
+      "q_both_seams": 0.038661510885834235,
+      "yield_1e6": 0.24260557690698203
+    },
+    "A/targeted": {
+      "q_empty": 0.2503108951007663,
+      "q_designed_seam": 0.8515405170910569,
+      "delta_q_N": 0.6012296219902906,
+      "q_both_seams": 0.02605044554782295,
+      "yield_1e6": 0.25031089510076615
+    },
+    "B/uniform": {
+      "q_empty": 0.24260557690698192,
+      "q_designed_seam": 0.8129737391820869,
+      "delta_q_N": 0.570368162275105,
+      "q_both_seams": 0.038661510885834235,
+      "yield_1e6": 0.24260557690698203
+    },
+    "B/targeted": {
+      "q_empty": 0.25031089510076626,
+      "q_designed_seam": 0.8515405170910568,
+      "delta_q_N": 0.6012296219902906,
+      "q_both_seams": 0.02605044554782295,
+      "yield_1e6": 0.2503108951007662
+    },
+    "both-seams/targeted": {
+      "q_empty": 0.19570955501588005,
+      "q_designed_seam": 0.010853408204283682,
+      "delta_q_N": -0.18485614681159637,
+      "q_both_seams": 0.010853408204283682,
+      "yield_1e6": 0.1957095550158799
+    }
+  },
+  "allocation": {
+    "budget": 4.0,
+    "split_seams": [
+      {
+        "frac_on_b": 0.0,
+        "conc_a": 2.0,
+        "conc_b": 0.0,
+        "q_succeed": 0.2135,
+        "q_formA_empty": 0.2135,
+        "share_A": 1.0
+      },
+      {
+        "frac_on_b": 0.05,
+        "conc_a": 1.9,
+        "conc_b": 0.1,
+        "q_succeed": 0.2083,
+        "q_formA_empty": 0.2,
+        "share_A": 0.9598
+      },
+      {
+        "frac_on_b": 0.1,
+        "conc_a": 1.8,
+        "conc_b": 0.2,
+        "q_succeed": 0.2037,
+        "q_formA_empty": 0.1868,
+        "share_A": 0.9169
+      },
+      {
+        "frac_on_b": 0.15,
+        "conc_a": 1.7,
+        "conc_b": 0.3,
+        "q_succeed": 0.1996,
+        "q_formA_empty": 0.174,
+        "share_A": 0.8714
+      },
+      {
+        "frac_on_b": 0.2,
+        "conc_a": 1.6,
+        "conc_b": 0.4,
+        "q_succeed": 0.1961,
+        "q_formA_empty": 0.1615,
+        "share_A": 0.8233
+      },
+      {
+        "frac_on_b": 0.25,
+        "conc_a": 1.5,
+        "conc_b": 0.5,
+        "q_succeed": 0.1932,
+        "q_formA_empty": 0.1493,
+        "share_A": 0.7731
+      },
+      {
+        "frac_on_b": 0.3,
+        "conc_a": 1.4,
+        "conc_b": 0.6,
+        "q_succeed": 0.1907,
+        "q_formA_empty": 0.1375,
+        "share_A": 0.721
+      },
+      {
+        "frac_on_b": 0.35,
+        "conc_a": 1.3,
+        "conc_b": 0.7,
+        "q_succeed": 0.1889,
+        "q_formA_empty": 0.126,
+        "share_A": 0.6672
+      },
+      {
+        "frac_on_b": 0.4,
+        "conc_a": 1.2,
+        "conc_b": 0.8,
+        "q_succeed": 0.1875,
+        "q_formA_empty": 0.1148,
+        "share_A": 0.6122
+      },
+      {
+        "frac_on_b": 0.45,
+        "conc_a": 1.1,
+        "conc_b": 0.9,
+        "q_succeed": 0.1867,
+        "q_formA_empty": 0.1039,
+        "share_A": 0.5563
+      },
+      {
+        "frac_on_b": 0.5,
+        "conc_a": 1.0,
+        "conc_b": 1.0,
+        "q_succeed": 0.1865,
+        "q_formA_empty": 0.0932,
+        "share_A": 0.5
+      },
+      {
+        "frac_on_b": 0.55,
+        "conc_a": 0.9,
+        "conc_b": 1.1,
+        "q_succeed": 0.1867,
+        "q_formA_empty": 0.0829,
+        "share_A": 0.4437
+      },
+      {
+        "frac_on_b": 0.6,
+        "conc_a": 0.8,
+        "conc_b": 1.2,
+        "q_succeed": 0.1875,
+        "q_formA_empty": 0.0727,
+        "share_A": 0.3878
+      },
+      {
+        "frac_on_b": 0.65,
+        "conc_a": 0.7,
+        "conc_b": 1.3,
+        "q_succeed": 0.1889,
+        "q_formA_empty": 0.0629,
+        "share_A": 0.3328
+      },
+      {
+        "frac_on_b": 0.7,
+        "conc_a": 0.6,
+        "conc_b": 1.4,
+        "q_succeed": 0.1907,
+        "q_formA_empty": 0.0532,
+        "share_A": 0.279
+      },
+      {
+        "frac_on_b": 0.75,
+        "conc_a": 0.5,
+        "conc_b": 1.5,
+        "q_succeed": 0.1932,
+        "q_formA_empty": 0.0438,
+        "share_A": 0.2269
+      },
+      {
+        "frac_on_b": 0.8,
+        "conc_a": 0.4,
+        "conc_b": 1.6,
+        "q_succeed": 0.1961,
+        "q_formA_empty": 0.0346,
+        "share_A": 0.1767
+      },
+      {
+        "frac_on_b": 0.85,
+        "conc_a": 0.3,
+        "conc_b": 1.7,
+        "q_succeed": 0.1996,
+        "q_formA_empty": 0.0257,
+        "share_A": 0.1286
+      },
+      {
+        "frac_on_b": 0.9,
+        "conc_a": 0.2,
+        "conc_b": 1.8,
+        "q_succeed": 0.2037,
+        "q_formA_empty": 0.0169,
+        "share_A": 0.0831
+      },
+      {
+        "frac_on_b": 0.95,
+        "conc_a": 0.1,
+        "conc_b": 1.9,
+        "q_succeed": 0.2083,
+        "q_formA_empty": 0.0084,
+        "share_A": 0.0402
+      },
+      {
+        "frac_on_b": 1.0,
+        "conc_a": 0.0,
+        "conc_b": 2.0,
+        "q_succeed": 0.2135,
+        "q_formA_empty": 0.0,
+        "share_A": 0.0
+      }
+    ],
+    "seam_vs_body": [
+      {
+        "frac_on_seams": 0.1,
+        "conc_seam_each": 0.2,
+        "conc_body_each": 1.8,
+        "q_succeed": 0.0529,
+        "yield_1e6": 0.0529
+      },
+      {
+        "frac_on_seams": 0.14,
+        "conc_seam_each": 0.28,
+        "conc_body_each": 1.72,
+        "q_succeed": 0.0718,
+        "yield_1e6": 0.0718
+      },
+      {
+        "frac_on_seams": 0.18,
+        "conc_seam_each": 0.36,
+        "conc_body_each": 1.64,
+        "q_succeed": 0.0894,
+        "yield_1e6": 0.0894
+      },
+      {
+        "frac_on_seams": 0.22,
+        "conc_seam_each": 0.44,
+        "conc_body_each": 1.56,
+        "q_succeed": 0.1059,
+        "yield_1e6": 0.1059
+      },
+      {
+        "frac_on_seams": 0.26,
+        "conc_seam_each": 0.52,
+        "conc_body_each": 1.48,
+        "q_succeed": 0.1212,
+        "yield_1e6": 0.1212
+      },
+      {
+        "frac_on_seams": 0.3,
+        "conc_seam_each": 0.6,
+        "conc_body_each": 1.4,
+        "q_succeed": 0.1352,
+        "yield_1e6": 0.1352
+      },
+      {
+        "frac_on_seams": 0.34,
+        "conc_seam_each": 0.68,
+        "conc_body_each": 1.32,
+        "q_succeed": 0.1481,
+        "yield_1e6": 0.1481
+      },
+      {
+        "frac_on_seams": 0.38,
+        "conc_seam_each": 0.76,
+        "conc_body_each": 1.24,
+        "q_succeed": 0.1597,
+        "yield_1e6": 0.1597
+      },
+      {
+        "frac_on_seams": 0.42,
+        "conc_seam_each": 0.84,
+        "conc_body_each": 1.16,
+        "q_succeed": 0.17,
+        "yield_1e6": 0.17
+      },
+      {
+        "frac_on_seams": 0.46,
+        "conc_seam_each": 0.92,
+        "conc_body_each": 1.08,
+        "q_succeed": 0.179,
+        "yield_1e6": 0.179
+      },
+      {
+        "frac_on_seams": 0.5,
+        "conc_seam_each": 1.0,
+        "conc_body_each": 1.0,
+        "q_succeed": 0.1865,
+        "yield_1e6": 0.1865
+      },
+      {
+        "frac_on_seams": 0.54,
+        "conc_seam_each": 1.08,
+        "conc_body_each": 0.92,
+        "q_succeed": 0.1923,
+        "yield_1e6": 0.1923
+      },
+      {
+        "frac_on_seams": 0.58,
+        "conc_seam_each": 1.16,
+        "conc_body_each": 0.84,
+        "q_succeed": 0.1964,
+        "yield_1e6": 0.1964
+      },
+      {
+        "frac_on_seams": 0.62,
+        "conc_seam_each": 1.24,
+        "conc_body_each": 0.76,
+        "q_succeed": 0.1983,
+        "yield_1e6": 0.1983
+      },
+      {
+        "frac_on_seams": 0.66,
+        "conc_seam_each": 1.32,
+        "conc_body_each": 0.68,
+        "q_succeed": 0.1979,
+        "yield_1e6": 0.1979
+      },
+      {
+        "frac_on_seams": 0.7,
+        "conc_seam_each": 1.4,
+        "conc_body_each": 0.6,
+        "q_succeed": 0.1946,
+        "yield_1e6": 0.1946
+      },
+      {
+        "frac_on_seams": 0.74,
+        "conc_seam_each": 1.48,
+        "conc_body_each": 0.52,
+        "q_succeed": 0.1877,
+        "yield_1e6": 0.1877
+      },
+      {
+        "frac_on_seams": 0.78,
+        "conc_seam_each": 1.56,
+        "conc_body_each": 0.44,
+        "q_succeed": 0.1764,
+        "yield_1e6": 0.1764
+      },
+      {
+        "frac_on_seams": 0.82,
+        "conc_seam_each": 1.64,
+        "conc_body_each": 0.36,
+        "q_succeed": 0.1594,
+        "yield_1e6": 0.1594
+      },
+      {
+        "frac_on_seams": 0.86,
+        "conc_seam_each": 1.72,
+        "conc_body_each": 0.28,
+        "q_succeed": 0.1351,
+        "yield_1e6": 0.1351
+      },
+      {
+        "frac_on_seams": 0.9,
+        "conc_seam_each": 1.8,
+        "conc_body_each": 0.2,
+        "q_succeed": 0.1016,
+        "yield_1e6": 0.1016
+      }
+    ]
+  },
+  "persistence": [
+    {
+      "T": 300.0,
+      "reached_F": 0.1991,
+      "survival_t1": 0.7305,
+      "survival_t10": 0.0462,
+      "survival_t100": 0.0
+    },
+    {
+      "T": 330.0,
+      "reached_F": 0.1949,
+      "survival_t1": 0.6679,
+      "survival_t10": 0.0289,
+      "survival_t100": 0.0
+    },
+    {
+      "T": 360.0,
+      "reached_F": 0.1662,
+      "survival_t1": 0.3507,
+      "survival_t10": 0.0011,
+      "survival_t100": 0.0
+    }
+  ]
+}

@@ -97,6 +97,7 @@ summary: >-
 complements:
 - CLAIM-405
 ---
+<!-- inactive-ok-file: THEORY-2268 THEORY-2274 CLAIM-989 CLAIM-987 CLAIM-988 — Proposed; readings and the constitutivism test filed for LEAD-158 -->
 <!-- inactive-ok-file: CASE-257 — filed from the exchange of 2026-11-12, Proposed -->
 <!-- inactive-ok-file: THEORY-1279 THEORY-1277 — Proposed; Tsoukas and Chia's radial categories and Bencherki and Iliadis's coexisting levels, set beside this claim -->
 
@@ -255,3 +256,26 @@ A49 §2 of the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6af
 Two of A's descriptions are wrong. A49's provenance table puts this claim with [CLAIM-354](CLAIM-354.md) in a row whose underlying literature is Sen ([LIT-289](../literature.d/LIT-289.md)) and Pettit ([LIT-1614](../literature.d/LIT-1614.md)). This claim cites neither; no reading or work it names is Sen's or Pettit's. Only [CLAIM-354](CLAIM-354.md) traces to them, to Sen through its reading of the capability approach and to Pettit directly. And A70 gives the relata as "relationship, perspective, context, and standard", dropping scale.
 
 No status changes.
+
+## Note of 2026-11-22: Leffler and Massimi, read
+
+Two readings filed for [LEAD-158](../leads.d/LEAD-158.md) bear on this claim.
+
+- **Leffler** ([THEORY-2268](../theory.d/THEORY-2268.md)) reaches A17's fourth row, "No
+  context-transcending standard can adjudicate between standpoints", by
+  a route that grants the first three: on plight inescapability a
+  standard fixed by an agent's constitution is one the agent can fail,
+  and a verdict on its failure is not relative, yet the standard's force
+  is. The claim neither holds nor denies the fourth row, so the paper
+  does not defeat it. Reading (b) of the constitutivism test,
+  [CLAIM-989](CLAIM-989.md), `objects_to` this claim: where the organization's own
+  constitution fixes the standard, "does not by itself make it relative"
+  holds for truth and not for force. Readings (a) and (c), [CLAIM-987](CLAIM-987.md)
+  and [CLAIM-988](CLAIM-988.md), leave the claim as it is. Which reading to adopt is
+  the owner's.
+- **Massimi** ([THEORY-2274](../theory.d/THEORY-2274.md)): the claim's two parts for scientific
+  knowledge. Phenomena are "indexed to a particular domain (depending on
+  the context of inquiry)", and the knowledge is still realist. A
+  parallel; no edge.
+
+No status, title or warrant changes.

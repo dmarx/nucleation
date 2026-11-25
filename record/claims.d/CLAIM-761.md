@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpqpd2p
 title: 'A stabilized constraint can be stored work: by replacing later work with cheaper operations it changes which activities are realizable within a fixed per-task budget, so amortization becomes capability expansion without any added degrees of freedom or resources; the expansion is conditional on the costs of constructing, keeping, retrieving, verifying and revising the constraint and on the distribution of later demands, and the persistence that buys it can entrench'
-version: 2
+version: 4
 history:
 - version: 2
   date: '2026-11-20'
@@ -27,6 +27,19 @@ history:
     each witness stipulates that the framework is acquired at a cost.
     CLAIM-755, which the body cites for the two separations, stays
     Proposed and is not a premise. Interpretive. The title is unchanged.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-144) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §11.1. No other change.
+- version: 4
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 3 abstract, §1 (ADR-tmpenzcn). No
+    change of title or status.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -54,7 +67,9 @@ line:
 - realizability
 - learned-structure
 works:
+- governance-of-possibility
 - cost-structure-of-possibility
+- governance-of-becoming
 rests_on:
 - CLAIM-303
 - CLAIM-475
@@ -152,13 +167,28 @@ operations widen substantive freedom, and for whom, is [CLAIM-352](CLAIM-352.md)
 question, and A37 itself kept it open.
 
 ## Note of 2026-11-22: the separation, applied to three cases
-<!-- inactive-ok-file: CASE-tmpo2iur CLAIM-tmpeklli — new; filed by LEAD-108's run of 2026-11-22 -->
+<!-- inactive-ok-file: CLAIM-891 — new; filed by LEAD-108's run of 2026-11-22 -->
 
 [LEAD-108](../leads.d/LEAD-108.md)'s model keeps feasibility, lifetime cost and who pays apart, as
-this claim does, and the three cases show them parting ([CASE-tmpo2iur](../cases.d/CASE-tmpo2iur.md)). A
+this claim does, and the three cases show them parting ([CASE-326](../cases.d/CASE-326.md)). A
 LEGO bin for a kind held in twenty copies is not needed to meet the
 deadline but still pays over ten uses. The cockpit's bugs make final
 approach feasible whether or not their lifetime saving is positive.
-[CLAIM-tmpeklli](CLAIM-tmpeklli.md) adds a third route besides reuse and feasibility: a store
+[CLAIM-891](CLAIM-891.md) adds a third route besides reuse and feasibility: a store
 can pay by moving work to a moment when work is cheaper, with total work
 unchanged. No status change.
+
+## Note of 2026-11-22: learned scroll parameters as amortized coordination, from the exchange "Explain First Contact RL"
+<!-- inactive-ok-file: CASE-419 CLAIM-1122 ARG-240 — Proposed or Rejected; filed 2026-11-22 from the exchange "Explain First Contact RL" -->
+
+A8 §4 of that exchange reads the parameters an adaptive scroll interface
+learns ([CASE-419](../cases.d/CASE-419.md)) through this claim: repeated interaction exposes a
+mismatch, the interface learns a mapping, the mapping becomes a stable
+constraint, and later interactions are easier "without fresh inference",
+"a small piece of **amortized sensorimotor coordination**". A11 §5 says the
+same of the cached controller. This is an analogy, so no edge: the claim's
+step needs a fixed per-task budget whose feasible set the stored constraint
+enlarges, and a scroll interface works without it at any parameter value,
+so the reading is of cost lowered, not of capability expanded ([ARG-240](../arguments.d/ARG-240.md), Rejected as support). The
+separation of fast loop and slow learning that the analogy rests on is
+[CLAIM-1122](CLAIM-1122.md) (A's). No status change.

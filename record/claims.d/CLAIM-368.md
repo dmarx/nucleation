@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpyk3it
 title: 'The primitive for an organization''s regulatory difficulty is frustration, not distress: a relation between maintained, consequential demands and the incompatibilities, constraints or countervailing processes that limit their realization, independent of strain, the burden of sustaining activity, and distinct from distress, a possible integrated response to either'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-18'
@@ -43,6 +43,12 @@ history:
     At the third synthesis review of 2026-11-07: the summary called the organizational-affect
     line Deferred. The owner reopened it on 2026-10-23, and CLAIM-039 is
     Proposed. No other change.
+- version: 7
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 4 abstract, §3 (ADR-tmpenzcn). No
+    change of title or status.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -62,6 +68,8 @@ date: '2026-10-18'
 line:
 - distributed-agency
 - will-organization
+works:
+- governance-of-becoming
 rests_on:
 - CLAIM-283
 - CLAIM-027

@@ -47,7 +47,7 @@ summary: >-
   not coupling. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: ARG-125 TERM-138 CLAIM-478 CLAIM-626 CLAIM-826 — Proposed, Rejected or new; the route this states the finding of, and its users -->
+<!-- inactive-ok-file: ARG-125 TERM-138 CLAIM-478 CLAIM-826 — Proposed, Rejected or new; the route this states the finding of, and its users -->
 
 # CLAIM-819: Decay of correlation between blocks is not weak interaction between them, so a finite correlation length does not make a system nearly decomposable in Simon's sense; near-decomposability is a condition on coupling strengths, which large blocks of a short-range system meet at a critical point too
 

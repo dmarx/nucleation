@@ -47,7 +47,7 @@ summary: >-
   the outcome of the governing relations, which is the reading [CLAIM-027](CLAIM-027.md)'s
   defeater excludes ("whose content predicts the outcome").
 ---
-<!-- inactive-ok-file: THEORY-tmpam6lh — Proposed; the reading of Caliari, 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2218 — Proposed; the reading of Caliari, 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-089 — Rejected; the objection this answers -->
 
 # CLAIM-482: An organization's aggregate revealed preference exists exactly when its record of winning moves never cycles, and where it exists it is fitted to one regime of authority, so an intervention on authority that changes the winning moves changes the fitted preference and the preference does not predict the change
@@ -113,7 +113,7 @@ The full reading ([NOTE-1576](../notes.d/NOTE-1576.md) v2) confirms what the not
 ## Note of 2026-11-22: Caliari, read
 
 A **different notion of revealed preference, not a rival** ([LIT-2363](../literature.d/LIT-2363.md),
-[NOTE-tmphq6zm](../notes.d/NOTE-tmphq6zm.md); [THEORY-tmpam6lh](../theory.d/THEORY-tmpam6lh.md)). Caliari's welfare methods elicit a
+[NOTE-2308](../notes.d/NOTE-2308.md); [THEORY-2218](../theory.d/THEORY-2218.md)). Caliari's welfare methods elicit a
 preference from a record that violates WARP, that is, from a cycling
 record, at a stated risk of false positives and under the assumption that
 choice frequency is monotone in the preference. That is not an ordering

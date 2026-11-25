@@ -52,7 +52,7 @@ bears_on:
 - QUESTION-223
 ---
 <!-- inactive-ok-file: THEORY-497 — Proposed; cited for what each measure or account computes, not as settled -->
-<!-- inactive-ok-file: THEORY-tmpc73s5 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
+<!-- inactive-ok-file: THEORY-2187 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 # CLAIM-343: For three or more parts, no ΦID can use a redundancy function that both satisfies the identity axiom and yields nonnegative atoms, because on the Williams–Beer lattice the two are inconsistent from three sources up; a ΦID verdict on three or more parts therefore rests on which axiom the analyst drops, and should name it
 
@@ -103,7 +103,7 @@ studies that chose differently.
 
 ## Note of 2026-11-22: Martínez-Sánchez and colleagues, read
 
-Martínez-Sánchez, Arranz and Lozano-Durán ([LIT-2965](../literature.d/LIT-2965.md), [NOTE-tmpi0o71](../notes.d/NOTE-tmpi0o71.md), [THEORY-tmpc73s5](../theory.d/THEORY-tmpc73s5.md)): **leaves it open,
+Martínez-Sánchez, Arranz and Lozano-Durán ([LIT-2965](../literature.d/LIT-2965.md), [NOTE-2275](../notes.d/NOTE-2275.md), [THEORY-2187](../theory.d/THEORY-2187.md)): **leaves it open,
 a contrast.** SURD gets nonnegative components by not using the
 Williams–Beer lattice, with 2^N terms (512 for nine variables against
 "over 10^23" on the lattice, SI §S1.2). Its redundancy, taken per target

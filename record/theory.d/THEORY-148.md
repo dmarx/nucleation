@@ -2,7 +2,7 @@
 number: 148
 status: Proposed
 formerly:
-- THEORY-148
+- THEORY-tmpqnfk9
 promote_when: >-
   A demonstration outside the bandit-model family: either a different
   formal model of inquiry, or real groups, in which keeping alternatives
@@ -31,6 +31,8 @@ summary: >-
   in simulation.
 bears_on:
 - QUESTION-047
+bounds:
+- CLAIM-1038
 ---
 <!-- inactive-ok-file: THEORY-143 — Proposed; the network account filed in this batch -->
 
@@ -88,3 +90,8 @@ that qualified: Kuhn himself argues that individual variability in
 applying shared values "may be the community's way of distributing risk".
 The disagreement is over whether diversity needs differences in how values
 are applied, not over valuing diversity.
+
+## Note of 2026-11-23: "transient" in two senses, from "Explain First Contact RL"
+<!-- inactive-ok-block: CLAIM-1038 ARG-226 — new; the claim this account bounds and the argument that says how -->
+
+A60 §5 of the exchange "Explain First Contact RL" (ChatGPT, 2026-11-23) argues "maintained diversity matters more than transient variety", where transient variety is opinion voiced with no enduring support. That is not this account's transient diversity, which is diversity of pursuit supported for a while and then given up, and is the virtue here. Read together ([ARG-226](../arguments.d/ARG-226.md)), this account bounds A60's claim ([CLAIM-1038](../claims.d/CLAIM-1038.md)): diversity of pursuit kept indefinitely stops a group settling, so what A60 can ask to be maintained is capacity that can be taken up again, not pursuit. The note is the assistant's (Claude, in this session); adopting it is the owner's call.

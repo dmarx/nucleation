@@ -126,3 +126,21 @@ have failed to exist.
 - **The anthology** holds the paper as [ANTH-LIT-460](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-460.md) with its account
   [ANTH-THEORY-034](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/theory.d/THEORY-034.md). [NOTE-240](../notes.d/NOTE-240.md)'s corrections to that reading (the join, the
   GPT-4o ground truth) are reported there, not edited from here.
+
+## Note of 2026-11-22: a conditional objection that does not apply, from the exchange "Explain First Contact RL"
+
+A contrast. A29 of the exchange (ChatGPT, after the owner's U15) observed
+that the pointwise maximum of two linear tests is not linear, and called
+this "an important possible failure of the lattice representation
+hypothesis if one interprets it as claiming that lattice composition is
+itself implemented by linear operations." The paper does not claim that:
+its meet is half-space intersection, its join a union of cones
+approximated by their conic hull (Definition 7), and its soft meet and
+join are the pointwise min and max of profiles (Eq. 6), none of them one
+direction. So the observation is no objection to the paper as written
+([CLAIM-1101](../claims.d/CLAIM-1101.md), Proposed, which rests on the reading here). A29 used this
+account's main point, that every incidence relation has a complete concept
+lattice so the lattice's existence shows nothing, correctly. Its graded
+lattice of [0, 1]-valued predicates under min and max ([CLAIM-1096](../claims.d/CLAIM-1096.md),
+Proposed) is the paper's soft algebra taken over a measure, with its
+distributivity and valuation metric made explicit.

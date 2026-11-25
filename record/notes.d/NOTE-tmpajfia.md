@@ -19,20 +19,20 @@ history:
     constructions of §2.1–2.5 were read for what they say about
     Kleene's realizability, not checked. Read as the stand-in for Kleene
     1945 (LIT-tmp9cdlq), which is Unavailable (ADR-114), for
-    LEAD-tmp3xevc.
+    LEAD-215.
 date: '2026-11-22'
 summary: >-
   A personal history of realizability in two periods, 1940–1980 (Kleene's
   definition and its syntactic variants) and 1980–2000 (the effective topos
   and its relatives). For this record it gives Kleene's 1945 definition
-  exactly, and what bears on [CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md): a Kleene realizer is a
+  exactly, and what bears on [CLAIM-949](../claims.d/CLAIM-949.md): a Kleene realizer is a
   witness kept with computational information, not with a proof; a true
   atomic sentence's realizer is 0, so passing a decidable test carries
   nothing; realizability is a classical relation between numbers and
   sentences, a truth definition in the effective topos; and the typed,
   proof-relevant form came with Kreisel in 1959.
 ---
-<!-- inactive-ok-file: CLAIM-tmpnookt CLAIM-783 CLAIM-487 TERM-tmp7s2aa TERM-tmp3mop8 TERM-tmp94y6v LIT-tmp9cdlq ARG-tmp68y3c — Proposed, Open or Unavailable; the entries this reading bears on, its account, the argument filed from it, and the work it stands in for -->
+<!-- inactive-ok-file: CLAIM-949 CLAIM-783 CLAIM-487 TERM-154 TERM-153 TERM-152 LIT-tmp9cdlq ARG-tmp68y3c — Proposed, Open or Unavailable; the entries this reading bears on, its account, the argument filed from it, and the work it stands in for -->
 
 # NOTE-tmpajfia: van Oosten — Realizability: a historical essay
 
@@ -112,7 +112,7 @@ selection is, by its author's statement, "my own personal taste" (p. 1).
 
 ## Bearing on the record
 
-- **[CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md)** (the type-theoretic counterpart of specification).
+- **[CLAIM-949](../claims.d/CLAIM-949.md)** (the type-theoretic counterpart of specification).
   Its sentence on Kleene, "the record's realization, with the witness
   kept", holds for the existential clause: a realizer of ∃xφ(x) is the
   pair ⟨m, k⟩, the witness m kept with a realizer of φ(m). It holds less
@@ -128,15 +128,15 @@ selection is, by its author's statement, "my own personal taste" (p. 1).
   The proof-relevant reading the claim wants is Kreisel's typed
   realizability and Martin-Löf's types, not Kleene 1945. Filed as
   [ARG-tmp68y3c](../arguments.d/ARG-tmp68y3c.md), with `corroborates` for the witness correspondence.
-- **[TERM-tmp7s2aa](../terms.d/TERM-tmp7s2aa.md)** (witness). The existential clause is the term's
+- **[TERM-154](../terms.d/TERM-154.md)** (witness). The existential clause is the term's
   logician's sense exactly: the first component m of the realizer.
-- **[TERM-tmp3mop8](../terms.d/TERM-tmp3mop8.md)** (certificate). No analogue in Kleene's realizer, which
+- **[TERM-153](../terms.d/TERM-153.md)** (certificate). No analogue in Kleene's realizer, which
   was designed to carry information rather than proofs. The nearest is
   glued realizability with P the provable sentences, a realizer kept with
   the fact of provability, and the proof-to-realizer translation behind
   the soundness theorem. The atomic clause gives the term's own condition a
   sharp form: where checking is decidable, nothing need be carried.
-- **[TERM-tmp94y6v](../terms.d/TERM-tmp94y6v.md)** (specification, realization). The word "realizer" is
+- **[TERM-152](../terms.d/TERM-152.md)** (specification, realization). The word "realizer" is
   Kleene's and attaches to a sentence; the record's "realization" attaches
   to a set of tests. The set of realizers of a sentence is a set of
   admissible realizations in the term's sense; a realizer is not the

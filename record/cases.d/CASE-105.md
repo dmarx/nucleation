@@ -4,7 +4,12 @@ status: Active
 formerly:
 - CASE-tmpzotci
 title: 'The Washington Senators: the original club became the Minnesota Twins in 1961, an expansion club took its name in Washington and became the Texas Rangers in 1972, and the Montreal Expos became the Washington Nationals in 2005, so franchise, city and supporters each have a different successor'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Note of 2026-11-23 added: the respect the case left open for the 2005 Nationals, read from public statements by the lead run of that date. The case is unchanged.
 standing: documented
 kind: specimen
 tags:
@@ -70,3 +75,19 @@ identity branched; that needs supporters' accounts, attendance and
 retrospective identification (A4). Wegner, Delia and Baker on fans facing
 a threatened relocation ([LIT-1140](../literature.d/LIT-1140.md), unread) is the nearest empirical
 work the exchange found.
+
+## Note of 2026-11-23: how the 2005 Nationals are counted
+
+<!-- inactive-ok-block: CASE-392 CLAIM-1047 — new, Proposed; the study and verdict filed by the lead run of 2026-11-23 -->
+This case said the Nationals' "Washington identity invokes the city's
+older baseball history while their franchise lineage runs through
+Montreal". [CASE-392](CASE-392.md) read what that invocation is, from fourteen
+public statements: the club displays the Senators' records on a page of
+their own and called itself "a new team" in 2004; its Ring of Honor
+honours both Senators clubs, the Expos and the Homestead Grays, and since
+2016 anyone who contributed "to the game of baseball in Washington, D.C.";
+the supporter pages reached assign the Senators' records to the Twins and
+Rangers, or claim their legacy for the city, not their records for the
+club. No statement counts the Nationals the original club continued
+([CLAIM-1047](../claims.d/CLAIM-1047.md)). How supporters actually divided is still not
+documented. The case is unchanged.

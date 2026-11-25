@@ -1,10 +1,18 @@
 ---
 number: 25
-status: Open
+status: Answered
 formerly:
 - QUESTION-tmpynu0z
 title: 'Do correlated or hierarchical attributes in co-occurrence statistics still give linear attribute directions in an embedding, and with them a concept lattice that is not Boolean?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Answered by CLAIM-902 at the status review's ruling (the owner
+    delegated these rulings; ADR-057): the derivation its "What would
+    count" names, which it says settles the question. The measurement limb
+    (CASE-344) is not needed for the answer.
 tags:
 - representation-learning
 - mathematics
@@ -19,7 +27,7 @@ summary: >-
   directions survive that structure is not answered by anything the
   record holds.
 ---
-<!-- inactive-ok-file: CLAIM-tmpe87cm CASE-tmpby7xp — new, filed today by LEAD-147 -->
+<!-- inactive-ok-file: CASE-344 — new, filed today by LEAD-147 -->
 <!-- inactive-ok-file: THEORY-201 — Proposed; cited as partial evidence, not as settled -->
 <!-- inactive-ok-file: THEORY-186 THEORY-196 THEORY-188 — Proposed; cited as partial evidence toward an answer, not as settled -->
 <!-- inactive-ok-file: THEORY-183 CLAIM-119 LIT-267 — Proposed; cited as the open accounts this question joins -->
@@ -188,7 +196,7 @@ The question stays Open.
 
 ## Note of 2026-11-22: a derivation, and a first measurement
 
-[LEAD-147](../leads.d/LEAD-147.md) filed both limbs. The derivation, [CLAIM-tmpe87cm](../claims.d/CLAIM-tmpe87cm.md), keeps
+[LEAD-147](../leads.d/LEAD-147.md) filed both limbs. The derivation, [CLAIM-902](../claims.d/CLAIM-902.md), keeps
 multiplicative co-occurrence and allows any implication order among the
 attributes. Every attribute is then still an exact affine readout of the
 full-rank PMI embedding, and the recovered incidence and its concept
@@ -202,6 +210,6 @@ depth. Along a tree, additivity says no more than that words in the same
 finest group share a PMI row; it constrains the PMI only where attributes
 cross-cut.
 
-The measurement is [CASE-tmpby7xp](../cases.d/CASE-tmpby7xp.md), on text8 with WordNet 3.0 hypernymy.
+The measurement is [CASE-344](../cases.d/CASE-344.md), on text8 with WordNet 3.0 hypernymy.
 Its hierarchy results are in that case. It uses no annotation by a
 language model, which answers [NOTE-240](../notes.d/NOTE-240.md)'s first objection for this test.

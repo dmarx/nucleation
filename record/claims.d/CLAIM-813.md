@@ -49,7 +49,7 @@ summary: >-
 <!-- inactive-ok-file: TERM-135 CASE-302 CLAIM-812 CLAIM-808 — Proposed or new, or Deferred works not yet read; filed with this claim -->
 <!-- inactive-ok-file: ARG-133 THEORY-2155 THEORY-2156 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
-<!-- inactive-ok-file: THEORY-tmpx26x7 — Proposed or new; the reading of the 2023 review by Quinn and colleagues, 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2167 — Proposed or new; the reading of the 2023 review by Quinn and colleagues, 2026-11-22 -->
 
 # CLAIM-813: Sloppiness and singularity are different properties of a statistical model: sloppiness is a spread of small but nonzero Fisher eigenvalues in a regular model, singularity is rank loss on a stratum of parameter space, so a model can be sloppy everywhere and singular nowhere or singular everywhere with no spread, and at a singular point the Fisher spectrum does not give the learning coefficient
 
@@ -142,12 +142,12 @@ LITs in the grounds ([ARG-133](../arguments.d/ARG-133.md)).
 
 Two parallels, neither moving the claim.
 
-- **Transtrum and Qiu** ([NOTE-tmphbnqd](../notes.d/NOTE-tmphbnqd.md)): the reduction method starts in a
+- **Transtrum and Qiu** ([NOTE-2253](../notes.d/NOTE-2253.md)): the reduction method starts in a
   sloppy, regular interior and ends at a boundary where "the smallest
   eigenvalue ... approaches zero"; the reduced EGFR model shows "lack of
   small eigenvalues", regular and no longer sloppy. The two properties
   occur at different places on one path, which fits the claim.
-- **Amari, Park and Ozeki** ([NOTE-tmptlwkf](../notes.d/NOTE-tmptlwkf.md)): in a perceptron the Fisher
+- **Amari, Park and Ozeki** ([NOTE-2255](../notes.d/NOTE-2255.md)): in a perceptron the Fisher
   matrix loses rank on continua at finite parameters, "not isolated but
   form a continuum", which the claim's "rank loss on a stratum" describes;
   near such a set the model is not a sloppy regular interior. A case of
@@ -155,7 +155,7 @@ Two parallels, neither moving the claim.
 
 ## Note of 2026-11-22: Quinn, Abbott, Transtrum, Machta & Sethna (2023), read
 
-Corroborates ([NOTE-tmp3keyy](../notes.d/NOTE-tmp3keyy.md); [THEORY-tmpx26x7](../theory.d/THEORY-tmpx26x7.md) `corroborates` this claim).
+Corroborates ([NOTE-2256](../notes.d/NOTE-2256.md); [THEORY-2167](../theory.d/THEORY-2167.md) `corroborates` this claim).
 The review separates what it studies, "practical identifiability, where
 some parameter combinations are almost interchangeable, leading to the
 small, sloppy eigenvalues", from structural non-identifiability, which

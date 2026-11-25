@@ -53,7 +53,7 @@ summary: >-
   so the set is explicit and amendable. That shows how one system fixes
   its set; it does not show the choice is non-arbitrary.
 ---
-<!-- inactive-ok-file: CLAIM-tmpke0ap CASE-tmp6mcpv — new, filed under LEAD-053 on 2026-11-22 -->
+<!-- inactive-ok-file: CLAIM-916 CASE-342 — new, filed under LEAD-053 on 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-181 CLAIM-184 CLAIM-185 — Proposed; open, and cited as open: under test, not settled -->
 <!-- inactive-ok-file: THEORY-1749 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
@@ -113,11 +113,11 @@ The claim is unchanged.
 
 This claim left open whether its move transfers to agents: "treat the
 constraint set as something an organization decides and revises". [LEAD-053](../leads.d/LEAD-053.md)
-tested that transfer on [CASE-036](../cases.d/CASE-036.md) ([CASE-tmp6mcpv](../cases.d/CASE-tmp6mcpv.md)). Taking the organization's
+tested that transfer on [CASE-036](../cases.d/CASE-036.md) ([CASE-342](../cases.d/CASE-342.md)). Taking the organization's
 own standard, its emergency criteria met, as K, every state of the
 lock-in's run meets it, so a stipulated K registers nothing: on Northstar
 it is the lock-in's own standard ([TERM-020](../terms.d/TERM-020.md), step 4). For [ARG-007](../arguments.d/ARG-007.md)'s purpose
 the transfer fails, and the rule proposed instead fixes K by production
-dependence ([CLAIM-tmpke0ap](CLAIM-tmpke0ap.md)). For an argument, where the record's grammar is
+dependence ([CLAIM-916](CLAIM-916.md)). For an argument, where the record's grammar is
 maintained from outside and nothing is locked in by it, this claim is
 untouched. No change.

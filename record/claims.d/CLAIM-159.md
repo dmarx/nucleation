@@ -2,7 +2,7 @@
 number: 159
 status: Active
 formerly:
-- CLAIM-159
+- CLAIM-tmpaf2e6
 title: 'The record''s rival accounts of will are claims about drive profiles in different cells: Ainslie''s interests are aggregate or emergent, the expected value of control is top-down, and will-organization is the maintained organization that governs how the drive profile changes'
 version: 4
 history:
@@ -145,7 +145,7 @@ what the précis proposes, would remove that premise as a blocker too.
 ## Note of 2026-11-22: [LEAD-078](../leads.d/LEAD-078.md), the bargaining cell
 
 [LEAD-078](../leads.d/LEAD-078.md) named this claim because it places [THEORY-067](../theory.d/THEORY-067.md)'s account in a
-cell. Schuhr ([LIT-tmpj7m62](../literature.d/LIT-tmpj7m62.md)) bears on that placement as background: in his
+cell. Schuhr ([LIT-3114](../literature.d/LIT-3114.md)) bears on that placement as background: in his
 experiment imposing a link between choices lowered patient choice, while
 leaving the series free raised it, which fits an account with no
 governor above the interests. It does not compare drive profiles across

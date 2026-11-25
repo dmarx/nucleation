@@ -4,7 +4,7 @@ formerly:
 - QUESTION-tmp2t6ve
 status: Open
 title: 'Does blameless post-incident practice in engineering keep accountability while giving up blame, and if it does, does it keep or lose the upstream provenance of an incapacity that blame supplies?'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-11-17'
@@ -28,6 +28,13 @@ history:
     and Nyce, and 49 U.S.C. 1154, each with bears_on this question; two
     claims and a proposed study filed in answer, with bears_on. No change
     of status or title.
+- version: 5
+  date: '2026-11-22'
+  note: >-
+    A dated note added: the SRE example postmortem, the SRE workbook
+    chapter and the reports of the Tempe prosecution read for LEAD-189,
+    each with bears_on this question; a claim, two objections and a
+    specimen filed in answer. No change of status or title.
 tags:
 - society-and-governance
 - ethics
@@ -167,8 +174,40 @@ On 2026-11-18 the owner asked the lead to "consider how blameless culture in mod
 No status changes. The question stays Open: its second half, for engineering postmortems, is unanswered.
 
 ## Note of 2026-11-22: a pilot coding of postmortems
-<!-- inactive-ok-file: CASE-tmp1ya4r CLAIM-tmpst09o — new; the pilot and its finding, filed for LEAD-119 on 2026-11-22 -->
+<!-- inactive-ok-file: CASE-335 CLAIM-905 — new; the pilot and its finding, filed for LEAD-119 on 2026-11-22 -->
 
-The question's second half, for engineering postmortems, now has a pilot bearing on it: [CASE-tmp1ya4r](../cases.d/CASE-tmp1ya4r.md) and its finding [CLAIM-tmpst09o](../claims.d/CLAIM-tmpst09o.md). In 26 of 30 public postmortems the trace stops at the engineering group's own design or procedure. CSB investigations of chemical accidents mostly carry it to corporate oversight, funding and regulation. That is the second answer listed here, "keeps correction, loses provenance", for published internal reviews. One coder, the assistant (Claude, Opus 5.5), of the same model family that wrote the claim tested and the codebook, coding with the prediction known: the pilot is not independent. The arms differ in domain and severity (software outages against chemical accidents) as well as in who reviews.
+The question's second half, for engineering postmortems, now has a pilot bearing on it: [CASE-335](../cases.d/CASE-335.md) and its finding [CLAIM-905](../claims.d/CLAIM-905.md). In 26 of 30 public postmortems the trace stops at the engineering group's own design or procedure. CSB investigations of chemical accidents mostly carry it to corporate oversight, funding and regulation. That is the second answer listed here, "keeps correction, loses provenance", for published internal reviews. One coder, the assistant (Claude, Opus 5.5), of the same model family that wrote the claim tested and the codebook, coding with the prediction known: the pilot is not independent. The arms differ in domain and severity (software outages against chemical accidents) as well as in who reviews.
 
 No status changes. The question stays Open.
+
+## Note of 2026-11-22: the SRE example postmortem, the workbook and the Tempe prosecution, read
+<!-- inactive-ok-file: THEORY-2285 CLAIM-1005 CLAIM-1062 CASE-418 — new; filed by the lead run on 2026-11-22 -->
+
+Read for [LEAD-189](../leads.d/LEAD-189.md) on 2026-11-22; each reading now carries `bears_on` this question.
+
+- **The second half, from the practice itself.** Google's example postmortem ([THEORY-2285](../theory.d/THEORY-2285.md)) is fictional and its causes are a bug and a surge, so it shows the template, not where a trace stops. The workbook ([THEORY-2294](../theory.d/THEORY-2294.md)) shows one real postmortem whole ([CASE-418](../cases.d/CASE-418.md)): blaming "No individual or team", it names a staffing limit among what went poorly and gives its fourteen action items, all technical, to engineers. Its examples of keeping review blameless recast a question to a manager, and a vice-president's question, as questions about process. That leans toward the second answer listed here, "keeps correction, loses provenance", for the single postmortem.
+- **But the practice may keep provenance elsewhere.** The workbook puts "Is feature velocity trumping reliability fixes?" in the review of repeated incidents, and has "organizational leaders" review the process. [CLAIM-1062](../claims.d/CLAIM-1062.md) files that as an objection to testing [CLAIM-750](../claims.d/CLAIM-750.md) one postmortem at a time. Whether those channels reach above the teams is not shown by anything read.
+- **The blame-based counterpart.** On the Tempe crash, which the NTSB traced to the company and the state without blame, the criminal process charged and convicted the operator alone and declined to charge the company ([THEORY-2289](../theory.d/THEORY-2289.md), [CLAIM-1005](../claims.d/CLAIM-1005.md)). The objection, [CLAIM-1033](../claims.d/CLAIM-1033.md): a civil settlement and the state's suspension of testing did reach the company, so the contrast is with the criminal law, not with blame as such.
+
+No status changes. The question stays Open: what a blameless practice traces across incidents, as opposed to in one postmortem, is unanswered.
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A34 §13
+
+A34 §13 reads blameless postmortems as "a contractual arrangement
+governing retrospective inquiry" and concludes: "Blamelessness need not
+eliminate accountability. It changes the relationship between the
+investigation of failure and the assignment of blame, making room for
+better causal explanations and appropriate corrective responsibilities."
+It cites [CLAIM-742](../claims.d/CLAIM-742.md) ("Responsibility for correction is not identical to
+culpability for failure") and [CLAIM-523](../claims.d/CLAIM-523.md), and adds that "A particularly
+pathological regime would repeatedly produce excellent postmortems
+without altering the conditions responsible for recurring failure".
+
+Bearing: a restatement of the practice's own aims, toward a yes on the
+first half of this question, without evidence. A34 does not engage the
+record's findings on the second half. Its table asks "Who will make the
+changes effective?" and answers "Commitment and governance"; [CLAIM-750](../claims.d/CLAIM-750.md)
+and the pilot of [CLAIM-905](../claims.d/CLAIM-905.md) say where internal reviews' answers tend to
+stop, at the reviewing team's authority. A34 was written from the codes
+it cites, which do not include those. No status change; the question
+stays Open. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.

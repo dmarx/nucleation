@@ -4,13 +4,19 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmpfhzxg
 title: 'What learning is and what it does to what can still be learned: learning as an experience-dependent change in a costed repertoire; three frontiers, operational, developmental and inquiry, that move separately; overconsolidation, the owner''s generalization of overfitting, better now but more costly to teach new tasks, with a supposed deadline for its relief and a proposed Pythia study; and the owner''s open questions on optimal learning and on what it is for a learning system to know'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-19'
   note: >-
     Records the version 2 revisions of CLAIM-758 and CLAIM-757
     after the readings of 2026-11-19. No component added or removed.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    At the synthesis review of 2026-11-23, coverage: added QUESTION-497,
+    an in-force entry of the line no account integrated. It is set out at
+    the end of the components; the title is unchanged.
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
   this part (what learning changes in a learner's repertoire and its
@@ -41,6 +47,7 @@ integrates:
 - QUESTION-495
 - QUESTION-493
 - QUESTION-494
+- QUESTION-497
 summary: >-
   The account of the part of the learned-structure line that the exchange
   "Topological protection explained" (2026-11-19, U20 to U33) opened, after
@@ -119,6 +126,17 @@ summary: >-
 - [CASE-294](../cases.d/CASE-294.md), A's, Proposed.
 - [QUESTION-495](../questions.d/QUESTION-495.md) and [QUESTION-493](../questions.d/QUESTION-493.md), the owner's, Open;
   [QUESTION-494](../questions.d/QUESTION-494.md), A's, Open.
+
+- [QUESTION-497](../questions.d/QUESTION-497.md), the owner's (2026-11-19), from the discussion of
+  in-context learning under [TERM-131](../terms.d/TERM-131.md)'s version 2; Open; also
+  distributed-agency; added at version 3, at the synthesis review of
+  2026-11-23. It asks whether identifiability or localization of what a
+  learner retains fixes the learner's boundary and its individuation by
+  its learning history. Its body starts from [TERM-131](../terms.d/TERM-131.md)'s version 2, which
+  treats retention in the context and in the weights alike, takes
+  identifiability from [CLAIM-135](../claims.d/CLAIM-135.md)'s second achievement (in [SYNTHESIS-068](SYNTHESIS-068.md)),
+  names [CLAIM-765](../claims.d/CLAIM-765.md) (Proposed; no account integrates it) as stating the four
+  combinations, and refines [QUESTION-035](../questions.d/QUESTION-035.md) (in [SYNTHESIS-054](SYNTHESIS-054.md)).
 
 ## Not stated on the record
 

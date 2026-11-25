@@ -31,6 +31,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-2011 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-1646 THEORY-817 — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: CASE-391 CLAIM-1123 CLAIM-1189 CLAIM-1124 CLAIM-1116 — filed by the lead run of 2026-11-23 -->
 
 # QUESTION-494: In a percept–action loop with feedback, does the memory that minimizes dissipation retain the interventional partition of histories (the causal information bottleneck), the predictive partition, or neither, once the costs of building, maintaining, operating and revising it are counted?
 
@@ -77,3 +78,34 @@ No status change.
 
 ## Note of 2026-11-19: follow-up turns of "Topological protection explained"
 ChatGPT (A80, A84) on how to advance this question: first review the information-thermodynamic results, and as a first milestone reproduce "a known no-feedback result from the thermodynamics-of-prediction literature" before adding feedback; then compare memories that keep full history, what predicts future observations, and what suffices for choosing interventions, measuring retained information, modelled entropy production, task performance and revision cost. Its next advance without an experiment: "Identify which conclusions survive the transition from passive prediction to active feedback". Ranked last among experiments, high among questions.
+
+## Note of 2026-11-23: the first milestone, run
+
+[LEAD-005](../leads.d/LEAD-005.md) reproduced Still and colleagues' no-feedback result ([THEORY-026](../theory.d/THEORY-026.md))
+in 300 random driven systems, then added feedback ([CASE-391](../cases.d/CASE-391.md), code in
+scratch/studies/lead-005/). On the follow-up's "which conclusions survive
+the transition from passive prediction to active feedback":
+
+- **Survive:** the per-switch identity between dissipation and nostalgia,
+  and the summed lower bound, for kernels that keep each equilibrium
+  stationary.
+- **Do not survive:** the sign. The nostalgia, and in a few systems the
+  dissipation and the excess work, go negative, so the bound no longer
+  makes nonpredictive memory a cost ([CLAIM-1123](../claims.d/CLAIM-1123.md)).
+- **Policy-relative:** a memory's nostalgia depends on the policy that
+  uses it, not only on what it keeps. Acting well on a memory of the
+  context erases its trace from the next percept ([CLAIM-1189](../claims.d/CLAIM-1189.md)).
+
+In a toy loop where the predictive partition (a sticky nuisance) and the
+interventional partition (the context the action must match) are
+disjoint, the cheapest memory that does the task keeps the context only,
+by nostalgia, heat per step and overwrite entropy alike. Whether that is
+"the interventional partition" or "neither" depends on what the
+interventional partition is taken relative to. Two alternatives are filed:
+[CLAIM-1124](../claims.d/CLAIM-1124.md) (relative to the outcome, as in [THEORY-1125](../theory.d/THEORY-1125.md): interventional)
+and [CLAIM-1116](../claims.d/CLAIM-1116.md) (relative to the whole next percept: neither). Also, under
+feedback "the predictive partition" depends on the regime that generates
+the data. The toy fixes its kernel and policy, so the cost of revising is
+not measured, and it has no hidden common cause.
+
+No status change.

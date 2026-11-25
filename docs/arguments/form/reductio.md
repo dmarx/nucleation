@@ -6,7 +6,7 @@
 
 **Reductio** — a premise leads to something unacceptable, so the premise goes. Critical questions: is the consequence really unacceptable, or merely surprising? Is the premise the one to blame?.
 
-2 of 154 ARG documents. Back to the [full index](../README.md).
+2 of 240 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

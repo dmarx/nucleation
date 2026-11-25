@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpj73lm
 title: 'The cessation of an organizational perspective''s enactment need not imply the loss of the dispositions, capacities or reproductive relationships from which it can be reinstated: an interruption can be of activation (the disposition is held but not engaged or retrievable), of enactment (held, but the material, institutional or social conditions for exercising it are gone) or of reproduction (held by some bearers, but the processes that pass it on are damaged), and temporary unavailability is not extinction, though prolonged interruption of reproduction can end a tradition'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-22'
@@ -40,6 +40,13 @@ history:
     not say how evidence tells them apart"), and the claim's own text
     hands the rest on: "Neither case says which interruption occurred
     where; that is QUESTION-257's question". No other change.
+- version: 6
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-144) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §12.4. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -78,6 +85,8 @@ summary: >-
   availability of the conditions for exercising it.
 bears_on:
 - QUESTION-257
+works:
+- governance-of-possibility
 ---
 
 # CLAIM-421: The cessation of an organizational perspective's enactment need not imply the loss of the dispositions, capacities or reproductive relationships from which it can be reinstated: an interruption can be of activation (the disposition is held but not engaged or retrievable), of enactment (held, but the material, institutional or social conditions for exercising it are gone) or of reproduction (held by some bearers, but the processes that pass it on are damaged), and temporary unavailability is not extinction, though prolonged interruption of reproduction can end a tradition

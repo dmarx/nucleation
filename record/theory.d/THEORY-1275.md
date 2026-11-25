@@ -43,7 +43,7 @@ summary: >-
   computation was re-run by a second checker on 2026-11-06
   (scratch/formal/tms_critical_sizes_check.py).
 ---
-<!-- inactive-ok-file: THEORY-tmpm3ux2 — Proposed; the reading of Lee et al. filed 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2191 — Proposed; the reading of Lee et al. filed 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-2157 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
 # THEORY-1275: In the toy model of superposition, at the paper's one SGD setting, the Bayesian counterparts of the observed training chain 4⁺⁺⁻ → 4⁺ → 5 → 5⁺ have critical sample sizes that rise in the order training meets it at the point estimates of the learning coefficients, though not across their spread; SGD was not seen to take the posterior's main transition, 5 → 6, and trained on 1,000 samples it ends in a phase that the posterior at n = 1,000, dominated by the 6-gon, does not favour
@@ -136,7 +136,7 @@ calibration covers. No status change.
 
 ## Note of 2026-11-21: Hoogland, Wang, Farrugia-Roberts, Carroll, Wei & Murfet, read
 
-Background ([NOTE-tmp2pgi8](../notes.d/NOTE-tmp2pgi8.md)): the later paper cites this one as its only
+Background ([NOTE-2248](../notes.d/NOTE-2248.md)): the later paper cites this one as its only
 empirical precedent, transitions of SGD and of the Bayesian posterior
 "reflected as sudden changes in the estimated LLC" (§5), and extends the
 coefficient's use to stages of transformer training. No relation
@@ -144,7 +144,30 @@ written.
 
 ## Note of 2026-11-22: Lee, Smith, Adam and Hoogland, read
 
-Background. Lee et al. ([THEORY-tmpm3ux2](THEORY-tmpm3ux2.md)) place themselves in the line of
+Background. Lee et al. ([THEORY-2191](THEORY-2191.md)) place themselves in the line of
 work that reads training's stages as the Bayesian posterior's
 transitions, and name the link to SGD as their main gap, as this reading's
 own comparison of SGD's chain with critical sample sizes does.
+
+## Note of 2026-11-22: the antecedents sampled, and the SGD sweep ([LEAD-175](../leads.d/LEAD-175.md))
+
+[CASE-402](../cases.d/CASE-402.md) ran both tests this reading's old condition asked for.
+
+**The sweep.** No SGD run reached the 6-gon at any n (300 to 2,000),
+batch size (1 to 100), rate (0.001 to 0.2), initialisation or length (to
+45,000 epochs). From the 5-gon the move is closed for plain SGD
+([CLAIM-1098](../claims.d/CLAIM-1098.md)), so "inaccessible and not reached … are not yet told
+apart" is now told apart for that route ([CLAIM-1057](../claims.d/CLAIM-1057.md)).
+
+**The antecedents.** Sampling the formula's target exp(−nL) under the
+N(0, 1) prior does not give n ≈ 190, 370 and 1,600–2,500. The first two
+steps have no crossing above n ≈ 1, 5 → 5⁺ falls near 780 and 5 → 6 near
+270 ([CLAIM-1162](../claims.d/CLAIM-1162.md)). Chen et al.'s NUTS likelihood (Eq. 3) carries a ½
+that their formula's nL (App. F.1, Table 1's L) does not. Their Fig. 2's
+600–700 matches the sampled 5 → 6 on their scale (about 530–560), and
+matches the formula's 601 only across the factor of two.
+
+**What stands.** "The posterior at n = 1,000 favours the 6-gon" stands on
+either scale. The rising order of the antecedents' critical sizes is no
+longer supported as computed. Whether to narrow this reading is the
+owner's call. No status changes.

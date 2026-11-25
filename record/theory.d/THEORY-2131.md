@@ -25,7 +25,7 @@ summary: >-
 <!-- inactive-ok-file: NOTE-2221 NOTE-2234 — Skimmed; cited in the readings of 2026-11-21 -->
 <!-- inactive-ok-file: THEORY-2150 — Proposed; the reading of Mitzenmacher, 2026-11-21 -->
 <!-- inactive-ok-file: LIT-2949 CLAIM-777 CLAIM-769 THEORY-067 CLAIM-198 — Proposed, Deferred, Unfetched or new; filed in this contribution of 2026-11-21 or the ones it builds on -->
-<!-- inactive-ok-file: THEORY-tmpczldx CLAIM-tmpf9qt9 — Proposed; the reading of Beck and Cohen and the assistant's condition on the spread, 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2176 CLAIM-857 — Proposed; the reading of Beck and Cohen and the assistant's condition on the spread, 2026-11-22 -->
 
 # THEORY-2131: Fedus and colleagues restate Sozou's result that an agent discounting future reward by its probability of surviving to collect it, with a constant but unknown hazard rate, discounts by the Laplace transform of its prior over the hazard, so that an exponential prior gives exactly the hyperbola 1/(1 + kt), a gamma prior 1/(1 + bt)^c and a uniform prior (1 − e^(−kt))/(kt)
 
@@ -57,11 +57,11 @@ Neither work draws the connection. The account is unchanged.
 
 ## Note of 2026-11-22: Beck and Cohen, read
 
-Beck and Cohen ([LIT-2962](../literature.d/LIT-2962.md), read in [NOTE-tmpj8ro5](../notes.d/NOTE-tmpj8ro5.md); [THEORY-tmpczldx](THEORY-tmpczldx.md))
+Beck and Cohen ([LIT-2962](../literature.d/LIT-2962.md), read in [NOTE-2265](../notes.d/NOTE-2265.md); [THEORY-2176](THEORY-2176.md))
 **corroborate the mathematics**: the same integral, "the Laplace transform
 of the probability density f(β)" (p. 3), with the same gamma and uniform
 results, derived independently in physics for a fluctuating inverse
 temperature. They say nothing of discounting, so this account's
 `promote_when`, which asks for Sozou, is not met. The assistant's
-[CLAIM-tmpf9qt9](../claims.d/CLAIM-tmpf9qt9.md) adds the general condition: the asymptotic hyperbola needs
+[CLAIM-857](../claims.d/CLAIM-857.md) adds the general condition: the asymptotic hyperbola needs
 only a positive density at zero hazard. The account is unchanged.

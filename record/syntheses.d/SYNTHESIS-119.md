@@ -4,7 +4,14 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmp69tyj
 title: "In the record, a power law does not identify its mechanism: many routes produce one, each read from its dynamics, criticality among them; chaos, criticality and a cascade through scales come apart, as do scale invariance, dependence across scales and a heavy-tailed marginal; the owner's bulk-and-tail conjecture is held in two readings, of which only a separation of scales fits a continuous transition approached from below; and what survives a change of scale is counted by several effective dimensions whose agreement is open"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    At the synthesis review of 2026-11-23, coverage: added QUESTION-506,
+    an in-force entry of the line no account integrated, to the components
+    filed after the coverage check. The title is unchanged.
 defeated_if: >-
   A component misstated or misattributed here, with its scope conditions;
   an in-force entry of the formal-apparatus line on power laws, scale-free
@@ -69,6 +76,7 @@ integrates:
 - ARG-148
 - QUESTION-507
 - THEORY-2041
+- QUESTION-506
 bears_on:
 - QUESTION-516
 - QUESTION-505
@@ -76,17 +84,17 @@ bears_on:
 - QUESTION-517
 - QUESTION-507
 ---
-<!-- inactive-ok-file: THEORY-tmp6jdas THEORY-tmpw4qgu THEORY-tmphcnj3 — Proposed; the readings of 2026-11-22 cited in the notes -->
-<!-- inactive-ok-file: LIT-tmpvmrkv — Deferred; the reply to Broido and Clauset, registered and unread -->
-<!-- inactive-ok-file: ARG-tmp38kft — Rejected; the route from Broido and Clauset to CLAIM-841 -->
+<!-- inactive-ok-file: THEORY-2169 THEORY-2173 THEORY-2172 — Proposed; the readings of 2026-11-22 cited in the notes -->
+<!-- inactive-ok-file: LIT-3041 — Deferred; the reply to Broido and Clauset, registered and unread -->
+<!-- inactive-ok-file: ARG-167 — Rejected; the route from Broido and Clauset to CLAIM-841 -->
 <!-- inactive-ok-file: ARG-141 — Proposed; the argument corrected on 2026-11-22 -->
 <!-- inactive-ok-file: TERM-138 — Proposed; filed 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-826 ARG-125 ARG-127 — Proposed or Rejected; filed 2026-11-21 after the coverage check -->
 <!-- inactive-ok-file: CLAIM-803 CLAIM-817 CLAIM-830 CLAIM-824 CLAIM-795 CLAIM-815 CLAIM-796 CLAIM-806 CLAIM-841 CLAIM-846 CLAIM-810 CLAIM-850 ARG-129 TERM-142 TERM-139 CLAIM-840 CLAIM-845 CLAIM-829 ARG-136 CLAIM-832 CASE-303 CASE-305 CLAIM-805 TERM-141 CLAIM-849 CLAIM-825 CLAIM-820 TERM-135 CLAIM-836 CLAIM-809 CLAIM-814 ARG-148 — new and Proposed or Open; components filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
-<!-- inactive-ok-file: CLAIM-769 CLAIM-626 CLAIM-478 THEORY-777 THEORY-2041 — Proposed; held components, cited with their standing -->
+<!-- inactive-ok-file: CLAIM-769 CLAIM-478 THEORY-777 THEORY-2041 — Proposed; held components, cited with their standing -->
 <!-- inactive-ok-file: SYNTHESIS-088 SYNTHESIS-075 SYNTHESIS-084 — Proposed or new; accounts this one sits beside -->
 <!-- inactive-ok-file: THEORY-2150 — Proposed; the reading of 2026-11-21 -->
-<!-- inactive-ok-file: THEORY-tmpczldx THEORY-tmpcfn5g THEORY-tmphwf0q CLAIM-tmpf9qt9 — Proposed; the readings of 2026-11-22 and the assistant's condition on the spread -->
+<!-- inactive-ok-file: THEORY-2176 THEORY-2175 THEORY-2177 CLAIM-857 — Proposed; the readings of 2026-11-22 and the assistant's condition on the spread -->
 
 # SYNTHESIS-119: In the record, a power law does not identify its mechanism: many routes produce one, each read from its dynamics, criticality among them; chaos, criticality and a cascade through scales come apart, as do scale invariance, dependence across scales and a heavy-tailed marginal; the owner's bulk-and-tail conjecture is held in two readings, of which only a separation of scales fits a continuous transition approached from below; and what survives a change of scale is counted by several effective dimensions whose agreement is open
 
@@ -129,6 +137,7 @@ bears_on:
 - [CLAIM-826](../claims.d/CLAIM-826.md) (A's, A17 §5, Proposed): critical systems are "harder to separate but easier to classify": fluctuations stay consequential across scales, so levels do not separate, while microscopic detail becomes irrelevant to the exponents. It sits beside [CLAIM-478](../claims.d/CLAIM-478.md) and uses [TERM-139](../terms.d/TERM-139.md).
 - [ARG-125](../arguments.d/ARG-125.md) (A's bridge, Rejected by the assistant): [THEORY-661](../theory.d/THEORY-661.md) does not carry A13 §9's step from a finite correlation length to near-decomposability in Simon's sense, since Simon's weak-interaction condition holds for large blocks even at criticality.
 - [ARG-127](../arguments.d/ARG-127.md) (A's argument, Rejected by the assistant): A1's cities example of cumulative advantage, weighed against [THEORY-1499](../theory.d/THEORY-1499.md)'s reading of city sizes recovering after bombing.
+- [QUESTION-506](../questions.d/QUESTION-506.md) (the assistant's, filed on the owner's prompt of 2026-11-21; Open; added at version 2, at the synthesis review of 2026-11-23): whether cumulative advantage shapes the upper tail of the city-size distribution even where relative city sizes return to their prior paths after a large shock. It is the question [ARG-127](../arguments.d/ARG-127.md)'s third critical question raised and left open: [THEORY-1499](../theory.d/THEORY-1499.md)'s recovery of Japanese cities settles the ranking against [CLAIM-817](../claims.d/CLAIM-817.md)'s mechanism, not the shape of the tail, and the argument and the reading's note of 2026-11-21 record that neither the exchange nor the record takes it up.
 
 ## Links the components state, and where
 
@@ -175,21 +184,21 @@ through the claims it corroborates.
 Three readings bear on the account's first thesis, that a power law does
 not identify its mechanism.
 
-- **Newman** ([LIT-2976](../literature.d/LIT-2976.md), [NOTE-tmpa7yd2](../notes.d/NOTE-tmpa7yd2.md), [THEORY-tmp6jdas](../theory.d/THEORY-tmp6jdas.md)) **supports** it:
+- **Newman** ([LIT-2976](../literature.d/LIT-2976.md), [NOTE-2261](../notes.d/NOTE-2261.md), [THEORY-2169](../theory.d/THEORY-2169.md)) **supports** it:
   many mechanisms, different ones for different cases, most observed power
   laws probably not from phase transitions. He grounds items 2, 3, 6 and 7
   of [CLAIM-795](../claims.d/CLAIM-795.md) and adds four feedback-free mechanisms. He is milder than
   the account: the Yule process is "the most widely accepted theory" for
   citations, cities and income (p. 19).
-- **Clauset, Shalizi and Newman** ([LIT-2987](../literature.d/LIT-2987.md), [NOTE-tmphbwdu](../notes.d/NOTE-tmphbwdu.md),
-  [THEORY-tmpw4qgu](../theory.d/THEORY-tmpw4qgu.md)) are the fitting step the account relies on through
+- **Clauset, Shalizi and Newman** ([LIT-2987](../literature.d/LIT-2987.md), [NOTE-2262](../notes.d/NOTE-2262.md),
+  [THEORY-2173](../theory.d/THEORY-2173.md)) are the fitting step the account relies on through
   [CLAIM-803](../claims.d/CLAIM-803.md); their finding that the lognormal is excluded for one data set
   of 24 supports the thesis indirectly, and they give no dynamical tests.
   [ARG-141](../arguments.d/ARG-141.md) is corrected accordingly.
-- **Broido and Clauset** ([LIT-2963](../literature.d/LIT-2963.md), [NOTE-tmpleyjh](../notes.d/NOTE-tmpleyjh.md), [THEORY-tmphcnj3](../theory.d/THEORY-tmphcnj3.md))
+- **Broido and Clauset** ([LIT-2963](../literature.d/LIT-2963.md), [NOTE-2263](../notes.d/NOTE-2263.md), [THEORY-2172](../theory.d/THEORY-2172.md))
   **support** it for network degrees, and do not bear on [CLAIM-841](../claims.d/CLAIM-841.md)'s
-  criticality thesis ([ARG-tmp38kft](../arguments.d/ARG-tmp38kft.md)). Their verdict that scale-free
-  networks are rare is disputed ([LIT-tmpvmrkv](../literature.d/LIT-tmpvmrkv.md)), on the definition of a
+  criticality thesis ([ARG-167](../arguments.d/ARG-167.md)). Their verdict that scale-free
+  networks are rare is disputed ([LIT-3041](../literature.d/LIT-3041.md)), on the definition of a
   power law ([TERM-142](../terms.d/TERM-142.md)).
 
 The account's map is unchanged; the three readings now stand where it
@@ -201,15 +210,15 @@ Three works the account's routes cited unread are now read; they enter
 through the claims they ground, and the account's map is unchanged.
 
 - **Mixtures of exponential rates**: Beck and Cohen ([LIT-2962](../literature.d/LIT-2962.md),
-  [THEORY-tmpczldx](../theory.d/THEORY-tmpczldx.md)) ground [CLAIM-795](../claims.d/CLAIM-795.md)'s item 4 for a gamma spread; a spread
+  [THEORY-2176](../theory.d/THEORY-2176.md)) ground [CLAIM-795](../claims.d/CLAIM-795.md)'s item 4 for a gamma spread; a spread
   gives a power law only with power-law weight at zero rate
-  ([CLAIM-tmpf9qt9](../claims.d/CLAIM-tmpf9qt9.md), the assistant's), which narrows the route as the account
+  ([CLAIM-857](../claims.d/CLAIM-857.md), the assistant's), which narrows the route as the account
   states it.
 - **Sample-space reduction**: Corominas-Murtra, Hanel and Thurner
-  ([LIT-2997](../literature.d/LIT-2997.md), [THEORY-tmpcfn5g](../theory.d/THEORY-tmpcfn5g.md)) ground item 5 for the uniform process they
+  ([LIT-2997](../literature.d/LIT-2997.md), [THEORY-2175](../theory.d/THEORY-2175.md)) ground item 5 for the uniform process they
   prove, and give the tunable family.
 - **Growth with a spread of ages**: Reed and Hughes ([LIT-3007](../literature.d/LIT-3007.md),
-  [THEORY-tmphwf0q](../theory.d/THEORY-tmphwf0q.md)) ground item 6 and **support** the link noted from
+  [THEORY-2177](../theory.d/THEORY-2177.md)) ground item 6 and **support** the link noted from
   Mitzenmacher, that an exponentially distributed observation time turns
   Gibrat's lognormal into a power law: their eq. 9 is that double Pareto.
 

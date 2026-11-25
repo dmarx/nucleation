@@ -6,8 +6,8 @@
 
 **Future generations** — what the living owe, and why they care about, people who will live after them — longtermism and existential risk, intergenerational justice, the non-identity problem and person-affecting views, population ethics, discounting of future welfare, and the psychology of concern for the future: legacy motivation, generativity, symbolic immortality and continuity with one's future self (ADR-063).
 
-0 of 305 CASE documents. Back to the [full index](../README.md).
+1 of 421 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CASE-323](../../../record/cases.d/CASE-323.md) | A proposed study: members of a group are asked to give to its present cause and to a fund for its members fifty years on, while the self's extent toward the group is varied by salience and measured apart from concern for the group's welfare, and a legacy prime is crossed with whether the gift is credited or known to no one | The design [LEAD-062](../../../record/leads.d/LEAD-062.md) asks for, specified because its search of Europe PMC and arXiv found no study that measures the self's extent toward future people or a legacy apart from caring and tests whether concern follows it. It builds on Chan's field study (2010), as Spears and Postmes report it ([NOTE-1280](../../../record/notes.d/NOTE-1280.md)): church groups gave more to an emailed call than a face-to-face one, most when Christian identity was salient and among low identifiers. To it are added the measure of concern for the group's welfare that [NOTE-1280](../../../record/notes.d/NOTE-1280.md) asks for, cognitive and self-definition measures of the self's extent, a second gift to the group's members fifty years on, and a legacy prime crossed with whether anyone will ever know who gave. It answers [CLAIM-492](../../../record/claims.d/CLAIM-492.md)'s demand for a criterion that can come apart from caring, in space and in time. Not run. The wording is the assistant's (Claude, in this session); adopting it is the owner's call. | Proposed |

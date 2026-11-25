@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpnza8k
 title: 'An expression''s reproduction can come apart from agreement on the concept it carries: communities that use it against one another, and contest whom it describes, can keep it in circulation, so symbolic stability can persist while conceptual stability fails, and a durable dispute over a term shows a durable relation among its uses, not one concept'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-10'
@@ -24,6 +24,12 @@ history:
     is pragmatic-transport and which carries distributed-agency
     second. Its resting on distributed-agency claims stays a
     crossing the argument chain reports. No other change.
+- version: 4
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 7 abstract, §7 (ADR-tmpenzcn). No
+    change of title or status.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -43,6 +49,8 @@ date: '2026-11-07'
 line:
 - pragmatic-transport
 - learned-structure
+works:
+- governance-of-becoming
 rests_on:
 - CLAIM-280
 complements:
@@ -113,3 +121,20 @@ against rival users is what does the reproducing.
 From the reading in [NOTE-1760](../notes.d/NOTE-1760.md) ([LIT-2361](../literature.d/LIT-2361.md)), the reader's assessment as
 checked by the filer: value projection is a direct instance ("boundary
 objects", result 8; "green transition" persists because vague).
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A4 §4
+
+A4 §4 cites this claim accurately, with [CASE-222](../cases.d/CASE-222.md), as "already a candidate
+study of memetic nucleation": a shared expression can nucleate "not a
+coherent shared worldview, but an **organization of disagreement**", which
+"organize[s] relations among mutually incompatible perspectives without
+reconciling them". It adds a hypothesis this claim does not state:
+"certain exceptionally persistent memes are stable precisely because no
+single perspective succeeds in exhausting their interpretation." That is
+stronger than "can keep it in circulation": it predicts that settling the
+dispute, one side's reading prevailing, lowers the expression's
+circulation. A4 marks it "a hypothesis" and notes [CASE-222](../cases.d/CASE-222.md) is Proposed.
+Not filed apart; the prediction is recorded here as what would test the
+stronger reading. Bearing: an extension, no status change. The wording of
+this note is the assistant's (Claude, in this session), reporting A's
+(ChatGPT's) text; adopting what it reports is the owner's call.

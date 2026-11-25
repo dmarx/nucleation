@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpn2xr4
 title: 'Matched ordinary trajectories can conceal differences in an interpretation''s efficacy, in the allocation of that efficacy, and in the maintenance of its enabling constraints: in two finite constructions, systems that agree under ordinary operation differ in each, and a specified intervention exposes the difference that passive observation of the matched trajectories does not'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-22'
@@ -28,6 +28,14 @@ history:
     A dated note added: the maintenance separation carried to a
     32-member population under a different production law (CASE-161), and mechanisms identified from probes within a known
     catalog (CASE-163). The claim is unchanged.
+- version: 5
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-144) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §1.1, §9.3, §10.2, §11.5. No
+    other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -70,6 +78,8 @@ summary: >-
   by [CLAIM-395](CLAIM-395.md)'s minimal slow–fast closure, the other is reset from
   outside. These are [CLAIM-407](CLAIM-407.md)'s lesson about governance and [CLAIM-194](CLAIM-194.md)'s
   about boundaries, applied to interpretation.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: SYNTHESIS-023 — Proposed; cited in the note of 2026-11-13 with its standing -->
 <!-- inactive-ok-file: CASE-210 — Proposed or new; A's proposals of 2026-11-04 on emergency readiness, cited as open -->
@@ -267,8 +277,8 @@ intervention or dissent. A23 §8's "collective feasibility" against
 
 ## Note of 2026-11-22: the matched ordinary trajectories of a damaged organization
 
-<!-- inactive-ok-block: CASE-tmpl0ccq — new; the run of LEAD-048 -->
-[CASE-tmpl0ccq](../cases.d/CASE-tmpl0ccq.md), a reduced run of [CASE-186](../cases.d/CASE-186.md), illustrates this claim in a
+<!-- inactive-ok-block: CASE-332 — new; the run of LEAD-048 -->
+[CASE-332](../cases.d/CASE-332.md), a reduced run of [CASE-186](../cases.d/CASE-186.md), illustrates this claim in a
 larger system. Under a sham injury, reciprocal, external and absent
 maintenance all corrected two regime changes in 63 or 64 of 64 matched
 worlds in-family, and differed only out of family. Under injury they came

@@ -238,3 +238,25 @@ not the translation case.
   representations.
 - Anything about lossy stochastic channels, where "full character
   preservation is generally unavailable" (A198 §VII).
+
+## Note of 2026-11-24: the exchange 'Memes, Contracts, and Systemic Normativity', A5 §5–6
+
+A5 cites this claim accurately for "the limits of the analogy" ("Characters
+discard embedding relationships and classify kinds rather than individual
+realizations"), and in §6 anticipates the failure listed above under
+"Infinite groups" without citing it: if the transformations of situations
+are irreversible, "A category or semigroup of transformations may
+ultimately be more appropriate than a group, in which case ordinary
+character theory loses much of its classificatory completeness". What is
+lost is fixed here: equal characters give at most isomorphic
+semisimplifications. Applied to A5 §5's "memeplex" as a decomposition
+χ_P = Σ n_i χ_i, the character would record which modes occur and how
+often, and could not tell a perspective whose modes drive one another (a
+non-split extension, as in the ℤ example) from one where they are
+independent. That is the part A5 assigns to "organizational dynamics".
+Recorded in [CLAIM-tmpjitli](CLAIM-tmpjitli.md). Bearing: this claim bounds A5's; no change.
+The wording of this note is the assistant's (Claude, in this session),
+reporting A's (ChatGPT's) text; adopting what it reports is the owner's
+call.
+
+<!-- inactive-ok-file: CLAIM-tmpjitli — Proposed or Deferred; cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity' (A1–A6), whatever its standing -->

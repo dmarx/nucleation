@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmps7vk0
 title: 'The imagined owner'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-21'
@@ -36,6 +36,12 @@ history:
     Draws on THEORY-646 ("Drayson's reading (THEORY-646): the
     represented owner has a truthmaker"). First application of
     draws_on (ADR-095). No other change.
+- version: 7
+  date: '2026-11-22'
+  note: >-
+    Note of 2026-11-22 added, from LEAD-134: the design is now built and
+    run as an executed study (CASE-376, variant_of this case),
+    with the main threat met. The design here is unchanged.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -57,6 +63,7 @@ draws_on:
 - THEORY-646
 ---
 <!-- inactive-ok-file: CLAIM-355 THEORY-646 — Proposed or Deferred; the claim this design would test and the objections to it, cited as open -->
+<!-- inactive-ok-file: CASE-376 CLAIM-971 — the executed study built from this design and its finding, filed from LEAD-134 on 2026-11-22 (new; CLAIM-971 Proposed) -->
 
 # CASE-114: The imagined owner
 
@@ -189,3 +196,24 @@ something; it is silent on the design's thesis. The NOTE draws one
 prediction from its account: a system whose self-model is centralized
 should explain its errors as an observer holding the same model would,
 whatever its actual division of labour. The design is unchanged.
+
+## Note of 2026-11-22: built and run
+
+[LEAD-134](../leads.d/LEAD-134.md) has built this design in numpy and run it as an executed study,
+[CASE-376](CASE-376.md) (variant_of this case). The build meets the main threat
+above: the accurate and centralized self-models are matched in parameter count,
+take identical inputs, and both reconstruct the aggregate outcome exactly, so
+the centralized model is not merely coarser — it reproduces the behaviour and is
+not short of information, it is wrong about the causal topology. On those terms
+the centralized self-model names the wrong component as the cause of an error
+about four times in five (at chance), spreads blame toward the owner's global
+command, and governs worse after errors, stripping more legitimate gain from
+innocent components. That is a concrete model of illusory authorship, located in
+the attribution, as the first outcome under "What each outcome shows" describes.
+The finding is [CLAIM-971](../claims.d/CLAIM-971.md); the specific operationalization choices (the
+star-graph centralized model, the exact-reconstruction capacity match, the
+concentrated-fault governance) are the assistant's, recorded in the study's
+README under scratch/studies/lead-134/. The second threat — the §12 governance
+loop breaking the held-fixed equivalence — is handled by splitting an open-loop
+phase (control held fixed, self-model narrates) from a closed-loop phase (the
+loop, which is A27's fourth measure). The design is unchanged.

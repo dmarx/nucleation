@@ -24,7 +24,6 @@ summary: >-
   notions, intersectional sensitive attributes and multiclass outputs,
   tested on tabular and image data.
 ---
-<!-- inactive-ok-file: LIT-2451 — Unfetched; filed from the same exchange -->
 <!-- inactive-ok-file: NOTE-1739 — Skimmed; the reading filed from the same exchange -->
 
 # THEORY-1689: Monnier and colleagues (2026) propose mutual information between predictions and sensitive attributes as a single template for intersectional and multiclass fairness metrics and mitigation, and observe that it and a pairwise-disparity criterion rank the same models differently.

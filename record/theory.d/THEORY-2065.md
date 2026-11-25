@@ -2,7 +2,7 @@
 number: 2065
 status: Proposed
 formerly:
-- THEORY-2065
+- THEORY-tmpd6l4a
 title: 'Chen and colleagues report that at an equal total budget of training steps, training a language model on a mixture of a target skill''s data with the data of its prerequisite skills reaches a given validation loss on the target in fewer steps, or a lower loss in the same steps, than training on the target''s data alone, and that a sequential curriculum over the same skills does no better than random sampling'
 version: 1
 source:

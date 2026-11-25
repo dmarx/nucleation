@@ -111,7 +111,7 @@ ADRs and DPs, `luria.yaml`, CI, delegated readings, outside services and
 merges into main still wait for the owner; merge your own pull requests
 into staging when green and ready ([ADR-121](record/decisions.d/ADR-121.md)). When a turn admits several valid readings
 that would be filed differently, file each, marked as alternatives, and say
-which is which; the owner chooses. A turn that would end by asking which reading the owner meant files each instead. Think out loud while filing: say what you are filing and why, relay what delegated work finds, and close each batch with an executive summary ([ADR-tmpw70lb](record/decisions.d/ADR-tmpw70lb.md)). A go-ahead, switching the regime on
+which is which; the owner chooses. A turn that would end by asking which reading the owner meant files each instead. Think out loud while filing: say what you are filing and why, relay what delegated work finds, and close each batch with an executive summary ([ADR-140](record/decisions.d/ADR-140.md)). A go-ahead, switching the regime on
 included, greenlights everything the message it answers proposed, and adopts
 the lean you stated where it left a choice. When in doubt (harm hard to
 undo, a wide blast radius, something the owner may have missed), stop on
@@ -125,6 +125,10 @@ Suggest switching off when going on would be awkward.
 [ADR-068](record/decisions.d/ADR-068.md) holds the invariants for filing an exchange, a pasted synthesis, an
 upload or a work, and for reading registered works. Its steps are the
 `read-and-file` skill (`.claude/skills/read-and-file/SKILL.md`).
+
+[ADR-143](record/decisions.d/ADR-143.md) holds the invariants for writing a manuscript from the record, a
+view over its argument kept in `scratch/manuscripts/<work>/`. Its steps are
+the `write-manuscript` skill (`.claude/skills/write-manuscript/SKILL.md`).
 
 `luria new` is the only command a contribution needs locally. Open the pull
 request early and push each commit as you make it. The pull request's

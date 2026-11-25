@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmppkmq0
 title: 'In a political collective, components that change at different speeds (attention, coalitions, elected terms, administrative careers, law and treaties, generational memory) are not only nested by timescale: under a given institutional arrangement their different temporal horizons affect which forms of influence each can accumulate, exercise and keep, and so which of them holds authority over the others, so a state can stay continuous as an actor while the organization producing its positions changes under it'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-22'
@@ -37,6 +37,13 @@ history:
     A dated note: A25 of the exchange "Assess Depp Heard Abuse" states
     for the separation of powers that control over pace is a source of
     authority among institutions. No other change.
+- version: 6
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-144) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §7.0, §10.3. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -58,6 +65,7 @@ line:
 rests_on:
 - CLAIM-331
 works:
+- governance-of-possibility
 - organization-of-perspective
 - who-makes-the-promise
 summary: >-

@@ -3,8 +3,8 @@ number: 88
 status: Proposed
 formerly:
 - SYNTHESIS-tmpvz4mj
-title: 'The formal-apparatus line is eighteen part accounts and forty-nine entries integrated directly, because the line is cross-cutting and sparse: most of its entries argue first in another line, the map found seven parts, eleven small clusters and forty-six entries linked to nothing, and most of those forty-six are promotion conditions whose links run to THEORY entries that carry no line; the parts meet mainly where an effective description''s adequacy meets its response to intervention, and where budgets meet joint satisfiability; three claims are filed by derivation, and no link between the parts passes the claim test'
-version: 2
+title: 'The formal-apparatus line is eighteen part accounts and fifty-one entries integrated directly, because the line is cross-cutting and sparse: most of its entries argue first in another line, the map found seven parts, eleven small clusters and forty-six entries linked to nothing, and most of those forty-six are promotion conditions whose links run to THEORY entries that carry no line; the parts meet mainly where an effective description''s adequacy meets its response to intervention, and where budgets meet joint satisfiability; three claims are filed by derivation, and no link between the parts passes the claim test'
+version: 3
 history:
 - version: 2
   date: '2026-11-19'
@@ -12,6 +12,24 @@ history:
     Integrates a new part account, SYNTHESIS-108, filed at the owner's request
     of 2026-11-19 from the exchange "Topological protection explained":
     how an equivalence becomes a unit (the owner's U10 hypothesis, CLAIM-762, with the owner's genres example and fibration hunch). No other change.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    At the synthesis review of 2026-11-23, coverage: added QUESTION-500
+    and QUESTION-501, in-force entries of the line no account integrated,
+    directly, in a new group under the entries integrated directly; the
+    title's count of entries integrated directly changes from forty-nine
+    to fifty-one. QUESTION-506, the third such entry, went to the part
+    account SYNTHESIS-119, whose scope holds it. The title was: "The
+    formal-apparatus line is eighteen part accounts and forty-nine entries
+    integrated directly, because the line is cross-cutting and sparse:
+    most of its entries argue first in another line, the map found seven
+    parts, eleven small clusters and forty-six entries linked to nothing,
+    and most of those forty-six are promotion conditions whose links run
+    to THEORY entries that carry no line; the parts meet mainly where an
+    effective description's adequacy meets its response to intervention,
+    and where budgets meet joint satisfiability; three claims are filed by
+    derivation, and no link between the parts passes the claim test"
 defeated_if: >-
   A part account or component misstated or misattributed here; an
   in-force component of the formal-apparatus line that neither a part
@@ -94,9 +112,11 @@ integrates:
 - QUESTION-359
 - QUESTION-383
 - QUESTION-434
+- QUESTION-500
+- QUESTION-501
 summary: >-
   The account of the formal-apparatus line over the accounts of its
-  eighteen parts, with forty-nine entries integrated directly, most of
+  eighteen parts, with fifty-one entries integrated directly, most of
   them promotion conditions moved from THEORY entries, and one claim
   filed at this review whose premises are among them. Three claims are
   filed by derivation. The account adds nothing of its own; its standing
@@ -107,7 +127,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-227 CLAIM-037 CLAIM-128 CLAIM-618 CLAIM-640 CLAIM-641 SYNTHESIS-027 SYNTHESIS-028 SYNTHESIS-030 SYNTHESIS-040 SYNTHESIS-042 SYNTHESIS-047 SYNTHESIS-050 SYNTHESIS-051 SYNTHESIS-061 SYNTHESIS-063 SYNTHESIS-067 SYNTHESIS-068 SYNTHESIS-071 SYNTHESIS-072 SYNTHESIS-073 SYNTHESIS-074 SYNTHESIS-075 SYNTHESIS-076 SYNTHESIS-077 SYNTHESIS-078 SYNTHESIS-079 SYNTHESIS-080 SYNTHESIS-081 SYNTHESIS-082 SYNTHESIS-083 SYNTHESIS-084 SYNTHESIS-085 SYNTHESIS-086 SYNTHESIS-087 SYNTHESIS-089 THEORY-005 THEORY-080 THEORY-085 THEORY-325 — Proposed; the part accounts, the claims filed here, decisions and components, cited with their standing -->
 <!-- inactive-ok-file: QUESTION-240 QUESTION-251 QUESTION-293 — Answered; the part accounts, the claims filed here, decisions and components, cited with their standing -->
 
-# SYNTHESIS-088: The formal-apparatus line is eighteen part accounts and forty-nine entries integrated directly, because the line is cross-cutting and sparse: most of its entries argue first in another line, the map found seven parts, eleven small clusters and forty-six entries linked to nothing, and most of those forty-six are promotion conditions whose links run to THEORY entries that carry no line; the parts meet mainly where an effective description's adequacy meets its response to intervention, and where budgets meet joint satisfiability; three claims are filed by derivation, and no link between the parts passes the claim test
+# SYNTHESIS-088: The formal-apparatus line is eighteen part accounts and fifty-one entries integrated directly, because the line is cross-cutting and sparse: most of its entries argue first in another line, the map found seven parts, eleven small clusters and forty-six entries linked to nothing, and most of those forty-six are promotion conditions whose links run to THEORY entries that carry no line; the parts meet mainly where an effective description's adequacy meets its response to intervention, and where budgets meet joint satisfiability; three claims are filed by derivation, and no link between the parts passes the claim test
 
 *The account of the formal-apparatus line ("Formal apparatus", [ADR-040](../decisions.d/ADR-040.md)),
 over the accounts of its parts ([ADR-083](../decisions.d/ADR-083.md)). It integrates every entry whose
@@ -424,6 +444,32 @@ entries state.
   line readiness, in [SYNTHESIS-027](SYNTHESIS-027.md)): whether the hypercube update "with
   server-specific service rates" converges geometrically to the exact
   stationary distribution.
+
+### Hierarchy in a chain's time geometry (added at version 3; nearest account: the reachability account, [SYNTHESIS-076](SYNTHESIS-076.md))
+
+Two open questions filed on 2026-11-20 beside [CLAIM-780](../claims.d/CLAIM-780.md) (the assistant's;
+thesis, demonstrated, Proposed; no account integrates it), which proves
+that rate differences across levels make a chain's log commute-time
+geometry converge to the ultrametric tree [CLAIM-581](../claims.d/CLAIM-581.md) builds, and rests on
+[CLAIM-581](../claims.d/CLAIM-581.md). That shared ground is why the nearest account is named; neither
+question names a member of [SYNTHESIS-076](SYNTHESIS-076.md).
+
+- **[QUESTION-500](../questions.d/QUESTION-500.md)** (Open; filed at the owner's turn of 2026-11-20
+  preferring "rate differences" to "scale separation"; also
+  distributed-agency): what rate ratio between levels, set against the
+  spread within a level and the size of the state space, is enough for a
+  level to show in the time geometry, since [CLAIM-780](../claims.d/CLAIM-780.md)'s proven factor is
+  far above the ratios at which simulated hierarchies show. Its body says
+  it bears on [CLAIM-781](../claims.d/CLAIM-781.md) (in [SYNTHESIS-048](SYNTHESIS-048.md)), whose "between against within"
+  rests on the simulation, and on [CLAIM-478](../claims.d/CLAIM-478.md) (in [SYNTHESIS-108](SYNTHESIS-108.md) and
+  [SYNTHESIS-119](SYNTHESIS-119.md)) in its version of 2026-11-20.
+- **[QUESTION-501](../questions.d/QUESTION-501.md)** (Open; filed with the assistant's hierarchy-and-
+  hyperbolicity claims of 2026-11-20; also distributed-agency): the
+  converse of [CLAIM-780](../claims.d/CLAIM-780.md), whether well-separated levels in the time
+  geometry require separated rates or can come from the shape of the
+  state space alone. Its body says it bears on [CLAIM-781](../claims.d/CLAIM-781.md): if shape alone
+  can make the tree, "one rate gap does two jobs" holds only where the
+  tree comes from rates.
 
 ## Where they meet
 

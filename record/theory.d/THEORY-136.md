@@ -63,7 +63,6 @@ bounds:
 - CLAIM-521
 - CLAIM-626
 ---
-<!-- inactive-ok-file: CLAIM-626 — Proposed; the claim this reading bounds, cited in the history note, nothing here rests on it -->
 <!-- inactive-ok-file: LIT-720 — Unavailable, unread; the 2001 Nature paper, named as what the 2003 review restates -->
 <!-- inactive-ok-file: THEORY-058 — Proposed; named as a case the evidential standard bears on -->
 <!-- inactive-ok-file: THEORY-128 — Proposed; the reef-recovery account, named for the Hughes case -->

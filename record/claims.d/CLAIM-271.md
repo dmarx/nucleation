@@ -53,7 +53,7 @@ summary: >-
 bears_on:
 - QUESTION-082
 ---
-<!-- inactive-ok-file: THEORY-tmpyc2wm — Proposed; the reading of Mulgan, 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2216 — Proposed; the reading of Mulgan, 2026-11-22 -->
 
 # CLAIM-271: A collective's reasons need not be any of its members' reasons, so aggregating members' conclusions, as polling does, can yield verdicts the collective's own reasons do not support
 
@@ -155,7 +155,7 @@ premise.
 ## Note of 2026-11-22: Mulgan, read
 
 [LIT-1874](../literature.d/LIT-1874.md), registered for the wait this claim records, is now read
-([NOTE-tmpf00ch](../notes.d/NOTE-tmpf00ch.md); [THEORY-tmpyc2wm](../theory.d/THEORY-tmpyc2wm.md)). It **bears only indirectly and does not
+([NOTE-2306](../notes.d/NOTE-2306.md); [THEORY-2216](../theory.d/THEORY-2216.md)). It **bears only indirectly and does not
 lift the hold**. Mulgan endorses, after List and Pettit, the ontological
 step that a committee can act on a belief "even though none of its members
 either do X or believe Y" (p. 903), which is this claim's step 3, and says

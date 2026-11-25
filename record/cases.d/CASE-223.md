@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CASE-tmpcr92d
 title: 'A proposed study of open-source projects whose name, code or hosting passed to a new steward, comparing successions the community contested with ones it accepted on where the code, the contributors, the governance and the community''s own verdict went, with the lag between a loss of recognized legitimacy and a loss of productive capability as the key measure'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-07'
@@ -15,6 +15,11 @@ history:
     A's, unverified, under a new section of things to check; the
     instances stay in this study until checked. The study is otherwise
     unchanged.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    Note of 2026-11-23 added: the design run on public records, and the
+    results of the facts it listed to check. The study is unchanged.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -206,3 +211,19 @@ community). That reading is the reader's.
 
 Given its standing it shows nothing yet: the instances are A's reports, the
 arms are not matched, and no measure has been taken.
+
+## Note of 2026-11-23: run on public records
+
+<!-- inactive-ok-block: CASE-411 CLAIM-1041 — new, Proposed; the run and the claim on the key measure -->
+Run as [CASE-411](CASE-411.md) on eleven cases of this study's list and the lead's
+brief; GIMP and SourceForge and `data.table` were excluded before coding,
+for the reasons this study's own text gives. Of the facts to check:
+RethinkDB's first community release was 2.3.6 on July 17, 2017, so A36's
+"that July" was right and the reader's recollection wrong; the CNCF's
+purchase was February 6, 2017; Valkey was formed on March 28, 2024 to
+"continue development on Redis 7.2.4" under the BSD licence; Redis added
+the AGPLv3 on May 1, 2025; the freenode resignations and Libera Chat date
+from May 19, 2021. Not checked: the FSFE's move, Libera's figures of June
+30, and the Foster and Germonprez, Percona and `data.table` figures. The
+key measure came out unbounded in most cases ([CLAIM-1041](../claims.d/CLAIM-1041.md)). This
+proposed study keeps its standing; the run is its own entry.

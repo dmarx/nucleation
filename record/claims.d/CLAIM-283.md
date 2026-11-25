@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpqkpuo
 title: 'The precedence a motive claims over action and the authority the rest of the organization grants it are different quantities: a motive can claim control without receiving it, and be granted control it does not claim'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-27'
@@ -22,6 +22,12 @@ history:
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
     reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
+- version: 4
+  date: '2026-11-24'
+  note: >-
+    Joins the work governance-of-becoming under ADR-104's rule, as
+    stated or used in A49 Article 4 abstract, §4 (ADR-tmpenzcn). No
+    change of title or status.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -36,6 +42,7 @@ tags:
 date: '2026-10-13'
 works:
 - self-as-recursive-ecology
+- governance-of-becoming
 line:
 - distributed-agency
 uses:

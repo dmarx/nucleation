@@ -21,7 +21,7 @@ summary: >-
   dissipative structures ([THEORY-072](../theory.d/THEORY-072.md), [THEORY-532](../theory.d/THEORY-532.md), [CLAIM-273](../claims.d/CLAIM-273.md), [QUESTION-085](QUESTION-085.md))
   but has not set flux beside its block and closure tests.
 ---
-<!-- inactive-ok-file: CASE-tmpwyp15 — new; LEAD-083's study of 2026-11-22 -->
+<!-- inactive-ok-file: CASE-334 — new; LEAD-083's study of 2026-11-22 -->
 <!-- inactive-ok-file: NOTE-974 THEORY-763 THEORY-776 NOTE-1022 THEORY-772 NOTE-1027 THEORY-821 — Skimmed or Proposed; the negative half of Onsager, cited as open -->
 <!-- inactive-ok-file: LIT-1252 — Deferred; works registered unread, cited as open, nothing here rests on them -->
 <!-- inactive-ok-file: CLAIM-157 THEORY-072 THEORY-257 THEORY-532 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
@@ -133,7 +133,7 @@ So of the soliton cases only the dissipative one bears on this question, and onl
 
 ## Note of 2026-11-22: [LEAD-083](../leads.d/LEAD-083.md) ran no flux arm
 
-[LEAD-083](../leads.d/LEAD-083.md) named this question, but its study ([CASE-tmpwyp15](../cases.d/CASE-tmpwyp15.md)) ran only a
+[LEAD-083](../leads.d/LEAD-083.md) named this question, but its study ([CASE-334](../cases.d/CASE-334.md)) ran only a
 field excitation and a collective mode. Its protocol, compensation under
 a sustained load read with the other members free and frozen, would carry
 over to a flux pattern once a task variable for the throughput is

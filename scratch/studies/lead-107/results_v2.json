@@ -1,0 +1,566 @@
+{
+ "before_after": {
+  "codes_with_both": [
+   {
+    "code": "CASE-138",
+    "date": "2026-10-22",
+    "post": {
+     "neutral": 1
+    },
+    "post_exposure": 12,
+    "pre": {
+     "neutral": 1
+    }
+   },
+   {
+    "code": "CASE-156",
+    "date": "2026-10-24",
+    "post": {
+     "new": 1
+    },
+    "post_exposure": 9,
+    "pre": {
+     "new": 1
+    }
+   },
+   {
+    "code": "CASE-159",
+    "date": "2026-10-25",
+    "post": {
+     "neutral": 1
+    },
+    "post_exposure": 9,
+    "pre": {
+     "neutral": 1
+    }
+   },
+   {
+    "code": "CLAIM-004",
+    "date": "2026-10-08",
+    "post": {
+     "neutral": 1
+    },
+    "post_exposure": 36,
+    "pre": {
+     "neutral": 1
+    }
+   },
+   {
+    "code": "CLAIM-035",
+    "date": "2026-10-08",
+    "post": {
+     "neutral": 1
+    },
+    "post_exposure": 36,
+    "pre": {
+     "neutral": 1
+    }
+   },
+   {
+    "code": "CLAIM-127",
+    "date": "2026-10-09",
+    "post": {
+     "neutral": 1
+    },
+    "post_exposure": 35,
+    "pre": {
+     "neutral": 1
+    }
+   },
+   {
+    "code": "CLAIM-341",
+    "date": "2026-10-16",
+    "post": {
+     "neutral": 1,
+     "new": 2
+    },
+    "post_exposure": 26,
+    "pre": {
+     "neutral": 1
+    }
+   },
+   {
+    "code": "CLAIM-357",
+    "date": "2026-10-18",
+    "post": {
+     "neutral": 1
+    },
+    "post_exposure": 22,
+    "pre": {
+     "neutral": 1
+    }
+   },
+   {
+    "code": "CLAIM-414",
+    "date": "2026-10-22",
+    "post": {
+     "neutral": 1,
+     "new": 1
+    },
+    "post_exposure": 12,
+    "pre": {
+     "new": 1
+    }
+   },
+   {
+    "code": "QUESTION-271",
+    "date": "2026-10-24",
+    "post": {
+     "new": 1
+    },
+    "post_exposure": 9,
+    "pre": {
+     "neutral": 1,
+     "new": 1
+    }
+   },
+   {
+    "code": "TERM-072",
+    "date": "2026-10-22",
+    "post": {
+     "neutral": 1,
+     "new": 1
+    },
+    "post_exposure": 12,
+    "pre": {
+     "neutral": 2,
+     "new": 1
+    }
+   },
+   {
+    "code": "THEORY-733",
+    "date": "2026-10-19",
+    "post": {
+     "new": 1
+    },
+    "post_exposure": 21,
+    "pre": {
+     "neutral": 1
+    }
+   }
+  ],
+  "summary": {
+   "codes_rederived_pre": 21,
+   "codes_with_both": 12,
+   "codes_with_events": 296,
+   "codes_with_post_events": 239,
+   "codes_with_pre_events": 69,
+   "of_those_any_post_event": 4,
+   "of_those_cited_post": 0,
+   "of_those_rederived_again_post": 4,
+   "post_totals": {
+    "conflict": 8,
+    "neutral": 178,
+    "new": 171,
+    "retrieved": 3
+   },
+   "pre_totals": {
+    "neutral": 60,
+    "new": 25
+   }
+  }
+ },
+ "coded_vs_uncoded": {
+  "exclude_uncertain_dates": {
+   "coded": {
+    "conflict": 6,
+    "neutral": 129,
+    "new": 134,
+    "p_new_of_new_or_retrieved": 0.993,
+    "retrieved": 1
+   },
+   "fisher_p": 1.0,
+   "uncoded": {
+    "conflict": 0,
+    "neutral": 127,
+    "new": 43,
+    "p_new_of_new_or_retrieved": 1.0,
+    "retrieved": 0
+   }
+  },
+  "named_items_only": {
+   "coded": {
+    "conflict": 6,
+    "neutral": 137,
+    "new": 159,
+    "p_new_of_new_or_retrieved": 0.994,
+    "retrieved": 1
+   },
+   "fisher_p": 1.0,
+   "uncoded": {
+    "conflict": 0,
+    "neutral": 50,
+    "new": 21,
+    "p_new_of_new_or_retrieved": 1.0,
+    "retrieved": 0
+   }
+  },
+  "primary": {
+   "coded": {
+    "conflict": 6,
+    "neutral": 137,
+    "new": 159,
+    "p_new_of_new_or_retrieved": 0.994,
+    "retrieved": 1
+   },
+   "fisher_p": 1.0,
+   "uncoded": {
+    "conflict": 0,
+    "neutral": 130,
+    "new": 44,
+    "p_new_of_new_or_retrieved": 1.0,
+    "retrieved": 0
+   }
+  },
+  "same_day_coded": {
+   "coded": {
+    "conflict": 6,
+    "neutral": 174,
+    "new": 171,
+    "p_new_of_new_or_retrieved": 0.994,
+    "retrieved": 1
+   },
+   "fisher_p": 1.0,
+   "uncoded": {
+    "conflict": 0,
+    "neutral": 93,
+    "new": 32,
+    "p_new_of_new_or_retrieved": 1.0,
+    "retrieved": 0
+   }
+  }
+ },
+ "corpus": {
+  "date_uncertain": 2,
+  "files": [
+   "record/workbench.d/2026/10/07/011440.md",
+   "record/workbench.d/2026/10/07/011442.md",
+   "record/workbench.d/2026/10/07/011443.md",
+   "record/workbench.d/2026/10/07/011445.md",
+   "record/workbench.d/2026/10/07/011446.md",
+   "record/workbench.d/2026/10/09/015824.md",
+   "record/workbench.d/2026/10/09/020833.md",
+   "record/workbench.d/2026/10/09/021935.md",
+   "record/workbench.d/2026/10/09/022926.md",
+   "record/workbench.d/2026/10/09/023739.md",
+   "record/workbench.d/2026/10/09/024648.md",
+   "record/workbench.d/2026/10/09/025539.md",
+   "record/workbench.d/2026/10/10/040455.md",
+   "record/workbench.d/2026/10/10/040456.md",
+   "record/workbench.d/2026/10/10/040457.md",
+   "record/workbench.d/2026/10/10/040458.md",
+   "record/workbench.d/2026/10/10/225718.md",
+   "record/workbench.d/2026/10/13/212939.md",
+   "record/workbench.d/2026/10/15/004129.md",
+   "record/workbench.d/2026/10/16/012441.md",
+   "record/workbench.d/2026/10/16/200807.md",
+   "record/workbench.d/2026/10/16/213935.md",
+   "record/workbench.d/2026/10/18/011021.md",
+   "record/workbench.d/2026/10/18/011051.md",
+   "record/workbench.d/2026/10/18/011417.md",
+   "record/workbench.d/2026/10/18/011442.md",
+   "record/workbench.d/2026/10/19/225339.md",
+   "record/workbench.d/2026/10/21/025601.md",
+   "record/workbench.d/2026/10/21/025602.md",
+   "record/workbench.d/2026/10/21/025604.md",
+   "record/workbench.d/2026/10/21/212723.md",
+   "record/workbench.d/2026/10/22/011806.md",
+   "record/workbench.d/2026/10/22/103820.md",
+   "record/workbench.d/2026/10/22/103821.md",
+   "record/workbench.d/2026/10/22/163352.md",
+   "record/workbench.d/2026/10/23/031224.md",
+   "record/workbench.d/2026/10/23/031225.md",
+   "record/workbench.d/2026/10/24/031442.md",
+   "record/workbench.d/2026/10/25/043048.md",
+   "record/workbench.d/2026/10/26/195131.md",
+   "record/workbench.d/2026/10/27/010126.md",
+   "record/workbench.d/2026/10/27/080654.md",
+   "record/workbench.d/2026/10/27/091400.md",
+   "record/workbench.d/2026/10/27/171939.md",
+   "record/workbench.d/2026/10/31/084832.md",
+   "record/workbench.d/2026/11/03/204017.md",
+   "record/workbench.d/2026/11/04/064305.md",
+   "record/workbench.d/2026/11/07/015132.md"
+  ],
+  "reconstructions": 48
+ },
+ "distance": {
+  "n": 16,
+  "new_vs_neutral_title": {
+   "d_chr": {
+    "auc_new_further": 0.41,
+    "median_neutral": 0.914,
+    "median_new": 0.905,
+    "n_neutral": 13,
+    "n_new": 3,
+    "p": 0.7036
+   },
+   "d_cov": {
+    "auc_new_further": 0.385,
+    "median_neutral": 1.0,
+    "median_new": 0.833,
+    "n_neutral": 13,
+    "n_new": 3,
+    "p": 0.5518
+   },
+   "d_jac": {
+    "auc_new_further": 0.282,
+    "median_neutral": 1.0,
+    "median_new": 0.955,
+    "n_neutral": 13,
+    "n_new": 3,
+    "p": 0.2356
+   }
+  },
+  "rows": [
+   {
+    "code": "CLAIM-056",
+    "coded": false,
+    "d_chr": 0.96,
+    "d_chr_ts": 0.955,
+    "d_cov": 1.0,
+    "d_cov_ts": 1.0,
+    "d_jac": 1.0,
+    "d_jac_ts": 1.0,
+    "file": "record/workbench.d/2026/10/09/021935.md",
+    "sent": 35,
+    "y": "neutral"
+   },
+   {
+    "code": "CLAIM-023",
+    "coded": false,
+    "d_chr": 0.926,
+    "d_chr_ts": 0.85,
+    "d_cov": 1.0,
+    "d_cov_ts": 0.8,
+    "d_jac": 1.0,
+    "d_jac_ts": 0.972,
+    "file": "record/workbench.d/2026/10/09/024648.md",
+    "sent": 20,
+    "y": "new"
+   },
+   {
+    "code": "CLAIM-115",
+    "coded": true,
+    "d_chr": 0.821,
+    "d_chr_ts": 0.832,
+    "d_cov": 1.0,
+    "d_cov_ts": 1.0,
+    "d_jac": 1.0,
+    "d_jac_ts": 1.0,
+    "file": "record/workbench.d/2026/10/10/040457.md",
+    "sent": 37,
+    "y": "neutral"
+   },
+   {
+    "code": "CLAIM-004",
+    "coded": true,
+    "d_chr": 0.923,
+    "d_chr_ts": 0.898,
+    "d_cov": 1.0,
+    "d_cov_ts": 1.0,
+    "d_jac": 1.0,
+    "d_jac_ts": 1.0,
+    "file": "record/workbench.d/2026/10/10/040457.md",
+    "sent": 89,
+    "y": "neutral"
+   },
+   {
+    "code": "CLAIM-078",
+    "coded": true,
+    "d_chr": 0.658,
+    "d_chr_ts": 0.641,
+    "d_cov": 0.8,
+    "d_cov_ts": 0.8,
+    "d_jac": 0.964,
+    "d_jac_ts": 0.978,
+    "file": "record/workbench.d/2026/10/10/040457.md",
+    "sent": 106,
+    "y": "neutral"
+   },
+   {
+    "code": "CLAIM-152",
+    "coded": true,
+    "d_chr": 0.976,
+    "d_chr_ts": 0.97,
+    "d_cov": 1.0,
+    "d_cov_ts": 1.0,
+    "d_jac": 1.0,
+    "d_jac_ts": 1.0,
+    "file": "record/workbench.d/2026/10/16/012441.md",
+    "sent": 76,
+    "y": "neutral"
+   },
+   {
+    "code": "NOTE-264",
+    "coded": true,
+    "d_chr": 1.0,
+    "d_chr_ts": 0.833,
+    "d_cov": 1.0,
+    "d_cov_ts": 0.667,
+    "d_jac": 1.0,
+    "d_jac_ts": 0.984,
+    "file": "record/workbench.d/2026/10/18/011051.md",
+    "sent": 40,
+    "y": "neutral"
+   },
+   {
+    "code": "CLAIM-331",
+    "coded": true,
+    "d_chr": 0.905,
+    "d_chr_ts": 0.866,
+    "d_cov": 0.8,
+    "d_cov_ts": 0.8,
+    "d_jac": 0.955,
+    "d_jac_ts": 0.984,
+    "file": "record/workbench.d/2026/10/18/011051.md",
+    "sent": 74,
+    "y": "new"
+   },
+   {
+    "code": "CLAIM-344",
+    "coded": false,
+    "d_chr": 0.932,
+    "d_chr_ts": 0.823,
+    "d_cov": 1.0,
+    "d_cov_ts": 0.167,
+    "d_jac": 1.0,
+    "d_jac_ts": 0.93,
+    "file": "record/workbench.d/2026/10/18/011417.md",
+    "sent": 200,
+    "y": "neutral"
+   },
+   {
+    "code": "QUESTION-065",
+    "coded": true,
+    "d_chr": 0.908,
+    "d_chr_ts": 0.952,
+    "d_cov": 0.75,
+    "d_cov_ts": 0.75,
+    "d_jac": 0.962,
+    "d_jac_ts": 0.977,
+    "file": "record/workbench.d/2026/10/21/025602.md",
+    "sent": 28,
+    "y": "neutral"
+   },
+   {
+    "code": "THEORY-820",
+    "coded": false,
+    "d_chr": 0.776,
+    "d_chr_ts": 0.73,
+    "d_cov": 0.812,
+    "d_cov_ts": 0.812,
+    "d_jac": 0.932,
+    "d_jac_ts": 0.961,
+    "file": "record/workbench.d/2026/10/21/025602.md",
+    "sent": 54,
+    "y": "neutral"
+   },
+   {
+    "code": "QUESTION-007",
+    "coded": true,
+    "d_chr": 0.864,
+    "d_chr_ts": 0.866,
+    "d_cov": 1.0,
+    "d_cov_ts": 1.0,
+    "d_jac": 1.0,
+    "d_jac_ts": 1.0,
+    "file": "record/workbench.d/2026/10/21/025604.md",
+    "sent": 202,
+    "y": "neutral"
+   },
+   {
+    "code": "THEORY-063",
+    "coded": true,
+    "d_chr": 0.837,
+    "d_chr_ts": 0.853,
+    "d_cov": 0.833,
+    "d_cov_ts": 0.833,
+    "d_jac": 0.938,
+    "d_jac_ts": 0.987,
+    "file": "record/workbench.d/2026/10/21/212723.md",
+    "sent": 64,
+    "y": "new"
+   },
+   {
+    "code": "CLAIM-364",
+    "coded": true,
+    "d_chr": 0.891,
+    "d_chr_ts": 0.838,
+    "d_cov": 0.933,
+    "d_cov_ts": 0.933,
+    "d_jac": 0.967,
+    "d_jac_ts": 0.985,
+    "file": "record/workbench.d/2026/10/22/103820.md",
+    "sent": 76,
+    "y": "neutral"
+   },
+   {
+    "code": "CLAIM-439",
+    "coded": false,
+    "d_chr": 0.914,
+    "d_chr_ts": 0.857,
+    "d_cov": 0.8,
+    "d_cov_ts": 0.6,
+    "d_jac": 0.97,
+    "d_jac_ts": 0.966,
+    "file": "record/workbench.d/2026/10/24/031442.md",
+    "sent": 104,
+    "y": "neutral"
+   },
+   {
+    "code": "CLAIM-538",
+    "coded": false,
+    "d_chr": 0.991,
+    "d_chr_ts": 0.988,
+    "d_cov": 1.0,
+    "d_cov_ts": 1.0,
+    "d_jac": 1.0,
+    "d_jac_ts": 1.0,
+    "file": "record/workbench.d/2026/11/04/064305.md",
+    "sent": 38,
+    "y": "neutral"
+   }
+  ],
+  "title": {
+   "d_chr": {
+    "n_new": 3,
+    "n_retrieved": 0
+   },
+   "d_cov": {
+    "n_new": 3,
+    "n_retrieved": 0
+   },
+   "d_jac": {
+    "n_new": 3,
+    "n_retrieved": 0
+   }
+  },
+  "title_summary": {
+   "d_chr": {
+    "n_new": 3,
+    "n_retrieved": 0
+   },
+   "d_cov": {
+    "n_new": 3,
+    "n_retrieved": 0
+   },
+   "d_jac": {
+    "n_new": 3,
+    "n_retrieved": 0
+   }
+  }
+ },
+ "events": {
+  "by_y": {
+   "conflict": 2,
+   "neutral": 186,
+   "new": 76,
+   "retrieved": 1
+  },
+  "codes_missing_from_record": [],
+  "sentences": 265,
+  "with_codes": 162
+ },
+ "rules": "v2"
+}

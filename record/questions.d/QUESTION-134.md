@@ -24,7 +24,7 @@ history:
   date: '2026-11-22'
   note: >-
     Note of 2026-11-22 added: the experiment run in a reduced form
-    (CASE-tmpnti0m, CLAIM-tmp1jz5w); the decisive result did not
+    (CASE-341, CLAIM-919); the decisive result did not
     appear, and pre-emption, not lost competence, kept the specialist
     out. The question is unchanged.
 tags:
@@ -45,7 +45,7 @@ summary: >-
   test for one mechanism of domination without defining domination as
   holding less authority.
 ---
-<!-- inactive-ok-file: CASE-tmpnti0m CLAIM-tmp1jz5w — Proposed, filed 2026-11-22 by LEAD-016's study and cited in the note of that date -->
+<!-- inactive-ok-file: CASE-341 CLAIM-919 — Proposed, filed 2026-11-22 by LEAD-016's study and cited in the note of that date -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-362 — Proposed or Deferred; open claims, readings and works cited as open, nothing here rests on their being settled -->
 
@@ -137,7 +137,7 @@ A's [QUESTION-386](QUESTION-386.md) asks whether activity-based budgeting can de
 ## Note of 2026-11-22: the three losses separated, in a reduced run
 
 [LEAD-016](../leads.d/LEAD-016.md) ran this question's experiment inside a reduced version of
-[CASE-117](../cases.d/CASE-117.md) ([CASE-tmpnti0m](../cases.d/CASE-tmpnti0m.md)). A rare-context specialist's influence was
+[CASE-117](../cases.d/CASE-117.md) ([CASE-341](../cases.d/CASE-341.md)). A rare-context specialist's influence was
 clamped at 10⁻³ for 20,000 steps and then released. Its training exposure
 was either coupled to its influence or, as the control, kept at its
 pre-suppression level. Its competence was held-out risk on the generating
@@ -158,7 +158,7 @@ So the decisive result this question names did not appear. That result
 would be competence lost through deprivation that does not return, against
 a decoupled control that does. Where the specialist did not return, the
 decoupled control did not either. Competence loss followed the exclusion,
-once exposure was coupled again (0.013 to 0.76). [CLAIM-tmp1jz5w](../claims.d/CLAIM-tmp1jz5w.md) files this.
+once exposure was coupled again (0.013 to 0.76). [CLAIM-919](../claims.d/CLAIM-919.md) files this.
 It also files two readings, for the owner, of what a competent specialist
 permanently displaced by an equally competent newcomer is.
 

@@ -6,7 +6,7 @@
 
 **Psychometrics** — measuring minds — scales, reliability and validity, latent-variable and network models of psychological constructs, and model-based estimation of cognitive parameters (ADR-025).
 
-4 of 211 LEAD documents. Back to the [full index](../README.md).
+5 of 234 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -14,3 +14,4 @@
 | [LEAD-034](../../../record/leads.d/LEAD-034.md) | Fit a weighting of the fidelity profile's components on one set of renderings and judges and test it on another, against the best single component | Named in [CLAIM-240](../../../record/claims.d/CLAIM-240.md). Filed by the backlog audit of 2026-11-19. | Open |
 | [LEAD-127](../../../record/leads.d/LEAD-127.md) | Search for evidence that thwarting a candidate basic need causes a functional deficit, and thwarting a matched enhancer does not, under intervention | Named in [QUESTION-369](../../../record/questions.d/QUESTION-369.md). Filed by the backlog audit of 2026-11-19. | Open |
 | [LEAD-162](../../../record/leads.d/LEAD-162.md) | Construct and validate a measure of footing and stance: a definition given to judges, reliability between and within judges at a target fixed in advance, and known-groups validity on reattributed sentences | Stage 0 of the discriminating fidelity study, and the measure every footing clause on the pragmatic-transport line waits on. Named in [CLAIM-227](../../../record/claims.d/CLAIM-227.md), [CLAIM-084](../../../record/claims.d/CLAIM-084.md) and [QUESTION-076](../../../record/questions.d/QUESTION-076.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-229](../../../record/leads.d/LEAD-229.md) | Design a test of counterfactual epistemic richness that holds current task performance fixed, perturbs the environment and introduces unencountered questions, and measures the breadth, cost, speed and reliability of the paths to renewed understanding; and read the definitions of intelligence it would compete with | A gap fill ([ADR-137](../../../record/decisions.d/ADR-137.md)) for A62b's closing proposal, in the exchange "Explain First Contact RL" (ChatGPT, the branch of 2026-11-23 08:51), that "epistemic intelligence might be measured by counterfactual richness rather than observed performance alone", which it offers as "an empirical research program" without a design. The lead supplies the design's questions and the readings the record lacks: no definition of intelligence as efficiency of skill acquisition, or as performance across environments, is on the record. The wording is the assistant's (Claude, in this session); adopting it is the owner's call. | Open |

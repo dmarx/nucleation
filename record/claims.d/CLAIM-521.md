@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmppht9k
 title: 'An organization''s present coupling strength need not reveal the stability of the process maintaining it: in a constructed system whose maintained connector and capacities set a three-unit coupling, the recovery rate of the maintenance goes to zero at its saddle-node while the coupling''s spectral gap there stays near 0.989'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-11'
@@ -13,6 +13,13 @@ history:
     missing; it now names CASE-189's Construction 2, the
     seed–capture model the body cites. Reported by the synthesis
     review of 2026-11-11 (seventh round). No other change.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-144) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §5.1. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -44,8 +51,9 @@ summary: >-
   filed because it is a construction [QUESTION-125](../questions.d/QUESTION-125.md) asks for: one in which
   the regime changes while the block's gap does not. All numbers were
   recomputed.
+works:
+- governance-of-possibility
 ---
-<!-- inactive-ok-file: CLAIM-626 — filed from the same exchange, Proposed -->
 
 # CLAIM-521: An organization's present coupling strength need not reveal the stability of the process maintaining it: in a constructed system whose maintained connector and capacities set a three-unit coupling, the recovery rate of the maintenance goes to zero at its saddle-node while the coupling's spectral gap there stays near 0.989
 

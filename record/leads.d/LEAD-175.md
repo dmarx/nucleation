@@ -36,3 +36,60 @@ Where the record names it:
 
 Whether the 6-gon is reached decides "inaccessible" against "not reached"
 for [QUESTION-363](../questions.d/QUESTION-363.md).
+
+## Note of 2026-11-22: carried out
+
+Done by a delegated worker on branch claude/lead-175-superposition-sweep
+(scratch/studies/lead-175/). The SGD sweep and posterior sampling across
+n are filed as [CASE-402](../cases.d/CASE-402.md). The claims filed from it:
+
+- [CLAIM-1098](../claims.d/CLAIM-1098.md): the 5-gon's dropped feature gets no gradient under
+  SGD;
+- [CLAIM-1057](../claims.d/CLAIM-1057.md): the 6-gon is not reached at any setting tried;
+  "inaccessible", for this model;
+- [CLAIM-1162](../claims.d/CLAIM-1162.md): the posterior's critical sizes differ from the
+  formula's, and there is a factor-½ difference of scale in Chen et al.
+
+**What remains:**
+
+- the finite-dataset posterior (NUTS-like, per n, as Fig. 2);
+- other trainers: weight decay, Langevin noise, Adam;
+- whether the live 5⁺ route opens at some setting not tried.
+
+The lead's stage and status are the owner's.
+
+## Note of 2026-11-23: resumption in the study scripts, reviewed and fixed
+
+A code review the owner forwarded on 2026-11-23 found two defects in this
+lead's scripts (`scratch/studies/lead-175`).
+
+- **Posterior sampler (P2).** `posterior.py` appended a block to the output
+  and then saved the sampler state separately. An interruption between the
+  two left the output a block ahead of the state, and a missing state file
+  restarted fresh chains while keeping the block count, which skipped
+  burn-in. A resume also reseeded the generator from the block count, so it
+  never matched an uninterrupted run.
+- **SGD sweep (P2).** `sgd_sweep.py` marked a whole (n, batch, epochs) job
+  done once one of its result lines was written. A job interrupted midway
+  would have been skipped on restart, short of its runs.
+
+**Fixed.**
+- The sampler now keeps one atomic checkpoint: block count, configuration,
+  chains, step sizes and generator state. It reconciles it with the output
+  on restart, dropping a block written but not checkpointed and rerunning
+  it, and stops when the two cannot be reconciled.
+- The sweep counts completion per run and completes a partly written job.
+- Both drop a torn final line. `test_resume.py` simulates each
+  interruption. A fresh run seeds as before, so the README's commands still
+  reproduce the committed results.
+
+**Whether the reported results were affected.**
+- Every SGD job in `results/` has its full complement of runs (96 in the
+  main grid, 24 or 36 in the extensions), with no duplicates. So the
+  sweep's totals stand.
+- Every posterior and restricted output has its blocks in unbroken
+  sequence, with its burn-in blocks first. Neither file records an
+  interruption, but a resume from a stale checkpoint would leave no mark in
+  the output, and the checkpoints are not kept. That no posterior run was
+  resumed is therefore likely, not shown.
+

@@ -43,7 +43,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-262 — Proposed reading, the neural-complexity measure -->
 <!-- inactive-ok-file: CLAIM-836 — filed with this claim from the same exchange, Proposed -->
 <!-- inactive-ok-file: ARG-152 THEORY-2151 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
-<!-- inactive-ok-file: THEORY-tmpl7rgc — Proposed; the reading of Crutchfield and Feldman, 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2200 — Proposed; the reading of Crutchfield and Feldman, 2026-11-22 -->
 
 # CLAIM-805: Entropy, correlation and scaling are distinct properties of a system, and a critical point is not the maximum of complexity: what is special there is the absence of a finite correlation scale, while entropy density, predictive information, the number of relevant directions and the cost of simulation need not peak there
 
@@ -150,7 +150,7 @@ claim as titled, and moves to corroborating it ([ARG-152](../arguments.d/ARG-152
 ## Note of 2026-11-22: Crutchfield and Feldman, read
 
 **Supports the separation of entropy from memory, and is silent on
-criticality** ([LIT-3010](../literature.d/LIT-3010.md), read in [NOTE-tmpe86ty](../notes.d/NOTE-tmpe86ty.md); [THEORY-tmpl7rgc](../theory.d/THEORY-tmpl7rgc.md) now
+criticality** ([LIT-3010](../literature.d/LIT-3010.md), read in [NOTE-2286](../notes.d/NOTE-2286.md); [THEORY-2200](../theory.d/THEORY-2200.md) now
 `corroborates` this claim). The golden mean, RRXOR and even processes
 share an entropy rate of 2/3 bit and have excess entropies of about
 0.2516, 2 and 0.902 bits; complexity measures "based on multiplying G by

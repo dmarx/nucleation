@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpal9mc
 title: 'A transition can fail in four ways that call for different remedies: a feasible path exceeds a resource ceiling, no path exists in the fixed configuration space, a path exists that no available input can execute, or a path exists that cannot be reliably followed; added actuation can overcome an energy barrier and cannot join disconnected configurations'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -24,6 +24,13 @@ history:
     (ADR-047 kind 4). The body now says that paths are directed where moves
     are one-way, so a deadlock (CLAIM-591) is a disconnection. No objection
     is on file.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-144), the owner's
+    manuscript from the exchange "Explain First Contact RL": A48 §10 uses
+    its failures that look alike and have different remedies. No other
+    change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -69,6 +76,8 @@ summary: >-
   Santangelo a singular branch point, Obayashi et al. a thin basin.
   Interpretive: the classification is argued, not proved exhaustive. The
   wording is A's; adopting it is the owner's call.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CASE-205 THEORY-1383 — Proposed; A's proposals of 2026-11-04, the entries filed beside them and the readings' accounts, cited as filed -->
 

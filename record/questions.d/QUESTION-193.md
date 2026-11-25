@@ -92,11 +92,11 @@ read with it varies the optimizer. The question is unchanged.
 
 ## Note of 2026-11-22: both limbs run ([LEAD-045](../leads.d/LEAD-045.md))
 
-<!-- inactive-ok-file: CASE-tmpd2k95 CLAIM-tmpyepkb CLAIM-tmpmop4m — new; the study and claims of LEAD-045, filed 2026-11-22 -->
+<!-- inactive-ok-file: CASE-319 CLAIM-883 CLAIM-882 — new; the study and claims of LEAD-045, filed 2026-11-22 -->
 
-[LEAD-045](../leads.d/LEAD-045.md) was carried out ([CASE-tmpd2k95](../cases.d/CASE-tmpd2k95.md); scratch/studies/lead-045/).
+[LEAD-045](../leads.d/LEAD-045.md) was carried out ([CASE-319](../cases.d/CASE-319.md); scratch/studies/lead-045/).
 
-- **First limb, derived in the mean-field limit** ([CLAIM-tmpyepkb](../claims.d/CLAIM-tmpyepkb.md),
+- **First limb, derived in the mean-field limit** ([CLAIM-883](../claims.d/CLAIM-883.md),
   demonstrated, Proposed). For task vectors generic to the coordinates and
   many dimensions, sign descent on the Geometry model follows
   du_j/dt = −c p_j u_j/‖p∘u‖₂: gradient descent's path with its clock
@@ -106,7 +106,7 @@ read with it varies the optimizer. The question is unchanged.
   the Hadamard rotation the first phase is exact. The derived ratios match
   simulation within 2%. Not a theorem with error bounds: the step over
   coordinates is a law-of-large-numbers argument.
-- **Second limb, one small network** ([CLAIM-tmpmop4m](../claims.d/CLAIM-tmpmop4m.md), empirical,
+- **Second limb, one small network** ([CLAIM-882](../claims.d/CLAIM-882.md), empirical,
   Proposed). In a width-64 ReLU network on four independent skills, at
   order-one scale, changing only gradient descent to sign descent or Adam
   delayed the weaker skills (level at half their learning time 0.71 against

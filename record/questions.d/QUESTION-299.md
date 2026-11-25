@@ -199,7 +199,7 @@ and Syropoulos and Markowitz were read through other works, and Scheffler
   does not run the thesis's test.
 
 ## Note of 2026-11-22: the thesis's test, searched for
-<!-- inactive-ok-file: LIT-tmporf0r LIT-tmpre45d CASE-tmp413kq — new; filed by LEAD-062 on 2026-11-22 -->
+<!-- inactive-ok-file: LIT-3083 LIT-3084 CASE-323 — new; filed by LEAD-062 on 2026-11-22 -->
 
 [LEAD-062](../leads.d/LEAD-062.md) searched Europe PMC and arXiv for a study of whether concern for
 future people varies with a measured continuity between the self and the
@@ -207,25 +207,34 @@ future, apart from caring. None was found.
 
 - **Three candidates were registered, not read**, all by Law, Syropoulos
   and colleagues.
-  - [LIT-tmporf0r](../literature.d/LIT-tmporf0r.md) reports, by its abstract, that targeting "the
+  - [LIT-3083](../literature.d/LIT-3083.md) reports, by its abstract, that targeting "the
     interconnectedness of people across time" widened how many generations
     people think decisions should consider.
-  - [LIT-tmpa7f10](../literature.d/LIT-tmpa7f10.md) links future-self continuity to responsibility for future
+  - [LIT-3082](../literature.d/LIT-3082.md) links future-self continuity to responsibility for future
     generations.
-  - [LIT-tmpre45d](../literature.d/LIT-tmpre45d.md) finds, over a year, that concern comes before
+  - [LIT-3084](../literature.d/LIT-3084.md) finds, over a year, that concern comes before
     self-continuity.
 
   None is reported to measure caring apart from connection.
-- **The design filed** ([CASE-tmp413kq](../cases.d/CASE-tmp413kq.md)) reaches only the future members of
+- **The design filed** ([CASE-323](../cases.d/CASE-323.md)) reaches only the future members of
   a group the giver belongs to. Future people in general are a further
   step, which it names as a limit.
 
 ## Note of 2026-11-22: Syropoulos, Law, Coleman and Young, read
 
-**Descriptive only**, no edge ([LIT-tmpa7f10](../literature.d/LIT-tmpa7f10.md), [NOTE-tmp11fci](../notes.d/NOTE-tmp11fci.md)). Its
+**Descriptive only**, no edge ([LIT-3082](../literature.d/LIT-3082.md), [NOTE-2315](../notes.d/NOTE-2315.md)). Its
 responsibility items measure felt obligation ("People living today have an
 obligation to protect future generations, even if it means tightening our
 belts now") and impartial valuation of far-future lives, not what grounds
 the obligation. Its link of future-self continuity to that felt obligation
 is correlational (r = .21), and two pre-registered experiments did not
 reliably move it.
+
+## Note of 2026-11-23: [LEAD-156](../leads.d/LEAD-156.md)'s run, no bearing found
+
+[LEAD-156](../leads.d/LEAD-156.md) advances this question through its last work, Ord's *The
+Precipice* ([LIT-1678](../literature.d/LIT-1678.md)), which the run did not attempt. The five works the
+run read are on routes of inherited trauma: donor-gamete, three-generation
+and sperm studies, and a scoping review. None says anything about what
+the living owe far-future people. Nothing is filed against this question.
+The run's results are in [QUESTION-297](QUESTION-297.md)'s note of today.

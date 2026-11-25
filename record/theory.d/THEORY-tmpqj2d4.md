@@ -17,17 +17,17 @@ date: '2026-11-22'
 source:
 - 'LIT-tmpegqz0'
 corroborates:
-- CLAIM-tmpnookt
+- CLAIM-949
 summary: >-
   Van Oosten (2002), [LIT-tmpegqz0](../literature.d/LIT-tmpegqz0.md), read in [NOTE-tmpajfia](../notes.d/NOTE-tmpajfia.md) as the stand-in for
   Kleene 1945 ([LIT-tmp9cdlq](../literature.d/LIT-tmp9cdlq.md), Unavailable): pp. 3–6 for the definition and
   the soundness theorem, p. 4 for information against proofs, p. 11 for
   Kreisel's typed realizability, p. 15 for the effective topos. Proposed
   because it rests on a survey of the paper, not the paper. It corroborates
-  [CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md)'s reading of Kleene's realizer as a realization with its
+  [CLAIM-949](../claims.d/CLAIM-949.md)'s reading of Kleene's realizer as a realization with its
   witness kept, and [ARG-tmp68y3c](../arguments.d/ARG-tmp68y3c.md) says how far.
 ---
-<!-- inactive-ok-file: CLAIM-tmpnookt LIT-tmp9cdlq ARG-tmp68y3c — Proposed or Unavailable; the claim this bears on, the work it reports, and the argument that weighs it -->
+<!-- inactive-ok-file: CLAIM-949 LIT-tmp9cdlq ARG-tmp68y3c — Proposed or Unavailable; the claim this bears on, the work it reports, and the argument that weighs it -->
 
 # THEORY-tmpqj2d4: In Kleene's 1945 realizability a realizer of an arithmetical sentence is information about how it holds, not a proof of it: for an existential, a witness paired with a realizer of its instance; for an implication or universal, a program; for a true atomic sentence, the number 0; the relation is classical and every theorem of Heyting arithmetic has a realizer, and the typed, proof-relevant form came later, with Kreisel
 

@@ -1,0 +1,50 @@
+---
+status: Deferred
+status_note: >-
+  Registered 2026-11-24 from A36 of the exchange "Memes, Contracts, and
+  Systemic Normativity"; not sought or read. A copy is listed by OpenAlex
+  at the URL, unchecked.
+title: 'Separation of Parties, Not Powers'
+version: 1
+history:
+- version: 1
+  date: '2026-11-24'
+  note: >-
+    Filed, not read. Checked on 2026-11-24: not held in
+    record/literature.d by title, first author or identifier. Daryl J.
+    Levinson and Richard H. Pildes, Harvard Law Review 119(8):2311–2386
+    (June 2006), per OpenAlex (W1555881619), which gives no DOI; the URL
+    is the NYU working-paper copy OpenAlex lists. Day as OpenAlex gives
+    it (ADR-002). Both authors are law professors; A36 calls them
+    "political scientists and constitutional scholars". No email address
+    was sent to any service.
+tags:
+- law
+- society-and-governance
+- social-science
+date: '2026-11-24'
+published: '2006-06-01'
+url: 'https://lsr.nellco.org/nyu_plltwp/25'
+first_author: 'Levinson'
+keywords: ['separation of powers', 'political parties', 'divided government']
+implementations: []
+summary: >-
+  A36 §6 cites it for the argument that party competition can explain
+  interbranch behavior better than the formal separation of institutions,
+  and grounds its "correlated corrective failure" ([CLAIM-tmp7xsyj](../claims.d/CLAIM-tmp7xsyj.md)) on it. What
+  A36 says of it is unverified until read.
+---
+
+<!-- inactive-ok-file: CLAIM-tmp7xsyj — Proposed, Deferred or new; filed or registered with the exchange 'Memes, Contracts, and Systemic Normativity', cited whatever their standing -->
+
+# LIT-tmpkhum8: Separation of Parties, Not Powers
+
+Daryl J. Levinson and Richard H. Pildes, Harvard Law Review 119(8):2311–2386 (June 2006), per OpenAlex (W1555881619), which gives no DOI; the URL is the NYU working-paper copy OpenAlex lists. Day as OpenAlex gives it ([ADR-002](../decisions.d/ADR-002.md)). Both authors are law professors; A36 calls them "political scientists and constitutional scholars".
+
+## Key takeaways
+
+- Not read.
+
+## Standing in the record
+
+A36 §6 cites it for the argument that party competition can explain interbranch behavior better than the formal separation of institutions, and grounds its "correlated corrective failure" ([CLAIM-tmp7xsyj](../claims.d/CLAIM-tmp7xsyj.md)) on it. What A36 says of it is unverified until read.

@@ -1,10 +1,22 @@
 ---
 number: 181
-status: Open
+status: Done
 formerly:
 - LEAD-tmpweaab
 title: 'Use the tolerance-indexed simulation to test whether penalizing newly recognized violations produces avoidance of inquiry'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-25'
+  note: >-
+    Done, at the owner's word of 2026-11-25 ("go ahead with the
+    reruns"), whose brief took in closing the leads whose runs are
+    recorded, as housekeeping and not a change of credence. What it would do was
+    done on 2026-11-23: CASE-249's simulation run with and without the
+    penalty and inquiry measured, in CASE-396 (scratch/studies/lead-181/;
+    the note of 2026-11-23). Which reading of "without penalties"
+    decides the test, CLAIM-1120 or CLAIM-997, stays the owner's; the
+    closing does not choose. The stage is left as it stood.
 stage: specified
 priority: medium
 method:
@@ -45,3 +57,34 @@ Where the record names it:
 ## What would count
 
 Less inquiry under the penalty supports [CLAIM-662](../claims.d/CLAIM-662.md); none defeats it.
+
+## Note of 2026-11-23: the simulation built and run
+<!-- inactive-ok-file: CLAIM-1120 CLAIM-997 — new; filed by the lead run of 2026-11-23 -->
+
+Carried out by the assistant. [CASE-396](../cases.d/CASE-396.md) builds [CASE-249](../cases.d/CASE-249.md)'s institution
+(scratch/studies/lead-181/): 30 fixed requirements, 20 of them found only by
+inquiry, an internal evaluator counting recognized violations and an
+independent one counting all, a stationary policy splitting each period's
+budget among inquiry, remediation and output, chosen both by Monte Carlo
+optimum and by 16 gradient-bandit learners. Five governance regimes in four
+settings. Under the penalty on every recognized violation with discovery
+unrewarded, the institution makes no inquiry in any setting ([CLAIM-1064](../claims.d/CLAIM-1064.md)
+proves it path by path where nothing surfaces from outside) and its internal
+count ends near 0 while about a third to two thirds of its violations remain.
+
+What "without penalties" means decides the test, so two readings are filed
+as alternatives for the owner. [CLAIM-1120](../claims.d/CLAIM-1120.md): against scoring by the
+independent count, inquiry falls from 5 or 6 units of 10 to 0 in every
+setting, and the lead's test is met. [CLAIM-997](../claims.d/CLAIM-997.md): against internal
+scoring with only that penalty removed (amnesty, or none), inquiry is 0 both
+ways where inquiry costs output and earns nothing else, and lower under the
+penalty only where inquiry is free or being found out from outside costs
+extra; there the test is met in two settings of four, and where it is not,
+[CLAIM-662](../claims.d/CLAIM-662.md) is not defeated, since the incentive is present and there is no
+inquiry for it to remove. The assistant leans to [CLAIM-997](../claims.d/CLAIM-997.md) as the
+reading of what the result means, since it varies only the penalty, and
+reads [CLAIM-1120](../claims.d/CLAIM-1120.md) as the lead's test taken at its word.
+
+Not done: [CASE-249](../cases.d/CASE-249.md)'s tolerance axis and its breadth and depth budgets (k, T)
+were not exercised, nor relaxing tolerances as a second route to a better
+score; policies are stationary. The lead's status and stage are the owner's.

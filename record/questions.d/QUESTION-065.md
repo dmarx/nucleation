@@ -41,3 +41,19 @@ The mechanism is locality. What crosses a buffer is carried by the leading modes
 ## What would answer it
 
 A result for a system that is not a lattice, such as coupled agents. It would show that variables chosen for informativeness across a buffer match [CLAIM-157](../claims.d/CLAIM-157.md)'s gap-isolated block. Or a local system where they diverge.
+
+## Note of 2026-11-22: the non-lattice case, run
+
+[LEAD-137](../leads.d/LEAD-137.md) built the coupled-agent system this question calls for — a
+linear Gaussian VAR(1) on communities laid on a path, random within, so not a
+lattice — and compared the two variables ([CASE-375](../cases.d/CASE-375.md), [CLAIM-970](../claims.d/CLAIM-970.md)).
+The answer is the second branch, divergence, for the generic case. The
+variable most informative about the far environment across a buffer and
+[CLAIM-157](../claims.d/CLAIM-157.md)'s gap-isolated block coincide on a lattice-like homogeneous
+boundary (overlap 0.99) but generically diverge off it (overlap mean 0.74,
+down to 0.19 under symmetric coupling): the informative variable is a boundary
+mode, the block the spread collective mode, and they agree only under a
+homogeneous boundary or one-way drive. So locality does not on its own supply
+the block criterion's target in a generic local system; the match is a
+property of the lattice's homogeneous boundary. The first part of the question
+is answered the negative way for that case; the uniqueness part is untouched.

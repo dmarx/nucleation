@@ -6,10 +6,10 @@
 
 **Philosophy of biology** — what life, organisms and biological functions are — teleology and function, organisation and closure, biological individuality and autonomy, and the demarcation of the living (group: philosophy; ADR-025).
 
-3 of 211 LEAD documents. Back to the [full index](../README.md).
+3 of 234 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [LEAD-018](../../../record/leads.d/LEAD-018.md) | Read Millikan's teleosemantics, owed by two claims | Named in the curation entry of 2026-11-12 (020028). Filed by the backlog audit of 2026-11-19. | Open |
-| [LEAD-176](../../../record/leads.d/LEAD-176.md) | Read the scaffolding and individuality works | From the record's Deferred and Unfetched works. Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-176](../../../record/leads.d/LEAD-176.md) v2 | Read the scaffolding and individuality works | From the record's Deferred and Unfetched works. Filed by the backlog audit of 2026-11-19. | Open |
 | [LEAD-177](../../../record/leads.d/LEAD-177.md) | Construct systems with identical sensory correlations but different memory persistence, downstream use and adaptive capacity, starting with a forager that learns its own failure criteria | Named in [QUESTION-285](../../../record/questions.d/QUESTION-285.md) and [CASE-239](../../../record/cases.d/CASE-239.md). Filed by the backlog audit of 2026-11-19. | Open |

@@ -4,7 +4,7 @@ formerly:
 - CLAIM-tmpcpijj
 status: Active
 title: 'Authority over a decision does not carry authority over the conditions on which it may be challenged: control of the cost, timing, evidence, forum or remedy of a challenge needs its own justification, and where an actor''s authority is meant to be constrained by independently justified claims, its own judgment that it has met them cannot always establish that it has'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-11-17'
@@ -48,6 +48,14 @@ history:
     as hedged: "does not carry" by default, "needs its own
     justification", and "cannot always". Interpretive, listed for the
     owner.
+- version: 7
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-144) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §13.3, §13.8. No other
+    change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -70,6 +78,7 @@ line:
 - organizational-normativity
 - rightful-power
 works:
+- governance-of-possibility
 - capability-restraint-relational-freedom
 complements:
 - CLAIM-624

@@ -150,6 +150,51 @@ origin is feasible:
 - Not the rate at which soft enforcement approaches the hard one; 1/λ is
   what the run showed, not a derived rate.
 
+## Note of 2026-11-22: Freeman and Pfenning, read
+<!-- inactive-ok-file: THEORY-2259 — Proposed; filed for LEAD-215 -->
+
+A parallel in another formalism, not evidence: the result here is
+demonstrated. In Freeman and Pfenning's refinement types ([THEORY-2259](../theory.d/THEORY-2259.md);
+[NOTE-2350](../notes.d/NOTE-2350.md)), "an expression has type σ ∧ τ if it has both type σ and type τ"
+(p. 3), so refinements a term already has never conflict, the term's value
+inhabiting their intersection, as part 6 has it; and ?e ∧ std is ?e
+(p. 5), the intersection the term already sat in. Their intersections can
+be empty, ⊥, as ?e ∧ stdpos is, which only refinements the term does not
+have produce. One point part 6 states and the parallel sharpens: the
+witness must be a realized version. A term whose evaluation does not
+terminate can have ⊥ (soundness holds only "if e evaluates to v", p. 7);
+the record's entries are versions, so the part stands as written. No
+change.
+
+## Note of 2026-11-22: Davies and Pfenning, read
+<!-- inactive-ok-file: THEORY-2260 TERM-154 — Proposed; filed for LEAD-215 -->
+
+A parallel, not evidence. Part 6's argument, that predicates the entry
+passes when added never conflict since the entry witnesses them, is the
+rule of intersection introduction, and Davies and Pfenning
+([THEORY-2260](../theory.d/THEORY-2260.md); [NOTE-2351](../notes.d/NOTE-2351.md)) show the rule fails for anything but a
+value once there are effects (p. 3, p. 6; [TERM-154](../terms.d/TERM-154.md)). The entry here
+is a version, a value, so part 6 stands. The paper's counterexample marks
+the limit: a cell typed nat ref ∧ pos ref is correctly described by both
+types now, but a ref type also governs future writes, and the two
+descriptions conflict as requirements on what may be written (pp. 1–2).
+Predicates about an entry's future changes, rather than its present
+version, would not be witnessed by the entry. No change.
+
+## Note of 2026-11-22: Rondon, Kawaguchi and Jhala, read
+<!-- inactive-ok-file: THEORY-2262 — Proposed; filed for LEAD-215 -->
+
+A parallel to parts 1 and 6 (no edge). In liquid types ([THEORY-2262](../theory.d/THEORY-2262.md);
+[NOTE-2353](../notes.d/NOTE-2353.md)) inference finds "the strongest conjunction of qualifiers
+from Q⋆ that satisfies all the constraints" (p. 160), and "if a set of
+constraints has a solution over Q then it has a unique minimum solution"
+(p. 166). The paper does not prove it here. The reason has this claim's
+shape: qualifiers each true of every value reaching a point can be
+conjoined, so solutions are closed under union. That is part 6 said of
+types: descriptors true of the same values never conflict. Adding a
+qualifier to a solution's conjunction only shrinks the set it admits, as
+in part 1. Parallels only; the derivation here is unaffected.
+
 ## Note of 2026-11-22: Kleene, read through van Oosten
 
 A parallel, no edge. Part 6's argument, that descriptors never conflict

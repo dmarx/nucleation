@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpy685m
 title: 'Connectivity of the configurations affordable at a budget does not settle reachability among them: under directed moves a state can share a connected component with a target and have no admissible path to it, and the least budget for going from one configuration to another can differ from that for coming back, so a persistence summary of sublevel sets bounds the reachability filtration without fixing it'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-11-06'
@@ -34,6 +34,13 @@ history:
     reachability filtration without fixing it'. QUESTION-375's
     first line is realizability, already this claim's first, so
     the line is unchanged (ADR-085). No other change.
+- version: 5
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-144) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §2.4. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -74,6 +81,8 @@ summary: >-
   wording is A's; adopting it is the owner's call.
 bears_on:
 - QUESTION-375
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: THEORY-1415 — Proposed or Skimmed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
 <!-- ref::uses-file: TERM-114 — "the configurations affordable at a budget" and "the least budget for going from one configuration to another" are TERM-114's configurations and budget-indexed reachability -->

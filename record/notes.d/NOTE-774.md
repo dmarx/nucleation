@@ -35,7 +35,7 @@ summary: >-
   overlap or are imbalanced. Erf collapses more than ReLU.
 ---
 <!-- inactive-ok-file: THEORY-212 THEORY-286 — Proposed; the record's statement of collapse, the lazy-versus-rich regime account, the two UFM accounts this reading sets beside, and the theory filed from it -->
-<!-- inactive-ok-file: THEORY-tmp8sxta — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
+<!-- inactive-ok-file: THEORY-2185 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 # NOTE-774: Kothapalli & Tirer — Can Kernel Methods Explain How the Data Affects Neural Collapse?
 
@@ -225,7 +225,7 @@ reported by Tirer & Bruna, Rangamani et al. and He & Su.
 
 ## Note of 2026-11-22: Yang, Steinhardt and Hu, read
 
-Yang, Steinhardt and Hu ([LIT-2957](../literature.d/LIT-2957.md), [NOTE-tmpl260d](NOTE-tmpl260d.md), [THEORY-tmp8sxta](../theory.d/THEORY-tmp8sxta.md)): **a parallel.** The
+Yang, Steinhardt and Hu ([LIT-2957](../literature.d/LIT-2957.md), [NOTE-2276](NOTE-2276.md), [THEORY-2185](../theory.d/THEORY-2185.md)): **a parallel.** The
 empirical, feature-learning counterpart of this reading's question of how
 the data affects collapse: under coarse labels the input's fine structure
 survives collapse in ResNet and DenseNet, not in VGG. No relation.

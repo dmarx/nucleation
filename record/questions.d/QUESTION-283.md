@@ -24,7 +24,7 @@ summary: >-
   the same thing is what happens when a record's relation scheme cannot
   express what a composed organization requires.
 ---
-<!-- inactive-ok-file: CASE-tmp69rk8 — filed from LEAD-098's run of 2026-11-22, new -->
+<!-- inactive-ok-file: CASE-333 — filed from LEAD-098's run of 2026-11-22, new -->
 
 # QUESTION-283: Can composing systems create an effective structure whose adequate specification needs a richer relational vocabulary than the parts needed separately (relations of higher arity, history, or a new kind) and, if so, under what conditions, and is the new vocabulary forced by the composite or only by the restricted class of descriptions in use?
 
@@ -98,4 +98,4 @@ The second paste of the pasted synthesis on resource-bounded realizability takes
 
 ## Note of 2026-11-22: random sheaves, from [LEAD-098](../leads.d/LEAD-098.md)
 
-[CASE-tmp69rk8](../cases.d/CASE-tmp69rk8.md) counted, in 100 random linear sheaves per case, when Kron reduction of one interior vertex leaves a boundary relation that pairwise relations cannot state. With three scalar boundary vertices, an interior stalk of dimension 2 forced a three-way relation in 100 of 100; of dimension 1, never; of dimension 3, never, since no constraint is left. Adding one pairwise edge among the boundary units made the reduced constraint pairwise in every case. So in this class the new vocabulary is forced by the interior's dimension relative to the boundary's, and a further pairwise relation can undo it. Effective boundary laws were not fitted from oscillator dynamics. Leaves the question open.
+[CASE-333](../cases.d/CASE-333.md) counted, in 100 random linear sheaves per case, when Kron reduction of one interior vertex leaves a boundary relation that pairwise relations cannot state. With three scalar boundary vertices, an interior stalk of dimension 2 forced a three-way relation in 100 of 100; of dimension 1, never; of dimension 3, never, since no constraint is left. Adding one pairwise edge among the boundary units made the reduced constraint pairwise in every case. So in this class the new vocabulary is forced by the interior's dimension relative to the boundary's, and a further pairwise relation can undo it. Effective boundary laws were not fitted from oscillator dynamics. Leaves the question open.

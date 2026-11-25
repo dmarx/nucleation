@@ -105,7 +105,7 @@ measurement.
 ## Note of 2026-11-22: Harvey, the 10 Principles, read
 
 **Confirms the premise, not the reading**, no edge ([LIT-2175](../literature.d/LIT-2175.md),
-[NOTE-tmpcr2sz](../notes.d/NOTE-tmpcr2sz.md)). The page states the gift that "does not contemplate a
+[NOTE-2314](../notes.d/NOTE-2314.md)). The page states the gift that "does not contemplate a
 return or an exchange for something of equal value", the unconditional gift
 this account starts from. It says nothing of gratitude, circulation or a
 return to the community through later work; those remain St John's

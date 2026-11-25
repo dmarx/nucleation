@@ -27,7 +27,7 @@ summary: >-
   to learning, for a question cited over a hundred times. Named in
   [QUESTION-275](../questions.d/QUESTION-275.md) and [CASE-272](../cases.d/CASE-272.md). Filed by the backlog audit of 2026-11-19.
 ---
-<!-- inactive-ok-file: CASE-tmpb4hg0 CLAIM-tmp6rhuv — new; the run of LEAD-172 and its finding, filed 2026-11-22 -->
+<!-- inactive-ok-file: CASE-331 CLAIM-900 — new; the run of LEAD-172 and its finding, filed 2026-11-22 -->
 <!-- inactive-ok-file: CASE-272 CLAIM-698 — Proposed; cited in the backlog audit of 2026-11-19 -->
 
 # LEAD-172: Run the modular-addition checkpoint study and its prospective test: fit the coupled feature-circuit description on early checkpoints and predict later functional change under held-out training interventions
@@ -58,7 +58,7 @@ an account of the circuit's formation.
 
 ## Note of 2026-11-22: a reduced run, done
 
-A delegated worker ran a reduced form of the study on CPU (numpy; torch is not installed), filed as [CASE-tmpb4hg0](../cases.d/CASE-tmpb4hg0.md), with the finding as [CLAIM-tmp6rhuv](../claims.d/CLAIM-tmp6rhuv.md). Scripts, tests, per-step results and the analysis are under scratch/studies/lead-172/.
+A delegated worker ran a reduced form of the study on CPU (numpy; torch is not installed), filed as [CASE-331](../cases.d/CASE-331.md), with the finding as [CLAIM-900](../claims.d/CLAIM-900.md). Scripts, tests, per-step results and the analysis are under scratch/studies/lead-172/.
 
 Done:
 - 25 attention-free networks on addition mod 37: 15 fit arms at weight decay 1.0 and 10 held-out arms at weight decay 0.5 and 2.0, as the held-out training intervention.

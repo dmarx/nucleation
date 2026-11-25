@@ -38,7 +38,7 @@ extends:
 answers:
 - QUESTION-233
 ---
-<!-- inactive-ok-file: THEORY-tmpl7rgc — Proposed; the reading of Crutchfield and Feldman, 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2200 — Proposed; the reading of Crutchfield and Feldman, 2026-11-22 -->
 
 # THEORY-784: Language models trained on limited data show a test loss falling as P^(−γ/(2β)) because P training tokens resolve token correlations only out to a horizon growing as P^(1/(2β)), so that more data mainly lengthens the context a model can use, when the model learns within that horizon faster than it grows, as Cagnetta, Raventós, Ganguli and Wyart propose
 
@@ -89,7 +89,7 @@ narrowed on 2026-10-20.
 
 ## Note of 2026-11-22: Crutchfield and Feldman, read
 
-**A parallel** ([LIT-3010](../literature.d/LIT-3010.md), [NOTE-tmpe86ty](../notes.d/NOTE-tmpe86ty.md), [THEORY-tmpl7rgc](THEORY-tmpl7rgc.md)). The account's
+**A parallel** ([LIT-3010](../literature.d/LIT-3010.md), [NOTE-2286](../notes.d/NOTE-2286.md), [THEORY-2200](THEORY-2200.md)). The account's
 corpus statistic γ is the exponent of power-law entropy convergence in
 Crutchfield and Feldman's sense; with γ < 1 the token process is
 infinitary, its excess entropy diverging as n^(1−γ) (the note of the same
