@@ -27,6 +27,8 @@ summary: >-
   owner's call.
 ---
 <!-- inactive-ok-file: THEORY-tmpqj2d4 CLAIM-487 — Proposed or Unavailable; the reading of Kleene through van Oosten that the dated note of 2026-11-22 cites -->
+
+<!-- inactive-ok-file: THEORY-tmptsz1u — Proposed; the reading of Dunfield and Krishnaswami (2021) and the entries filed from it, or the entries it bears on -->
 <!-- inactive-ok-file: TERM-151 TERM-134 CLAIM-477 CLAIM-783 CLAIM-942 SYNTHESIS-114 — Proposed; the term filed with this, and the entries it is stated against -->
 
 # TERM-152: specification: a set of tests that fixes which realizations count as admissible, the realizations being whatever passes them all; partial when it leaves differences that would matter undecided, and stored when it outlasts the inquiry or design that set it and constrains what follows
@@ -92,6 +94,18 @@ The record uses "realizer" in a third, functionalist sense as well (a
 system that realizes a function, as in [CLAIM-487](../claims.d/CLAIM-487.md)), and has a
 `realizability` line on resource-bounded realization. A reader meeting
 "realization" here should take this term's sense. No status changes.
+
+## Note of 2026-11-22: Dunfield and Krishnaswami, read
+
+Two parallels from their survey of bidirectional typing ([THEORY-tmptsz1u](../theory.d/THEORY-tmptsz1u.md), read
+in [NOTE-tmpbrc1z](../notes.d/NOTE-tmpbrc1z.md)); analogies, no relation written. Polikarpova's strengthening
+checks a variable against a required type and returns the refinement
+{b | ν = x}, a type written from the variable itself and stronger than the
+requirement (§6.4): a **description** in this term's sense, read off one
+realization, that passes every test it implies. And subsumption tests a
+synthesized type against a required one as implication, "A <: B becomes
+A ⊃ B" (§4.6): one specification tested against another by containment,
+not by a realization.
 
 ## Note of 2026-11-22: Kolmogorov, read
 <!-- inactive-ok-block: THEORY-tmpdsft8 ARG-tmp6sdu6 — Proposed; the reading of 2026-11-22, its argument and the claim it was read for -->

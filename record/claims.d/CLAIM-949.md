@@ -45,6 +45,8 @@ summary: >-
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: LIT-tmp9cdlq THEORY-tmpqj2d4 ARG-tmp68y3c — Proposed or Unavailable; the reading of Kleene through van Oosten that the dated note of 2026-11-22 cites -->
+
+<!-- inactive-ok-file: THEORY-tmptsz1u ARG-tmpcpo8g CLAIM-tmpugw2q — Proposed; the reading of Dunfield and Krishnaswami (2021) and the entries filed from it, or the entries it bears on -->
 <!-- inactive-ok-file: CLAIM-783 CLAIM-943 TERM-152 — Proposed or Open; the claims, terms and lead this joins -->
 
 # CLAIM-949: The record's account of specification is model-theoretic, a set of tests and the versions that pass them all, as an institution pairs sentences with the models that satisfy them; type theory is its proof-relevant counterpart, in which a specification is a type, a question a problem, a realization an inhabitant carried with the evidence that it passes, adding a descriptor a refinement the entry provably inhabits, which is why descriptors cannot conflict, and the direction of fit is bidirectional typing's split between inferring a type from a term and checking a term against a type given
@@ -239,6 +241,33 @@ The support judgement is [ARG-tmp68y3c](../arguments.d/ARG-tmp68y3c.md) (analogy
 defeated_if (a) nor (b) is met: the correspondences (b) names are not the
 one Kleene bears on. No status changes; narrowing the claim is the owner's
 call.
+
+## Note of 2026-11-22: Dunfield and Krishnaswami, read
+
+Their survey of bidirectional typing ([LIT-tmpqagik](../literature.d/LIT-tmpqagik.md), read in [NOTE-tmpbrc1z](../notes.d/NOTE-tmpbrc1z.md), account
+[THEORY-tmptsz1u](../theory.d/THEORY-tmptsz1u.md)) tests the bullet "The direction of fit is bidirectional
+typing". It supports, and narrows (evidence; [ARG-tmpcpo8g](../arguments.d/ARG-tmpcpo8g.md)):
+
+- **Supported.** The authors call a synthesized type "a fact" and a
+  checked one "a requirement" (§4.4), and argue for checking because
+  inference "finds all behaviours, not only the intended behaviours"
+  (§9.1). Synthesis as description and checking as requirement is their
+  reading too. "Checking only accepts or rejects" is borne out: the term
+  is an input in both modes (§1), and Coquand's checkExp "returns a
+  boolean" (§9.1).
+- **Narrowed.** The modes are information flow, "the management of
+  information flow" (§8.4): which part of a judgment is known. They can
+  be reversed, combined or refined (§6) while the term still answers for
+  a mismatch, so where the type comes from is not who must fit whom.
+  The two coincide in the standard Pfenning recipe. [CLAIM-tmpugw2q](CLAIM-tmpugw2q.md) files the
+  objection this makes to [CLAIM-943](CLAIM-943.md).
+- **Left open.** Elaboration and coercion are only cited (§1, references).
+  The one change to a term the survey treats is the programmer's
+  annotation, which under type erasure changes no behaviour (§2, §3.2).
+  [LEAD-tmp7mkn0](../leads.d/LEAD-tmp7mkn0.md) plans the reading that would settle the elaboration clause.
+
+Defeat condition (b) is not met: the correspondence holds, more narrowly
+than stated. The status is the owner's.
 
 ## Note of 2026-11-22: Kolmogorov, read
 <!-- inactive-ok-block: THEORY-tmpdsft8 — Proposed; the reading of 2026-11-22, its argument and the claim it was read for -->
