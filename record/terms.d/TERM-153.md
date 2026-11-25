@@ -114,3 +114,25 @@ Allgemeingültigkeit ihrer Lösungen" (p. 61): a solution can be presented
 so that it must be recognized as correct by any able hearer. That is what a
 certificate is for, but Kolmogorov makes it a property of the domain, of "einigermaßen idealen Charakter",
 not a record kept with the solution. Unchanged.
+
+## Note of 2026-11-25: Martin-Löf, read
+<!-- inactive-ok-file: THEORY-tmp62cvo NOTE-tmp60upv ARG-tmpneexr CLAIM-tmp01pyt — Proposed or Skimmed; filed for LEAD-215 -->
+
+Borne out, with two refinements, from Martin-Löf ([THEORY-tmp62cvo](../theory.d/THEORY-tmp62cvo.md);
+[NOTE-tmp60upv](../notes.d/NOTE-tmp60upv.md); [ARG-tmpneexr](../arguments.d/ARG-tmpneexr.md)). The second component of a Σ pair is the
+certificate, and in the set of a ∈ A such that B(a) it is carried with
+every element, "the witnessing information" (p. 53): the first reading
+under [LEAD-215](../leads.d/LEAD-215.md) that keeps it.
+
+- **Construction against derivation.** The book reserves "construction"
+  for a proof of a proposition, the element b, and keeps it apart from a
+  proof of the judgement b ∈ B(a), a derivation (p. 6). This term's
+  definition calls the certificate "the derivation that x satisfies φ",
+  which is the second; the pair's component is the first. Which one the
+  record's certificates are (a claim's grounds look like the first, a
+  lint pass like the second) is for the owner; the definition is not
+  changed here.
+- **Used, not only checked.** The book's certificate does work beyond
+  being checked: "Only by means of the proof q(c) do we know how far to go
+  for the approximation desired" (p. 54). Where the certificate is used,
+  it cannot be dropped ([CLAIM-tmp01pyt](../claims.d/CLAIM-tmp01pyt.md)).

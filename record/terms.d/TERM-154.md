@@ -138,3 +138,17 @@ the element found. Nothing is left over to be an existence statement
 proper. The witness is that element; Kolmogorov adds that its having been
 found is a subjective fact (p. 61), which the term's "exhibited" keeps. The
 term now `draws_on` the reading. Unchanged otherwise.
+
+## Note of 2026-11-25: Martin-Löf, read
+<!-- inactive-ok-file: THEORY-tmp62cvo NOTE-tmp60upv ARG-tmpneexr — Proposed or Skimmed; filed for LEAD-215 -->
+
+Borne out, from the source this term's type-theoretic sense comes from
+([THEORY-tmp62cvo](../theory.d/THEORY-tmp62cvo.md); [NOTE-tmp60upv](../notes.d/NOTE-tmp60upv.md); [ARG-tmpneexr](../arguments.d/ARG-tmpneexr.md)). A canonical proof of
+(∃x ∈ A)B(x) "is a pair (a,b), where b is a proof of the fact that a
+satisfies B" (p. 42), and the witness is the left projection p(c) (p. 44).
+One sharpening: the witness is computed from the proof, which is why the
+book needs no choice operator: "The difficulty with an epsilon term
+(εx)B(x) is that it is construed as a function of the property B(x) itself
+and not of the proof of (∃x)B(x)" (p. 45). So constructively there is no
+certificate without a witness, as this term's "Certificate without
+witness" already marks as classical. No change.

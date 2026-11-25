@@ -302,3 +302,54 @@ is the later BHK and propositions-as-types gloss. A wording that fits the
 reading: "Kolmogorov read the formulas of intuitionistic logic as problems,
 kept apart from statements, and their proofs as solutions". The text and
 status are unchanged; revising them is the owner's call.
+
+## Note of 2026-11-25: Martin-Löf, read
+<!-- inactive-ok-file: THEORY-tmp62cvo NOTE-tmp60upv ARG-tmpl0sxy ARG-tmpneexr ARG-tmppv3b8 CLAIM-tmp01pyt CLAIM-tmpjs6hp — Proposed or Skimmed; filed from the reading for LEAD-215 -->
+
+Martin-Löf 1984, Intuitionistic Type Theory ([THEORY-tmp62cvo](../theory.d/THEORY-tmp62cvo.md),
+corroborates; [NOTE-tmp60upv](../notes.d/NOTE-tmp60upv.md), Skimmed; [LIT-tmphxyqk](../literature.d/LIT-tmphxyqk.md)), the source this
+claim names for "Martin-Löf's types are the same reading" and for
+universes.
+
+- **A question is a problem, a realization an inhabitant: borne out,
+  narrowed** ([ARG-tmpl0sxy](../arguments.d/ARG-tmpl0sxy.md)). The book reads a ∈ A as "a method of solving
+  the problem (doing the task) A" and as "a program ... which meets the
+  specification A" (pp. 5–6), and makes the problem one reading of the
+  same form of judgement as the set, which Kolmogorov, as the reading in
+  pull request 708 reports, did not. Narrowed by [CLAIM-tmpjs6hp](CLAIM-tmpjs6hp.md): a
+  Martin-Löf set is given by how its elements are formed, so a
+  specification of tests is a type only over a kind of thing already
+  given (the "such that" set, p. 53); over whatever might be proposed it
+  is a category, which is not a set (p. 21).
+- **A realization carried with the evidence that it passes, and a
+  descriptor as a refinement inhabited: borne out, with the evidence
+  kept** ([ARG-tmpneexr](../arguments.d/ARG-tmpneexr.md)). The elements of {x ∈ A : B(x)} "are pairs (a,b)
+  with b ∈ B(a)", "the witnessing information" (p. 53). This is the first
+  reading under [LEAD-215](../leads.d/LEAD-215.md) that supports the proof-relevant reading itself;
+  the refinement systems kept no evidence.
+- **Defeater (a) gets its test** ([CLAIM-tmp01pyt](CLAIM-tmp01pyt.md)). Martin-Löf drops a
+  proof, writing "A true", only where nothing depends on it (pp. 33, 47);
+  so the record is proof-relevant wherever a later step depends on an
+  entry's evidence, as the status reviews do when they take a work out of
+  a claim's grounds.
+- **A question's revision as a change of type handled by universes:
+  narrowed** ([ARG-tmppv3b8](../arguments.d/ARG-tmppv3b8.md)). A function into a universe computes a type
+  from an earlier result (p. 91), but only among types the universe codes,
+  which is the choice among answer spaces already admitted. A new form of
+  set is outside every universe given, "because we are not able to
+  exhibit once and for all all possible set forming operations" (p. 87).
+  Whether the next universe meets it (reading A) or only an extension of
+  the theory does (reading B, the filer's lean) is filed as alternatives
+  in [ARG-tmppv3b8](../arguments.d/ARG-tmppv3b8.md).
+- **The direction of fit as inference against checking: not tested.** The
+  book gives rules, not an algorithm. **Stored specification as a
+  library: not tested.**
+- **Model-theoretic against proof-relevant.** The book sets itself
+  against meaning given "only through semantics, which is usually done
+  following Tarski and assuming set theory" (p. 3), the route
+  [THEORY-1142](../theory.d/THEORY-1142.md)'s institutions take; so the claim's framing of the two
+  accounts is the book's own.
+
+Defeater (b) is not met: one correspondence holds with the evidence
+carried, two hold narrowed, and the one on bidirectional typing was not
+tested. No change to the claim's status.

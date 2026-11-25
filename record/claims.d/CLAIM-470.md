@@ -310,3 +310,22 @@ of that (p. 59). The calculus has no counterpart of the last clause: where
 the bifurcation example replaces a question with no adequate answer,
 Kolmogorov closes the case as a solution. Weighed for [CLAIM-949](CLAIM-949.md) in
 [ARG-tmp6sdu6](../arguments.d/ARG-tmp6sdu6.md). The claim is unchanged.
+
+## Note of 2026-11-25: Martin-Löf, read
+<!-- inactive-ok-file: THEORY-tmp62cvo NOTE-tmp60upv ARG-tmppv3b8 CLAIM-949 — Proposed or Skimmed; filed for LEAD-215 -->
+
+A qualification of the formal reading of this claim's last clause (no
+edge), from Martin-Löf's universes ([THEORY-tmp62cvo](../theory.d/THEORY-tmp62cvo.md); [NOTE-tmp60upv](../notes.d/NOTE-tmp60upv.md);
+[ARG-tmppv3b8](../arguments.d/ARG-tmppv3b8.md)). [CLAIM-949](CLAIM-949.md) read a question's revision as a change of type
+handled by universes. In the book a universe is "the least set closed
+under certain specified set forming operations", and there is no set of
+all sets, "because we are not able to exhibit once and for all all
+possible set forming operations" (p. 87). A question whose answer space is
+computed from what was found, by a function into a universe, changes type
+only among spaces the universe already codes: the choice among
+distinctions already admitted, which is what defeater (a) describes. The
+last clause's revision, a new kind of answer, is outside any universe
+given: on one reading met by the next universe, on the other only by
+extending the theory, filed as alternatives in [ARG-tmppv3b8](../arguments.d/ARG-tmppv3b8.md). The type
+theory thus draws this claim's line between refining within and revising,
+and on reading B places the revision outside the formalism. No change.

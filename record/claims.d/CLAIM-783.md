@@ -215,3 +215,14 @@ inhabited, as an entry witnesses its descriptors. The survey also reads
 subtyping as implication, so a type a term synthesizes can only be
 tested against weaker ones it entails (§4.6), which is part 1's
 shrinking seen from the other side.
+
+## Note of 2026-11-25: Martin-Löf, read
+<!-- inactive-ok-file: THEORY-tmp62cvo NOTE-tmp60upv ARG-tmpneexr — Proposed or Skimmed; filed for LEAD-215 -->
+
+A parallel to part 6 (no edge; this claim is demonstrated and needs no
+reading). In Martin-Löf's type theory ([THEORY-tmp62cvo](../theory.d/THEORY-tmp62cvo.md); [NOTE-tmp60upv](../notes.d/NOTE-tmp60upv.md))
+the set of a ∈ A such that B(a) has pairs (a,b), b ∈ B(a), as elements
+(p. 53). An entry that passes two descriptors gives (a,(b,c)), an element
+of the Σ over their conjunction, by &- and Σ-introduction (pp. 39, 44;
+the step is the filer's, [ARG-tmpneexr](../arguments.d/ARG-tmpneexr.md)): part 6's witness argument, with
+the evidence that the entry passes each descriptor carried along.
