@@ -193,3 +193,14 @@ conjoined, so solutions are closed under union. That is part 6 said of
 types: descriptors true of the same values never conflict. Adding a
 qualifier to a solution's conjunction only shrinks the set it admits, as
 in part 1. Parallels only; the derivation here is unaffected.
+
+## Note of 2026-11-25: Martin-Löf, read
+<!-- inactive-ok-file: THEORY-tmp62cvo NOTE-tmp60upv ARG-tmpneexr — Proposed or Skimmed; filed for LEAD-215 -->
+
+A parallel to part 6 (no edge; this claim is demonstrated and needs no
+reading). In Martin-Löf's type theory (THEORY-tmp62cvo; NOTE-tmp60upv)
+the set of a ∈ A such that B(a) has pairs (a,b), b ∈ B(a), as elements
+(p. 53). An entry that passes two descriptors gives (a,(b,c)), an element
+of the Σ over their conjunction, by &- and Σ-introduction (pp. 39, 44;
+the step is the filer's, ARG-tmpneexr): part 6's witness argument, with
+the evidence that the entry passes each descriptor carried along.

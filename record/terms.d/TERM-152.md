@@ -77,3 +77,19 @@ specification: written once, they constrain every later program, and
 their finiteness is what keeps checking decidable ("Finiteness is
 important, since it is necessary for the decidability of refinement type
 inference", p. 2). No change.
+
+## Note of 2026-11-25: Martin-Löf, read
+<!-- inactive-ok-file: THEORY-tmp62cvo NOTE-tmp60upv CLAIM-tmpjs6hp — Proposed or Skimmed; filed for LEAD-215 -->
+
+A qualification, from Martin-Löf's Intuitionistic Type Theory
+(THEORY-tmp62cvo; NOTE-tmp60upv; CLAIM-tmpjs6hp). The book uses this
+term's pair in so many words: "a is a program ... which meets the
+specification A" (p. 6), and its forms of judgement keep the two apart, a
+realization judged only against a specification already formed: "a
+judgement of the form a ∈ A presupposes that A is a set" (p. 5). But its
+sets are not sets of tests: "a set A is defined by prescribing how a
+canonical element of A is formed" (p. 8). A set of tests in this term's
+sense is, there, the set of elements of a given set such that a property
+holds, whose elements carry their proofs (p. 53), and, over no given set, a
+category, which is not a set (p. 21). The definition stands; the claim
+holds the qualification.

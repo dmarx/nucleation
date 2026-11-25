@@ -111,3 +111,17 @@ sound" (p. 167): the strongest description the qualifiers state, true of
 no argument ever given. A description with nothing to witness it can be
 as strong as the vocabulary allows. The record's descriptors are written
 from an entry that exists, which is what this term's witness rules out.
+
+## Note of 2026-11-25: Martin-Löf, read
+<!-- inactive-ok-file: THEORY-tmp62cvo NOTE-tmp60upv ARG-tmpneexr — Proposed or Skimmed; filed for LEAD-215 -->
+
+Borne out, from the source this term's type-theoretic sense comes from
+(THEORY-tmp62cvo; NOTE-tmp60upv; ARG-tmpneexr). A canonical proof of
+(∃x ∈ A)B(x) "is a pair (a,b), where b is a proof of the fact that a
+satisfies B" (p. 42), and the witness is the left projection p(c) (p. 44).
+One sharpening: the witness is computed from the proof, which is why the
+book needs no choice operator: "The difficulty with an epsilon term
+(εx)B(x) is that it is construed as a function of the property B(x) itself
+and not of the proof of (∃x)B(x)" (p. 45). So constructively there is no
+certificate without a witness, as this term's "Certificate without
+witness" already marks as classical. No change.

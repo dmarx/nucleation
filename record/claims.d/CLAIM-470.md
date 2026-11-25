@@ -271,3 +271,22 @@ Read on 2026-11-12 among the works of the exchange "luria experiment design"; ea
 - **Bao et al.** ([THEORY-1785](../theory.d/THEORY-1785.md)): The Discussion's claim that novelty, feasibility and probability are "functions of an evolving disciplinary horizon" is the authors' view, consistent with CLAIM-470; not evidence for it.
 
 The claim is unchanged.
+
+## Note of 2026-11-25: Martin-Löf, read
+<!-- inactive-ok-file: THEORY-tmp62cvo NOTE-tmp60upv ARG-tmppv3b8 CLAIM-949 CLAIM-tmpjs6hp — Proposed or Skimmed; filed for LEAD-215 -->
+
+A qualification of the formal reading of this claim's last clause (no
+edge), from Martin-Löf's universes (THEORY-tmp62cvo; NOTE-tmp60upv;
+ARG-tmppv3b8). CLAIM-949 read a question's revision as a change of type
+handled by universes. In the book a universe is "the least set closed
+under certain specified set forming operations", and there is no set of
+all sets, "because we are not able to exhibit once and for all all
+possible set forming operations" (p. 87). A question whose answer space is
+computed from what was found, by a function into a universe, changes type
+only among spaces the universe already codes: the choice among
+distinctions already admitted, which is what defeater (a) describes. The
+last clause's revision, a new kind of answer, is outside any universe
+given: on one reading met by the next universe, on the other only by
+extending the theory, filed as alternatives in ARG-tmppv3b8. The type
+theory thus draws this claim's line between refining within and revising,
+and on reading B places the revision outside the formalism. No change.

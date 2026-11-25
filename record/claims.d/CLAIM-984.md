@@ -84,3 +84,15 @@ failures the paper reports trace to the qualifiers chosen or to the
 conservative check, not to a need for annotation over Q. One system
 agrees; the claim stays Proposed. The note names the reading as evidence,
 so [THEORY-2262](../theory.d/THEORY-2262.md) gains a `corroborates` edge to this claim ([ADR-093](../decisions.d/ADR-093.md)).
+
+## Note of 2026-11-25: Martin-Löf, read
+<!-- inactive-ok-file: THEORY-tmp62cvo NOTE-tmp60upv CLAIM-tmpjs6hp — Proposed or Skimmed; filed for LEAD-215 -->
+
+A parallel on another axis (no edge), from Martin-Löf (THEORY-tmp62cvo;
+NOTE-tmp60upv). The book separates a set, given by rules that form its
+elements, from a category, "grasped" without "exhaustive rules for forming
+its objects" (p. 21). This claim asks whether the vocabulary of tests is
+closed; CLAIM-tmpjs6hp, filed from the reading, asks whether the
+candidates come from a set already given. Each marks where something must
+be stated rather than generated. The book bears on neither inference nor
+annotation, so it does not test the prediction. No change.

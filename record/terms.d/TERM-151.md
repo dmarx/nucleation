@@ -104,3 +104,16 @@ checker (pp. 160, 169), so a test that fails to check is not thereby world
 to word. The criterion here, the thing as it stands, reads best as the
 thing as it stands *and is checked*. The definition stands; the
 distinction is the claim's.
+
+## Note of 2026-11-25: Martin-Löf, read
+<!-- inactive-ok-file: THEORY-tmp62cvo NOTE-tmp60upv — Proposed or Skimmed; filed for LEAD-215 -->
+
+A parallel (no edge). Martin-Löf's table of readings (THEORY-tmp62cvo;
+NOTE-tmp60upv) reads one form of judgement, a ∈ A, both as "a is an
+element of the set A" and as "a is a method of fulfilling (realizing) the
+intention (expectation) A" (p. 5), Heyting's reading, in which the
+judgement is world to word. The direction belongs to the reading of the
+judgement, not to its form, which agrees with this term's criterion that
+the thing and its test, not the sentence's wording, settle it. The book
+has no inference or checking algorithm and says nothing on the
+bidirectional correspondence. The definition stands.
