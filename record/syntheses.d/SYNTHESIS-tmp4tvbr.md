@@ -636,5 +636,5 @@ J4.2, JR4.1, JR4.2, J5.1 to J5.7, J6.1 to J6.6), as the review's own table
 has; the fact-check of the revised Part II (2026-11-25) found the
 miscount. Of the 17, ten are restatements, three were rightly not made,
 and four failed as stated, of which J4.1 passed in a corrected form
-(CLAIM-tmp7rl3d). The wording is the assistant's (Claude, in this session);
+([CLAIM-tmp7rl3d](../claims.d/CLAIM-tmp7rl3d.md)). The wording is the assistant's (Claude, in this session);
 adopting it is the owner's call.
