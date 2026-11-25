@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmptfuky
 title: 'The wrong beyond violation that an organization commits by reproducing representations and allocations of authority that keep a justified standard from constraining it is a breach of a second-order duty of answerability: to maintain feasible means for relevant violations to become knowable, contestable and correctable; it is a verdict only given an independently justified standard and a feasible alternative'
-version: 12
+version: 13
 history:
 - version: 2
   date: '2026-11-07'
@@ -112,6 +112,12 @@ history:
     Joins the work governance-of-becoming under ADR-104's rule, as
     stated or used in A49 Article 9 abstract, §7 (ADR-tmpenzcn). No
     change of title or status.
+- version: 13
+  date: '2026-11-25'
+  note: >-
+    Joins the work atlas (ADR-tmpm72rh): the hyperarticle atlas v0.3
+    states its proposition or uses it as a step, in scope 11. No other
+    change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -137,6 +143,7 @@ line:
 - organizational-normativity
 - distributed-agency
 works:
+- atlas
 - capability-restraint-relational-freedom
 - governance-of-becoming
 rests_on:

@@ -12,4 +12,4 @@
   - [SYNTHESIS-tmpg0a57](record/syntheses.d/SYNTHESIS-tmpg0a57.md), the first synthesis of the line
     scholarly-publishing, which takes "Hyper article interpretation" into
     account;
-  - governance-of-possibility's Part A.
+  - governance-of-possibility's Part A follows in its own pull request, on the refreshed text.

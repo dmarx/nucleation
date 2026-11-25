@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpvr0mx
 title: 'For a normatively relevant discrepancy to change what an organization does, three distinct achievements are needed and any can fail while the others hold: legibility, by which the discrepancy becomes recognizable; volitional efficacy, by which a corresponding demand can move action; and correctability, by which a fitting revision can be carried out within deadline and resources; none establishes that the demand or the revision is justified, and whether the norm-satisfying histories the agent can still realize are empty depends partly on what its earlier actions destroyed'
-version: 12
+version: 13
 history:
 - version: 2
   date: '2026-11-06'
@@ -79,6 +79,12 @@ history:
     Joins the work conditions-of-correction (ADR-tmp85hdc): Article 1 of
     A45 in the exchange "Hyper article interpretation" states its
     proposition or uses it as a step, in §5. No other change.
+- version: 13
+  date: '2026-11-25'
+  note: >-
+    Joins the work atlas (ADR-tmpm72rh): the hyperarticle atlas v0.3
+    states its proposition or uses it as a step, in scope 10, scope 15,
+    section V. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -100,6 +106,7 @@ line:
 - self-correction
 - scholarly-publishing
 works:
+- atlas
 - conditions-of-correction
 - governance-of-possibility
 - capability-restraint-relational-freedom

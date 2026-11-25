@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmpwxags
 title: 'Two constructions of a maintained organization: two constraints producing each other with saturating production and turnover hold a three-unit coupling, with a box invariant under damage up to 0.4, a saddle-node at damage 0.5 and extinction above it; and a transient encounter that forms a connector enabling that reciprocal production, after which the connector is maintained by what it enables, every single-pathway knockout ends it, and the regime ends in a saddle-node at damage ≈ 0.691 where the coupling''s gap is still ≈ 0.989'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-11-11'
@@ -41,6 +41,11 @@ history:
     A dated note from the revision of the manuscript
     governance-of-becoming, Part I: a supply parameter in Construction 2
     would test CLAIM-604's signatures; not computed. No other change.
+- version: 6
+  date: '2026-11-25'
+  note: >-
+    A dated note closing the gap note of 2026-11-24: the supply parameter
+    was computed, and CLAIM-tmpv6tw7 holds the result. No other change.
 standing: fictional
 kind: construction
 tags:
@@ -282,3 +287,35 @@ structure's own state; withdrawing the supply does.
 
 Bearing: a gap; no change to the case, its title or its status. The
 wording is the assistant's (Claude, in this session).
+
+## Note of 2026-11-25: the supply parameter computed, closing the note of 2026-11-24
+<!-- inactive-ok-file: CLAIM-tmpv6tw7 — Proposed; the computation that closes the gap, cited with its standing -->
+
+The note of 2026-11-24 recorded that a supply parameter added to
+Construction 2's production terms would test [CLAIM-604](../claims.d/CLAIM-604.md)'s signatures, and
+that it had not been computed. It has been, for the manuscript
+governance-of-becoming, Article 1's G1.2, in
+`scratch/manuscripts/governance-of-becoming/analysis/case189_supply_parameter.py`
+(output of 2026-11-25 beside it; the script first reproduces this case's
+own figures, the fold at d* = 0.6908 among them, and prints "checks pass").
+The result is [CLAIM-tmpv6tw7](../claims.d/CLAIM-tmpv6tw7.md) (Proposed, demonstrated, the assistant's):
+
+- with a supply multiplying the production terms, Construction 2 shows all
+  three of [CLAIM-604](../claims.d/CLAIM-604.md)'s signatures: an ignition threshold with the supply
+  on, a supply fold below which the connector goes out rather than
+  declines (s* = 0.649 at d = 0 when the supply also feeds the connector),
+  and an outage limit (about 1.5 time units) after which restoring the
+  supply does not relight it;
+- supplied repair matched to the same kept state shows none of them;
+- where the supply enters only the capacities' production, its fold is
+  this case's damage fold relabelled, s* = (1 + d)/(1 + d*) = 0.5914 at
+  d = 0.
+
+So the gap is closed: the signatures appear once a supply is put in, and
+the misreading the note of 2026-11-24 corrected stays corrected, since
+the case as filed has no supply. [CLAIM-606](../claims.d/CLAIM-606.md)'s limit still holds: the
+signatures do not identify upkeep drawn in through the structure's own
+state; withdrawing the supply does. [CLAIM-tmpv6tw7](../claims.d/CLAIM-tmpv6tw7.md) has been checked by its
+filer only. Bearing: no change to the case, its title or its status. The
+wording is the assistant's (Claude, in this session); adopting it is the
+owner's call.

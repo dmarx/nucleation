@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp6p3ki
 title: 'Whichever way a whole and its part depend on each other, the same magnitude of dependence can run either way, and what sorts it is who controls the terms on which it is met, exit, renegotiation and the conditions of supply, while the magnitude and the integration that produced it set only how much rides on it: with the part able to withdraw or renegotiate, the whole''s need of it becomes the part''s hold on its terms; with the terms at an agent''s discretion, the same need gives the part none, and the part''s own dependence becomes vulnerability to that agent, on whom, under a principle grounding obligations in such vulnerability, the strengthened responsibility falls'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-11-15'
@@ -27,6 +27,12 @@ history:
     Joins the work governance-of-becoming under ADR-104's rule, as
     stated or used in A49 Article 9 abstract (ADR-tmpenzcn). No change
     of title or status.
+- version: 5
+  date: '2026-11-25'
+  note: >-
+    Joins the work atlas (ADR-tmpm72rh): the hyperarticle atlas v0.3
+    states its proposition or uses it as a step, in scope 12. No other
+    change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -57,6 +63,7 @@ line:
 - dependence-and-domination
 - distributed-agency
 works:
+- atlas
 - capability-restraint-relational-freedom
 - governance-of-becoming
 rests_on:

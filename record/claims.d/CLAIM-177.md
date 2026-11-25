@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp4qgbo
 title: 'In the record''s exchanges with collaborators who keep no memory, the argument repeatedly loses identity: concepts are redefined silently, objections and readings come back as though new, and the thesis changes without anyone arguing for the change'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-27'
@@ -34,6 +34,12 @@ history:
     Joins the work luria-beyond-software (ADR-tmp85hdc): Article 2 of A45
     in the exchange "Hyper article interpretation" states its proposition
     or uses it as a step, in §3. No other change.
+- version: 6
+  date: '2026-11-25'
+  note: >-
+    Joins the work atlas (ADR-tmpm72rh): the hyperarticle atlas v0.3
+    states its proposition or uses it as a step, in scope 02. No other
+    change.
 role: thesis
 warrant: empirical
 defeated_if: >-
@@ -48,6 +54,7 @@ line:
 - nucleating-argument
 - records-of-inquiry
 works:
+- atlas
 - luria-beyond-software
 - from-obstruction-to-reorganization
 summary: >-

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpd9rrq
 title: 'Possessing an action-generating regime is not the same as its being practically effective'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-11'
@@ -16,6 +16,12 @@ history:
     self-representation", and asks whether that "is a condition of
     efficacy or only accompanies one". The question's first line is
     already this claim's, so no line is added (ADR-085). No other change.
+- version: 3
+  date: '2026-11-25'
+  note: >-
+    Joins the work atlas (ADR-tmpm72rh): the hyperarticle atlas v0.3
+    states its proposition or uses it as a step, in scope 08. No other
+    change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -28,6 +34,7 @@ tags:
 date: '2026-10-04'
 line: will-organization
 works:
+- atlas
 - organization-of-will
 grounds:
 - CASE-181

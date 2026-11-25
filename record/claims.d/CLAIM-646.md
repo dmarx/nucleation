@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp2u6bs
 title: 'Peak-capacity thresholds do not fix cumulative transition costs: two systems can have the same threshold between every pair of configurations, and so the same hierarchy of budgeted classes, while the least cumulative cost of a transition differs between them by any factor'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-23'
@@ -13,6 +13,12 @@ history:
     membership pass of 2026-11-23, under ADR-104's rule: the revised
     manuscript in scratch/manuscripts/governance-of-possibility/ states
     its proposition or uses it as a step, in §9.10. No other change.
+- version: 3
+  date: '2026-11-25'
+  note: >-
+    Joins the work atlas (ADR-tmpm72rh): the hyperarticle atlas v0.3
+    states its proposition without citing it, in scope 05. No other
+    change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -49,6 +55,7 @@ summary: >-
   Filed with its construction as a case, at the owner's instruction (U5).
   The wording is A's; adopting it is the owner's call.
 works:
+- atlas
 - governance-of-possibility
 ---
 <!-- inactive-ok-file: CASE-236 — Proposed; the construction this claim rests on, filed with it -->

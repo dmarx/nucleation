@@ -10,7 +10,7 @@ title: 'Regulation governs possibility: it shapes which actions, relationships,
   and reflexive when its own specifications stay correctable, and there is
   no choice between governed and ungoverned possibility, only between organizations
   of it'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-23'
@@ -19,6 +19,12 @@ history:
     manuscript from the exchange "Explain First Contact RL": A48 §1 and
     §13 state it: governing what can be attained, sustained and revised.
     No other change.
+- version: 3
+  date: '2026-11-25'
+  note: >-
+    Joins the work atlas (ADR-tmpm72rh): the hyperarticle atlas v0.3
+    states its proposition without citing it, in scope 14. No other
+    change.
 role: thesis
 warrant: interpretive
 defeated_if: An industrial ecosystem whose attainable futures are fixed by
@@ -48,6 +54,7 @@ summary: A34 of the exchange "Explain First Contact RL" (ChatGPT, second share
   governability). The wording is A's (ChatGPT, in the exchange of 2026-11-22);
   adopting it is the owner's call.
 works:
+- atlas
 - governance-of-possibility
 ---
 

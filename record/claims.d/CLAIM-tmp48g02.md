@@ -1,7 +1,7 @@
 ---
 status: Proposed
 title: 'Nucleation is a reference implementation of a governed research record and of views generated over it, not of hyperarticle publishing: it has no distributed editorial network and no archival or identifier guarantees beyond its repository'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-25'
@@ -16,6 +16,12 @@ history:
     Joins the work hyperarticles (ADR-tmp85hdc): Article 3 of A45 in the
     exchange "Hyper article interpretation" states its proposition without
     citing it, in §4. No other change.
+- version: 4
+  date: '2026-11-25'
+  note: >-
+    Joins the work atlas (ADR-tmpm72rh): the hyperarticle atlas v0.3
+    states its proposition without citing it, in scope 15. No other
+    change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -44,6 +50,7 @@ summary: >-
   is A's (ChatGPT's, at A45 of the exchange "Hyper article interpretation");
   adopting it is the owner's call.
 works:
+- atlas
 - hyperarticles
 ---
 

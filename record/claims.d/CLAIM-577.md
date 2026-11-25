@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmplo4ca
 title: 'A budget set each period to the peak resource spent the period before never rises, so the configurations an organization can reach shrink monotonically, and any transition whose threshold exceeds the cost of holding the current configuration is lost after one period spent holding it, unless the budget is raised from outside by at least the difference'
-version: 7
+version: 8
 history:
 - version: 2
   date: '2026-11-06'
@@ -64,6 +64,12 @@ history:
     tmpd3ckn: the entry is in that scope's core fiber in the hyperarticle
     atlas v0.3 (scratch/atlas/atlas-v0.3.md), and each atlas scope is
     documented as a line. No other change.
+- version: 8
+  date: '2026-11-25'
+  note: >-
+    Joins the work atlas (ADR-tmpm72rh): the hyperarticle atlas v0.3
+    states its proposition or uses it as a step, in scope 14. No other
+    change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -110,6 +116,7 @@ bears_on:
 - QUESTION-386
 - QUESTION-373
 works:
+- atlas
 - governance-of-possibility
 ---
 <!-- inactive-ok-file: CASE-200 CASE-203 — Proposed or Skimmed; entries of 2026-11-04 and 2026-11-05 from the readiness and constraint-architecture filings, cited as open -->

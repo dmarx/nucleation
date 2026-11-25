@@ -5,7 +5,7 @@ formerly:
 - CLAIM-tmpb7qd9
 title: Decision sufficiency, historical accountability and correctness are three
   properties of a record of inquiry, and each can hold while the other two fail
-version: 7
+version: 8
 history:
 - version: 2
   date: '2026-11-07'
@@ -44,6 +44,12 @@ history:
     Joins the work hyperarticles (ADR-tmp85hdc): Article 3 of A45 in the
     exchange "Hyper article interpretation" states its proposition or uses
     it as a step, in §4. No other change.
+- version: 8
+  date: '2026-11-25'
+  note: >-
+    Joins the work atlas (ADR-tmpm72rh): the hyperarticle atlas v0.3
+    states its proposition or uses it as a step, in scope 02, scope 15. No
+    other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -73,6 +79,7 @@ summary: >-
 bears_on:
 - QUESTION-258
 works:
+- atlas
 - hyperarticles
 - conditions-of-correction
 ---

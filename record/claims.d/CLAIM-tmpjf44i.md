@@ -1,7 +1,7 @@
 ---
 status: Proposed
 title: Scientific publishing should publish the work and not only the paper, as a hyperarticle, a living, versioned body of the work attributed at the level of each contribution, of which any article is one view, and Nucleation can be read as one
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-25'
@@ -16,6 +16,12 @@ history:
     Joins the work hyperarticles (ADR-tmp85hdc): Article 3 of A45 in the
     exchange "Hyper article interpretation" states its proposition without
     citing it, in §3. No other change.
+- version: 4
+  date: '2026-11-25'
+  note: >-
+    Joins the work atlas (ADR-tmpm72rh): the hyperarticle atlas v0.3
+    states its proposition without citing it, in scope 15. No other
+    change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -49,6 +55,7 @@ summary: >-
   (credit at the level of the contribution) and [TERM-tmpjn06u](../terms.d/TERM-tmpjn06u.md) (the word).
   Filed in the owner's voice.
 works:
+- atlas
 - hyperarticles
 ---
 

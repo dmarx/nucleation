@@ -1,0 +1,31 @@
+=== Step 0: CASE-189's own figures ===
+C1: equilibria 0.382 (saddle), 2.618 (eigenvalues -0.7454, -1.2546); d=0.4 -> 1.456; fold d=0.5
+C2: q(1/4)=0.968; d=0.4 long run (q,c)=(0.897, 2.085); no encounter -> 0; each knockout -> 0
+C2 damage fold: c*=1.1578, q*=0.8545, d*=0.6908, lambda2=0.9894
+Step 0 reproduces CASE-189.
+
+=== Arm A: supply in all three production terms ===
+s=1, d=0: kept (q,c)=(0.9092, 3.3371) eig max -0.8173; saddle (q,c)=(0.6099, 0.5212) eig +1.1519
+[1] ignition: from 0.9 x saddle -> out (max 2.0e-65); from 1.1 x saddle -> c=3.3371
+[2] d=0.0: supply fold s*=0.6491 at c*=1.2400, q*=0.7881, coupling gap there 0.9773
+[2] d=0.4: supply fold s*=0.8528 at c*=1.1841, q*=0.8326, coupling gap there 0.9859
+    slowest maintenance eigenvalue at s*+1e-4: -0.0222
+    kept c from the s=1 state: s=0.9: 2.8791, s=0.8: 2.3899, s=0.7: 1.8142, s=0.6591: 1.4655; s=0.6391: out (max 1.5e-119)
+[3] outage: 0.5 units off -> relights; 5 units off -> does not; T_lost ~ 1.513
+
+=== Arm B: supply in the capacity terms only ===
+s=1, d=0: kept (q,c)=(0.9092, 3.3371) eig max -0.8173; saddle (q,c)=(0.6099, 0.5212) eig +1.1519
+[1] ignition: from 0.9 x saddle -> out (max 2.0e-65); from 1.1 x saddle -> c=3.3371
+[2] d=0.0: supply fold s*=0.5914 at c*=1.1578, q*=0.8545, coupling gap there 0.9894
+[2] d=0.4: supply fold s*=0.8280 at c*=1.1578, q*=0.8545, coupling gap there 0.9894
+    slowest maintenance eigenvalue at s*+1e-4: -0.0203
+    kept c from the s=1 state: s=0.9: 2.9227, s=0.8: 2.4884, s=0.7: 2.0120, s=0.6014: 1.3648; s=0.5814: out (max 2.8e-118)
+[3] outage: 0.5 units off -> relights; 5 units off -> does not; T_lost ~ 1.922
+
+=== Control: supplied repair (production set by s alone) ===
+[1] from (0,0,0), a small seed and 0.9 x arm A's saddle: all reach c=3.3371; no threshold
+[2] kept c declines linearly in s: s=0.9000: 3.0034, s=0.7000: 2.3359, s=0.6391: 2.1329, s=0.1000: 0.3337
+[3] after outages of 5 and 30 units, restoring s returns it to the same state
+
+Summary: s*_A=0.6491, s*_B=0.5914 (= 1/(1+d*) = 0.5914), T_lost A=1.513, B=1.922
+checks pass

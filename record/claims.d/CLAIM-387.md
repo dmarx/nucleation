@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmphan8l
 title: 'Optimal deterministic information-bottleneck partitions at two budgets need not be nested: with X uniform on four states and binary Y with P(Y=1|x) = (0, 0, 1/8, 3/8), the optimum is {0,1,2 | 3} for 6.91 < β < 9.26 and {0,1 | 2,3} for 9.26 < β < 16.06, two partitions neither of which refines the other'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-11'
@@ -15,6 +15,12 @@ history:
     yes-or-no part split off from QUESTION-220 under ADR-049,
     which stays Open on the condition for nesting. The summary now
     names QUESTION-244. No other change.
+- version: 3
+  date: '2026-11-25'
+  note: >-
+    Joins the work atlas (ADR-tmpm72rh): the hyperarticle atlas v0.3
+    states its proposition or uses it as a step, in scope 06, section V.
+    No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -43,6 +49,8 @@ summary: >-
   encoders, where finite-β optima generally live ([THEORY-743](../theory.d/THEORY-743.md)).
 corroborates:
 - CLAIM-405
+works:
+- atlas
 ---
 # CLAIM-387: Optimal deterministic information-bottleneck partitions at two budgets need not be nested: with X uniform on four states and binary Y with P(Y=1|x) = (0, 0, 1/8, 3/8), the optimum is {0,1,2 | 3} for 6.91 < β < 9.26 and {0,1 | 2,3} for 9.26 < β < 16.06, two partitions neither of which refines the other
 

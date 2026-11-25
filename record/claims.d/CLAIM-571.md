@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpbi4ca
 title: 'For a fixed architecture and one resource that must be held at each moment, the resource threshold for reaching a target configuration need not equal the resource requirement of the target: it is the least, over admissible transition paths, of the peak requirement along the path, and it is infinite when no admissible path joins the two'
-version: 8
+version: 9
 history:
 - version: 2
   date: '2026-11-06'
@@ -71,6 +71,12 @@ history:
     Joins the work governance-of-becoming under ADR-104's rule, as
     stated or used in A49 Article 3 abstract, §6 (ADR-tmpenzcn). No
     change of title or status.
+- version: 9
+  date: '2026-11-25'
+  note: >-
+    Joins the work atlas (ADR-tmpm72rh): the hyperarticle atlas v0.3
+    states its proposition or uses it as a step, in scope 05. No other
+    change.
 grounds:
 - CASE-233
 role: thesis
@@ -109,6 +115,7 @@ complements:
 - CLAIM-575
 - CLAIM-591
 works:
+- atlas
 - governance-of-possibility
 - governance-of-becoming
 ---

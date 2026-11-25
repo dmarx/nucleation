@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp6gp8d
 title: 'When the continuities that ordinarily come bundled in a collective (legal franchise, civic role, interpersonal transmission, narrative and place) are separated, several later collectives can each be a genuine successor of the earlier one in a different respect, without any of them, or the earlier collective, having branched in numerical identity'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-27'
@@ -37,6 +37,12 @@ history:
     membership pass of 2026-11-23, under ADR-104's rule: the revised
     manuscript in scratch/manuscripts/governance-of-possibility/ states
     its proposition or uses it as a step, in §3.0. No other change.
+- version: 7
+  date: '2026-11-25'
+  note: >-
+    Joins the work atlas (ADR-tmpm72rh): the hyperarticle atlas v0.3
+    states its proposition or uses it as a step, in scope 04. No other
+    change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -69,6 +75,7 @@ summary: >-
   relations, not branching identity, and rests on one documented case
   with no data on how supporters divided.
 works:
+- atlas
 - governance-of-possibility
 ---
 <!-- inactive-ok-file: CLAIM-617 — filed from the same exchange, Proposed -->
