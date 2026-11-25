@@ -207,7 +207,7 @@ holds narrowed, and the second is still untested on a bidirectional
 system. No change to the claim's status.
 
 ## Note of 2026-11-25: Martin-Löf, read
-<!-- inactive-ok-file: THEORY-tmp62cvo NOTE-tmp60upv LIT-tmphxyqk ARG-tmpl0sxy ARG-tmpneexr ARG-tmppv3b8 CLAIM-tmp01pyt CLAIM-tmpjs6hp — Proposed or Skimmed; filed from the reading for LEAD-215 -->
+<!-- inactive-ok-file: THEORY-tmp62cvo NOTE-tmp60upv ARG-tmpl0sxy ARG-tmpneexr ARG-tmppv3b8 CLAIM-tmp01pyt CLAIM-tmpjs6hp — Proposed or Skimmed; filed from the reading for LEAD-215 -->
 
 Martin-Löf 1984, Intuitionistic Type Theory (THEORY-tmp62cvo,
 corroborates; NOTE-tmp60upv, Skimmed; LIT-tmphxyqk), the source this

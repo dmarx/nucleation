@@ -42,7 +42,7 @@ summary: >-
   only where nothing depends on them. Universes are sets of codes closed
   under the set-forming operations, never all sets.
 ---
-<!-- inactive-ok-file: CLAIM-949 CLAIM-783 CLAIM-984 TERM-151 TERM-152 TERM-153 TERM-154 THEORY-tmp62cvo CLAIM-tmp01pyt CLAIM-tmpjs6hp ARG-tmppv3b8 ARG-tmpl0sxy ARG-tmpneexr — Proposed; this reading's account and the entries it bears on -->
+<!-- inactive-ok-file: CLAIM-949 CLAIM-783 TERM-151 TERM-152 TERM-153 TERM-154 THEORY-tmp62cvo CLAIM-tmp01pyt CLAIM-tmpjs6hp ARG-tmppv3b8 ARG-tmpl0sxy ARG-tmpneexr — Proposed; this reading's account and the entries it bears on -->
 
 # NOTE-tmp60upv: Martin-Löf — Intuitionistic Type Theory
 

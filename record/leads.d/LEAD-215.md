@@ -127,7 +127,7 @@ run-time checks this paper proposes, the nearest case of the elaboration
 [CLAIM-949](../claims.d/CLAIM-949.md) names. Offered, not added to the list here.
 
 ## Note of 2026-11-25: Martin-Löf, read
-<!-- inactive-ok-file: THEORY-tmp62cvo NOTE-tmp60upv LIT-tmphxyqk ARG-tmpl0sxy ARG-tmpneexr ARG-tmppv3b8 CLAIM-tmp01pyt CLAIM-tmpjs6hp ADR-108 — Proposed or Skimmed; filed from this reading, and the decision on running notes -->
+<!-- inactive-ok-file: THEORY-tmp62cvo NOTE-tmp60upv ARG-tmpl0sxy ARG-tmpneexr ARG-tmppv3b8 CLAIM-tmp01pyt CLAIM-tmpjs6hp ADR-108 — Proposed or Skimmed; filed from this reading, and the decision on running notes -->
 
 The third item, Martin-Löf (1984), is read, Skimmed: LIT-tmphxyqk,
 NOTE-tmp60upv, THEORY-tmp62cvo, with ARG-tmpl0sxy, ARG-tmpneexr,

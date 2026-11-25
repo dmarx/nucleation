@@ -36,7 +36,7 @@ summary: >-
   are a case on the proof-relevant side. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-tmp62cvo NOTE-tmp60upv CLAIM-949 TERM-153 TERM-154 — Proposed or Skimmed; the reading this rests on and the entries it is stated against -->
+<!-- inactive-ok-file: THEORY-tmp62cvo NOTE-tmp60upv CLAIM-949 — Proposed or Skimmed; the reading this rests on and the entries it is stated against -->
 
 # CLAIM-tmp01pyt: In Martin-Löf's type theory a proof may be dropped, writing "A true" for "a ∈ A for some a", only where nothing that follows depends on it; so whether a record of findings is proof-relevant is settled by whether some later step uses a finding's evidence, and not only the fact that it passes
 

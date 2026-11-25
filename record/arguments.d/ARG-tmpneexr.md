@@ -30,7 +30,7 @@ summary: >-
   wording is the assistant's (Claude, in this session); adopting it is
   the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-tmp62cvo CLAIM-949 CLAIM-783 TERM-153 TERM-154 TERM-134 ARG-209 ARG-214 — Proposed; the reading, the claims, the terms and the earlier arguments this joins -->
+<!-- inactive-ok-file: THEORY-tmp62cvo CLAIM-949 CLAIM-783 TERM-153 TERM-154 ARG-209 ARG-214 — Proposed; the reading, the claims, the terms and the earlier arguments this joins -->
 
 # ARG-tmpneexr: Martin-Löf's set of the elements such that a property holds, whose elements pair a witness with a proof that it has the property, shows by analogy that a realization passing a specification's tests is held as an inhabitant carried with the evidence that it passes, and that the refinement a descriptor makes is inhabited with that evidence, the first reading under LEAD-215 in which the evidence is kept
 

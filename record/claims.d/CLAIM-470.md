@@ -273,7 +273,7 @@ Read on 2026-11-12 among the works of the exchange "luria experiment design"; ea
 The claim is unchanged.
 
 ## Note of 2026-11-25: Martin-Löf, read
-<!-- inactive-ok-file: THEORY-tmp62cvo NOTE-tmp60upv ARG-tmppv3b8 CLAIM-949 CLAIM-tmpjs6hp — Proposed or Skimmed; filed for LEAD-215 -->
+<!-- inactive-ok-file: THEORY-tmp62cvo NOTE-tmp60upv ARG-tmppv3b8 CLAIM-949 — Proposed or Skimmed; filed for LEAD-215 -->
 
 A qualification of the formal reading of this claim's last clause (no
 edge), from Martin-Löf's universes (THEORY-tmp62cvo; NOTE-tmp60upv;
