@@ -3,7 +3,14 @@ number: 1025
 status: Active
 formerly:
 - CLAIM-tmp4u0mj
-title: "The questions an organization can both pose and answer by a deadline lie between an inner bound, those whose posing and answering fit the horizon and budget run one after the other, and an outer bound, those each of whose processes fits alone, and where between them depends on precedence and sharing that neither frontier records, so two organizations with the same query and answer frontiers can differ in what they can jointly do"
+title: 'Joint frontier lies between two bounds'
+statement: >-
+  The questions an organization can both pose and answer by a deadline lie
+  between an inner bound, those whose posing and answering fit the horizon
+  and budget run one after the other, and an outer bound, those each of
+  whose processes fits alone, and where between them depends on precedence
+  and sharing that neither frontier records, so two organizations with the
+  same query and answer frontiers can differ in what they can jointly do
 version: 2
 role: thesis
 warrant: demonstrated
@@ -58,7 +65,7 @@ history:
 ---
 <!-- inactive-ok-file: CLAIM-1004 TERM-167 TERM-159 — Proposed; the construction this rests on, A's claim, the owner's conjecture, the viability kernel, and the joint relation and terms filed beside it -->
 
-# CLAIM-1025: The questions an organization can both pose and answer by a deadline lie between an inner bound, those whose posing and answering fit the horizon and budget run one after the other, and an outer bound, those each of whose processes fits alone, and where between them depends on precedence and sharing that neither frontier records, so two organizations with the same query and answer frontiers can differ in what they can jointly do
+# CLAIM-1025: Joint frontier lies between two bounds
 
 ## The gap
 

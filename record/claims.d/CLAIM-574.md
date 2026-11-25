@@ -3,7 +3,15 @@ number: 574
 status: Active
 formerly:
 - CLAIM-tmpg7w69
-title: 'Distinctions drawn by restricted Yoneda profiles only grow as nested probe families grow: a natural isomorphism of profiles on a probe subcategory restricts to one on every subcategory of it, so objects equivalent under a larger family are equivalent under each smaller one and objects told apart at a lower budget stay apart at every higher one; an equivalence a richer regime breaks was relative to its regime, not false; and the monotonicity needs an every-probe comparison, which an averaged distortion is not'
+title: 'Yoneda distinctions grow with the probes'
+statement: >-
+  Distinctions drawn by restricted Yoneda profiles only grow as nested probe
+  families grow: a natural isomorphism of profiles on a probe subcategory
+  restricts to one on every subcategory of it, so objects equivalent under a
+  larger family are equivalent under each smaller one and objects told apart
+  at a lower budget stay apart at every higher one; an equivalence a richer
+  regime breaks was relative to its regime, not false; and the monotonicity
+  needs an every-probe comparison, which an averaged distortion is not
 version: 8
 history:
 - version: 2
@@ -131,7 +139,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-1044 CLAIM-1175 ARG-239 — new; filed 2026-11-22 from the exchange "Explain First Contact RL", cited in the note of that date -->
 
-# CLAIM-574: Distinctions drawn by restricted Yoneda profiles only grow as nested probe families grow: a natural isomorphism of profiles on a probe subcategory restricts to one on every subcategory of it, so objects equivalent under a larger family are equivalent under each smaller one and objects told apart at a lower budget stay apart at every higher one; an equivalence a richer regime breaks was relative to its regime, not false; and the monotonicity needs an every-probe comparison, which an averaged distortion is not
+# CLAIM-574: Yoneda distinctions grow with the probes
 
 ## The claim
 

@@ -3,7 +3,10 @@ number: 40
 status: Active
 formerly:
 - CLAIM-tmpbr0mt
-title: 'Symmetry is a kind of invariance, and Noether''s theorem is the point: invariance under transformation yields conservation'
+title: 'Symmetry is invariance; Noether is the point'
+statement: >-
+  Symmetry is a kind of invariance, and Noether's theorem is the point:
+  invariance under transformation yields conservation
 version: 1
 role: counter
 warrant: demonstrated
@@ -23,7 +26,7 @@ summary: >-
   half was limited by the assistant in the same reply.
 ---
 
-# CLAIM-040: Symmetry is a kind of invariance, and Noether's theorem is the point: invariance under transformation yields conservation
+# CLAIM-040: Symmetry is invariance; Noether is the point
 
 ## The claim
 

@@ -3,7 +3,11 @@ number: 247
 status: Superseded
 formerly:
 - CLAIM-tmpsxsr8
-title: 'The bearer of communicative identity reversed, from an operational object defined on observed responses to a kind that can outrun observation, and no turn argues the change; both stances stand in the record'
+title: 'Bearer of identity reversed, unargued'
+statement: >-
+  The bearer of communicative identity reversed, from an operational object
+  defined on observed responses to a kind that can outrun observation, and
+  no turn argues the change; both stances stand in the record
 version: 3
 history:
 - version: 2
@@ -53,7 +57,7 @@ complements:
 <!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; the manuscript's thesis, cited as it stood -->
 <!-- inactive-ok-file: ARG-029 — Proposed; the argument this claim moved to -->
 
-# CLAIM-247: The bearer of communicative identity reversed, from an operational object defined on observed responses to a kind that can outrun observation, and no turn argues the change; both stances stand in the record
+# CLAIM-247: Bearer of identity reversed, unargued
 
 ## The objection
 

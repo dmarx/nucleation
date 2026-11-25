@@ -3,7 +3,15 @@ number: 650
 status: Proposed
 formerly:
 - CLAIM-tmpqboxc
-title: "Grice's factivity test shows that a designed alarm's content can be false: its sounding means, factively, that the detector crossed its threshold, and carries \"fire\" only as a non-factive content, so a false alarm's error lies there; what makes \"fire\" the content it is supposed to carry is a separate question, answered for this designed alarm by its designer's intention and left open, between selection history and organizational maintenance, for other systems"
+title: 'A designed alarm''s content can be false'
+statement: >-
+  Grice's factivity test shows that a designed alarm's content can be false:
+  its sounding means, factively, that the detector crossed its threshold,
+  and carries "fire" only as a non-factive content, so a false alarm's error
+  lies there; what makes "fire" the content it is supposed to carry is a
+  separate question, answered for this designed alarm by its designer's
+  intention and left open, between selection history and organizational
+  maintenance, for other systems
 version: 2
 history:
 - version: 2
@@ -74,7 +82,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-243 CLAIM-648 ARG-082 ARG-081 CLAIM-649 — filed in this pull request, Proposed or Rejected -->
 <!-- inactive-ok-file: THEORY-444 THEORY-220 — Proposed; readings cited with their standing -->
 
-# CLAIM-650: Grice's factivity test shows that a designed alarm's content can be false: its sounding means, factively, that the detector crossed its threshold, and carries "fire" only as a non-factive content, so a false alarm's error lies there; what makes "fire" the content it is supposed to carry is a separate question, answered for this designed alarm by its designer's intention and left open, between selection history and organizational maintenance, for other systems
+# CLAIM-650: A designed alarm's content can be false
 
 ## Two questions
 

@@ -3,7 +3,13 @@ number: 1163
 status: Active
 formerly:
 - CLAIM-tmprbieu
-title: 'Linear tests of a representation see a distribution only through its mean representation: their largest disagreement is the dual norm of the difference of means, so two distributions with one mean, as a point mass at 0 and an even split between −1 and 1, are at distance zero under every linear test and are told apart by a single nonlinear one'
+title: 'Linear tests see only the mean representation'
+statement: >-
+  Linear tests of a representation see a distribution only through its mean
+  representation: their largest disagreement is the dual norm of the
+  difference of means, so two distributions with one mean, as a point mass
+  at 0 and an even split between −1 and 1, are at distance zero under every
+  linear test and are told apart by a single nonlinear one
 version: 2
 history:
 - version: 1
@@ -55,7 +61,7 @@ summary: >-
   in the exchange of 2026-11-22); adopting it is the owner's call.
 ---
 
-# CLAIM-1163: Linear tests of a representation see a distribution only through its mean representation: their largest disagreement is the dual norm of the difference of means, so two distributions with one mean, as a point mass at 0 and an even split between −1 and 1, are at distance zero under every linear test and are told apart by a single nonlinear one
+# CLAIM-1163: Linear tests see only the mean representation
 
 ## The claim
 

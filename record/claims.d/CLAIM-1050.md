@@ -3,7 +3,14 @@ number: 1050
 status: Proposed
 formerly:
 - CLAIM-tmp8nzk0
-title: 'In the anchored model of a response and its co-adapting standard, after a transient the gap between them is a fixed small fraction of the response''s distance from the independent target, about the anchoring rate over the sum of the adaptation rates, and that distance closes only at about the response''s rate times that fraction, so a weakly anchored standard shows near-perfect measured compliance long before the response is adequate'
+title: 'Weak anchoring shows compliance before adequacy'
+statement: >-
+  In the anchored model of a response and its co-adapting standard, after a
+  transient the gap between them is a fixed small fraction of the response's
+  distance from the independent target, about the anchoring rate over the
+  sum of the adaptation rates, and that distance closes only at about the
+  response's rate times that fraction, so a weakly anchored standard shows
+  near-perfect measured compliance long before the response is adequate
 version: 1
 role: thesis
 warrant: demonstrated
@@ -37,7 +44,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-1087 — Proposed; the model this extends, and the claim on a wrong anchor -->
 
-# CLAIM-1050: In the anchored model of a response and its co-adapting standard, after a transient the gap between them is a fixed small fraction of the response's distance from the independent target, about the anchoring rate over the sum of the adaptation rates, and that distance closes only at about the response's rate times that fraction, so a weakly anchored standard shows near-perfect measured compliance long before the response is adequate
+# CLAIM-1050: Weak anchoring shows compliance before adequacy
 
 ## The gap it fills
 

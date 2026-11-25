@@ -3,7 +3,12 @@ number: 364
 status: Proposed
 formerly:
 - CLAIM-tmptg7io
-title: 'Processes conditioned never to object coordinate without override at the same behaviour and supervisory cost as processes that negotiate, so the two part only under intervention, when a constituent dissents, or in their history'
+title: 'Silenced and negotiating processes look alike'
+statement: >-
+  Processes conditioned never to object coordinate without override at the
+  same behaviour and supervisory cost as processes that negotiate, so the
+  two part only under intervention, when a constituent dissents, or in their
+  history
 version: 6
 history:
 - version: 2
@@ -86,7 +91,7 @@ complements:
 <!-- inactive-ok-file: CLAIM-016 — Deferred; the set-aside claim whose manipulation defeater this repeats -->
 <!-- inactive-ok-file: ARG-030 — Proposed; the argument this claim's support verdict moved to, which it undercuts -->
 
-# CLAIM-364: Processes conditioned never to object coordinate without override at the same behaviour and supervisory cost as processes that negotiate, so the two part only under intervention, when a constituent dissents, or in their history
+# CLAIM-364: Silenced and negotiating processes look alike
 
 ## The objection
 

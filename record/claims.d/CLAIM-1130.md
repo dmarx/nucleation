@@ -3,7 +3,14 @@ number: 1130
 status: Proposed
 formerly:
 - CLAIM-tmpl9022
-title: 'When each period of learning multiplies what every later period can earn by more than discounting shrinks it, no learning policy is optimal: investing one period more always beats stopping, and never stopping earns nothing; so a scalar optimum of learning needs the horizon or the discount to bound the growth of learnability, and declaring a task distribution, costs, a horizon and a valuation does not by itself supply one'
+title: 'Unbounded learnability leaves no optimal policy'
+statement: >-
+  When each period of learning multiplies what every later period can earn
+  by more than discounting shrinks it, no learning policy is optimal:
+  investing one period more always beats stopping, and never stopping earns
+  nothing; so a scalar optimum of learning needs the horizon or the discount
+  to bound the growth of learnability, and declaring a task distribution,
+  costs, a horizon and a valuation does not by itself supply one
 version: 1
 role: thesis
 warrant: demonstrated
@@ -44,7 +51,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-754 CLAIM-756 CLAIM-758 — Proposed; cited by the lead run of 2026-11-23 -->
 <!-- inactive-ok-file: CLAIM-1197 ARG-227 — new; filed by the lead run of 2026-11-23 -->
 
-# CLAIM-1130: When each period of learning multiplies what every later period can earn by more than discounting shrinks it, no learning policy is optimal: investing one period more always beats stopping, and never stopping earns nothing; so a scalar optimum of learning needs the horizon or the discount to bound the growth of learnability, and declaring a task distribution, costs, a horizon and a valuation does not by itself supply one
+# CLAIM-1130: Unbounded learnability leaves no optimal policy
 
 ## The construction
 

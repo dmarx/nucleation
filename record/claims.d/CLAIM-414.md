@@ -3,7 +3,14 @@ number: 414
 status: Active
 formerly:
 - CLAIM-tmpn2xr4
-title: 'Matched ordinary trajectories can conceal differences in an interpretation''s efficacy, in the allocation of that efficacy, and in the maintenance of its enabling constraints: in two finite constructions, systems that agree under ordinary operation differ in each, and a specified intervention exposes the difference that passive observation of the matched trajectories does not'
+title: 'Matched trajectories can hide efficacy'
+statement: >-
+  Matched ordinary trajectories can conceal differences in an
+  interpretation's efficacy, in the allocation of that efficacy, and in the
+  maintenance of its enabling constraints: in two finite constructions,
+  systems that agree under ordinary operation differ in each, and a
+  specified intervention exposes the difference that passive observation of
+  the matched trajectories does not
 version: 5
 history:
 - version: 2
@@ -84,7 +91,7 @@ works:
 <!-- inactive-ok-file: SYNTHESIS-023 — Proposed; cited in the note of 2026-11-13 with its standing -->
 <!-- inactive-ok-file: CASE-210 — Proposed or new; A's proposals of 2026-11-04 on emergency readiness, cited as open -->
 
-# CLAIM-414: Matched ordinary trajectories can conceal differences in an interpretation's efficacy, in the allocation of that efficacy, and in the maintenance of its enabling constraints: in two finite constructions, systems that agree under ordinary operation differ in each, and a specified intervention exposes the difference that passive observation of the matched trajectories does not
+# CLAIM-414: Matched trajectories can hide efficacy
 
 ## The claim
 

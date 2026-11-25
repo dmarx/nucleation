@@ -3,7 +3,15 @@ number: 925
 status: Proposed
 formerly:
 - CLAIM-tmplsu2m
-title: 'In a stable linear Gaussian VAR(1) with a linear coarse variable of any dimension m observed without noise, the Kalman filter of the eliminated variables is an exact Markovian augmentation with at most n − m memory coordinates, and keeping only the last p values of the coarse variable costs an excess error bounded by L A_clᵖ(Π − P∞)A_clᵖᵀLᵀ; the rate is the filter''s closed loop, which the eliminated dynamics bound when one variable is eliminated and not in general'
+title: 'Kalman filter gives exact Markov augmentation'
+statement: >-
+  In a stable linear Gaussian VAR(1) with a linear coarse variable of any
+  dimension m observed without noise, the Kalman filter of the eliminated
+  variables is an exact Markovian augmentation with at most n − m memory
+  coordinates, and keeping only the last p values of the coarse variable
+  costs an excess error bounded by L A_clᵖ(Π − P∞)A_clᵖᵀLᵀ; the rate is the
+  filter's closed loop, which the eliminated dynamics bound when one
+  variable is eliminated and not in general
 version: 1
 role: thesis
 warrant: demonstrated
@@ -42,7 +50,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-257 — Proposed; the account whose criterion the transfer-entropy result bears on, nothing here rests on it -->
 <!-- inactive-ok-file: CASE-349 — new; the numerical study filed with this claim -->
 
-# CLAIM-925: In a stable linear Gaussian VAR(1) with a linear coarse variable of any dimension m observed without noise, the Kalman filter of the eliminated variables is an exact Markovian augmentation with at most n − m memory coordinates, and keeping only the last p values of the coarse variable costs an excess error bounded by L A_clᵖ(Π − P∞)A_clᵖᵀLᵀ; the rate is the filter's closed loop, which the eliminated dynamics bound when one variable is eliminated and not in general
+# CLAIM-925: Kalman filter gives exact Markov augmentation
 
 ## The claim
 

@@ -3,7 +3,15 @@ number: 942
 status: Proposed
 formerly:
 - CLAIM-tmp5rv9x
-title: 'Inquiry and engineering differ by the direction of fit of their predicates, not in kind: inquiry adds predicates its object already passes and engineering imposes predicates its object must be made to pass, so the one difference the record draws between inquiry and specification, that inquiry can revise what an answer could be, recurs inside engineering whenever building shows an imposed requirement cannot be met and it is rewritten to describe what can'
+title: 'Inquiry and engineering differ by direction of fit'
+statement: >-
+  Inquiry and engineering differ by the direction of fit of their
+  predicates, not in kind: inquiry adds predicates its object already passes
+  and engineering imposes predicates its object must be made to pass, so the
+  one difference the record draws between inquiry and specification, that
+  inquiry can revise what an answer could be, recurs inside engineering
+  whenever building shows an imposed requirement cannot be met and it is
+  rewritten to describe what can
 version: 1
 role: thesis
 warrant: interpretive
@@ -43,7 +51,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-tmptsz1u — Proposed; the reading of Dunfield and Krishnaswami (2021) and the entries filed from it, or the entries it bears on -->
 <!-- inactive-ok-file: CLAIM-784 CLAIM-785 CLAIM-943 SYNTHESIS-114 — Proposed; the claims, reading and account this joins, and the claim filed with it -->
 
-# CLAIM-942: Inquiry and engineering differ by the direction of fit of their predicates, not in kind: inquiry adds predicates its object already passes and engineering imposes predicates its object must be made to pass, so the one difference the record draws between inquiry and specification, that inquiry can revise what an answer could be, recurs inside engineering whenever building shows an imposed requirement cannot be met and it is rewritten to describe what can
+# CLAIM-942: Inquiry and engineering differ by direction of fit
 
 ## The claim
 

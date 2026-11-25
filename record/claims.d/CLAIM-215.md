@@ -3,7 +3,12 @@ number: 215
 status: Proposed
 formerly:
 - CLAIM-tmpa9usi
-title: 'Communicative kinds are repeatable organizations of relations among participants, norms, commitments and possible consequences, which concrete events realize without being one another, and which kind an event realizes is not exhausted by the intrinsic properties of the expression token'
+title: 'Kinds are repeatable relational organizations'
+statement: >-
+  Communicative kinds are repeatable organizations of relations among
+  participants, norms, commitments and possible consequences, which concrete
+  events realize without being one another, and which kind an event realizes
+  is not exhausted by the intrinsic properties of the expression token
 version: 2
 history:
 - version: 2
@@ -49,7 +54,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-139 — Superseded by CLAIM-204; cited as it stood, not as what the record now holds -->
 <!-- inactive-ok-file: CLAIM-217 CLAIM-221 — Proposed; the record's reply on competent uptake and the open objection from intention-based accounts, both cited as open -->
 
-# CLAIM-215: Communicative kinds are repeatable organizations of relations among participants, norms, commitments and possible consequences, which concrete events realize without being one another, and which kind an event realizes is not exhausted by the intrinsic properties of the expression token
+# CLAIM-215: Kinds are repeatable relational organizations
 
 ## The claim
 

@@ -3,7 +3,14 @@ number: 1085
 status: Proposed
 formerly:
 - CLAIM-tmpeno57
-title: 'In a kinetic constraint-growth system unlike self-folding sheets, adding a seed already in its target state to a seed set can roughly halve the chance of exact assembly although the larger set is still compatible with the target, and coverage by the seeds'' islands predicts that chance better than the number of seeds, so both of the self-folding sheets'' findings on where intervention sits reappear out of sample'
+title: 'Seed findings reappear out of sample'
+statement: >-
+  In a kinetic constraint-growth system unlike self-folding sheets, adding a
+  seed already in its target state to a seed set can roughly halve the
+  chance of exact assembly although the larger set is still compatible with
+  the target, and coverage by the seeds' islands predicts that chance better
+  than the number of seeds, so both of the self-folding sheets' findings on
+  where intervention sits reappear out of sample
 version: 1
 history:
 - version: 1
@@ -55,7 +62,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-389 — new; the executed study this claim is grounded in, filed by the lead run of 2026-11-23 -->
 <!-- inactive-ok-file: CASE-374 — Proposed; the earlier assembly study, cited for contrast -->
 
-# CLAIM-1085: In a kinetic constraint-growth system unlike self-folding sheets, adding a seed already in its target state to a seed set can roughly halve the chance of exact assembly although the larger set is still compatible with the target, and coverage by the seeds' islands predicts that chance better than the number of seeds, so both of the self-folding sheets' findings on where intervention sits reappear out of sample
+# CLAIM-1085: Seed findings reappear out of sample
 
 ## The claim
 

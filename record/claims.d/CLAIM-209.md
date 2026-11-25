@@ -3,7 +3,12 @@ number: 209
 status: Proposed
 formerly:
 - CLAIM-tmp7gigk
-title: 'Probes and statistical models recover only the distinctions identifiable from the relational evidence they are given, and a signature sufficient for a stated family of communicative decisions outside the observed probes can be identified when the full latent factorization is not'
+title: 'Signature identifiable when factors are not'
+statement: >-
+  Probes and statistical models recover only the distinctions identifiable
+  from the relational evidence they are given, and a signature sufficient
+  for a stated family of communicative decisions outside the observed probes
+  can be identified when the full latent factorization is not
 version: 2
 history:
 - version: 2
@@ -54,7 +59,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-193 THEORY-005 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 <!-- inactive-ok-file: CASE-379 CLAIM-976 CLAIM-977 — Proposed; the study and findings of 2026-11-22, cited in the note of that date -->
 
-# CLAIM-209: Probes and statistical models recover only the distinctions identifiable from the relational evidence they are given, and a signature sufficient for a stated family of communicative decisions outside the observed probes can be identified when the full latent factorization is not
+# CLAIM-209: Signature identifiable when factors are not
 
 ## The claim
 

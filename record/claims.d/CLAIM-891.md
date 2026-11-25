@@ -3,7 +3,17 @@ number: 891
 status: Proposed
 formerly:
 - CLAIM-tmpeklli
-title: 'One cost model prices a crew''s speed bugs, a filed argument and a LEGO bin with the same terms, once work is priced by the moment it is done and checked against the budget for each demand, not only summed; what carries each differs: the bugs are paid by moving work to a quieter moment or by fitting a busy one, more than by reuse, the filed argument by how forecastable its reuse is, how often it goes stale and what recognizing it costs in a growing store, and the bin by the search it replaces against a deadline, at a construction made nearly free by doing it when the brick is found'
+title: 'One cost model prices bugs, arguments and bins'
+statement: >-
+  One cost model prices a crew's speed bugs, a filed argument and a LEGO bin
+  with the same terms, once work is priced by the moment it is done and
+  checked against the budget for each demand, not only summed; what carries
+  each differs: the bugs are paid by moving work to a quieter moment or by
+  fitting a busy one, more than by reuse, the filed argument by how
+  forecastable its reuse is, how often it goes stale and what recognizing it
+  costs in a growing store, and the bin by the search it replaces against a
+  deadline, at a construction made nearly free by doing it when the brick is
+  found
 version: 1
 history:
 - version: 1
@@ -68,7 +78,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-351 THEORY-343 CLAIM-314 CLAIM-295 — Proposed; cited as readings and open claims, nothing here rests on their being settled -->
 
-# CLAIM-891: One cost model prices a crew's speed bugs, a filed argument and a LEGO bin with the same terms, once work is priced by the moment it is done and checked against the budget for each demand, not only summed; what carries each differs: the bugs are paid by moving work to a quieter moment or by fitting a busy one, more than by reuse, the filed argument by how forecastable its reuse is, how often it goes stale and what recognizing it costs in a growing store, and the bin by the search it replaces against a deadline, at a construction made nearly free by doing it when the brick is found
+# CLAIM-891: One cost model prices bugs, arguments and bins
 
 ## The claim
 

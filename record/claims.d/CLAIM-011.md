@@ -3,7 +3,12 @@ number: 11
 status: Active
 formerly:
 - CLAIM-tmp2rve9
-title: 'Intertwining with an uninformative correspondence is vacuous or lossy, so the source–target correspondence must be anchored to independently measured distinctions and evaluated on tasks other than those it was estimated on'
+title: 'Correspondence must be independently anchored'
+statement: >-
+  Intertwining with an uninformative correspondence is vacuous or lossy, so
+  the source–target correspondence must be anchored to independently
+  measured distinctions and evaluated on tasks other than those it was
+  estimated on
 version: 1
 role: granted
 warrant: demonstrated
@@ -27,7 +32,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-117 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-138 — Proposed; open, and cited as the later uses of this claim, not as settled -->
 
-# CLAIM-011: Intertwining with an uninformative correspondence is vacuous or lossy, so the source–target correspondence must be anchored to independently measured distinctions and evaluated on tasks other than those it was estimated on
+# CLAIM-011: Correspondence must be independently anchored
 
 ## The claim
 

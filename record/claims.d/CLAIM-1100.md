@@ -3,7 +3,13 @@ number: 1100
 status: Proposed
 formerly:
 - CLAIM-tmpgfunb
-title: 'Whether information a learning system stores is knowledge depends on whether the procedures the declared system may use, within a declared budget, bring it to bear as a premise, not on whether it can be decoded: knowing is relative to the declared system and budget, and decodability by an outside probe makes information stored, not known'
+title: 'Decodable is stored, not known'
+statement: >-
+  Whether information a learning system stores is knowledge depends on
+  whether the procedures the declared system may use, within a declared
+  budget, bring it to bear as a premise, not on whether it can be decoded:
+  knowing is relative to the declared system and budget, and decodability by
+  an outside probe makes information stored, not known
 version: 2
 history:
 - version: 2
@@ -52,7 +58,7 @@ works:
 <!-- inactive-ok-file: CLAIM-697 TERM-079 CASE-371 — Proposed; cited as the premise, the criterion applied and a related case -->
 <!-- inactive-ok-file: CASE-408 CASE-413 CASE-414 — Proposed; filed by the lead run of 2026-11-23 -->
 
-# CLAIM-1100: Whether information a learning system stores is knowledge depends on whether the procedures the declared system may use, within a declared budget, bring it to bear as a premise, not on whether it can be decoded: knowing is relative to the declared system and budget, and decodability by an outside probe makes information stored, not known
+# CLAIM-1100: Decodable is stored, not known
 
 ## The claim
 

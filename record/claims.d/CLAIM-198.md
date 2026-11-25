@@ -3,7 +3,11 @@ number: 198
 status: Proposed
 formerly:
 - CLAIM-tmpr8n6u
-title: 'Preference reversal is not yet disunity: interests that govern a choice at disjoint times glue, and a self is divided over a choice only on an overlap, which the agent''s prediction of its own later valuation creates'
+title: 'Preference reversal is not yet disunity'
+statement: >-
+  Preference reversal is not yet disunity: interests that govern a choice at
+  disjoint times glue, and a self is divided over a choice only on an
+  overlap, which the agent's prediction of its own later valuation creates
 version: 1
 history:
 - version: 1
@@ -59,7 +63,7 @@ bears_on:
 <!-- inactive-ok-file: CLAIM-169 THEORY-067 — Proposed; the account of interests this claim builds on, with its standing as it is -->
 <!-- inactive-ok-file: CLAIM-163 — Proposed; the open objection this claim answers in part -->
 
-# CLAIM-198: Preference reversal is not yet disunity: interests that govern a choice at disjoint times glue, and a self is divided over a choice only on an overlap, which the agent's prediction of its own later valuation creates
+# CLAIM-198: Preference reversal is not yet disunity
 
 ## The claim
 

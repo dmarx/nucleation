@@ -1,6 +1,11 @@
 ---
 status: Proposed
-title: 'A meme can act above the content of beliefs, on how interpretations are evaluated or on how the evaluating organization is revised, so that what it changes is the conditions under which later memes are assessed and inadequacies become recognizable'
+title: 'Memes can act on how memes are assessed'
+statement: >-
+  A meme can act above the content of beliefs, on how interpretations are
+  evaluated or on how the evaluating organization is revised, so that what
+  it changes is the conditions under which later memes are assessed and
+  inadequacies become recognizable
 version: 1
 role: thesis
 warrant: interpretive
@@ -44,7 +49,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-614 CLAIM-619 CLAIM-624 CLAIM-627 CLAIM-1155 TERM-098 — Proposed, Deferred or Rejected; entries filed from the exchange 'Memes, Contracts, and Systemic Normativity' and held entries it is read against, cited whatever their standing -->
 
-# CLAIM-tmp158r8: A meme can act above the content of beliefs, on how interpretations are evaluated or on how the evaluating organization is revised, so that what it changes is the conditions under which later memes are assessed and inadequacies become recognizable
+# CLAIM-tmp158r8: Memes can act on how memes are assessed
 
 ## The claim
 

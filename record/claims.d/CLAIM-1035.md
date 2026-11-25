@@ -3,7 +3,15 @@ number: 1035
 status: Proposed
 formerly:
 - CLAIM-tmp6ksyy
-title: 'A self-like organization may be realized over a continuous measure of dispositions, with linear representations giving locally accessible tests, lattices organizing the implications and overlaps among those tests, and causal dynamics deciding which of the resulting distinctions are maintained and consequential, so that discrete perspectives are a property of the observational and organizational regime rather than a primitive of the dispositional space'
+title: 'Discrete perspectives are not primitive'
+statement: >-
+  A self-like organization may be realized over a continuous measure of
+  dispositions, with linear representations giving locally accessible tests,
+  lattices organizing the implications and overlaps among those tests, and
+  causal dynamics deciding which of the resulting distinctions are
+  maintained and consequential, so that discrete perspectives are a property
+  of the observational and organizational regime rather than a primitive of
+  the dispositional space
 version: 1
 history:
 - version: 1
@@ -59,7 +67,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-1055 CASE-344 LIT-267 — Proposed; the claims this rests on, filed with it on 2026-11-22, the PMI result it cites, its corpus test and the paper it reads -->
 
-# CLAIM-1035: A self-like organization may be realized over a continuous measure of dispositions, with linear representations giving locally accessible tests, lattices organizing the implications and overlaps among those tests, and causal dynamics deciding which of the resulting distinctions are maintained and consequential, so that discrete perspectives are a property of the observational and organizational regime rather than a primitive of the dispositional space
+# CLAIM-1035: Discrete perspectives are not primitive
 
 ## The claim
 

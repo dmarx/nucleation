@@ -1,6 +1,10 @@
 ---
 status: Proposed
-title: 'A misunderstanding is productive when identifying and clarifying the ambiguity it exposes is the detection of, and a reorganization around, a novel distinction that has become consequential'
+title: 'Productive misunderstanding detects a distinction'
+statement: >-
+  A misunderstanding is productive when identifying and clarifying the
+  ambiguity it exposes is the detection of, and a reorganization around, a
+  novel distinction that has become consequential
 version: 1
 role: thesis
 warrant: interpretive
@@ -37,7 +41,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-tmpm76n5 CLAIM-tmpgx2ej CLAIM-tmp80ny9 CLAIM-tmpro73c — Proposed or new; filed with this entry or in the same pull request -->
 
-# CLAIM-tmpupcws: A misunderstanding is productive when identifying and clarifying the ambiguity it exposes is the detection of, and a reorganization around, a novel distinction that has become consequential
+# CLAIM-tmpupcws: Productive misunderstanding detects a distinction
 
 ## The claim
 

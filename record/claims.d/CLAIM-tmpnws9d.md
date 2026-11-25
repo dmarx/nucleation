@@ -1,6 +1,13 @@
 ---
 status: Active
-title: 'In the salience–realization model of hyperstition, coupling alone never lets a realization outlast its representation: once circulation stops the realization decays at its own rate whatever the gains were; it persists only if the realized organization has a self-maintaining loop of its own strong enough to have a second stable state, and the realization crossed that loop''s threshold while the representation still circulated'
+title: 'Coupling alone cannot outlast representation'
+statement: >-
+  In the salience–realization model of hyperstition, coupling alone never
+  lets a realization outlast its representation: once circulation stops the
+  realization decays at its own rate whatever the gains were; it persists
+  only if the realized organization has a self-maintaining loop of its own
+  strong enough to have a second stable state, and the realization crossed
+  that loop's threshold while the representation still circulated
 version: 2
 history:
 - version: 2
@@ -43,7 +50,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-tmpyp5bu — Proposed; A's claims filed with this fill from the exchange of 2026-11-24 -->
 
-# CLAIM-tmpnws9d: In the salience–realization model of hyperstition, coupling alone never lets a realization outlast its representation: once circulation stops the realization decays at its own rate whatever the gains were; it persists only if the realized organization has a self-maintaining loop of its own strong enough to have a second stable state, and the realization crossed that loop's threshold while the representation still circulated
+# CLAIM-tmpnws9d: Coupling alone cannot outlast representation
 
 ## The gap
 

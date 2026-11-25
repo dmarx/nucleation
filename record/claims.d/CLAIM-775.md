@@ -3,7 +3,16 @@ number: 775
 status: Proposed
 formerly:
 - CLAIM-tmpqwoxz
-title: 'A parameterization of a network allocates rates among its modules: it fixes the exponent with which each module''s effect on its output changes per step as a power of width or depth, so the kernel regime is the case where the hidden body is slower than the readout by a factor growing with width, its features and kernel fixed and acting as a constraint on the fitting, μP is the case where no part, readout included, is slower by such a factor, and the modular norm sets the ratios among modules by hand, with width exponents fixed by each module''s norm'
+title: 'Parameterization allocates rates among modules'
+statement: >-
+  A parameterization of a network allocates rates among its modules: it
+  fixes the exponent with which each module's effect on its output changes
+  per step as a power of width or depth, so the kernel regime is the case
+  where the hidden body is slower than the readout by a factor growing with
+  width, its features and kernel fixed and acting as a constraint on the
+  fitting, μP is the case where no part, readout included, is slower by such
+  a factor, and the modular norm sets the ratios among modules by hand, with
+  width exponents fixed by each module's norm
 version: 2
 history:
 - version: 2
@@ -71,7 +80,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-2133 THEORY-2135 THEORY-2138 THEORY-2134 THEORY-2139 THEORY-212 — Proposed; readings this claim now rests on -->
 <!-- inactive-ok-file: CLAIM-478 CLAIM-781 THEORY-813 THEORY-2077 CLAIM-774 CLAIM-780 — Proposed or Deferred; the claims this applies and the works it rests on until read -->
 
-# CLAIM-775: A parameterization of a network allocates rates among its modules: it fixes the exponent with which each module's effect on its output changes per step as a power of width or depth, so the kernel regime is the case where the hidden body is slower than the readout by a factor growing with width, its features and kernel fixed and acting as a constraint on the fitting, μP is the case where no part, readout included, is slower by such a factor, and the modular norm sets the ratios among modules by hand, with width exponents fixed by each module's norm
+# CLAIM-775: Parameterization allocates rates among modules
 
 ## The claim
 

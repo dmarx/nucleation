@@ -3,7 +3,13 @@ number: 201
 status: Proposed
 formerly:
 - CLAIM-tmp1rlu5
-title: 'Over a fixed scenario, a change of global compatibility at small local distortion needs contextual judgements, which the behavioural data read so far lack; the form of the headline those data leave open is a change of cover, in which a rendering makes some of the source''s questions undecidable for its readers and decides others the source left open'
+title: 'Data leave open only a change of cover'
+statement: >-
+  Over a fixed scenario, a change of global compatibility at small local
+  distortion needs contextual judgements, which the behavioural data read so
+  far lack; the form of the headline those data leave open is a change of
+  cover, in which a rendering makes some of the source's questions
+  undecidable for its readers and decides others the source left open
 version: 2
 history:
 - version: 2
@@ -60,7 +66,7 @@ bears_on:
 <!-- ref::uses-file: TERM-043 — applied unnamed: the weighted observational distortion D_obs computed in the example is the observational component of the profile this term defines -->
 <!-- inactive-ok-file: CLAIM-105 — Proposed; the headline this claim narrows, open -->
 
-# CLAIM-201: Over a fixed scenario, a change of global compatibility at small local distortion needs contextual judgements, which the behavioural data read so far lack; the form of the headline those data leave open is a change of cover, in which a rendering makes some of the source's questions undecidable for its readers and decides others the source left open
+# CLAIM-201: Data leave open only a change of cover
 
 ## The claim
 

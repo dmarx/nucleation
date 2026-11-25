@@ -3,7 +3,18 @@ number: 868
 status: Proposed
 formerly:
 - CLAIM-tmpz9dqf
-title: 'A manipulation that installs a will-organization within the agent''s own reach and then withdraws its channel leaves no feature of will-organization that differs from its unmanipulated twin, because every relation the account names, maintenance and the capacity to transform included, is fixed by the agent''s present state, dynamics and couplings; so the more an agent can reach by its own revision, the more manipulation its present can hide, and only a record kept while the organization formed, outside the state a manipulator could set, of which channel carried each governing relation across its threshold, can tell the two apart'
+title: 'Only a formation record reveals manipulation'
+statement: >-
+  A manipulation that installs a will-organization within the agent's own
+  reach and then withdraws its channel leaves no feature of
+  will-organization that differs from its unmanipulated twin, because every
+  relation the account names, maintenance and the capacity to transform
+  included, is fixed by the agent's present state, dynamics and couplings;
+  so the more an agent can reach by its own revision, the more manipulation
+  its present can hide, and only a record kept while the organization
+  formed, outside the state a manipulator could set, of which channel
+  carried each governing relation across its threshold, can tell the two
+  apart
 version: 1
 role: thesis
 warrant: interpretive
@@ -62,7 +73,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-040 THEORY-054 THEORY-047 THEORY-235 THEORY-328 CLAIM-545 CLAIM-364 — Proposed; the manipulation argument, self-determination theory's integration and internalization, the awareness test, Pereboom's cases, the freedom profile and the conditioned-never-to-object counter, each cited for what this claim answers or uses -->
 <!-- inactive-ok-file: QUESTION-057 — Deferred; cited for avowal as one more attitude, nothing here rests on it -->
 
-# CLAIM-868: A manipulation that installs a will-organization within the agent's own reach and then withdraws its channel leaves no feature of will-organization that differs from its unmanipulated twin, because every relation the account names, maintenance and the capacity to transform included, is fixed by the agent's present state, dynamics and couplings; so the more an agent can reach by its own revision, the more manipulation its present can hide, and only a record kept while the organization formed, outside the state a manipulator could set, of which channel carried each governing relation across its threshold, can tell the two apart
+# CLAIM-868: Only a formation record reveals manipulation
 
 ## The claim
 

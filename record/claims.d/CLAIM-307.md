@@ -3,10 +3,13 @@ number: 307
 status: Active
 formerly:
 - CLAIM-tmp6u639
-title: 'Retrieval pressure and evidence are different criteria for carving a category,
-  and they move in opposite directions with copy count: evidence that a distinction
-  exists grows with its copies, the search a bin saves shrinks with them, so the
-  bins a deadline forces are often the ones the data least supports'
+title: 'Retrieval pressure and evidence pull apart'
+statement: >-
+  Retrieval pressure and evidence are different criteria for carving a
+  category, and they move in opposite directions with copy count: evidence
+  that a distinction exists grows with its copies, the search a bin saves
+  shrinks with them, so the bins a deadline forces are often the ones the
+  data least supports
 version: 2
 history:
 - version: 2
@@ -52,7 +55,7 @@ bears_on:
 - QUESTION-113
 ---
 
-# CLAIM-307: Retrieval pressure and evidence are different criteria for carving a category, and they move in opposite directions with copy count: evidence that a distinction exists grows with its copies, the search a bin saves shrinks with them, so the bins a deadline forces are often the ones the data least supports
+# CLAIM-307: Retrieval pressure and evidence pull apart
 
 ## The claim
 

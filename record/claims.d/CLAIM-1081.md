@@ -3,7 +3,15 @@ number: 1081
 status: Active
 formerly:
 - CLAIM-tmpdpnid
-title: 'In a grant game on a population, operators bound by both grant conditions delegate their whole budget and only to operators on their own side of the decision, and under leave-one-out delegation the authority they pass beyond one hop also stays on their own side; the reward for realized policy does the aligning, the insensitivity of own authority removes what returns to oneself, and authority-seekers delegate at about chance under recursive delegation and not at all under a bound rule'
+title: 'Bound operators delegate only to their own side'
+statement: >-
+  In a grant game on a population, operators bound by both grant conditions
+  delegate their whole budget and only to operators on their own side of the
+  decision, and under leave-one-out delegation the authority they pass
+  beyond one hop also stays on their own side; the reward for realized
+  policy does the aligning, the insensitivity of own authority removes what
+  returns to oneself, and authority-seekers delegate at about chance under
+  recursive delegation and not at all under a bound rule
 version: 2
 history:
 - version: 2
@@ -52,7 +60,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-285 CLAIM-281 — Proposed; the claims tested, cited as open -->
 
-# CLAIM-1081: In a grant game on a population, operators bound by both grant conditions delegate their whole budget and only to operators on their own side of the decision, and under leave-one-out delegation the authority they pass beyond one hop also stays on their own side; the reward for realized policy does the aligning, the insensitivity of own authority removes what returns to oneself, and authority-seekers delegate at about chance under recursive delegation and not at all under a bound rule
+# CLAIM-1081: Bound operators delegate only to their own side
 
 ## The claim
 

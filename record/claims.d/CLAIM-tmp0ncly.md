@@ -1,6 +1,11 @@
 ---
 status: Proposed
-title: "Just show your work is also a proposal for educators: students will use LLMs anyway, and a record of the collaboration that keeps which contributions were the student's and which the LLM's lets them use LLMs while their own contribution stays assessable"
+title: 'Show your work, for educators'
+statement: >-
+  Just show your work is also a proposal for educators: students will use
+  LLMs anyway, and a record of the collaboration that keeps which
+  contributions were the student's and which the LLM's lets them use LLMs
+  while their own contribution stays assessable
 version: 3
 history:
 - version: 2
@@ -51,7 +56,7 @@ works:
 <!-- inactive-ok-file: CLAIM-668 — Proposed; the premise that a record can represent who contributed -->
 <!-- inactive-ok-file: CLAIM-tmpqteki CLAIM-tmpmacjk — new; filed from the same exchange -->
 
-# CLAIM-tmp0ncly: Just show your work is also a proposal for educators: students will use LLMs anyway, and a record of the collaboration that keeps which contributions were the student's and which the LLM's lets them use LLMs while their own contribution stays assessable
+# CLAIM-tmp0ncly: Show your work, for educators
 
 ## The claim
 

@@ -3,13 +3,15 @@ number: 1066
 status: Proposed
 formerly:
 - CLAIM-tmpbzwmr
-title: An organization's identity can be carried by slow collective degrees
-  of freedom that constrain faster activity, while its adaptability requires
-  those slow degrees of freedom to stay selectively controllable and the means
-  of controlling them to stay viable, so the appropriate stabilization is
-  indexed to the timescales of the demands it must answer, and governance
-  maintains a fit between the spectrum of its modes and the temporal structure
-  of those demands
+title: 'Slow modes carry identity, must stay controllable'
+statement: >-
+  An organization's identity can be carried by slow collective degrees of
+  freedom that constrain faster activity, while its adaptability requires
+  those slow degrees of freedom to stay selectively controllable and the
+  means of controlling them to stay viable, so the appropriate stabilization
+  is indexed to the timescales of the demands it must answer, and governance
+  maintains a fit between the spectrum of its modes and the temporal
+  structure of those demands
 version: 2
 history:
 - version: 2
@@ -54,7 +56,7 @@ works:
 
 <!-- inactive-ok-file: CLAIM-478 TERM-167 THEORY-1052 — Proposed; cited in this filing of 2026-11-22 (second share) -->
 
-# CLAIM-1066: An organization's identity can be carried by slow collective degrees of freedom that constrain faster activity, while its adaptability requires those slow degrees of freedom to stay selectively controllable and the means of controlling them to stay viable, so the appropriate stabilization is indexed to the timescales of the demands it must answer, and governance maintains a fit between the spectrum of its modes and the temporal structure of those demands
+# CLAIM-1066: Slow modes carry identity, must stay controllable
 
 ## The claim
 

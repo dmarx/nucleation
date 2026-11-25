@@ -3,7 +3,15 @@ number: 522
 status: Active
 formerly:
 - CLAIM-tmpr8p2x
-title: 'Recovery under interventions on state cannot show where maintenance is realized: an outside controller that measures the constraint capacities and supplies the internal production law as state feedback yields the same trajectory under every perturbation of state, damage and recovery included, even with every capacity observed exactly; only interventions on the production mechanisms, relative to a declared boundary, separate the two'
+title: 'State recovery can''t locate maintenance'
+statement: >-
+  Recovery under interventions on state cannot show where maintenance is
+  realized: an outside controller that measures the constraint capacities
+  and supplies the internal production law as state feedback yields the same
+  trajectory under every perturbation of state, damage and recovery
+  included, even with every capacity observed exactly; only interventions on
+  the production mechanisms, relative to a declared boundary, separate the
+  two
 version: 7
 history:
 - version: 2
@@ -87,7 +95,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-1560 — Proposed; Thompson's lecture, cited in the note of 2026-11-11 -->
 <!-- inactive-ok-file: CASE-163 — Proposed; cited with its standing -->
 
-# CLAIM-522: Recovery under interventions on state cannot show where maintenance is realized: an outside controller that measures the constraint capacities and supplies the internal production law as state feedback yields the same trajectory under every perturbation of state, damage and recovery included, even with every capacity observed exactly; only interventions on the production mechanisms, relative to a declared boundary, separate the two
+# CLAIM-522: State recovery can't locate maintenance
 
 ## The claim
 

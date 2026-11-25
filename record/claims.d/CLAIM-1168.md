@@ -3,12 +3,15 @@ number: 1168
 status: Proposed
 formerly:
 - CLAIM-tmps5yc5
-title: Slow collective variables that govern an ecosystem divide into common drivers
-  its members read and condition on but do not regenerate, such as tides, day and
-  night, lunar cycles, seasons and imposed human cadences, which entrain them without
-  integrating them, and variables their interactions regenerate, such as predator–prey
-  oscillations, which meet the criterion of a constitutive collective variable,
-  so the structural answer as worded is defeated by the second kind
+title: 'Regenerated variables defeat the structural answer'
+statement: >-
+  Slow collective variables that govern an ecosystem divide into common
+  drivers its members read and condition on but do not regenerate, such as
+  tides, day and night, lunar cycles, seasons and imposed human cadences,
+  which entrain them without integrating them, and variables their
+  interactions regenerate, such as predator–prey oscillations, which meet
+  the criterion of a constitutive collective variable, so the structural
+  answer as worded is defeated by the second kind
 version: 2
 history:
 - version: 2
@@ -48,7 +51,7 @@ summary: 'The assistant''s reading of the owner''s objection [CLAIM-1172](CLAIM-
 
 <!-- inactive-ok-file: CLAIM-327 CLAIM-1175 CLAIM-165 CLAIM-1172 CLAIM-1074 CLAIM-1126 CLAIM-1153 — Proposed or Open; the premises, the objection, the claim it bears on and the alternatives -->
 
-# CLAIM-1168: Slow collective variables that govern an ecosystem divide into common drivers its members read and condition on but do not regenerate, such as tides, day and night, lunar cycles, seasons and imposed human cadences, which entrain them without integrating them, and variables their interactions regenerate, such as predator–prey oscillations, which meet the criterion of a constitutive collective variable, so the structural answer as worded is defeated by the second kind
+# CLAIM-1168: Regenerated variables defeat the structural answer
 
 ## The claim
 

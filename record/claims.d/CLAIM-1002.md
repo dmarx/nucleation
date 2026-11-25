@@ -3,7 +3,14 @@ number: 1002
 status: Proposed
 formerly:
 - CLAIM-tmp104zk
-title: 'Parallel perspectives raise the chance that some route answers a question only insofar as their failures are independent, so keeping several is valuable for the distinct, causally consequential routes to answers they supply and not for their number, and making every perspective conform to the dominant interpretation before it is resourced correlates their answers and spends that value'
+title: 'Perspectives help only if failures independent'
+statement: >-
+  Parallel perspectives raise the chance that some route answers a question
+  only insofar as their failures are independent, so keeping several is
+  valuable for the distinct, causally consequential routes to answers they
+  supply and not for their number, and making every perspective conform to
+  the dominant interpretation before it is resourced correlates their
+  answers and spends that value
 version: 1
 role: thesis
 warrant: interpretive
@@ -39,7 +46,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-148 CLAIM-1195 CLAIM-1038 CLAIM-1042 — Proposed; the claim this develops, the gap fill, the reading A cites and the thesis that uses this -->
 
-# CLAIM-1002: Parallel perspectives raise the chance that some route answers a question only insofar as their failures are independent, so keeping several is valuable for the distinct, causally consequential routes to answers they supply and not for their number, and making every perspective conform to the dominant interpretation before it is resourced correlates their answers and spends that value
+# CLAIM-1002: Perspectives help only if failures independent
 
 ## The claim
 

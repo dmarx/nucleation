@@ -3,7 +3,19 @@ number: 528
 status: Active
 formerly:
 - CLAIM-tmp1qybv
-title: 'That a mechanism realizes a capacity can mean that the capacity is produced through it over time or that the capacity consists in it at a time, and interventions show only the first: a pathway whose disabling changes the capacity after a delay is a cause, can be intervened on surgically, and can be located relative to a declared boundary, whereas every intervention on a capacity that consists in its parts also changes some part along another path, so that relation is underdetermined by intervention data and is inferred by abduction or from simultaneity and settled parthood; and which of the two a given dependence is depends on the time resolution at which a description treats the parts'' response as instantaneous'
+title: 'Interventions show production, not constitution'
+statement: >-
+  That a mechanism realizes a capacity can mean that the capacity is
+  produced through it over time or that the capacity consists in it at a
+  time, and interventions show only the first: a pathway whose disabling
+  changes the capacity after a delay is a cause, can be intervened on
+  surgically, and can be located relative to a declared boundary, whereas
+  every intervention on a capacity that consists in its parts also changes
+  some part along another path, so that relation is underdetermined by
+  intervention data and is inferred by abduction or from simultaneity and
+  settled parthood; and which of the two a given dependence is depends on
+  the time resolution at which a description treats the parts' response as
+  instantaneous
 version: 2
 history:
 - version: 2
@@ -68,7 +80,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-163 THEORY-1294 LIT-1925 — Proposed, Open or Unfetched; neighbours and readings cited as open, nothing here rests on them -->
 
-# CLAIM-528: That a mechanism realizes a capacity can mean that the capacity is produced through it over time or that the capacity consists in it at a time, and interventions show only the first: a pathway whose disabling changes the capacity after a delay is a cause, can be intervened on surgically, and can be located relative to a declared boundary, whereas every intervention on a capacity that consists in its parts also changes some part along another path, so that relation is underdetermined by intervention data and is inferred by abduction or from simultaneity and settled parthood; and which of the two a given dependence is depends on the time resolution at which a description treats the parts' response as instantaneous
+# CLAIM-528: Interventions show production, not constitution
 
 ## The claim
 

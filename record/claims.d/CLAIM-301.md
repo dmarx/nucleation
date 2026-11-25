@@ -3,9 +3,11 @@ number: 301
 status: Proposed
 formerly:
 - CLAIM-tmps7uw8
-title: 'Iterative retrieval can turn a provisional interpretation into a premise:
-  a framing selects what is encountered, what is encountered reinforces the framing,
-  and the question being investigated drifts as well as the queries'
+title: 'Retrieval can turn framings into premises'
+statement: >-
+  Iterative retrieval can turn a provisional interpretation into a premise:
+  a framing selects what is encountered, what is encountered reinforces the
+  framing, and the question being investigated drifts as well as the queries
 version: 2
 history:
 - version: 2
@@ -45,7 +47,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: CLAIM-184 CLAIM-191 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
-# CLAIM-301: Iterative retrieval can turn a provisional interpretation into a premise: a framing selects what is encountered, what is encountered reinforces the framing, and the question being investigated drifts as well as the queries
+# CLAIM-301: Retrieval can turn framings into premises
 
 ## The claim
 

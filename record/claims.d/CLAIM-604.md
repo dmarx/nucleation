@@ -3,7 +3,15 @@ number: 604
 status: Active
 formerly:
 - CLAIM-tmpw4ai2
-title: "Where each damaged part of a structure is repaired by drawing on a flux at a rate proportional to the structure's intact share, as a flame's upkeep is, it has an ignition threshold below which it goes out with the supply still on, a supply level below which it collapses rather than declines, and an outage after which restoring the supply does not relight it; repair supplied at a rate set by the supply alone, whatever the structure's state, has none of the three"
+title: 'Flux-repaired structures have an ignition point'
+statement: >-
+  Where each damaged part of a structure is repaired by drawing on a flux at
+  a rate proportional to the structure's intact share, as a flame's upkeep
+  is, it has an ignition threshold below which it goes out with the supply
+  still on, a supply level below which it collapses rather than declines,
+  and an outage after which restoring the supply does not relight it; repair
+  supplied at a rate set by the supply alone, whatever the structure's
+  state, has none of the three
 version: 3
 history:
 - version: 2
@@ -102,7 +110,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-606 — new; the assistant's soliton claim, cited as open -->
 <!-- inactive-ok-file: THEORY-072 — Proposed; the reading this claim is corroborated by, cited as open -->
 
-# CLAIM-604: Where each damaged part of a structure is repaired by drawing on a flux at a rate proportional to the structure's intact share, as a flame's upkeep is, it has an ignition threshold below which it goes out with the supply still on, a supply level below which it collapses rather than declines, and an outage after which restoring the supply does not relight it; repair supplied at a rate set by the supply alone, whatever the structure's state, has none of the three
+# CLAIM-604: Flux-repaired structures have an ignition point
 
 ## The two kinds of upkeep
 

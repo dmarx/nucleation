@@ -3,7 +3,14 @@ number: 456
 status: Active
 formerly:
 - CLAIM-tmp2jayx
-title: 'Maintaining a governing rule internally, by the organization''s own reciprocal production, can be more fragile than having it reset from outside: arrangements identical in ordinary operation can differ in which losses are repairable, and the self-produced rule can be lost to a double loss or an interruption of the work that produces it which outside reset survives'
+title: 'Internal rule maintenance can be more fragile'
+statement: >-
+  Maintaining a governing rule internally, by the organization's own
+  reciprocal production, can be more fragile than having it reset from
+  outside: arrangements identical in ordinary operation can differ in which
+  losses are repairable, and the self-produced rule can be lost to a double
+  loss or an interruption of the work that produces it which outside reset
+  survives
 version: 2
 history:
 - version: 2
@@ -49,7 +56,7 @@ summary: >-
   that self-production is not robustness.
 ---
 
-# CLAIM-456: Maintaining a governing rule internally, by the organization's own reciprocal production, can be more fragile than having it reset from outside: arrangements identical in ordinary operation can differ in which losses are repairable, and the self-produced rule can be lost to a double loss or an interruption of the work that produces it which outside reset survives
+# CLAIM-456: Internal rule maintenance can be more fragile
 
 ## The claim
 

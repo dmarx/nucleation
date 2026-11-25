@@ -3,7 +3,12 @@ number: 186
 status: Proposed
 formerly:
 - CLAIM-tmpvc1pj
-title: 'How fast an argument grows sets how it grows: drift tracks how fast new material arrives relative to how fast it is anchored, so a fast, prolific exchange branches, as a crystal grown far from equilibrium does, and a project memory stabilizes an argument by keeping anchoring up with arrival'
+title: 'Drift tracks arrival rate over anchoring rate'
+statement: >-
+  How fast an argument grows sets how it grows: drift tracks how fast new
+  material arrives relative to how fast it is anchored, so a fast, prolific
+  exchange branches, as a crystal grown far from equilibrium does, and a
+  project memory stabilizes an argument by keeping anchoring up with arrival
 version: 6
 history:
 - version: 2
@@ -98,7 +103,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-176 CLAIM-181 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: CLAIM-139 — Superseded by CLAIM-204; cited as it stood, not as what the record now holds -->
 
-# CLAIM-186: How fast an argument grows sets how it grows: drift tracks how fast new material arrives relative to how fast it is anchored, so a fast, prolific exchange branches, as a crystal grown far from equilibrium does, and a project memory stabilizes an argument by keeping anchoring up with arrival
+# CLAIM-186: Drift tracks arrival rate over anchoring rate
 
 ## The claim
 

@@ -3,7 +3,13 @@ number: 1013
 status: Proposed
 formerly:
 - CLAIM-tmp2tjpt
-title: 'For a network trained by gradient descent, how its parameters are scaled belongs to the organization it has acquired: two networks computing the same function, and alike in what a linear readout can reach from them, can differ in what fine-tuning makes them learn, so the function a learner computes now does not fix what it can come to learn'
+title: 'Current function does not fix learnability'
+statement: >-
+  For a network trained by gradient descent, how its parameters are scaled
+  belongs to the organization it has acquired: two networks computing the
+  same function, and alike in what a linear readout can reach from them, can
+  differ in what fine-tuning makes them learn, so the function a learner
+  computes now does not fix what it can come to learn
 version: 1
 history:
 - version: 1
@@ -47,7 +53,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-1043 CLAIM-1089 CLAIM-754 CLAIM-1011 THEORY-2077 THEORY-2305 — Proposed; the claims filed by the lead run of 2026-11-23, the claim the verdict bears on, and the readings it is set against -->
 
-# CLAIM-1013: For a network trained by gradient descent, how its parameters are scaled belongs to the organization it has acquired: two networks computing the same function, and alike in what a linear readout can reach from them, can differ in what fine-tuning makes them learn, so the function a learner computes now does not fix what it can come to learn
+# CLAIM-1013: Current function does not fix learnability
 
 ## The claim
 

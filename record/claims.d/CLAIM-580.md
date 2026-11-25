@@ -3,7 +3,13 @@ number: 580
 status: Active
 formerly:
 - CLAIM-tmppzkl3
-title: 'The transition threshold is stable under error in the resource function: if an estimate of the requirement is within ε of the true one at every configuration, the estimated threshold is within ε of the true one, and an underestimate anywhere can only lower it while an overestimate can only raise it'
+title: 'Transition threshold is stable under error'
+statement: >-
+  The transition threshold is stable under error in the resource function:
+  if an estimate of the requirement is within ε of the true one at every
+  configuration, the estimated threshold is within ε of the true one, and an
+  underestimate anywhere can only lower it while an overestimate can only
+  raise it
 version: 2
 history:
 - version: 2
@@ -56,7 +62,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1420 — Proposed or Skimmed; entries of 2026-11-04 and 2026-11-05 from the readiness and constraint-architecture filings, cited as open -->
 
-# CLAIM-580: The transition threshold is stable under error in the resource function: if an estimate of the requirement is within ε of the true one at every configuration, the estimated threshold is within ε of the true one, and an underestimate anywhere can only lower it while an overestimate can only raise it
+# CLAIM-580: Transition threshold is stable under error
 
 ## The claim
 

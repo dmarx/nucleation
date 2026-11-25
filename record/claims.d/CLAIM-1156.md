@@ -3,7 +3,13 @@ number: 1156
 status: Proposed
 formerly:
 - CLAIM-tmpq1usu
-title: 'Two organizations that give the same answers can differ in what answering does to them, so a response kernel that includes the organization''s state after answering, observed through its later responses rather than compared as a state, separates what an answer benchmark treats as equivalent, such as one that learns from disagreement and one that suppresses it'
+title: 'Same answers, different effects of answering'
+statement: >-
+  Two organizations that give the same answers can differ in what answering
+  does to them, so a response kernel that includes the organization's state
+  after answering, observed through its later responses rather than compared
+  as a state, separates what an answer benchmark treats as equivalent, such
+  as one that learns from disagreement and one that suppresses it
 version: 2
 history:
 - version: 2
@@ -58,7 +64,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-1054 — Proposed; entries filed from this exchange or neighbours cited, not leaned on as in force -->
 
-# CLAIM-1156: Two organizations that give the same answers can differ in what answering does to them, so a response kernel that includes the organization's state after answering, observed through its later responses rather than compared as a state, separates what an answer benchmark treats as equivalent, such as one that learns from disagreement and one that suppresses it
+# CLAIM-1156: Same answers, different effects of answering
 
 ## The claim
 

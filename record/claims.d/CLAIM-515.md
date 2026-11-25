@@ -3,7 +3,14 @@ number: 515
 status: Active
 formerly:
 - CLAIM-tmp85zgs
-title: 'Whether an organization has a cognitive property is four questions, not one: what information about the property can be recovered from its behaviour, what capabilities it can actually exercise, what mechanisms realize them, and whether it can maintain or transform those mechanisms; the four can come apart, and none should be silently substituted for another'
+title: 'Cognitive property is four questions, not one'
+statement: >-
+  Whether an organization has a cognitive property is four questions, not
+  one: what information about the property can be recovered from its
+  behaviour, what capabilities it can actually exercise, what mechanisms
+  realize them, and whether it can maintain or transform those mechanisms;
+  the four can come apart, and none should be silently substituted for
+  another
 version: 2
 history:
 - version: 2
@@ -56,7 +63,7 @@ summary: >-
   demonstrated case by case, and the generalization is not.
 ---
 
-# CLAIM-515: Whether an organization has a cognitive property is four questions, not one: what information about the property can be recovered from its behaviour, what capabilities it can actually exercise, what mechanisms realize them, and whether it can maintain or transform those mechanisms; the four can come apart, and none should be silently substituted for another
+# CLAIM-515: Cognitive property is four questions, not one
 
 ## The claim
 

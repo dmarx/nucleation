@@ -3,7 +3,13 @@ number: 588
 status: Active
 formerly:
 - CLAIM-tmpvl8j0
-title: 'Relieving an incompatibility, redistributing an unavoidable mismatch and exploiting a mismatch dynamically are three design targets, which change respectively the compatibility complex, where residuals or loads concentrate, and stability, barriers or transition paths, and the last two can be achieved without the first'
+title: 'Relieve, redistribute, exploit: three targets'
+statement: >-
+  Relieving an incompatibility, redistributing an unavoidable mismatch and
+  exploiting a mismatch dynamically are three design targets, which change
+  respectively the compatibility complex, where residuals or loads
+  concentrate, and stability, barriers or transition paths, and the last two
+  can be achieved without the first
 version: 6
 history:
 - version: 2
@@ -99,7 +105,7 @@ works:
 - governance-of-possibility
 ---
 
-# CLAIM-588: Relieving an incompatibility, redistributing an unavoidable mismatch and exploiting a mismatch dynamically are three design targets, which change respectively the compatibility complex, where residuals or loads concentrate, and stability, barriers or transition paths, and the last two can be achieved without the first
+# CLAIM-588: Relieve, redistribute, exploit: three targets
 
 ## The claim
 

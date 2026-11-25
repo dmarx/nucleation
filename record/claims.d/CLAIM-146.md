@@ -3,7 +3,11 @@ number: 146
 status: Active
 formerly:
 - CLAIM-tmpi8p0d
-title: 'Recovering latent relational structure from an interaction matrix, with no privileged latent coordinates, is decades-old prior art, so the manuscript''s contribution cannot be that recovery'
+title: 'Relational recovery is decades-old prior art'
+statement: >-
+  Recovering latent relational structure from an interaction matrix, with no
+  privileged latent coordinates, is decades-old prior art, so the
+  manuscript's contribution cannot be that recovery
 version: 1
 role: granted
 warrant: interpretive
@@ -31,7 +35,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-100 — Superseded; replaced, and cited as the history of an earlier prior-art retraction -->
 
-# CLAIM-146: Recovering latent relational structure from an interaction matrix, with no privileged latent coordinates, is decades-old prior art, so the manuscript's contribution cannot be that recovery
+# CLAIM-146: Relational recovery is decades-old prior art
 
 ## The claim
 

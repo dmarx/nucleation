@@ -3,7 +3,10 @@ number: 77
 status: Active
 formerly:
 - CLAIM-tmplxhnv
-title: 'A transport is admissible only if it keeps specified observable distinctions apart, which excludes trivial collapse by construction'
+title: 'Admissible transport keeps distinctions apart'
+statement: >-
+  A transport is admissible only if it keeps specified observable
+  distinctions apart, which excludes trivial collapse by construction
 version: 3
 history:
 - version: 2
@@ -55,7 +58,7 @@ complements:
 ---
 <!-- inactive-ok-file: CLAIM-063 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
-# CLAIM-077: A transport is admissible only if it keeps specified observable distinctions apart, which excludes trivial collapse by construction
+# CLAIM-077: Admissible transport keeps distinctions apart
 
 ## The claim
 

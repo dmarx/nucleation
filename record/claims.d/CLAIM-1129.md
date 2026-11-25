@@ -3,7 +3,13 @@ number: 1129
 status: Proposed
 formerly:
 - CLAIM-tmpl3ubq
-title: 'The 2005 Washington Nationals are not a case of a collective counted as continuing another with no causal path between their organizations: no participant counts them the original Senators continued, and the continuity the club and its supporters claim is a city''s baseball, carried through the gap by the city and its supporters'
+title: 'The 2005 Nationals do not continue the Senators'
+statement: >-
+  The 2005 Washington Nationals are not a case of a collective counted as
+  continuing another with no causal path between their organizations: no
+  participant counts them the original Senators continued, and the
+  continuity the club and its supporters claim is a city's baseball, carried
+  through the gap by the city and its supporters
 version: 1
 role: thesis
 warrant: interpretive
@@ -41,7 +47,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-1047 CLAIM-1206 — new, Proposed; the verdict this reading rests on and the alternative reading, filed by the lead run of 2026-11-23 -->
 
-# CLAIM-1129: The 2005 Washington Nationals are not a case of a collective counted as continuing another with no causal path between their organizations: no participant counts them the original Senators continued, and the continuity the club and its supporters claim is a city's baseball, carried through the gap by the city and its supporters
+# CLAIM-1129: The 2005 Nationals do not continue the Senators
 
 ## The claim
 

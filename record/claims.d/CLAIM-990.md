@@ -3,7 +3,17 @@ number: 990
 status: Proposed
 formerly:
 - CLAIM-tmpo59pd
-title: 'A targeted intervention discriminates implementations matched in behaviour only relative to its declared scope: in a small gridworld, writing a blocked passage into the two units that carry it repairs every failed route of a planner on a learned transition table and about a tenth of those of a goal-conditioned value learner and of a bank of occupancy predictors, though the planner and the value learner act identically, while propagating the same block through all the predictors'' contents repairs every route without any transition table, so responding to an intervention as a model would does not by itself show a central model'
+title: 'Intervention discriminates only within its scope'
+statement: >-
+  A targeted intervention discriminates implementations matched in behaviour
+  only relative to its declared scope: in a small gridworld, writing a
+  blocked passage into the two units that carry it repairs every failed
+  route of a planner on a learned transition table and about a tenth of
+  those of a goal-conditioned value learner and of a bank of occupancy
+  predictors, though the planner and the value learner act identically,
+  while propagating the same block through all the predictors' contents
+  repairs every route without any transition table, so responding to an
+  intervention as a model would does not by itself show a central model
 version: 1
 role: thesis
 warrant: empirical
@@ -45,7 +55,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-384 CLAIM-519 CLAIM-991 — new or Proposed; the study that grounds this claim, the thesis it corroborates and its companion claim -->
 
-# CLAIM-990: A targeted intervention discriminates implementations matched in behaviour only relative to its declared scope: in a small gridworld, writing a blocked passage into the two units that carry it repairs every failed route of a planner on a learned transition table and about a tenth of those of a goal-conditioned value learner and of a bank of occupancy predictors, though the planner and the value learner act identically, while propagating the same block through all the predictors' contents repairs every route without any transition table, so responding to an intervention as a model would does not by itself show a central model
+# CLAIM-990: Intervention discriminates only within its scope
 
 ## The claim
 

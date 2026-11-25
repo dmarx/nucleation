@@ -3,7 +3,16 @@ number: 629
 status: Active
 formerly:
 - CLAIM-tmpqvtgm
-title: 'Whether several objectives share a strict first-order descent direction is constant on the orbits of any function-preserving symmetry that acts on the parameters as a diffeomorphism, so permutation, positive rescaling across a ReLU and orthogonal maps of a residual stream all leave the verdict unchanged; a frustration residual budgeted in a fixed Euclidean norm is constant on every orbit of such a symmetry whose derivative is orthogonal, so across permutations and orthogonal maps, and not in general otherwise: it can change along rescalings'
+title: 'Shared descent is constant on symmetry orbits'
+statement: >-
+  Whether several objectives share a strict first-order descent direction is
+  constant on the orbits of any function-preserving symmetry that acts on
+  the parameters as a diffeomorphism, so permutation, positive rescaling
+  across a ReLU and orthogonal maps of a residual stream all leave the
+  verdict unchanged; a frustration residual budgeted in a fixed Euclidean
+  norm is constant on every orbit of such a symmetry whose derivative is
+  orthogonal, so across permutations and orthogonal maps, and not in general
+  otherwise: it can change along rescalings
 version: 2
 history:
 - version: 2
@@ -64,7 +73,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-263 CLAIM-555 — Proposed; the symmetry group and the neighbouring claims, cited with their standing -->
 
-# CLAIM-629: Whether several objectives share a strict first-order descent direction is constant on the orbits of any function-preserving symmetry that acts on the parameters as a diffeomorphism, so permutation, positive rescaling across a ReLU and orthogonal maps of a residual stream all leave the verdict unchanged; a frustration residual budgeted in a fixed Euclidean norm is constant on every orbit of such a symmetry whose derivative is orthogonal, so across permutations and orthogonal maps, and not in general otherwise: it can change along rescalings
+# CLAIM-629: Shared descent is constant on symmetry orbits
 
 ## The claim
 

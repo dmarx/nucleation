@@ -3,7 +3,15 @@ number: 407
 status: Active
 formerly:
 - CLAIM-tmppi0xf
-title: 'A coarse-graining exactly informationally closed under a process''s ordinary dynamics need not preserve its responses to an intervention on the mechanism: for a declared intervention distribution ρ, independent of the state, the deficiency Γ = I(S; Y^(I) | T(S), I) can be positive, as in the hidden governance bit, where it is ρ(h = 1) bits; and Γ = 0 exactly when, for every intervention ρ charges, the response kernels are constant on T''s fibres over the states of positive probability'
+title: 'Informational closure need not keep interventions'
+statement: >-
+  A coarse-graining exactly informationally closed under a process's
+  ordinary dynamics need not preserve its responses to an intervention on
+  the mechanism: for a declared intervention distribution ρ, independent of
+  the state, the deficiency Γ = I(S; Y^(I) | T(S), I) can be positive, as in
+  the hidden governance bit, where it is ρ(h = 1) bits; and Γ = 0 exactly
+  when, for every intervention ρ charges, the response kernels are constant
+  on T's fibres over the states of positive probability
 version: 7
 history:
 - version: 2
@@ -109,7 +117,7 @@ corroborates:
 <!-- ref::uses-file: TERM-023 — the "governance mechanism" an intervention sets, whose "governance-relevant counterfactual distinction" a closed coarse-graining loses, is governance in TERM-023's sense; the body denies that Γ measures will or shows agency -->
 <!-- inactive-ok-file: THEORY-2187 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
-# CLAIM-407: A coarse-graining exactly informationally closed under a process's ordinary dynamics need not preserve its responses to an intervention on the mechanism: for a declared intervention distribution ρ, independent of the state, the deficiency Γ = I(S; Y^(I) | T(S), I) can be positive, as in the hidden governance bit, where it is ρ(h = 1) bits; and Γ = 0 exactly when, for every intervention ρ charges, the response kernels are constant on T's fibres over the states of positive probability
+# CLAIM-407: Informational closure need not keep interventions
 
 ## The claim
 

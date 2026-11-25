@@ -3,7 +3,14 @@ number: 1090
 status: Proposed
 formerly:
 - CLAIM-tmpf0417
-title: 'Whether a seed set helps or hurts is decided by what is forced when each component first becomes bound, not by what the constraints force in the end, so a predictor of productive nuclei cannot be computed from the constraint architecture alone: it must take the order and threshold of growth as conditions, since a static closure can be constant where the chance of assembly varies most'
+title: 'Seeds are decided by what is forced at binding'
+statement: >-
+  Whether a seed set helps or hurts is decided by what is forced when each
+  component first becomes bound, not by what the constraints force in the
+  end, so a predictor of productive nuclei cannot be computed from the
+  constraint architecture alone: it must take the order and threshold of
+  growth as conditions, since a static closure can be constant where the
+  chance of assembly varies most
 version: 1
 history:
 - version: 1
@@ -51,7 +58,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-389 CLAIM-1205 CLAIM-1204 CLAIM-1078 CLAIM-1085 — new; the study, the claims this reading rests on or cites, and the alternative that objects to it, filed by the lead run of 2026-11-23 -->
 
-# CLAIM-1090: Whether a seed set helps or hurts is decided by what is forced when each component first becomes bound, not by what the constraints force in the end, so a predictor of productive nuclei cannot be computed from the constraint architecture alone: it must take the order and threshold of growth as conditions, since a static closure can be constant where the chance of assembly varies most
+# CLAIM-1090: Seeds are decided by what is forced at binding
 
 ## The claim
 

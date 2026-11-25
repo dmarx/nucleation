@@ -3,7 +3,13 @@ number: 857
 status: Proposed
 formerly:
 - CLAIM-tmpf9qt9
-title: 'A mixture of exponentials over a rate or inverse temperature has a power-law tail exactly when the mixing distribution has power-law weight at zero rate; a lognormal mixing density gives a tail falling faster than any power and slower than any exponential, and one bounded away from zero keeps an exponential tail'
+title: 'Power-law mixtures need weight at zero rate'
+statement: >-
+  A mixture of exponentials over a rate or inverse temperature has a
+  power-law tail exactly when the mixing distribution has power-law weight
+  at zero rate; a lognormal mixing density gives a tail falling faster than
+  any power and slower than any exponential, and one bounded away from zero
+  keeps an exponential tail
 version: 1
 history:
 - version: 1
@@ -56,7 +62,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-2176 THEORY-2131 CLAIM-769 CLAIM-795 CLAIM-803 ARG-175 — Proposed or new; the readings this claim is checked against, the claims it qualifies, and the argument that says how -->
 
-# CLAIM-857: A mixture of exponentials over a rate or inverse temperature has a power-law tail exactly when the mixing distribution has power-law weight at zero rate; a lognormal mixing density gives a tail falling faster than any power and slower than any exponential, and one bounded away from zero keeps an exponential tail
+# CLAIM-857: Power-law mixtures need weight at zero rate
 
 ## The gap it fills
 

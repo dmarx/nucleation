@@ -3,7 +3,15 @@ number: 353
 status: Active
 formerly:
 - CLAIM-tmpi5t5f
-title: 'A will-organization that gives two operators decisive jurisdiction over a pair of options each, respects unanimous preference and admits any profile of operator rankings cannot always choose, and unlike Arrow''s impossibility this is not escaped by giving the grant procedure richer, cardinal or comparable, information, so what distributed governance must give up is jurisdiction, unanimity or the domain, not an informational restriction'
+title: 'Two jurisdictions and unanimity cannot choose'
+statement: >-
+  A will-organization that gives two operators decisive jurisdiction over a
+  pair of options each, respects unanimous preference and admits any profile
+  of operator rankings cannot always choose, and unlike Arrow's
+  impossibility this is not escaped by giving the grant procedure richer,
+  cardinal or comparable, information, so what distributed governance must
+  give up is jurisdiction, unanimity or the domain, not an informational
+  restriction
 version: 4
 history:
 - version: 2
@@ -82,7 +90,7 @@ bears_on:
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: THEORY-1283 — Proposed; Massumi's micropolitics, the ideal this result is applied to -->
 
-# CLAIM-353: A will-organization that gives two operators decisive jurisdiction over a pair of options each, respects unanimous preference and admits any profile of operator rankings cannot always choose, and unlike Arrow's impossibility this is not escaped by giving the grant procedure richer, cardinal or comparable, information, so what distributed governance must give up is jurisdiction, unanimity or the domain, not an informational restriction
+# CLAIM-353: Two jurisdictions and unanimity cannot choose
 
 ## The claim
 

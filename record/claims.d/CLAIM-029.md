@@ -3,7 +3,10 @@ number: 29
 status: Proposed
 formerly:
 - CLAIM-tmp98mw2
-title: 'A language model''s response to a context is functionally a parameterized pragmatic frame'
+title: 'A model''s response is a pragmatic frame'
+statement: >-
+  A language model's response to a context is functionally a parameterized
+  pragmatic frame
 version: 3
 history:
 - version: 2
@@ -50,7 +53,7 @@ complements:
 <!-- inactive-ok-file: THEORY-490 — Proposed; the role-play framing's statement, a ground of this Proposed claim, cited as open -->
 <!-- inactive-ok-file: THEORY-251 — Proposed; filed today, cited as a qualification of the defeater, not leaned on -->
 
-# CLAIM-029: A language model's response to a context is functionally a parameterized pragmatic frame
+# CLAIM-029: A model's response is a pragmatic frame
 
 ## The claim
 

@@ -3,7 +3,11 @@ number: 122
 status: Active
 formerly:
 - CLAIM-tmpzeoja
-title: 'Will-organization is not one more higher-order preference: changing the conditions of efficacy changes behaviour while the competing preferences stay fixed'
+title: 'Will-organization is no higher-order preference'
+statement: >-
+  Will-organization is not one more higher-order preference: changing the
+  conditions of efficacy changes behaviour while the competing preferences
+  stay fixed
 version: 4
 history:
 - version: 2
@@ -67,7 +71,7 @@ complements:
 <!-- ref::uses-file: TERM-023 — stated in "will-organization"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->
 <!-- inactive-ok-file: CLAIM-089 — Rejected; the objection this answered in part, answered in full on 2026-10-27 -->
 
-# CLAIM-122: Will-organization is not one more higher-order preference: changing the conditions of efficacy changes behaviour while the competing preferences stay fixed
+# CLAIM-122: Will-organization is no higher-order preference
 
 ## The claim
 

@@ -3,7 +3,15 @@ number: 1155
 status: Proposed
 formerly:
 - CLAIM-tmpq1213
-title: 'Where those an organization harms have standing to contest the harm with it, reproducing the projections that keep their claims from registering wrongs them beyond the harm, in that standing: the wrong is directed at the conditions under which their claims can count against the organization, not at the interests the harm sets back, so it holds where contesting would not have changed the harm''s course, and it needs neither an intending actor nor their ignorance of the harm'
+title: 'Suppressing standing wrongs beyond the harm'
+statement: >-
+  Where those an organization harms have standing to contest the harm with
+  it, reproducing the projections that keep their claims from registering
+  wrongs them beyond the harm, in that standing: the wrong is directed at
+  the conditions under which their claims can count against the
+  organization, not at the interests the harm sets back, so it holds where
+  contesting would not have changed the harm's course, and it needs neither
+  an intending actor nor their ignorance of the harm
 version: 1
 role: thesis
 warrant: interpretive
@@ -69,7 +77,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-614 CLAIM-624 CLAIM-723 CLAIM-657 CLAIM-445 CLAIM-876 CLAIM-877 ARG-055 THEORY-1972 LIT-2532 ARG-228 CLAIM-1184 — Proposed, Unfetched or new; the claim this argues, its companions and boundaries, the review not read, and the argument and objection filed beside it -->
 
-# CLAIM-1155: Where those an organization harms have standing to contest the harm with it, reproducing the projections that keep their claims from registering wrongs them beyond the harm, in that standing: the wrong is directed at the conditions under which their claims can count against the organization, not at the interests the harm sets back, so it holds where contesting would not have changed the harm's course, and it needs neither an intending actor nor their ignorance of the harm
+# CLAIM-1155: Suppressing standing wrongs beyond the harm
 
 ## The claim
 

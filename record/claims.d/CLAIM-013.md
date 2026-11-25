@@ -3,7 +3,12 @@ number: 13
 status: Proposed
 formerly:
 - CLAIM-tmp33gkh
-title: 'Existing text-to-image benchmarks evaluate object presence, attributes and whether spatial or interactive relations are depicted, not the stance, social alignment or uptake an image conveys, and need extending to pragmatically consequential relations and social uptake'
+title: 'T2I benchmarks miss stance and uptake'
+statement: >-
+  Existing text-to-image benchmarks evaluate object presence, attributes and
+  whether spatial or interactive relations are depicted, not the stance,
+  social alignment or uptake an image conveys, and need extending to
+  pragmatically consequential relations and social uptake
 version: 2
 history:
 - version: 2
@@ -44,7 +49,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-250 — Proposed; filed today, cited for what LIT-938 measures, not leaned on -->
 
-# CLAIM-013: Existing text-to-image benchmarks evaluate object presence, attributes and whether spatial or interactive relations are depicted, not the stance, social alignment or uptake an image conveys, and need extending to pragmatically consequential relations and social uptake
+# CLAIM-013: T2I benchmarks miss stance and uptake
 
 ## The claim
 

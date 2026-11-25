@@ -3,7 +3,16 @@ number: 1042
 status: Proposed
 formerly:
 - CLAIM-tmp7iie0
-title: "In the demand-weighted coverage of an ecosystem, the integral over future questions of the best readiness any one perspective offers, a perspective adds the integral of its excess over that best, so a duplicate adds nothing; but the ordering of similar against differentiated ecosystems reverses when perspectives attempt in parallel, share a budget or are chosen by a selector that cannot tell the questions apart, and since coverage is linear in demand, uncertainty about demand over a fixed set of questions adds nothing beyond the mean demand"
+title: 'Duplicate perspectives add no coverage'
+statement: >-
+  In the demand-weighted coverage of an ecosystem, the integral over future
+  questions of the best readiness any one perspective offers, a perspective
+  adds the integral of its excess over that best, so a duplicate adds
+  nothing; but the ordering of similar against differentiated ecosystems
+  reverses when perspectives attempt in parallel, share a budget or are
+  chosen by a selector that cannot tell the questions apart, and since
+  coverage is linear in demand, uncertainty about demand over a fixed set of
+  questions adds nothing beyond the mean demand
 version: 1
 role: thesis
 warrant: demonstrated
@@ -38,7 +47,7 @@ summary: >-
 
 <!-- inactive-ok-file: ARG-222 — Open or new; the question this bears on, the claims whose model it checks, and the argument that applies it -->
 
-# CLAIM-1042: In the demand-weighted coverage of an ecosystem, the integral over future questions of the best readiness any one perspective offers, a perspective adds the integral of its excess over that best, so a duplicate adds nothing; but the ordering of similar against differentiated ecosystems reverses when perspectives attempt in parallel, share a budget or are chosen by a selector that cannot tell the questions apart, and since coverage is linear in demand, uncertainty about demand over a fixed set of questions adds nothing beyond the mean demand
+# CLAIM-1042: Duplicate perspectives add no coverage
 
 ## The gap
 

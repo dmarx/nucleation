@@ -3,7 +3,16 @@ number: 534
 status: Active
 formerly:
 - CLAIM-tmpexvc6
-title: 'A plural will''s motivational integration, a dimension of freedom of will the record names and leaves unanalysed, is the extent to which the demands it maintains are jointly met, within tolerances it can recognize, across the contexts where they interact, and kept so under its own dynamics; it is neither agreement among the demands nor the dominance of one, and its parts come apart: realizability (the tolerance frontier), realization (governance frustration), maintenance (viability) and the allocation of the tolerance each demand gives up'
+title: 'Motivational integration as demands jointly met'
+statement: >-
+  A plural will's motivational integration, a dimension of freedom of will
+  the record names and leaves unanalysed, is the extent to which the demands
+  it maintains are jointly met, within tolerances it can recognize, across
+  the contexts where they interact, and kept so under its own dynamics; it
+  is neither agreement among the demands nor the dominance of one, and its
+  parts come apart: realizability (the tolerance frontier), realization
+  (governance frustration), maintenance (viability) and the allocation of
+  the tolerance each demand gives up
 version: 2
 history:
 - version: 2
@@ -64,7 +73,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-545 — Proposed, Open or new; cited as open -->
 
-# CLAIM-534: A plural will's motivational integration, a dimension of freedom of will the record names and leaves unanalysed, is the extent to which the demands it maintains are jointly met, within tolerances it can recognize, across the contexts where they interact, and kept so under its own dynamics; it is neither agreement among the demands nor the dominance of one, and its parts come apart: realizability (the tolerance frontier), realization (governance frustration), maintenance (viability) and the allocation of the tolerance each demand gives up
+# CLAIM-534: Motivational integration as demands jointly met
 
 ## The claim
 

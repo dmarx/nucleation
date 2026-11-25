@@ -3,7 +3,15 @@ number: 590
 status: Active
 formerly:
 - CLAIM-tmpxcbet
-title: 'Which category is chosen changes which configurations count as the same: in the fundamental groupoid of a degree-4 vertex''s configuration space every two configurations are uniquely isomorphic, while in the category enriched in peak footprint under maximum its two folded states are 1.866 apart in each direction and each is 0 from itself, a distance the enriched Yoneda embedding keeps, so equivalence of possibilities is not equivalence of resource-bounded capabilities'
+title: 'Choice of category decides what is the same'
+statement: >-
+  Which category is chosen changes which configurations count as the same:
+  in the fundamental groupoid of a degree-4 vertex's configuration space
+  every two configurations are uniquely isomorphic, while in the category
+  enriched in peak footprint under maximum its two folded states are 1.866
+  apart in each direction and each is 0 from itself, a distance the enriched
+  Yoneda embedding keeps, so equivalence of possibilities is not equivalence
+  of resource-bounded capabilities
 version: 5
 history:
 - version: 2
@@ -104,7 +112,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-204 — Proposed or Skimmed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
 <!-- ref::uses-file: TERM-114 — the configurations of a degree-4 vertex and the category enriched in peak footprint, whose groupoids keep "the costs a budget at a time", are TERM-114's configurations, costed processes and budget-indexed reachability -->
 
-# CLAIM-590: Which category is chosen changes which configurations count as the same: in the fundamental groupoid of a degree-4 vertex's configuration space every two configurations are uniquely isomorphic, while in the category enriched in peak footprint under maximum its two folded states are 1.866 apart in each direction and each is 0 from itself, a distance the enriched Yoneda embedding keeps, so equivalence of possibilities is not equivalence of resource-bounded capabilities
+# CLAIM-590: Choice of category decides what is the same
 
 ## The claim
 

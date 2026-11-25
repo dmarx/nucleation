@@ -3,7 +3,13 @@ number: 126
 status: Active
 formerly:
 - CLAIM-tmpkx2sz
-title: 'Model stitching tests whether a transport preserves decision-relevant information only in its reconstruction form: a map fitted to reproduce the target representation certifies one direction of Blackwell sufficiency, while task-loss stitching compares one decision problem through a fixed head, and a failure to stitch is no evidence against sufficiency'
+title: 'Only reconstruction stitching tests sufficiency'
+statement: >-
+  Model stitching tests whether a transport preserves decision-relevant
+  information only in its reconstruction form: a map fitted to reproduce the
+  target representation certifies one direction of Blackwell sufficiency,
+  while task-loss stitching compares one decision problem through a fixed
+  head, and a failure to stitch is no evidence against sufficiency
 version: 3
 history:
 - version: 2
@@ -59,7 +65,7 @@ summary: >-
   stitching certifies sufficiency, and only within the map class.
 ---
 
-# CLAIM-126: Model stitching tests whether a transport preserves decision-relevant information only in its reconstruction form: a map fitted to reproduce the target representation certifies one direction of Blackwell sufficiency, while task-loss stitching compares one decision problem through a fixed head, and a failure to stitch is no evidence against sufficiency
+# CLAIM-126: Only reconstruction stitching tests sufficiency
 
 ## The claim
 

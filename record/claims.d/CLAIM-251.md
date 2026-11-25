@@ -3,7 +3,15 @@ number: 251
 status: Proposed
 formerly:
 - CLAIM-tmpu534h
-title: 'A change in which questions a receiver population can answer determinately is not by itself a change of cover in the sheaf sense: the cover belongs to the measurement scenario and the responses are an empirical model on it, so such a change is a change of empirical model, which can create or remove a gluing obstruction on a fixed cover but does not change what the cover is, and the operational notion needs its own name until a functorial link is shown'
+title: 'Answerability change is not a change of cover'
+statement: >-
+  A change in which questions a receiver population can answer determinately
+  is not by itself a change of cover in the sheaf sense: the cover belongs
+  to the measurement scenario and the responses are an empirical model on
+  it, so such a change is a change of empirical model, which can create or
+  remove a gluing obstruction on a fixed cover but does not change what the
+  cover is, and the operational notion needs its own name until a functorial
+  link is shown
 version: 2
 history:
 - version: 2
@@ -38,7 +46,7 @@ summary: >-
   keeps the empirical notion and denies it the sheaf-theoretic name. Open.
 ---
 <!-- inactive-ok-file: CLAIM-201 — Proposed; cited as open positions and readings the interlocutor's reading addresses, not as settled -->
-# CLAIM-251: A change in which questions a receiver population can answer determinately is not by itself a change of cover in the sheaf sense: the cover belongs to the measurement scenario and the responses are an empirical model on it, so such a change is a change of empirical model, which can create or remove a gluing obstruction on a fixed cover but does not change what the cover is, and the operational notion needs its own name until a functorial link is shown
+# CLAIM-251: Answerability change is not a change of cover
 
 ## The objection
 

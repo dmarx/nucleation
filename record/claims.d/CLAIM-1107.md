@@ -3,7 +3,12 @@ number: 1107
 status: Proposed
 formerly:
 - CLAIM-tmphbmpy
-title: 'The school-system case does not separate where an equal budget acts from what kind of instrument it buys: the arms acting on teachers'' effort are the only ones paid conditionally on outcomes, so the threefold difference gives the placement thesis an example and not a test'
+title: 'School case is an example, not a test'
+statement: >-
+  The school-system case does not separate where an equal budget acts from
+  what kind of instrument it buys: the arms acting on teachers' effort are
+  the only ones paid conditionally on outcomes, so the threefold difference
+  gives the placement thesis an example and not a test
 version: 1
 history:
 - version: 1
@@ -40,7 +45,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-1160 THEORY-2296 — new; filed by the lead run of 2026-11-23 -->
 
-# CLAIM-1107: The school-system case does not separate where an equal budget acts from what kind of instrument it buys: the arms acting on teachers' effort are the only ones paid conditionally on outcomes, so the threefold difference gives the placement thesis an example and not a test
+# CLAIM-1107: School case is an example, not a test
 
 ## The objection
 

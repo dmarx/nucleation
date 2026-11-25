@@ -3,7 +3,11 @@ number: 283
 status: Active
 formerly:
 - CLAIM-tmpqkpuo
-title: 'The precedence a motive claims over action and the authority the rest of the organization grants it are different quantities: a motive can claim control without receiving it, and be granted control it does not claim'
+title: 'Claimed precedence is not granted authority'
+statement: >-
+  The precedence a motive claims over action and the authority the rest of
+  the organization grants it are different quantities: a motive can claim
+  control without receiving it, and be granted control it does not claim
 version: 4
 history:
 - version: 2
@@ -66,7 +70,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-055 THEORY-056 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CLAIM-484 — Proposed; this claim's former second half, split off 2026-10-27 -->
 
-# CLAIM-283: The precedence a motive claims over action and the authority the rest of the organization grants it are different quantities: a motive can claim control without receiving it, and be granted control it does not claim
+# CLAIM-283: Claimed precedence is not granted authority
 
 ## The claim
 

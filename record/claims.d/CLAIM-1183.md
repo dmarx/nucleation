@@ -3,7 +3,14 @@ number: 1183
 status: Active
 formerly:
 - CLAIM-tmpvqmwc
-title: 'In a simulated sensor network whose correspondences drift, revision improves prediction on positions the network did not choose only when it answers to beacons whose position and channel the revision can neither rewrite nor refuse; revision by the sensors'' disagreement alone restores consistency and not accuracy, and a revisable beacon map or a right to refuse disagreeing beacons loses part or all of the gain'
+title: 'Only unrewritable beacons improve accuracy'
+statement: >-
+  In a simulated sensor network whose correspondences drift, revision
+  improves prediction on positions the network did not choose only when it
+  answers to beacons whose position and channel the revision can neither
+  rewrite nor refuse; revision by the sensors' disagreement alone restores
+  consistency and not accuracy, and a revisable beacon map or a right to
+  refuse disagreeing beacons loses part or all of the gain
 version: 3
 history:
 - version: 1
@@ -68,7 +75,7 @@ works:
 - governance-of-possibility
 ---
 
-# CLAIM-1183: In a simulated sensor network whose correspondences drift, revision improves prediction on positions the network did not choose only when it answers to beacons whose position and channel the revision can neither rewrite nor refuse; revision by the sensors' disagreement alone restores consistency and not accuracy, and a revisable beacon map or a right to refuse disagreeing beacons loses part or all of the gain
+# CLAIM-1183: Only unrewritable beacons improve accuracy
 
 ## The claim
 

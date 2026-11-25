@@ -3,7 +3,11 @@ number: 834
 status: Proposed
 formerly:
 - CLAIM-tmpp83vc
-title: 'Singularity theory''s account of phase transitions in learning as resolutions of singularities might be useful for the account of progressive, coarse-to-fine learning the exchange had built'
+title: 'Singularity theory may explain coarse-to-fine'
+statement: >-
+  Singularity theory's account of phase transitions in learning as
+  resolutions of singularities might be useful for the account of
+  progressive, coarse-to-fine learning the exchange had built
 version: 1
 role: thesis
 warrant: interpretive
@@ -55,7 +59,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-2163 THEORY-2164 — Proposed readings, filed 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-812 THEORY-2157 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
-# CLAIM-834: Singularity theory's account of phase transitions in learning as resolutions of singularities might be useful for the account of progressive, coarse-to-fine learning the exchange had built
+# CLAIM-834: Singularity theory may explain coarse-to-fine
 
 ## The claim
 

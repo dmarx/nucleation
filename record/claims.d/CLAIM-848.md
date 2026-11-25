@@ -3,7 +3,16 @@ number: 848
 status: Proposed
 formerly:
 - CLAIM-tmpym2vz
-title: "A rank power-law spectrum with exponent just above 1, at the limit that Stringer's smoothness bound, α > 1 + 2/m on the tail of a smooth code of an m-dimensional stimulus manifold, allows, bounds the participation ratio as width grows, but the bound is approached only at widths exponential in m, so at realistic widths such a code has a participation ratio of about 13 to 29 for m from 10 to 100, and neither the participation ratio nor its growth with width tracks intrinsic dimension or separates the regimes either side of α = 1"
+title: 'Participation ratio misses intrinsic dimension'
+statement: >-
+  A rank power-law spectrum with exponent just above 1, at the limit that
+  Stringer's smoothness bound, α > 1 + 2/m on the tail of a smooth code of
+  an m-dimensional stimulus manifold, allows, bounds the participation ratio
+  as width grows, but the bound is approached only at widths exponential in
+  m, so at realistic widths such a code has a participation ratio of about
+  13 to 29 for m from 10 to 100, and neither the participation ratio nor its
+  growth with width tracks intrinsic dimension or separates the regimes
+  either side of α = 1
 version: 2
 history:
 - version: 2
@@ -59,7 +68,7 @@ summary: >-
 <!-- inactive-ok-file: ARG-130 — new and Proposed or Rejected, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
 <!-- inactive-ok-file: THEORY-2189 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
-# CLAIM-848: A rank power-law spectrum with exponent just above 1, at the limit that Stringer's smoothness bound, α > 1 + 2/m on the tail of a smooth code of an m-dimensional stimulus manifold, allows, bounds the participation ratio as width grows, but the bound is approached only at widths exponential in m, so at realistic widths such a code has a participation ratio of about 13 to 29 for m from 10 to 100, and neither the participation ratio nor its growth with width tracks intrinsic dimension or separates the regimes either side of α = 1
+# CLAIM-848: Participation ratio misses intrinsic dimension
 
 ## The claim
 

@@ -1,6 +1,13 @@
 ---
 status: Proposed
-title: 'The form in which knowledge becomes institutionally legible is separated from the form in which it is productively developed, so a researcher who can sustain an inquiry and not its conversion into manuscripts meets a design choice of the publishing apparatus and not only a personal obstacle, and a record from which manuscripts are drawn as views reduces the separation'
+title: 'Legible form is split from productive form'
+statement: >-
+  The form in which knowledge becomes institutionally legible is separated
+  from the form in which it is productively developed, so a researcher who
+  can sustain an inquiry and not its conversion into manuscripts meets a
+  design choice of the publishing apparatus and not only a personal
+  obstacle, and a record from which manuscripts are drawn as views reduces
+  the separation
 version: 3
 history:
 - version: 2
@@ -53,7 +60,7 @@ works:
 ---
 <!-- inactive-ok-file: CLAIM-178 CLAIM-tmpkvi10 CLAIM-1200 CLAIM-tmp97pg4 ADR-143 — Proposed; the premises and the supposition it complements -->
 
-# CLAIM-tmpbvvmp: The form in which knowledge becomes institutionally legible is separated from the form in which it is productively developed, so a researcher who can sustain an inquiry and not its conversion into manuscripts meets a design choice of the publishing apparatus and not only a personal obstacle, and a record from which manuscripts are drawn as views reduces the separation
+# CLAIM-tmpbvvmp: Legible form is split from productive form
 
 ## The claim
 

@@ -3,7 +3,14 @@ number: 1008
 status: Active
 formerly:
 - CLAIM-tmp2dr12
-title: "Where inquiry of depth k must finish before execution can start within a deadline H, the chance of success p(k)F(H − t(k)) is greatest at an interior depth where the relative gain in finding a suitable response equals the time cost times the relative loss in execution readiness, so the appropriate depth of inquiry depends on the deadline and on the target's response dynamics"
+title: 'Optimal inquiry depth depends on deadline'
+statement: >-
+  Where inquiry of depth k must finish before execution can start within a
+  deadline H, the chance of success p(k)F(H − t(k)) is greatest at an
+  interior depth where the relative gain in finding a suitable response
+  equals the time cost times the relative loss in execution readiness, so
+  the appropriate depth of inquiry depends on the deadline and on the
+  target's response dynamics
 version: 2
 role: thesis
 warrant: demonstrated
@@ -52,7 +59,7 @@ history:
 ---
 <!-- inactive-ok-file: CLAIM-1070 — Proposed; the claim this rests on, the gap fill, the case filed with it and the claim whose phrase A uses -->
 
-# CLAIM-1008: Where inquiry of depth k must finish before execution can start within a deadline H, the chance of success p(k)F(H − t(k)) is greatest at an interior depth where the relative gain in finding a suitable response equals the time cost times the relative loss in execution readiness, so the appropriate depth of inquiry depends on the deadline and on the target's response dynamics
+# CLAIM-1008: Optimal inquiry depth depends on deadline
 
 ## The worked example (A52 §2)
 

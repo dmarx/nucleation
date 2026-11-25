@@ -3,7 +3,11 @@ number: 179
 status: Proposed
 formerly:
 - CLAIM-tmp6b44r
-title: 'When an agent does the filing, the cost of capturing argument falls on the party that would otherwise pay to re-derive it, which removes the disparity that design-rationale systems were abandoned over'
+title: 'Agent filing removes the cost disparity'
+statement: >-
+  When an agent does the filing, the cost of capturing argument falls on the
+  party that would otherwise pay to re-derive it, which removes the
+  disparity that design-rationale systems were abandoned over
 version: 3
 history:
 - version: 2
@@ -65,7 +69,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-311 — Proposed; the disparity account filed from the reading of LIT-757, cited in a note and not leaned on -->
 <!-- inactive-ok-file: THEORY-1726 THEORY-1739 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
-# CLAIM-179: When an agent does the filing, the cost of capturing argument falls on the party that would otherwise pay to re-derive it, which removes the disparity that design-rationale systems were abandoned over
+# CLAIM-179: Agent filing removes the cost disparity
 
 ## The claim
 

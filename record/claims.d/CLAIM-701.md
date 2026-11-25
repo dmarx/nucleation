@@ -3,7 +3,14 @@ number: 701
 status: Proposed
 formerly:
 - CLAIM-tmp5zzud
-title: 'An actor that wrongfully creates circumstances in which reversing its act would harm innocent third parties can give a reviewing institution genuine reasons to accommodate those harms, as moral blackmail gives its target a genuine obligation; the reviewer''s sound weighing of those reasons does not discharge the actor''s responsibility for having wrongfully created them, and the reasons are no larger than the circumstances support'
+title: 'Accommodating created harms does not absolve'
+statement: >-
+  An actor that wrongfully creates circumstances in which reversing its act
+  would harm innocent third parties can give a reviewing institution genuine
+  reasons to accommodate those harms, as moral blackmail gives its target a
+  genuine obligation; the reviewer's sound weighing of those reasons does
+  not discharge the actor's responsibility for having wrongfully created
+  them, and the reasons are no larger than the circumstances support
 version: 5
 history:
 - version: 2
@@ -92,7 +99,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-726 — filed from the continuation of the same exchange on 2026-11-17, Proposed or Open -->
 <!-- inactive-ok-file: CLAIM-708 — filed from the exchange "Assess Depp Heard Abuse", Proposed -->
 
-# CLAIM-701: An actor that wrongfully creates circumstances in which reversing its act would harm innocent third parties can give a reviewing institution genuine reasons to accommodate those harms, as moral blackmail gives its target a genuine obligation; the reviewer's sound weighing of those reasons does not discharge the actor's responsibility for having wrongfully created them, and the reasons are no larger than the circumstances support
+# CLAIM-701: Accommodating created harms does not absolve
 
 ## The claim
 

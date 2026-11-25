@@ -3,7 +3,12 @@ number: 48
 status: Superseded
 formerly:
 - CLAIM-tmpdgdmt
-title: 'Communication transports structures of observational constraints rather than invariant semantic objects, and translation, language-model reconstruction and conditional image generation are realizations of one process'
+title: 'Translation, LMs and T2I are one process'
+statement: >-
+  Communication transports structures of observational constraints rather
+  than invariant semantic objects, and translation, language-model
+  reconstruction and conditional image generation are realizations of one
+  process
 version: 1
 role: thesis
 warrant: interpretive
@@ -30,7 +35,7 @@ summary: >-
 <!-- ref::uses-file: TERM-010 — stated in "fidelity, as a weighted three-term directed distortion"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->
 <!-- inactive-ok-file: CLAIM-036 CLAIM-120 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 
-# CLAIM-048: Communication transports structures of observational constraints rather than invariant semantic objects, and translation, language-model reconstruction and conditional image generation are realizations of one process
+# CLAIM-048: Translation, LMs and T2I are one process
 
 ## The claim
 

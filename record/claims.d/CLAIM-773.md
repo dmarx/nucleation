@@ -3,7 +3,18 @@ number: 773
 status: Proposed
 formerly:
 - CLAIM-tmphedau
-title: 'In a linear Gaussian restatement step, an idea''s drift from its source splits by the part of the step each feature lies in: a contracted feature drifts toward the convention and stops there, a feature copied with random error drifts undirected as the square root of the number of steps, a feature copied with a bias drifts directed and without bound, and a conserved one does not drift; a constant bias costs no retention, so drift and retention vary independently; and a feature passes a distance δ after about δ²/σ² restatements by random error, after ln(D/(D − δ))/ln(1/a) by contraction toward a convention at distance D > δ, and by contraction toward a convention nearer than δ only through noise'
+title: 'Drift splits by how each feature is copied'
+statement: >-
+  In a linear Gaussian restatement step, an idea's drift from its source
+  splits by the part of the step each feature lies in: a contracted feature
+  drifts toward the convention and stops there, a feature copied with random
+  error drifts undirected as the square root of the number of steps, a
+  feature copied with a bias drifts directed and without bound, and a
+  conserved one does not drift; a constant bias costs no retention, so drift
+  and retention vary independently; and a feature passes a distance δ after
+  about δ²/σ² restatements by random error, after ln(D/(D − δ))/ln(1/a) by
+  contraction toward a convention at distance D > δ, and by contraction
+  toward a convention nearer than δ only through noise
 version: 1
 role: thesis
 warrant: demonstrated
@@ -43,7 +54,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-779 CLAIM-772 TERM-132 CLAIM-180 CLAIM-186 CLAIM-191 CLAIM-189 CLAIM-114 — Proposed; the results this extends, and the claims it bears on -->
 
-# CLAIM-773: In a linear Gaussian restatement step, an idea's drift from its source splits by the part of the step each feature lies in: a contracted feature drifts toward the convention and stops there, a feature copied with random error drifts undirected as the square root of the number of steps, a feature copied with a bias drifts directed and without bound, and a conserved one does not drift; a constant bias costs no retention, so drift and retention vary independently; and a feature passes a distance δ after about δ²/σ² restatements by random error, after ln(D/(D − δ))/ln(1/a) by contraction toward a convention at distance D > δ, and by contraction toward a convention nearer than δ only through noise
+# CLAIM-773: Drift splits by how each feature is copied
 
 ## The model
 

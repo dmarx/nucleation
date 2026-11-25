@@ -3,7 +3,15 @@ number: 874
 status: Proposed
 formerly:
 - CLAIM-tmpsjab8
-title: 'Read by its wording and its formal anchor, the independent scoring that keeps a judgement–observation loop from confirming itself is scoring that does not read the interpretation, so share-dependent advantage counts as independent scoring, a loop whose authority reinforces itself against weak independent evidence meets the defeater of the claim that such evidence is the anchor, and that claim holds only for loops whose authority does not reinforce itself apart from the interpretation'
+title: 'Share-dependent advantage counts as independent'
+statement: >-
+  Read by its wording and its formal anchor, the independent scoring that
+  keeps a judgement–observation loop from confirming itself is scoring that
+  does not read the interpretation, so share-dependent advantage counts as
+  independent scoring, a loop whose authority reinforces itself against weak
+  independent evidence meets the defeater of the claim that such evidence is
+  the anchor, and that claim holds only for loops whose authority does not
+  reinforce itself apart from the interpretation
 version: 1
 role: supposed
 warrant: interpretive
@@ -47,7 +55,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: TERM-147 CLAIM-873 CASE-312 — new; filed together for LEAD-121 -->
 
-# CLAIM-874: Read by its wording and its formal anchor, the independent scoring that keeps a judgement–observation loop from confirming itself is scoring that does not read the interpretation, so share-dependent advantage counts as independent scoring, a loop whose authority reinforces itself against weak independent evidence meets the defeater of the claim that such evidence is the anchor, and that claim holds only for loops whose authority does not reinforce itself apart from the interpretation
+# CLAIM-874: Share-dependent advantage counts as independent
 
 ## The claim
 

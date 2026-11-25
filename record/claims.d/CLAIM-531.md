@@ -3,7 +3,16 @@ number: 531
 status: Active
 formerly:
 - CLAIM-tmpr242r
-title: 'Generative entrenchment does not by itself give organizational closure: an entrenched core, which later interactions depend on so that perturbing it is catastrophic and perturbing them tolerable, can sit at the root of an acyclic dependency order, and where interactions turn over such an order persists only while something outside supplies its core; an organization that is both entrenched and closed has a core containing a cycle of mutual maintenance, each interaction on which is itself core unless its share of the maintenance is redundant'
+title: 'Entrenchment does not give closure'
+statement: >-
+  Generative entrenchment does not by itself give organizational closure: an
+  entrenched core, which later interactions depend on so that perturbing it
+  is catastrophic and perturbing them tolerable, can sit at the root of an
+  acyclic dependency order, and where interactions turn over such an order
+  persists only while something outside supplies its core; an organization
+  that is both entrenched and closed has a core containing a cycle of mutual
+  maintenance, each interaction on which is itself core unless its share of
+  the maintenance is redundant
 version: 4
 history:
 - version: 2
@@ -77,7 +86,7 @@ works:
 <!-- inactive-ok-file: LIT-188 — Proposed: read in full; the sketch whose step from entrenchment to closure this claim examines -->
 <!-- inactive-ok-file: LIT-1926 — Unavailable since 2026-11-22, unread; cited for what the reading of LIT-188 reports of it -->
 
-# CLAIM-531: Generative entrenchment does not by itself give organizational closure: an entrenched core, which later interactions depend on so that perturbing it is catastrophic and perturbing them tolerable, can sit at the root of an acyclic dependency order, and where interactions turn over such an order persists only while something outside supplies its core; an organization that is both entrenched and closed has a core containing a cycle of mutual maintenance, each interaction on which is itself core unless its share of the maintenance is redundant
+# CLAIM-531: Entrenchment does not give closure
 
 ## The claim
 

@@ -3,11 +3,14 @@ number: 1074
 status: Proposed
 formerly:
 - CLAIM-tmpcljke
-title: 'A plurality of pseudo-selves can be ecologically unified without being a
-  pseudo-self, and what marks the difference is whether some whole-level slow variable
-  is maintained as the whole''s: members that read it, condition on it and regenerate
-  it make the plurality integrated, while members coupled only through each other''s
-  conditions of existence make it an ecosystem'
+title: 'Integration is a regenerated whole-level variable'
+statement: >-
+  A plurality of pseudo-selves can be ecologically unified without being a
+  pseudo-self, and what marks the difference is whether some whole-level
+  slow variable is maintained as the whole's: members that read it,
+  condition on it and regenerate it make the plurality integrated, while
+  members coupled only through each other's conditions of existence make it
+  an ecosystem
 version: 1
 role: thesis
 warrant: interpretive
@@ -38,7 +41,7 @@ summary: One of two answers to the owner's question of 2026-11-23 ([QUESTION-521
 
 <!-- inactive-ok-file: CLAIM-327 CLAIM-1015 TERM-166 CLAIM-1153 — Proposed; the premises, the term and the alternative -->
 
-# CLAIM-1074: A plurality of pseudo-selves can be ecologically unified without being a pseudo-self, and what marks the difference is whether some whole-level slow variable is maintained as the whole's: members that read it, condition on it and regenerate it make the plurality integrated, while members coupled only through each other's conditions of existence make it an ecosystem
+# CLAIM-1074: Integration is a regenerated whole-level variable
 
 ## The claim
 

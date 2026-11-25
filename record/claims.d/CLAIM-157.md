@@ -3,7 +3,12 @@ number: 157
 status: Proposed
 formerly:
 - CLAIM-tmp8tsw5
-title: 'Relative to a stated target, a combined form is one system while its joint dynamics are nearly decomposable with the form as a block whose gap beats the Occam factor, and it lasts as long as that block persists; the unit is the gap-isolated block, not any member'
+title: 'A combined form is a gap-isolated block'
+statement: >-
+  Relative to a stated target, a combined form is one system while its joint
+  dynamics are nearly decomposable with the form as a block whose gap beats
+  the Occam factor, and it lasts as long as that block persists; the unit is
+  the gap-isolated block, not any member
 version: 12
 history:
 - version: 2
@@ -146,7 +151,7 @@ bears_on:
 <!-- inactive-ok-file: LIT-902 — cited for the compensation test (unread) and the extended-mind case; not leaned on beyond what is said -->
 <!-- inactive-ok-file: CASE-347 CLAIM-926 — new, filed 2026-11-22 from LEAD-026's study -->
 
-# CLAIM-157: Relative to a stated target, a combined form is one system while its joint dynamics are nearly decomposable with the form as a block whose gap beats the Occam factor, and it lasts as long as that block persists; the unit is the gap-isolated block, not any member
+# CLAIM-157: A combined form is a gap-isolated block
 
 ## The claim
 

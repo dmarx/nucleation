@@ -3,7 +3,11 @@ number: 131
 status: Active
 formerly:
 - CLAIM-tmp2xpga
-title: 'A compatible family of sections of the event sheaf always glues, so where a communicative object lacks a global realization the obstruction lies in its supports or distributions, not in the event sheaf'
+title: 'Event sheaf sections always glue'
+statement: >-
+  A compatible family of sections of the event sheaf always glues, so where
+  a communicative object lacks a global realization the obstruction lies in
+  its supports or distributions, not in the event sheaf
 version: 2
 history:
 - version: 2
@@ -46,7 +50,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-037 — Proposed; open, and cited as open: the claim is under test, not settled -->
 <!-- inactive-ok-file: TERM-002 — Superseded; cited as the wording this claim corrects -->
 
-# CLAIM-131: A compatible family of sections of the event sheaf always glues, so where a communicative object lacks a global realization the obstruction lies in its supports or distributions, not in the event sheaf
+# CLAIM-131: Event sheaf sections always glue
 
 ## The claim
 

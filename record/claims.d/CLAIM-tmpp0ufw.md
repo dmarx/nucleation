@@ -1,6 +1,14 @@
 ---
 status: Proposed
-title: 'Reflexive control can act on how a target''s characteristic organization forms, not only on the evidence, criteria or circumstances of its decisions: a transmissible expression the target takes up can seed interpretive, evidence-selecting and authority-allocating dispositions that the target then maintains itself, so the influence outlasts its source, reaches circumstances the intervention never presented, and leaves formation provenance outside while maintenance is the target''s own'
+title: 'Reflexive control can shape organization formation'
+statement: >-
+  Reflexive control can act on how a target's characteristic organization
+  forms, not only on the evidence, criteria or circumstances of its
+  decisions: a transmissible expression the target takes up can seed
+  interpretive, evidence-selecting and authority-allocating dispositions
+  that the target then maintains itself, so the influence outlasts its
+  source, reaches circumstances the intervention never presented, and leaves
+  formation provenance outside while maintenance is the target's own
 version: 1
 role: thesis
 warrant: interpretive
@@ -55,7 +63,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-545 — Proposed; cited for what the claim does not say -->
 
-# CLAIM-tmpp0ufw: Reflexive control can act on how a target's characteristic organization forms, not only on the evidence, criteria or circumstances of its decisions: a transmissible expression the target takes up can seed interpretive, evidence-selecting and authority-allocating dispositions that the target then maintains itself, so the influence outlasts its source, reaches circumstances the intervention never presented, and leaves formation provenance outside while maintenance is the target's own
+# CLAIM-tmpp0ufw: Reflexive control can shape organization formation
 
 ## The claim
 

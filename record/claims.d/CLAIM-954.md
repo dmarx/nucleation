@@ -3,7 +3,15 @@ number: 954
 status: Proposed
 formerly:
 - CLAIM-tmph4j0u
-title: 'In a simulated engagement network, only engagement under randomized exposure tells classes inferred, classes used and classes that reshape preferences apart: steering exposure by the classes raises concentration, fit and stability whether or not preferences move; the randomized-exposure gap stays put when preferences are fixed, grows when the classes steer exposure while users and creators adapt, and shrinks under the same adaptation without them'
+title: 'Only randomized exposure separates class roles'
+statement: >-
+  In a simulated engagement network, only engagement under randomized
+  exposure tells classes inferred, classes used and classes that reshape
+  preferences apart: steering exposure by the classes raises concentration,
+  fit and stability whether or not preferences move; the randomized-exposure
+  gap stays put when preferences are fixed, grows when the classes steer
+  exposure while users and creators adapt, and shrinks under the same
+  adaptation without them
 version: 1
 role: thesis
 warrant: empirical
@@ -47,7 +55,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-296 CLAIM-762 CLAIM-327 — Proposed; the case this study runs and the claims it bears on -->
 <!-- inactive-ok-file: CASE-367 — new; the study this claim reports -->
 
-# CLAIM-954: In a simulated engagement network, only engagement under randomized exposure tells classes inferred, classes used and classes that reshape preferences apart: steering exposure by the classes raises concentration, fit and stability whether or not preferences move; the randomized-exposure gap stays put when preferences are fixed, grows when the classes steer exposure while users and creators adapt, and shrinks under the same adaptation without them
+# CLAIM-954: Only randomized exposure separates class roles
 
 ## The claim
 

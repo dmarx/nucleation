@@ -3,7 +3,10 @@ number: 1134
 status: Proposed
 formerly:
 - CLAIM-tmpm58vk
-title: "Intelligence is epistemic richness, the ecological richness of an organization's ways of asking and answering"
+title: 'Intelligence is epistemic richness'
+statement: >-
+  Intelligence is epistemic richness, the ecological richness of an
+  organization's ways of asking and answering
 version: 1
 role: thesis
 warrant: interpretive
@@ -36,7 +39,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-1034 CLAIM-1102 CLAIM-1106 TERM-158 — Proposed; entries filed from this exchange or neighbours cited, not leaned on as in force -->
 
-# CLAIM-1134: Intelligence is epistemic richness, the ecological richness of an organization's ways of asking and answering
+# CLAIM-1134: Intelligence is epistemic richness
 
 ## The claim
 

@@ -3,7 +3,12 @@ number: 579
 status: Active
 formerly:
 - CLAIM-tmpov8rf
-title: 'A reserve is described by where in a configuration space it can be applied, not only by how much there is: an organization can hold ample slack and still be pinned, when none of it can be brought to bear at the bottleneck of the transition it needs'
+title: 'Slack counts only where it can be applied'
+statement: >-
+  A reserve is described by where in a configuration space it can be
+  applied, not only by how much there is: an organization can hold ample
+  slack and still be pinned, when none of it can be brought to bear at the
+  bottleneck of the transition it needs
 version: 4
 history:
 - version: 2
@@ -82,7 +87,7 @@ works:
 ---
 <!-- inactive-ok-file: CASE-205 — Proposed or Skimmed; entries of 2026-11-04 and 2026-11-05 from the readiness and constraint-architecture filings, cited as open -->
 
-# CLAIM-579: A reserve is described by where in a configuration space it can be applied, not only by how much there is: an organization can hold ample slack and still be pinned, when none of it can be brought to bear at the bottleneck of the transition it needs
+# CLAIM-579: Slack counts only where it can be applied
 
 ## The claim
 

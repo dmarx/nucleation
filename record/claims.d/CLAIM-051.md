@@ -3,7 +3,11 @@ number: 51
 status: Superseded
 formerly:
 - CLAIM-tmpeponh
-title: 'Fidelity is always fidelity with respect to some selected structure: a specified family of communicative observations, interventions and permitted continuations'
+title: 'Fidelity is always to a selected structure'
+statement: >-
+  Fidelity is always fidelity with respect to some selected structure: a
+  specified family of communicative observations, interventions and
+  permitted continuations
 version: 1
 role: thesis
 warrant: interpretive
@@ -28,7 +32,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-020 — Rejected; answered or abandoned, and cited as the history this entry answers -->
 
-# CLAIM-051: Fidelity is always fidelity with respect to some selected structure: a specified family of communicative observations, interventions and permitted continuations
+# CLAIM-051: Fidelity is always to a selected structure
 
 ## The claim
 

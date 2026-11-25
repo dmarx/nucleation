@@ -3,7 +3,10 @@ number: 80
 status: Active
 formerly:
 - CLAIM-tmpmguco
-title: 'The agent is independently warranted: the account asks how a given agent''s practical efficacy is organized, not what makes something an agent'
+title: 'The agent is independently warranted'
+statement: >-
+  The agent is independently warranted: the account asks how a given agent's
+  practical efficacy is organized, not what makes something an agent
 version: 1
 role: supposed
 warrant: interpretive
@@ -20,7 +23,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1280 THEORY-1277 THEORY-1284 QUESTION-009 — Proposed or Open; the readings set against and beside this supposition, and the questions it leaves open -->
 
-# CLAIM-080: The agent is independently warranted: the account asks how a given agent's practical efficacy is organized, not what makes something an agent
+# CLAIM-080: The agent is independently warranted
 
 ## The claim
 

@@ -3,7 +3,11 @@ number: 35
 status: Active
 formerly:
 - CLAIM-tmpamojl
-title: 'Translation operations are generally not invertible, need not compose by a fixed rule, and preserve no structure given in advance; which communicative properties are invariant must be discovered or negotiated'
+title: 'Non-invertible translation, negotiated invariants'
+statement: >-
+  Translation operations are generally not invertible, need not compose by a
+  fixed rule, and preserve no structure given in advance; which
+  communicative properties are invariant must be discovered or negotiated
 version: 2
 history:
 - version: 2
@@ -36,7 +40,7 @@ complements:
 <!-- inactive-ok-file: CLAIM-004 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: ARG-004 — Rejected; answered or abandoned, and cited as the history this entry answers -->
 
-# CLAIM-035: Translation operations are generally not invertible, need not compose by a fixed rule, and preserve no structure given in advance; which communicative properties are invariant must be discovered or negotiated
+# CLAIM-035: Non-invertible translation, negotiated invariants
 
 ## The claim
 

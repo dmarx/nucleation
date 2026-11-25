@@ -3,7 +3,14 @@ number: 1087
 status: Proposed
 formerly:
 - CLAIM-tmpep410
-title: 'When a response adapts toward its evaluative standard and the standard adapts toward the response, their gap closes at the sum of the two rates while a weighted mean of the two is conserved, so both converge to a point fixed by their initial conditions and not by any independent target; a pull of the standard toward an independently grounded target makes that target the stable equilibrium'
+title: 'Co-adapting standard converges to no target'
+statement: >-
+  When a response adapts toward its evaluative standard and the standard
+  adapts toward the response, their gap closes at the sum of the two rates
+  while a weighted mean of the two is conserved, so both converge to a point
+  fixed by their initial conditions and not by any independent target; a
+  pull of the standard toward an independently grounded target makes that
+  target the stable equilibrium
 version: 1
 role: thesis
 warrant: demonstrated
@@ -37,7 +44,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-1053 CLAIM-1050 — Proposed; A50's reading of this model and the assistant's rates for its anchored form, filed with it -->
 
-# CLAIM-1087: When a response adapts toward its evaluative standard and the standard adapts toward the response, their gap closes at the sum of the two rates while a weighted mean of the two is conserved, so both converge to a point fixed by their initial conditions and not by any independent target; a pull of the standard toward an independently grounded target makes that target the stable equilibrium
+# CLAIM-1087: Co-adapting standard converges to no target
 
 ## The model
 

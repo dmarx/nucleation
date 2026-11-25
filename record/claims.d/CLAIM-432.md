@@ -3,7 +3,17 @@ number: 432
 status: Proposed
 formerly:
 - CLAIM-tmpi98gg
-title: 'A corporation can be an agent fit to be held responsible and the bearer of functional affect in Frijda''s sense, so psychopathy''s affective features can be assigned to it as well as its conduct: it lacks remorse, functionally, when harm it does to others is not among the concerns its own appraisals track and gains precedence over what it does only when a regulator or a market turns it into a threat to the corporation''s concerns; that profile, threat without remorse, is the construct''s, and it is changed by redesigning the corporation''s concerns, not its members'' characters'
+title: 'A corporation can lack remorse functionally'
+statement: >-
+  A corporation can be an agent fit to be held responsible and the bearer of
+  functional affect in Frijda's sense, so psychopathy's affective features
+  can be assigned to it as well as its conduct: it lacks remorse,
+  functionally, when harm it does to others is not among the concerns its
+  own appraisals track and gains precedence over what it does only when a
+  regulator or a market turns it into a threat to the corporation's
+  concerns; that profile, threat without remorse, is the construct's, and it
+  is changed by redesigning the corporation's concerns, not its members'
+  characters
 version: 5
 history:
 - version: 2
@@ -109,7 +119,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-1426 LIT-1429 LIT-1430 LIT-1431 LIT-1432 — Unavailable, no lawful full text; named for what its description or abstract says, not leaned on as read -->
 <!-- inactive-ok-file: CLAIM-442 — Proposed; a reading of remorse that disagrees with this claim's, and the objection whose condition CLAIM-440 took in, cited in the note of 2026-11-11 -->
 
-# CLAIM-432: A corporation can be an agent fit to be held responsible and the bearer of functional affect in Frijda's sense, so psychopathy's affective features can be assigned to it as well as its conduct: it lacks remorse, functionally, when harm it does to others is not among the concerns its own appraisals track and gains precedence over what it does only when a regulator or a market turns it into a threat to the corporation's concerns; that profile, threat without remorse, is the construct's, and it is changed by redesigning the corporation's concerns, not its members' characters
+# CLAIM-432: A corporation can lack remorse functionally
 
 ## The claim
 

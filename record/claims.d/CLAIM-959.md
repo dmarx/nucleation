@@ -3,7 +3,13 @@ number: 959
 status: Proposed
 formerly:
 - CLAIM-tmp85wj6
-title: 'Where membership in a whole is normatively thick, a collective institution that is an agent or a cooperative scheme its constituents belong to, constitution can ground an obligation the whole owes a constituent that it owes no outsider, under an independently justified principle of associative obligation, with the whole, where it can owe, as the bearer'
+title: 'Thick membership can ground associative duties'
+statement: >-
+  Where membership in a whole is normatively thick, a collective institution
+  that is an agent or a cooperative scheme its constituents belong to,
+  constitution can ground an obligation the whole owes a constituent that it
+  owes no outsider, under an independently justified principle of
+  associative obligation, with the whole, where it can owe, as the bearer
 version: 1
 role: supposed
 warrant: interpretive
@@ -57,7 +63,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-960 — new; the rival reading this one is filed beside -->
 <!-- inactive-ok-file: CASE-256 CLAIM-877 CLAIM-671 THEORY-1814 THEORY-1818 — Proposed or new; the case, the term, the bearer reading and the readings cited, with their standing -->
 
-# CLAIM-959: Where membership in a whole is normatively thick, a collective institution that is an agent or a cooperative scheme its constituents belong to, constitution can ground an obligation the whole owes a constituent that it owes no outsider, under an independently justified principle of associative obligation, with the whole, where it can owe, as the bearer
+# CLAIM-959: Thick membership can ground associative duties
 
 ## The reading
 

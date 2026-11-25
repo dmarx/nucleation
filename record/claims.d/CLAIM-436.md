@@ -3,7 +3,18 @@ number: 436
 status: Active
 formerly:
 - CLAIM-tmp85p0g
-title: 'An instantaneous ordering is a common currency on a finite set of options, where every complete preorder has a real-valued representation, but not in general: the lexicographic order on the unit square has no real-valued representation, while a continuous complete preorder on a connected separable space has a continuous one; so admitting an ordering is strictly weaker than admitting a currency, a graded lexicographic override lies in the gap while an exact threshold override does not, a threshold override with a discrimination threshold is a lexicographic semiorder whose choices can cycle and so is no ordering at all, and even where each instant has a currency, successive currencies need not share exchange rates'
+title: 'Orderings need not be a common currency'
+statement: >-
+  An instantaneous ordering is a common currency on a finite set of options,
+  where every complete preorder has a real-valued representation, but not in
+  general: the lexicographic order on the unit square has no real-valued
+  representation, while a continuous complete preorder on a connected
+  separable space has a continuous one; so admitting an ordering is strictly
+  weaker than admitting a currency, a graded lexicographic override lies in
+  the gap while an exact threshold override does not, a threshold override
+  with a discrimination threshold is a lexicographic semiorder whose choices
+  can cycle and so is no ordering at all, and even where each instant has a
+  currency, successive currencies need not share exchange rates
 version: 5
 history:
 - version: 2
@@ -79,7 +90,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-101 THEORY-090 — Proposed; the two accounts whose distinction the result draws formally, cited as open -->
 <!-- inactive-ok-file: LIT-1454 — Unavailable, no lawful full text; Debreu 1954, cited for the theorem as Debreu restates it in LIT-1435 -->
 
-# CLAIM-436: An instantaneous ordering is a common currency on a finite set of options, where every complete preorder has a real-valued representation, but not in general: the lexicographic order on the unit square has no real-valued representation, while a continuous complete preorder on a connected separable space has a continuous one; so admitting an ordering is strictly weaker than admitting a currency, a graded lexicographic override lies in the gap while an exact threshold override does not, a threshold override with a discrimination threshold is a lexicographic semiorder whose choices can cycle and so is no ordering at all, and even where each instant has a currency, successive currencies need not share exchange rates
+# CLAIM-436: Orderings need not be a common currency
 
 ## The claim
 

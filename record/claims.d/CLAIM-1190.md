@@ -3,7 +3,13 @@ number: 1190
 status: Active
 formerly:
 - CLAIM-tmpx0wv9
-title: "Inquiry can fail at three sites, forming queries, producing answers and their joint realizability, and the third is not reducible to the first two, because which question–answer pairs an organization can attain together is not determined by the questions it can ask and the answers it can attain taken separately"
+title: 'Joint realizability is a third failure site'
+statement: >-
+  Inquiry can fail at three sites, forming queries, producing answers and
+  their joint realizability, and the third is not reducible to the first
+  two, because which question–answer pairs an organization can attain
+  together is not determined by the questions it can ask and the answers it
+  can attain taken separately
 version: 3
 history:
 - version: 2
@@ -74,7 +80,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-1009 CLAIM-754 ARG-221 — Proposed; the owner's thesis, the neighbour, the assistant's derivation and its argument, and A58's term -->
 
-# CLAIM-1190: Inquiry can fail at three sites, forming queries, producing answers and their joint realizability, and the third is not reducible to the first two, because which question–answer pairs an organization can attain together is not determined by the questions it can ask and the answers it can attain taken separately
+# CLAIM-1190: Joint realizability is a third failure site
 
 ## The claim
 

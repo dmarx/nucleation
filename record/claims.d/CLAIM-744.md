@@ -3,7 +3,14 @@ number: 744
 formerly:
 - CLAIM-tmpt091d
 status: Proposed
-title: 'Where one party gives up something now for a benefit another controls later, whether waiting is good judgment depends on the controller''s reliability, so the controller''s discretion over delivery is discretion over whether the other''s restraint is rational, and a controller not answerable for delivery can make that party''s patience a means of its control'
+title: 'Delivery discretion controls others'' patience'
+statement: >-
+  Where one party gives up something now for a benefit another controls
+  later, whether waiting is good judgment depends on the controller's
+  reliability, so the controller's discretion over delivery is discretion
+  over whether the other's restraint is rational, and a controller not
+  answerable for delivery can make that party's patience a means of its
+  control
 version: 3
 history:
 - version: 2
@@ -63,7 +70,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-281 CLAIM-728 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: TERM-124 TERM-110 — Proposed; the record's nearest entries, cited with their standing -->
 
-# CLAIM-744: Where one party gives up something now for a benefit another controls later, whether waiting is good judgment depends on the controller's reliability, so the controller's discretion over delivery is discretion over whether the other's restraint is rational, and a controller not answerable for delivery can make that party's patience a means of its control
+# CLAIM-744: Delivery discretion controls others' patience
 
 ## The claim
 

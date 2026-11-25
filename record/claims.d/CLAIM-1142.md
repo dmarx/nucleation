@@ -3,7 +3,16 @@ number: 1142
 status: Proposed
 formerly:
 - CLAIM-tmpngm72
-title: 'Stored information, belief, correct output, knowledge and understanding come apart in a learning system: there are coherent systems with information stored and not believed, a correct output neither believed nor reliable, reliable correct output without knowledge, a true and reliably sourced belief without knowledge, knowledge not accessible under the default query, knowledge without understanding, understanding without reliably correct output, and knowledge in a composite that neither part has'
+title: 'Stored, believed, known and understood come apart'
+statement: >-
+  Stored information, belief, correct output, knowledge and understanding
+  come apart in a learning system: there are coherent systems with
+  information stored and not believed, a correct output neither believed nor
+  reliable, reliable correct output without knowledge, a true and reliably
+  sourced belief without knowledge, knowledge not accessible under the
+  default query, knowledge without understanding, understanding without
+  reliably correct output, and knowledge in a composite that neither part
+  has
 version: 1
 role: thesis
 warrant: demonstrated
@@ -47,7 +56,7 @@ summary: >-
 <!-- inactive-ok-file: TERM-079 — Proposed; cited as the criterion applied, not relied on -->
 <!-- inactive-ok-file: CASE-408 CASE-400 CASE-416 CASE-399 CASE-413 CASE-409 CASE-394 CASE-414 CASE-403 CLAIM-1092 CLAIM-1059 CLAIM-1028 CLAIM-1086 — Proposed; filed by the lead run of 2026-11-23 -->
 
-# CLAIM-1142: Stored information, belief, correct output, knowledge and understanding come apart in a learning system: there are coherent systems with information stored and not believed, a correct output neither believed nor reliable, reliable correct output without knowledge, a true and reliably sourced belief without knowledge, knowledge not accessible under the default query, knowledge without understanding, understanding without reliably correct output, and knowledge in a composite that neither part has
+# CLAIM-1142: Stored, believed, known and understood come apart
 
 ## The claim
 

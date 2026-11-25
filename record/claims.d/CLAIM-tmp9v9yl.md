@@ -1,6 +1,11 @@
 ---
 status: Proposed
-title: 'Theories that purport to be originalist, unitary-executive or conservative can be shown in the framework''s terms to fall short of what they purport, where what they preserve, unify or hold to is not what their own rationale says should be preserved, unified or held to'
+title: 'Conservative theories can fall short of themselves'
+statement: >-
+  Theories that purport to be originalist, unitary-executive or conservative
+  can be shown in the framework's terms to fall short of what they purport,
+  where what they preserve, unify or hold to is not what their own rationale
+  says should be preserved, unified or held to
 version: 1
 role: thesis
 warrant: interpretive
@@ -30,7 +35,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-tmp1wlu2 CLAIM-tmpa8tdg CLAIM-tmpazcha CLAIM-tmpdzcj6 CLAIM-tmpgmxs0 CLAIM-tmpmp2wh CLAIM-tmpqhxsz LIT-tmpus6zs — Proposed, Deferred or Rejected; filed or cited in the filing of the exchange 'Memes, Contracts, and Systemic Normativity', whatever their standing -->
 
-# CLAIM-tmp9v9yl: Theories that purport to be originalist, unitary-executive or conservative can be shown in the framework's terms to fall short of what they purport, where what they preserve, unify or hold to is not what their own rationale says should be preserved, unified or held to
+# CLAIM-tmp9v9yl: Conservative theories can fall short of themselves
 
 ## The claim
 

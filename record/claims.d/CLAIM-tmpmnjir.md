@@ -1,6 +1,11 @@
 ---
 status: Proposed
-title: 'Nucleation is a transfer test of luria: what it tests is whether distinctions first useful for governing software development stay useful for governing an inquiry, and where they do not, whether the framework can take in the difference without losing its generality'
+title: 'Nucleation is a transfer test of luria'
+statement: >-
+  Nucleation is a transfer test of luria: what it tests is whether
+  distinctions first useful for governing software development stay useful
+  for governing an inquiry, and where they do not, whether the framework can
+  take in the difference without losing its generality
 version: 1
 role: thesis
 warrant: interpretive
@@ -34,7 +39,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-tmp97pg4 CLAIM-tmp5fv9h — Proposed; filed from the same exchange -->
 
-# CLAIM-tmpmnjir: Nucleation is a transfer test of luria: what it tests is whether distinctions first useful for governing software development stay useful for governing an inquiry, and where they do not, whether the framework can take in the difference without losing its generality
+# CLAIM-tmpmnjir: Nucleation is a transfer test of luria
 
 ## The claim
 

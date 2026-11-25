@@ -3,7 +3,11 @@ number: 69
 status: Superseded
 formerly:
 - CLAIM-tmpje74v
-title: 'The 2016 Contextuality-by-Default criterion was being replaced by multimaximal couplings as it appeared, and the change matters for observables in more than two contexts'
+title: 'Multimaximal couplings replaced 2016 CbD'
+statement: >-
+  The 2016 Contextuality-by-Default criterion was being replaced by
+  multimaximal couplings as it appeared, and the change matters for
+  observables in more than two contexts
 version: 3
 history:
 - version: 2
@@ -44,7 +48,7 @@ summary: >-
 <!-- inactive-ok-file: ARG-022 — Proposed; the argument this claim moved to -->
 <!-- inactive-ok-file: CLAIM-037 — Proposed; the claim this objection was to, open -->
 
-# CLAIM-069: The 2016 Contextuality-by-Default criterion was being replaced by multimaximal couplings as it appeared, and the change matters for observables in more than two contexts
+# CLAIM-069: Multimaximal couplings replaced 2016 CbD
 
 ## The claim
 

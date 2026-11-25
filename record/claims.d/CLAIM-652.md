@@ -3,7 +3,13 @@ number: 652
 status: Proposed
 formerly:
 - CLAIM-tmpavez3
-title: 'An organization that weighs a harmful practice by the failures its present users report can expand the practice with no act against complaint: as the harmed leave, the recognized cost of the practice falls with their share, so the score favours more of it, and the failures it records grow more slowly than the harm it does'
+title: 'Scoring by present users'' reports expands harm'
+statement: >-
+  An organization that weighs a harmful practice by the failures its present
+  users report can expand the practice with no act against complaint: as the
+  harmed leave, the recognized cost of the practice falls with their share,
+  so the score favours more of it, and the failures it records grow more
+  slowly than the harm it does
 version: 2
 history:
 - version: 2
@@ -62,7 +68,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-655 CASE-246 ARG-092 — Proposed; filed from the exchange of 2026-11-11 and its follow-up -->
 <!-- inactive-ok-file: CLAIM-619 CLAIM-614 CLAIM-624 — Proposed; the active counter-corrective route and the owner's counter-normativity -->
 
-# CLAIM-652: An organization that weighs a harmful practice by the failures its present users report can expand the practice with no act against complaint: as the harmed leave, the recognized cost of the practice falls with their share, so the score favours more of it, and the failures it records grow more slowly than the harm it does
+# CLAIM-652: Scoring by present users' reports expands harm
 
 ## The claim
 

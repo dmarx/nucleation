@@ -3,7 +3,11 @@ number: 90
 status: Proposed
 formerly:
 - CLAIM-tmppvvyq
-title: 'Serial transmission is reconstructive and filtered by the transmitters'' inductive biases, so a stable endpoint can be far from the ancestral utterance while remaining interpretable'
+title: 'Stable endpoints can be far from the ancestor'
+statement: >-
+  Serial transmission is reconstructive and filtered by the transmitters'
+  inductive biases, so a stable endpoint can be far from the ancestral
+  utterance while remaining interpretable
 version: 4
 history:
 - version: 2
@@ -58,7 +62,7 @@ bears_on:
 <!-- inactive-ok-file: LIT-768 — Unavailable; Bartlett, cited from the manuscript and said to be unread, no ground here -->
 <!-- inactive-ok-file: CLAIM-068 CLAIM-182 CLAIM-191 — Proposed; the dependents a narrowing would not free, named in the note of 2026-11-20, cited as open -->
 
-# CLAIM-090: Serial transmission is reconstructive and filtered by the transmitters' inductive biases, so a stable endpoint can be far from the ancestral utterance while remaining interpretable
+# CLAIM-090: Stable endpoints can be far from the ancestor
 
 ## The claim
 

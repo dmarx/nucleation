@@ -3,7 +3,15 @@ number: 323
 status: Active
 formerly:
 - CLAIM-tmpw35n1
-title: 'Where source and rendering are experiments about one common situation, a rendering that depends on the situation other than through the source is not a garbling of it and can be incomparable with it in Blackwell''s order: with Z uniform on {1, 2, 3}, a source that tells whether Z = 1 and a rendering that tells whether Z = 3 each have the lower 0–1 risk on one of the problems of saying whether Z = 1 and whether Z = 3, so neither dominates'
+title: 'Renderings need not be garblings of the source'
+statement: >-
+  Where source and rendering are experiments about one common situation, a
+  rendering that depends on the situation other than through the source is
+  not a garbling of it and can be incomparable with it in Blackwell's order:
+  with Z uniform on {1, 2, 3}, a source that tells whether Z = 1 and a
+  rendering that tells whether Z = 3 each have the lower 0–1 risk on one of
+  the problems of saying whether Z = 1 and whether Z = 3, so neither
+  dominates
 version: 2
 history:
 - version: 2
@@ -42,7 +50,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-258 CLAIM-212 CLAIM-091 — Proposed; the objection this case was split from, the reply that reads it as a report case, and the compensation claim the objection applies it through, cited as open -->
 <!-- inactive-ok-file: LIT-778 — Unavailable; Torgersen, unread here, named as where the quantitative question lies and not leaned on -->
 
-# CLAIM-323: Where source and rendering are experiments about one common situation, a rendering that depends on the situation other than through the source is not a garbling of it and can be incomparable with it in Blackwell's order: with Z uniform on {1, 2, 3}, a source that tells whether Z = 1 and a rendering that tells whether Z = 3 each have the lower 0–1 risk on one of the problems of saying whether Z = 1 and whether Z = 3, so neither dominates
+# CLAIM-323: Renderings need not be garblings of the source
 
 ## The claim
 

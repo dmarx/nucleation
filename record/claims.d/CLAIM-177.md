@@ -3,7 +3,12 @@ number: 177
 status: Active
 formerly:
 - CLAIM-tmp4qgbo
-title: 'In the record''s exchanges with collaborators who keep no memory, the argument repeatedly loses identity: concepts are redefined silently, objections and readings come back as though new, and the thesis changes without anyone arguing for the change'
+title: 'Memoryless collaboration loses the argument'
+statement: >-
+  In the record's exchanges with collaborators who keep no memory, the
+  argument repeatedly loses identity: concepts are redefined silently,
+  objections and readings come back as though new, and the thesis changes
+  without anyone arguing for the change
 version: 6
 history:
 - version: 2
@@ -75,7 +80,7 @@ bears_on:
 <!-- inactive-ok-file: ARG-004 — Rejected; cited as an analogy that came back after it was rejected, which is the point -->
 <!-- inactive-ok-file: CLAIM-217 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 
-# CLAIM-177: In the record's exchanges with collaborators who keep no memory, the argument repeatedly loses identity: concepts are redefined silently, objections and readings come back as though new, and the thesis changes without anyone arguing for the change
+# CLAIM-177: Memoryless collaboration loses the argument
 
 ## The claim
 

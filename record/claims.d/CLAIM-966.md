@@ -3,7 +3,16 @@ number: 966
 status: Proposed
 formerly:
 - CLAIM-tmp2eemo
-title: 'In a small transformer that has memorized arbitrary facts, fine-tuning some of them away by unlearning, overwriting or training on an unrelated task mostly leaves them recoverable, by another cue, the runner-up answer, a probe, reverting one early block''s update or relearning related facts, so the apparent forgetting is mostly readdressing and interference, not loss; the update that hides a fact sits mainly in the routing into the memory, not at the read-out; and only gradient ascent, which damages the whole model, leaves forgetting that looks like loss'
+title: 'Fine-tuned forgetting is mostly readdressing'
+statement: >-
+  In a small transformer that has memorized arbitrary facts, fine-tuning
+  some of them away by unlearning, overwriting or training on an unrelated
+  task mostly leaves them recoverable, by another cue, the runner-up answer,
+  a probe, reverting one early block's update or relearning related facts,
+  so the apparent forgetting is mostly readdressing and interference, not
+  loss; the update that hides a fact sits mainly in the routing into the
+  memory, not at the read-out; and only gradient ascent, which damages the
+  whole model, leaves forgetting that looks like loss
 version: 1
 history:
 - version: 1
@@ -56,7 +65,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-371 CASE-274 CLAIM-697 — new or Proposed; the run this rests on, the design it reduces, and the claim whose realization cost it uses -->
 
-# CLAIM-966: In a small transformer that has memorized arbitrary facts, fine-tuning some of them away by unlearning, overwriting or training on an unrelated task mostly leaves them recoverable, by another cue, the runner-up answer, a probe, reverting one early block's update or relearning related facts, so the apparent forgetting is mostly readdressing and interference, not loss; the update that hides a fact sits mainly in the routing into the memory, not at the read-out; and only gradient ascent, which damages the whole model, leaves forgetting that looks like loss
+# CLAIM-966: Fine-tuned forgetting is mostly readdressing
 
 ## The claim
 

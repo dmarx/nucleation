@@ -3,7 +3,12 @@ number: 260
 status: Active
 formerly:
 - CLAIM-tmpz7og0
-title: 'Approximate transports compose into a category only if the distortion obeys a triangle inequality and later kernels are nonexpansive, so the semigroup claim''s "category or semigroup" holds for exact kernels, and for approximate ones only under those conditions'
+title: 'Approximate transports compose only conditionally'
+statement: >-
+  Approximate transports compose into a category only if the distortion
+  obeys a triangle inequality and later kernels are nonexpansive, so the
+  semigroup claim's "category or semigroup" holds for exact kernels, and for
+  approximate ones only under those conditions
 version: 2
 history:
 - version: 2
@@ -45,7 +50,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: CLAIM-059 — Proposed; the graded-fidelity and regimes claims, cited as open -->
 
-# CLAIM-260: Approximate transports compose into a category only if the distortion obeys a triangle inequality and later kernels are nonexpansive, so the semigroup claim's "category or semigroup" holds for exact kernels, and for approximate ones only under those conditions
+# CLAIM-260: Approximate transports compose only conditionally
 
 ## The objection
 

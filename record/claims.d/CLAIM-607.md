@@ -3,7 +3,12 @@ number: 607
 status: Active
 formerly:
 - CLAIM-tmpp0p4d
-title: 'Of two constraint languages both NP-complete to satisfy, navigation can be polynomial for one and PSPACE-complete for the other: deciding whether two solutions are joined by single flips through solutions is polynomial for positive 1-in-3 SAT and PSPACE-complete for positive NAE-3SAT'
+title: 'Same NP hardness, different navigation'
+statement: >-
+  Of two constraint languages both NP-complete to satisfy, navigation can be
+  polynomial for one and PSPACE-complete for the other: deciding whether two
+  solutions are joined by single flips through solutions is polynomial for
+  positive 1-in-3 SAT and PSPACE-complete for positive NAE-3SAT
 version: 3
 history:
 - version: 2
@@ -61,7 +66,7 @@ summary: >-
   (NOTE-1584, NOTE-1613).
 ---
 
-# CLAIM-607: Of two constraint languages both NP-complete to satisfy, navigation can be polynomial for one and PSPACE-complete for the other: deciding whether two solutions are joined by single flips through solutions is polynomial for positive 1-in-3 SAT and PSPACE-complete for positive NAE-3SAT
+# CLAIM-607: Same NP hardness, different navigation
 
 ## The claim
 

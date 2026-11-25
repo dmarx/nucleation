@@ -28,7 +28,13 @@ complements:
 - CLAIM-445
 - CLAIM-700
 - CLAIM-tmp9xge5
-title: "Where observation carries anticipated consequences, those observed adapt to it, so monitoring can sharpen what an organization sees of expressed behaviour while weakening how much that behaviour reveals of the observed's own concerns, and can produce the conformity it then records as evidence of the organization's adequacy"
+title: 'Monitoring can produce the conformity it records'
+statement: >-
+  Where observation carries anticipated consequences, those observed adapt
+  to it, so monitoring can sharpen what an organization sees of expressed
+  behaviour while weakening how much that behaviour reveals of the
+  observed's own concerns, and can produce the conformity it then records as
+  evidence of the organization's adequacy
 summary: >-
   A42 §5 of the exchange "Memes, Contracts, and Systemic Normativity"
   (ChatGPT, 2026-11-24), its proposition C: "A surveillance regime can
@@ -45,7 +51,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-619 CLAIM-445 CLAIM-700 LIT-tmpwryiu — Proposed or Deferred; the owner's thesis, the held neighbours and Penney, unread -->
 
-# CLAIM-tmpefeb7: Where observation carries anticipated consequences, those observed adapt to it, so monitoring can sharpen what an organization sees of expressed behaviour while weakening how much that behaviour reveals of the observed's own concerns, and can produce the conformity it then records as evidence of the organization's adequacy
+# CLAIM-tmpefeb7: Monitoring can produce the conformity it records
 
 ## The claim
 

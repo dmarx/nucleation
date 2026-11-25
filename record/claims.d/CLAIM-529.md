@@ -3,7 +3,17 @@ number: 529
 status: Active
 formerly:
 - CLAIM-tmpbij2b
-title: 'An organization can be individuated without presupposing it as a declared candidate whose verdict can come out false: criteria stated on the candidate''s interactions (whether benefit can be booked per member, which interactions the others depend on, what removing an interaction type does, whether its order survives release from an outside scaffold) apply to a grouping not yet assumed to be a unit, while criteria stated as members'' attitudes toward the group (a goal about it, belonging, identity) make it partly constituted by being taken as one, individuating it by a different relation, unavailable where members have no such attitudes'
+title: 'Individuation without a declared candidate'
+statement: >-
+  An organization can be individuated without presupposing it as a declared
+  candidate whose verdict can come out false: criteria stated on the
+  candidate's interactions (whether benefit can be booked per member, which
+  interactions the others depend on, what removing an interaction type does,
+  whether its order survives release from an outside scaffold) apply to a
+  grouping not yet assumed to be a unit, while criteria stated as members'
+  attitudes toward the group (a goal about it, belonging, identity) make it
+  partly constituted by being taken as one, individuating it by a different
+  relation, unavailable where members have no such attitudes
 version: 4
 history:
 - version: 2
@@ -91,7 +101,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-188 — Proposed: read in full; the sketch whose parts this claim sorts -->
 <!-- inactive-ok-file: LIT-1932 LIT-1937 — Unavailable since 2026-11-22, unread; named for what the reading of LIT-188 reports of them -->
 
-# CLAIM-529: An organization can be individuated without presupposing it as a declared candidate whose verdict can come out false: criteria stated on the candidate's interactions (whether benefit can be booked per member, which interactions the others depend on, what removing an interaction type does, whether its order survives release from an outside scaffold) apply to a grouping not yet assumed to be a unit, while criteria stated as members' attitudes toward the group (a goal about it, belonging, identity) make it partly constituted by being taken as one, individuating it by a different relation, unavailable where members have no such attitudes
+# CLAIM-529: Individuation without a declared candidate
 
 ## The claim
 

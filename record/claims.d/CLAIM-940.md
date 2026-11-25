@@ -3,7 +3,14 @@ number: 940
 status: Proposed
 formerly:
 - CLAIM-tmplxbtx
-title: 'Successive refinability of the information bottleneck at every pair of budgets is closed under independent products: if (X₁, Y₁) and (X₂, Y₂) are independent and each is refinable at every pair of budgets, so is ((X₁, X₂), (Y₁, Y₂)), because the product''s information curve is the sup-convolution of the factors'' curves and the split of the budget can be chosen nondecreasing in both factors'
+title: 'IB refinability is closed under products'
+statement: >-
+  Successive refinability of the information bottleneck at every pair of
+  budgets is closed under independent products: if (X₁, Y₁) and (X₂, Y₂) are
+  independent and each is refinable at every pair of budgets, so is ((X₁,
+  X₂), (Y₁, Y₂)), because the product's information curve is the
+  sup-convolution of the factors' curves and the split of the budget can be
+  chosen nondecreasing in both factors
 version: 1
 role: thesis
 warrant: demonstrated
@@ -40,7 +47,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-939 CASE-360 — new; filed with this claim from LEAD-039 -->
 
-# CLAIM-940: Successive refinability of the information bottleneck at every pair of budgets is closed under independent products: if (X₁, Y₁) and (X₂, Y₂) are independent and each is refinable at every pair of budgets, so is ((X₁, X₂), (Y₁, Y₂)), because the product's information curve is the sup-convolution of the factors' curves and the split of the budget can be chosen nondecreasing in both factors
+# CLAIM-940: IB refinability is closed under products
 
 ## The claim
 

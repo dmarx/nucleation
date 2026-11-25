@@ -3,7 +3,13 @@ number: 324
 status: Active
 formerly:
 - CLAIM-tmpwkbsy
-title: 'In the What Survives Translation? exchange, the manuscript drafted straight from the crystallized argument changed the thesis with no turn arguing the move and dropped 24 of that argument''s items, none on request, and the second crystallized argument announced its change of question but left items out without saying which had dissolved and which were lost'
+title: 'The drafted manuscript dropped items unargued'
+statement: >-
+  In the What Survives Translation? exchange, the manuscript drafted
+  straight from the crystallized argument changed the thesis with no turn
+  arguing the move and dropped 24 of that argument's items, none on request,
+  and the second crystallized argument announced its change of question but
+  left items out without saying which had dissolved and which were lost
 version: 5
 history:
 - version: 2
@@ -68,7 +74,7 @@ bears_on:
 <!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; cited as it stood, not as what the record now holds -->
 <!-- inactive-ok-file: CLAIM-017 — Superseded; cited as the history of a thesis, whose change is the point -->
 
-# CLAIM-324: In the What Survives Translation? exchange, the manuscript drafted straight from the crystallized argument changed the thesis with no turn arguing the move and dropped 24 of that argument's items, none on request, and the second crystallized argument announced its change of question but left items out without saying which had dissolved and which were lost
+# CLAIM-324: The drafted manuscript dropped items unargued
 
 ## The claim
 

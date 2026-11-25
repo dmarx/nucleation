@@ -3,7 +3,14 @@ number: 575
 status: Active
 formerly:
 - CLAIM-tmphme89
-title: 'Telling which obstruction blocks a transition can itself be computationally hard: over families of reconfiguration problems, deciding whether any admissible path joins two feasible configurations is PSPACE-complete for some, and computing the least peak cost of a path strongly NP-hard for others, so diagnosing the obstruction is a problem with its own complexity'
+title: 'Diagnosing an obstruction can be PSPACE-hard'
+statement: >-
+  Telling which obstruction blocks a transition can itself be
+  computationally hard: over families of reconfiguration problems, deciding
+  whether any admissible path joins two feasible configurations is
+  PSPACE-complete for some, and computing the least peak cost of a path
+  strongly NP-hard for others, so diagnosing the obstruction is a problem
+  with its own complexity
 version: 3
 history:
 - version: 2
@@ -66,7 +73,7 @@ works:
 - governance-of-possibility
 ---
 
-# CLAIM-575: Telling which obstruction blocks a transition can itself be computationally hard: over families of reconfiguration problems, deciding whether any admissible path joins two feasible configurations is PSPACE-complete for some, and computing the least peak cost of a path strongly NP-hard for others, so diagnosing the obstruction is a problem with its own complexity
+# CLAIM-575: Diagnosing an obstruction can be PSPACE-hard
 
 ## The claim
 

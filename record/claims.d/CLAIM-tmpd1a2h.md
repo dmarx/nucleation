@@ -1,6 +1,11 @@
 ---
 status: Proposed
-title: "Coverage of a region of the record by views has four separable dimensions, source, argument, expository and transition coverage, each of which can be high while another is low, and a view's review status is a different thing from the standing of the claims it presents"
+title: 'Four separable dimensions of view coverage'
+statement: >-
+  Coverage of a region of the record by views has four separable dimensions,
+  source, argument, expository and transition coverage, each of which can be
+  high while another is low, and a view's review status is a different thing
+  from the standing of the claims it presents
 version: 1
 role: thesis
 warrant: interpretive
@@ -31,7 +36,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-178 ADR-143 CLAIM-tmp6xzjy — Proposed or new; the manuscript-as-view claim it rests on, the manuscript protocol, the report that would measure it and the gap fill on transitions -->
 
-# CLAIM-tmpd1a2h: Coverage of a region of the record by views has four separable dimensions, source, argument, expository and transition coverage, each of which can be high while another is low, and a view's review status is a different thing from the standing of the claims it presents
+# CLAIM-tmpd1a2h: Four separable dimensions of view coverage
 
 ## The claim
 

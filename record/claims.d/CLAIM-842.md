@@ -3,7 +3,13 @@ number: 842
 status: Proposed
 formerly:
 - CLAIM-tmpu6t8z
-title: "If a representation's collective deformations have a local Gaussian elastic energy on an interaction graph of spectral dimension d_s, their long-wavelength fluctuations diverge for d_s at or below 2, so whether conventional order survives is set by the spectral dimension of the interaction geometry, not by layer width"
+title: 'Spectral dimension, not width, sets order'
+statement: >-
+  If a representation's collective deformations have a local Gaussian
+  elastic energy on an interaction graph of spectral dimension d_s, their
+  long-wavelength fluctuations diverge for d_s at or below 2, so whether
+  conventional order survives is set by the spectral dimension of the
+  interaction geometry, not by layer width
 version: 2
 history:
 - version: 2
@@ -58,7 +64,7 @@ summary: >-
 <!-- inactive-ok-file: TERM-136 CLAIM-798 THEORY-2047 THEORY-2051 THEORY-1272 — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21; Deferred works registered from that exchange and not read; Proposed entries the record already held, cited for context -->
 <!-- inactive-ok-file: LIT-2985 until 2027-05-22 — Unavailable; Mermin and Wagner, read through Halperin, Gelfert and Nolting, and Nachtergaele -->
 
-# CLAIM-842: If a representation's collective deformations have a local Gaussian elastic energy on an interaction graph of spectral dimension d_s, their long-wavelength fluctuations diverge for d_s at or below 2, so whether conventional order survives is set by the spectral dimension of the interaction geometry, not by layer width
+# CLAIM-842: Spectral dimension, not width, sets order
 
 ## The claim
 

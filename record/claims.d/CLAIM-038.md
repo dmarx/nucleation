@@ -3,7 +3,11 @@ number: 38
 status: Active
 formerly:
 - CLAIM-tmpbbjw4
-title: 'A communicative object is a context-indexed system of empirical constraints over a cover of contexts, and these need not extend to one globally realizable interpretation'
+title: 'Communicative objects need no global reading'
+statement: >-
+  A communicative object is a context-indexed system of empirical
+  constraints over a cover of contexts, and these need not extend to one
+  globally realizable interpretation
 version: 3
 history:
 - version: 2
@@ -70,7 +74,7 @@ complements:
 <!-- inactive-ok-file: TERM-002 — Superseded; the definition version 1 was stated in, cited as history -->
 <!-- inactive-ok-file: ARG-010 — Rejected; the physical analogy offered for this claim and declined, cited as such -->
 
-# CLAIM-038: A communicative object is a context-indexed system of empirical constraints over a cover of contexts, and these need not extend to one globally realizable interpretation
+# CLAIM-038: Communicative objects need no global reading
 
 ## The claim
 

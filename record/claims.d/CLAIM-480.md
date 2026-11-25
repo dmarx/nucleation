@@ -3,7 +3,18 @@ number: 480
 status: Active
 formerly:
 - CLAIM-tmpose3y
-title: 'Composing interactions can turn an interior into a constraint, and sometimes into a constraint of a new kind: in the chain E = ½k₁(x₁ − x₂)² + ½k₂(x₂ − x₃)², with x₂ internal and equilibrated, the boundary sees E_eff = ½·k₁k₂/(k₁ + k₂)·(x₁ − x₃)², a coupling between x₁ and x₃ that neither part has; if the interior relaxes slowly, eliminating it leaves a history-dependent constraint, a memory kernel, so interconnection fixes an effective constraint on the boundary''s trajectories and separation of time scales decides only whether that constraint is approximately memoryless; and for cellular sheaves the reduced constraint can relate three boundary values where every relation among the parts is pairwise'
+title: 'Composition turns an interior into a constraint'
+statement: >-
+  Composing interactions can turn an interior into a constraint, and
+  sometimes into a constraint of a new kind: in the chain E = ½k₁(x₁ − x₂)²
+  + ½k₂(x₂ − x₃)², with x₂ internal and equilibrated, the boundary sees
+  E_eff = ½·k₁k₂/(k₁ + k₂)·(x₁ − x₃)², a coupling between x₁ and x₃ that
+  neither part has; if the interior relaxes slowly, eliminating it leaves a
+  history-dependent constraint, a memory kernel, so interconnection fixes an
+  effective constraint on the boundary's trajectories and separation of time
+  scales decides only whether that constraint is approximately memoryless;
+  and for cellular sheaves the reduced constraint can relate three boundary
+  values where every relation among the parts is pairwise
 version: 2
 history:
 - version: 2
@@ -71,7 +82,7 @@ summary: >-
 <!-- ref::uses-file: TERM-090 — the constraint the composite presents to its boundary once x₂ is eliminated, E_eff or a memory kernel, is TERM-090's effective boundary constraint -->
 <!-- ref::uses-file: TERM-091 — the three-way boundary relation that "a vocabulary of pairwise relations cannot state" is a limit of TERM-091's relational vocabulary -->
 
-# CLAIM-480: Composing interactions can turn an interior into a constraint, and sometimes into a constraint of a new kind: in the chain E = ½k₁(x₁ − x₂)² + ½k₂(x₂ − x₃)², with x₂ internal and equilibrated, the boundary sees E_eff = ½·k₁k₂/(k₁ + k₂)·(x₁ − x₃)², a coupling between x₁ and x₃ that neither part has; if the interior relaxes slowly, eliminating it leaves a history-dependent constraint, a memory kernel, so interconnection fixes an effective constraint on the boundary's trajectories and separation of time scales decides only whether that constraint is approximately memoryless; and for cellular sheaves the reduced constraint can relate three boundary values where every relation among the parts is pairwise
+# CLAIM-480: Composition turns an interior into a constraint
 
 ## The computation
 

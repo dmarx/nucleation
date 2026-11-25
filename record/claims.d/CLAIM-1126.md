@@ -3,11 +3,14 @@ number: 1126
 status: Proposed
 formerly:
 - CLAIM-tmpklms4
-title: What marks a plurality of pseudo-selves as integrated, rather than an ecosystem,
-  is not a regenerated whole-level slow variable but one its members address as
-  the whole's own, acting on it as theirs, as a firm's culture or a sector's standard
-  is held; a predator–prey cycle, regenerated but addressed by no member as the
-  community's, leaves an ecosystem an ecosystem
+title: 'Integration is a variable addressed as the whole''s'
+statement: >-
+  What marks a plurality of pseudo-selves as integrated, rather than an
+  ecosystem, is not a regenerated whole-level slow variable but one its
+  members address as the whole's own, acting on it as theirs, as a firm's
+  culture or a sector's standard is held; a predator–prey cycle, regenerated
+  but addressed by no member as the community's, leaves an ecosystem an
+  ecosystem
 version: 1
 role: thesis
 warrant: interpretive
@@ -38,7 +41,7 @@ summary: 'A narrowed form of the structural answer [CLAIM-1074](CLAIM-1074.md) a
 
 <!-- inactive-ok-file: CLAIM-327 CLAIM-1168 CLAIM-1153 CLAIM-1074 CLAIM-1172 TERM-166 — Proposed or Open; premises, alternatives and question -->
 
-# CLAIM-1126: What marks a plurality of pseudo-selves as integrated, rather than an ecosystem, is not a regenerated whole-level slow variable but one its members address as the whole's own, acting on it as theirs, as a firm's culture or a sector's standard is held; a predator–prey cycle, regenerated but addressed by no member as the community's, leaves an ecosystem an ecosystem
+# CLAIM-1126: Integration is a variable addressed as the whole's
 
 ## The claim
 

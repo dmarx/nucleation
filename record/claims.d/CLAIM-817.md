@@ -3,7 +3,13 @@ number: 817
 status: Proposed
 formerly:
 - CLAIM-tmpepx9m
-title: 'Cumulative advantage gives a power law only in a particular form: attachment linear in current size together with continual entry of new units; with no preference the tail is exponential, with sublinear preference stretched-exponential, and with superlinear preference one unit takes almost every new link'
+title: 'Power law needs linear attachment plus entry'
+statement: >-
+  Cumulative advantage gives a power law only in a particular form:
+  attachment linear in current size together with continual entry of new
+  units; with no preference the tail is exponential, with sublinear
+  preference stretched-exponential, and with superlinear preference one unit
+  takes almost every new link
 version: 2
 history:
 - version: 2
@@ -65,7 +71,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-830 CLAIM-806 CLAIM-803 CLAIM-184 CLAIM-677 THEORY-1927 THEORY-188 — Proposed or new; claims filed from the same exchange and held entries cited as neighbours -->
 <!-- inactive-ok-file: ARG-127 ARG-149 THEORY-2150 — new and Proposed or Rejected, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
 
-# CLAIM-817: Cumulative advantage gives a power law only in a particular form: attachment linear in current size together with continual entry of new units; with no preference the tail is exponential, with sublinear preference stretched-exponential, and with superlinear preference one unit takes almost every new link
+# CLAIM-817: Power law needs linear attachment plus entry
 
 ## The claim (A1, A3)
 

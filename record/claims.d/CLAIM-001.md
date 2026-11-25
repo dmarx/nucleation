@@ -3,7 +3,10 @@ number: 1
 status: Proposed
 formerly:
 - CLAIM-tmp06kdp
-title: 'The conditional-diffusion literature already covers directed transport between observational scenarios, including changing covers'
+title: 'Conditional diffusion already covers transport'
+statement: >-
+  The conditional-diffusion literature already covers directed transport
+  between observational scenarios, including changing covers
 version: 1
 role: counter
 warrant: interpretive
@@ -23,7 +26,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-100 — Superseded; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
-# CLAIM-001: The conditional-diffusion literature already covers directed transport between observational scenarios, including changing covers
+# CLAIM-001: Conditional diffusion already covers transport
 
 ## The claim
 

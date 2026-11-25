@@ -3,7 +3,16 @@ number: 774
 status: Proposed
 formerly:
 - CLAIM-tmpmugkp
-title: 'In a two-layer linear network learning from small weights, steepest descent in the spectral norm, which moves every singular direction of each layer at the same rate, learns the modes of the input–output correlation in a time proportional to the square root of their strength, weakest first, where gradient descent learns them in a time proportional to the inverse of their strength, strongest first: equalizing rates within a layer reverses and compresses the staged hierarchy of learning rather than removing it'
+title: 'Spectral descent learns weakest modes first'
+statement: >-
+  In a two-layer linear network learning from small weights, steepest
+  descent in the spectral norm, which moves every singular direction of each
+  layer at the same rate, learns the modes of the input–output correlation
+  in a time proportional to the square root of their strength, weakest
+  first, where gradient descent learns them in a time proportional to the
+  inverse of their strength, strongest first: equalizing rates within a
+  layer reverses and compresses the staged hierarchy of learning rather than
+  removing it
 version: 3
 history:
 - version: 2
@@ -56,7 +65,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-771 CLAIM-767 — Proposed; the claims on depth this note points to -->
 <!-- inactive-ok-file: CLAIM-781 CLAIM-478 THEORY-186 — Proposed, Deferred or Open; the work this applies and the claims it bears on -->
 
-# CLAIM-774: In a two-layer linear network learning from small weights, steepest descent in the spectral norm, which moves every singular direction of each layer at the same rate, learns the modes of the input–output correlation in a time proportional to the square root of their strength, weakest first, where gradient descent learns them in a time proportional to the inverse of their strength, strongest first: equalizing rates within a layer reverses and compresses the staged hierarchy of learning rather than removing it
+# CLAIM-774: Spectral descent learns weakest modes first
 
 ## The claim
 

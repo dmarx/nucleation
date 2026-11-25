@@ -3,7 +3,14 @@ number: 319
 status: Active
 formerly:
 - CLAIM-tmp9fgji
-title: 'Over a scenario of n contexts in an odd cycle, changing the support of one context takes the contextual fraction from 1 to 0 while the other n − 1 contexts and every marginal are kept exactly, at a weighted observational distortion of 1/n, so within a scenario the fraction''s Lipschitz constant against that distortion is at least n; and any change of global extension needs a contextual model on one side'
+title: 'One context flips an odd cycle''s contextuality'
+statement: >-
+  Over a scenario of n contexts in an odd cycle, changing the support of one
+  context takes the contextual fraction from 1 to 0 while the other n − 1
+  contexts and every marginal are kept exactly, at a weighted observational
+  distortion of 1/n, so within a scenario the fraction's Lipschitz constant
+  against that distortion is at least n; and any change of global extension
+  needs a contextual model on one side
 version: 2
 history:
 - version: 2
@@ -53,7 +60,7 @@ summary: >-
 <!-- ref::uses-file: TERM-043 — applied unnamed: the weighted observational distortion D_obs computed in the example is the observational component of the profile this term defines -->
 <!-- inactive-ok-file: CLAIM-201 CLAIM-105 — Proposed; the narrowing that rests on this and the headline it bears on, cited as open -->
 
-# CLAIM-319: Over a scenario of n contexts in an odd cycle, changing the support of one context takes the contextual fraction from 1 to 0 while the other n − 1 contexts and every marginal are kept exactly, at a weighted observational distortion of 1/n, so within a scenario the fraction's Lipschitz constant against that distortion is at least n; and any change of global extension needs a contextual model on one side
+# CLAIM-319: One context flips an odd cycle's contextuality
 
 ## The claim
 

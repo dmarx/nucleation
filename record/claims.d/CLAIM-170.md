@@ -3,7 +3,12 @@ number: 170
 status: Proposed
 formerly:
 - CLAIM-tmptd6s2
-title: 'The agents in a system are a factorization of it relative to a level of description and a target; agents in general are identified by adaptation, and willed agents are individuated by their will-organization: a willed agent is the jurisdiction of a will-organization'
+title: 'Agents are factorizations relative to a target'
+statement: >-
+  The agents in a system are a factorization of it relative to a level of
+  description and a target; agents in general are identified by adaptation,
+  and willed agents are individuated by their will-organization: a willed
+  agent is the jurisdiction of a will-organization
 version: 5
 history:
 - version: 2
@@ -86,7 +91,7 @@ complements:
 <!-- inactive-ok-file: CLAIM-168 CLAIM-174 — Proposed; the owner's drive claim, the open objection and the admission test, open -->
 <!-- inactive-ok-file: TERM-063 THEORY-801 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 
-# CLAIM-170: The agents in a system are a factorization of it relative to a level of description and a target; agents in general are identified by adaptation, and willed agents are individuated by their will-organization: a willed agent is the jurisdiction of a will-organization
+# CLAIM-170: Agents are factorizations relative to a target
 
 ## The claim
 

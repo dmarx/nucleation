@@ -3,7 +3,14 @@ number: 784
 status: Proposed
 formerly:
 - CLAIM-tmphigw4
-title: 'Engineering is a form of inquiry: an inquiry in the record''s sense whose answer space is the realizations of a specification, whose interventions are builds and whose observations are tests; it is reflexive, and so more than search, when building revises the specification, and it differs from inquiry into a given object in that its interventions make the object its observations judge'
+title: 'Engineering is a form of inquiry'
+statement: >-
+  Engineering is a form of inquiry: an inquiry in the record's sense whose
+  answer space is the realizations of a specification, whose interventions
+  are builds and whose observations are tests; it is reflexive, and so more
+  than search, when building revises the specification, and it differs from
+  inquiry into a given object in that its interventions make the object its
+  observations judge
 version: 2
 history:
 - version: 2
@@ -51,7 +58,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1374 CLAIM-786 — Proposed or Active; held entries this joins, and those filed with it on 2026-11-21 -->
 
-# CLAIM-784: Engineering is a form of inquiry: an inquiry in the record's sense whose answer space is the realizations of a specification, whose interventions are builds and whose observations are tests; it is reflexive, and so more than search, when building revises the specification, and it differs from inquiry into a given object in that its interventions make the object its observations judge
+# CLAIM-784: Engineering is a form of inquiry
 
 ## The claim
 

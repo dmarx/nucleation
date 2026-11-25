@@ -3,7 +3,14 @@ number: 927
 status: Proposed
 formerly:
 - CLAIM-tmpfoatc
-title: 'In linear models, integrated information with the exclusion rule separates an organized whole from its parts by how strongly its seams couple relative to its parts'' integration, not by whether the parts are modules or minds, so applied by one procedure it denies a loosely coupled modular mind unity as it denies a group, and grants a tightly coupled group unity at its members'' expense'
+title: 'Integrated information tracks seam coupling'
+statement: >-
+  In linear models, integrated information with the exclusion rule separates
+  an organized whole from its parts by how strongly its seams couple
+  relative to its parts' integration, not by whether the parts are modules
+  or minds, so applied by one procedure it denies a loosely coupled modular
+  mind unity as it denies a group, and grants a tightly coupled group unity
+  at its members' expense
 version: 1
 history:
 - version: 1
@@ -39,7 +46,7 @@ grounds:
 ---
 <!-- inactive-ok-file: CASE-350, THEORY-043 — new or Proposed; the study this claim rests on and the account it confirms in part -->
 
-# CLAIM-927: In linear models, integrated information with the exclusion rule separates an organized whole from its parts by how strongly its seams couple relative to its parts' integration, not by whether the parts are modules or minds, so applied by one procedure it denies a loosely coupled modular mind unity as it denies a group, and grants a tightly coupled group unity at its members' expense
+# CLAIM-927: Integrated information tracks seam coupling
 
 ## The claim
 

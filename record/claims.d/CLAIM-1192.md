@@ -3,12 +3,14 @@ number: 1192
 status: Active
 formerly:
 - CLAIM-tmpx8csq
-title: 'A mode''s slowness says how it persists, not how hard it is to redirect:
+title: 'Slowness is persistence, not hardness to redirect'
+statement: >-
+  A mode's slowness says how it persists, not how hard it is to redirect:
   for ȧ = −γa + bu the least quadratic effort to move a from 0 to Δ by time
   H is 2γΔ²/(b²(1 − e^{−2γH})), which falls as γ falls, so a slower mode is
   cheaper to redirect through the same input, and a mode with b = 0 cannot
-  be redirected through it at any rate; persistence, redirection and the renewal
-  of a mode''s supports are three timescales that need not coincide'
+  be redirected through it at any rate; persistence, redirection and the
+  renewal of a mode's supports are three timescales that need not coincide
 version: 3
 history:
 - version: 2
@@ -59,7 +61,7 @@ works:
 
 <!-- inactive-ok-file: THEORY-1052 — Proposed; cited in this filing of 2026-11-22 (second share) -->
 
-# CLAIM-1192: A mode's slowness says how it persists, not how hard it is to redirect: for ȧ = −γa + bu the least quadratic effort to move a from 0 to Δ by time H is 2γΔ²/(b²(1 − e^{−2γH})), which falls as γ falls, so a slower mode is cheaper to redirect through the same input, and a mode with b = 0 cannot be redirected through it at any rate; persistence, redirection and the renewal of a mode's supports are three timescales that need not coincide
+# CLAIM-1192: Slowness is persistence, not hardness to redirect
 
 ## Derivation and check
 

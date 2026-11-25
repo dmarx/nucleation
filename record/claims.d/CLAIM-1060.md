@@ -3,7 +3,14 @@ number: 1060
 status: Proposed
 formerly:
 - CLAIM-tmpagnsw
-title: "Organizational governance is partly the intertemporal allocation of scarce resources among inquiry, response and the upkeep of the structures that make both possible, slow organizational modes arise partly as ways of amortizing inquiry and coordination costs, and adaptive governance must keep the capacity to reallocate between answering existing questions and learning to ask and answer new ones"
+title: 'Governance allocates resources across time'
+statement: >-
+  Organizational governance is partly the intertemporal allocation of scarce
+  resources among inquiry, response and the upkeep of the structures that
+  make both possible, slow organizational modes arise partly as ways of
+  amortizing inquiry and coordination costs, and adaptive governance must
+  keep the capacity to reallocate between answering existing questions and
+  learning to ask and answer new ones
 version: 1
 role: thesis
 warrant: interpretive
@@ -41,7 +48,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-1070 ARG-238 CLAIM-755 — Proposed; the claim this complements, the argument for its second clause and the claim that narrows it -->
 
-# CLAIM-1060: Organizational governance is partly the intertemporal allocation of scarce resources among inquiry, response and the upkeep of the structures that make both possible, slow organizational modes arise partly as ways of amortizing inquiry and coordination costs, and adaptive governance must keep the capacity to reallocate between answering existing questions and learning to ask and answer new ones
+# CLAIM-1060: Governance allocates resources across time
 
 ## The claim
 

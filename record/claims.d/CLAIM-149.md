@@ -3,7 +3,11 @@ number: 149
 status: Active
 formerly:
 - CLAIM-tmpslubp
-title: 'A probe family that supplies a transformation''s training signal cannot also certify what the transformation preserves: preservation must be shown under probes that were not used to train it'
+title: 'Training probes cannot certify preservation'
+statement: >-
+  A probe family that supplies a transformation's training signal cannot
+  also certify what the transformation preserves: preservation must be shown
+  under probes that were not used to train it
 version: 2
 history:
 - version: 2
@@ -51,7 +55,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-142 — Proposed; open, and cited as open: the claim is under test, not settled -->
 <!-- inactive-ok-file: THEORY-1738 THEORY-1782 THEORY-1807 THEORY-1811 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
-# CLAIM-149: A probe family that supplies a transformation's training signal cannot also certify what the transformation preserves: preservation must be shown under probes that were not used to train it
+# CLAIM-149: Training probes cannot certify preservation
 
 ## The claim
 

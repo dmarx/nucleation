@@ -3,7 +3,11 @@ number: 346
 status: Active
 formerly:
 - CLAIM-tmp442x9
-title: 'Feasibility, aggregation and epistemic coordination are independent obstructions to an organization''s realizing its demands: each can occur with the other two absent'
+title: 'Three independent obstructions to demands'
+statement: >-
+  Feasibility, aggregation and epistemic coordination are independent
+  obstructions to an organization's realizing its demands: each can occur
+  with the other two absent
 version: 2
 history:
 - version: 2
@@ -58,7 +62,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-194 — Proposed; cited in the note of 2026-11-12 for what each holds, not as settled -->
 <!-- inactive-ok-file: THEORY-1729 THEORY-1735 THEORY-1747 THEORY-1782 THEORY-1798 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
-# CLAIM-346: Feasibility, aggregation and epistemic coordination are independent obstructions to an organization's realizing its demands: each can occur with the other two absent
+# CLAIM-346: Three independent obstructions to demands
 
 ## The claim
 

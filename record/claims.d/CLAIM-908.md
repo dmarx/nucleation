@@ -3,7 +3,15 @@ number: 908
 status: Proposed
 formerly:
 - CLAIM-tmp72lji
-title: 'The matched constructions proposed for testing contractualism, as stated, are each explained by reasonable rejection without a principle of who holds a power: a principle permitting the worse member of each pair can be reasonably rejected on personal reasons of protection, against undetectable error, self-serving review, engineered dependence and unilateral change, so as stated they support the reading on which the record''s account only supplements contractualism'
+title: 'Matched constructions fit reasonable rejection'
+statement: >-
+  The matched constructions proposed for testing contractualism, as stated,
+  are each explained by reasonable rejection without a principle of who
+  holds a power: a principle permitting the worse member of each pair can be
+  reasonably rejected on personal reasons of protection, against
+  undetectable error, self-serving review, engineered dependence and
+  unilateral change, so as stated they support the reading on which the
+  record's account only supplements contractualism
 version: 1
 role: thesis
 warrant: interpretive
@@ -56,7 +64,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-336 CLAIM-909 — new, filed for LEAD-033 -->
 <!-- inactive-ok-file: THEORY-1971 THEORY-1967 CLAIM-747 CLAIM-741 TERM-083 — Proposed; the test's statement, Scanlon's reply on powers, and the record's entries each verdict uses -->
 
-# CLAIM-908: The matched constructions proposed for testing contractualism, as stated, are each explained by reasonable rejection without a principle of who holds a power: a principle permitting the worse member of each pair can be reasonably rejected on personal reasons of protection, against undetectable error, self-serving review, engineered dependence and unilateral change, so as stated they support the reading on which the record's account only supplements contractualism
+# CLAIM-908: Matched constructions fit reasonable rejection
 
 ## What is tested
 

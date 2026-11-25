@@ -3,7 +3,14 @@ number: 873
 status: Proposed
 formerly:
 - CLAIM-tmp528xy
-title: 'The independent scoring that keeps a judgement–observation loop from confirming itself is scoring that reads nothing of the loop''s state, so share-dependent advantage is scoring that passes through what the loop tests, and authority that reinforces itself against independent evidence too weak to overturn it does not meet the defeater of the claim that such evidence is the anchor'
+title: 'Share-dependent advantage is not independent'
+statement: >-
+  The independent scoring that keeps a judgement–observation loop from
+  confirming itself is scoring that reads nothing of the loop's state, so
+  share-dependent advantage is scoring that passes through what the loop
+  tests, and authority that reinforces itself against independent evidence
+  too weak to overturn it does not meet the defeater of the claim that such
+  evidence is the anchor
 version: 1
 role: supposed
 warrant: interpretive
@@ -46,7 +53,7 @@ summary: >-
 <!-- inactive-ok-file: TERM-147 CLAIM-874 CASE-312 — new; filed together for LEAD-121 -->
 <!-- inactive-ok-file: TERM-066 — Proposed; interpretive capture, cited for its wording -->
 
-# CLAIM-873: The independent scoring that keeps a judgement–observation loop from confirming itself is scoring that reads nothing of the loop's state, so share-dependent advantage is scoring that passes through what the loop tests, and authority that reinforces itself against independent evidence too weak to overturn it does not meet the defeater of the claim that such evidence is the anchor
+# CLAIM-873: Share-dependent advantage is not independent
 
 ## The claim
 

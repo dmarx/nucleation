@@ -3,7 +3,14 @@ number: 360
 status: Active
 formerly:
 - CLAIM-tmppk4ya
-title: 'The deep-versus-shallow learning results separate three effects that aggregate loss conflates: a larger realizable function class, a larger set reachable within a fixed data and compute budget, and a different internal organization with the same attainable outcomes; the deep linear results show the third, the random-hierarchy results the second, and the depth-separation result for products of inputs the first, at fixed size'
+title: 'Deep-vs-shallow results conflate three effects'
+statement: >-
+  The deep-versus-shallow learning results separate three effects that
+  aggregate loss conflates: a larger realizable function class, a larger set
+  reachable within a fixed data and compute budget, and a different internal
+  organization with the same attainable outcomes; the deep linear results
+  show the third, the random-hierarchy results the second, and the
+  depth-separation result for products of inputs the first, at fixed size
 version: 3
 history:
 - version: 2
@@ -74,7 +81,7 @@ bears_on:
 
 <!-- inactive-ok-file: THEORY-186 THEORY-200 THEORY-212 — Proposed; readings cited with their stated limits, and an open claim -->
 
-# CLAIM-360: The deep-versus-shallow learning results separate three effects that aggregate loss conflates: a larger realizable function class, a larger set reachable within a fixed data and compute budget, and a different internal organization with the same attainable outcomes; the deep linear results show the third, the random-hierarchy results the second, and the depth-separation result for products of inputs the first, at fixed size
+# CLAIM-360: Deep-vs-shallow results conflate three effects
 
 ## The claim
 

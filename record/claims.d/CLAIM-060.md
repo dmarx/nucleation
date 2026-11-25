@@ -3,7 +3,10 @@ number: 60
 status: Active
 formerly:
 - CLAIM-tmphbje3
-title: 'An encompassing organization''s success does not establish the well-being, viability or autonomy of its constituents — and the converse holds too'
+title: 'Whole''s success does not establish parts'' good'
+statement: >-
+  An encompassing organization's success does not establish the well-being,
+  viability or autonomy of its constituents — and the converse holds too
 version: 1
 role: thesis
 warrant: interpretive
@@ -29,7 +32,7 @@ grounds:
 ---
 <!-- inactive-ok-file: THEORY-025 THEORY-150 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
-# CLAIM-060: An encompassing organization's success does not establish the well-being, viability or autonomy of its constituents — and the converse holds too
+# CLAIM-060: Whole's success does not establish parts' good
 
 ## The claim
 

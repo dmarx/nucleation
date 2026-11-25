@@ -1,6 +1,12 @@
 ---
 status: Proposed
-title: Publishing is a set of separable guarantees, persistent access, stable identifiers, versioned records, metadata, attribution, discoverability and preservation, which different providers can give, so the identity of a scholarly object must be independent of the identity of its host, and keeping it online is distinct from keeping it after the host fails
+title: 'Publishing is a set of separable guarantees'
+statement: >-
+  Publishing is a set of separable guarantees, persistent access, stable
+  identifiers, versioned records, metadata, attribution, discoverability and
+  preservation, which different providers can give, so the identity of a
+  scholarly object must be independent of the identity of its host, and
+  keeping it online is distinct from keeping it after the host fails
 version: 3
 history:
 - version: 2
@@ -49,7 +55,7 @@ works:
 
 <!-- inactive-ok-file: CLAIM-tmpv0sv7 CLAIM-tmp80nuw CLAIM-tmpzz0eu — Proposed; the owner's thesis, and the assistant's gap fills -->
 
-# CLAIM-tmpk6vy2: Publishing is a set of separable guarantees, persistent access, stable identifiers, versioned records, metadata, attribution, discoverability and preservation, which different providers can give, so the identity of a scholarly object must be independent of the identity of its host, and keeping it online is distinct from keeping it after the host fails
+# CLAIM-tmpk6vy2: Publishing is a set of separable guarantees
 
 ## The claim
 

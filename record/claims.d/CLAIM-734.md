@@ -3,7 +3,13 @@ number: 734
 formerly:
 - CLAIM-tmpl0sgt
 status: Proposed
-title: 'Where an entitlement is protected by a requirement of its holder''s consent, an irreversible act against it leaves the holder in practice only a claim to compensation, so the actor has changed by its own act the rule by which the entitlement is allocated, from consent to liability, and not only what is paid for it'
+title: 'Irreversible acts turn consent into liability'
+statement: >-
+  Where an entitlement is protected by a requirement of its holder's
+  consent, an irreversible act against it leaves the holder in practice only
+  a claim to compensation, so the actor has changed by its own act the rule
+  by which the entitlement is allocated, from consent to liability, and not
+  only what is paid for it
 version: 4
 history:
 - version: 2
@@ -74,7 +80,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-722 CLAIM-723 — filed from the same exchange, Proposed or new -->
 
-# CLAIM-734: Where an entitlement is protected by a requirement of its holder's consent, an irreversible act against it leaves the holder in practice only a claim to compensation, so the actor has changed by its own act the rule by which the entitlement is allocated, from consent to liability, and not only what is paid for it
+# CLAIM-734: Irreversible acts turn consent into liability
 
 ## The claim
 

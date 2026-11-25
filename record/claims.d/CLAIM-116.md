@@ -3,7 +3,9 @@ number: 116
 status: Active
 formerly:
 - CLAIM-tmpx1i07
-title: 'Regulation, even higher-order regulation, does not establish a will'
+title: 'Regulation does not establish a will'
+statement: >-
+  Regulation, even higher-order regulation, does not establish a will
 version: 1
 role: disclaimed
 warrant: interpretive
@@ -23,7 +25,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-010 — Rejected; answered or abandoned, and cited as the history this entry answers -->
 
-# CLAIM-116: Regulation, even higher-order regulation, does not establish a will
+# CLAIM-116: Regulation does not establish a will
 
 ## The claim
 

@@ -3,7 +3,13 @@ number: 1123
 status: Proposed
 formerly:
 - CLAIM-tmpk8x2j
-title: 'When a driven system feeds back on its drive, the per-switch identity and the summed lower bound of the thermodynamics of prediction still hold, but the nostalgia that bounds the dissipation can be negative, and so can the dissipation and the excess work, so the bound no longer makes nonpredictive memory a cost'
+title: 'With feedback, nostalgia can be negative'
+statement: >-
+  When a driven system feeds back on its drive, the per-switch identity and
+  the summed lower bound of the thermodynamics of prediction still hold, but
+  the nostalgia that bounds the dissipation can be negative, and so can the
+  dissipation and the excess work, so the bound no longer makes
+  nonpredictive memory a cost
 version: 1
 role: thesis
 warrant: demonstrated
@@ -46,7 +52,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-391 — filed by the lead run of 2026-11-23 -->
 <!-- inactive-ok-file: THEORY-817 — Proposed; cited as an account this claim does not touch -->
 
-# CLAIM-1123: When a driven system feeds back on its drive, the per-switch identity and the summed lower bound of the thermodynamics of prediction still hold, but the nostalgia that bounds the dissipation can be negative, and so can the dissipation and the excess work, so the bound no longer makes nonpredictive memory a cost
+# CLAIM-1123: With feedback, nostalgia can be negative
 
 ## The claim
 

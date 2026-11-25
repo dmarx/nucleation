@@ -1,6 +1,12 @@
 ---
 status: Proposed
-title: "An organization's characteristic structure can include the contracts maintained among its processes, which its ordinary behaviour does not reveal: two arrangements alike on the ordinary course can part when a contract is breached, an assumption fails or a process invokes its standing"
+title: 'Process contracts hide in ordinary behaviour'
+statement: >-
+  An organization's characteristic structure can include the contracts
+  maintained among its processes, which its ordinary behaviour does not
+  reveal: two arrangements alike on the ordinary course can part when a
+  contract is breached, an assumption fails or a process invokes its
+  standing
 version: 2
 history:
 - version: 2
@@ -55,7 +61,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: ARG-tmp2dpcv CASE-tmptpna1 CLAIM-364 CLAIM-tmp7hqtl CLAIM-tmpe6yfm CLAIM-tmpkvzcn — Proposed; cited as filed or held beside this entry, whatever its standing -->
 
-# CLAIM-tmpersgx: An organization's characteristic structure can include the contracts maintained among its processes, which its ordinary behaviour does not reveal: two arrangements alike on the ordinary course can part when a contract is breached, an assumption fails or a process invokes its standing
+# CLAIM-tmpersgx: Process contracts hide in ordinary behaviour
 
 ## The claim
 

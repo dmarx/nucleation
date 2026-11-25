@@ -3,7 +3,15 @@ number: 807
 status: Proposed
 formerly:
 - CLAIM-tmp9bp04
-title: 'A factored feature under weight decay, ŷ = abφ, switches on at a sharp threshold: its strength is q* = (s − λ)₊, the origin loses stability through a pitchfork in the parameters at s = λ, relaxation there is algebraic and the local coefficient of the regularized loss dips from 1 to 3/4, and just above threshold the feature''s variance is of order ε² while its gain in fit is of order ε, so a newly active feature is quiet but consequential'
+title: 'Newly active feature is quiet but consequential'
+statement: >-
+  A factored feature under weight decay, ŷ = abφ, switches on at a sharp
+  threshold: its strength is q* = (s − λ)₊, the origin loses stability
+  through a pitchfork in the parameters at s = λ, relaxation there is
+  algebraic and the local coefficient of the regularized loss dips from 1 to
+  3/4, and just above threshold the feature's variance is of order ε² while
+  its gain in fit is of order ε, so a newly active feature is quiet but
+  consequential
 version: 2
 history:
 - version: 2
@@ -56,7 +64,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-2193 ARG-190 THEORY-1429 — Proposed or Rejected; the reading of Yang filed 2026-11-22, the argument that takes it out of the grounds, and Kuehn's classification cited in the note -->
 <!-- inactive-ok-file: THEORY-2164 — Proposed or Rejected; filed 2026-11-21 from the readings of Gutenkunst et al., Transtrum & Qiu, Amari, Park & Ozeki and Wei et al. -->
 
-# CLAIM-807: A factored feature under weight decay, ŷ = abφ, switches on at a sharp threshold: its strength is q* = (s − λ)₊, the origin loses stability through a pitchfork in the parameters at s = λ, relaxation there is algebraic and the local coefficient of the regularized loss dips from 1 to 3/4, and just above threshold the feature's variance is of order ε² while its gain in fit is of order ε, so a newly active feature is quiet but consequential
+# CLAIM-807: Newly active feature is quiet but consequential
 
 ## The claim
 

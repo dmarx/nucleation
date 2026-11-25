@@ -1,6 +1,13 @@
 ---
 status: Proposed
-title: 'A norm can be stabilized by the reliance it attracts: compliance makes a practice predictable, others specialize around it, and their stake in its continuation funds its maintenance, which raises compliance, so a practice established past a threshold can persist where a weakly established one would not, and can outlast a weakening of the reasons that first supported it'
+title: 'Reliance can stabilize a norm'
+statement: >-
+  A norm can be stabilized by the reliance it attracts: compliance makes a
+  practice predictable, others specialize around it, and their stake in its
+  continuation funds its maintenance, which raises compliance, so a practice
+  established past a threshold can persist where a weakly established one
+  would not, and can outlast a weakening of the reasons that first supported
+  it
 version: 3
 history:
 - version: 2
@@ -61,7 +68,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-785 CLAIM-tmp1nubb — Proposed; the operative-norm claim filed with this and the held claim on predicates as constraints -->
 
-# CLAIM-tmpjg5gx: A norm can be stabilized by the reliance it attracts: compliance makes a practice predictable, others specialize around it, and their stake in its continuation funds its maintenance, which raises compliance, so a practice established past a threshold can persist where a weakly established one would not, and can outlast a weakening of the reasons that first supported it
+# CLAIM-tmpjg5gx: Reliance can stabilize a norm
 
 ## The claim
 

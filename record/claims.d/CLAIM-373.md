@@ -3,7 +3,12 @@ number: 373
 status: Active
 formerly:
 - CLAIM-tmp5pd5m
-title: 'If a map approximately intertwines two operators, with defects E_A = ΦA − A′Φ and E_B = ΦB − B′Φ, then Φ[A,B] − [A′,B′]Φ = A′E_B + E_A B − B′E_A − E_B A, so the commutator is carried to within (‖A‖ + ‖A′‖)‖E_B‖ + (‖B‖ + ‖B′‖)‖E_A‖'
+title: 'Approximate intertwiners carry commutators'
+statement: >-
+  If a map approximately intertwines two operators, with defects E_A = ΦA −
+  A′Φ and E_B = ΦB − B′Φ, then Φ[A,B] − [A′,B′]Φ = A′E_B + E_A B − B′E_A −
+  E_B A, so the commutator is carried to within (‖A‖ + ‖A′‖)‖E_B‖ + (‖B‖ +
+  ‖B′‖)‖E_A‖
 version: 1
 history:
 - version: 1
@@ -41,7 +46,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-063 — Proposed; the thesis this identity was split from and that rests on it, cited as open -->
 <!-- ref::uses-file: TERM-024 — the commutator is the noncommutativity of operations the term names -->
 
-# CLAIM-373: If a map approximately intertwines two operators, with defects E_A = ΦA − A′Φ and E_B = ΦB − B′Φ, then Φ[A,B] − [A′,B′]Φ = A′E_B + E_A B − B′E_A − E_B A, so the commutator is carried to within (‖A‖ + ‖A′‖)‖E_B‖ + (‖B‖ + ‖B′‖)‖E_A‖
+# CLAIM-373: Approximate intertwiners carry commutators
 
 ## The claim
 

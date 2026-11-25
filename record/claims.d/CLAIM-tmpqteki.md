@@ -1,6 +1,11 @@
 ---
 status: Proposed
-title: "A record of a student's collaboration with an LLM is not proof of understanding but a better basis for questioning it: who first proposed a step, how it was evaluated and whether it was adopted are different pieces of information, and the submission becomes a view over a learning process"
+title: 'Collaboration record grounds questioning'
+statement: >-
+  A record of a student's collaboration with an LLM is not proof of
+  understanding but a better basis for questioning it: who first proposed a
+  step, how it was evaluated and whether it was adopted are different pieces
+  of information, and the submission becomes a view over a learning process
 version: 3
 history:
 - version: 2
@@ -52,7 +57,7 @@ works:
 <!-- inactive-ok-file: CLAIM-668 — Proposed; the premise that a record can represent who contributed -->
 <!-- inactive-ok-file: CLAIM-tmp0ncly CLAIM-tmpmacjk — new; filed from the same exchange -->
 
-# CLAIM-tmpqteki: A record of a student's collaboration with an LLM is not proof of understanding but a better basis for questioning it: who first proposed a step, how it was evaluated and whether it was adopted are different pieces of information, and the submission becomes a view over a learning process
+# CLAIM-tmpqteki: Collaboration record grounds questioning
 
 ## The claim
 

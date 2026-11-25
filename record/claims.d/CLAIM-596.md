@@ -3,7 +3,14 @@ number: 596
 status: Active
 formerly:
 - CLAIM-tmpqlcgm
-title: 'Yields cannot tell a generative nucleus from one that only gives a head start: two assemblies can have the same chance of success with the nucleus established and without it, one because the nucleus speeds a later step among other components and one because it does not, so the route is identified by the rate of that later step, compared with and without the nucleus, and not by the yields'
+title: 'Yields can''t tell a nucleus from a head start'
+statement: >-
+  Yields cannot tell a generative nucleus from one that only gives a head
+  start: two assemblies can have the same chance of success with the nucleus
+  established and without it, one because the nucleus speeds a later step
+  among other components and one because it does not, so the route is
+  identified by the rate of that later step, compared with and without the
+  nucleus, and not by the yields
 version: 2
 history:
 - version: 2
@@ -58,7 +65,7 @@ summary: >-
   the owner's call.
 ---
 
-# CLAIM-596: Yields cannot tell a generative nucleus from one that only gives a head start: two assemblies can have the same chance of success with the nucleus established and without it, one because the nucleus speeds a later step among other components and one because it does not, so the route is identified by the rate of that later step, compared with and without the nucleus, and not by the yields
+# CLAIM-596: Yields can't tell a nucleus from a head start
 
 ## The construction
 

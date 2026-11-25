@@ -3,7 +3,12 @@ number: 1092
 status: Proposed
 formerly:
 - CLAIM-tmpf4pun
-title: 'Understanding in a learning system is stable tracking of a structure under the changes that preserve it, so a frozen exact rule understands, and greater future learnability is the usual sign of understanding in a learner rather than a condition of it'
+title: 'Understanding as stable tracking under change'
+statement: >-
+  Understanding in a learning system is stable tracking of a structure under
+  the changes that preserve it, so a frozen exact rule understands, and
+  greater future learnability is the usual sign of understanding in a
+  learner rather than a condition of it
 version: 1
 role: thesis
 warrant: interpretive
@@ -45,7 +50,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-438 CLAIM-754 CLAIM-519 — Proposed; cited as a ground read as a criterion, and as criteria applied -->
 <!-- inactive-ok-file: CASE-403 CASE-409 CASE-394 CLAIM-1059 — Proposed; filed by the lead run of 2026-11-23 -->
 
-# CLAIM-1092: Understanding in a learning system is stable tracking of a structure under the changes that preserve it, so a frozen exact rule understands, and greater future learnability is the usual sign of understanding in a learner rather than a condition of it
+# CLAIM-1092: Understanding as stable tracking under change
 
 ## The claim
 

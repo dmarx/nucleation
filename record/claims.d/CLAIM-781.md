@@ -3,7 +3,16 @@ number: 781
 status: Proposed
 formerly:
 - CLAIM-tmpy75jv
-title: 'Rate differences between levels, where they exceed the rate differences within a level, do two jobs in a hierarchy: the ratio of the rate within a level''s blocks to the rate between them is the margin by which the block aggregate is a slow manifold and the coarse variable closes, and its logarithm is the spacing between that level and the next in the tree the time geometry becomes; so dynamical hyperbolicity at every level makes the whole geometrically hyperbolic, which is how rate differences make hierarchical structure and not only mark it'
+title: 'Rate ratios close levels and space the tree'
+statement: >-
+  Rate differences between levels, where they exceed the rate differences
+  within a level, do two jobs in a hierarchy: the ratio of the rate within a
+  level's blocks to the rate between them is the margin by which the block
+  aggregate is a slow manifold and the coarse variable closes, and its
+  logarithm is the spacing between that level and the next in the tree the
+  time geometry becomes; so dynamical hyperbolicity at every level makes the
+  whole geometrically hyperbolic, which is how rate differences make
+  hierarchical structure and not only mark it
 version: 4
 history:
 - version: 2
@@ -79,7 +88,7 @@ works:
 <!-- inactive-ok-file: CLAIM-780 CLAIM-770 CLAIM-772 — Proposed; filed in this contribution or the one it builds on -->
 <!-- inactive-ok-file: CLAIM-478 CLAIM-157 THEORY-1558 THEORY-1429 CLAIM-762 SYNTHESIS-048 SYNTHESIS-108 CLAIM-755 LIT-1638 — Proposed or Unfetched; the claims and readings this joins -->
 
-# CLAIM-781: Rate differences between levels, where they exceed the rate differences within a level, do two jobs in a hierarchy: the ratio of the rate within a level's blocks to the rate between them is the margin by which the block aggregate is a slow manifold and the coarse variable closes, and its logarithm is the spacing between that level and the next in the tree the time geometry becomes; so dynamical hyperbolicity at every level makes the whole geometrically hyperbolic, which is how rate differences make hierarchical structure and not only mark it
+# CLAIM-781: Rate ratios close levels and space the tree
 
 ## The claim
 

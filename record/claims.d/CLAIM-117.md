@@ -3,7 +3,12 @@ number: 117
 status: Proposed
 formerly:
 - CLAIM-tmpx6akp
-title: 'Pragmatic fidelity requires preserving the dynamics of interpretation, not only final judgements: a good transport approximately intertwines source and target framing operations under a correspondence anchored to independently measured distinctions'
+title: 'Fidelity preserves interpretation dynamics'
+statement: >-
+  Pragmatic fidelity requires preserving the dynamics of interpretation, not
+  only final judgements: a good transport approximately intertwines source
+  and target framing operations under a correspondence anchored to
+  independently measured distinctions
 version: 3
 history:
 - version: 2
@@ -60,7 +65,7 @@ complements:
 - CLAIM-063
 ---
 
-# CLAIM-117: Pragmatic fidelity requires preserving the dynamics of interpretation, not only final judgements: a good transport approximately intertwines source and target framing operations under a correspondence anchored to independently measured distinctions
+# CLAIM-117: Fidelity preserves interpretation dynamics
 
 ## The claim
 

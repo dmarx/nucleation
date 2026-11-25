@@ -3,7 +3,16 @@ number: 634
 status: Proposed
 formerly:
 - CLAIM-tmp9hy40
-title: 'For demands that two contexts'' local values differ by a preferred real offset within a tolerance, the minimal sets of demands that cannot be met together are exactly the simple cycles of contexts whose holonomy exceeds their summed tolerance: without parallel overlaps every pair of demands is compatible, a minimal conflict can have any length from three to the number of contexts, Helly''s bound on its size is attained by a cycle through every context, and in this class a missing face of the compatibility complex is a failed global assignment'
+title: 'Minimal incompatibilities are excess cycles'
+statement: >-
+  For demands that two contexts' local values differ by a preferred real
+  offset within a tolerance, the minimal sets of demands that cannot be met
+  together are exactly the simple cycles of contexts whose holonomy exceeds
+  their summed tolerance: without parallel overlaps every pair of demands is
+  compatible, a minimal conflict can have any length from three to the
+  number of contexts, Helly's bound on its size is attained by a cycle
+  through every context, and in this class a missing face of the
+  compatibility complex is a failed global assignment
 version: 1
 role: thesis
 warrant: demonstrated
@@ -51,7 +60,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-618 CLAIM-631 — Proposed; cited for what this claim does not cover -->
 
-# CLAIM-634: For demands that two contexts' local values differ by a preferred real offset within a tolerance, the minimal sets of demands that cannot be met together are exactly the simple cycles of contexts whose holonomy exceeds their summed tolerance: without parallel overlaps every pair of demands is compatible, a minimal conflict can have any length from three to the number of contexts, Helly's bound on its size is attained by a cycle through every context, and in this class a missing face of the compatibility complex is a failed global assignment
+# CLAIM-634: Minimal incompatibilities are excess cycles
 
 ## The claim
 

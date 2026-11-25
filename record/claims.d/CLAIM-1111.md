@@ -3,8 +3,10 @@ number: 1111
 status: Proposed
 formerly:
 - CLAIM-tmphsmbq
-title: The regress of anchors, in which a protected anchor's own error needs
-  a further anchor to correct it, resembles Gödel's incompleteness
+title: 'Regress of anchors resembles Gödel'
+statement: >-
+  The regress of anchors, in which a protected anchor's own error needs a
+  further anchor to correct it, resembles Gödel's incompleteness
 version: 1
 role: supposed
 warrant: interpretive
@@ -30,7 +32,7 @@ summary: 'The owner''s, 2026-11-23, in this session: "the bottomless regress
 
 <!-- inactive-ok-file: ARG-233 — Proposed; cited in this filing of 2026-11-23 -->
 
-# CLAIM-1111: The regress of anchors, in which a protected anchor's own error needs a further anchor to correct it, resembles Gödel's incompleteness
+# CLAIM-1111: Regress of anchors resembles Gödel
 
 ## The claim
 

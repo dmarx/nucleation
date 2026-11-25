@@ -3,7 +3,12 @@ number: 707
 status: Proposed
 formerly:
 - CLAIM-tmpnfjln
-title: 'An organization can place control over the conditions of action upstream, the practical obligation to secure acceptable outcomes downstream, and blame where failure becomes visible, so that those blamed for a failure can be those with the least control over the conditions that produced it'
+title: 'Blame can fall where control is least'
+statement: >-
+  An organization can place control over the conditions of action upstream,
+  the practical obligation to secure acceptable outcomes downstream, and
+  blame where failure becomes visible, so that those blamed for a failure
+  can be those with the least control over the conditions that produced it
 version: 18
 history:
 - version: 2
@@ -168,7 +173,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-261 — Proposed; a stipulated neighbour, cited with its standing -->
 <!-- inactive-ok-file: CLAIM-614 — Proposed; the record's non-legibility and power-over-technology claims, cited with their standing -->
 
-# CLAIM-707: An organization can place control over the conditions of action upstream, the practical obligation to secure acceptable outcomes downstream, and blame where failure becomes visible, so that those blamed for a failure can be those with the least control over the conditions that produced it
+# CLAIM-707: Blame can fall where control is least
 
 ## The claim
 

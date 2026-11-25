@@ -3,7 +3,13 @@ number: 664
 status: Active
 formerly:
 - CLAIM-tmp8qsef
-title: 'The record computes no withdrawals: retiring an entry reports what rests on it and leaves whether each dependant falls to a judgment, and, since its relations record support of unrecorded strength rather than justifications taken as sufficient, no rule reading only the support graph and the entries'' statuses could make that judgment correctly'
+title: 'The record computes no withdrawals'
+statement: >-
+  The record computes no withdrawals: retiring an entry reports what rests
+  on it and leaves whether each dependant falls to a judgment, and, since
+  its relations record support of unrecorded strength rather than
+  justifications taken as sufficient, no rule reading only the support graph
+  and the entries' statuses could make that judgment correctly
 version: 3
 history:
 - version: 1
@@ -86,7 +92,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-2291 THEORY-1778 THEORY-1753 THEORY-1810 — LIT-2291 Unfetched, Doyle's IJCAI-79 summary read in its place; the readings are Proposed, filed 2026-11-12 -->
 <!-- inactive-ok-file: THEORY-1737 THEORY-1741 THEORY-1763 THEORY-1771 THEORY-1780 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
-# CLAIM-664: The record computes no withdrawals: retiring an entry reports what rests on it and leaves whether each dependant falls to a judgment, and, since its relations record support of unrecorded strength rather than justifications taken as sufficient, no rule reading only the support graph and the entries' statuses could make that judgment correctly
+# CLAIM-664: The record computes no withdrawals
 
 ## The claim
 

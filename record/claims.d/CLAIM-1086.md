@@ -3,7 +3,13 @@ number: 1086
 status: Proposed
 formerly:
 - CLAIM-tmpeonjp
-title: 'Grounding in a learning system is reliability over a family of cases closed under interventions that separate what makes an answer true from what accompanies it, so the cue-reading and stale-source cases fail reliability rather than a separate condition, and the work of the account lies in declaring the family'
+title: 'Grounding as reliability under interventions'
+statement: >-
+  Grounding in a learning system is reliability over a family of cases
+  closed under interventions that separate what makes an answer true from
+  what accompanies it, so the cue-reading and stale-source cases fail
+  reliability rather than a separate condition, and the work of the account
+  lies in declaring the family
 version: 1
 role: thesis
 warrant: interpretive
@@ -42,7 +48,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-416 CASE-399 CLAIM-1028 — Proposed; filed by the lead run of 2026-11-23 -->
 
-# CLAIM-1086: Grounding in a learning system is reliability over a family of cases closed under interventions that separate what makes an answer true from what accompanies it, so the cue-reading and stale-source cases fail reliability rather than a separate condition, and the work of the account lies in declaring the family
+# CLAIM-1086: Grounding as reliability under interventions
 
 ## The claim
 

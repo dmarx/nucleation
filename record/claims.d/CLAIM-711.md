@@ -3,7 +3,13 @@ number: 711
 status: Proposed
 formerly:
 - CLAIM-tmpwpvbz
-title: 'A process with no procedural friction can still be interruptible: standing constraints set slowly in advance and enforced by mechanisms faster than the process can foreclose alternatives keep it open to intervention without delaying it, so an opportunity to intervene does not consist in friction'
+title: 'Frictionless processes can be interruptible'
+statement: >-
+  A process with no procedural friction can still be interruptible: standing
+  constraints set slowly in advance and enforced by mechanisms faster than
+  the process can foreclose alternatives keep it open to intervention
+  without delaying it, so an opportunity to intervene does not consist in
+  friction
 version: 9
 history:
 - version: 2
@@ -89,7 +95,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-710 — filed with this objection, Proposed -->
 <!-- inactive-ok-file: CLAIM-478 — Proposed; the record's scale-separation claim, cited with its standing -->
 
-# CLAIM-711: A process with no procedural friction can still be interruptible: standing constraints set slowly in advance and enforced by mechanisms faster than the process can foreclose alternatives keep it open to intervention without delaying it, so an opportunity to intervene does not consist in friction
+# CLAIM-711: Frictionless processes can be interruptible
 
 ## The claim
 

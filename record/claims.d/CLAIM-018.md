@@ -3,7 +3,10 @@ number: 18
 status: Active
 formerly:
 - CLAIM-tmp5ljag
-title: 'Canguilhem''s distinction between functioning under a norm and capacity for norm-changing adaptation corresponds to transformation capacity'
+title: 'Canguilhem norm-change as transformation capacity'
+statement: >-
+  Canguilhem's distinction between functioning under a norm and capacity for
+  norm-changing adaptation corresponds to transformation capacity
 version: 3
 history:
 - version: 2
@@ -55,7 +58,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-817 — Unavailable; set aside, and cited to say what was set aside with it -->
 
-# CLAIM-018: Canguilhem's distinction between functioning under a norm and capacity for norm-changing adaptation corresponds to transformation capacity
+# CLAIM-018: Canguilhem norm-change as transformation capacity
 
 ## The claim
 

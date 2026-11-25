@@ -3,7 +3,15 @@ number: 951
 status: Proposed
 formerly:
 - CLAIM-tmpk6abl
-title: 'Where a nucleus makes the constraint of its own formation from the material its formation also draws on, a loop that falls short of closing can need more outside supply of the constraint than no loop at all, so the share of the constraint a nucleus makes for itself is not a measure of progress toward closure: in one kinetic construction the loop cut the supply needed only while turnover stayed below about 0.73, where what it made equalled the extra constraint needed to offset its draw on material'
+title: 'A partial loop can need more outside supply'
+statement: >-
+  Where a nucleus makes the constraint of its own formation from the
+  material its formation also draws on, a loop that falls short of closing
+  can need more outside supply of the constraint than no loop at all, so the
+  share of the constraint a nucleus makes for itself is not a measure of
+  progress toward closure: in one kinetic construction the loop cut the
+  supply needed only while turnover stayed below about 0.73, where what it
+  made equalled the extra constraint needed to offset its draw on material
 version: 1
 history:
 - version: 1
@@ -42,7 +50,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-365 — new; the run this claim is drawn from -->
 
-# CLAIM-951: Where a nucleus makes the constraint of its own formation from the material its formation also draws on, a loop that falls short of closing can need more outside supply of the constraint than no loop at all, so the share of the constraint a nucleus makes for itself is not a measure of progress toward closure: in one kinetic construction the loop cut the supply needed only while turnover stayed below about 0.73, where what it made equalled the extra constraint needed to offset its draw on material
+# CLAIM-951: A partial loop can need more outside supply
 
 ## The claim
 

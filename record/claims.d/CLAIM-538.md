@@ -3,7 +3,19 @@ number: 538
 status: Active
 formerly:
 - CLAIM-tmplvc8b
-title: 'On a finite graph of contexts whose overlaps carry preferred real offsets a and tolerances δ_e ≥ 0, an assignment within every tolerance, |Dx − a| ≤ δ, exists exactly when no cycle''s holonomy exceeds the sum of its tolerances; with every δ_e > 0 the least uniform enlargement of the tolerances that admits one is the largest ratio, over simple cycles, of holonomy to summed tolerance, so the obstruction is certified by a cycle; the feasible allocations of tolerance depend on the offsets only through their class in H¹, so local adjustment can move a mismatch among the overlaps of a cycle and never remove it; and an evaluation that omits one overlap of every witnessing cycle reports a compatibility that does not hold'
+title: 'Compatible iff no holonomy exceeds tolerance'
+statement: >-
+  On a finite graph of contexts whose overlaps carry preferred real offsets
+  a and tolerances δ_e ≥ 0, an assignment within every tolerance, |Dx − a| ≤
+  δ, exists exactly when no cycle's holonomy exceeds the sum of its
+  tolerances; with every δ_e > 0 the least uniform enlargement of the
+  tolerances that admits one is the largest ratio, over simple cycles, of
+  holonomy to summed tolerance, so the obstruction is certified by a cycle;
+  the feasible allocations of tolerance depend on the offsets only through
+  their class in H¹, so local adjustment can move a mismatch among the
+  overlaps of a cycle and never remove it; and an evaluation that omits one
+  overlap of every witnessing cycle reports a compatibility that does not
+  hold
 version: 1
 role: thesis
 warrant: demonstrated
@@ -53,7 +65,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-618 — filed from the same exchange, Proposed -->
 <!-- ref::uses-file: TERM-093 — the preferred offsets a_e on overlaps, which say when two contexts' local values count as agreeing, are TERM-093's correspondence structure -->
 
-# CLAIM-538: On a finite graph of contexts whose overlaps carry preferred real offsets a and tolerances δ_e ≥ 0, an assignment within every tolerance, |Dx − a| ≤ δ, exists exactly when no cycle's holonomy exceeds the sum of its tolerances; with every δ_e > 0 the least uniform enlargement of the tolerances that admits one is the largest ratio, over simple cycles, of holonomy to summed tolerance, so the obstruction is certified by a cycle; the feasible allocations of tolerance depend on the offsets only through their class in H¹, so local adjustment can move a mismatch among the overlaps of a cycle and never remove it; and an evaluation that omits one overlap of every witnessing cycle reports a compatibility that does not hold
+# CLAIM-538: Compatible iff no holonomy exceeds tolerance
 
 ## The claim
 

@@ -3,7 +3,9 @@ number: 1133
 status: Proposed
 formerly:
 - CLAIM-tmpm54la
-title: 'A team is a pseudo-self whose perspectives are necessarily separable'
+title: 'A team: pseudo-self with separable perspectives'
+statement: >-
+  A team is a pseudo-self whose perspectives are necessarily separable
 version: 1
 role: thesis
 warrant: interpretive
@@ -44,7 +46,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-1039 TERM-166 — Proposed; the objection, the restatement and the term filed from the same turn -->
 
-# CLAIM-1133: A team is a pseudo-self whose perspectives are necessarily separable
+# CLAIM-1133: A team: pseudo-self with separable perspectives
 
 ## The claim
 

@@ -3,7 +3,12 @@ number: 150
 status: Active
 formerly:
 - CLAIM-tmpvxrjv
-title: 'An ontology of intrinsically individuated objects with relational properties can reproduce the categorical and operational identifications, and the predictions, of a relational one, so identification underdetermines constitution'
+title: 'Identification underdetermines constitution'
+statement: >-
+  An ontology of intrinsically individuated objects with relational
+  properties can reproduce the categorical and operational identifications,
+  and the predictions, of a relational one, so identification
+  underdetermines constitution
 version: 2
 history:
 - version: 2
@@ -58,7 +63,7 @@ summary: >-
 <!-- inactive-ok-file: ARG-023 ARG-038 — Rejected; the arguments this claim's support verdicts moved to, which it undercuts -->
 <!-- inactive-ok-file: CLAIM-206 — Proposed; the claim that rests on this one, cited as open -->
 
-# CLAIM-150: An ontology of intrinsically individuated objects with relational properties can reproduce the categorical and operational identifications, and the predictions, of a relational one, so identification underdetermines constitution
+# CLAIM-150: Identification underdetermines constitution
 
 ## The claim
 

@@ -3,7 +3,15 @@ number: 597
 status: Active
 formerly:
 - CLAIM-tmps9wa1
-title: 'Where every replacement part is supplied from outside, an organization can become independent of what founded it but never of what feeds it: with damage at rate d and supplied repair at rate ρs the intact fraction holds at ρs/(ρs + d), needs a supply growing as θ/(1 − θ) times the damage rate to hold a share θ, and decays as e^(−dt) once the supply stops, as DNA origami that self-heals from a strand pool and origami that replicates from supplied monomers both illustrate'
+title: 'Independent of founders, never of feeders'
+statement: >-
+  Where every replacement part is supplied from outside, an organization can
+  become independent of what founded it but never of what feeds it: with
+  damage at rate d and supplied repair at rate ρs the intact fraction holds
+  at ρs/(ρs + d), needs a supply growing as θ/(1 − θ) times the damage rate
+  to hold a share θ, and decays as e^(−dt) once the supply stops, as DNA
+  origami that self-heals from a strand pool and origami that replicates
+  from supplied monomers both illustrate
 version: 5
 history:
 - version: 2
@@ -96,7 +104,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-2132 — Proposed, Skimmed or new; entries cited as open -->
 
-# CLAIM-597: Where every replacement part is supplied from outside, an organization can become independent of what founded it but never of what feeds it: with damage at rate d and supplied repair at rate ρs the intact fraction holds at ρs/(ρs + d), needs a supply growing as θ/(1 − θ) times the damage rate to hold a share θ, and decays as e^(−dt) once the supply stops, as DNA origami that self-heals from a strand pool and origami that replicates from supplied monomers both illustrate
+# CLAIM-597: Independent of founders, never of feeders
 
 ## The claim
 

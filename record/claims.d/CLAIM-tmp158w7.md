@@ -1,6 +1,13 @@
 ---
 status: Proposed
-title: 'A publishing system is part of the apparatus of inquiry: its representation of scholarly work fixes which kinds of labour are recognizable as contributions, so changing the representation changes what counts, and a system that is to stay adequate must govern revisions of its own rules of representation and evaluation as well as of the claims it holds'
+title: 'Publishing systems fix what counts as work'
+statement: >-
+  A publishing system is part of the apparatus of inquiry: its
+  representation of scholarly work fixes which kinds of labour are
+  recognizable as contributions, so changing the representation changes what
+  counts, and a system that is to stay adequate must govern revisions of its
+  own rules of representation and evaluation as well as of the claims it
+  holds
 version: 2
 history:
 - version: 2
@@ -43,7 +50,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-181 CLAIM-667 — Proposed; the objection CLAIM-419 answers, and the open hypothesis about governance -->
 
-# CLAIM-tmp158w7: A publishing system is part of the apparatus of inquiry: its representation of scholarly work fixes which kinds of labour are recognizable as contributions, so changing the representation changes what counts, and a system that is to stay adequate must govern revisions of its own rules of representation and evaluation as well as of the claims it holds
+# CLAIM-tmp158w7: Publishing systems fix what counts as work
 
 ## The claim
 

@@ -3,7 +3,16 @@ number: 526
 status: Active
 formerly:
 - CLAIM-tmpg3993
-title: 'Describing persons and organizations as coexisting levels of one process removes the question of how already-constituted agents add up to a collective, but not the question of levels: whether a collective variable has dynamics of its own, closed against the activity that realizes it, can be decided on a process description that presupposes no agents, is sometimes decided no, and a closed collective variable can be an aggregate that coexists with its realization while keeping none of its members'' distinctions'
+title: 'Coexisting levels keep the question of levels'
+statement: >-
+  Describing persons and organizations as coexisting levels of one process
+  removes the question of how already-constituted agents add up to a
+  collective, but not the question of levels: whether a collective variable
+  has dynamics of its own, closed against the activity that realizes it, can
+  be decided on a process description that presupposes no agents, is
+  sometimes decided no, and a closed collective variable can be an aggregate
+  that coexists with its realization while keeping none of its members'
+  distinctions
 version: 2
 history:
 - version: 2
@@ -75,7 +84,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-2292 THEORY-2288 — Proposed; readings of LEAD-094's batch, 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-1278 — Proposed; the reading whose refutation condition part 2 meets, and the synthesis it sits beside -->
 
-# CLAIM-526: Describing persons and organizations as coexisting levels of one process removes the question of how already-constituted agents add up to a collective, but not the question of levels: whether a collective variable has dynamics of its own, closed against the activity that realizes it, can be decided on a process description that presupposes no agents, is sometimes decided no, and a closed collective variable can be an aggregate that coexists with its realization while keeping none of its members' distinctions
+# CLAIM-526: Coexisting levels keep the question of levels
 
 ## The claim
 

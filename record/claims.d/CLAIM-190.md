@@ -5,7 +5,11 @@ superseded_by:
 - ARG-028
 formerly:
 - CLAIM-tmpkld6a
-title: 'The anchoring measures are computed in the grammar that shapes the argument, so by themselves they cannot certify that drift fell: drift must also be judged under standards the record did not supply'
+title: 'Anchoring measures cannot certify drift fell'
+statement: >-
+  The anchoring measures are computed in the grammar that shapes the
+  argument, so by themselves they cannot certify that drift fell: drift must
+  also be judged under standards the record did not supply
 version: 2
 history:
 - version: 2
@@ -43,7 +47,7 @@ grounds:
 <!-- inactive-ok-file: CLAIM-185 CLAIM-186 — Proposed; open, the theses this objection was to and the argument now concludes -->
 <!-- inactive-ok-file: CLAIM-206 CLAIM-217 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 
-# CLAIM-190: The anchoring measures are computed in the grammar that shapes the argument, so by themselves they cannot certify that drift fell: drift must also be judged under standards the record did not supply
+# CLAIM-190: Anchoring measures cannot certify drift fell
 
 ## The claim
 

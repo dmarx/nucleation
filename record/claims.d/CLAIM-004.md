@@ -3,7 +3,10 @@ number: 4
 status: Proposed
 formerly:
 - CLAIM-tmp0talu
-title: 'Not every difference between translations is a difference of frame: some change the act being framed'
+title: 'Some translation differences change the act'
+statement: >-
+  Not every difference between translations is a difference of frame: some
+  change the act being framed
 version: 2
 history:
 - version: 2
@@ -42,7 +45,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-006 TERM-016 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 <!-- inactive-ok-file: CLAIM-151 CLAIM-129 — Proposed; later re-derivations of this distinction, cited as open -->
 
-# CLAIM-004: Not every difference between translations is a difference of frame: some change the act being framed
+# CLAIM-004: Some translation differences change the act
 
 ## The claim
 

@@ -3,7 +3,13 @@ number: 249
 status: Active
 formerly:
 - CLAIM-tmpt76qw
-title: 'Comparing characters across realizations needs one group identified on both, which is fixed only up to automorphism, and automorphisms permute the irreducible characters, so "the same character" is relative to a chosen correspondence: the collapse problem again, at the level of the symmetry group'
+title: 'Same character is relative to correspondence'
+statement: >-
+  Comparing characters across realizations needs one group identified on
+  both, which is fixed only up to automorphism, and automorphisms permute
+  the irreducible characters, so "the same character" is relative to a
+  chosen correspondence: the collapse problem again, at the level of the
+  symmetry group
 version: 2
 history:
 - version: 2
@@ -49,7 +55,7 @@ bears_on:
 <!-- inactive-ok-file: CLAIM-103 — Proposed; cited for the semigroup of transformations and the invertible core of stochastic maps, open -->
 <!-- inactive-ok-file: CLAIM-138 — Proposed; the Newman counter this objection complements, open -->
 
-# CLAIM-249: Comparing characters across realizations needs one group identified on both, which is fixed only up to automorphism, and automorphisms permute the irreducible characters, so "the same character" is relative to a chosen correspondence: the collapse problem again, at the level of the symmetry group
+# CLAIM-249: Same character is relative to correspondence
 
 ## The objection
 

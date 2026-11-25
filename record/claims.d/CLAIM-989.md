@@ -3,7 +3,14 @@ number: 989
 status: Proposed
 formerly:
 - CLAIM-tmprcgr5
-title: "Alternative reading (b) of the constitutivism test: where an organization's own constitution fixes the standard a judgment about it is indexed to, fixing the relata leaves the verdict's truth non-relative but not the standard's force, which Leffler's argument makes relative to that constitution, so the claim that indexing does not by itself make a judgment relative holds for truth and not for force"
+title: 'Fixed relata leave the standard''s force relative'
+statement: >-
+  Alternative reading (b) of the constitutivism test: where an
+  organization's own constitution fixes the standard a judgment about it is
+  indexed to, fixing the relata leaves the verdict's truth non-relative but
+  not the standard's force, which Leffler's argument makes relative to that
+  constitution, so the claim that indexing does not by itself make a
+  judgment relative holds for truth and not for force
 version: 1
 role: counter
 warrant: interpretive
@@ -41,7 +48,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-2268 ARG-217 CLAIM-987 CLAIM-988 — filed in the same batch, Proposed -->
 <!-- inactive-ok-file: CLAIM-648 CASE-257 — Proposed; the record's endogenous profile, and a case whose standard is not the organization's own -->
 
-# CLAIM-989: Alternative reading (b) of the constitutivism test: where an organization's own constitution fixes the standard a judgment about it is indexed to, fixing the relata leaves the verdict's truth non-relative but not the standard's force, which Leffler's argument makes relative to that constitution, so the claim that indexing does not by itself make a judgment relative holds for truth and not for force
+# CLAIM-989: Fixed relata leave the standard's force relative
 
 ## The claim
 

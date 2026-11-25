@@ -3,7 +3,14 @@ number: 1186
 status: Active
 formerly:
 - CLAIM-tmpwb6dg
-title: 'A response profile that is positive, linear and normalized in the continuous test is a probability measure, and a declared family of tests turns the largest disagreement between two such measures into a pseudometric, which is a metric exactly when the family separates measures, so that observational equivalence under the family is distance zero'
+title: 'Declared tests give a pseudometric on measures'
+statement: >-
+  A response profile that is positive, linear and normalized in the
+  continuous test is a probability measure, and a declared family of tests
+  turns the largest disagreement between two such measures into a
+  pseudometric, which is a metric exactly when the family separates
+  measures, so that observational equivalence under the family is distance
+  zero
 version: 2
 history:
 - version: 1
@@ -62,7 +69,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-1112 — Proposed; the owner's thesis this works out and the term it extends -->
 
-# CLAIM-1186: A response profile that is positive, linear and normalized in the continuous test is a probability measure, and a declared family of tests turns the largest disagreement between two such measures into a pseudometric, which is a metric exactly when the family separates measures, so that observational equivalence under the family is distance zero
+# CLAIM-1186: Declared tests give a pseudometric on measures
 
 ## The claim
 

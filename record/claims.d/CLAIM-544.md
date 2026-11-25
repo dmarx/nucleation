@@ -3,7 +3,16 @@ number: 544
 status: Proposed
 formerly:
 - CLAIM-tmpxes2o
-title: 'If a willed agent is the jurisdiction of its will-organization, then governing one''s own governability is in part governing one''s own individuation, in the constitutive sense of individuation at that level: a revision of the will-organization that changes which regimes it governs changes which willed agent there is, so a self-forming revision can be a re-individuation and not only a change in an agent''s states, and whether the revised jurisdiction continues the earlier agent is a question of continuation, not of resemblance'
+title: 'Governing governability governs individuation'
+statement: >-
+  If a willed agent is the jurisdiction of its will-organization, then
+  governing one's own governability is in part governing one's own
+  individuation, in the constitutive sense of individuation at that level: a
+  revision of the will-organization that changes which regimes it governs
+  changes which willed agent there is, so a self-forming revision can be a
+  re-individuation and not only a change in an agent's states, and whether
+  the revised jurisdiction continues the earlier agent is a question of
+  continuation, not of resemblance
 version: 4
 history:
 - version: 2
@@ -74,7 +83,7 @@ summary: >-
 <!-- ref::uses-file: TERM-099 — "A self-forming revision" that adds a channel or a distinction under the organization's governance is TERM-099's self-formation -->
 <!-- ref::uses-file: TERM-100 — continuation as "how the later organization came from the earlier", and "Whose revision it was", are questions of TERM-100's formation provenance -->
 
-# CLAIM-544: If a willed agent is the jurisdiction of its will-organization, then governing one's own governability is in part governing one's own individuation, in the constitutive sense of individuation at that level: a revision of the will-organization that changes which regimes it governs changes which willed agent there is, so a self-forming revision can be a re-individuation and not only a change in an agent's states, and whether the revised jurisdiction continues the earlier agent is a question of continuation, not of resemblance
+# CLAIM-544: Governing governability governs individuation
 
 ## The claim
 

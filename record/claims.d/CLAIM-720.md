@@ -3,7 +3,14 @@ number: 720
 formerly:
 - CLAIM-tmp6vck6
 status: Proposed
-title: 'Inalienability is a limit on normative powers, not on exercise: a person may restrict the exercise of a right or delegate limited authority over decisions, and no delegation, contract, collective decision or success in imposing an arrangement thereby confers authority to determine whether that person keeps the standing from which claims against the arrangement arise, because the holder lacks the power to confer it'
+title: 'Inalienability limits powers, not exercise'
+statement: >-
+  Inalienability is a limit on normative powers, not on exercise: a person
+  may restrict the exercise of a right or delegate limited authority over
+  decisions, and no delegation, contract, collective decision or success in
+  imposing an arrangement thereby confers authority to determine whether
+  that person keeps the standing from which claims against the arrangement
+  arise, because the holder lacks the power to confer it
 version: 5
 history:
 - version: 2
@@ -88,7 +95,7 @@ summary: >-
 <!-- inactive-ok-file: TERM-083 TERM-124 — Proposed; the record's nearest entries, cited with their standing -->
 <!-- inactive-ok-file: CASE-286 — filed from the same exchange, Proposed or new -->
 
-# CLAIM-720: Inalienability is a limit on normative powers, not on exercise: a person may restrict the exercise of a right or delegate limited authority over decisions, and no delegation, contract, collective decision or success in imposing an arrangement thereby confers authority to determine whether that person keeps the standing from which claims against the arrangement arise, because the holder lacks the power to confer it
+# CLAIM-720: Inalienability limits powers, not exercise
 
 ## The claim
 

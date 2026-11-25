@@ -3,7 +3,15 @@ number: 767
 status: Proposed
 formerly:
 - CLAIM-tmp2yj4t
-title: 'A residual network''s depth is a restatement chain whose skip connection copies the state and whose branches add to it, so the drift kinds of the linear Gaussian model apply: random branch contributions add diffusively and stay of order one under a branch scale of one over the square root of depth, systematic ones add linearly and need one over depth, and a network without skip connections contracts in depth and forgets its input over a depth scale'
+title: 'Residual depth is a restatement chain'
+statement: >-
+  A residual network's depth is a restatement chain whose skip connection
+  copies the state and whose branches add to it, so the drift kinds of the
+  linear Gaussian model apply: random branch contributions add diffusively
+  and stay of order one under a branch scale of one over the square root of
+  depth, systematic ones add linearly and need one over depth, and a network
+  without skip connections contracts in depth and forgets its input over a
+  depth scale
 version: 2
 history:
 - version: 2
@@ -58,7 +66,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-2134 THEORY-2146 THEORY-2140 — Proposed; readings of 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-773 THEORY-2041 CLAIM-779 CLAIM-772 — Proposed or Deferred; the model this applies, the works it rests on until read, and the claims filed with it -->
 
-# CLAIM-767: A residual network's depth is a restatement chain whose skip connection copies the state and whose branches add to it, so the drift kinds of the linear Gaussian model apply: random branch contributions add diffusively and stay of order one under a branch scale of one over the square root of depth, systematic ones add linearly and need one over depth, and a network without skip connections contracts in depth and forgets its input over a depth scale
+# CLAIM-767: Residual depth is a restatement chain
 
 ## The claim
 

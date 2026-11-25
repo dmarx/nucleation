@@ -3,7 +3,12 @@ number: 168
 status: Proposed
 formerly:
 - CLAIM-tmpm5571
-title: 'Identifying agents by their will-organization is circular: will-organization is defined for an agent already given, and the agent-versus-device comparison presupposes an identified system, so neither can produce the factorization it is meant to find'
+title: 'Will-organization identification is circular'
+statement: >-
+  Identifying agents by their will-organization is circular:
+  will-organization is defined for an agent already given, and the
+  agent-versus-device comparison presupposes an identified system, so
+  neither can produce the factorization it is meant to find
 version: 1
 role: counter
 warrant: interpretive
@@ -32,7 +37,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-157 CLAIM-174 — Proposed; the criterion and the reply this objection is set against, open -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; cited for its history of the permissiveness objection -->
 
-# CLAIM-168: Identifying agents by their will-organization is circular: will-organization is defined for an agent already given, and the agent-versus-device comparison presupposes an identified system, so neither can produce the factorization it is meant to find
+# CLAIM-168: Will-organization identification is circular
 
 ## The claim
 

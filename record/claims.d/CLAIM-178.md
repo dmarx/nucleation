@@ -3,7 +3,12 @@ number: 178
 status: Proposed
 formerly:
 - CLAIM-tmp5o4dd
-title: 'A manuscript should be a view over the argument and not its only copy: a draft written straight from an exchange drops commitments and changes its thesis without saying so, and both become visible only against a record where claims carry status and inclusion separately'
+title: 'A manuscript is a view over the argument'
+statement: >-
+  A manuscript should be a view over the argument and not its only copy: a
+  draft written straight from an exchange drops commitments and changes its
+  thesis without saying so, and both become visible only against a record
+  where claims carry status and inclusion separately
 version: 9
 history:
 - version: 2
@@ -103,7 +108,7 @@ bears_on:
 <!-- inactive-ok-file: CLAIM-017 — Superseded; cited as the history of a thesis or term, whose change is the point -->
 <!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; cited as it stood, not as what the record now holds -->
 
-# CLAIM-178: A manuscript should be a view over the argument and not its only copy: a draft written straight from an exchange drops commitments and changes its thesis without saying so, and both become visible only against a record where claims carry status and inclusion separately
+# CLAIM-178: A manuscript is a view over the argument
 
 ## The claim
 

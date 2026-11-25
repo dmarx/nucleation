@@ -3,7 +3,13 @@ number: 379
 status: Active
 formerly:
 - CLAIM-tmp861ar
-title: 'On a finite set of stimuli, regularized linear readouts with ridge b > 0 cannot tell apart two centred representations of the same width exactly when one is an orthogonal transformation of the other, and the unregularized CCA member cannot tell apart representations with the same column space, which differ by an invertible linear map'
+title: 'Ridge readouts see representations up to rotation'
+statement: >-
+  On a finite set of stimuli, regularized linear readouts with ridge b > 0
+  cannot tell apart two centred representations of the same width exactly
+  when one is an orthogonal transformation of the other, and the
+  unregularized CCA member cannot tell apart representations with the same
+  column space, which differ by an invertible linear map
 version: 2
 history:
 - version: 1
@@ -54,7 +60,7 @@ summary: >-
   linear map, as for a softmax layer ([THEORY-723](../theory.d/THEORY-723.md)).
 ---
 
-# CLAIM-379: On a finite set of stimuli, regularized linear readouts with ridge b > 0 cannot tell apart two centred representations of the same width exactly when one is an orthogonal transformation of the other, and the unregularized CCA member cannot tell apart representations with the same column space, which differ by an invertible linear map
+# CLAIM-379: Ridge readouts see representations up to rotation
 
 ## The claim
 

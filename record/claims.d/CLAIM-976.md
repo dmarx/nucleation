@@ -3,7 +3,12 @@ number: 976
 status: Proposed
 formerly:
 - CLAIM-tmpc54vj
-title: 'For decisions that are functions of the input, the directed signature is the eigenspace of the self-adjoint two-step operator T T*, which is reversible, so directedness adds no obstruction beyond the symmetric case and enters only for decisions about the transport itself'
+title: 'Directedness adds no obstruction for input tasks'
+statement: >-
+  For decisions that are functions of the input, the directed signature is
+  the eigenspace of the self-adjoint two-step operator T T*, which is
+  reversible, so directedness adds no obstruction beyond the symmetric case
+  and enters only for decisions about the transport itself
 version: 1
 role: thesis
 warrant: demonstrated
@@ -35,7 +40,7 @@ complements:
 <!-- inactive-ok-file: CASE-379 — Proposed; the study that grounds this claim, filed with it on 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-209 — Proposed; the thesis this advances and the linear-case claim it sits beside, cited as open -->
 
-# CLAIM-976: For decisions that are functions of the input, the directed signature is the eigenspace of the self-adjoint two-step operator T T*, which is reversible, so directedness adds no obstruction beyond the symmetric case and enters only for decisions about the transport itself
+# CLAIM-976: Directedness adds no obstruction for input tasks
 
 ## The claim
 

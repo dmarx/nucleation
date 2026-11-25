@@ -1,6 +1,14 @@
 ---
 status: Proposed
-title: 'Strong unitary executive theory is deficient where it infers, from the executive''s responsibility for executing the laws, an entitlement to govern every process that contributes to, evaluates or constrains that execution: authority over the conditions of correction can leave every corrective function formally in place while their failures become correlated, so the capacity to coordinate correction is not the capacity to remain independently correctable'
+title: 'Unitarism overreaches to conditions of correction'
+statement: >-
+  Strong unitary executive theory is deficient where it infers, from the
+  executive's responsibility for executing the laws, an entitlement to
+  govern every process that contributes to, evaluates or constrains that
+  execution: authority over the conditions of correction can leave every
+  corrective function formally in place while their failures become
+  correlated, so the capacity to coordinate correction is not the capacity
+  to remain independently correctable
 version: 1
 role: thesis
 warrant: interpretive
@@ -35,7 +43,7 @@ summary: >-
 
 <!-- inactive-ok-file: ARG-tmpz2gmo CLAIM-624 CLAIM-tmp1wlu2 CLAIM-tmpgmxs0 CLAIM-tmpqhxsz TERM-128 — Proposed, Deferred or Rejected; filed or cited in the filing of the exchange 'Memes, Contracts, and Systemic Normativity', whatever their standing -->
 
-# CLAIM-tmplc4m8: Strong unitary executive theory is deficient where it infers, from the executive's responsibility for executing the laws, an entitlement to govern every process that contributes to, evaluates or constrains that execution: authority over the conditions of correction can leave every corrective function formally in place while their failures become correlated, so the capacity to coordinate correction is not the capacity to remain independently correctable
+# CLAIM-tmplc4m8: Unitarism overreaches to conditions of correction
 
 ## The claim
 

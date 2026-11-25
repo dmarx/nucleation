@@ -3,7 +3,14 @@ number: 63
 status: Proposed
 formerly:
 - CLAIM-tmphq3fu
-title: 'A transport that approximately intertwines each framing operation approximately preserves their commutator, so the degree to which interpretive perspectives interfere can itself be part of what a translation preserves; on observed responses that degree is the order effect, which the intertwining defects bound only with a readout defect added and which the data identify only through observational distortion'
+title: 'Intertwining transports preserve commutators'
+statement: >-
+  A transport that approximately intertwines each framing operation
+  approximately preserves their commutator, so the degree to which
+  interpretive perspectives interfere can itself be part of what a
+  translation preserves; on observed responses that degree is the order
+  effect, which the intertwining defects bound only with a readout defect
+  added and which the data identify only through observational distortion
 version: 3
 history:
 - version: 2
@@ -67,7 +74,7 @@ complements:
 ---
 <!-- ref::uses-file: TERM-024 — stated in "noncommutativity, of events and of operations"; the body applies the term without naming it -->
 
-# CLAIM-063: A transport that approximately intertwines each framing operation approximately preserves their commutator, so the degree to which interpretive perspectives interfere can itself be part of what a translation preserves; on observed responses that degree is the order effect, which the intertwining defects bound only with a readout defect added and which the data identify only through observational distortion
+# CLAIM-063: Intertwining transports preserve commutators
 
 ## The claim
 

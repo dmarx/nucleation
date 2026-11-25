@@ -3,7 +3,12 @@ number: 1022
 status: Proposed
 formerly:
 - CLAIM-tmp48sm1
-title: 'Reading A of the Juggernaut testimony: the line reached the film through the redub''s circulation, which carried it to the one person who decided, so the case now has the route its third rung needed, though one case supports that rung only weakly against a list that names the distributors'
+title: 'Reading A: the redub''s circulation carried it'
+statement: >-
+  Reading A of the Juggernaut testimony: the line reached the film through
+  the redub's circulation, which carried it to the one person who decided,
+  so the case now has the route its third rung needed, though one case
+  supports that rung only weakly against a list that names the distributors
 version: 1
 history:
 - version: 1
@@ -47,7 +52,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-1052 CLAIM-1006 CLAIM-1026 — new; filed by the lead run of 2026-11-23 -->
 <!-- inactive-ok-file: CLAIM-332 — Proposed; the thesis this reading corroborates -->
 
-# CLAIM-1022: Reading A of the Juggernaut testimony: the line reached the film through the redub's circulation, which carried it to the one person who decided, so the case now has the route its third rung needed, though one case supports that rung only weakly against a list that names the distributors
+# CLAIM-1022: Reading A: the redub's circulation carried it
 
 ## The reading
 

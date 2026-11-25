@@ -3,7 +3,12 @@ number: 765
 status: Proposed
 formerly:
 - CLAIM-tmpvnjh2
-title: 'Two properties of what a learner retains come apart in all four combinations: identifiability, whether a retained change and its contribution can be established from observation and intervention, and localization, whether it sits in a place one can point to'
+title: 'Identifiability and localization come apart'
+statement: >-
+  Two properties of what a learner retains come apart in all four
+  combinations: identifiability, whether a retained change and its
+  contribution can be established from observation and intervention, and
+  localization, whether it sits in a place one can point to
 version: 1
 role: thesis
 warrant: empirical
@@ -44,7 +49,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-519 THEORY-2058 THEORY-2059 THEORY-2060 THEORY-2062 TERM-131 — Proposed or newly filed; cited in this filing of 2026-11-19 -->
 
-# CLAIM-765: Two properties of what a learner retains come apart in all four combinations: identifiability, whether a retained change and its contribution can be established from observation and intervention, and localization, whether it sits in a place one can point to
+# CLAIM-765: Identifiability and localization come apart
 
 ## The claim
 

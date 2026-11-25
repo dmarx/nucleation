@@ -3,7 +3,11 @@ number: 37
 status: Proposed
 formerly:
 - CLAIM-tmpaviuz
-title: 'Formal contextuality is a failure of global extension, distinct from ordinary context dependence, and needs Contextuality-by-Default when marginals shift with context'
+title: 'Contextuality is failure of global extension'
+statement: >-
+  Formal contextuality is a failure of global extension, distinct from
+  ordinary context dependence, and needs Contextuality-by-Default when
+  marginals shift with context
 version: 4
 history:
 - version: 2
@@ -78,7 +82,7 @@ complements:
 ---
 <!-- inactive-ok-file: CASE-417 CLAIM-1176 CLAIM-1164 CLAIM-1166 CLAIM-1207 — new; filed by the lead run of 2026-11-23 -->
 
-# CLAIM-037: Formal contextuality is a failure of global extension, distinct from ordinary context dependence, and needs Contextuality-by-Default when marginals shift with context
+# CLAIM-037: Contextuality is failure of global extension
 
 ## The claim
 

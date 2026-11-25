@@ -3,7 +3,14 @@ number: 658
 status: Proposed
 formerly:
 - CLAIM-tmpmz271
-title: 'Demand read from activity or revenue weights each person''s taste by how much they act or spend, so it diverges from person-weighted preference wherever activity goes with taste; and what moves a revenue-optimal design is each group''s marginal revenue response, not its head count or share of spending, so a responsive minority can set a design parameter against the majority''s preference with no change in anyone''s taste'
+title: 'A responsive minority can set a revenue design'
+statement: >-
+  Demand read from activity or revenue weights each person's taste by how
+  much they act or spend, so it diverges from person-weighted preference
+  wherever activity goes with taste; and what moves a revenue-optimal design
+  is each group's marginal revenue response, not its head count or share of
+  spending, so a responsive minority can set a design parameter against the
+  majority's preference with no change in anyone's taste
 version: 2
 history:
 - version: 2
@@ -52,7 +59,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-653 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: LIT-2452 — Deferred; registered from the same exchange, unread -->
 
-# CLAIM-658: Demand read from activity or revenue weights each person's taste by how much they act or spend, so it diverges from person-weighted preference wherever activity goes with taste; and what moves a revenue-optimal design is each group's marginal revenue response, not its head count or share of spending, so a responsive minority can set a design parameter against the majority's preference with no change in anyone's taste
+# CLAIM-658: A responsive minority can set a revenue design
 
 ## The claim
 

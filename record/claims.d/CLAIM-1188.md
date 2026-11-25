@@ -3,7 +3,13 @@ number: 1188
 status: Proposed
 formerly:
 - CLAIM-tmpx030o
-title: 'Regulation governs the evolving relationship between the demands an industrial ecology can recognize and formulate and the responses it can organize, realize and maintain, so adaptive governance is the viable co-development of inquiry and response capacities, without the evaluation that joins them becoming self-confirming'
+title: 'Governance as co-developing inquiry and response'
+statement: >-
+  Regulation governs the evolving relationship between the demands an
+  industrial ecology can recognize and formulate and the responses it can
+  organize, realize and maintain, so adaptive governance is the viable
+  co-development of inquiry and response capacities, without the evaluation
+  that joins them becoming self-confirming
 version: 1
 role: thesis
 warrant: interpretive
@@ -39,7 +45,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-1003 CLAIM-1053 CLAIM-1070 CLAIM-1173 — Proposed; the claims this rests on and the theses it revises -->
 
-# CLAIM-1188: Regulation governs the evolving relationship between the demands an industrial ecology can recognize and formulate and the responses it can organize, realize and maintain, so adaptive governance is the viable co-development of inquiry and response capacities, without the evaluation that joins them becoming self-confirming
+# CLAIM-1188: Governance as co-developing inquiry and response
 
 ## The claim
 

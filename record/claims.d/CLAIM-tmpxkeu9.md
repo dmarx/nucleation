@@ -1,6 +1,8 @@
 ---
 status: Proposed
-title: 'A luria record is an atlas of charts over an inquiry'
+title: 'A luria record is an atlas of charts'
+statement: >-
+  A luria record is an atlas of charts over an inquiry
 version: 1
 role: thesis
 warrant: interpretive
@@ -25,7 +27,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-tmplz7ng CLAIM-tmp6xzjy — new; A's development, the assistant's gap fill and the question A49 asks the record to hold -->
 
-# CLAIM-tmpxkeu9: A luria record is an atlas of charts over an inquiry
+# CLAIM-tmpxkeu9: A luria record is an atlas of charts
 
 ## The claim
 

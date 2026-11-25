@@ -3,7 +3,10 @@ number: 64
 status: Proposed
 formerly:
 - CLAIM-tmpi6kuu
-title: 'A translation reconstructs not only what is said but the situation of its saying'
+title: 'Translation reconstructs the situation of saying'
+statement: >-
+  A translation reconstructs not only what is said but the situation of its
+  saying
 version: 1
 role: thesis
 warrant: interpretive
@@ -30,7 +33,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; cited as it stood, not as what the record now holds -->
 <!-- inactive-ok-file: TERM-035 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 
-# CLAIM-064: A translation reconstructs not only what is said but the situation of its saying
+# CLAIM-064: Translation reconstructs the situation of saying
 
 ## The claim
 

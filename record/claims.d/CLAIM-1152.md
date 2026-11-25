@@ -3,14 +3,16 @@ number: 1152
 status: Active
 formerly:
 - CLAIM-tmppqdnv
-title: 'Identity stabilization can be read as temporal filtering: an organizational
-  variable that adapts at rate k to a noisily observed demand tracks variation
-  slower than k and ignores variation faster, its tracking error grows with
-  the demand''s frequency as ω²/(k² + ω²) while the noise it passes grows
-  with k as k²/(k² + ω²), so neither the slowest nor the fastest adaptation
-  is optimal in general, and the per-frequency optimum S_d/(S_d + λS_n) passes
-  variation where genuine demand outweighs noise and holds steady where noise
-  outweighs it'
+title: 'Identity stabilization as temporal filtering'
+statement: >-
+  Identity stabilization can be read as temporal filtering: an
+  organizational variable that adapts at rate k to a noisily observed demand
+  tracks variation slower than k and ignores variation faster, its tracking
+  error grows with the demand's frequency as ω²/(k² + ω²) while the noise it
+  passes grows with k as k²/(k² + ω²), so neither the slowest nor the
+  fastest adaptation is optimal in general, and the per-frequency optimum
+  S_d/(S_d + λS_n) passes variation where genuine demand outweighs noise and
+  holds steady where noise outweighs it
 version: 4
 history:
 - version: 2
@@ -64,7 +66,7 @@ works:
 
 <!-- inactive-ok-file: CLAIM-1104 — Proposed; cited in this filing of 2026-11-23 (third share) -->
 
-# CLAIM-1152: Identity stabilization can be read as temporal filtering: an organizational variable that adapts at rate k to a noisily observed demand tracks variation slower than k and ignores variation faster, its tracking error grows with the demand's frequency as ω²/(k² + ω²) while the noise it passes grows with k as k²/(k² + ω²), so neither the slowest nor the fastest adaptation is optimal in general, and the per-frequency optimum S_d/(S_d + λS_n) passes variation where genuine demand outweighs noise and holds steady where noise outweighs it
+# CLAIM-1152: Identity stabilization as temporal filtering
 
 ## Derivation (A42 §2, A44 §3), checked
 

@@ -3,7 +3,13 @@ number: 482
 status: Active
 formerly:
 - CLAIM-tmpnp8w6
-title: 'An organization''s aggregate revealed preference exists exactly when its record of winning moves never cycles, and where it exists it is fitted to one regime of authority, so an intervention on authority that changes the winning moves changes the fitted preference and the preference does not predict the change'
+title: 'Revealed preference is fitted to authority'
+statement: >-
+  An organization's aggregate revealed preference exists exactly when its
+  record of winning moves never cycles, and where it exists it is fitted to
+  one regime of authority, so an intervention on authority that changes the
+  winning moves changes the fitted preference and the preference does not
+  predict the change
 version: 2
 history:
 - version: 2
@@ -50,7 +56,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-2218 — Proposed; the reading of Caliari, 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-089 — Rejected; the objection this answers -->
 
-# CLAIM-482: An organization's aggregate revealed preference exists exactly when its record of winning moves never cycles, and where it exists it is fitted to one regime of authority, so an intervention on authority that changes the winning moves changes the fitted preference and the preference does not predict the change
+# CLAIM-482: Revealed preference is fitted to authority
 
 ## The claim
 

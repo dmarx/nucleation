@@ -3,7 +3,13 @@ number: 1157
 status: Active
 formerly:
 - CLAIM-tmpq4crr
-title: 'That asking and answering are each resource-bounded does not make them compete: a common budget, a common bottleneck or a sequential dependence supplies the coupling, and a shared deadline is not a shared pool of worker-hours, since independent processes can spend the same elapsed time at once'
+title: 'Bounded asking and answering need not compete'
+statement: >-
+  That asking and answering are each resource-bounded does not make them
+  compete: a common budget, a common bottleneck or a sequential dependence
+  supplies the coupling, and a shared deadline is not a shared pool of
+  worker-hours, since independent processes can spend the same elapsed time
+  at once
 version: 2
 role: thesis
 warrant: demonstrated
@@ -52,7 +58,7 @@ history:
 ---
 <!-- inactive-ok-file: CASE-316 — Proposed; the construction this rests on and the entries filed with it -->
 
-# CLAIM-1157: That asking and answering are each resource-bounded does not make them compete: a common budget, a common bottleneck or a sequential dependence supplies the coupling, and a shared deadline is not a shared pool of worker-hours, since independent processes can spend the same elapsed time at once
+# CLAIM-1157: Bounded asking and answering need not compete
 
 ## The claim
 

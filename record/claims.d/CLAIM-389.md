@@ -3,7 +3,13 @@ number: 389
 status: Active
 formerly:
 - CLAIM-tmpmonrv
-title: 'In a stable linear Gaussian VAR(1), exact dynamical independence of a linear coarse-graining implies that its Mori–Zwanzig memory vanishes, but not conversely: memory needs coupling out of the coarse variable and back, and dependence needs only the way back, so a coarse variable can be Markov in its own law with zero memory and still be dynamically dependent'
+title: 'Dynamical independence implies zero memory'
+statement: >-
+  In a stable linear Gaussian VAR(1), exact dynamical independence of a
+  linear coarse-graining implies that its Mori–Zwanzig memory vanishes, but
+  not conversely: memory needs coupling out of the coarse variable and back,
+  and dependence needs only the way back, so a coarse variable can be Markov
+  in its own law with zero memory and still be dynamically dependent
 version: 2
 history:
 - version: 2
@@ -45,7 +51,7 @@ bears_on:
 - QUESTION-222
 ---
 <!-- inactive-ok-file: THEORY-257 — Proposed; the account whose criterion this relates to memory, open -->
-# CLAIM-389: In a stable linear Gaussian VAR(1), exact dynamical independence of a linear coarse-graining implies that its Mori–Zwanzig memory vanishes, but not conversely: memory needs coupling out of the coarse variable and back, and dependence needs only the way back, so a coarse variable can be Markov in its own law with zero memory and still be dynamically dependent
+# CLAIM-389: Dynamical independence implies zero memory
 
 ## The claim
 

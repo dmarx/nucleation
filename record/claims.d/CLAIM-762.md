@@ -3,7 +3,14 @@ number: 762
 status: Proposed
 formerly:
 - CLAIM-tmpw8xkt
-title: 'Collapsing differences that do not matter into equivalence classes is how those classes come to be reified as new distinctions: where a process identifies its microstates by what they do, the classes it keeps, and not the microstates, become the units of further computation and organization; the claim is substantive only where the classes are closed under the system''s own operations and are reused'
+title: 'Collapsed equivalences become new distinctions'
+statement: >-
+  Collapsing differences that do not matter into equivalence classes is how
+  those classes come to be reified as new distinctions: where a process
+  identifies its microstates by what they do, the classes it keeps, and not
+  the microstates, become the units of further computation and organization;
+  the claim is substantive only where the classes are closed under the
+  system's own operations and are reused
 version: 2
 history:
 - version: 2
@@ -62,7 +69,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-296 CLAIM-478 TERM-098 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-2188 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
-# CLAIM-762: Collapsing differences that do not matter into equivalence classes is how those classes come to be reified as new distinctions: where a process identifies its microstates by what they do, the classes it keeps, and not the microstates, become the units of further computation and organization; the claim is substantive only where the classes are closed under the system's own operations and are reused
+# CLAIM-762: Collapsed equivalences become new distinctions
 
 ## The claim
 

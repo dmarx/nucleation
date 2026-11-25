@@ -3,11 +3,13 @@ number: 1137
 status: Proposed
 formerly:
 - CLAIM-tmpm9sp7
-title: For a reference adapting as ż = k(d + n − z), the time to come within δ
-  of a unit step in demand, ln(1/δ)/k, times the stationary variance it takes
-  from white noise of intensity σ², kσ²/2, is σ² ln(1/δ)/2 whatever k is, so a
-  deadline H for the step sets a floor σ² ln(1/δ)/(2H) on the noise the reference
-  passes
+title: 'Adaptation speed times passed noise is constant'
+statement: >-
+  For a reference adapting as ż = k(d + n − z), the time to come within δ of
+  a unit step in demand, ln(1/δ)/k, times the stationary variance it takes
+  from white noise of intensity σ², kσ²/2, is σ² ln(1/δ)/2 whatever k is, so
+  a deadline H for the step sets a floor σ² ln(1/δ)/(2H) on the noise the
+  reference passes
 version: 1
 role: thesis
 warrant: demonstrated
@@ -36,7 +38,7 @@ summary: 'A gap fill: a gap of the manuscript governance-of-possibility, §4 (GB
   the owner''s call.'
 ---
 
-# CLAIM-1137: For a reference adapting as ż = k(d + n − z), the time to come within δ of a unit step in demand, ln(1/δ)/k, times the stationary variance it takes from white noise of intensity σ², kσ²/2, is σ² ln(1/δ)/2 whatever k is, so a deadline H for the step sets a floor σ² ln(1/δ)/(2H) on the noise the reference passes
+# CLAIM-1137: Adaptation speed times passed noise is constant
 
 ## The derivation
 

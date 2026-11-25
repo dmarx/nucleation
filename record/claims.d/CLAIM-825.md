@@ -3,7 +3,13 @@ number: 825
 status: Proposed
 formerly:
 - CLAIM-tmpj0k4q
-title: 'A model has no single practical dimension: the number of parameter directions a data set resolves grows with the data, as a power of the sample size when the Fisher spectrum falls as a power of rank and as its logarithm when it falls exponentially, so zooming out and demanding precision move effective dimension in opposite directions'
+title: 'Effective dimension grows with the data'
+statement: >-
+  A model has no single practical dimension: the number of parameter
+  directions a data set resolves grows with the data, as a power of the
+  sample size when the Fisher spectrum falls as a power of rank and as its
+  logarithm when it falls exponentially, so zooming out and demanding
+  precision move effective dimension in opposite directions
 version: 1
 role: thesis
 warrant: demonstrated
@@ -48,7 +54,7 @@ bears_on:
 <!-- inactive-ok-file: TERM-135 CLAIM-849 — filed with this claim from the same exchange, Proposed -->
 <!-- inactive-ok-file: ARG-147 THEORY-2154 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
-# CLAIM-825: A model has no single practical dimension: the number of parameter directions a data set resolves grows with the data, as a power of the sample size when the Fisher spectrum falls as a power of rank and as its logarithm when it falls exponentially, so zooming out and demanding precision move effective dimension in opposite directions
+# CLAIM-825: Effective dimension grows with the data
 
 ## The claim
 

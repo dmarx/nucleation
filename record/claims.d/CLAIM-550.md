@@ -3,7 +3,16 @@ number: 550
 status: Active
 formerly:
 - CLAIM-tmp8e3ye
-title: 'A perspective''s tolerance of departure from what it maintains can be derived from its activation threshold: if its activation is z = b(c) + α(c)d, rising with discrepancy d (α > 0), and it acts with probability σ(κ(z − θ)), the discrepancy it tolerates while acting with probability at most ε is (θ + κ⁻¹ logit ε − b(c))/α(c); so one fixed threshold gives different tolerances across contexts through baseline and gain, a negative tolerance marks activation driven by something other than the discrepancy, and raising a threshold enlarges tolerance without relieving any demand'
+title: 'Tolerance derives from activation threshold'
+statement: >-
+  A perspective's tolerance of departure from what it maintains can be
+  derived from its activation threshold: if its activation is z = b(c) +
+  α(c)d, rising with discrepancy d (α > 0), and it acts with probability
+  σ(κ(z − θ)), the discrepancy it tolerates while acting with probability at
+  most ε is (θ + κ⁻¹ logit ε − b(c))/α(c); so one fixed threshold gives
+  different tolerances across contexts through baseline and gain, a negative
+  tolerance marks activation driven by something other than the discrepancy,
+  and raising a threshold enlarges tolerance without relieving any demand
 version: 3
 history:
 - version: 2
@@ -66,7 +75,7 @@ summary: >-
   the reader; adopting it is the owner's call.
 ---
 
-# CLAIM-550: A perspective's tolerance of departure from what it maintains can be derived from its activation threshold: if its activation is z = b(c) + α(c)d, rising with discrepancy d (α > 0), and it acts with probability σ(κ(z − θ)), the discrepancy it tolerates while acting with probability at most ε is (θ + κ⁻¹ logit ε − b(c))/α(c); so one fixed threshold gives different tolerances across contexts through baseline and gain, a negative tolerance marks activation driven by something other than the discrepancy, and raising a threshold enlarges tolerance without relieving any demand
+# CLAIM-550: Tolerance derives from activation threshold
 
 ## The claim
 

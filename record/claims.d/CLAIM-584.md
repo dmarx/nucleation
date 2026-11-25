@@ -3,7 +3,10 @@ number: 584
 status: Proposed
 formerly:
 - CLAIM-tmpsmebu
-title: 'Maintaining a specialized capability that is seldom or never exercised for its specialized function is wasteful'
+title: 'Unused specialized capability is wasteful'
+statement: >-
+  Maintaining a specialized capability that is seldom or never exercised for
+  its specialized function is wasteful
 version: 1
 role: disclaimed
 warrant: interpretive
@@ -29,7 +32,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: ARG-053 ARG-042 — Proposed, Rejected or new; A's proposals of 2026-11-04 and the readings they cite, as open -->
 
-# CLAIM-584: Maintaining a specialized capability that is seldom or never exercised for its specialized function is wasteful
+# CLAIM-584: Unused specialized capability is wasteful
 
 ## Not claimed
 

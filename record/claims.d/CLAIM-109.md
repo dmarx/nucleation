@@ -3,7 +3,10 @@ number: 109
 status: Superseded
 formerly:
 - CLAIM-tmpvnofr
-title: 'In translation the pragmatic frame does not merely select a description of meaning but participates in determining which meaning becomes actual'
+title: 'Pragmatic frame helps determine actual meaning'
+statement: >-
+  In translation the pragmatic frame does not merely select a description of
+  meaning but participates in determining which meaning becomes actual
 version: 1
 role: thesis
 warrant: interpretive
@@ -30,7 +33,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-009 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: TERM-016 until 2027-02-10 — Superseded; a premise this entry depends on (`uses`): replaced; this entry is stated in its earlier sense, so ask again whether it holds in the successor's -->
 
-# CLAIM-109: In translation the pragmatic frame does not merely select a description of meaning but participates in determining which meaning becomes actual
+# CLAIM-109: Pragmatic frame helps determine actual meaning
 
 ## The claim
 

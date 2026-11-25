@@ -1,6 +1,13 @@
 ---
 status: Proposed
-title: 'Reproducing an organizational perspective can transmit characteristic limitations on legibility, interpretation, epistemic authority, inquiry and correction without transmitting false propositions, memes can express and help nucleate them in other realizations, and the ignorance can be maintained by endogenous dynamics without a shared intention to suppress knowledge'
+title: 'Perspectives transmit ignorance without falsehood'
+statement: >-
+  Reproducing an organizational perspective can transmit characteristic
+  limitations on legibility, interpretation, epistemic authority, inquiry
+  and correction without transmitting false propositions, memes can express
+  and help nucleate them in other realizations, and the ignorance can be
+  maintained by endogenous dynamics without a shared intention to suppress
+  knowledge
 version: 1
 role: thesis
 warrant: interpretive
@@ -52,7 +59,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-624 CLAIM-657 CLAIM-tmpjitli CLAIM-1140 CLAIM-1155 LIT-tmpw0gbn LIT-tmpw2s70 LIT-tmpzcb50 TERM-tmp9mag8 — Proposed, Deferred or Rejected; entries filed from the exchange 'Memes, Contracts, and Systemic Normativity' and held entries it is read against, cited whatever their standing -->
 
-# CLAIM-tmpjlxfy: Reproducing an organizational perspective can transmit characteristic limitations on legibility, interpretation, epistemic authority, inquiry and correction without transmitting false propositions, memes can express and help nucleate them in other realizations, and the ignorance can be maintained by endogenous dynamics without a shared intention to suppress knowledge
+# CLAIM-tmpjlxfy: Perspectives transmit ignorance without falsehood
 
 ## The claim
 

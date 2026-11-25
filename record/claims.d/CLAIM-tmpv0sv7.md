@@ -1,6 +1,10 @@
 ---
 status: Proposed
-title: Webhosts, various ones, can meet the demands normally met by a publisher, once editorial judgement has gone to editors and journals as feeds over them
+title: 'Webhosts can do the publisher''s job'
+statement: >-
+  Webhosts, various ones, can meet the demands normally met by a publisher,
+  once editorial judgement has gone to editors and journals as feeds over
+  them
 version: 3
 history:
 - version: 2
@@ -48,7 +52,7 @@ works:
 
 <!-- inactive-ok-file: CLAIM-tmpzsuh2 CLAIM-tmpk6vy2 CLAIM-tmpzz0eu — Proposed; the owner's U4, A's development and the assistant's gap fill -->
 
-# CLAIM-tmpv0sv7: Webhosts, various ones, can meet the demands normally met by a publisher, once editorial judgement has gone to editors and journals as feeds over them
+# CLAIM-tmpv0sv7: Webhosts can do the publisher's job
 
 ## The claim
 

@@ -3,7 +3,17 @@ number: 435
 status: Proposed
 formerly:
 - CLAIM-tmp83ge2
-title: 'Veit''s common currency and ALARM''s override are two regimes of one ordering serving as the negotiation''s potential, compensatory and overriding, so their rivalry over what the first felt valence did becomes the question whether the earliest potential orderings are continuous: in motivational trade-off experiments, a continuous indifference curve between a noxious cost and a resource for Veit, a discontinuity at a threshold beyond which no resource buys the cost for ALARM; only a graded override, deciding at every level of its own intensity, lacks a currency altogether'
+title: 'Common currency and override as two regimes'
+statement: >-
+  Veit's common currency and ALARM's override are two regimes of one
+  ordering serving as the negotiation's potential, compensatory and
+  overriding, so their rivalry over what the first felt valence did becomes
+  the question whether the earliest potential orderings are continuous: in
+  motivational trade-off experiments, a continuous indifference curve
+  between a noxious cost and a resource for Veit, a discontinuity at a
+  threshold beyond which no resource buys the cost for ALARM; only a graded
+  override, deciding at every level of its own intensity, lacks a currency
+  altogether
 version: 2
 history:
 - version: 2
@@ -61,7 +71,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-1470 LIT-1472 — Unavailable, unread; cited from their abstracts or as the design, not leaned on as read -->
 <!-- inactive-ok-file: THEORY-090 THEORY-101 CLAIM-440 — Proposed; the accounts whose rivalry this recasts and the claims it rests on, cited as open -->
 
-# CLAIM-435: Veit's common currency and ALARM's override are two regimes of one ordering serving as the negotiation's potential, compensatory and overriding, so their rivalry over what the first felt valence did becomes the question whether the earliest potential orderings are continuous: in motivational trade-off experiments, a continuous indifference curve between a noxious cost and a resource for Veit, a discontinuity at a threshold beyond which no resource buys the cost for ALARM; only a graded override, deciding at every level of its own intensity, lacks a currency altogether
+# CLAIM-435: Common currency and override as two regimes
 
 ## The claim
 

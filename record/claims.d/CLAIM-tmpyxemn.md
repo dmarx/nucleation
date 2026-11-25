@@ -1,6 +1,11 @@
 ---
 status: Proposed
-title: 'In the toy models filed from assistants'' exchanges, the verbal conclusion drawn from a model often reads a parameter as the concept it was introduced to stand for, so checking a model''s numbers is not enough: each parameter''s reading has to be checked before a conclusion is read off it'
+title: 'Check each parameter''s reading in toy models'
+statement: >-
+  In the toy models filed from assistants' exchanges, the verbal conclusion
+  drawn from a model often reads a parameter as the concept it was
+  introduced to stand for, so checking a model's numbers is not enough: each
+  parameter's reading has to be checked before a conclusion is read off it
 version: 1
 role: thesis
 warrant: interpretive
@@ -34,7 +39,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-tmpjg5gx CLAIM-tmp8l5s9 — Proposed; the three instances and the owner's objection that found the third -->
 
-# CLAIM-tmpyxemn: In the toy models filed from assistants' exchanges, the verbal conclusion drawn from a model often reads a parameter as the concept it was introduced to stand for, so checking a model's numbers is not enough: each parameter's reading has to be checked before a conclusion is read off it
+# CLAIM-tmpyxemn: Check each parameter's reading in toy models
 
 ## The instances
 

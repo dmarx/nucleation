@@ -3,7 +3,14 @@ number: 816
 status: Proposed
 formerly:
 - CLAIM-tmpdwm3z
-title: "Hyperbolic entailment embeddings encode depth by radius, and dimension narrows that range twice: Gaussian-like representations projected into the ball inherit a narrow norm range, and matching hyperbolic volume to a tree's growth gives a per-level radial gap that shrinks as 1/(D − 1), so depth has to be calibrated when entailment geometries are compared across widths"
+title: 'Hyperbolic depth must be calibrated across widths'
+statement: >-
+  Hyperbolic entailment embeddings encode depth by radius, and dimension
+  narrows that range twice: Gaussian-like representations projected into the
+  ball inherit a narrow norm range, and matching hyperbolic volume to a
+  tree's growth gives a per-level radial gap that shrinks as 1/(D − 1), so
+  depth has to be calibrated when entailment geometries are compared across
+  widths
 version: 1
 role: thesis
 warrant: interpretive
@@ -42,7 +49,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-2192 THEORY-2190 CLAIM-860 — Proposed; the readings of Ghadimi Atigh et al. and Bui et al. filed 2026-11-22, and the assistant's norm-growth claim -->
 <!-- inactive-ok-file: CLAIM-797 CLAIM-847 THEORY-196 THEORY-188 THEORY-618 — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21; Proposed entries the record already held, cited for context -->
 
-# CLAIM-816: Hyperbolic entailment embeddings encode depth by radius, and dimension narrows that range twice: Gaussian-like representations projected into the ball inherit a narrow norm range, and matching hyperbolic volume to a tree's growth gives a per-level radial gap that shrinks as 1/(D − 1), so depth has to be calibrated when entailment geometries are compared across widths
+# CLAIM-816: Hyperbolic depth must be calibrated across widths
 
 ## The claim
 

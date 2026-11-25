@@ -3,14 +3,16 @@ number: 1061
 status: Proposed
 formerly:
 - CLAIM-tmpaj28t
-title: 'The tension between identity stabilization and adaptability has the
-  shape of the paradox of wu-wei, that one cannot try to be effortless, and
-  the two classical routes to wu-wei correspond to its two halves: cultivation,
+title: 'Stability vs adaptability is the wu-wei paradox'
+statement: >-
+  The tension between identity stabilization and adaptability has the shape
+  of the paradox of wu-wei, that one cannot try to be effortless, and the
+  two classical routes to wu-wei correspond to its two halves: cultivation,
   which stabilizes slow structure until fast right response costs nothing,
   and unlearning, which sheds consolidated structure to keep response open;
-  each route''s characteristic failure is the risk the other names, rigid
-  ritual for the first and the loss of the structure that made response cheap
-  for the second'
+  each route's characteristic failure is the risk the other names, rigid
+  ritual for the first and the loss of the structure that made response
+  cheap for the second
 version: 2
 history:
 - version: 2
@@ -60,7 +62,7 @@ works:
 
 <!-- inactive-ok-file: CLAIM-711 CLAIM-758 CLAIM-1070 CLAIM-1135 CLAIM-1144 LIT-1994 — Proposed or Unavailable; cited in the assistant's answer of 2026-11-23 on wu-wei -->
 
-# CLAIM-1061: The tension between identity stabilization and adaptability has the shape of the paradox of wu-wei, that one cannot try to be effortless, and the two classical routes to wu-wei correspond to its two halves: cultivation, which stabilizes slow structure until fast right response costs nothing, and unlearning, which sheds consolidated structure to keep response open; each route's characteristic failure is the risk the other names, rigid ritual for the first and the loss of the structure that made response cheap for the second
+# CLAIM-1061: Stability vs adaptability is the wu-wei paradox
 
 ## The supposition
 

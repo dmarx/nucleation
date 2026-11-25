@@ -3,7 +3,14 @@ number: 56
 status: Active
 formerly:
 - CLAIM-tmpghha4
-title: 'Local transport errors in a reconstruction chain are bounded by the per-step discrepancies weighted by the sensitivity of the later reconstructions, so the same local error can be damped, accumulated or amplified, and local similarity can coexist with large global drift; the bound measures departure from a reference transport, not whether the act survives'
+title: 'Sensitivity-weighted bound on chain drift'
+statement: >-
+  Local transport errors in a reconstruction chain are bounded by the
+  per-step discrepancies weighted by the sensitivity of the later
+  reconstructions, so the same local error can be damped, accumulated or
+  amplified, and local similarity can coexist with large global drift; the
+  bound measures departure from a reference transport, not whether the act
+  survives
 version: 5
 history:
 - version: 2
@@ -77,7 +84,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-773 CLAIM-191 — Proposed; filed in, or cited by, the contribution of 2026-11-20 on a formal account of drift -->
 <!-- inactive-ok-file: CLAIM-068 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
-# CLAIM-056: Local transport errors in a reconstruction chain are bounded by the per-step discrepancies weighted by the sensitivity of the later reconstructions, so the same local error can be damped, accumulated or amplified, and local similarity can coexist with large global drift; the bound measures departure from a reference transport, not whether the act survives
+# CLAIM-056: Sensitivity-weighted bound on chain drift
 
 ## The claim
 

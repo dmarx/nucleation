@@ -3,7 +3,12 @@ number: 683
 status: Proposed
 formerly:
 - CLAIM-tmpplibk
-title: 'When an institution makes measured meaningfulness a target that shapes participants'' incentives or self-understanding, it can induce proxy optimization or self-conscious meaning-seeking that displaces engagement with worthwhile activities'
+title: 'Targeting measured meaning displaces it'
+statement: >-
+  When an institution makes measured meaningfulness a target that shapes
+  participants' incentives or self-understanding, it can induce proxy
+  optimization or self-conscious meaning-seeking that displaces engagement
+  with worthwhile activities
 version: 2
 history:
 - version: 2
@@ -72,7 +77,7 @@ summary: >-
 <!-- inactive-ok-file: TERM-108 — Proposed; the proxy objective, used with its standing -->
 <!-- inactive-ok-file: NOTE-1921 — Skimmed; the excerpt of Tools for Conviviality -->
 
-# CLAIM-683: When an institution makes measured meaningfulness a target that shapes participants' incentives or self-understanding, it can induce proxy optimization or self-conscious meaning-seeking that displaces engagement with worthwhile activities
+# CLAIM-683: Targeting measured meaning displaces it
 
 ## The claim
 

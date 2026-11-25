@@ -3,7 +3,13 @@ number: 967
 status: Proposed
 formerly:
 - CLAIM-tmpqvkag
-title: 'A test of whether a forgotten association survives that counts it retained when any of several readers (other cues, runner-up answers, probes at several layers, partial reversion of the update) recovers it overstates retention badly unless each reader is scored against a matched world in which the association never held, because the readers'' chance hits add up'
+title: 'Multi-reader retention tests need matched nulls'
+statement: >-
+  A test of whether a forgotten association survives that counts it retained
+  when any of several readers (other cues, runner-up answers, probes at
+  several layers, partial reversion of the update) recovers it overstates
+  retention badly unless each reader is scored against a matched world in
+  which the association never held, because the readers' chance hits add up
 version: 1
 history:
 - version: 1
@@ -50,7 +56,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-371 CASE-274 — new or Proposed; the run this rests on and the design it reduces -->
 
-# CLAIM-967: A test of whether a forgotten association survives that counts it retained when any of several readers (other cues, runner-up answers, probes at several layers, partial reversion of the update) recovers it overstates retention badly unless each reader is scored against a matched world in which the association never held, because the readers' chance hits add up
+# CLAIM-967: Multi-reader retention tests need matched nulls
 
 ## The claim
 

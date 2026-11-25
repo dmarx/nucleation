@@ -3,7 +3,12 @@ number: 214
 status: Active
 formerly:
 - CLAIM-tmp9negs
-title: 'The distribution-over-situations criterion compares each language''s own listener posterior, so it needs no correspondence of alternative sets; that a literal rendering can fail it is the criterion detecting a lost implicature, and a target language may admit no rendering that passes'
+title: 'Posterior criterion needs no alternative sets'
+statement: >-
+  The distribution-over-situations criterion compares each language's own
+  listener posterior, so it needs no correspondence of alternative sets;
+  that a literal rendering can fail it is the criterion detecting a lost
+  implicature, and a target language may admit no rendering that passes
 version: 3
 history:
 - version: 2
@@ -59,7 +64,7 @@ bears_on:
 <!-- inactive-ok-file: CLAIM-111 CLAIM-033 — Proposed; the criterion this claim reads and Jakobson's point it extends, cited as open, not settled -->
 <!-- inactive-ok-file: CLAIM-115 CLAIM-139 — Superseded, by CLAIM-220 and CLAIM-204 respectively; cited as they stood, not as what the record now holds -->
 
-# CLAIM-214: The distribution-over-situations criterion compares each language's own listener posterior, so it needs no correspondence of alternative sets; that a literal rendering can fail it is the criterion detecting a lost implicature, and a target language may admit no rendering that passes
+# CLAIM-214: Posterior criterion needs no alternative sets
 
 ## The claim
 

@@ -3,7 +3,17 @@ number: 865
 status: Proposed
 formerly:
 - CLAIM-tmp5hyz1
-title: 'Where a support acts on an assembly only by changing its transition rates and is withdrawn for good, the drop in the chance of completing when it is withdrawn at a state equals the expected total, along the course the supported assembly would take from that state, of how much the support changes each rate times how much the unsupported chance of completing turns on that step; for a support that holds a nucleus this is the nucleus''s fragility times its worth, so the assembly becomes independent of the support before it is complete only where what it has built holds the nucleus or no longer needs it'
+title: 'Withdrawal cost is fragility times worth'
+statement: >-
+  Where a support acts on an assembly only by changing its transition rates
+  and is withdrawn for good, the drop in the chance of completing when it is
+  withdrawn at a state equals the expected total, along the course the
+  supported assembly would take from that state, of how much the support
+  changes each rate times how much the unsupported chance of completing
+  turns on that step; for a support that holds a nucleus this is the
+  nucleus's fragility times its worth, so the assembly becomes independent
+  of the support before it is complete only where what it has built holds
+  the nucleus or no longer needs it
 version: 1
 history:
 - version: 1
@@ -63,7 +73,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-308 — new; the executed study this claim is grounded in, filed with it -->
 
-# CLAIM-865: Where a support acts on an assembly only by changing its transition rates and is withdrawn for good, the drop in the chance of completing when it is withdrawn at a state equals the expected total, along the course the supported assembly would take from that state, of how much the support changes each rate times how much the unsupported chance of completing turns on that step; for a support that holds a nucleus this is the nucleus's fragility times its worth, so the assembly becomes independent of the support before it is complete only where what it has built holds the nucleus or no longer needs it
+# CLAIM-865: Withdrawal cost is fragility times worth
 
 ## The identity
 

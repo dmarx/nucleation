@@ -3,7 +3,13 @@ number: 259
 status: Active
 formerly:
 - CLAIM-tmpz239h
-title: 'For report fidelity, the decision term should be the positive part of the risk increase on the same decision problem, with losses in [0, 1] and a stated prior; so restated it is directed, counts no improvement as loss, and vanishes for every problem and prior exactly when the rendering is at least as informative as the source in Blackwell''s order'
+title: 'Decision term as positive risk increase'
+statement: >-
+  For report fidelity, the decision term should be the positive part of the
+  risk increase on the same decision problem, with losses in [0, 1] and a
+  stated prior; so restated it is directed, counts no improvement as loss,
+  and vanishes for every problem and prior exactly when the rendering is at
+  least as informative as the source in Blackwell's order
 version: 2
 history:
 - version: 2
@@ -67,7 +73,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-258 — Proposed; open, cited for its worked case -->
 <!-- inactive-ok-file: LIT-778 — Unavailable; Torgersen, unread here, named for the constants and not leaned on -->
 
-# CLAIM-259: For report fidelity, the decision term should be the positive part of the risk increase on the same decision problem, with losses in [0, 1] and a stated prior; so restated it is directed, counts no improvement as loss, and vanishes for every problem and prior exactly when the rendering is at least as informative as the source in Blackwell's order
+# CLAIM-259: Decision term as positive risk increase
 
 ## What it answers
 

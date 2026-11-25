@@ -3,7 +3,15 @@ number: 581
 status: Active
 formerly:
 - CLAIM-tmpq06t8
-title: 'Under peak-capacity costs on reversible moves, the transition threshold between configurations is an extended pseudo-ultrametric, so identifying configurations reachable within a budget is an equivalence relation at every budget and the identifications nest into one tree as the budget grows; under additive costs the threshold is only an extended pseudometric, budgeted identification need not be transitive, and no such tree exists'
+title: 'Transition threshold is a pseudo-ultrametric'
+statement: >-
+  Under peak-capacity costs on reversible moves, the transition threshold
+  between configurations is an extended pseudo-ultrametric, so identifying
+  configurations reachable within a budget is an equivalence relation at
+  every budget and the identifications nest into one tree as the budget
+  grows; under additive costs the threshold is only an extended
+  pseudometric, budgeted identification need not be transitive, and no such
+  tree exists
 version: 4
 history:
 - version: 2
@@ -80,7 +88,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-780 CLAIM-770 — Proposed; filed in the contribution of 2026-11-20 on hierarchy and hyperbolicity -->
 <!-- inactive-ok-file: CASE-236 CLAIM-646 — Proposed; filed on 2026-11-12 from "Identify Synthesis Opportunities", cited in its note -->
 
-# CLAIM-581: Under peak-capacity costs on reversible moves, the transition threshold between configurations is an extended pseudo-ultrametric, so identifying configurations reachable within a budget is an equivalence relation at every budget and the identifications nest into one tree as the budget grows; under additive costs the threshold is only an extended pseudometric, budgeted identification need not be transitive, and no such tree exists
+# CLAIM-581: Transition threshold is a pseudo-ultrametric
 
 ## The claim
 

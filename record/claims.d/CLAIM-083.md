@@ -3,7 +3,12 @@ number: 83
 status: Superseded
 formerly:
 - CLAIM-tmpnvxfj
-title: 'Pragmatic translation fidelity is the preservation, under corresponding communicative conditions, of the ways an utterance transforms interpretation, interpersonal alignment and the possibilities for subsequent interaction'
+title: 'Fidelity preserves interaction possibilities'
+statement: >-
+  Pragmatic translation fidelity is the preservation, under corresponding
+  communicative conditions, of the ways an utterance transforms
+  interpretation, interpersonal alignment and the possibilities for
+  subsequent interaction
 version: 1
 role: thesis
 warrant: interpretive
@@ -33,7 +38,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-065 CLAIM-101 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 <!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; cited as it stood, not as what the record now holds -->
 
-# CLAIM-083: Pragmatic translation fidelity is the preservation, under corresponding communicative conditions, of the ways an utterance transforms interpretation, interpersonal alignment and the possibilities for subsequent interaction
+# CLAIM-083: Fidelity preserves interaction possibilities
 
 ## The claim
 

@@ -1,6 +1,14 @@
 ---
 status: Proposed
-title: 'Originalism as its defenders state it does not assume specification exhaustiveness: it separates meaning from construction, grounds the original meaning''s authority in arguments of its own, and makes a claim about who may change the constitution and by what route; what survives of the critique is a design question, whether formal amendment is too costly for the timescales of the inadequacies an organization meets, which the exchange states but does not argue'
+title: 'Originalism does not assume exhaustiveness'
+statement: >-
+  Originalism as its defenders state it does not assume specification
+  exhaustiveness: it separates meaning from construction, grounds the
+  original meaning's authority in arguments of its own, and makes a claim
+  about who may change the constitution and by what route; what survives of
+  the critique is a design question, whether formal amendment is too costly
+  for the timescales of the inadequacies an organization meets, which the
+  exchange states but does not argue
 version: 1
 role: counter
 warrant: interpretive
@@ -35,7 +43,7 @@ summary: >-
 
 <!-- inactive-ok-file: ARG-tmptjsx2 CLAIM-tmpazcha CLAIM-tmpr2qzg LIT-tmp3huft LIT-tmps708j — Proposed, Deferred or Rejected; filed or cited in the filing of the exchange 'Memes, Contracts, and Systemic Normativity', whatever their standing -->
 
-# CLAIM-tmpmp2wh: Originalism as its defenders state it does not assume specification exhaustiveness: it separates meaning from construction, grounds the original meaning's authority in arguments of its own, and makes a claim about who may change the constitution and by what route; what survives of the critique is a design question, whether formal amendment is too costly for the timescales of the inadequacies an organization meets, which the exchange states but does not argue
+# CLAIM-tmpmp2wh: Originalism does not assume exhaustiveness
 
 ## The gap
 

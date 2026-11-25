@@ -3,7 +3,13 @@ number: 805
 status: Proposed
 formerly:
 - CLAIM-tmp99m8g
-title: 'Entropy, correlation and scaling are distinct properties of a system, and a critical point is not the maximum of complexity: what is special there is the absence of a finite correlation scale, while entropy density, predictive information, the number of relevant directions and the cost of simulation need not peak there'
+title: 'Criticality is not maximal complexity'
+statement: >-
+  Entropy, correlation and scaling are distinct properties of a system, and
+  a critical point is not the maximum of complexity: what is special there
+  is the absence of a finite correlation scale, while entropy density,
+  predictive information, the number of relevant directions and the cost of
+  simulation need not peak there
 version: 1
 role: thesis
 warrant: interpretive
@@ -45,7 +51,7 @@ summary: >-
 <!-- inactive-ok-file: ARG-152 THEORY-2151 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 <!-- inactive-ok-file: THEORY-2200 — Proposed; the reading of Crutchfield and Feldman, 2026-11-22 -->
 
-# CLAIM-805: Entropy, correlation and scaling are distinct properties of a system, and a critical point is not the maximum of complexity: what is special there is the absence of a finite correlation scale, while entropy density, predictive information, the number of relevant directions and the cost of simulation need not peak there
+# CLAIM-805: Criticality is not maximal complexity
 
 ## The claim
 

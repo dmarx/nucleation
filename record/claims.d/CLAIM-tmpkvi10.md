@@ -1,6 +1,11 @@
 ---
 status: Proposed
-title: 'A record that holds one tangle of interrelated ideas removes the reason to publish it as a flood of interrelated papers: the whole tangle can be offered for evaluation, and each party with its own interests given a view over it'
+title: 'One tangle need not be a flood of papers'
+statement: >-
+  A record that holds one tangle of interrelated ideas removes the reason to
+  publish it as a flood of interrelated papers: the whole tangle can be
+  offered for evaluation, and each party with its own interests given a view
+  over it
 version: 3
 history:
 - version: 2
@@ -54,7 +59,7 @@ works:
 ---
 <!-- inactive-ok-file: CLAIM-178 CLAIM-tmpu6e4u CLAIM-tmpjf44i CLAIM-tmpotj4b ADR-143 — Proposed; the premise that a manuscript is a view, the assistant's reading of why audiences need different views, the owner's publishing thesis, and A's rule for when views are separate contributions -->
 
-# CLAIM-tmpkvi10: A record that holds one tangle of interrelated ideas removes the reason to publish it as a flood of interrelated papers: the whole tangle can be offered for evaluation, and each party with its own interests given a view over it
+# CLAIM-tmpkvi10: One tangle need not be a flood of papers
 
 ## The claim
 

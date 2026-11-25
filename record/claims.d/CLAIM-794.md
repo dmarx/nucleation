@@ -3,7 +3,13 @@ number: 794
 status: Proposed
 formerly:
 - CLAIM-tmpzrl0a
-title: 'In a record of inquiry that amends its grammar when a move fits nothing, refining a category makes misfits in the refined region more noticeable rather than fewer: a move the coarse category would have absorbed without residue now visibly fits none of the finer ones, so a refinement exposes misfits as well as absorbing them'
+title: 'Refining a category exposes misfits'
+statement: >-
+  In a record of inquiry that amends its grammar when a move fits nothing,
+  refining a category makes misfits in the refined region more noticeable
+  rather than fewer: a move the coarse category would have absorbed without
+  residue now visibly fits none of the finer ones, so a refinement exposes
+  misfits as well as absorbing them
 version: 1
 role: thesis
 warrant: empirical
@@ -44,7 +50,7 @@ summary: >-
 
 <!-- inactive-ok-file: THEORY-2096 CLAIM-181 — Proposed; the reading this claim generalizes from, and the counter whose sequence it extends -->
 
-# CLAIM-794: In a record of inquiry that amends its grammar when a move fits nothing, refining a category makes misfits in the refined region more noticeable rather than fewer: a move the coarse category would have absorbed without residue now visibly fits none of the finer ones, so a refinement exposes misfits as well as absorbing them
+# CLAIM-794: Refining a category exposes misfits
 
 ## The claim
 

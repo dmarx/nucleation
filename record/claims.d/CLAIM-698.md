@@ -3,7 +3,16 @@ number: 698
 status: Proposed
 formerly:
 - CLAIM-tmpumro8
-title: 'The mathematics of waves and distributed modes, which covers harmonic and spectral decomposition, multiscale analysis, scattering and response operators, interference, mode coupling, localization and reconstruction, applies to how learning systems acquire, execute and compose computations, and earns its place where a description in independently justified modes and their couplings predicts a learned network''s responses to unseen queries, interventions, training and merging better than feature-, circuit- or parameter-level accounts fitted with the same information'
+title: 'Wave mathematics applies to learning systems'
+statement: >-
+  The mathematics of waves and distributed modes, which covers harmonic and
+  spectral decomposition, multiscale analysis, scattering and response
+  operators, interference, mode coupling, localization and reconstruction,
+  applies to how learning systems acquire, execute and compose computations,
+  and earns its place where a description in independently justified modes
+  and their couplings predicts a learned network's responses to unseen
+  queries, interventions, training and merging better than feature-,
+  circuit- or parameter-level accounts fitted with the same information
 version: 2
 history:
 - version: 2
@@ -58,7 +67,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-2021 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-022 THEORY-1872 THEORY-1895 CLAIM-696 CASE-272 CASE-274 — Proposed or new; the held case and the entries filed with this one -->
 
-# CLAIM-698: The mathematics of waves and distributed modes, which covers harmonic and spectral decomposition, multiscale analysis, scattering and response operators, interference, mode coupling, localization and reconstruction, applies to how learning systems acquire, execute and compose computations, and earns its place where a description in independently justified modes and their couplings predicts a learned network's responses to unseen queries, interventions, training and merging better than feature-, circuit- or parameter-level accounts fitted with the same information
+# CLAIM-698: Wave mathematics applies to learning systems
 
 ## The claim
 

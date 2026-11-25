@@ -3,7 +3,13 @@ number: 721
 formerly:
 - CLAIM-tmp8wki5
 status: Proposed
-title: 'Where competence is kept by use and lost with disuse, and a restriction is to be lifted when competence is shown, a restriction justified by a lack of competence lowers the competence it waits for, so that unless the restricting party supplies a route to practice or training, the restriction produces the evidence for its own continuation'
+title: 'Competence restrictions confirm themselves'
+statement: >-
+  Where competence is kept by use and lost with disuse, and a restriction is
+  to be lifted when competence is shown, a restriction justified by a lack
+  of competence lowers the competence it waits for, so that unless the
+  restricting party supplies a route to practice or training, the
+  restriction produces the evidence for its own continuation
 version: 3
 history:
 - version: 2
@@ -63,7 +69,7 @@ summary: >-
 <!-- inactive-ok-file: TERM-129 CLAIM-714 — filed from the same exchange, Proposed or new -->
 <!-- inactive-ok-file: CASE-364 CLAIM-950 — new; the model and finding of LEAD-104, note of 2026-11-22 -->
 
-# CLAIM-721: Where competence is kept by use and lost with disuse, and a restriction is to be lifted when competence is shown, a restriction justified by a lack of competence lowers the competence it waits for, so that unless the restricting party supplies a route to practice or training, the restriction produces the evidence for its own continuation
+# CLAIM-721: Competence restrictions confirm themselves
 
 ## The claim
 

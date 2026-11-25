@@ -3,7 +3,13 @@ number: 884
 status: Proposed
 formerly:
 - CLAIM-tmptbxbq
-title: 'On a minimal ecological-scaffolding model, Bourrat''s interventional variance criterion tracks the endogenisation of the scaffold and his environment-conditioned coarse-graining criterion does not, and neither, as defined, separates a transition from a collective that absorbs its external scaffold or from one its environment reconstructs'
+title: 'Interventional variance tracks endogenisation'
+statement: >-
+  On a minimal ecological-scaffolding model, Bourrat's interventional
+  variance criterion tracks the endogenisation of the scaffold and his
+  environment-conditioned coarse-graining criterion does not, and neither,
+  as defined, separates a transition from a collective that absorbs its
+  external scaffold or from one its environment reconstructs
 version: 1
 role: thesis
 warrant: demonstrated
@@ -34,7 +40,7 @@ grounds:
 <!-- inactive-ok-file: LIT-005 LIT-049 THEORY-607 — Proposed; the papers whose measures are computed, and the reading whose promote_when this bears on -->
 <!-- inactive-ok-file: CASE-320 — new, filed with this claim -->
 
-# CLAIM-884: On a minimal ecological-scaffolding model, Bourrat's interventional variance criterion tracks the endogenisation of the scaffold and his environment-conditioned coarse-graining criterion does not, and neither, as defined, separates a transition from a collective that absorbs its external scaffold or from one its environment reconstructs
+# CLAIM-884: Interventional variance tracks endogenisation
 
 ## The claim
 

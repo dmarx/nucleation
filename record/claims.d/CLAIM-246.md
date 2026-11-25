@@ -3,7 +3,11 @@ number: 246
 status: Rejected
 formerly:
 - CLAIM-tmps7va1
-title: 'Sharing a kind is symmetric and blind to which work is the source, so the October thesis cannot say a translation is of its original, against the line''s own directed, graded fidelity and identity through descent'
+title: 'Kind-sharing is blind to which is the source'
+statement: >-
+  Sharing a kind is symmetric and blind to which work is the source, so the
+  October thesis cannot say a translation is of its original, against the
+  line's own directed, graded fidelity and identity through descent
 version: 2
 history:
 - version: 2
@@ -49,7 +53,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-139 — Superseded by CLAIM-204; the thesis this objection is to, as worded; the objection stays pointed at it -->
 <!-- ref::uses-file: TERM-084 — the "identity through descent" of the title, the one thing that separates T from I being that "T was made from S", is TERM-084's provenance sense -->
 
-# CLAIM-246: Sharing a kind is symmetric and blind to which work is the source, so the October thesis cannot say a translation is of its original, against the line's own directed, graded fidelity and identity through descent
+# CLAIM-246: Kind-sharing is blind to which is the source
 
 ## The objection
 

@@ -3,7 +3,13 @@ number: 662
 status: Active
 formerly:
 - CLAIM-tmpvceet
-title: 'For a fixed arrangement, expanding the recognized demand set cannot improve conjunctive compliance and cannot decrease the count of recognized violations; where governance penalizes newly recognized violations without rewarding their discovery, an organization may acquire an incentive not to improve its identification of its obligations'
+title: 'Recognizing more demands can only add violations'
+statement: >-
+  For a fixed arrangement, expanding the recognized demand set cannot
+  improve conjunctive compliance and cannot decrease the count of recognized
+  violations; where governance penalizes newly recognized violations without
+  rewarding their discovery, an organization may acquire an incentive not to
+  improve its identification of its obligations
 version: 4
 history:
 - version: 2
@@ -89,7 +95,7 @@ works:
 <!-- inactive-ok-file: CASE-249 — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-619 — Proposed; the counter-corrective disposition this complements -->
 
-# CLAIM-662: For a fixed arrangement, expanding the recognized demand set cannot improve conjunctive compliance and cannot decrease the count of recognized violations; where governance penalizes newly recognized violations without rewarding their discovery, an organization may acquire an incentive not to improve its identification of its obligations
+# CLAIM-662: Recognizing more demands can only add violations
 
 ## The claim
 

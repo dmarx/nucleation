@@ -1,6 +1,12 @@
 ---
 status: Proposed
-title: 'Most of the research the article series governance-of-becoming proposed has already been done on the record: the role its proposed experiments play in the account is largely filled by studies, constructions and derivations the record already holds, so the series is a program of consolidating and publishing results more than one of new research'
+title: 'The record holds most of the series'' research'
+statement: >-
+  Most of the research the article series governance-of-becoming proposed
+  has already been done on the record: the role its proposed experiments
+  play in the account is largely filled by studies, constructions and
+  derivations the record already holds, so the series is a program of
+  consolidating and publishing results more than one of new research
 version: 1
 role: thesis
 warrant: interpretive
@@ -37,7 +43,7 @@ summary: >-
 
 <!-- inactive-ok-file: CASE-163 — Proposed or Open; the executed studies and leads the thesis is checked against, cited whatever their standing -->
 
-# CLAIM-tmpyp0ju: Most of the research the article series governance-of-becoming proposed has already been done on the record: the role its proposed experiments play in the account is largely filled by studies, constructions and derivations the record already holds, so the series is a program of consolidating and publishing results more than one of new research
+# CLAIM-tmpyp0ju: The record holds most of the series' research
 
 ## The claim
 

@@ -3,7 +3,13 @@ number: 770
 status: Proposed
 formerly:
 - CLAIM-tmp9lm3d
-title: 'The tree of classes reachable within a budget, the limit of a chain''s time geometry as time scales separate, keeps its shape while barriers move and changes only where two barriers cross: a distinction between levels comes into being or passes away at such a crossing, and near it the two levels cannot be told apart in the time geometry'
+title: 'Budget tree changes only at barrier crossings'
+statement: >-
+  The tree of classes reachable within a budget, the limit of a chain's time
+  geometry as time scales separate, keeps its shape while barriers move and
+  changes only where two barriers cross: a distinction between levels comes
+  into being or passes away at such a crossing, and near it the two levels
+  cannot be told apart in the time geometry
 version: 2
 history:
 - version: 2
@@ -46,7 +52,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-780 — Proposed; filed in this contribution of 2026-11-20 -->
 <!-- inactive-ok-file: THEORY-1558 — Proposed; the levels lost when rates converge -->
 
-# CLAIM-770: The tree of classes reachable within a budget, the limit of a chain's time geometry as time scales separate, keeps its shape while barriers move and changes only where two barriers cross: a distinction between levels comes into being or passes away at such a crossing, and near it the two levels cannot be told apart in the time geometry
+# CLAIM-770: Budget tree changes only at barrier crossings
 
 ## The claim
 

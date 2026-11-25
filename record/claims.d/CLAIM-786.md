@@ -3,7 +3,13 @@ number: 786
 status: Proposed
 formerly:
 - CLAIM-tmpm9ep1
-title: 'Building something is a method of inquiring into it: an artifact made to a specification drawn from a theory tests that theory, and its failures to behave as specified are findings about the theory, not only about the artifact; the record itself, built to study how an argument develops, is inquiry by this method'
+title: 'Building is a method of inquiry'
+statement: >-
+  Building something is a method of inquiring into it: an artifact made to a
+  specification drawn from a theory tests that theory, and its failures to
+  behave as specified are findings about the theory, not only about the
+  artifact; the record itself, built to study how an argument develops, is
+  inquiry by this method
 version: 1
 role: thesis
 warrant: interpretive
@@ -41,7 +47,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1797 CLAIM-784 — Proposed; the reading and the entries filed with this on 2026-11-21 -->
 
-# CLAIM-786: Building something is a method of inquiring into it: an artifact made to a specification drawn from a theory tests that theory, and its failures to behave as specified are findings about the theory, not only about the artifact; the record itself, built to study how an argument develops, is inquiry by this method
+# CLAIM-786: Building is a method of inquiry
 
 ## The claim
 

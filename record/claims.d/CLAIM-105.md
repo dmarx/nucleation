@@ -3,7 +3,11 @@ number: 105
 status: Proposed
 formerly:
 - CLAIM-tmpukbg3
-title: 'In documented reconstruction chains, steps that keep most local judgements commonly change their global compatibility: translation preserves local meanings while changing the global structure of meaning'
+title: 'Local meanings kept, global structure changed'
+statement: >-
+  In documented reconstruction chains, steps that keep most local judgements
+  commonly change their global compatibility: translation preserves local
+  meanings while changing the global structure of meaning
 version: 6
 history:
 - version: 2
@@ -97,7 +101,7 @@ bears_on:
 <!-- inactive-ok-file: CLAIM-201 — Proposed; the narrowing of the headline after the audit, cited in the history -->
 <!-- inactive-ok-file: CLAIM-005 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
-# CLAIM-105: In documented reconstruction chains, steps that keep most local judgements commonly change their global compatibility: translation preserves local meanings while changing the global structure of meaning
+# CLAIM-105: Local meanings kept, global structure changed
 
 ## The claim
 

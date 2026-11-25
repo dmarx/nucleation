@@ -3,7 +3,13 @@ number: 571
 status: Active
 formerly:
 - CLAIM-tmpbi4ca
-title: 'For a fixed architecture and one resource that must be held at each moment, the resource threshold for reaching a target configuration need not equal the resource requirement of the target: it is the least, over admissible transition paths, of the peak requirement along the path, and it is infinite when no admissible path joins the two'
+title: 'Reaching a target can cost more than holding it'
+statement: >-
+  For a fixed architecture and one resource that must be held at each
+  moment, the resource threshold for reaching a target configuration need
+  not equal the resource requirement of the target: it is the least, over
+  admissible transition paths, of the peak requirement along the path, and
+  it is infinite when no admissible path joins the two
 version: 9
 history:
 - version: 2
@@ -123,7 +129,7 @@ works:
 <!-- inactive-ok-file: THEORY-1420 CASE-198 CASE-200 — Proposed; the readings' accounts and A's proposals of 2026-11-04, cited as filed, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CASE-204 CASE-207 CASE-208 CASE-211 — Proposed or new; entries of 2026-11-05 from the pasted synthesis on constraint architectures, cited as open -->
 
-# CLAIM-571: For a fixed architecture and one resource that must be held at each moment, the resource threshold for reaching a target configuration need not equal the resource requirement of the target: it is the least, over admissible transition paths, of the peak requirement along the path, and it is infinite when no admissible path joins the two
+# CLAIM-571: Reaching a target can cost more than holding it
 
 ## The claim
 

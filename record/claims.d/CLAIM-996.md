@@ -3,7 +3,13 @@ number: 996
 status: Proposed
 formerly:
 - CLAIM-tmp04pr7
-title: "Permission to pursue an inquiry is a second-order query, formulated by the proponent and evaluated by the authority within their own budgets, so the questions an organization authorizes are a subset of those its members can ask, and an authorization can take so long that the opportunity it authorizes has closed, whatever the verdict"
+title: 'Permission to inquire is a second-order query'
+statement: >-
+  Permission to pursue an inquiry is a second-order query, formulated by the
+  proponent and evaluated by the authority within their own budgets, so the
+  questions an organization authorizes are a subset of those its members can
+  ask, and an authorization can take so long that the opportunity it
+  authorizes has closed, whatever the verdict
 version: 1
 role: thesis
 warrant: interpretive
@@ -43,7 +49,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-1065 CLAIM-732 CLAIM-1016 CASE-386 — Proposed; the owner's thesis this develops, the antecedent, the gap fill and A58's joint relation -->
 
-# CLAIM-996: Permission to pursue an inquiry is a second-order query, formulated by the proponent and evaluated by the authority within their own budgets, so the questions an organization authorizes are a subset of those its members can ask, and an authorization can take so long that the opportunity it authorizes has closed, whatever the verdict
+# CLAIM-996: Permission to inquire is a second-order query
 
 ## The claim
 

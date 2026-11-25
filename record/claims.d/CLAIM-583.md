@@ -3,7 +3,12 @@ number: 583
 status: Active
 formerly:
 - CLAIM-tmpsbz28
-title: 'Two constraint systems can have the same compatibility complex, the same move rule and the same costs and differ in whether a configuration meeting one demand reaches one meeting another, so compatibility equivalence does not imply equivalence of reachability'
+title: 'Compatibility equivalence isn''t reach equivalence'
+statement: >-
+  Two constraint systems can have the same compatibility complex, the same
+  move rule and the same costs and differ in whether a configuration meeting
+  one demand reaches one meeting another, so compatibility equivalence does
+  not imply equivalence of reachability
 version: 4
 history:
 - version: 2
@@ -81,7 +86,7 @@ works:
 - governance-of-possibility
 ---
 
-# CLAIM-583: Two constraint systems can have the same compatibility complex, the same move rule and the same costs and differ in whether a configuration meeting one demand reaches one meeting another, so compatibility equivalence does not imply equivalence of reachability
+# CLAIM-583: Compatibility equivalence isn't reach equivalence
 
 ## The claim
 

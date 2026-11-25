@@ -3,7 +3,10 @@ number: 104
 status: Deferred
 formerly:
 - CLAIM-tmpuaqoi
-title: 'Authenticity grounds normativity downward, from an encompassing agent to its constituents, but not across agents at one level'
+title: 'Authenticity grounds normativity downward only'
+statement: >-
+  Authenticity grounds normativity downward, from an encompassing agent to
+  its constituents, but not across agents at one level
 version: 2
 history:
 - version: 2
@@ -40,7 +43,7 @@ bears_on:
 <!-- inactive-ok-file: SYNTHESIS-023 — Proposed; cited in the note of 2026-11-12 -->
 <!-- inactive-ok-file: CLAIM-016 QUESTION-007 — Deferred; set aside, and cited to say what was set aside with it -->
 
-# CLAIM-104: Authenticity grounds normativity downward, from an encompassing agent to its constituents, but not across agents at one level
+# CLAIM-104: Authenticity grounds normativity downward only
 
 ## The claim
 

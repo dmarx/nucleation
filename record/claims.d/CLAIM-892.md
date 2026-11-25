@@ -3,7 +3,14 @@ number: 892
 status: Active
 formerly:
 - CLAIM-tmpn0u3a
-title: 'Erosion of the skill a store replaces costs, per demand, the skill''s price times the chance that the demand falls back on it plus the share of the skill that checking the stored result repeats: it weighs little where demand is predictable, the store rarely wrong and checking cheap, as with a cockpit''s speed bugs, and most where reuse cannot be forecast or checking re-derives, as with a filed argument'
+title: 'Erosion costs most when reuse is unforecastable'
+statement: >-
+  Erosion of the skill a store replaces costs, per demand, the skill's price
+  times the chance that the demand falls back on it plus the share of the
+  skill that checking the stored result repeats: it weighs little where
+  demand is predictable, the store rarely wrong and checking cheap, as with
+  a cockpit's speed bugs, and most where reuse cannot be forecast or
+  checking re-derives, as with a filed argument
 version: 2
 history:
 - version: 1
@@ -61,7 +68,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-891 — new; filed in this run of 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-343 — Proposed; the reading that names the term, cited as such -->
 
-# CLAIM-892: Erosion of the skill a store replaces costs, per demand, the skill's price times the chance that the demand falls back on it plus the share of the skill that checking the stored result repeats: it weighs little where demand is predictable, the store rarely wrong and checking cheap, as with a cockpit's speed bugs, and most where reuse cannot be forecast or checking re-derives, as with a filed argument
+# CLAIM-892: Erosion costs most when reuse is unforecastable
 
 ## The claim
 

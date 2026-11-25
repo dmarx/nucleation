@@ -3,7 +3,14 @@ number: 746
 formerly:
 - CLAIM-tmpx1g4r
 status: Proposed
-title: 'Four judgments about an authority are distinct: the warrant of the obligations it is to serve, its jurisdiction over the matter, its arrangement''s capacity to realize those obligations together, and its capacity to reach compliant arrangements and correct failures by permitted means; neither of the first two follows from any of the others, and of the last two only the dynamic one implies the static one, for what it reaches'
+title: 'Four distinct judgments about an authority'
+statement: >-
+  Four judgments about an authority are distinct: the warrant of the
+  obligations it is to serve, its jurisdiction over the matter, its
+  arrangement's capacity to realize those obligations together, and its
+  capacity to reach compliant arrangements and correct failures by permitted
+  means; neither of the first two follows from any of the others, and of the
+  last two only the dynamic one implies the static one, for what it reaches
 version: 4
 history:
 - version: 2
@@ -77,7 +84,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-737 TERM-126 CLAIM-739 — filed from the same exchange, Proposed or new -->
 <!-- inactive-ok-file: CLAIM-624 — Proposed; where the link from authority to capability obligations is noted -->
 
-# CLAIM-746: Four judgments about an authority are distinct: the warrant of the obligations it is to serve, its jurisdiction over the matter, its arrangement's capacity to realize those obligations together, and its capacity to reach compliant arrangements and correct failures by permitted means; neither of the first two follows from any of the others, and of the last two only the dynamic one implies the static one, for what it reaches
+# CLAIM-746: Four distinct judgments about an authority
 
 ## The claim
 

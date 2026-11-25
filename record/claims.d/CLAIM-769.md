@@ -3,7 +3,15 @@ number: 769
 status: Proposed
 formerly:
 - CLAIM-tmp6q7ma
-title: 'Seen from one of its states, a tree of rate differences relaxes as a power of time, not exponentially, because the escape it sees is an average of exponentials over a spread of rates; hyperbolic discounting is the same kind of average, so a hierarchy of time scales is one origin of hyperbolic-like discounting, though the exact hyperbola needs a particular spread: per-level rates falling by the square of the branching on a uniform tree, or an exponential spread of hazards'
+title: 'Rate hierarchies give hyperbolic-like discounting'
+statement: >-
+  Seen from one of its states, a tree of rate differences relaxes as a power
+  of time, not exponentially, because the escape it sees is an average of
+  exponentials over a spread of rates; hyperbolic discounting is the same
+  kind of average, so a hierarchy of time scales is one origin of
+  hyperbolic-like discounting, though the exact hyperbola needs a particular
+  spread: per-level rates falling by the square of the branching on a
+  uniform tree, or an exponential spread of hazards
 version: 1
 role: thesis
 warrant: interpretive
@@ -45,7 +53,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-795 CLAIM-840 CLAIM-829 THEORY-2150 — Proposed or new; cited in the note of 2026-11-21 on the exchange "Rich Get Richer Power Laws" -->
 <!-- inactive-ok-file: THEORY-2176 CLAIM-857 — Proposed; the reading of Beck and Cohen and the assistant's condition on the spread, 2026-11-22 -->
 
-# CLAIM-769: Seen from one of its states, a tree of rate differences relaxes as a power of time, not exponentially, because the escape it sees is an average of exponentials over a spread of rates; hyperbolic discounting is the same kind of average, so a hierarchy of time scales is one origin of hyperbolic-like discounting, though the exact hyperbola needs a particular spread: per-level rates falling by the square of the branching on a uniform tree, or an exponential spread of hazards
+# CLAIM-769: Rate hierarchies give hyperbolic-like discounting
 
 ## The claim
 

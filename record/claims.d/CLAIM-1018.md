@@ -3,7 +3,16 @@ number: 1018
 status: Proposed
 formerly:
 - CLAIM-tmp3t5y3
-title: 'In a simulated federated learner with two of seven evaluators compromised, revisable safeguards relocated the trade-off between attack and dissent rather than moving it: they lowered the success of an attack that mimics dissent only by suspending most of the honest majority and a third of the dissenters, and only through a monitor that, compromised, suspended every dissenter and no attacker; counting honest members suspended for honest error as suppressed, no architecture of the study lowered attack success under compromised evaluators without suppressing honest members'
+title: 'Revisable safeguards relocate the trade-off'
+statement: >-
+  In a simulated federated learner with two of seven evaluators compromised,
+  revisable safeguards relocated the trade-off between attack and dissent
+  rather than moving it: they lowered the success of an attack that mimics
+  dissent only by suspending most of the honest majority and a third of the
+  dissenters, and only through a monitor that, compromised, suspended every
+  dissenter and no attacker; counting honest members suspended for honest
+  error as suppressed, no architecture of the study lowered attack success
+  under compromised evaluators without suppressing honest members
 version: 1
 history:
 - version: 1
@@ -55,7 +64,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-1091 — new; filed by the lead run of 2026-11-23 -->
 
-# CLAIM-1018: In a simulated federated learner with two of seven evaluators compromised, revisable safeguards relocated the trade-off between attack and dissent rather than moving it: they lowered the success of an attack that mimics dissent only by suspending most of the honest majority and a third of the dissenters, and only through a monitor that, compromised, suspended every dissenter and no attacker; counting honest members suspended for honest error as suppressed, no architecture of the study lowered attack success under compromised evaluators without suppressing honest members
+# CLAIM-1018: Revisable safeguards relocate the trade-off
 
 ## The claim
 

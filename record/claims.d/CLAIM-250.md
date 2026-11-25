@@ -3,7 +3,13 @@ number: 250
 status: Proposed
 formerly:
 - CLAIM-tmptwfru
-title: 'What a developing argument should preserve through legitimate revision is its accountability structure, what was asserted, why, how it was challenged and what justified its revision, not its propositions, so fidelity is defined over justificatory and provenance relations while propositional content changes'
+title: 'Preserve accountability, not propositions'
+statement: >-
+  What a developing argument should preserve through legitimate revision is
+  its accountability structure, what was asserted, why, how it was
+  challenged and what justified its revision, not its propositions, so
+  fidelity is defined over justificatory and provenance relations while
+  propositional content changes
 version: 2
 history:
 - version: 2
@@ -39,7 +45,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-189 — Proposed; cited as open positions and readings the interlocutor's reading addresses, not as settled -->
 <!-- inactive-ok-file: THEORY-1756 THEORY-1806 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
-# CLAIM-250: What a developing argument should preserve through legitimate revision is its accountability structure, what was asserted, why, how it was challenged and what justified its revision, not its propositions, so fidelity is defined over justificatory and provenance relations while propositional content changes
+# CLAIM-250: Preserve accountability, not propositions
 
 ## The claim
 

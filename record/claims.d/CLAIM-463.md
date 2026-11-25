@@ -3,7 +3,14 @@ number: 463
 status: Active
 formerly:
 - CLAIM-tmpcwl5o
-title: 'Restoring the conditions under which a capacity was lost need not restore the capacity: where the activity that maintains it reinforces itself, the same conditions can sustain both the capacity and its absence, so a capacity lost past a threshold returns only under conditions better than those it was lost under, or by rebuilding the activity directly, and restoring it can cost more than preserving it would have'
+title: 'Restoring conditions need not restore capacity'
+statement: >-
+  Restoring the conditions under which a capacity was lost need not restore
+  the capacity: where the activity that maintains it reinforces itself, the
+  same conditions can sustain both the capacity and its absence, so a
+  capacity lost past a threshold returns only under conditions better than
+  those it was lost under, or by rebuilding the activity directly, and
+  restoring it can cost more than preserving it would have
 version: 2
 history:
 - version: 2
@@ -52,7 +59,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-247 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 
-# CLAIM-463: Restoring the conditions under which a capacity was lost need not restore the capacity: where the activity that maintains it reinforces itself, the same conditions can sustain both the capacity and its absence, so a capacity lost past a threshold returns only under conditions better than those it was lost under, or by rebuilding the activity directly, and restoring it can cost more than preserving it would have
+# CLAIM-463: Restoring conditions need not restore capacity
 
 ## The claim
 

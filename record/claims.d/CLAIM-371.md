@@ -3,7 +3,12 @@ number: 371
 status: Active
 formerly:
 - CLAIM-tmpzk12h
-title: 'Under the componentwise order on distortion profiles, two profiles are incomparable exactly when they trade off, and then positive weightings can rank them either way, while every positive weighting agrees with a dominance'
+title: 'Incomparable profiles are trade-offs'
+statement: >-
+  Under the componentwise order on distortion profiles, two profiles are
+  incomparable exactly when they trade off, and then positive weightings can
+  rank them either way, while every positive weighting agrees with a
+  dominance
 version: 1
 history:
 - version: 1
@@ -38,7 +43,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-128 — Proposed; the thesis this claim was split from and that rests on it, cited as open -->
 
-# CLAIM-371: Under the componentwise order on distortion profiles, two profiles are incomparable exactly when they trade off, and then positive weightings can rank them either way, while every positive weighting agrees with a dominance
+# CLAIM-371: Incomparable profiles are trade-offs
 
 ## The claim
 

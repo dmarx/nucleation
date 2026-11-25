@@ -3,7 +3,11 @@ number: 103
 status: Proposed
 formerly:
 - CLAIM-tmptzrxc
-title: 'Symmetry is not opposed to transport: exact symmetries are the invertible core of a nested family of transports, and their main use is to supply the invariants against which non-symmetric transports are assessed'
+title: 'Symmetries are the invertible core of transport'
+statement: >-
+  Symmetry is not opposed to transport: exact symmetries are the invertible
+  core of a nested family of transports, and their main use is to supply the
+  invariants against which non-symmetric transports are assessed
 version: 1
 role: thesis
 warrant: interpretive
@@ -26,7 +30,7 @@ summary: >-
   apparently by inadvertence.
 ---
 
-# CLAIM-103: Symmetry is not opposed to transport: exact symmetries are the invertible core of a nested family of transports, and their main use is to supply the invariants against which non-symmetric transports are assessed
+# CLAIM-103: Symmetries are the invertible core of transport
 
 ## The claim
 

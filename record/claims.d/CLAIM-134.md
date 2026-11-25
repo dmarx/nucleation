@@ -3,7 +3,13 @@ number: 134
 status: Proposed
 formerly:
 - CLAIM-tmp4xhdn
-title: 'A non-eliminative structural realism that keeps relata but denies them any intrinsic identity-fixing feature is the position Chakravartty''s dilemma targets, and granting numerical plurality without relational differentiation, as A194 and A198 do, concedes a non-relational ground of identity'
+title: 'Bare relata fall to Chakravartty''s dilemma'
+statement: >-
+  A non-eliminative structural realism that keeps relata but denies them any
+  intrinsic identity-fixing feature is the position Chakravartty's dilemma
+  targets, and granting numerical plurality without relational
+  differentiation, as A194 and A198 do, concedes a non-relational ground of
+  identity
 version: 2
 history:
 - version: 2
@@ -40,7 +46,7 @@ complements:
 <!-- inactive-ok-file: THEORY-453 — Proposed; the second position THEORY-034's census finds, cited as open -->
 <!-- inactive-ok-file: CLAIM-136 CLAIM-137 — Proposed; the owner's theses this objection presses, both open -->
 
-# CLAIM-134: A non-eliminative structural realism that keeps relata but denies them any intrinsic identity-fixing feature is the position Chakravartty's dilemma targets, and granting numerical plurality without relational differentiation, as A194 and A198 do, concedes a non-relational ground of identity
+# CLAIM-134: Bare relata fall to Chakravartty's dilemma
 
 ## The objection
 

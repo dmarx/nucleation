@@ -3,7 +3,14 @@ number: 902
 status: Active
 formerly:
 - CLAIM-tmpe87cm
-title: 'Under multiplicative co-occurrence with any implication structure among binary attributes and positive strengths, every attribute is an exact linear readout of the full-rank PMI embedding; on a balanced tree the PMI eigenvectors are branch contrasts whose eigenvalues fall strictly with depth, so a truncated embedding keeps exactly the shallow attributes and merges siblings below the cut'
+title: 'Truncated PMI embedding keeps shallow attributes'
+statement: >-
+  Under multiplicative co-occurrence with any implication structure among
+  binary attributes and positive strengths, every attribute is an exact
+  linear readout of the full-rank PMI embedding; on a balanced tree the PMI
+  eigenvectors are branch contrasts whose eigenvalues fall strictly with
+  depth, so a truncated embedding keeps exactly the shallow attributes and
+  merges siblings below the cut
 version: 2
 history:
 - version: 1
@@ -69,7 +76,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-186 THEORY-201 LIT-267 CLAIM-119 — Proposed; cited as the accounts this derivation meets, not as settled -->
 <!-- inactive-ok-file: CLAIM-1035 CASE-344 — Proposed; the account that reads this claim, and its corpus test, named in the note of 2026-11-22 -->
 
-# CLAIM-902: Under multiplicative co-occurrence with any implication structure among binary attributes and positive strengths, every attribute is an exact linear readout of the full-rank PMI embedding; on a balanced tree the PMI eigenvectors are branch contrasts whose eigenvalues fall strictly with depth, so a truncated embedding keeps exactly the shallow attributes and merges siblings below the cut
+# CLAIM-902: Truncated PMI embedding keeps shallow attributes
 
 ## The claim
 

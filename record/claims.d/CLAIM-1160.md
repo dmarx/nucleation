@@ -3,7 +3,13 @@ number: 1160
 status: Proposed
 formerly:
 - CLAIM-tmpqrmoy
-title: 'In one school system, interventions of equal yearly cost that acted at different points of how schools produce learning differed threefold in effect: bonuses acting on the effort of teachers already present did more than an extra teacher or materials, so where an equal budget enters an organization can matter more than its size'
+title: 'Where a budget enters matters more than its size'
+statement: >-
+  In one school system, interventions of equal yearly cost that acted at
+  different points of how schools produce learning differed threefold in
+  effect: bonuses acting on the effort of teachers already present did more
+  than an extra teacher or materials, so where an equal budget enters an
+  organization can matter more than its size
 version: 1
 history:
 - version: 1
@@ -53,7 +59,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-1107 THEORY-2296 CASE-406 — new; filed by the lead run of 2026-11-23 -->
 
-# CLAIM-1160: In one school system, interventions of equal yearly cost that acted at different points of how schools produce learning differed threefold in effect: bonuses acting on the effort of teachers already present did more than an extra teacher or materials, so where an equal budget enters an organization can matter more than its size
+# CLAIM-1160: Where a budget enters matters more than its size
 
 ## The claim
 

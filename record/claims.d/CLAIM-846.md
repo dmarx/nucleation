@@ -3,7 +3,12 @@ number: 846
 status: Proposed
 formerly:
 - CLAIM-tmpwl8y8
-title: 'Scale-free correlations do not need heavy-tailed marginals: a Gaussian field with a power-law spectrum has Gaussian values at every point, so what is scale-free can be a scaling relation rather than a distribution of magnitudes'
+title: 'Scale-free correlations without heavy tails'
+statement: >-
+  Scale-free correlations do not need heavy-tailed marginals: a Gaussian
+  field with a power-law spectrum has Gaussian values at every point, so
+  what is scale-free can be a scaling relation rather than a distribution of
+  magnitudes
 version: 1
 role: thesis
 warrant: demonstrated
@@ -43,7 +48,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-2174 — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
 <!-- inactive-ok-file: TERM-142 CLAIM-810 CLAIM-841 CLAIM-840 — filed from the same exchange on 2026-11-21 -->
 
-# CLAIM-846: Scale-free correlations do not need heavy-tailed marginals: a Gaussian field with a power-law spectrum has Gaussian values at every point, so what is scale-free can be a scaling relation rather than a distribution of magnitudes
+# CLAIM-846: Scale-free correlations without heavy tails
 
 ## A's statement (A27 §9)
 

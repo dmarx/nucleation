@@ -3,7 +3,12 @@ number: 507
 status: Proposed
 formerly:
 - CLAIM-tmp2um57
-title: 'On WMT22 News MQM, xCOMET''s error spans are more coherent with its own regression scores than either is with expert judgement: the agreement between its heads is coherence between two outputs of one model, and adds little to what the spans'' own agreement with experts shows'
+title: 'xCOMET heads agree with each other, not experts'
+statement: >-
+  On WMT22 News MQM, xCOMET's error spans are more coherent with its own
+  regression scores than either is with expert judgement: the agreement
+  between its heads is coherence between two outputs of one model, and adds
+  little to what the spans' own agreement with experts shows
 version: 2
 history:
 - version: 2
@@ -44,7 +49,7 @@ summary: >-
   and converted to one scale the gap is smaller than it looks.
 ---
 
-# CLAIM-507: On WMT22 News MQM, xCOMET's error spans are more coherent with its own regression scores than either is with expert judgement: the agreement between its heads is coherence between two outputs of one model, and adds little to what the spans' own agreement with experts shows
+# CLAIM-507: xCOMET heads agree with each other, not experts
 
 ## The claim
 

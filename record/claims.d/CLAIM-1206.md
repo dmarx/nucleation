@@ -3,7 +3,12 @@ number: 1206
 status: Proposed
 formerly:
 - CLAIM-tmpzrzml
-title: 'Washington''s major-league club, as the Nationals'' club and supporters count it, is one tradition from 1901 through two departures and a club brought from Montreal, persisting by place and name with no transmission between the organizations that produced it'
+title: 'Washington''s club is one tradition since 1901'
+statement: >-
+  Washington's major-league club, as the Nationals' club and supporters
+  count it, is one tradition from 1901 through two departures and a club
+  brought from Montreal, persisting by place and name with no transmission
+  between the organizations that produced it
 version: 1
 role: counter
 warrant: interpretive
@@ -36,7 +41,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-1047 CLAIM-1129 CASE-392 — new, Proposed; the verdict this reading rests on, the reading preferred to it and the coding study, filed by the lead run of 2026-11-23 -->
 
-# CLAIM-1206: Washington's major-league club, as the Nationals' club and supporters count it, is one tradition from 1901 through two departures and a club brought from Montreal, persisting by place and name with no transmission between the organizations that produced it
+# CLAIM-1206: Washington's club is one tradition since 1901
 
 ## The objection
 

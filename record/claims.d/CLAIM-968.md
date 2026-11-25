@@ -3,7 +3,13 @@ number: 968
 status: Proposed
 formerly:
 - CLAIM-tmpco6u9
-title: 'Probing two compatibility-equivalent constraint systems at rising move budgets, the distinguish-or-not verdict stabilizes at a finite budget below which they are indistinguishable, and a construction realizes any chosen finite stabilization budget, so the budget at which a reachability distinction first appears is a measurable threshold and not fixed'
+title: 'Distinguishing budget is a measurable threshold'
+statement: >-
+  Probing two compatibility-equivalent constraint systems at rising move
+  budgets, the distinguish-or-not verdict stabilizes at a finite budget
+  below which they are indistinguishable, and a construction realizes any
+  chosen finite stabilization budget, so the budget at which a reachability
+  distinction first appears is a measurable threshold and not fixed
 version: 1
 role: thesis
 warrant: demonstrated
@@ -34,7 +40,7 @@ uses:
 ---
 <!-- inactive-ok-file: CASE-373 CASE-202 — CASE-373 is the executed study this claim is grounded in, filed in this batch; CASE-202 is the Proposed design it runs -->
 
-# CLAIM-968: Probing two compatibility-equivalent constraint systems at rising move budgets, the distinguish-or-not verdict stabilizes at a finite budget below which they are indistinguishable, and a construction realizes any chosen finite stabilization budget, so the budget at which a reachability distinction first appears is a measurable threshold and not fixed
+# CLAIM-968: Distinguishing budget is a measurable threshold
 
 ## The claim
 

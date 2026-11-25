@@ -3,7 +3,14 @@ number: 860
 status: Proposed
 formerly:
 - CLAIM-tmpxcy5s
-title: "In the Lorentz model every point of an entailment cone of the widest transitive family lies farther from the origin than the cone's apex, so a scheme that keeps each item's new embedding inside the cone of its old one must raise the item's norm at every update that moves it, which drives a norm-based uncertainty down whether or not the update is correct and accounts for the norm growth such schemes report"
+title: 'Lorentz cones force norm growth'
+statement: >-
+  In the Lorentz model every point of an entailment cone of the widest
+  transitive family lies farther from the origin than the cone's apex, so a
+  scheme that keeps each item's new embedding inside the cone of its old one
+  must raise the item's norm at every update that moves it, which drives a
+  norm-based uncertainty down whether or not the update is correct and
+  accounts for the norm growth such schemes report
 version: 1
 role: thesis
 warrant: demonstrated
@@ -43,7 +50,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-2190 CLAIM-839 CLAIM-816 ARG-193 — Proposed or new; the reading this fills a gap in, the claims it bears on and the argument that says how -->
 
-# CLAIM-860: In the Lorentz model every point of an entailment cone of the widest transitive family lies farther from the origin than the cone's apex, so a scheme that keeps each item's new embedding inside the cone of its old one must raise the item's norm at every update that moves it, which drives a norm-based uncertainty down whether or not the update is correct and accounts for the norm growth such schemes report
+# CLAIM-860: Lorentz cones force norm growth
 
 ## The gap
 

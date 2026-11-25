@@ -3,7 +3,17 @@ number: 1037
 status: Proposed
 formerly:
 - CLAIM-tmp6sa56
-title: 'If constructor theory''s programme holds, Deutsch and Marletto''s possibility facts meet the relata–realization frame''s second defeater: being an information medium is an exact property of a substrate fixed by which tasks are possible, every constructor that could perform them is approximate and none need exist, and the laws are themselves statements of possibility that mention no constructor, so an exact individuating constraint is realized by no actual thing, and reading it as modal maintenance concedes that what individuates is the modal fact and not its realizers'
+title: 'Constructor theory meets the second defeater'
+statement: >-
+  If constructor theory's programme holds, Deutsch and Marletto's
+  possibility facts meet the relata–realization frame's second defeater:
+  being an information medium is an exact property of a substrate fixed by
+  which tasks are possible, every constructor that could perform them is
+  approximate and none need exist, and the laws are themselves statements of
+  possibility that mention no constructor, so an exact individuating
+  constraint is realized by no actual thing, and reading it as modal
+  maintenance concedes that what individuates is the modal fact and not its
+  realizers
 version: 2
 history:
 - version: 2
@@ -55,7 +65,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-1161 CLAIM-1094 — new; the leaned-to alternative and the symmetry ruling filed with this claim for LEAD-195 -->
 <!-- inactive-ok-file: CLAIM-477 — Proposed; the frame this objects to -->
 
-# CLAIM-1037: If constructor theory's programme holds, Deutsch and Marletto's possibility facts meet the relata–realization frame's second defeater: being an information medium is an exact property of a substrate fixed by which tasks are possible, every constructor that could perform them is approximate and none need exist, and the laws are themselves statements of possibility that mention no constructor, so an exact individuating constraint is realized by no actual thing, and reading it as modal maintenance concedes that what individuates is the modal fact and not its realizers
+# CLAIM-1037: Constructor theory meets the second defeater
 
 ## The objection
 

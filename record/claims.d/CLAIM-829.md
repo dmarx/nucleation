@@ -3,7 +3,13 @@ number: 829
 status: Proposed
 formerly:
 - CLAIM-tmplb1ow
-title: 'Read as a separation of scales, a bulk separated from a sparse tail is what a continuous transition shows from below: the bulk keeps a fixed small scale while the cutoff of the tail grows without bound as the transition nears, and at the transition the separating scale is gone, so that no size marks off the extraordinary'
+title: 'Bulk-and-tail as vanishing separating scale'
+statement: >-
+  Read as a separation of scales, a bulk separated from a sparse tail is
+  what a continuous transition shows from below: the bulk keeps a fixed
+  small scale while the cutoff of the tail grows without bound as the
+  transition nears, and at the transition the separating scale is gone, so
+  that no size marks off the extraordinary
 version: 1
 role: thesis
 warrant: demonstrated
@@ -44,7 +50,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-840 CLAIM-845 CLAIM-832 CASE-303 CLAIM-769 THEORY-2131 — Proposed or new; the owner's conjecture, the other reading, the claims, case, argument and lead filed with it, and held entries cited as contrasts -->
 <!-- inactive-ok-file: THEORY-2176 — Proposed; the reading of Beck and Cohen, 2026-11-22 -->
 
-# CLAIM-829: Read as a separation of scales, a bulk separated from a sparse tail is what a continuous transition shows from below: the bulk keeps a fixed small scale while the cutoff of the tail grows without bound as the transition nears, and at the transition the separating scale is gone, so that no size marks off the extraordinary
+# CLAIM-829: Bulk-and-tail as vanishing separating scale
 
 **This is reading (b) of [CLAIM-840](CLAIM-840.md), one of two alternatives.** The
 other, reading (a), is [CLAIM-845](CLAIM-845.md). The owner chooses.

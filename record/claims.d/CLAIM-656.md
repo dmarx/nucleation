@@ -3,7 +3,13 @@ number: 656
 status: Proposed
 formerly:
 - CLAIM-tmpifp69
-title: 'The selection that lets economically weighted demand set a product''s design extends to news: where attention is the revenue, optimizing for it favours clickbait and works against investigative journalism, whose findings cannot be shown to be in demand before they exist and whose value falls largely to people who never pay for them'
+title: 'Attention revenue selects against investigation'
+statement: >-
+  The selection that lets economically weighted demand set a product's
+  design extends to news: where attention is the revenue, optimizing for it
+  favours clickbait and works against investigative journalism, whose
+  findings cannot be shown to be in demand before they exist and whose value
+  falls largely to people who never pay for them
 version: 2
 history:
 - version: 2
@@ -63,7 +69,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-247 ARG-091 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: LIT-2416 LIT-2455 — Deferred; registered from the same exchange, unread -->
 
-# CLAIM-656: The selection that lets economically weighted demand set a product's design extends to news: where attention is the revenue, optimizing for it favours clickbait and works against investigative journalism, whose findings cannot be shown to be in demand before they exist and whose value falls largely to people who never pay for them
+# CLAIM-656: Attention revenue selects against investigation
 
 ## The claim
 

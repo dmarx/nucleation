@@ -3,7 +3,12 @@ number: 114
 status: Proposed
 formerly:
 - CLAIM-tmpwsbib
-title: 'Drift along a reconstruction chain can be marked by a pragmatic phase change, the first generation at which a different communicative configuration dominates, which per-step error in surface content does not show'
+title: 'Drift marked by a pragmatic phase change'
+statement: >-
+  Drift along a reconstruction chain can be marked by a pragmatic phase
+  change, the first generation at which a different communicative
+  configuration dominates, which per-step error in surface content does not
+  show
 version: 3
 history:
 - version: 2
@@ -50,7 +55,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: CLAIM-008 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 
-# CLAIM-114: Drift along a reconstruction chain can be marked by a pragmatic phase change, the first generation at which a different communicative configuration dominates, which per-step error in surface content does not show
+# CLAIM-114: Drift marked by a pragmatic phase change
 
 ## The claim
 

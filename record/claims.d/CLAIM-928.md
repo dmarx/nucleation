@@ -3,7 +3,14 @@ number: 928
 status: Proposed
 formerly:
 - CLAIM-tmp7ggg0
-title: 'In a simulation of a collective that improves its own improver, a later improver does better than an earlier one from the same starting state at the same budget through procedures that consult its record, not through the record alone; a test of the improver''s products does not see it shed its own checks; and when those checks are damaged, a record of what past moves cost keeps verification that an improver blind to it loses'
+title: 'Better improvers consult the record'
+statement: >-
+  In a simulation of a collective that improves its own improver, a later
+  improver does better than an earlier one from the same starting state at
+  the same budget through procedures that consult its record, not through
+  the record alone; a test of the improver's products does not see it shed
+  its own checks; and when those checks are damaged, a record of what past
+  moves cost keeps verification that an improver blind to it loses
 version: 1
 history:
 - version: 1
@@ -58,7 +65,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-348 CASE-255 CLAIM-901 — new or Proposed; the run this claim is drawn from, the run it builds on, the design it runs, and that run's claim -->
 <!-- ref::uses-file: TERM-089 — the improver's suite and canary are apparatus in TERM-089's sense, which differentiates and revises, and the claim separates its revising from its keeping its own checks -->
 
-# CLAIM-928: In a simulation of a collective that improves its own improver, a later improver does better than an earlier one from the same starting state at the same budget through procedures that consult its record, not through the record alone; a test of the improver's products does not see it shed its own checks; and when those checks are damaged, a record of what past moves cost keeps verification that an improver blind to it loses
+# CLAIM-928: Better improvers consult the record
 
 ## The claim
 

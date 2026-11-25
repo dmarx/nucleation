@@ -3,7 +3,12 @@ number: 386
 status: Active
 formerly:
 - CLAIM-tmp614wx
-title: 'For x(t+1) = (A* + εC)x with A* block-diagonal, the Simon–Ando aggregate Â = QAV has one-step closure defect exactly QA − ÂQ = QA(I − VQ); the part from the blocks'' own dynamics vanishes iff every block has equal column sums, and then the whole defect is ε·QC(I − VQ)'
+title: 'Simon–Ando closure defect is exact'
+statement: >-
+  For x(t+1) = (A* + εC)x with A* block-diagonal, the Simon–Ando aggregate Â
+  = QAV has one-step closure defect exactly QA − ÂQ = QA(I − VQ); the part
+  from the blocks' own dynamics vanishes iff every block has equal column
+  sums, and then the whole defect is ε·QC(I − VQ)
 version: 3
 history:
 - version: 2
@@ -51,7 +56,7 @@ works:
 ---
 <!-- inactive-ok-file: CLAIM-780 CLAIM-781 — Proposed; filed in the contribution of 2026-11-20 on hierarchy and hyperbolicity -->
 
-# CLAIM-386: For x(t+1) = (A* + εC)x with A* block-diagonal, the Simon–Ando aggregate Â = QAV has one-step closure defect exactly QA − ÂQ = QA(I − VQ); the part from the blocks' own dynamics vanishes iff every block has equal column sums, and then the whole defect is ε·QC(I − VQ)
+# CLAIM-386: Simon–Ando closure defect is exact
 
 ## The claim
 

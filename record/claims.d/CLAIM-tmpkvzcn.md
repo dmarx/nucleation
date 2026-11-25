@@ -1,6 +1,11 @@
 ---
 status: Proposed
-title: "Contracts can form between processes, as service-level agreements do between services, and can operationalize standing: a contract's prioritization structure can govern how disputes between processes, such as races, are resolved"
+title: 'Contracts can form between processes'
+statement: >-
+  Contracts can form between processes, as service-level agreements do
+  between services, and can operationalize standing: a contract's
+  prioritization structure can govern how disputes between processes, such
+  as races, are resolved
 version: 1
 role: thesis
 warrant: interpretive
@@ -43,7 +48,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-tmptpna1 CLAIM-728 CLAIM-739 CLAIM-tmp7hqtl CLAIM-tmpe6yfm CLAIM-tmpersgx TERM-083 TERM-tmpgiy6r — Proposed; cited as filed or held beside this entry, whatever its standing -->
 
-# CLAIM-tmpkvzcn: Contracts can form between processes, as service-level agreements do between services, and can operationalize standing: a contract's prioritization structure can govern how disputes between processes, such as races, are resolved
+# CLAIM-tmpkvzcn: Contracts can form between processes
 
 ## The claim
 

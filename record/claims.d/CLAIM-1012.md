@@ -3,7 +3,15 @@ number: 1012
 status: Proposed
 formerly:
 - CLAIM-tmp2oloi
-title: 'Practical questions put to an organization can be modelled as queries met by realizations, and their relation as a robust interrogation game in which a respondent chooses a response policy against the strongest permitted queries; the game has diagnostic, adversarial and developmental forms that are not interchangeable, so maximizing the difficulty of queries is not good governance and the query side needs justified constraints'
+title: 'Hardest queries are not good governance'
+statement: >-
+  Practical questions put to an organization can be modelled as queries met
+  by realizations, and their relation as a robust interrogation game in
+  which a respondent chooses a response policy against the strongest
+  permitted queries; the game has diagnostic, adversarial and developmental
+  forms that are not interchangeable, so maximizing the difficulty of
+  queries is not good governance and the query side needs justified
+  constraints
 version: 1
 role: thesis
 warrant: interpretive
@@ -43,7 +51,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-1031 CLAIM-1032 ARG-230 — Proposed; the thesis this develops and the assistant's analysis of its formula, filed with it -->
 
-# CLAIM-1012: Practical questions put to an organization can be modelled as queries met by realizations, and their relation as a robust interrogation game in which a respondent chooses a response policy against the strongest permitted queries; the game has diagnostic, adversarial and developmental forms that are not interchangeable, so maximizing the difficulty of queries is not good governance and the query side needs justified constraints
+# CLAIM-1012: Hardest queries are not good governance
 
 ## The claim
 

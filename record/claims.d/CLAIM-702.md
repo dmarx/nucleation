@@ -3,7 +3,14 @@ number: 702
 status: Proposed
 formerly:
 - CLAIM-tmp7zzbd
-title: 'Where members'' compensating effort prevents failures that an organization''s conditions would otherwise produce, the prevention leaves little trace while its lapse is visible, so the organization can be credited with outcomes the compensation produced and the members blamed for failures the conditions produced: credit and blame then follow different principles'
+title: 'Hidden compensation splits credit from blame'
+statement: >-
+  Where members' compensating effort prevents failures that an
+  organization's conditions would otherwise produce, the prevention leaves
+  little trace while its lapse is visible, so the organization can be
+  credited with outcomes the compensation produced and the members blamed
+  for failures the conditions produced: credit and blame then follow
+  different principles
 version: 4
 history:
 - version: 2
@@ -62,7 +69,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-707 CLAIM-713 CLAIM-700 — filed from the exchange "Assess Depp Heard Abuse", Proposed -->
 <!-- inactive-ok-file: CLAIM-614 THEORY-1928 — Proposed; non-legibility of harm and the Elish reading, cited with their standing -->
 
-# CLAIM-702: Where members' compensating effort prevents failures that an organization's conditions would otherwise produce, the prevention leaves little trace while its lapse is visible, so the organization can be credited with outcomes the compensation produced and the members blamed for failures the conditions produced: credit and blame then follow different principles
+# CLAIM-702: Hidden compensation splits credit from blame
 
 ## The claim
 

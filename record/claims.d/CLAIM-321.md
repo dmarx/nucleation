@@ -3,7 +3,13 @@ number: 321
 status: Active
 formerly:
 - CLAIM-tmpjni98
-title: 'In text-to-image diffusion models each condition of a prompt can be met while their conjunction or relational binding fails: benchmarks find single objects rendered almost always and spatial relations and attribute binding failing most, and composing by adding scores does worst on relations'
+title: 'Diffusion models meet conditions, fail binding'
+statement: >-
+  In text-to-image diffusion models each condition of a prompt can be met
+  while their conjunction or relational binding fails: benchmarks find
+  single objects rendered almost always and spatial relations and attribute
+  binding failing most, and composing by adding scores does worst on
+  relations
 version: 5
 history:
 - version: 2
@@ -87,7 +93,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-678 — Proposed; the Attend-and-Excite account, which corroborates the omission example without carrying the claim -->
 
-# CLAIM-321: In text-to-image diffusion models each condition of a prompt can be met while their conjunction or relational binding fails: benchmarks find single objects rendered almost always and spatial relations and attribute binding failing most, and composing by adding scores does worst on relations
+# CLAIM-321: Diffusion models meet conditions, fail binding
 
 ## The claim
 

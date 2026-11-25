@@ -3,7 +3,11 @@ number: 278
 status: Superseded
 formerly:
 - CLAIM-tmpgdvrd
-title: 'An operator framework flexible enough to redescribe any dynamical process explains none of them until it forbids some outcome, and the shared-organization thesis has not yet said what it forbids'
+title: 'An all-fitting framework explains nothing'
+statement: >-
+  An operator framework flexible enough to redescribe any dynamical process
+  explains none of them until it forbids some outcome, and the
+  shared-organization thesis has not yet said what it forbids
 version: 6
 history:
 - version: 2
@@ -67,7 +71,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-286 CLAIM-024 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: ARG-036 — Proposed; the argument this claim moved to -->
 
-# CLAIM-278: An operator framework flexible enough to redescribe any dynamical process explains none of them until it forbids some outcome, and the shared-organization thesis has not yet said what it forbids
+# CLAIM-278: An all-fitting framework explains nothing
 
 ## The objection
 

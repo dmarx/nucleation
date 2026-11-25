@@ -3,7 +3,16 @@ number: 953
 status: Proposed
 formerly:
 - CLAIM-tmpocjfb
-title: 'Where a nucleus forms fast only on a constraint that it produces once formed, and formation is cooperative enough that a founding is needed, the moment after which the outside supply of that constraint can be withdrawn for good is the crossing of a threshold in the joint state of constraint, nuclei and material, and neither the number of nuclei formed nor the share of the constraint they make marks it: in one kinetic construction it was crossed with nuclei at 0.02 % to 30 % of their maintained number and a self-made share of 0.2 % to 65 %'
+title: 'Withdrawal point is a joint-state threshold'
+statement: >-
+  Where a nucleus forms fast only on a constraint that it produces once
+  formed, and formation is cooperative enough that a founding is needed, the
+  moment after which the outside supply of that constraint can be withdrawn
+  for good is the crossing of a threshold in the joint state of constraint,
+  nuclei and material, and neither the number of nuclei formed nor the share
+  of the constraint they make marks it: in one kinetic construction it was
+  crossed with nuclei at 0.02 % to 30 % of their maintained number and a
+  self-made share of 0.2 % to 65 %
 version: 1
 history:
 - version: 1
@@ -54,7 +63,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-365 CASE-265 — new or Proposed; the run this claim is drawn from, and the earlier construction with a joint threshold -->
 
-# CLAIM-953: Where a nucleus forms fast only on a constraint that it produces once formed, and formation is cooperative enough that a founding is needed, the moment after which the outside supply of that constraint can be withdrawn for good is the crossing of a threshold in the joint state of constraint, nuclei and material, and neither the number of nuclei formed nor the share of the constraint they make marks it: in one kinetic construction it was crossed with nuclei at 0.02 % to 30 % of their maintained number and a self-made share of 0.2 % to 65 %
+# CLAIM-953: Withdrawal point is a joint-state threshold
 
 ## The claim
 

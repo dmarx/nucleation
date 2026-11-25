@@ -3,7 +3,12 @@ number: 1059
 status: Proposed
 formerly:
 - CLAIM-tmpadjsm
-title: 'Understanding in a learning system is the developmental value of its acquired organization, what it makes cheap to learn next, so a frozen exact rule knows every value of its function without understanding it, and understanding entails greater future learnability'
+title: 'Understanding is developmental value'
+statement: >-
+  Understanding in a learning system is the developmental value of its
+  acquired organization, what it makes cheap to learn next, so a frozen
+  exact rule knows every value of its function without understanding it, and
+  understanding entails greater future learnability
 version: 1
 role: counter
 warrant: interpretive
@@ -35,7 +40,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-754 CLAIM-519 THEORY-438 — Proposed; cited as the premise and as criteria applied -->
 <!-- inactive-ok-file: CASE-403 CASE-409 CLAIM-1092 — Proposed; filed by the lead run of 2026-11-23 -->
 
-# CLAIM-1059: Understanding in a learning system is the developmental value of its acquired organization, what it makes cheap to learn next, so a frozen exact rule knows every value of its function without understanding it, and understanding entails greater future learnability
+# CLAIM-1059: Understanding is developmental value
 
 ## The claim
 

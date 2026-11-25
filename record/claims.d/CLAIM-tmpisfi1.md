@@ -1,6 +1,12 @@
 ---
 status: Proposed
-title: 'Resolving an ambiguity that no arrangement yet settles forms a contract, and the same act has two outcomes: resolved jointly, it is a productive misunderstanding that reorganizes the parties around a new distinction; resolved by one party who controls when and how, it is exploitation through ambiguity where the terms it sets fail a declared standard'
+title: 'Resolving ambiguity forms a contract'
+statement: >-
+  Resolving an ambiguity that no arrangement yet settles forms a contract,
+  and the same act has two outcomes: resolved jointly, it is a productive
+  misunderstanding that reorganizes the parties around a new distinction;
+  resolved by one party who controls when and how, it is exploitation
+  through ambiguity where the terms it sets fail a declared standard
 version: 2
 history:
 - version: 2
@@ -46,7 +52,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-tmp80ny9 CLAIM-tmpupcws CLAIM-tmpro73c CLAIM-tmpgx2ej — Proposed; the entries joined -->
 
-# CLAIM-tmpisfi1: Resolving an ambiguity that no arrangement yet settles forms a contract, and the same act has two outcomes: resolved jointly, it is a productive misunderstanding that reorganizes the parties around a new distinction; resolved by one party who controls when and how, it is exploitation through ambiguity where the terms it sets fail a declared standard
+# CLAIM-tmpisfi1: Resolving ambiguity forms a contract
 
 ## The join
 

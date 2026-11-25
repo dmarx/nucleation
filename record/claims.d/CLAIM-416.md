@@ -3,7 +3,13 @@ number: 416
 status: Active
 formerly:
 - CLAIM-tmp6bxtr
-title: 'Competing perspectives compete over the tests that measure them as well as under them: success under an evaluative regime is evidence of competence relative to that regime, a fair test need not be neutral across competences, and a perspective that gains influence over the test can change what later success shows'
+title: 'Perspectives compete over their tests'
+statement: >-
+  Competing perspectives compete over the tests that measure them as well as
+  under them: success under an evaluative regime is evidence of competence
+  relative to that regime, a fair test need not be neutral across
+  competences, and a perspective that gains influence over the test can
+  change what later success shows
 version: 4
 history:
 - version: 2
@@ -62,7 +68,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-190 THEORY-854 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
-# CLAIM-416: Competing perspectives compete over the tests that measure them as well as under them: success under an evaluative regime is evidence of competence relative to that regime, a fair test need not be neutral across competences, and a perspective that gains influence over the test can change what later success shows
+# CLAIM-416: Perspectives compete over their tests
 
 ## The claim
 

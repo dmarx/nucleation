@@ -3,7 +3,12 @@ number: 487
 status: Proposed
 formerly:
 - CLAIM-tmpnvpfe
-title: 'Describing the relations that decide which regime becomes effective as one will-organization, across realizers, explains something that planning theory, control theory, executive-control research and institutional theory each describing their own realizer does not'
+title: 'Will-organization unifies four realizer theories'
+statement: >-
+  Describing the relations that decide which regime becomes effective as one
+  will-organization, across realizers, explains something that planning
+  theory, control theory, executive-control research and institutional
+  theory each describing their own realizer does not
 version: 1
 role: thesis
 warrant: interpretive
@@ -36,7 +41,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-889 CLAIM-890 — new; LEAD-089's study, finding and reading -->
 
-# CLAIM-487: Describing the relations that decide which regime becomes effective as one will-organization, across realizers, explains something that planning theory, control theory, executive-control research and institutional theory each describing their own realizer does not
+# CLAIM-487: Will-organization unifies four realizer theories
 
 ## The claim
 

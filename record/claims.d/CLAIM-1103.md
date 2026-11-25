@@ -3,7 +3,13 @@ number: 1103
 status: Proposed
 formerly:
 - CLAIM-tmpgv8bs
-title: 'The Syrian three-generation study separates the germline route from one route the other designs leave open, the care of a parent who lived through the trauma, because the germline-exposed grandchildren''s mothers were exposed only in utero, so their methylation difference is evidence for a route that does not pass through an exposed parent''s experience'
+title: 'Syrian study isolates the germline route'
+statement: >-
+  The Syrian three-generation study separates the germline route from one
+  route the other designs leave open, the care of a parent who lived through
+  the trauma, because the germline-exposed grandchildren's mothers were
+  exposed only in utero, so their methylation difference is evidence for a
+  route that does not pass through an exposed parent's experience
 version: 1
 role: counter
 warrant: interpretive
@@ -32,7 +38,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-1017 THEORY-2299 ARG-229 — filed by the lead run of 2026-11-23 -->
 
-# CLAIM-1103: The Syrian three-generation study separates the germline route from one route the other designs leave open, the care of a parent who lived through the trauma, because the germline-exposed grandchildren's mothers were exposed only in utero, so their methylation difference is evidence for a route that does not pass through an exposed parent's experience
+# CLAIM-1103: Syrian study isolates the germline route
 
 ## The claim
 

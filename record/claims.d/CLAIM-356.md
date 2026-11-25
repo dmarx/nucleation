@@ -3,7 +3,14 @@ number: 356
 status: Active
 formerly:
 - CLAIM-tmpkb2i9
-title: 'An objective that originates outside a learning system can become a goal of the training organization, through its causal role in selecting, stabilizing and reproducing the learned structure it rewards; exogenous origin does not disqualify a goal, but it does not show that the network governs or endorses the objective, and what is selected is performance on the updating distribution, not generalization'
+title: 'Exogenous objectives can become own goals'
+statement: >-
+  An objective that originates outside a learning system can become a goal
+  of the training organization, through its causal role in selecting,
+  stabilizing and reproducing the learned structure it rewards; exogenous
+  origin does not disqualify a goal, but it does not show that the network
+  governs or endorses the objective, and what is selected is performance on
+  the updating distribution, not generalization
 version: 6
 history:
 - version: 2
@@ -96,7 +103,7 @@ summary: >-
 <!-- ref::uses-file: TERM-100 — "Provenance. Where the objective came from. Here, the trainer.", which the claim holds apart from realization and governance, is TERM-100's formation provenance -->
 <!-- inactive-ok-file: ARG-015 — Proposed; the argument CLAIM-288 undercuts, which holds the verdict on the sufficiency tests -->
 
-# CLAIM-356: An objective that originates outside a learning system can become a goal of the training organization, through its causal role in selecting, stabilizing and reproducing the learned structure it rewards; exogenous origin does not disqualify a goal, but it does not show that the network governs or endorses the objective, and what is selected is performance on the updating distribution, not generalization
+# CLAIM-356: Exogenous objectives can become own goals
 
 ## The claim
 

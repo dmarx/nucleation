@@ -3,7 +3,12 @@ number: 1048
 status: Proposed
 formerly:
 - CLAIM-tmp812ex
-title: "A stronger candidate for a pseudo-self than a crowd answering questions or an ensemble run by an external controller is an organization with historically maintained integration, differentiated inquiry, consequential governance, reflexive revisability and adaptive viability"
+title: 'Best pseudo-self is an integrated organization'
+statement: >-
+  A stronger candidate for a pseudo-self than a crowd answering questions or
+  an ensemble run by an external controller is an organization with
+  historically maintained integration, differentiated inquiry, consequential
+  governance, reflexive revisability and adaptive viability
 version: 1
 role: thesis
 warrant: interpretive
@@ -41,7 +46,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-1126 CLAIM-1153 CLAIM-1172 CLAIM-1179 TERM-166 — Proposed; entries filed from this exchange or neighbours cited, not leaned on as in force -->
 
-# CLAIM-1048: A stronger candidate for a pseudo-self than a crowd answering questions or an ensemble run by an external controller is an organization with historically maintained integration, differentiated inquiry, consequential governance, reflexive revisability and adaptive viability
+# CLAIM-1048: Best pseudo-self is an integrated organization
 
 ## The claim
 

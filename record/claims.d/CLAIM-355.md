@@ -3,7 +3,15 @@ number: 355
 status: Proposed
 formerly:
 - CLAIM-tmpk7n2q
-title: 'In a distributed agent the binding of appraisal, readiness and governance into one response can be real while the single owner a self-model or collective self-description attributes it to is a representational construction, not a further entity; the illusion, where there is one, is in the attribution and belongs to whichever system adopts the representation, and this deflates the self without settling whether experience is real'
+title: 'The single owner of a response is constructed'
+statement: >-
+  In a distributed agent the binding of appraisal, readiness and governance
+  into one response can be real while the single owner a self-model or
+  collective self-description attributes it to is a representational
+  construction, not a further entity; the illusion, where there is one, is
+  in the attribution and belongs to whichever system adopts the
+  representation, and this deflates the self without settling whether
+  experience is real
 version: 10
 history:
 - version: 2
@@ -151,7 +159,7 @@ rests_on:
 <!-- inactive-ok-file: LIT-1835 — Unfetched since 2026-10-29; Revonsuo and Newman 1999, cited in the note of that date as not read, nothing here rests on it -->
 <!-- inactive-ok-file: CASE-376 CLAIM-971 — the executed study and its finding, filed from LEAD-134 on 2026-11-22 and cited in the note of that date (new; CLAIM-971 Proposed) -->
 
-# CLAIM-355: In a distributed agent the binding of appraisal, readiness and governance into one response can be real while the single owner a self-model or collective self-description attributes it to is a representational construction, not a further entity; the illusion, where there is one, is in the attribution and belongs to whichever system adopts the representation, and this deflates the self without settling whether experience is real
+# CLAIM-355: The single owner of a response is constructed
 
 ## The claim
 

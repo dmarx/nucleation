@@ -3,7 +3,13 @@ number: 920
 status: Proposed
 formerly:
 - CLAIM-tmp974nn
-title: "On selection-based teleosemantics, a self-maintaining system's anticipation can be false by a norm of its own only if selection or learning stabilized it; upkeep in the present, with no such history, sets no norm, so the endogenous profile of the owner's debugging case is a norm only for a system whose own past upkeep shaped it"
+title: 'Present upkeep alone sets no norm'
+statement: >-
+  On selection-based teleosemantics, a self-maintaining system's
+  anticipation can be false by a norm of its own only if selection or
+  learning stabilized it; upkeep in the present, with no such history, sets
+  no norm, so the endogenous profile of the owner's debugging case is a norm
+  only for a system whose own past upkeep shaped it
 version: 1
 role: counter
 warrant: interpretive
@@ -49,7 +55,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-2234 THEORY-2235 — Proposed; filed for LEAD-018 in this batch -->
 <!-- inactive-ok-file: CLAIM-648 THEORY-220 CASE-241 CASE-239 — Proposed; held entries this reading bears on, cited with their standing -->
 
-# CLAIM-920: On selection-based teleosemantics, a self-maintaining system's anticipation can be false by a norm of its own only if selection or learning stabilized it; upkeep in the present, with no such history, sets no norm, so the endogenous profile of the owner's debugging case is a norm only for a system whose own past upkeep shaped it
+# CLAIM-920: Present upkeep alone sets no norm
 
 ## The objection
 

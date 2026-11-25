@@ -1,6 +1,11 @@
 ---
 status: Proposed
-title: Scientific publishing should publish the work and not only the paper, as a hyperarticle, a living, versioned body of the work attributed at the level of each contribution, of which any article is one view, and Nucleation can be read as one
+title: 'Publish the work, not the paper'
+statement: >-
+  Scientific publishing should publish the work and not only the paper, as a
+  hyperarticle, a living, versioned body of the work attributed at the level
+  of each contribution, of which any article is one view, and Nucleation can
+  be read as one
 version: 4
 history:
 - version: 2
@@ -61,7 +66,7 @@ works:
 
 <!-- inactive-ok-file: CLAIM-178 ADR-143 CLAIM-tmpgli4k TERM-tmpjn06u THEORY-1758 CLAIM-179 CLAIM-tmpk6kcf CLAIM-tmpzsuh2 TERM-tmpx49xx CLAIM-tmpv0sv7 — Proposed; the claim generalized and its procedure, A's separable ideas, the reading and claims it meets, the assistant's gap fill on citing a version, and the owner's U4 to U6 -->
 
-# CLAIM-tmpjf44i: Scientific publishing should publish the work and not only the paper, as a hyperarticle, a living, versioned body of the work attributed at the level of each contribution, of which any article is one view, and Nucleation can be read as one
+# CLAIM-tmpjf44i: Publish the work, not the paper
 
 ## The claim
 

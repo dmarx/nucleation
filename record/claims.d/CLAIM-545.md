@@ -3,7 +3,15 @@ number: 545
 status: Proposed
 formerly:
 - CLAIM-tmpxpdqi
-title: 'Freedom of will, in the operational sense, is an agent''s governance of its own governability: the extent to which its own organization makes the relevant distinctions legible, gives the demands they raise practical efficacy, directs its transitions, and revises the relations that govern those three, including under another''s interference; openness, sensitivity and controllability of outcomes each fall short of it, and domination is another''s capacity to govern those same relations, used or not'
+title: 'Free will as governance of one''s governability'
+statement: >-
+  Freedom of will, in the operational sense, is an agent's governance of its
+  own governability: the extent to which its own organization makes the
+  relevant distinctions legible, gives the demands they raise practical
+  efficacy, directs its transitions, and revises the relations that govern
+  those three, including under another's interference; openness, sensitivity
+  and controllability of outcomes each fall short of it, and domination is
+  another's capacity to govern those same relations, used or not
 version: 8
 history:
 - version: 2
@@ -125,7 +133,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-1614 TERM-086 THEORY-040 — Unavailable or Proposed; cited from the exchange "Assess SDT Coverage" as open, a work registered unread among them -->
 <!-- inactive-ok-file: TERM-124 CLAIM-690 — Proposed; filed 2026-11-13, the term proposed from this claim's domination clause and the claim that uses it -->
 
-# CLAIM-545: Freedom of will, in the operational sense, is an agent's governance of its own governability: the extent to which its own organization makes the relevant distinctions legible, gives the demands they raise practical efficacy, directs its transitions, and revises the relations that govern those three, including under another's interference; openness, sensitivity and controllability of outcomes each fall short of it, and domination is another's capacity to govern those same relations, used or not
+# CLAIM-545: Free will as governance of one's governability
 
 *Returned to CLAIM from [SYNTHESIS-007](../syntheses.d/SYNTHESIS-007.md) on 2026-11-08 ([ADR-084](../decisions.d/ADR-084.md)). The notes below that speak of a synthesis are the synthesis's own.*
 

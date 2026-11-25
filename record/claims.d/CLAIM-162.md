@@ -3,7 +3,12 @@ number: 162
 status: Proposed
 formerly:
 - CLAIM-tmpf301t
-title: 'In flow an activity''s immediate reward and its longer-run value coincide, so no interest has to be overridden (synchronization as non-crossing valuations, with no dynamical mechanism claimed), and that is why focused action in flow is reported as effortless'
+title: 'Flow is effortless because valuations coincide'
+statement: >-
+  In flow an activity's immediate reward and its longer-run value coincide,
+  so no interest has to be overridden (synchronization as non-crossing
+  valuations, with no dynamical mechanism claimed), and that is why focused
+  action in flow is reported as effortless
 version: 3
 history:
 - version: 2
@@ -73,7 +78,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-382 CLAIM-981 — new on 2026-11-22; the cost-side fit and its finding, cited in the note of 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-2208 THEORY-2207 LIT-3068 — new on 2026-11-22; the LEAD-054 search's readings, claim and registered works, cited in the dated note -->
 
-# CLAIM-162: In flow an activity's immediate reward and its longer-run value coincide, so no interest has to be overridden (synchronization as non-crossing valuations, with no dynamical mechanism claimed), and that is why focused action in flow is reported as effortless
+# CLAIM-162: Flow is effortless because valuations coincide
 
 ## The claim
 

@@ -3,7 +3,12 @@ number: 646
 status: Proposed
 formerly:
 - CLAIM-tmp2u6bs
-title: 'Peak-capacity thresholds do not fix cumulative transition costs: two systems can have the same threshold between every pair of configurations, and so the same hierarchy of budgeted classes, while the least cumulative cost of a transition differs between them by any factor'
+title: 'Peak thresholds do not fix cumulative costs'
+statement: >-
+  Peak-capacity thresholds do not fix cumulative transition costs: two
+  systems can have the same threshold between every pair of configurations,
+  and so the same hierarchy of budgeted classes, while the least cumulative
+  cost of a transition differs between them by any factor
 version: 3
 history:
 - version: 2
@@ -60,7 +65,7 @@ works:
 ---
 <!-- inactive-ok-file: CASE-236 — Proposed; the construction this claim rests on, filed with it -->
 
-# CLAIM-646: Peak-capacity thresholds do not fix cumulative transition costs: two systems can have the same threshold between every pair of configurations, and so the same hierarchy of budgeted classes, while the least cumulative cost of a transition differs between them by any factor
+# CLAIM-646: Peak thresholds do not fix cumulative costs
 
 ## The claim
 

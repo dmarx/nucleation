@@ -3,7 +3,12 @@ number: 970
 status: Proposed
 formerly:
 - CLAIM-tmpzdcl1
-title: 'In a non-lattice coupled-agent system the variable most informative about the far environment across a buffer is generically not the gap-isolated block: it is a boundary mode and the block is the spread collective mode, and they coincide only under a homogeneous boundary or one-way drive'
+title: 'Best buffer variable is not the gap block'
+statement: >-
+  In a non-lattice coupled-agent system the variable most informative about
+  the far environment across a buffer is generically not the gap-isolated
+  block: it is a boundary mode and the block is the spread collective mode,
+  and they coincide only under a homogeneous boundary or one-way drive
 version: 1
 role: thesis
 warrant: demonstrated
@@ -34,7 +39,7 @@ complements:
 ---
 <!-- inactive-ok-file: CLAIM-157 — Proposed; the block criterion this claim bounds, its joint-mode unit, and the readings the study operationalizes -->
 
-# CLAIM-970: In a non-lattice coupled-agent system the variable most informative about the far environment across a buffer is generically not the gap-isolated block: it is a boundary mode and the block is the spread collective mode, and they coincide only under a homogeneous boundary or one-way drive
+# CLAIM-970: Best buffer variable is not the gap block
 
 ## The claim
 

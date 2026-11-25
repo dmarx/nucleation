@@ -3,7 +3,15 @@ number: 755
 status: Proposed
 formerly:
 - CLAIM-tmp449rr
-title: 'Dynamical separation of time scales (fast deviations relax, leaving a slow collective variable) and economic separation (costly formation, cheap repeated use) are different and come apart both ways: a slow variable can save no work, and a result reused cheaply need not be an attractor of any dynamics; so amortization is not in general a separation of time scales in the sense of the owner''s scale-separation claim, and a constraint that is both is a further fact'
+title: 'Dynamical and economic separation differ'
+statement: >-
+  Dynamical separation of time scales (fast deviations relax, leaving a slow
+  collective variable) and economic separation (costly formation, cheap
+  repeated use) are different and come apart both ways: a slow variable can
+  save no work, and a result reused cheaply need not be an attractor of any
+  dynamics; so amortization is not in general a separation of time scales in
+  the sense of the owner's scale-separation claim, and a constraint that is
+  both is a further fact
 version: 2
 history:
 - version: 2
@@ -54,7 +62,7 @@ works:
 ---
 <!-- inactive-ok-file: ARG-121 CLAIM-478 CLAIM-756 — Proposed; cited in this filing of 2026-11-19 -->
 
-# CLAIM-755: Dynamical separation of time scales (fast deviations relax, leaving a slow collective variable) and economic separation (costly formation, cheap repeated use) are different and come apart both ways: a slow variable can save no work, and a result reused cheaply need not be an attractor of any dynamics; so amortization is not in general a separation of time scales in the sense of the owner's scale-separation claim, and a constraint that is both is a further fact
+# CLAIM-755: Dynamical and economic separation differ
 
 ## The claim
 

@@ -3,14 +3,16 @@ number: 1070
 status: Proposed
 formerly:
 - CLAIM-tmpcag0t
-title: 'The governance of an adaptive organization is partly the governance
-  of its temporal response structure, the rates at which it detects, absorbs,
+title: 'Governance includes temporal response structure'
+statement: >-
+  The governance of an adaptive organization is partly the governance of its
+  temporal response structure, the rates at which it detects, absorbs,
   resists, corrects, learns from and reorganizes in response to different
-  classes of demand: identity stabilization makes selected relations persistent
-  across faster fluctuations, adaptive capacity keeps effective control over
-  those relations, including their persistence and coupling, and an appropriate
-  architecture preserves the capacity to reshape that spectrum without losing
-  the conditions for viable organization'
+  classes of demand: identity stabilization makes selected relations
+  persistent across faster fluctuations, adaptive capacity keeps effective
+  control over those relations, including their persistence and coupling,
+  and an appropriate architecture preserves the capacity to reshape that
+  spectrum without losing the conditions for viable organization
 version: 2
 history:
 - version: 2
@@ -54,7 +56,7 @@ works:
 
 <!-- inactive-ok-file: CLAIM-711 CLAIM-758 CLAIM-1066 TERM-167 — Proposed; cited in this filing of 2026-11-23 (third share) -->
 
-# CLAIM-1070: The governance of an adaptive organization is partly the governance of its temporal response structure, the rates at which it detects, absorbs, resists, corrects, learns from and reorganizes in response to different classes of demand: identity stabilization makes selected relations persistent across faster fluctuations, adaptive capacity keeps effective control over those relations, including their persistence and coupling, and an appropriate architecture preserves the capacity to reshape that spectrum without losing the conditions for viable organization
+# CLAIM-1070: Governance includes temporal response structure
 
 ## The claim
 

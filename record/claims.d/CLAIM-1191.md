@@ -3,7 +3,16 @@ number: 1191
 status: Proposed
 formerly:
 - CLAIM-tmpx7oaj
-title: 'With the user''s commands held fixed, the information between a scroll gesture and the displacement it produces under a gain k does not prefer a comfortable gain: it is the same for every nonzero gain when the mapping is noiseless (infinite for a continuous command), and it rises with the size of the gain when the displacement carries additive Gaussian noise or is quantized to pixels; so any interior optimum a First Contact score finds over gain must come from how the user''s commands change with the gain'
+title: 'Gain alone has no comfortable optimum'
+statement: >-
+  With the user's commands held fixed, the information between a scroll
+  gesture and the displacement it produces under a gain k does not prefer a
+  comfortable gain: it is the same for every nonzero gain when the mapping
+  is noiseless (infinite for a continuous command), and it rises with the
+  size of the gain when the displacement carries additive Gaussian noise or
+  is quantized to pixels; so any interior optimum a First Contact score
+  finds over gain must come from how the user's commands change with the
+  gain
 version: 1
 role: thesis
 warrant: demonstrated
@@ -37,7 +46,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-419 — Proposed; the reading and the case this fills a gap in -->
 
-# CLAIM-1191: With the user's commands held fixed, the information between a scroll gesture and the displacement it produces under a gain k does not prefer a comfortable gain: it is the same for every nonzero gain when the mapping is noiseless (infinite for a continuous command), and it rises with the size of the gain when the displacement carries additive Gaussian noise or is quantized to pixels; so any interior optimum a First Contact score finds over gain must come from how the user's commands change with the gain
+# CLAIM-1191: Gain alone has no comfortable optimum
 
 ## The derivation
 

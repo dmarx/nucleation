@@ -3,7 +3,13 @@ number: 735
 formerly:
 - CLAIM-tmplidg6
 status: Proposed
-title: "Rights organize later justification: once justified, rights and normative powers become part of the structure within which further justification occurs, fixing which later undertakings are valid, by whom and with what effect, so rights can be prior in organization to later exercises of authority even where principles are prior to them in justification"
+title: 'Rights organize later justification'
+statement: >-
+  Rights organize later justification: once justified, rights and normative
+  powers become part of the structure within which further justification
+  occurs, fixing which later undertakings are valid, by whom and with what
+  effect, so rights can be prior in organization to later exercises of
+  authority even where principles are prior to them in justification
 version: 3
 history:
 - version: 2
@@ -57,7 +63,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-741 — filed from the exchange "Assess Depp Heard Abuse" (2026-11-17), new and Proposed -->
 
-# CLAIM-735: Rights organize later justification: once justified, rights and normative powers become part of the structure within which further justification occurs, fixing which later undertakings are valid, by whom and with what effect, so rights can be prior in organization to later exercises of authority even where principles are prior to them in justification
+# CLAIM-735: Rights organize later justification
 
 ## The claim
 

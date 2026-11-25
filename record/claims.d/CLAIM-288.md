@@ -3,7 +3,12 @@ number: 288
 status: Active
 formerly:
 - CLAIM-tmpzn7l2
-title: 'In a population whose operators each maximize an objective the modeller fixed, the norms the organization appears to maintain are set by the modeller, not by the organization: they can become its goals through their role in selecting what persists, but it does not produce or revise them'
+title: 'Modeller-fixed objectives set the norms'
+statement: >-
+  In a population whose operators each maximize an objective the modeller
+  fixed, the norms the organization appears to maintain are set by the
+  modeller, not by the organization: they can become its goals through their
+  role in selecting what persists, but it does not produce or revise them
 version: 7
 history:
 - version: 2
@@ -97,7 +102,7 @@ complements:
 <!-- inactive-ok-file: THEORY-628 — Proposed; Di Paolo's account, named in the history as the reading the grounds moved from -->
 <!-- inactive-ok-file: ARG-015 — Proposed; the argument this claim undercuts, split from it under ADR-061 -->
 
-# CLAIM-288: In a population whose operators each maximize an objective the modeller fixed, the norms the organization appears to maintain are set by the modeller, not by the organization: they can become its goals through their role in selecting what persists, but it does not produce or revise them
+# CLAIM-288: Modeller-fixed objectives set the norms
 
 ## The objection
 

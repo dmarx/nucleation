@@ -3,7 +3,13 @@ number: 871
 status: Proposed
 formerly:
 - CLAIM-tmpszhd7
-title: 'Taken in the descriptive and dynamical senses of individuation, relative to stated perturbations, the record individuates the Game of Life block and eater, so the Life constructions meet the first half of what would answer the achievement question for a formal system, provided a transient block is counted by the continuity of its cells'
+title: 'Life constructions meet the individuation half'
+statement: >-
+  Taken in the descriptive and dynamical senses of individuation, relative
+  to stated perturbations, the record individuates the Game of Life block
+  and eater, so the Life constructions meet the first half of what would
+  answer the achievement question for a formal system, provided a transient
+  block is counted by the continuity of its cells
 version: 1
 role: supposed
 warrant: interpretive
@@ -51,7 +57,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-311 CLAIM-870 CLAIM-869 — new; the study and the claims filed with this one -->
 <!-- inactive-ok-file: CASE-259 CASE-260 CLAIM-157 CLAIM-615 CLAIM-672 — Proposed; the constructions, the rival criterion, the transmission criterion and the claim the constructions ground -->
 
-# CLAIM-871: Taken in the descriptive and dynamical senses of individuation, relative to stated perturbations, the record individuates the Game of Life block and eater, so the Life constructions meet the first half of what would answer the achievement question for a formal system, provided a transient block is counted by the continuity of its cells
+# CLAIM-871: Life constructions meet the individuation half
 
 **Reading (a), an alternative to [CLAIM-870](CLAIM-870.md).**
 

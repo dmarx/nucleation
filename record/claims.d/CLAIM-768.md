@@ -3,7 +3,14 @@ number: 768
 status: Proposed
 formerly:
 - CLAIM-tmp4qvx2
-title: 'That an entry has stopped changing does not show what stopped it: settling is the decay of its contracted features onto the convention, and retention is the start''s value on what is copied exactly, so contraction and conservation both settle an entry and are told apart only by retention against a reference fixed outside the record''s later restatements, measured as a diagnostic of mechanism and not as a standard of quality'
+title: 'Settling does not show what stopped an entry'
+statement: >-
+  That an entry has stopped changing does not show what stopped it: settling
+  is the decay of its contracted features onto the convention, and retention
+  is the start's value on what is copied exactly, so contraction and
+  conservation both settle an entry and are told apart only by retention
+  against a reference fixed outside the record's later restatements,
+  measured as a diagnostic of mechanism and not as a standard of quality
 version: 2
 history:
 - version: 2
@@ -56,7 +63,7 @@ rests_on:
 <!-- inactive-ok-file: CLAIM-189 CLAIM-190 ARG-028 CLAIM-068 — Proposed or Superseded; cited for what each holds, as open -->
 <!-- inactive-ok-file: CLAIM-778 CLAIM-772 CLAIM-779 — Proposed; filed in this contribution of 2026-11-20 -->
 
-# CLAIM-768: That an entry has stopped changing does not show what stopped it: settling is the decay of its contracted features onto the convention, and retention is the start's value on what is copied exactly, so contraction and conservation both settle an entry and are told apart only by retention against a reference fixed outside the record's later restatements, measured as a diagnostic of mechanism and not as a standard of quality
+# CLAIM-768: Settling does not show what stopped an entry
 
 ## The claim
 

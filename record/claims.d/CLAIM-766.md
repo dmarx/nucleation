@@ -3,7 +3,14 @@ number: 766
 status: Proposed
 formerly:
 - CLAIM-tmpue255
-title: 'In children''s equal division of jointly earned spoils, the joint "we" supplies the motive to settle the division and the equal split supplies its content as the conspicuous solution the situation affords, so the obligation reading and the coordination reading are complementary, and at age three the conspicuous split is a known default rather than a focal point found by mutual expectation'
+title: 'Equal sharing: joint motive, conspicuous content'
+statement: >-
+  In children's equal division of jointly earned spoils, the joint "we"
+  supplies the motive to settle the division and the equal split supplies
+  its content as the conspicuous solution the situation affords, so the
+  obligation reading and the coordination reading are complementary, and at
+  age three the conspicuous split is a known default rather than a focal
+  point found by mutual expectation
 version: 1
 role: thesis
 warrant: interpretive
@@ -37,7 +44,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-495 THEORY-2111 THEORY-2112 THEORY-2121 THEORY-2108 THEORY-2113 LIT-2909 ARG-123 — Proposed or newly filed; the accounts this claim draws on and the argument for it -->
 
-# CLAIM-766: In children's equal division of jointly earned spoils, the joint "we" supplies the motive to settle the division and the equal split supplies its content as the conspicuous solution the situation affords, so the obligation reading and the coordination reading are complementary, and at age three the conspicuous split is a known default rather than a focal point found by mutual expectation
+# CLAIM-766: Equal sharing: joint motive, conspicuous content
 
 ## The claim
 

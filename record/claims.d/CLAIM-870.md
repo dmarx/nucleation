@@ -3,7 +3,13 @@ number: 870
 status: Proposed
 formerly:
 - CLAIM-tmpb80wu
-title: 'Taken as one system by the gap-isolated block test, the record does not individuate the Game of Life block, and the eater only at a one-generation horizon below a threshold Life does not set, so the Life constructions do not meet the first half of what would answer the achievement question and need another substrate or another criterion'
+title: 'Life constructions fail the individuation half'
+statement: >-
+  Taken as one system by the gap-isolated block test, the record does not
+  individuate the Game of Life block, and the eater only at a one-generation
+  horizon below a threshold Life does not set, so the Life constructions do
+  not meet the first half of what would answer the achievement question and
+  need another substrate or another criterion
 version: 1
 role: supposed
 warrant: interpretive
@@ -47,7 +53,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-311 CLAIM-871 CLAIM-869 — new; the study and the claims filed with this one -->
 <!-- inactive-ok-file: CLAIM-157 CASE-259 CASE-260 — Proposed; the criterion this reading takes and the constructions it is applied to -->
 
-# CLAIM-870: Taken as one system by the gap-isolated block test, the record does not individuate the Game of Life block, and the eater only at a one-generation horizon below a threshold Life does not set, so the Life constructions do not meet the first half of what would answer the achievement question and need another substrate or another criterion
+# CLAIM-870: Life constructions fail the individuation half
 
 **Reading (b), an alternative to [CLAIM-871](CLAIM-871.md).**
 

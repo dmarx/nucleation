@@ -3,7 +3,12 @@ number: 500
 status: Proposed
 formerly:
 - CLAIM-tmp4u6xx
-title: 'The governance-induced kind of frustration is not idle: some failures of an organization''s actual updates to meet demands that an admissible update would meet are explained by how influence is allocated, and not by step size, curvature, noise, conditioning or a fixed weighting rule'
+title: 'Governance-induced frustration is not idle'
+statement: >-
+  The governance-induced kind of frustration is not idle: some failures of
+  an organization's actual updates to meet demands that an admissible update
+  would meet are explained by how influence is allocated, and not by step
+  size, curvature, noise, conditioning or a fixed weighting rule
 version: 2
 history:
 - version: 2
@@ -51,7 +56,7 @@ summary: >-
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- ref::uses-file: TERM-060 — "governance-induced frustration", demands an admissible update would meet left unmet because of how influence is allocated, is TERM-060's frustration under the organization's governance -->
 
-# CLAIM-500: The governance-induced kind of frustration is not idle: some failures of an organization's actual updates to meet demands that an admissible update would meet are explained by how influence is allocated, and not by step size, curvature, noise, conditioning or a fixed weighting rule
+# CLAIM-500: Governance-induced frustration is not idle
 
 ## The claim
 

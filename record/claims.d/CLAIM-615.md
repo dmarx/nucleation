@@ -3,7 +3,17 @@ number: 615
 status: Proposed
 formerly:
 - CLAIM-tmpcdshj
-title: 'An organized individual''s identity over time is carried by the causal transmission of the relations that keep its repertoire realizable, not by its constituents or by any structure invariant across its realizations, so a structuralism about individuals has to be historical: the structure can change under maps that are not isomorphisms while the individual continues, two structurally identical copies can be two individuals, the transmitting organization may lie outside the individual, and when those relations part at a succession, different successors can continue different respects of it'
+title: 'Identity is carried by causal transmission'
+statement: >-
+  An organized individual's identity over time is carried by the causal
+  transmission of the relations that keep its repertoire realizable, not by
+  its constituents or by any structure invariant across its realizations, so
+  a structuralism about individuals has to be historical: the structure can
+  change under maps that are not isomorphisms while the individual
+  continues, two structurally identical copies can be two individuals, the
+  transmitting organization may lie outside the individual, and when those
+  relations part at a succession, different successors can continue
+  different respects of it
 version: 9
 history:
 - version: 2
@@ -145,7 +155,7 @@ works:
 <!-- inactive-ok-file: CLAIM-576 CLAIM-136 — Proposed; components, cited with their standing -->
 <!-- inactive-ok-file: CLAIM-983 CLAIM-986 ARG-216 — new; the two readings that fill the admission slot, and the argument they share (LEAD-163) -->
 
-# CLAIM-615: An organized individual's identity over time is carried by the causal transmission of the relations that keep its repertoire realizable, not by its constituents or by any structure invariant across its realizations, so a structuralism about individuals has to be historical: the structure can change under maps that are not isomorphisms while the individual continues, two structurally identical copies can be two individuals, the transmitting organization may lie outside the individual, and when those relations part at a succession, different successors can continue different respects of it
+# CLAIM-615: Identity is carried by causal transmission
 
 *Returned to CLAIM from [SYNTHESIS-001](../syntheses.d/SYNTHESIS-001.md) on 2026-11-08 ([ADR-084](../decisions.d/ADR-084.md)). The notes below that speak of a synthesis are the synthesis's own.*
 

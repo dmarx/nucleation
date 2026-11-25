@@ -3,7 +3,13 @@ number: 742
 formerly:
 - CLAIM-tmpsk25g
 status: Proposed
-title: "Blame and accountability are not the same thing: an agent's diminished culpability for the reasons it acts on does not diminish the wrongfulness of what it does, the claims of those it harms, or the need for correction, because the grounds of correction are not exhausted by the grounds of blame"
+title: 'Blame and accountability are not the same'
+statement: >-
+  Blame and accountability are not the same thing: an agent's diminished
+  culpability for the reasons it acts on does not diminish the wrongfulness
+  of what it does, the claims of those it harms, or the need for correction,
+  because the grounds of correction are not exhausted by the grounds of
+  blame
 version: 4
 history:
 - version: 2
@@ -68,7 +74,7 @@ summary: >-
 <!-- inactive-ok-file: QUESTION-068 — Deferred; the record's nearest entries, cited with their standing -->
 <!-- inactive-ok-file: CLAIM-624 THEORY-122 THEORY-147 THEORY-207 — Proposed; the record's nearest entries, cited with their standing -->
 
-# CLAIM-742: Blame and accountability are not the same thing: an agent's diminished culpability for the reasons it acts on does not diminish the wrongfulness of what it does, the claims of those it harms, or the need for correction, because the grounds of correction are not exhausted by the grounds of blame
+# CLAIM-742: Blame and accountability are not the same
 
 ## The claim
 

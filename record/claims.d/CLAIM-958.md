@@ -3,7 +3,15 @@ number: 958
 status: Proposed
 formerly:
 - CLAIM-tmps1ll3
-title: 'The closing-nucleus loop is autocatalysis, not organizational closure in the sense the question on self-maintaining nuclei distinguishes: the nucleus speeds its own production by way of the teacher, on a single material flux, and reading any two catalysts that make each other as a closed set of constraints would erase the line the question draws between a product that enhances its own production and constraints that maintain one another'
+title: 'Closing-nucleus loop is autocatalysis'
+statement: >-
+  The closing-nucleus loop is autocatalysis, not organizational closure in
+  the sense the question on self-maintaining nuclei distinguishes: the
+  nucleus speeds its own production by way of the teacher, on a single
+  material flux, and reading any two catalysts that make each other as a
+  closed set of constraints would erase the line the question draws between
+  a product that enhances its own production and constraints that maintain
+  one another
 version: 1
 history:
 - version: 1
@@ -42,7 +50,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-365 CLAIM-956 — new; the run this reading is of, and the reading it objects to -->
 
-# CLAIM-958: The closing-nucleus loop is autocatalysis, not organizational closure in the sense the question on self-maintaining nuclei distinguishes: the nucleus speeds its own production by way of the teacher, on a single material flux, and reading any two catalysts that make each other as a closed set of constraints would erase the line the question draws between a product that enhances its own production and constraints that maintain one another
+# CLAIM-958: Closing-nucleus loop is autocatalysis
 
 ## The claim
 

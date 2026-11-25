@@ -3,7 +3,14 @@ number: 1032
 status: Proposed
 formerly:
 - CLAIM-tmp62ldm
-title: 'In the robust interrogation game the worst query distribution against any fixed response policy is a single query, and when each query can be answered on its own the game reduces to the worst query''s best response; it is a game, with a mixed query strategy at equilibrium, only when one prepared policy must serve several queries through shared state or resources, or when the permitted query distributions are restricted'
+title: 'Interrogation is a game only with shared state'
+statement: >-
+  In the robust interrogation game the worst query distribution against any
+  fixed response policy is a single query, and when each query can be
+  answered on its own the game reduces to the worst query's best response;
+  it is a game, with a mixed query strategy at equilibrium, only when one
+  prepared policy must serve several queries through shared state or
+  resources, or when the permitted query distributions are restricted
 version: 1
 role: thesis
 warrant: demonstrated
@@ -37,7 +44,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-1012 ARG-230 — Proposed; the formulation this analyses and the argument for it, filed with it -->
 
-# CLAIM-1032: In the robust interrogation game the worst query distribution against any fixed response policy is a single query, and when each query can be answered on its own the game reduces to the worst query's best response; it is a game, with a mixed query strategy at equilibrium, only when one prepared policy must serve several queries through shared state or resources, or when the permitted query distributions are restricted
+# CLAIM-1032: Interrogation is a game only with shared state
 
 ## The gap it fills
 

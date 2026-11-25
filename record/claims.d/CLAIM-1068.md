@@ -3,7 +3,12 @@ number: 1068
 status: Proposed
 formerly:
 - CLAIM-tmpc5mmp
-title: 'In the record''s exchanges a code did not bypass retrieval by content: content the record held under codes was re-derived without them in 20 of 48 reconstructed exchanges, because the collaborator had to find the code by what the content said'
+title: 'Codes did not bypass retrieval by content'
+statement: >-
+  In the record's exchanges a code did not bypass retrieval by content:
+  content the record held under codes was re-derived without them in 20 of
+  48 reconstructed exchanges, because the collaborator had to find the code
+  by what the content said
 version: 1
 role: counter
 warrant: empirical
@@ -37,7 +42,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-180 — Proposed; the claim this objection targets, cited as under test -->
 <!-- inactive-ok-file: CLAIM-1023 — new; filed by the lead run of 2026-11-23 -->
 
-# CLAIM-1068: In the record's exchanges a code did not bypass retrieval by content: content the record held under codes was re-derived without them in 20 of 48 reconstructed exchanges, because the collaborator had to find the code by what the content said
+# CLAIM-1068: Codes did not bypass retrieval by content
 
 ## The claim
 

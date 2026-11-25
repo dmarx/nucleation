@@ -3,7 +3,9 @@ number: 12
 status: Superseded
 formerly:
 - CLAIM-tmp2xzhw
-title: 'Will is a second- or higher-order attractor in an agent''s dynamics'
+title: 'Will is a higher-order attractor'
+statement: >-
+  Will is a second- or higher-order attractor in an agent's dynamics
 version: 1
 role: thesis
 warrant: interpretive
@@ -27,7 +29,7 @@ summary: >-
 <!-- ref::uses-file: TERM-003 — stated in "will, as a second- or higher-order attractor", the definition current when this claim was written; it has since been superseded -->
 <!-- inactive-ok-file: CLAIM-010 — Rejected; answered or abandoned, and cited as the history this entry answers -->
 
-# CLAIM-012: Will is a second- or higher-order attractor in an agent's dynamics
+# CLAIM-012: Will is a higher-order attractor
 
 ## The claim
 

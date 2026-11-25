@@ -3,7 +3,17 @@ number: 754
 status: Proposed
 formerly:
 - CLAIM-tmp1l2s7
-title: 'A learner''s acquired organization fixes three resource-indexed frontiers that move separately: the operational (what it can reliably do now within an operating budget), the developmental (what it can come to do reliably within a further acquisition budget, given a declared interface for what it may learn from) and the inquiry frontier (what it can formulate and pursue); so no scalar measure of competence or plasticity ranks learners or learning processes independently of context, though one can once a task distribution, resource costs, horizon and evaluative preferences are declared'
+title: 'Three separately moving learner frontiers'
+statement: >-
+  A learner's acquired organization fixes three resource-indexed frontiers
+  that move separately: the operational (what it can reliably do now within
+  an operating budget), the developmental (what it can come to do reliably
+  within a further acquisition budget, given a declared interface for what
+  it may learn from) and the inquiry frontier (what it can formulate and
+  pursue); so no scalar measure of competence or plasticity ranks learners
+  or learning processes independently of context, though one can once a task
+  distribution, resource costs, horizon and evaluative preferences are
+  declared
 version: 2
 history:
 - version: 2
@@ -59,7 +69,7 @@ works:
 <!-- inactive-ok-file: CASE-294 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-697 CLAIM-758 — Proposed; cited in this filing of 2026-11-19 -->
 
-# CLAIM-754: A learner's acquired organization fixes three resource-indexed frontiers that move separately: the operational (what it can reliably do now within an operating budget), the developmental (what it can come to do reliably within a further acquisition budget, given a declared interface for what it may learn from) and the inquiry frontier (what it can formulate and pursue); so no scalar measure of competence or plasticity ranks learners or learning processes independently of context, though one can once a task distribution, resource costs, horizon and evaluative preferences are declared
+# CLAIM-754: Three separately moving learner frontiers
 
 ## The claim
 

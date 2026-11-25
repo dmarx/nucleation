@@ -1,6 +1,14 @@
 ---
 status: Active
-title: 'In a comparison of preserving an arrangement against transforming it, uncertainty about the alternative''s costs together with an irreversible transition cost gives waiting to learn an option value, so transforming can beat preserving in expectation while waiting beats both; when the status quo irreversibly erodes the capacity to transform, the ranking can reverse, so symmetric scrutiny requires pricing irreversibility on both sides'
+title: 'Irreversibility gives waiting an option value'
+statement: >-
+  In a comparison of preserving an arrangement against transforming it,
+  uncertainty about the alternative's costs together with an irreversible
+  transition cost gives waiting to learn an option value, so transforming
+  can beat preserving in expectation while waiting beats both; when the
+  status quo irreversibly erodes the capacity to transform, the ranking can
+  reverse, so symmetric scrutiny requires pricing irreversibility on both
+  sides
 version: 2
 history:
 - version: 2
@@ -35,7 +43,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-tmpdzcj6 — Proposed, Deferred or Rejected; filed or cited in the filing of the exchange 'Memes, Contracts, and Systemic Normativity', whatever their standing -->
 
-# CLAIM-tmp8mpgs: In a comparison of preserving an arrangement against transforming it, uncertainty about the alternative's costs together with an irreversible transition cost gives waiting to learn an option value, so transforming can beat preserving in expectation while waiting beats both; when the status quo irreversibly erodes the capacity to transform, the ranking can reverse, so symmetric scrutiny requires pricing irreversibility on both sides
+# CLAIM-tmp8mpgs: Irreversibility gives waiting an option value
 
 ## The gap
 

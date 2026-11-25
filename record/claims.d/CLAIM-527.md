@@ -3,7 +3,13 @@ number: 527
 status: Proposed
 formerly:
 - CLAIM-tmptb7y2
-title: 'Viable reach, valence and emotion are three quantities in an organization, not one: an emotion is a claim to precedence, system valence is movement along the ordering that wins the negotiation, and a change in what the organization can viably reach is neither, so an organization can run ahead along its prevailing ordering while its viable reach contracts'
+title: 'Viable reach, valence and emotion are three'
+statement: >-
+  Viable reach, valence and emotion are three quantities in an organization,
+  not one: an emotion is a claim to precedence, system valence is movement
+  along the ordering that wins the negotiation, and a change in what the
+  organization can viably reach is neither, so an organization can run ahead
+  along its prevailing ordering while its viable reach contracts
 version: 2
 history:
 - version: 2
@@ -58,7 +64,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-440 CLAIM-442 TERM-076 THEORY-1280 CLAIM-439 CLAIM-446 — Proposed or Open; the potential account this rests on, and the readings and neighbours set beside it -->
 
-# CLAIM-527: Viable reach, valence and emotion are three quantities in an organization, not one: an emotion is a claim to precedence, system valence is movement along the ordering that wins the negotiation, and a change in what the organization can viably reach is neither, so an organization can run ahead along its prevailing ordering while its viable reach contracts
+# CLAIM-527: Viable reach, valence and emotion are three
 
 ## The claim
 

@@ -3,7 +3,13 @@ number: 468
 status: Proposed
 formerly:
 - CLAIM-tmpra2cf
-title: 'Valence intensity need not be the strength of the prevailing ordering''s potential: in Hesp et al.''s model negative valence is a weakening of the preference ordering''s precision with a fall back to habit, and positive affect is reported to lower a goal''s priority, so for either sign stronger valence can go with a weaker hold of the ordering'
+title: 'Valence intensity need not be potential strength'
+statement: >-
+  Valence intensity need not be the strength of the prevailing ordering's
+  potential: in Hesp et al.'s model negative valence is a weakening of the
+  preference ordering's precision with a fall back to habit, and positive
+  affect is reported to lower a goal's priority, so for either sign stronger
+  valence can go with a weaker hold of the ordering
 version: 3
 history:
 - version: 2
@@ -65,7 +71,7 @@ summary: >-
   Hesp's fear case, confident flight, fits the clause.
 ---
 
-# CLAIM-468: Valence intensity need not be the strength of the prevailing ordering's potential: in Hesp et al.'s model negative valence is a weakening of the preference ordering's precision with a fall back to habit, and positive affect is reported to lower a goal's priority, so for either sign stronger valence can go with a weaker hold of the ordering
+# CLAIM-468: Valence intensity need not be potential strength
 
 ## The claim
 

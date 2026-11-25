@@ -3,7 +3,14 @@ number: 1200
 status: Proposed
 formerly:
 - CLAIM-tmpywoih
-title: 'A governed record can bring a contributor''s immediate reward in producing an idea closer to the longer-run value of a coherent inquiry, by making that structure consequential at the moment of contribution, and so supply, on the record''s flow conjecture, a condition for flow in collaborative inquiry; the same record widens the gap when filing is tedious or its grammar distorts the idea'
+title: 'A governed record can align reward with value'
+statement: >-
+  A governed record can bring a contributor's immediate reward in producing
+  an idea closer to the longer-run value of a coherent inquiry, by making
+  that structure consequential at the moment of contribution, and so supply,
+  on the record's flow conjecture, a condition for flow in collaborative
+  inquiry; the same record widens the gap when filing is tedious or its
+  grammar distorts the idea
 version: 1
 role: supposed
 warrant: interpretive
@@ -37,7 +44,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-162 ARG-016 ARG-237 CLAIM-872 — Proposed; the premise, its open objection, the argument filed beside this claim and neighbours -->
 
-# CLAIM-1200: A governed record can bring a contributor's immediate reward in producing an idea closer to the longer-run value of a coherent inquiry, by making that structure consequential at the moment of contribution, and so supply, on the record's flow conjecture, a condition for flow in collaborative inquiry; the same record widens the gap when filing is tedious or its grammar distorts the idea
+# CLAIM-1200: A governed record can align reward with value
 
 ## The supposition
 

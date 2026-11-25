@@ -3,7 +3,13 @@ number: 672
 status: Proposed
 formerly:
 - CLAIM-tmp9os8f
-title: 'How a form is kept in being is not fixed by the form: the same still form can persist as a fixed point, by repairing itself after a strike, or by being rebuilt by a larger pattern it serves, and taking on a constitutive role can change which of these holds, so a form''s stabilization and its role, though they can come apart, are not independent'
+title: 'Stabilization and role are not independent'
+statement: >-
+  How a form is kept in being is not fixed by the form: the same still form
+  can persist as a fixed point, by repairing itself after a strike, or by
+  being rebuilt by a larger pattern it serves, and taking on a constitutive
+  role can change which of these holds, so a form's stabilization and its
+  role, though they can come apart, are not independent
 version: 1
 role: thesis
 warrant: demonstrated
@@ -45,7 +51,7 @@ summary: >-
 
 <!-- inactive-ok-file: CASE-260 CASE-259 ARG-101 — Proposed; the constructions and the argument filed with this claim -->
 
-# CLAIM-672: How a form is kept in being is not fixed by the form: the same still form can persist as a fixed point, by repairing itself after a strike, or by being rebuilt by a larger pattern it serves, and taking on a constitutive role can change which of these holds, so a form's stabilization and its role, though they can come apart, are not independent
+# CLAIM-672: Stabilization and role are not independent
 
 ## The claim
 

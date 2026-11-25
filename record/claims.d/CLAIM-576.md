@@ -3,7 +3,15 @@ number: 576
 status: Proposed
 formerly:
 - CLAIM-tmpisvzb
-title: 'What characterizes a constrained system is a repertoire of realizable processes, indexed by resources and dependent on its architecture, rather than its set or space of states, and the repertoire changes in three ways an equivalence between such systems must keep apart: a budget makes an existing transformation affordable, observational or computational capability makes an existing possibility discoverable or controllable, and a change of architecture alters which transformations are possible'
+title: 'A system is its process repertoire'
+statement: >-
+  What characterizes a constrained system is a repertoire of realizable
+  processes, indexed by resources and dependent on its architecture, rather
+  than its set or space of states, and the repertoire changes in three ways
+  an equivalence between such systems must keep apart: a budget makes an
+  existing transformation affordable, observational or computational
+  capability makes an existing possibility discoverable or controllable, and
+  a change of architecture alters which transformations are possible
 version: 4
 history:
 - version: 2
@@ -86,7 +94,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-194 CASE-198 CLAIM-477 — Proposed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
 
-# CLAIM-576: What characterizes a constrained system is a repertoire of realizable processes, indexed by resources and dependent on its architecture, rather than its set or space of states, and the repertoire changes in three ways an equivalence between such systems must keep apart: a budget makes an existing transformation affordable, observational or computational capability makes an existing possibility discoverable or controllable, and a change of architecture alters which transformations are possible
+# CLAIM-576: A system is its process repertoire
 
 ## The claim
 

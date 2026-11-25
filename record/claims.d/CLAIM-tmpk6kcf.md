@@ -1,6 +1,13 @@
 ---
 status: Proposed
-title: In a luria record a citation by code, read on the branch or from another record, resolves to the entry's current version and not to the version cited, because entries are rewritten to stay true, and a content pin detects that a cited document changed since it was vouched for without making the vouched version reachable, so a citation that must reach the version it relied on has to name a commit
+title: 'Code citations resolve to the current version'
+statement: >-
+  In a luria record a citation by code, read on the branch or from another
+  record, resolves to the entry's current version and not to the version
+  cited, because entries are rewritten to stay true, and a content pin
+  detects that a cited document changed since it was vouched for without
+  making the vouched version reachable, so a citation that must reach the
+  version it relied on has to name a commit
 version: 2
 history:
 - version: 2
@@ -41,7 +48,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-789 CLAIM-tmp48g02 CLAIM-tmpgli4k CLAIM-tmpnqzvj CLAIM-tmpjf44i — Proposed; the claim on exact copying, A45's reference-implementation claim, A's claims on citing and tagging a version, and the owner's thesis -->
 
-# CLAIM-tmpk6kcf: In a luria record a citation by code, read on the branch or from another record, resolves to the entry's current version and not to the version cited, because entries are rewritten to stay true, and a content pin detects that a cited document changed since it was vouched for without making the vouched version reachable, so a citation that must reach the version it relied on has to name a commit
+# CLAIM-tmpk6kcf: Code citations resolve to the current version
 
 ## The gap
 

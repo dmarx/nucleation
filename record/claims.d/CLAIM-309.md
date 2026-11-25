@@ -3,11 +3,13 @@ number: 309
 status: Active
 formerly:
 - CLAIM-tmpd7v8w
-title: 'How good a mixture is and how discriminable it is from its diluent come
-  apart: under linear mixing a smoothie''s distance from milk only shrinks as milk
-  is added, so a preference that rises and then falls with milk is over the ratio
-  and cannot be a d′, and the signal-detection reading of the owner''s smoothie
-  line reverses one of its directions'
+title: 'Mixture quality is not discriminability'
+statement: >-
+  How good a mixture is and how discriminable it is from its diluent come
+  apart: under linear mixing a smoothie's distance from milk only shrinks as
+  milk is added, so a preference that rises and then falls with milk is over
+  the ratio and cannot be a d′, and the signal-detection reading of the
+  owner's smoothie line reverses one of its directions
 version: 1
 role: thesis
 warrant: demonstrated
@@ -37,7 +39,7 @@ summary: >-
   parable. MOM's record never mentions the smoothie note.
 ---
 
-# CLAIM-309: How good a mixture is and how discriminable it is from its diluent come apart: under linear mixing a smoothie's distance from milk only shrinks as milk is added, so a preference that rises and then falls with milk is over the ratio and cannot be a d′, and the signal-detection reading of the owner's smoothie line reverses one of its directions
+# CLAIM-309: Mixture quality is not discriminability
 
 ## The claim
 

@@ -3,7 +3,13 @@ number: 1182
 status: Proposed
 formerly:
 - CLAIM-tmpv8nto
-title: 'A comparison of genetically related with unrelated parent–child pairs, as in donor-gamete and adoption designs, can attribute an effect to what the gamete carries but cannot by itself divide it between DNA and a germline epigenetic mark, since both travel with the same parent; dividing them needs one person''s gametes formed before and after the exposure'
+title: 'Kinship designs cannot split DNA from marks'
+statement: >-
+  A comparison of genetically related with unrelated parent–child pairs, as
+  in donor-gamete and adoption designs, can attribute an effect to what the
+  gamete carries but cannot by itself divide it between DNA and a germline
+  epigenetic mark, since both travel with the same parent; dividing them
+  needs one person's gametes formed before and after the exposure
 version: 1
 role: thesis
 warrant: demonstrated
@@ -41,7 +47,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-2297 THEORY-2280 CLAIM-644 CLAIM-1017 — filed by the lead run of 2026-11-23 -->
 
-# CLAIM-1182: A comparison of genetically related with unrelated parent–child pairs, as in donor-gamete and adoption designs, can attribute an effect to what the gamete carries but cannot by itself divide it between DNA and a germline epigenetic mark, since both travel with the same parent; dividing them needs one person's gametes formed before and after the exposure
+# CLAIM-1182: Kinship designs cannot split DNA from marks
 
 ## The claim
 

@@ -3,7 +3,15 @@ number: 1177
 status: Proposed
 formerly:
 - CLAIM-tmpumpxw
-title: "Adaptive governance is the maintenance of an ecology of partially independent inquiry-and-response capacities, differentiated enough for parallel exploration and integrated enough for coordinated action, in which persisted perspectives keep problem formulations and paths of development that the prevailing organization's demands for resources and authority would otherwise extinguish, so their value lies in keeping different capacities to discover which questions are worth asking"
+title: 'Adaptive governance maintains an inquiry ecology'
+statement: >-
+  Adaptive governance is the maintenance of an ecology of partially
+  independent inquiry-and-response capacities, differentiated enough for
+  parallel exploration and integrated enough for coordinated action, in
+  which persisted perspectives keep problem formulations and paths of
+  development that the prevailing organization's demands for resources and
+  authority would otherwise extinguish, so their value lies in keeping
+  different capacities to discover which questions are worth asking
 version: 1
 role: thesis
 warrant: interpretive
@@ -42,7 +50,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-1004 CLAIM-1001 CLAIM-1015 CLAIM-721 TERM-167 CLAIM-1038 TERM-158 — Proposed; the claims this rests on, complements or is read against -->
 
-# CLAIM-1177: Adaptive governance is the maintenance of an ecology of partially independent inquiry-and-response capacities, differentiated enough for parallel exploration and integrated enough for coordinated action, in which persisted perspectives keep problem formulations and paths of development that the prevailing organization's demands for resources and authority would otherwise extinguish, so their value lies in keeping different capacities to discover which questions are worth asking
+# CLAIM-1177: Adaptive governance maintains an inquiry ecology
 
 ## The claim
 

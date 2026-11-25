@@ -3,7 +3,12 @@ number: 107
 status: Active
 formerly:
 - CLAIM-tmpuwwjx
-title: 'Under Markov reconstruction kernels, an observable''s expectation is invariant when the observable is harmonic (K f = f), and drifts by at most Σ ε_i when ‖K_i f − f‖∞ ≤ ε_i; on a finite irreducible chain only constants are harmonic'
+title: 'Harmonic observables keep their expectation'
+statement: >-
+  Under Markov reconstruction kernels, an observable's expectation is
+  invariant when the observable is harmonic (K f = f), and drifts by at most
+  Σ ε_i when ‖K_i f − f‖∞ ≤ ε_i; on a finite irreducible chain only
+  constants are harmonic
 version: 4
 history:
 - version: 2
@@ -70,7 +75,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: CLAIM-059 — Proposed; cited as the open regimes claim that several closed classes would presuppose -->
 
-# CLAIM-107: Under Markov reconstruction kernels, an observable's expectation is invariant when the observable is harmonic (K f = f), and drifts by at most Σ ε_i when ‖K_i f − f‖∞ ≤ ε_i; on a finite irreducible chain only constants are harmonic
+# CLAIM-107: Harmonic observables keep their expectation
 
 ## The claim
 

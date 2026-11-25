@@ -3,7 +3,13 @@ number: 1132
 status: Proposed
 formerly:
 - CLAIM-tmplxi60
-title: "An organization's possibility space is shaped not only by what its members know how to do but by what they can afford to make intelligible to those empowered to let them do it, so adaptive governance needs maintained pathways by which locally intelligible inquiry acquires evidence, resources and authority"
+title: 'Possibility is shaped by affordable legibility'
+statement: >-
+  An organization's possibility space is shaped not only by what its members
+  know how to do but by what they can afford to make intelligible to those
+  empowered to let them do it, so adaptive governance needs maintained
+  pathways by which locally intelligible inquiry acquires evidence,
+  resources and authority
 version: 1
 role: thesis
 warrant: interpretive
@@ -38,7 +44,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-996 CLAIM-1117 CLAIM-1140 CLAIM-1119 CASE-388 — Proposed; the premises and the proposed study -->
 
-# CLAIM-1132: An organization's possibility space is shaped not only by what its members know how to do but by what they can afford to make intelligible to those empowered to let them do it, so adaptive governance needs maintained pathways by which locally intelligible inquiry acquires evidence, resources and authority
+# CLAIM-1132: Possibility is shaped by affordable legibility
 
 ## The claim
 

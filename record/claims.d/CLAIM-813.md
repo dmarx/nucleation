@@ -3,7 +3,14 @@ number: 813
 status: Proposed
 formerly:
 - CLAIM-tmpcgvcp
-title: 'Sloppiness and singularity are different properties of a statistical model: sloppiness is a spread of small but nonzero Fisher eigenvalues in a regular model, singularity is rank loss on a stratum of parameter space, so a model can be sloppy everywhere and singular nowhere or singular everywhere with no spread, and at a singular point the Fisher spectrum does not give the learning coefficient'
+title: 'Sloppiness is not singularity'
+statement: >-
+  Sloppiness and singularity are different properties of a statistical
+  model: sloppiness is a spread of small but nonzero Fisher eigenvalues in a
+  regular model, singularity is rank loss on a stratum of parameter space,
+  so a model can be sloppy everywhere and singular nowhere or singular
+  everywhere with no spread, and at a singular point the Fisher spectrum
+  does not give the learning coefficient
 version: 1
 role: thesis
 warrant: demonstrated
@@ -51,7 +58,7 @@ summary: >-
 
 <!-- inactive-ok-file: THEORY-2167 — Proposed or new; the reading of the 2023 review by Quinn and colleagues, 2026-11-22 -->
 
-# CLAIM-813: Sloppiness and singularity are different properties of a statistical model: sloppiness is a spread of small but nonzero Fisher eigenvalues in a regular model, singularity is rank loss on a stratum of parameter space, so a model can be sloppy everywhere and singular nowhere or singular everywhere with no spread, and at a singular point the Fisher spectrum does not give the learning coefficient
+# CLAIM-813: Sloppiness is not singularity
 
 ## The claim
 

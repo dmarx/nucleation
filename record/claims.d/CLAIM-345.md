@@ -3,7 +3,12 @@ number: 345
 status: Active
 formerly:
 - CLAIM-tmp1glr8
-title: 'Equal controllability rank does not fix the cost of control: for x_{t+1} = x_t + b·u the least quadratic effort for a displacement Δ is Δ²/b², unbounded as b → 0 while the system stays controllable, and in general the least effort is Δxᵀ W_T^† Δx, set by the Gramian and not by its rank'
+title: 'Equal controllability rank, unequal cost'
+statement: >-
+  Equal controllability rank does not fix the cost of control: for x_{t+1} =
+  x_t + b·u the least quadratic effort for a displacement Δ is Δ²/b²,
+  unbounded as b → 0 while the system stays controllable, and in general the
+  least effort is Δxᵀ W_T^† Δx, set by the Gramian and not by its rank
 version: 3
 history:
 - version: 2
@@ -54,7 +59,7 @@ works:
 ---
 <!-- inactive-ok-file: CASE-214 — Proposed or new; entries of 2026-11-05 filed from the pasted synthesis on constraint architectures, cited as open -->
 
-# CLAIM-345: Equal controllability rank does not fix the cost of control: for x_{t+1} = x_t + b·u the least quadratic effort for a displacement Δ is Δ²/b², unbounded as b → 0 while the system stays controllable, and in general the least effort is Δxᵀ W_T^† Δx, set by the Gramian and not by its rank
+# CLAIM-345: Equal controllability rank, unequal cost
 
 ## The claim
 

@@ -3,7 +3,13 @@ number: 1199
 status: Proposed
 formerly:
 - CLAIM-tmpyf8s0
-title: 'The crossed intervention on a small conventionally trained network shows the regulation of conflict shared between the network''s learned state and the optimizer, in proportions that the training optimizer sets, so that in conventional training most of that governance does not fall outside the network as a rule'
+title: 'Optimizer and network share conflict regulation'
+statement: >-
+  The crossed intervention on a small conventionally trained network shows
+  the regulation of conflict shared between the network's learned state and
+  the optimizer, in proportions that the training optimizer sets, so that in
+  conventional training most of that governance does not fall outside the
+  network as a rule
 version: 1
 history:
 - version: 1
@@ -44,7 +50,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-367 — Proposed; the claim this reading objects to -->
 <!-- inactive-ok-file: CLAIM-1030 CLAIM-1138 — new; the result and the alternative reading filed by the lead run of 2026-11-23 -->
 
-# CLAIM-1199: The crossed intervention on a small conventionally trained network shows the regulation of conflict shared between the network's learned state and the optimizer, in proportions that the training optimizer sets, so that in conventional training most of that governance does not fall outside the network as a rule
+# CLAIM-1199: Optimizer and network share conflict regulation
 
 ## The claim
 

@@ -3,7 +3,14 @@ number: 347
 status: Active
 formerly:
 - CLAIM-tmp55mls
-title: 'Frustration among an organization''s demands is an ordinal fact before it is a quantity: the jointly satisfiable sets of demands form a downward-closed complex whose minimal non-faces are the minimal conflicts, relief is strict enlargement of that complex for the same declared demands, reorganizations that relieve different conflicts are incomparable, and dropping or suppressing a demand is not relief'
+title: 'Frustration is ordinal before quantitative'
+statement: >-
+  Frustration among an organization's demands is an ordinal fact before it
+  is a quantity: the jointly satisfiable sets of demands form a
+  downward-closed complex whose minimal non-faces are the minimal conflicts,
+  relief is strict enlargement of that complex for the same declared
+  demands, reorganizations that relieve different conflicts are
+  incomparable, and dropping or suppressing a demand is not relief
 version: 5
 history:
 - version: 2
@@ -103,7 +110,7 @@ works:
 <!-- inactive-ok-file: THEORY-1353 — Proposed or Open; cited from the reading of Dong (2026) as open -->
 <!-- inactive-ok-file: THEORY-1761 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
-# CLAIM-347: Frustration among an organization's demands is an ordinal fact before it is a quantity: the jointly satisfiable sets of demands form a downward-closed complex whose minimal non-faces are the minimal conflicts, relief is strict enlargement of that complex for the same declared demands, reorganizations that relieve different conflicts are incomparable, and dropping or suppressing a demand is not relief
+# CLAIM-347: Frustration is ordinal before quantitative
 
 <!-- ref::uses-file: TERM-060 — the claim is stated in the ordinal sense of frustration the term fixes -->
 

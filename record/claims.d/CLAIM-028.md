@@ -3,7 +3,11 @@ number: 28
 status: Active
 formerly:
 - CLAIM-tmp8w5c7
-title: 'No result from the exchange''s four experiments reached a later draft: the authored chains were excluded by rule, and the synthetic constructions were dropped without a stated reason'
+title: 'No experiment reached a later draft'
+statement: >-
+  No result from the exchange's four experiments reached a later draft: the
+  authored chains were excluded by rule, and the synthetic constructions
+  were dropped without a stated reason
 version: 1
 role: granted
 warrant: empirical
@@ -26,7 +30,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-117 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
-# CLAIM-028: No result from the exchange's four experiments reached a later draft: the authored chains were excluded by rule, and the synthetic constructions were dropped without a stated reason
+# CLAIM-028: No experiment reached a later draft
 
 ## The claim
 

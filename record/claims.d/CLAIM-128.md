@@ -3,7 +3,11 @@ number: 128
 status: Proposed
 formerly:
 - CLAIM-tmp0d575
-title: 'No single ranking of translations holds across tasks: where distortion profiles trade off, only a task''s priorities rank them, and the theory of fidelity fixes no weighting'
+title: 'No single ranking of translations across tasks'
+statement: >-
+  No single ranking of translations holds across tasks: where distortion
+  profiles trade off, only a task's priorities rank them, and the theory of
+  fidelity fixes no weighting
 version: 3
 history:
 - version: 2
@@ -62,7 +66,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-170 — Proposed; Jakobson's point, CLAIM-033's prior statement -->
 <!-- inactive-ok-file: CLAIM-033 — Proposed; open, and cited as open: the claim is under test, not settled -->
 
-# CLAIM-128: No single ranking of translations holds across tasks: where distortion profiles trade off, only a task's priorities rank them, and the theory of fidelity fixes no weighting
+# CLAIM-128: No single ranking of translations across tasks
 
 ## The claim
 

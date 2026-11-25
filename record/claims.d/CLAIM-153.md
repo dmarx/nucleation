@@ -1,7 +1,11 @@
 ---
 number: 153
 status: Active
-title: 'Failure of a self to hold together across contexts is a monodromy around a cycle of contexts: any two locally consistent contexts glue, and the minimal model of the obstruction needs three'
+title: 'Self-incoherence as monodromy over three contexts'
+statement: >-
+  Failure of a self to hold together across contexts is a monodromy around a
+  cycle of contexts: any two locally consistent contexts glue, and the
+  minimal model of the obstruction needs three
 version: 1
 history:
 - version: 1
@@ -50,7 +54,7 @@ complements:
 ---
 <!-- inactive-ok-file: CLAIM-163 — Proposed; the open objection this result partly answers -->
 
-# CLAIM-153: Failure of a self to hold together across contexts is a monodromy around a cycle of contexts: any two locally consistent contexts glue, and the minimal model of the obstruction needs three
+# CLAIM-153: Self-incoherence as monodromy over three contexts
 
 ## The claim
 

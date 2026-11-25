@@ -3,7 +3,15 @@ number: 975
 status: Proposed
 formerly:
 - CLAIM-tmpcmt21
-title: 'In liquid types, as in Freeman and Pfenning''s refinement types, checking moves no program, and a refinement that fails to check does not show that the program fails it: inference returns Failure whenever no conjunction of the given qualifiers can be verified by a conservative check, so the failure may lie in the program, in the qualifier set or in the checker, and every remedy the paper names, adding a qualifier, inserting a run-time check or changing the program, lies outside the checker'
+title: 'Failed refinement check doesn''t convict program'
+statement: >-
+  In liquid types, as in Freeman and Pfenning's refinement types, checking
+  moves no program, and a refinement that fails to check does not show that
+  the program fails it: inference returns Failure whenever no conjunction of
+  the given qualifiers can be verified by a conservative check, so the
+  failure may lie in the program, in the qualifier set or in the checker,
+  and every remedy the paper names, adding a qualifier, inserting a run-time
+  check or changing the program, lies outside the checker
 version: 1
 role: counter
 warrant: interpretive
@@ -45,7 +53,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-2262 CLAIM-949 CLAIM-965 TERM-151 — Proposed; the reading this rests on, the claim it objects to, the counter it widens, and the term it is stated against -->
 
-# CLAIM-975: In liquid types, as in Freeman and Pfenning's refinement types, checking moves no program, and a refinement that fails to check does not show that the program fails it: inference returns Failure whenever no conjunction of the given qualifiers can be verified by a conservative check, so the failure may lie in the program, in the qualifier set or in the checker, and every remedy the paper names, adding a qualifier, inserting a run-time check or changing the program, lies outside the checker
+# CLAIM-975: Failed refinement check doesn't convict program
 
 ## The claim
 

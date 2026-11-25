@@ -3,7 +3,12 @@ number: 1006
 status: Proposed
 formerly:
 - CLAIM-tmp24fw0
-title: 'The only production testimony found on how the Juggernaut line reached the film is the actor''s: the director had seen the fan redub online and phoned him to shoot the line on a single pickup day after principal photography, and no production voice names a conveyor, a test screening or the crew'
+title: 'Only the actor testifies on the Juggernaut line'
+statement: >-
+  The only production testimony found on how the Juggernaut line reached the
+  film is the actor's: the director had seen the fan redub online and phoned
+  him to shoot the line on a single pickup day after principal photography,
+  and no production voice names a conveyor, a test screening or the crew
 version: 1
 history:
 - version: 1
@@ -47,7 +52,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-410 CLAIM-1022 CLAIM-1052 NOTE-2396 NOTE-2412 NOTE-2411 — new; filed by the lead run of 2026-11-23 -->
 <!-- inactive-ok-file: CLAIM-332 — Proposed; the claim whose note this finding revises -->
 
-# CLAIM-1006: The only production testimony found on how the Juggernaut line reached the film is the actor's: the director had seen the fan redub online and phoned him to shoot the line on a single pickup day after principal photography, and no production voice names a conveyor, a test screening or the crew
+# CLAIM-1006: Only the actor testifies on the Juggernaut line
 
 ## The claim
 

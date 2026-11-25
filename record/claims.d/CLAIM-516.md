@@ -3,7 +3,15 @@ number: 516
 status: Active
 formerly:
 - CLAIM-tmpczfpk
-title: 'Where every constraint capacity turns over at a positive rate and is produced only by others, with no basal production and production vanishing as its producers do, capacities whose production graph is acyclic all decay to zero: a capacity that persists needs a productive cycle among its ancestors, and removing a feedback edge set extinguishes every capacity; a cycle is necessary and not sufficient, and a one-member cycle is not closure'
+title: 'Persistent capacities need a production cycle'
+statement: >-
+  Where every constraint capacity turns over at a positive rate and is
+  produced only by others, with no basal production and production vanishing
+  as its producers do, capacities whose production graph is acyclic all
+  decay to zero: a capacity that persists needs a productive cycle among its
+  ancestors, and removing a feedback edge set extinguishes every capacity; a
+  cycle is necessary and not sufficient, and a one-member cycle is not
+  closure
 version: 1
 role: thesis
 warrant: demonstrated
@@ -40,7 +48,7 @@ summary: >-
   [CLAIM-395](CLAIM-395.md)'s, which need two or more constraints.
 ---
 
-# CLAIM-516: Where every constraint capacity turns over at a positive rate and is produced only by others, with no basal production and production vanishing as its producers do, capacities whose production graph is acyclic all decay to zero: a capacity that persists needs a productive cycle among its ancestors, and removing a feedback edge set extinguishes every capacity; a cycle is necessary and not sufficient, and a one-member cycle is not closure
+# CLAIM-516: Persistent capacities need a production cycle
 
 ## The claim
 

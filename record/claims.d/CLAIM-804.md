@@ -3,7 +3,14 @@ number: 804
 status: Proposed
 formerly:
 - CLAIM-tmp8mvx8
-title: 'If learned signal strengths fall as a power law in rank, the number of directions PCA can separate from the noise bulk grows as a power of the sample-to-dimension ratio and of the signal gain, a cascade of detectability thresholds and not a self-organized critical process, and the power law then belongs to the hierarchy of signal strengths, not to the spectrum, whose bulk with a few outliers is no heavy tail'
+title: 'PCA detectability as a cascade of thresholds'
+statement: >-
+  If learned signal strengths fall as a power law in rank, the number of
+  directions PCA can separate from the noise bulk grows as a power of the
+  sample-to-dimension ratio and of the signal gain, a cascade of
+  detectability thresholds and not a self-organized critical process, and
+  the power law then belongs to the hierarchy of signal strengths, not to
+  the spectrum, whose bulk with a few outliers is no heavy tail
 version: 1
 role: supposed
 warrant: demonstrated
@@ -37,7 +44,7 @@ grounds:
 <!-- inactive-ok-file: THEORY-2149 THEORY-2148 ARG-151 ARG-145 — Proposed; the readings and arguments of 2026-11-21 -->
 <!-- inactive-ok-file: THEORY-2186 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
-# CLAIM-804: If learned signal strengths fall as a power law in rank, the number of directions PCA can separate from the noise bulk grows as a power of the sample-to-dimension ratio and of the signal gain, a cascade of detectability thresholds and not a self-organized critical process, and the power law then belongs to the hierarchy of signal strengths, not to the spectrum, whose bulk with a few outliers is no heavy tail
+# CLAIM-804: PCA detectability as a cascade of thresholds
 
 ## The claim
 

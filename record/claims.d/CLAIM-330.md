@@ -3,7 +3,12 @@ number: 330
 status: Active
 formerly:
 - CLAIM-tmpgnqqb
-title: 'In the coupled meaning–influence model linearized at its symmetric state, with each field stable alone and nonnegative couplings, the coupling destabilizes symmetry exactly when βγ > (1 − α)(1 − δ): only the loop can do it, and the direction that grows mixes meaning and authority'
+title: 'Only the meaning–influence loop breaks symmetry'
+statement: >-
+  In the coupled meaning–influence model linearized at its symmetric state,
+  with each field stable alone and nonnegative couplings, the coupling
+  destabilizes symmetry exactly when βγ > (1 − α)(1 − δ): only the loop can
+  do it, and the direction that grows mixes meaning and authority
 version: 3
 history:
 - version: 2
@@ -57,7 +62,7 @@ bears_on:
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 
 
-# CLAIM-330: In the coupled meaning–influence model linearized at its symmetric state, with each field stable alone and nonnegative couplings, the coupling destabilizes symmetry exactly when βγ > (1 − α)(1 − δ): only the loop can do it, and the direction that grows mixes meaning and authority
+# CLAIM-330: Only the meaning–influence loop breaks symmetry
 
 ## The claim
 

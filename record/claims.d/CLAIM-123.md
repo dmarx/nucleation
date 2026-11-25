@@ -3,7 +3,12 @@ number: 123
 status: Active
 formerly:
 - CLAIM-tmpzkhdr
-title: 'In conditional generation, adding scores composes two conditions exactly when the ratio p(y₁,y₂|x)/(p(y₁|x)p(y₂|x)) does not vary with the noisy state x, which conditional independence of the conditions at that state is sufficient for but does not require'
+title: 'Score addition composes when the ratio is constant'
+statement: >-
+  In conditional generation, adding scores composes two conditions exactly
+  when the ratio p(y₁,y₂|x)/(p(y₁|x)p(y₂|x)) does not vary with the noisy
+  state x, which conditional independence of the conditions at that state is
+  sufficient for but does not require
 version: 8
 history:
 - version: 2
@@ -92,7 +97,7 @@ bears_on:
 - QUESTION-018
 ---
 
-# CLAIM-123: In conditional generation, adding scores composes two conditions exactly when the ratio p(y₁,y₂|x)/(p(y₁|x)p(y₂|x)) does not vary with the noisy state x, which conditional independence of the conditions at that state is sufficient for but does not require
+# CLAIM-123: Score addition composes when the ratio is constant
 
 ## The claim
 

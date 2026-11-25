@@ -3,7 +3,14 @@ number: 878
 status: Active
 formerly:
 - CLAIM-tmpocsw4
-title: 'Under a budget set each period to the last period''s peak spending, a capability stays funded exactly as long as every period occupies capacity at its cost, which a mobilization of it does whether a use, a drill, a false alarm or a cancelled dispatch, so where nothing else occupies that much, dispatching it provisionally to every report keeps it funded far longer than dispatching it only on confirmation of need'
+title: 'Peak budgets favour provisional dispatch'
+statement: >-
+  Under a budget set each period to the last period's peak spending, a
+  capability stays funded exactly as long as every period occupies capacity
+  at its cost, which a mobilization of it does whether a use, a drill, a
+  false alarm or a cancelled dispatch, so where nothing else occupies that
+  much, dispatching it provisionally to every report keeps it funded far
+  longer than dispatching it only on confirmation of need
 version: 4
 history:
 - version: 1
@@ -101,7 +108,7 @@ works:
 - governance-of-possibility
 ---
 
-# CLAIM-878: Under a budget set each period to the last period's peak spending, a capability stays funded exactly as long as every period occupies capacity at its cost, which a mobilization of it does whether a use, a drill, a false alarm or a cancelled dispatch, so where nothing else occupies that much, dispatching it provisionally to every report keeps it funded far longer than dispatching it only on confirmation of need
+# CLAIM-878: Peak budgets favour provisional dispatch
 
 ## The claim
 

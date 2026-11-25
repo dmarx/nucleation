@@ -3,7 +3,12 @@ number: 850
 status: Proposed
 formerly:
 - CLAIM-tmpyy261
-title: 'Chaos, criticality and a cascade through scales are distinct properties, and each can occur without either of the others; they meet only through particular mechanisms, such as the period-doubling accumulation point, which is critical in the renormalization-group sense and not chaotic'
+title: 'Chaos, criticality and cascades are distinct'
+statement: >-
+  Chaos, criticality and a cascade through scales are distinct properties,
+  and each can occur without either of the others; they meet only through
+  particular mechanisms, such as the period-doubling accumulation point,
+  which is critical in the renormalization-group sense and not chaotic
 version: 1
 role: thesis
 warrant: demonstrated
@@ -56,7 +61,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-2204 LIT-2991 — Proposed or Unavailable; the reading of the NIPS 2004 companion and the work it stands in for, 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-2168 LIT-3028 — Proposed or new; the reading of Azizpour and colleagues, 2026-11-22, and the Deferred work it names -->
 
-# CLAIM-850: Chaos, criticality and a cascade through scales are distinct properties, and each can occur without either of the others; they meet only through particular mechanisms, such as the period-doubling accumulation point, which is critical in the renormalization-group sense and not chaotic
+# CLAIM-850: Chaos, criticality and cascades are distinct
 
 ## Definitions
 

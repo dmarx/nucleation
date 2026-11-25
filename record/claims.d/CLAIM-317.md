@@ -3,7 +3,12 @@ number: 317
 status: Proposed
 formerly:
 - CLAIM-tmp2zbbq
-title: 'Self-presentations that differ by audience do no harm while the audiences are kept apart; people keep them apart and script the occasions where they must meet, and broadcast and networked media bring them together unchosen, which is when the presentations collide'
+title: 'Networked media collapse kept-apart audiences'
+statement: >-
+  Self-presentations that differ by audience do no harm while the audiences
+  are kept apart; people keep them apart and script the occasions where they
+  must meet, and broadcast and networked media bring them together unchosen,
+  which is when the presentations collide
 version: 2
 history:
 - version: 2
@@ -44,7 +49,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-196 — Proposed; the claim this was split from, which rests on it, cited as open -->
 <!-- inactive-ok-file: NOTE-1432 — Skimmed; the reading of boyd the dated notes cite -->
 
-# CLAIM-317: Self-presentations that differ by audience do no harm while the audiences are kept apart; people keep them apart and script the occasions where they must meet, and broadcast and networked media bring them together unchosen, which is when the presentations collide
+# CLAIM-317: Networked media collapse kept-apart audiences
 
 ## The claim
 

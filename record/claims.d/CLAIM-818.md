@@ -3,7 +3,15 @@ number: 818
 status: Proposed
 formerly:
 - CLAIM-tmpet76z
-title: 'Under gradient flow, embeddings coupled through a shared-parameter kernel relax: the loss falls at the rate of a positive-semidefinite quadratic form in the embedding gradients however the kernel changes during training, so neither the coupling nor its co-evolution with the representation makes the dynamics active, and nonequilibrium behaviour has to come from the optimizer, from noise not matched to the kernel, or from a changing objective'
+title: 'Shared-kernel coupling does not make flow active'
+statement: >-
+  Under gradient flow, embeddings coupled through a shared-parameter kernel
+  relax: the loss falls at the rate of a positive-semidefinite quadratic
+  form in the embedding gradients however the kernel changes during
+  training, so neither the coupling nor its co-evolution with the
+  representation makes the dynamics active, and nonequilibrium behaviour has
+  to come from the optimizer, from noise not matched to the kernel, or from
+  a changing objective
 version: 1
 role: thesis
 warrant: demonstrated
@@ -41,7 +49,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-798 THEORY-209 — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21; Proposed entries the record already held, cited for context -->
 <!-- inactive-ok-file: THEORY-2188 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
-# CLAIM-818: Under gradient flow, embeddings coupled through a shared-parameter kernel relax: the loss falls at the rate of a positive-semidefinite quadratic form in the embedding gradients however the kernel changes during training, so neither the coupling nor its co-evolution with the representation makes the dynamics active, and nonequilibrium behaviour has to come from the optimizer, from noise not matched to the kernel, or from a changing objective
+# CLAIM-818: Shared-kernel coupling does not make flow active
 
 ## The claim
 

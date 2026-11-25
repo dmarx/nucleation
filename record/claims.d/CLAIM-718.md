@@ -3,7 +3,15 @@ number: 718
 formerly:
 - CLAIM-tmp613ja
 status: Active
-title: 'A normative verdict on a relationship can be taken as a premise in order to find what in the relationship''s organization makes it true: hold behaviour and outcome fixed across cases judged differently, look for the organizational difference, then try to break it with cases where verdict and difference come apart; this finds the organizational marks of normative terms without a prior measure of them, and is circular without the last step'
+title: 'Verdicts as premises find organizational marks'
+statement: >-
+  A normative verdict on a relationship can be taken as a premise in order
+  to find what in the relationship's organization makes it true: hold
+  behaviour and outcome fixed across cases judged differently, look for the
+  organizational difference, then try to break it with cases where verdict
+  and difference come apart; this finds the organizational marks of
+  normative terms without a prior measure of them, and is circular without
+  the last step
 version: 3
 history:
 - version: 2
@@ -64,7 +72,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-264 CASE-229 CASE-263 ARG-055 CLAIM-364 — Proposed; the stipulated matched pairs and entries that already use the method -->
 <!-- inactive-ok-file: CASE-281 CASE-288 CLAIM-723 — filed from the same exchange, Proposed -->
 
-# CLAIM-718: A normative verdict on a relationship can be taken as a premise in order to find what in the relationship's organization makes it true: hold behaviour and outcome fixed across cases judged differently, look for the organizational difference, then try to break it with cases where verdict and difference come apart; this finds the organizational marks of normative terms without a prior measure of them, and is circular without the last step
+# CLAIM-718: Verdicts as premises find organizational marks
 
 ## The claim
 

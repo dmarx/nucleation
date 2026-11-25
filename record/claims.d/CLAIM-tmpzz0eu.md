@@ -1,6 +1,13 @@
 ---
 status: Proposed
-title: Of the functions a publisher performs, as scholarly communication is commonly divided into registration, certification, awareness and archiving, hosting supplies only access, which serves awareness; the owner's split gives certification to editors and journals and archiving to custodians, and leaves registration, a date and an author for each version that its host cannot alter, to whatever makes versions verifiable
+title: 'Hosting supplies only access'
+statement: >-
+  Of the functions a publisher performs, as scholarly communication is
+  commonly divided into registration, certification, awareness and
+  archiving, hosting supplies only access, which serves awareness; the
+  owner's split gives certification to editors and journals and archiving to
+  custodians, and leaves registration, a date and an author for each version
+  that its host cannot alter, to whatever makes versions verifiable
 version: 2
 history:
 - version: 2
@@ -44,7 +51,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-tmpv0sv7 CLAIM-tmpk6vy2 CLAIM-tmpzsuh2 CLAIM-tmp80nuw CLAIM-tmpnqzvj — Proposed; the owner's U6 and U4, A's guarantees and tag, and the assistant's check on this record -->
 
-# CLAIM-tmpzz0eu: Of the functions a publisher performs, as scholarly communication is commonly divided into registration, certification, awareness and archiving, hosting supplies only access, which serves awareness; the owner's split gives certification to editors and journals and archiving to custodians, and leaves registration, a date and an author for each version that its host cannot alter, to whatever makes versions verifiable
+# CLAIM-tmpzz0eu: Hosting supplies only access
 
 ## The gap
 

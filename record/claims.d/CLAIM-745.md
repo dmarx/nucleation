@@ -3,7 +3,14 @@ number: 745
 formerly:
 - CLAIM-tmpw7pli
 status: Proposed
-title: "A categorical administrative gate can make evidence that a governing standard requires to count unable to change a decision: an authority that conditions a substantive entitlement on a categorical criterion displaces the reasons its decisions are supposed to answer to, and that the criterion is imposed, and complied with, establishes neither its legal authority nor its justification"
+title: 'Categorical gates displace required reasons'
+statement: >-
+  A categorical administrative gate can make evidence that a governing
+  standard requires to count unable to change a decision: an authority that
+  conditions a substantive entitlement on a categorical criterion displaces
+  the reasons its decisions are supposed to answer to, and that the
+  criterion is imposed, and complied with, establishes neither its legal
+  authority nor its justification
 version: 3
 history:
 - version: 2
@@ -58,7 +65,7 @@ works:
 ---
 <!-- inactive-ok-file: CASE-289 — filed from the exchange "Assess Depp Heard Abuse" (2026-11-17), new and Proposed -->
 
-# CLAIM-745: A categorical administrative gate can make evidence that a governing standard requires to count unable to change a decision: an authority that conditions a substantive entitlement on a categorical criterion displaces the reasons its decisions are supposed to answer to, and that the criterion is imposed, and complied with, establishes neither its legal authority nor its justification
+# CLAIM-745: Categorical gates displace required reasons
 
 ## The claim
 

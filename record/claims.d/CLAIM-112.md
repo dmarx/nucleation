@@ -3,7 +3,11 @@ number: 112
 status: Active
 formerly:
 - CLAIM-tmpwcpf8
-title: 'The operational account does not say that meaning is nothing but observable behaviour, nor that no stable content exists because interpretation is context-dependent'
+title: 'Operational account is not behaviourism'
+statement: >-
+  The operational account does not say that meaning is nothing but
+  observable behaviour, nor that no stable content exists because
+  interpretation is context-dependent
 version: 1
 role: disclaimed
 warrant: interpretive
@@ -19,7 +23,7 @@ summary: >-
   semantic substance nor whether all meanings are endlessly fluid".
 ---
 
-# CLAIM-112: The operational account does not say that meaning is nothing but observable behaviour, nor that no stable content exists because interpretation is context-dependent
+# CLAIM-112: Operational account is not behaviourism
 
 ## The claim
 

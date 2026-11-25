@@ -3,7 +3,12 @@ number: 172
 status: Active
 formerly:
 - CLAIM-tmptsdgt
-title: 'Mutual entrainment is a sufficient mark of a combined form, and marks it as one of peers: when each side adjusts the other''s timing the pair carries a collective variable neither has alone; one-way drive also makes a combined form, with a hierarchical architecture'
+title: 'Mutual entrainment marks a combined form of peers'
+statement: >-
+  Mutual entrainment is a sufficient mark of a combined form, and marks it
+  as one of peers: when each side adjusts the other's timing the pair
+  carries a collective variable neither has alone; one-way drive also makes
+  a combined form, with a hierarchical architecture
 version: 10
 history:
 - version: 2
@@ -135,7 +140,7 @@ complements:
 <!-- inactive-ok-file: CLAIM-163 CLAIM-165 — Proposed; the earlier objection this bears on and the open objection to this claim -->
 <!-- inactive-ok-file: THEORY-069 — Proposed; the general HKB account, corroborating only: its relaxation-time and hysteresis data are unread -->
 
-# CLAIM-172: Mutual entrainment is a sufficient mark of a combined form, and marks it as one of peers: when each side adjusts the other's timing the pair carries a collective variable neither has alone; one-way drive also makes a combined form, with a hierarchical architecture
+# CLAIM-172: Mutual entrainment marks a combined form of peers
 
 ## The claim
 

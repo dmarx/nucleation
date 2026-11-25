@@ -3,7 +3,14 @@ number: 174
 status: Proposed
 formerly:
 - CLAIM-tmpwv313
-title: 'A candidate factor is an agent at a level when it is one system there, when a goal-directed description beats a device description by more than the Occam cost, and when its policy would adapt if its actions'' consequences changed; it is a willed agent when, further, a will-organization over several regimes describes it better than none, and what passes that is the jurisdiction of a will-organization'
+title: 'Three tests for agency, a fourth for will'
+statement: >-
+  A candidate factor is an agent at a level when it is one system there,
+  when a goal-directed description beats a device description by more than
+  the Occam cost, and when its policy would adapt if its actions'
+  consequences changed; it is a willed agent when, further, a
+  will-organization over several regimes describes it better than none, and
+  what passes that is the jurisdiction of a will-organization
 version: 8
 history:
 - version: 2
@@ -142,7 +149,7 @@ bears_on:
 <!-- inactive-ok-file: TERM-063 — Proposed; the rival sense of agent this claim says it does not claim -->
 <!-- inactive-ok-file: THEORY-249 — Proposed; filed today, cited for the frame-dependence of test 3, not leaned on -->
 
-# CLAIM-174: A candidate factor is an agent at a level when it is one system there, when a goal-directed description beats a device description by more than the Occam cost, and when its policy would adapt if its actions' consequences changed; it is a willed agent when, further, a will-organization over several regimes describes it better than none, and what passes that is the jurisdiction of a will-organization
+# CLAIM-174: Three tests for agency, a fourth for will
 
 ## The claim
 

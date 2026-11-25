@@ -3,7 +3,14 @@ number: 1072
 status: Proposed
 formerly:
 - CLAIM-tmpcfo3s
-title: 'First Contact''s score is information under the user''s realized commands, empowerment the capacity of the same kind of channel maximized over commands; the score is at most the capacity, so an interface can offer high capacity, precise control in principle, through commands its user does not or cannot produce, and the score, unlike empowerment, registers that shortfall'
+title: 'First Contact''s score is bounded by empowerment'
+statement: >-
+  First Contact's score is information under the user's realized commands,
+  empowerment the capacity of the same kind of channel maximized over
+  commands; the score is at most the capacity, so an interface can offer
+  high capacity, precise control in principle, through commands its user
+  does not or cannot produce, and the score, unlike empowerment, registers
+  that shortfall
 version: 1
 role: thesis
 warrant: demonstrated
@@ -38,7 +45,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-2147 — Proposed; the First Contact reading -->
 
-# CLAIM-1072: First Contact's score is information under the user's realized commands, empowerment the capacity of the same kind of channel maximized over commands; the score is at most the capacity, so an interface can offer high capacity, precise control in principle, through commands its user does not or cannot produce, and the score, unlike empowerment, registers that shortfall
+# CLAIM-1072: First Contact's score is bounded by empowerment
 
 ## The contrast
 

@@ -1,6 +1,10 @@
 ---
 status: Proposed
-title: 'The account of implicit contracts, norm formation and stabilization through reliance, and exploitation as the asymmetric use of reliance significantly clarifies the relationship between morality and cooperation'
+title: 'Reliance account clarifies morality'
+statement: >-
+  The account of implicit contracts, norm formation and stabilization
+  through reliance, and exploitation as the asymmetric use of reliance
+  significantly clarifies the relationship between morality and cooperation
 version: 1
 role: thesis
 warrant: interpretive
@@ -39,7 +43,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-tmpreipd ARG-tmpn6xou THEORY-468 THEORY-2109 THEORY-2110 CLAIM-tmp0d1fq CLAIM-tmp05a1l CLAIM-tmppx64t CLAIM-tmpjg5gx — Proposed; A's development and the assistant's check, the readings on morality and cooperation, and the claims filed with this from U16–U17 -->
 
-# CLAIM-tmp1fj5p: The account of implicit contracts, norm formation and stabilization through reliance, and exploitation as the asymmetric use of reliance significantly clarifies the relationship between morality and cooperation
+# CLAIM-tmp1fj5p: Reliance account clarifies morality
 
 ## The claim
 

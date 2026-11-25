@@ -3,7 +3,15 @@ number: 1127
 status: Proposed
 formerly:
 - CLAIM-tmpktdh5
-title: 'A probe family that supplied a system''s training signal does certify a preserved property when that property is bounded, by a stated inequality, by the probes'' value over contexts they cover, and that value is estimated on draws the system was not fitted to; optimizing against the probes then tightens the bound, the property depends on nothing they cannot see, and the training-signal limit holds only where the property outruns the probes or their coverage'
+title: 'Training probes certify a property they bound'
+statement: >-
+  A probe family that supplied a system's training signal does certify a
+  preserved property when that property is bounded, by a stated inequality,
+  by the probes' value over contexts they cover, and that value is estimated
+  on draws the system was not fitted to; optimizing against the probes then
+  tightens the bound, the property depends on nothing they cannot see, and
+  the training-signal limit holds only where the property outruns the probes
+  or their coverage
 version: 1
 role: thesis
 warrant: demonstrated
@@ -45,7 +53,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1803 — Proposed; cited as the boundary case CLAIM-266's note already names, nothing here rests on it -->
 
-# CLAIM-1127: A probe family that supplied a system's training signal does certify a preserved property when that property is bounded, by a stated inequality, by the probes' value over contexts they cover, and that value is estimated on draws the system was not fitted to; optimizing against the probes then tightens the bound, the property depends on nothing they cannot see, and the training-signal limit holds only where the property outruns the probes or their coverage
+# CLAIM-1127: Training probes certify a property they bound
 
 ## The tension
 

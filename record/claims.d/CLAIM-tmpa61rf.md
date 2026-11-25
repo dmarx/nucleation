@@ -34,7 +34,15 @@ complements:
 - CLAIM-tmpjnly0
 - CLAIM-tmpjlxfy
 - CLAIM-tmp9k2la
-title: "To have standing toward an agent is to have claims that can constrain what it is entitled to optimize, not only to enter its objective, so an organizational objective that admits other parties only through their contribution to it excludes their standing whatever it knows of them, and a specialized objective such as shareholder value is legitimate only so far as the outside governance it relies on to supply those constraints is adequate"
+title: 'Standing constrains what an agent may optimize'
+statement: >-
+  To have standing toward an agent is to have claims that can constrain what
+  it is entitled to optimize, not only to enter its objective, so an
+  organizational objective that admits other parties only through their
+  contribution to it excludes their standing whatever it knows of them, and
+  a specialized objective such as shareholder value is legitimate only so
+  far as the outside governance it relies on to supply those constraints is
+  adequate
 summary: >-
   A48 §§1–5 and 14–15 of the exchange "Memes, Contracts, and Systemic
   Normativity" (ChatGPT, 2026-11-24), on the owner's U30 ([CLAIM-tmpbucep](CLAIM-tmpbucep.md)). A48
@@ -51,7 +59,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-tmpbucep CLAIM-739 CLAIM-tmpjnly0 TERM-tmpxr1ox ARG-tmp4er8c CLAIM-1169 CLAIM-431 CLAIM-728 LIT-tmpeegs9 LIT-tmpu1amh LIT-tmpdaunm LIT-tmpo2igd — Proposed or Deferred; the owner's thesis, the neighbours, the argument and the works A48 cites, unread -->
 
-# CLAIM-tmpa61rf: To have standing toward an agent is to have claims that can constrain what it is entitled to optimize, not only to enter its objective, so an organizational objective that admits other parties only through their contribution to it excludes their standing whatever it knows of them, and a specialized objective such as shareholder value is legitimate only so far as the outside governance it relies on to supply those constraints is adequate
+# CLAIM-tmpa61rf: Standing constrains what an agent may optimize
 
 ## The claim
 

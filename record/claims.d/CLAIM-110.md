@@ -3,7 +3,11 @@ number: 110
 status: Rejected
 formerly:
 - CLAIM-tmpvu536
-title: 'Brooks''s architecture, Kelso''s coordination dynamics and Levin''s bioelectric selves are three different ways of understanding what an organized whole is'
+title: 'Brooks, Kelso and Levin: three views of wholes'
+statement: >-
+  Brooks's architecture, Kelso's coordination dynamics and Levin's
+  bioelectric selves are three different ways of understanding what an
+  organized whole is
 version: 1
 role: counter
 warrant: interpretive
@@ -23,7 +27,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-069 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
-# CLAIM-110: Brooks's architecture, Kelso's coordination dynamics and Levin's bioelectric selves are three different ways of understanding what an organized whole is
+# CLAIM-110: Brooks, Kelso and Levin: three views of wholes
 
 ## The claim
 

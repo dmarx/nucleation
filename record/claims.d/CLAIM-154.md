@@ -1,7 +1,12 @@
 ---
 number: 154
 status: Active
-title: 'A candidate structure is worth naming as a unit when its effect-to-noise ratio outruns the Occam cost of keeping it: reify when d''² exceeds the log prior-to-posterior variance ratio, where the model with the candidate stays regular at the parameters that switch it off'
+title: 'Reify when effect-to-noise beats Occam cost'
+statement: >-
+  A candidate structure is worth naming as a unit when its effect-to-noise
+  ratio outruns the Occam cost of keeping it: reify when d'² exceeds the log
+  prior-to-posterior variance ratio, where the model with the candidate
+  stays regular at the parameters that switch it off
 version: 3
 history:
 - version: 1
@@ -77,7 +82,7 @@ grounds:
 - THEORY-087
 ---
 
-# CLAIM-154: A candidate structure is worth naming as a unit when its effect-to-noise ratio outruns the Occam cost of keeping it: reify when d'² exceeds the log prior-to-posterior variance ratio, where the model with the candidate stays regular at the parameters that switch it off
+# CLAIM-154: Reify when effect-to-noise beats Occam cost
 
 ## The claim
 

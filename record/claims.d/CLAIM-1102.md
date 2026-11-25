@@ -3,7 +3,11 @@ number: 1102
 status: Proposed
 formerly:
 - CLAIM-tmpgt4a6
-title: "Intelligence is to be understood through epistemic, ecological richness, as a property of an ecology of inquiry and not only of a single problem solver"
+title: 'Intelligence belongs to an ecology of inquiry'
+statement: >-
+  Intelligence is to be understood through epistemic, ecological richness,
+  as a property of an ecology of inquiry and not only of a single problem
+  solver
 version: 1
 role: thesis
 warrant: interpretive
@@ -34,7 +38,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-1106 CLAIM-1134 TERM-158 THEORY-092 THEORY-402 — Proposed; entries filed from this exchange or neighbours cited, not leaned on as in force -->
 
-# CLAIM-1102: Intelligence is to be understood through epistemic, ecological richness, as a property of an ecology of inquiry and not only of a single problem solver
+# CLAIM-1102: Intelligence belongs to an ecology of inquiry
 
 ## The claim
 

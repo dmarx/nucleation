@@ -3,7 +3,10 @@ number: 79
 status: Active
 formerly:
 - CLAIM-tmpm39cj
-title: 'Stability does not entail viability: a system can occupy a stable regime while losing access to trajectories that keep satisfying its constraints'
+title: 'Stability does not entail viability'
+statement: >-
+  Stability does not entail viability: a system can occupy a stable regime
+  while losing access to trajectories that keep satisfying its constraints
 version: 2
 history:
 - version: 2
@@ -43,7 +46,7 @@ complements:
 ---
 <!-- inactive-ok-file: NOTE-1562 — Skimmed; Freidlin and Wentzell's front matter, cited from the reading of 2026-11-04 as open -->
 
-# CLAIM-079: Stability does not entail viability: a system can occupy a stable regime while losing access to trajectories that keep satisfying its constraints
+# CLAIM-079: Stability does not entail viability
 
 ## The claim
 

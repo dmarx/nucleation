@@ -3,7 +3,16 @@ number: 912
 status: Proposed
 formerly:
 - CLAIM-tmpxbgny
-title: 'Alternative reading (c) of the discriminating variants: where what a power''s holder would do is fixed and known, an arrangement in which the subjects hold no share of the power to review or revise is still less legitimate, and reasonable rejection reaches that verdict only by importing a principle of standing, because a reason to insist on a share of a power is a reason only for one already owed that share, so an account that fixes who holds powers over review and revision does work the test cannot'
+title: 'Rejection needs an imported standing principle'
+statement: >-
+  Alternative reading (c) of the discriminating variants: where what a
+  power's holder would do is fixed and known, an arrangement in which the
+  subjects hold no share of the power to review or revise is still less
+  legitimate, and reasonable rejection reaches that verdict only by
+  importing a principle of standing, because a reason to insist on a share
+  of a power is a reason only for one already owed that share, so an account
+  that fixes who holds powers over review and revision does work the test
+  cannot
 version: 1
 role: thesis
 warrant: interpretive
@@ -51,7 +60,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-336 CLAIM-908 CLAIM-909 CLAIM-913 CLAIM-911 — new, filed for LEAD-033 -->
 <!-- inactive-ok-file: THEORY-1988 THEORY-1967 CLAIM-720 — Proposed; Wenar, Scanlon's reply, and the record's claim on the limits of delegation -->
 
-# CLAIM-912: Alternative reading (c) of the discriminating variants: where what a power's holder would do is fixed and known, an arrangement in which the subjects hold no share of the power to review or revise is still less legitimate, and reasonable rejection reaches that verdict only by importing a principle of standing, because a reason to insist on a share of a power is a reason only for one already owed that share, so an account that fixes who holds powers over review and revision does work the test cannot
+# CLAIM-912: Rejection needs an imported standing principle
 
 ## The reading
 

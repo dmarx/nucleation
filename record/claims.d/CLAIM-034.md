@@ -3,7 +3,11 @@ number: 34
 status: Proposed
 formerly:
 - CLAIM-tmpahk38
-title: 'Fidelity is one evaluative goal among adaptation, critique and parody, and a deliberately adaptive translation calls for one-way simulation of the source''s relevant possibilities rather than equivalence'
+title: 'Fidelity is one translation goal among several'
+statement: >-
+  Fidelity is one evaluative goal among adaptation, critique and parody, and
+  a deliberately adaptive translation calls for one-way simulation of the
+  source's relevant possibilities rather than equivalence
 version: 1
 role: thesis
 warrant: interpretive
@@ -25,7 +29,7 @@ complements:
 ---
 <!-- inactive-ok-file: QUESTION-008 — Deferred; unread here or set aside, cited as what the exchange or manuscript names and not leaned on -->
 
-# CLAIM-034: Fidelity is one evaluative goal among adaptation, critique and parody, and a deliberately adaptive translation calls for one-way simulation of the source's relevant possibilities rather than equivalence
+# CLAIM-034: Fidelity is one translation goal among several
 
 ## The claim
 

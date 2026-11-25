@@ -3,7 +3,15 @@ number: 681
 status: Proposed
 formerly:
 - CLAIM-tmph4j5r
-title: 'How much of a person''s time is taken by activities they cannot reasonably refuse limits what they can viably pursue apart from their income and rights, so that two people with the same resources can differ in substantive freedom by their time, and productivity gains taken wholly as output can leave that freedom unchanged or smaller; the contrast that matters is between time committed to demanding activity and time surrendered to necessity, not between work and leisure'
+title: 'Time surrendered to necessity limits freedom'
+statement: >-
+  How much of a person's time is taken by activities they cannot reasonably
+  refuse limits what they can viably pursue apart from their income and
+  rights, so that two people with the same resources can differ in
+  substantive freedom by their time, and productivity gains taken wholly as
+  output can leave that freedom unchanged or smaller; the contrast that
+  matters is between time committed to demanding activity and time
+  surrendered to necessity, not between work and leisure
 version: 1
 role: thesis
 warrant: interpretive
@@ -47,7 +55,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-680 THEORY-1845 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 
-# CLAIM-681: How much of a person's time is taken by activities they cannot reasonably refuse limits what they can viably pursue apart from their income and rights, so that two people with the same resources can differ in substantive freedom by their time, and productivity gains taken wholly as output can leave that freedom unchanged or smaller; the contrast that matters is between time committed to demanding activity and time surrendered to necessity, not between work and leisure
+# CLAIM-681: Time surrendered to necessity limits freedom
 
 ## The claim
 

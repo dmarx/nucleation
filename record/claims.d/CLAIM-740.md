@@ -3,7 +3,15 @@ number: 740
 formerly:
 - CLAIM-tmpohafo
 status: Active
-title: 'For a party affected by a decision, explanation (understanding why it was reached), contestation (challenging it or the principles behind it) and interruption (suspending its execution while the challenge is considered) are separate entitlements, and each without the next fails in its own way: explanation without contestation is transparency without accountability, contestation without interruption a right that arrives too late, and interruption without reasons an arbitrary veto'
+title: 'Explanation, contestation, interruption differ'
+statement: >-
+  For a party affected by a decision, explanation (understanding why it was
+  reached), contestation (challenging it or the principles behind it) and
+  interruption (suspending its execution while the challenge is considered)
+  are separate entitlements, and each without the next fails in its own way:
+  explanation without contestation is transparency without accountability,
+  contestation without interruption a right that arrives too late, and
+  interruption without reasons an arbitrary veto
 version: 4
 history:
 - version: 2
@@ -78,7 +86,7 @@ works:
 <!-- inactive-ok-file: CLAIM-710 — Proposed or Open; filed from the first share of the same exchange (PR 510) and reconciled with this filing on 2026-11-18 -->
 <!-- inactive-ok-file: CLAIM-731 TERM-130 TERM-126 CLAIM-739 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
 
-# CLAIM-740: For a party affected by a decision, explanation (understanding why it was reached), contestation (challenging it or the principles behind it) and interruption (suspending its execution while the challenge is considered) are separate entitlements, and each without the next fails in its own way: explanation without contestation is transparency without accountability, contestation without interruption a right that arrives too late, and interruption without reasons an arbitrary veto
+# CLAIM-740: Explanation, contestation, interruption differ
 
 ## The claim
 

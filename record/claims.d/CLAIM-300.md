@@ -3,9 +3,12 @@ number: 300
 status: Active
 formerly:
 - CLAIM-tmpp7a8x
-title: A state sufficient for a family of decisions under a model makes the rest
-  of an inquiry's history worthless for those decisions, and it can stop being sufficient
-  when a source is discredited, the model is revised or the decisions change
+title: 'Sufficiency voids history until it lapses'
+statement: >-
+  A state sufficient for a family of decisions under a model makes the rest
+  of an inquiry's history worthless for those decisions, and it can stop
+  being sufficient when a source is discredited, the model is revised or the
+  decisions change
 version: 3
 history:
 - version: 2
@@ -52,7 +55,7 @@ works:
 ---
 <!-- inactive-ok-file: CLAIM-295 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
-# CLAIM-300: A state sufficient for a family of decisions under a model makes the rest of an inquiry's history worthless for those decisions, and it can stop being sufficient when a source is discredited, the model is revised or the decisions change
+# CLAIM-300: Sufficiency voids history until it lapses
 
 ## The claim
 

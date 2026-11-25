@@ -3,7 +3,12 @@ number: 193
 status: Proposed
 formerly:
 - CLAIM-tmppqir6
-title: 'A linear probe family can tell apart only realizations whose representations differ in normalized kernel, and kernels fix a representation only up to the symmetry of what is observed: any distinction beyond that is supplied by the analyst'
+title: 'Beyond kernel symmetry, the analyst decides'
+statement: >-
+  A linear probe family can tell apart only realizations whose
+  representations differ in normalized kernel, and kernels fix a
+  representation only up to the symmetry of what is observed: any
+  distinction beyond that is supplied by the analyst
 version: 5
 history:
 - version: 2
@@ -87,7 +92,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: CLAIM-142 CLAIM-204 CLAIM-206 CLAIM-209 CLAIM-217 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 
-# CLAIM-193: A linear probe family can tell apart only realizations whose representations differ in normalized kernel, and kernels fix a representation only up to the symmetry of what is observed: any distinction beyond that is supplied by the analyst
+# CLAIM-193: Beyond kernel symmetry, the analyst decides
 
 ## The claim
 

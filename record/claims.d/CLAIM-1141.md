@@ -3,7 +3,12 @@ number: 1141
 status: Proposed
 formerly:
 - CLAIM-tmpnc1mf
-title: 'Read as the proposed forager study words its second defeater, the run counts against endogenous revision of criteria: the learner''s gains vanish when its energy account is replaced by a score the designer could have chosen, so what its warnings track is the variable it was told to keep'
+title: 'Forager''s gains track a supplied variable'
+statement: >-
+  Read as the proposed forager study words its second defeater, the run
+  counts against endogenous revision of criteria: the learner's gains vanish
+  when its energy account is replaced by a score the designer could have
+  chosen, so what its warnings track is the variable it was told to keep
 version: 1
 history:
 - version: 1
@@ -43,7 +48,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-1110 — new; the run, the alternative reading and the claim on criterion revision -->
 <!-- inactive-ok-file: CASE-239 — Proposed; the study design whose defeater is read -->
 
-# CLAIM-1141: Read as the proposed forager study words its second defeater, the run counts against endogenous revision of criteria: the learner's gains vanish when its energy account is replaced by a score the designer could have chosen, so what its warnings track is the variable it was told to keep
+# CLAIM-1141: Forager's gains track a supplied variable
 
 ## The claim
 

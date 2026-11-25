@@ -3,7 +3,15 @@ number: 957
 status: Proposed
 formerly:
 - CLAIM-tmppgdad
-title: 'Where each nucleus formed by a teacher becomes a teacher, the succession replaces every outside teacher at one generation per teacher lifetime plus nucleus lifetime, and whether it sustains itself is decided by the aggregate teaching gain alone: populations matched in the number and turnover of their students persist or collapse on withdrawal by the share of students that can teach, and before withdrawal the difference shows only in the outside supply, material and teachers each needs'
+title: 'Teaching gain alone decides succession'
+statement: >-
+  Where each nucleus formed by a teacher becomes a teacher, the succession
+  replaces every outside teacher at one generation per teacher lifetime plus
+  nucleus lifetime, and whether it sustains itself is decided by the
+  aggregate teaching gain alone: populations matched in the number and
+  turnover of their students persist or collapse on withdrawal by the share
+  of students that can teach, and before withdrawal the difference shows
+  only in the outside supply, material and teachers each needs
 version: 1
 history:
 - version: 1
@@ -47,7 +55,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-365 — new or Proposed; the run this claim is drawn from, and the case of governing rules that QUESTION-361 cites -->
 
-# CLAIM-957: Where each nucleus formed by a teacher becomes a teacher, the succession replaces every outside teacher at one generation per teacher lifetime plus nucleus lifetime, and whether it sustains itself is decided by the aggregate teaching gain alone: populations matched in the number and turnover of their students persist or collapse on withdrawal by the share of students that can teach, and before withdrawal the difference shows only in the outside supply, material and teachers each needs
+# CLAIM-957: Teaching gain alone decides succession
 
 ## The claim
 

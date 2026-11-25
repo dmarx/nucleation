@@ -3,7 +3,15 @@ number: 1207
 status: Proposed
 formerly:
 - CLAIM-tmpzvz98
-title: 'If contextuality in signalling data means contextuality that survives treating the signalling as error, the sheaf test''s 0.148% is the more defensible figure for the BERT anaphora data and the 71.1% of Contextuality-by-Default 2.0 over-counts, since CbD calls contextual a model that is 99 parts a deterministic signalling model to one part PR box; the two routes then answer different questions, and formal contextuality on such data does not need Contextuality-by-Default'
+title: 'Sheaf''s 0.148% is the more defensible figure'
+statement: >-
+  If contextuality in signalling data means contextuality that survives
+  treating the signalling as error, the sheaf test's 0.148% is the more
+  defensible figure for the BERT anaphora data and the 71.1% of
+  Contextuality-by-Default 2.0 over-counts, since CbD calls contextual a
+  model that is 99 parts a deterministic signalling model to one part PR
+  box; the two routes then answer different questions, and formal
+  contextuality on such data does not need Contextuality-by-Default
 version: 1
 role: counter
 warrant: interpretive
@@ -36,7 +44,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-037 — Proposed; the thesis this objection is to, cited as under test -->
 <!-- inactive-ok-file: CASE-417 CLAIM-1164 CLAIM-1166 — new; filed by the lead run of 2026-11-23 -->
 
-# CLAIM-1207: If contextuality in signalling data means contextuality that survives treating the signalling as error, the sheaf test's 0.148% is the more defensible figure for the BERT anaphora data and the 71.1% of Contextuality-by-Default 2.0 over-counts, since CbD calls contextual a model that is 99 parts a deterministic signalling model to one part PR box; the two routes then answer different questions, and formal contextuality on such data does not need Contextuality-by-Default
+# CLAIM-1207: Sheaf's 0.148% is the more defensible figure
 
 ## The objection
 

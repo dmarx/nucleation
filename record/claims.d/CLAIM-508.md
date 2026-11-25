@@ -3,7 +3,13 @@ number: 508
 status: Active
 formerly:
 - CLAIM-tmplh4g2
-title: 'Gene ancestries alone cannot tell a symbiotic partner from a source of transferred genes: a partner whose genes were mostly lost, replaced or spread thin would leave the diffuse trace that Tobiasson and colleagues read as piecemeal transfer, and Bernabeu and colleagues concede that their donor signals say nothing of the kind of interaction'
+title: 'Gene ancestries can''t tell partner from transfer'
+statement: >-
+  Gene ancestries alone cannot tell a symbiotic partner from a source of
+  transferred genes: a partner whose genes were mostly lost, replaced or
+  spread thin would leave the diffuse trace that Tobiasson and colleagues
+  read as piecemeal transfer, and Bernabeu and colleagues concede that their
+  donor signals say nothing of the kind of interaction
 version: 2
 history:
 - version: 2
@@ -46,7 +52,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-661 — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: THEORY-1658 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 
-# CLAIM-508: Gene ancestries alone cannot tell a symbiotic partner from a source of transferred genes: a partner whose genes were mostly lost, replaced or spread thin would leave the diffuse trace that Tobiasson and colleagues read as piecemeal transfer, and Bernabeu and colleagues concede that their donor signals say nothing of the kind of interaction
+# CLAIM-508: Gene ancestries can't tell partner from transfer
 
 ## The claim
 

@@ -3,7 +3,15 @@ number: 706
 status: Proposed
 formerly:
 - CLAIM-tmpkx7ct
-title: 'Execution impedance, independent constraint and intervention opportunity vary independently: an institution can cut the time and cost of execution while reducing, preserving or expanding others'' opportunities to intervene, and can keep a step the executor cannot pass alone that opens no opportunity at all, so the three must be assessed separately, and whether the owner''s procedural friction is impedance or constraint is left open'
+title: 'Impedance, constraint and opportunity vary apart'
+statement: >-
+  Execution impedance, independent constraint and intervention opportunity
+  vary independently: an institution can cut the time and cost of execution
+  while reducing, preserving or expanding others' opportunities to
+  intervene, and can keep a step the executor cannot pass alone that opens
+  no opportunity at all, so the three must be assessed separately, and
+  whether the owner's procedural friction is impedance or constraint is left
+  open
 version: 4
 history:
 - version: 2
@@ -81,7 +89,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-710 CLAIM-711 — filed from the exchange "Assess Depp Heard Abuse", Proposed -->
 <!-- inactive-ok-file: TERM-125 THEORY-1931 THEORY-1920 THEORY-1938 — filed from the exchange or its readings, Proposed -->
 
-# CLAIM-706: Execution impedance, independent constraint and intervention opportunity vary independently: an institution can cut the time and cost of execution while reducing, preserving or expanding others' opportunities to intervene, and can keep a step the executor cannot pass alone that opens no opportunity at all, so the three must be assessed separately, and whether the owner's procedural friction is impedance or constraint is left open
+# CLAIM-706: Impedance, constraint and opportunity vary apart
 
 ## The claim
 

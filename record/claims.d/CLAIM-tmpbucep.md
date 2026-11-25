@@ -27,7 +27,11 @@ complements:
 - CLAIM-1155
 - CLAIM-624
 - CLAIM-714
-title: "Shareholder value maximization is a kind of willful ignorance with respect to the legitimate standing of a corporation's non-shareholder relationships"
+title: 'Shareholder value as willful ignorance'
+statement: >-
+  Shareholder value maximization is a kind of willful ignorance with respect
+  to the legitimate standing of a corporation's non-shareholder
+  relationships
 summary: >-
   The owner's thesis at U30 of the exchange "Memes, Contracts, and Systemic
   Normativity" (2026-11-24): "shareholder value maximization as a kind of
@@ -41,7 +45,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-1155 CLAIM-624 CLAIM-714 CLAIM-tmpa61rf CLAIM-tmptrn75 TERM-083 LIT-1430 CLAIM-739 — Proposed or Unavailable; the held neighbours and the claims A48's reply was filed in -->
 
-# CLAIM-tmpbucep: Shareholder value maximization is a kind of willful ignorance with respect to the legitimate standing of a corporation's non-shareholder relationships
+# CLAIM-tmpbucep: Shareholder value as willful ignorance
 
 ## The claim
 

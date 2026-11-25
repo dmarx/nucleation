@@ -1,6 +1,9 @@
 ---
 status: Proposed
-title: 'A meme can act as a nucleation site: a seed around which beliefs, practices and relations organize, and not only a unit that copies itself'
+title: 'A meme can be a nucleation site'
+statement: >-
+  A meme can act as a nucleation site: a seed around which beliefs,
+  practices and relations organize, and not only a unit that copies itself
 version: 1
 role: thesis
 warrant: interpretive
@@ -40,7 +43,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-184 CLAIM-185 CLAIM-1004 CLAIM-tmp4uj40 CLAIM-tmpgvsgg LIT-tmpfj6uj — Proposed, Deferred or Rejected; entries filed from the exchange 'Memes, Contracts, and Systemic Normativity' and held entries it is read against, cited whatever their standing -->
 
-# CLAIM-tmp1ng5k: A meme can act as a nucleation site: a seed around which beliefs, practices and relations organize, and not only a unit that copies itself
+# CLAIM-tmp1ng5k: A meme can be a nucleation site
 
 ## The claim
 

@@ -3,7 +3,14 @@ number: 932
 status: Proposed
 formerly:
 - CLAIM-tmpwx1cm
-title: 'In small trained Z2-symmetric recurrent lattices, domain walls, local causal-state coherent structures and intervention-identified operative sites pick out the same features while the field runs free, but local transfer entropy misses walls that are pinned, and the interventional criterion comes apart from the others while the input that set the walls is still on'
+title: 'Transfer entropy misses pinned walls'
+statement: >-
+  In small trained Z2-symmetric recurrent lattices, domain walls, local
+  causal-state coherent structures and intervention-identified operative
+  sites pick out the same features while the field runs free, but local
+  transfer entropy misses walls that are pinned, and the interventional
+  criterion comes apart from the others while the input that set the walls
+  is still on
 version: 1
 role: thesis
 warrant: empirical
@@ -46,7 +53,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-354 THEORY-2028 THEORY-2048 — Proposed or new; cited in this filing of 2026-11-22 -->
 
-# CLAIM-932: In small trained Z2-symmetric recurrent lattices, domain walls, local causal-state coherent structures and intervention-identified operative sites pick out the same features while the field runs free, but local transfer entropy misses walls that are pinned, and the interventional criterion comes apart from the others while the input that set the walls is still on
+# CLAIM-932: Transfer entropy misses pinned walls
 
 ## The claim
 

@@ -3,7 +3,9 @@ number: 10
 status: Rejected
 formerly:
 - CLAIM-tmp25zdy
-title: 'On this account every control system has a will'
+title: 'Every control system has a will'
+statement: >-
+  On this account every control system has a will
 version: 1
 role: counter
 warrant: interpretive
@@ -23,7 +25,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-012 CLAIM-062 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 
-# CLAIM-010: On this account every control system has a will
+# CLAIM-010: Every control system has a will
 
 ## The claim
 

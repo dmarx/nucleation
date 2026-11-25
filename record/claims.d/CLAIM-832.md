@@ -3,7 +3,12 @@ number: 832
 status: Proposed
 formerly:
 - CLAIM-tmpninc2
-title: 'When event sizes fall as s^(−τ) with τ < 2, small events make up most of the count and rare large events most of the total, so the typical event misrepresents the aggregate; near a critical cascade most cascades stay tiny while the mean size diverges'
+title: 'With τ < 2 the typical event misleads'
+statement: >-
+  When event sizes fall as s^(−τ) with τ < 2, small events make up most of
+  the count and rare large events most of the total, so the typical event
+  misrepresents the aggregate; near a critical cascade most cascades stay
+  tiny while the mean size diverges
 version: 1
 role: thesis
 warrant: demonstrated
@@ -37,7 +42,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-3035 THEORY-2170 THEORY-2171 — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
 <!-- inactive-ok-file: CASE-303 CLAIM-840 CLAIM-829 — Proposed or new; the case and claims filed with this one from the same exchange -->
 
-# CLAIM-832: When event sizes fall as s^(−τ) with τ < 2, small events make up most of the count and rare large events most of the total, so the typical event misrepresents the aggregate; near a critical cascade most cascades stay tiny while the mean size diverges
+# CLAIM-832: With τ < 2 the typical event misleads
 
 ## The claim (A7, A8)
 

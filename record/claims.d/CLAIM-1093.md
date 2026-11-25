@@ -3,7 +3,14 @@ number: 1093
 status: Active
 formerly:
 - CLAIM-tmpf71gk
-title: 'Maintaining a reserve and redesigning a transition change different components of readiness, one keeping enough capacity to cross an existing transition barrier and the other lowering the barrier itself, and under a budget that follows peak use they are complementary requirements rather than independently sufficient alternatives, unless the redesigned barrier is no higher than the cost of holding'
+title: 'Reserve and redesign are complementary'
+statement: >-
+  Maintaining a reserve and redesigning a transition change different
+  components of readiness, one keeping enough capacity to cross an existing
+  transition barrier and the other lowering the barrier itself, and under a
+  budget that follows peak use they are complementary requirements rather
+  than independently sufficient alternatives, unless the redesigned barrier
+  is no higher than the cost of holding
 version: 3
 history:
 - version: 2
@@ -64,7 +71,7 @@ bears_on:
 - QUESTION-395
 ---
 
-# CLAIM-1093: Maintaining a reserve and redesigning a transition change different components of readiness, one keeping enough capacity to cross an existing transition barrier and the other lowering the barrier itself, and under a budget that follows peak use they are complementary requirements rather than independently sufficient alternatives, unless the redesigned barrier is no higher than the cost of holding
+# CLAIM-1093: Reserve and redesign are complementary
 
 ## The claim
 

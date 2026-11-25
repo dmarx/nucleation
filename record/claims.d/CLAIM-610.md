@@ -3,7 +3,14 @@ number: 610
 status: Proposed
 formerly:
 - CLAIM-tmp2ka9y
-title: 'If the record''s hypotheses held, agency and autonomy would be further organizations of the same individuated unit: the relations deciding which of an individual''s interventions become effective would belong to that individual under the criterion that individuates it, and the governance of governability would act on those relations; persistence is transmission, and none of the achievements implies the next'
+title: 'Agency and autonomy organize the same unit'
+statement: >-
+  If the record's hypotheses held, agency and autonomy would be further
+  organizations of the same individuated unit: the relations deciding which
+  of an individual's interventions become effective would belong to that
+  individual under the criterion that individuates it, and the governance of
+  governability would act on those relations; persistence is transmission,
+  and none of the achievements implies the next
 version: 6
 history:
 - version: 2
@@ -110,7 +117,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-487 CLAIM-545 — Proposed or Superseded; parts of the supposed account, cited as held -->
 <!-- inactive-ok-file: CLAIM-417 — Proposed; the owner's recasting of selves, cited for what the claim leaves out -->
 
-# CLAIM-610: If the record's hypotheses held, agency and autonomy would be further organizations of the same individuated unit: the relations deciding which of an individual's interventions become effective would belong to that individual under the criterion that individuates it, and the governance of governability would act on those relations; persistence is transmission, and none of the achievements implies the next
+# CLAIM-610: Agency and autonomy organize the same unit
 
 *Returned to CLAIM from [SYNTHESIS-004](../syntheses.d/SYNTHESIS-004.md) on 2026-11-08 ([ADR-084](../decisions.d/ADR-084.md)). The notes below that speak of a synthesis are the synthesis's own.*
 

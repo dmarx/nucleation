@@ -3,7 +3,14 @@ number: 839
 status: Proposed
 formerly:
 - CLAIM-tmpr4k9z
-title: "Progressive learning can be described by two partial orders, semantic entailment among the regions a representation assigns and informational refinement among its checkpoints in Blackwell's sense, neither of which need be a chain: learning is then the construction of an increasingly informative branching order of distinctions, and a narrower region counts as progress only while it stays correct"
+title: 'Learning as a branching order of distinctions'
+statement: >-
+  Progressive learning can be described by two partial orders, semantic
+  entailment among the regions a representation assigns and informational
+  refinement among its checkpoints in Blackwell's sense, neither of which
+  need be a chain: learning is then the construction of an increasingly
+  informative branching order of distinctions, and a narrower region counts
+  as progress only while it stays correct
 version: 2
 history:
 - version: 2
@@ -58,7 +65,7 @@ summary: >-
 <!-- inactive-ok-file: ARG-153 — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
 <!-- inactive-ok-file: THEORY-2190 THEORY-2192 CLAIM-860 ARG-192 ARG-194 ARG-193 CLAIM-816 — Proposed; the readings of Bui et al. and Ghadimi Atigh et al. filed 2026-11-22, the assistant's norm-growth claim, the arguments that say how each bears here, and a claim cited for context -->
 
-# CLAIM-839: Progressive learning can be described by two partial orders, semantic entailment among the regions a representation assigns and informational refinement among its checkpoints in Blackwell's sense, neither of which need be a chain: learning is then the construction of an increasingly informative branching order of distinctions, and a narrower region counts as progress only while it stays correct
+# CLAIM-839: Learning as a branching order of distinctions
 
 ## The claim
 

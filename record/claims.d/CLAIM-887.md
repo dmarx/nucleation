@@ -3,7 +3,17 @@ number: 887
 status: Proposed
 formerly:
 - CLAIM-tmpy1gmq
-title: 'Of a fixed partition, one recovered from the dynamics in force and one that depends on an apparatus, the first two make different counterfactual predictions whenever an intervention moves the coupling; the apparatus-dependent partition differs from the recovered one only if it tracks the apparatus rather than the dynamics the apparatus produces, and so read it is refuted wherever the apparatus is in place without dominating the coupling, so that constitution by an apparatus, as distinct from causal modification followed by discovery, makes no prediction of its own that survives'
+title: 'Apparatus constitution predicts nothing of its own'
+statement: >-
+  Of a fixed partition, one recovered from the dynamics in force and one
+  that depends on an apparatus, the first two make different counterfactual
+  predictions whenever an intervention moves the coupling; the
+  apparatus-dependent partition differs from the recovered one only if it
+  tracks the apparatus rather than the dynamics the apparatus produces, and
+  so read it is refuted wherever the apparatus is in place without
+  dominating the coupling, so that constitution by an apparatus, as distinct
+  from causal modification followed by discovery, makes no prediction of its
+  own that survives
 version: 1
 history:
 - version: 1
@@ -59,7 +69,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-321 — new; the study this claim is grounded in -->
 <!-- inactive-ok-file: CLAIM-476 — Proposed; the record's constitutive claim for its own objects, cited as open -->
 
-# CLAIM-887: Of a fixed partition, one recovered from the dynamics in force and one that depends on an apparatus, the first two make different counterfactual predictions whenever an intervention moves the coupling; the apparatus-dependent partition differs from the recovered one only if it tracks the apparatus rather than the dynamics the apparatus produces, and so read it is refuted wherever the apparatus is in place without dominating the coupling, so that constitution by an apparatus, as distinct from causal modification followed by discovery, makes no prediction of its own that survives
+# CLAIM-887: Apparatus constitution predicts nothing of its own
 
 ## The claim
 

@@ -3,7 +3,15 @@ number: 1055
 status: Proposed
 formerly:
 - CLAIM-tmp9pgdu
-title: 'A self may be better modelled as a historically evolving, measure-valued organization of dispositions than as a discrete collection of perspectives: perspectives are overlapping, intervention-dependent structures in it, their separability is set by the observer''s test functions and the metric they induce, and its unity lies in maintained causal relations, not in one privileged perspective or a partition into mutually singular parts'
+title: 'A self is better modelled as measure-valued'
+statement: >-
+  A self may be better modelled as a historically evolving, measure-valued
+  organization of dispositions than as a discrete collection of
+  perspectives: perspectives are overlapping, intervention-dependent
+  structures in it, their separability is set by the observer's test
+  functions and the metric they induce, and its unity lies in maintained
+  causal relations, not in one privileged perspective or a partition into
+  mutually singular parts
 version: 1
 history:
 - version: 1
@@ -56,7 +64,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-1112 — Proposed; the owner's thesis and the constructions this rests on, filed with it on 2026-11-22 -->
 
-# CLAIM-1055: A self may be better modelled as a historically evolving, measure-valued organization of dispositions than as a discrete collection of perspectives: perspectives are overlapping, intervention-dependent structures in it, their separability is set by the observer's test functions and the metric they induce, and its unity lies in maintained causal relations, not in one privileged perspective or a partition into mutually singular parts
+# CLAIM-1055: A self is better modelled as measure-valued
 
 ## The claim
 

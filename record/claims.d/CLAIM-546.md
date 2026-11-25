@@ -3,7 +3,16 @@ number: 546
 status: Active
 formerly:
 - CLAIM-tmp47w4i
-title: 'Negative frequency dependence that keeps two types in coexistence does not make their interaction cooperative: in Hawk–Dove with cost C above value V each type increases when rare and they coexist at the interior equilibrium of V/C Hawks, with Hawks still taking the whole resource from Doves, and on the Black Queen account producers of a leaked good and the cells that use it without paying coexist at a frequency set by the community''s need; so whether types persist together and whether they cooperate are separate questions, and a coexistence criterion answers only the first'
+title: 'Coexistence does not make cooperation'
+statement: >-
+  Negative frequency dependence that keeps two types in coexistence does not
+  make their interaction cooperative: in Hawk–Dove with cost C above value V
+  each type increases when rare and they coexist at the interior equilibrium
+  of V/C Hawks, with Hawks still taking the whole resource from Doves, and
+  on the Black Queen account producers of a leaked good and the cells that
+  use it without paying coexist at a frequency set by the community's need;
+  so whether types persist together and whether they cooperate are separate
+  questions, and a coexistence criterion answers only the first
 version: 4
 history:
 - version: 2
@@ -75,7 +84,7 @@ works:
 <!-- inactive-ok-file: LIT-1219 — Unavailable; Chesson's criterion, cited for the definition, not read here -->
 <!-- inactive-ok-file: TERM-123 TERM-124 — Proposed; filed 2026-11-13 from A's predicates kept in the note of 2026-11-12 -->
 
-# CLAIM-546: Negative frequency dependence that keeps two types in coexistence does not make their interaction cooperative: in Hawk–Dove with cost C above value V each type increases when rare and they coexist at the interior equilibrium of V/C Hawks, with Hawks still taking the whole resource from Doves, and on the Black Queen account producers of a leaked good and the cells that use it without paying coexist at a frequency set by the community's need; so whether types persist together and whether they cooperate are separate questions, and a coexistence criterion answers only the first
+# CLAIM-546: Coexistence does not make cooperation
 
 ## The claim
 

@@ -3,7 +3,11 @@ number: 915
 status: Proposed
 formerly:
 - CLAIM-tmp8onwv
-title: 'On the wide reading of the dependence rule, every constraint the capacity depends on belongs to K wherever it is produced, so a capacity supplied from outside is held by the agent and is precarious with its supply'
+title: 'Wide reading: outside supply belongs to K'
+statement: >-
+  On the wide reading of the dependence rule, every constraint the capacity
+  depends on belongs to K wherever it is produced, so a capacity supplied
+  from outside is held by the agent and is precarious with its supply
 version: 2
 history:
 - version: 2
@@ -49,7 +53,7 @@ works:
 <!-- inactive-ok-file: CLAIM-916 CLAIM-917 CASE-342 — new, filed in this pull request for LEAD-053 -->
 <!-- inactive-ok-file: CLAIM-367 CASE-227 — Proposed; the cases on which the two readings part, cited as open -->
 
-# CLAIM-915: On the wide reading of the dependence rule, every constraint the capacity depends on belongs to K wherever it is produced, so a capacity supplied from outside is held by the agent and is precarious with its supply
+# CLAIM-915: Wide reading: outside supply belongs to K
 
 ## The claim
 

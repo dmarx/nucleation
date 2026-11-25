@@ -3,7 +3,11 @@ number: 160
 status: Proposed
 formerly:
 - CLAIM-tmpdfqoo
-title: 'Data written for a potential future receiver has its intended meaning fixed by the write: even if it is never read, what it was meant to say was settled when it was stored'
+title: 'Intended meaning is fixed at the write'
+statement: >-
+  Data written for a potential future receiver has its intended meaning
+  fixed by the write: even if it is never read, what it was meant to say was
+  settled when it was stored
 version: 4
 history:
 - version: 2
@@ -74,7 +78,7 @@ bears_on:
 <!-- inactive-ok-file: CLAIM-171 — Proposed; the open objection to this claim -->
 <!-- inactive-ok-file: CLAIM-204 CLAIM-217 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 
-# CLAIM-160: Data written for a potential future receiver has its intended meaning fixed by the write: even if it is never read, what it was meant to say was settled when it was stored
+# CLAIM-160: Intended meaning is fixed at the write
 
 ## The claim
 

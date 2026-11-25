@@ -3,7 +3,12 @@ number: 143
 status: Active
 formerly:
 - CLAIM-tmpe2csg
-title: 'Local descriptions that disagree are not thereby incompatible: whether there is an obstruction can be assessed only relative to a specified class of admissible correspondences between their observations, independently validated and not admitted because they remove the disagreement'
+title: 'Disagreeing locals are not thereby incompatible'
+statement: >-
+  Local descriptions that disagree are not thereby incompatible: whether
+  there is an obstruction can be assessed only relative to a specified class
+  of admissible correspondences between their observations, independently
+  validated and not admitted because they remove the disagreement
 version: 4
 history:
 - version: 2
@@ -85,7 +90,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-004 CLAIM-005 CLAIM-009 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: ARG-004 — Rejected; cited as the earlier use of the same analogy, which this claim does not revive -->
 
-# CLAIM-143: Local descriptions that disagree are not thereby incompatible: whether there is an obstruction can be assessed only relative to a specified class of admissible correspondences between their observations, independently validated and not admitted because they remove the disagreement
+# CLAIM-143: Disagreeing locals are not thereby incompatible
 
 ## The claim
 

@@ -3,7 +3,13 @@ number: 207
 status: Active
 formerly:
 - CLAIM-tmp6xxbf
-title: 'The transports of Propositions 1–2 and of D_obs act on judgement outcomes, not texts, and for any one source–target pair a constant kernel transports any overlap-consistent target, so they constrain a translation only once one kernel family is fixed across many utterances and derived from the text channel'
+title: 'Transports constrain only with one kernel family'
+statement: >-
+  The transports of Propositions 1–2 and of D_obs act on judgement outcomes,
+  not texts, and for any one source–target pair a constant kernel transports
+  any overlap-consistent target, so they constrain a translation only once
+  one kernel family is fixed across many utterances and derived from the
+  text channel
 version: 1
 role: granted
 warrant: demonstrated
@@ -38,7 +44,7 @@ complements:
 <!-- inactive-ok-file: CLAIM-117 — Proposed; cited only for the parallel with CLAIM-011 -->
 <!-- inactive-ok-file: CLAIM-258 — Proposed; companion objections from the same audit, cited for their neighbouring points -->
 
-# CLAIM-207: The transports of Propositions 1–2 and of D_obs act on judgement outcomes, not texts, and for any one source–target pair a constant kernel transports any overlap-consistent target, so they constrain a translation only once one kernel family is fixed across many utterances and derived from the text channel
+# CLAIM-207: Transports constrain only with one kernel family
 
 ## The objection
 

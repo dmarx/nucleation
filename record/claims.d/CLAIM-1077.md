@@ -3,7 +3,17 @@ number: 1077
 status: Active
 formerly:
 - CLAIM-tmpd6gon
-title: 'In a simulated federated learner, role-limited audit by a pool of evaluators tolerates compromised evaluators task by task, by their number against the honest holders of evidence on each task, and not by their share of the pool: two compromised evaluators of seven left the tasks all seven hold evidence on safe and let an attack that mimics dissent through on the tasks two hold evidence on, about as far as unrestricted aggregation does, while cutting the dissenters'' influence there from 4.2 to 0.9 times parity; one central evaluator, compromised, let both attacks through and gave the dissenters none'
+title: 'Audit tolerates compromise by count per task'
+statement: >-
+  In a simulated federated learner, role-limited audit by a pool of
+  evaluators tolerates compromised evaluators task by task, by their number
+  against the honest holders of evidence on each task, and not by their
+  share of the pool: two compromised evaluators of seven left the tasks all
+  seven hold evidence on safe and let an attack that mimics dissent through
+  on the tasks two hold evidence on, about as far as unrestricted
+  aggregation does, while cutting the dissenters' influence there from 4.2
+  to 0.9 times parity; one central evaluator, compromised, let both attacks
+  through and gave the dissenters none
 version: 2
 history:
 - version: 1
@@ -60,7 +70,7 @@ summary: >-
   call.
 ---
 
-# CLAIM-1077: In a simulated federated learner, role-limited audit by a pool of evaluators tolerates compromised evaluators task by task, by their number against the honest holders of evidence on each task, and not by their share of the pool: two compromised evaluators of seven left the tasks all seven hold evidence on safe and let an attack that mimics dissent through on the tasks two hold evidence on, about as far as unrestricted aggregation does, while cutting the dissenters' influence there from 4.2 to 0.9 times parity; one central evaluator, compromised, let both attacks through and gave the dissenters none
+# CLAIM-1077: Audit tolerates compromise by count per task
 
 ## The claim
 

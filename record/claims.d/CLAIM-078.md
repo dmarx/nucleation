@@ -3,7 +3,12 @@ number: 78
 status: Proposed
 formerly:
 - CLAIM-tmplxqew
-title: 'The theory succeeds if its observational and decision measures predict changes of communicative identity that text similarity misses and follow its compositional predictions across reconstructions; it needs neither quantum contextuality nor exact Noether laws'
+title: 'Success: predicting what text similarity misses'
+statement: >-
+  The theory succeeds if its observational and decision measures predict
+  changes of communicative identity that text similarity misses and follow
+  its compositional predictions across reconstructions; it needs neither
+  quantum contextuality nor exact Noether laws
 version: 4
 history:
 - version: 2
@@ -60,7 +65,7 @@ complements:
 <!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; cited as it stood, not as what the record now holds -->
 <!-- inactive-ok-file: CLAIM-202 — Proposed; the line's distinctive test, cited as carrying the stronger rival, open -->
 
-# CLAIM-078: The theory succeeds if its observational and decision measures predict changes of communicative identity that text similarity misses and follow its compositional predictions across reconstructions; it needs neither quantum contextuality nor exact Noether laws
+# CLAIM-078: Success: predicting what text similarity misses
 
 ## The claim
 

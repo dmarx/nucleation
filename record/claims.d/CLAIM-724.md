@@ -3,7 +3,16 @@ number: 724
 formerly:
 - CLAIM-tmpbqunx
 status: Proposed
-title: 'Against a challenged party who can act on the means of correction, correctability is a robust quantity, the chance that a corrective policy reaches its objective against every strategy in a declared class of opposition, and it depends on who moves first, since a corrector that must commit before seeing the opposition can do strictly worse than one that responds to it; judged against the opposition the procedural rules permit, failure shows the institution inadequate, and failure owed to opposition outside them shows a wrong by the opponent as well'
+title: 'Correctability is robust against opposition'
+statement: >-
+  Against a challenged party who can act on the means of correction,
+  correctability is a robust quantity, the chance that a corrective policy
+  reaches its objective against every strategy in a declared class of
+  opposition, and it depends on who moves first, since a corrector that must
+  commit before seeing the opposition can do strictly worse than one that
+  responds to it; judged against the opposition the procedural rules permit,
+  failure shows the institution inadequate, and failure owed to opposition
+  outside them shows a wrong by the opponent as well
 version: 2
 history:
 - version: 2
@@ -57,7 +66,7 @@ works:
 ---
 <!-- inactive-ok-file: CLAIM-748 — filed from the same exchange, Proposed or new -->
 
-# CLAIM-724: Against a challenged party who can act on the means of correction, correctability is a robust quantity, the chance that a corrective policy reaches its objective against every strategy in a declared class of opposition, and it depends on who moves first, since a corrector that must commit before seeing the opposition can do strictly worse than one that responds to it; judged against the opposition the procedural rules permit, failure shows the institution inadequate, and failure owed to opposition outside them shows a wrong by the opponent as well
+# CLAIM-724: Correctability is robust against opposition
 
 ## The claim
 

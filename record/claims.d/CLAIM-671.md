@@ -3,7 +3,13 @@ number: 671
 status: Proposed
 formerly:
 - CLAIM-tmpwn3wr
-title: 'Where an organizational transformation increases a constituent''s vulnerability to the discretionary choices of a responsible agent, and that vulnerability grounds special obligations under an independently justified principle, the transformation can strengthen that agent''s responsibilities toward the constituent'
+title: 'Imposed vulnerability strengthens responsibility'
+statement: >-
+  Where an organizational transformation increases a constituent's
+  vulnerability to the discretionary choices of a responsible agent, and
+  that vulnerability grounds special obligations under an independently
+  justified principle, the transformation can strengthen that agent's
+  responsibilities toward the constituent
 version: 8
 history:
 - version: 2
@@ -119,7 +125,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-603 CLAIM-428 TERM-083 — Proposed; cited with their standing -->
 <!-- inactive-ok-file: CLAIM-096 QUESTION-007 — Deferred; the authenticity line's reciprocal agency and its question, cited for the note that interdependence does not entail obligation -->
 
-# CLAIM-671: Where an organizational transformation increases a constituent's vulnerability to the discretionary choices of a responsible agent, and that vulnerability grounds special obligations under an independently justified principle, the transformation can strengthen that agent's responsibilities toward the constituent
+# CLAIM-671: Imposed vulnerability strengthens responsibility
 
 ## The claim
 

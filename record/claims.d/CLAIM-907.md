@@ -3,7 +3,17 @@ number: 907
 status: Proposed
 formerly:
 - CLAIM-tmpmov06
-title: 'For three evaluative contexts whose transports are derived by orthogonal fit on the commitments each overlap shares, contexts that represent one configuration in different local frames have trivial holonomy, so perspectival plurality does not imply curvature; when every overlap fits exactly and determines its fit, the holonomy is trivial exactly when the three representations glue into one configuration up to frames, so a nontrivial one is a gauge-invariant discrepancy among the contexts'' own comparisons, and it occurs; an overlap that does not span leaves the holonomy to the modeller'
+title: 'Plurality does not imply curvature'
+statement: >-
+  For three evaluative contexts whose transports are derived by orthogonal
+  fit on the commitments each overlap shares, contexts that represent one
+  configuration in different local frames have trivial holonomy, so
+  perspectival plurality does not imply curvature; when every overlap fits
+  exactly and determines its fit, the holonomy is trivial exactly when the
+  three representations glue into one configuration up to frames, so a
+  nontrivial one is a gauge-invariant discrepancy among the contexts' own
+  comparisons, and it occurs; an overlap that does not span leaves the
+  holonomy to the modeller
 version: 1
 history:
 - version: 1
@@ -40,7 +50,7 @@ complements:
 <!-- inactive-ok-file: LIT-038 — Rejected; cited as the record's rejection that this claim's last clause makes exact -->
 <!-- inactive-ok-file: CASE-339 — Proposed; the study filed with this claim -->
 
-# CLAIM-907: For three evaluative contexts whose transports are derived by orthogonal fit on the commitments each overlap shares, contexts that represent one configuration in different local frames have trivial holonomy, so perspectival plurality does not imply curvature; when every overlap fits exactly and determines its fit, the holonomy is trivial exactly when the three representations glue into one configuration up to frames, so a nontrivial one is a gauge-invariant discrepancy among the contexts' own comparisons, and it occurs; an overlap that does not span leaves the holonomy to the modeller
+# CLAIM-907: Plurality does not imply curvature
 
 ## The claim
 

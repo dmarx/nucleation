@@ -1,6 +1,13 @@
 ---
 status: Proposed
-title: 'Coordinated unity of an organization''s activity does not entail unity of authority over it: unity of purpose, execution, specification and accountability can be had through differentiated jurisdictions and maintained interfaces, responsibility for an outcome does not entail every power over the processes that contribute to, evaluate or correct it, and more control over an organization need not mean more capacity in it'
+title: 'Unity of activity is not unity of authority'
+statement: >-
+  Coordinated unity of an organization's activity does not entail unity of
+  authority over it: unity of purpose, execution, specification and
+  accountability can be had through differentiated jurisdictions and
+  maintained interfaces, responsibility for an outcome does not entail every
+  power over the processes that contribute to, evaluate or correct it, and
+  more control over an organization need not mean more capacity in it
 version: 1
 role: thesis
 warrant: interpretive
@@ -38,7 +45,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-706 CLAIM-736 LIT-tmp0qznk LIT-tmp4cqb2 LIT-tmptzlx9 TERM-128 — Proposed, Deferred or Rejected; filed or cited in the filing of the exchange 'Memes, Contracts, and Systemic Normativity', whatever their standing -->
 
-# CLAIM-tmp1wlu2: Coordinated unity of an organization's activity does not entail unity of authority over it: unity of purpose, execution, specification and accountability can be had through differentiated jurisdictions and maintained interfaces, responsibility for an outcome does not entail every power over the processes that contribute to, evaluate or correct it, and more control over an organization need not mean more capacity in it
+# CLAIM-tmp1wlu2: Unity of activity is not unity of authority
 
 ## The claim
 

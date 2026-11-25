@@ -3,7 +3,14 @@ number: 1189
 status: Proposed
 formerly:
 - CLAIM-tmpx0pvr
-title: 'In a percept–action loop, the nostalgia of a memory depends on the policy that uses it and not only on what it keeps: a memory of the context, used to make the action succeed, leaves no trace of itself in the next percept and is wholly nonpredictive, while the same memory left unused can be wholly predictive, and its heat per step is the same either way, so under feedback nostalgia is neither a property of the memory nor its cost'
+title: 'Under feedback nostalgia depends on policy'
+statement: >-
+  In a percept–action loop, the nostalgia of a memory depends on the policy
+  that uses it and not only on what it keeps: a memory of the context, used
+  to make the action succeed, leaves no trace of itself in the next percept
+  and is wholly nonpredictive, while the same memory left unused can be
+  wholly predictive, and its heat per step is the same either way, so under
+  feedback nostalgia is neither a property of the memory nor its cost
 version: 1
 role: thesis
 warrant: demonstrated
@@ -43,7 +50,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-391 — filed by the lead run of 2026-11-23 -->
 
-# CLAIM-1189: In a percept–action loop, the nostalgia of a memory depends on the policy that uses it and not only on what it keeps: a memory of the context, used to make the action succeed, leaves no trace of itself in the next percept and is wholly nonpredictive, while the same memory left unused can be wholly predictive, and its heat per step is the same either way, so under feedback nostalgia is neither a property of the memory nor its cost
+# CLAIM-1189: Under feedback nostalgia depends on policy
 
 ## The claim
 

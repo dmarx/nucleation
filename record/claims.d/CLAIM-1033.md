@@ -3,7 +3,14 @@ number: 1033
 status: Active
 formerly:
 - CLAIM-tmp64hmn
-title: 'The Tempe contrast is between the criminal law and a safety investigation, not between blame and its absence: a company''s criminal liability turns on elements an individual''s negligence does not need, and processes outside the criminal law that carry liability or sanction did reach the company, a settlement with the victim''s family and the state''s suspension of its testing'
+title: 'Tempe contrast is criminal law vs investigation'
+statement: >-
+  The Tempe contrast is between the criminal law and a safety investigation,
+  not between blame and its absence: a company's criminal liability turns on
+  elements an individual's negligence does not need, and processes outside
+  the criminal law that carry liability or sanction did reach the company, a
+  settlement with the victim's family and the state's suspension of its
+  testing
 version: 2
 history:
 - version: 2
@@ -42,7 +49,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-1005 — new; the claim objected to -->
 <!-- inactive-ok-file: CLAIM-751 CLAIM-733 — Proposed; the claims whose contrast the objection narrows -->
 
-# CLAIM-1033: The Tempe contrast is between the criminal law and a safety investigation, not between blame and its absence: a company's criminal liability turns on elements an individual's negligence does not need, and processes outside the criminal law that carry liability or sanction did reach the company, a settlement with the victim's family and the state's suspension of its testing
+# CLAIM-1033: Tempe contrast is criminal law vs investigation
 
 ## The objection
 

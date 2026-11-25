@@ -3,7 +3,13 @@ number: 398
 status: Active
 formerly:
 - CLAIM-tmp5fx5d
-title: 'In a stable linear Gaussian VAR(1) on ℝⁿ, a scalar linear coarse variable Y = LX is, in its own law, an ARMA process of orders at most (n, n − 1); so its Mori–Zwanzig memory, though non-zero at every lag in general, is carried exactly by finitely many coordinates that are functions of Y''s own past and innovations'
+title: 'A scalar coarse variable is ARMA(n, n − 1)'
+statement: >-
+  In a stable linear Gaussian VAR(1) on ℝⁿ, a scalar linear coarse variable
+  Y = LX is, in its own law, an ARMA process of orders at most (n, n − 1);
+  so its Mori–Zwanzig memory, though non-zero at every lag in general, is
+  carried exactly by finitely many coordinates that are functions of Y's own
+  past and innovations
 version: 1
 role: thesis
 warrant: demonstrated
@@ -36,7 +42,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-257 — Proposed; the account whose conditioning set this matches, nothing here rests on it -->
 
-# CLAIM-398: In a stable linear Gaussian VAR(1) on ℝⁿ, a scalar linear coarse variable Y = LX is, in its own law, an ARMA process of orders at most (n, n − 1); so its Mori–Zwanzig memory, though non-zero at every lag in general, is carried exactly by finitely many coordinates that are functions of Y's own past and innovations
+# CLAIM-398: A scalar coarse variable is ARMA(n, n − 1)
 
 ## The claim
 

@@ -1,6 +1,12 @@
 ---
 status: Proposed
-title: "Luria did not originate in Nucleation: it was extracted from the process the owner used to steer an LLM pair-programming collaboration on a webapp, and Nucleation is the first project outside that webapp and luria itself governed by it, which makes Nucleation evidence that luria is a reusable library and not an application's core split off"
+title: 'Luria was extracted from a webapp project'
+statement: >-
+  Luria did not originate in Nucleation: it was extracted from the process
+  the owner used to steer an LLM pair-programming collaboration on a webapp,
+  and Nucleation is the first project outside that webapp and luria itself
+  governed by it, which makes Nucleation evidence that luria is a reusable
+  library and not an application's core split off
 version: 1
 role: thesis
 warrant: interpretive
@@ -33,7 +39,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-tmp5fv9h CLAIM-tmpmnjir — Proposed; filed with this claim from the same exchange -->
 
-# CLAIM-tmp97pg4: Luria did not originate in Nucleation: it was extracted from the process the owner used to steer an LLM pair-programming collaboration on a webapp, and Nucleation is the first project outside that webapp and luria itself governed by it, which makes Nucleation evidence that luria is a reusable library and not an application's core split off
+# CLAIM-tmp97pg4: Luria was extracted from a webapp project
 
 ## The claim
 

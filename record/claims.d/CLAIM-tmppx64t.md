@@ -1,6 +1,11 @@
 ---
 status: Proposed
-title: 'Exploitation can expose, in the sense of reveal, the relied-upon expectations an implicit contract kept tacit: an asymmetric use of reliance makes visible both the expectation and the opportunity for asymmetry it had created'
+title: 'Exploitation can reveal tacit expectations'
+statement: >-
+  Exploitation can expose, in the sense of reveal, the relied-upon
+  expectations an implicit contract kept tacit: an asymmetric use of
+  reliance makes visible both the expectation and the opportunity for
+  asymmetry it had created
 version: 1
 role: thesis
 warrant: interpretive
@@ -41,7 +46,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-tmp05a1l CLAIM-tmp1nubb CLAIM-700 CLAIM-tmp0d1fq — Proposed; the alternative reading, the claims filed with this from A20–A22, and the held loop that hides a shortfall -->
 
-# CLAIM-tmppx64t: Exploitation can expose, in the sense of reveal, the relied-upon expectations an implicit contract kept tacit: an asymmetric use of reliance makes visible both the expectation and the opportunity for asymmetry it had created
+# CLAIM-tmppx64t: Exploitation can reveal tacit expectations
 
 ## The claim
 
