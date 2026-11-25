@@ -74,14 +74,14 @@ goes to it, is [CASE-386](../cases.d/CASE-386.md).
 
 [CLAIM-1157](../claims.d/CLAIM-1157.md), A52's answer, went Active on 2026-11-25 under the owner's
 delegation of 2026-11-24, after a rerun by a second session reproduced it
-and its premise [CLAIM-1114](../claims.d/CLAIM-1114.md) was promoted (dmarx/nucleation#813, #814). It
+and its premise [CLAIM-1114](../claims.d/CLAIM-1114.md) was promoted (dmarx/nucleation#813, [#814](https://github.com/dmarx/nucleation/issues/814)). It
 settles the first part: boundedness does not make asking and answering
 compete; a common budget, a common bottleneck or a sequential dependence
 supplies the coupling. [TERM-085](../terms.d/TERM-085.md), Active, settles the second: time is a
-shared resource, and CLAIM-1157 adds that a shared deadline is not a
+shared resource, and [CLAIM-1157](../claims.d/CLAIM-1157.md) adds that a shared deadline is not a
 shared pool of worker-hours, since independent processes can spend the
 same elapsed time at once. Both parts having Active answers, the question
-is Answered (ADR-049), at the owner's word of 2026-11-25 that whether a
+is Answered ([ADR-049](../decisions.d/ADR-049.md)), at the owner's word of 2026-11-25 that whether a
 question is answered "shouldn't be a matter of opinion". The wording is
 the assistant's (Claude, in this session); adopting it is the owner's
 call.
