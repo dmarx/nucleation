@@ -731,6 +731,62 @@ and four failed as stated, of which J4.1 passed in a corrected form
 ([CLAIM-tmp7rl3d](../claims.d/CLAIM-tmp7rl3d.md)). The wording is the assistant's (Claude, in this session);
 adopting it is the owner's call.
 
+## Note of 2026-11-25: the verdicts on Part I's new joins J1.8 and J1.9
+<!-- inactive-ok-file: CLAIM-417 CLAIM-615 CLAIM-924 CASE-177 SYNTHESIS-040 SYNTHESIS-043 SYNTHESIS-046 SYNTHESIS-047 SYNTHESIS-049 SYNTHESIS-053 SYNTHESIS-077 SYNTHESIS-079 — Proposed; cited in the note of 2026-11-25 with the joins reader's verdicts -->
+
+The refresh of the manuscript governance-of-becoming to A51's order
+(2026-11-25) added two joins to Article 1, which the section "The joins of
+the manuscript governance-of-becoming, Part I" does not list. An
+independent reader tested both under [ADR-075](../decisions.d/ADR-075.md)'s step 5 in the refresh's
+fact-check (FACTCHECK-2026-11-25-part-i-refresh.md, Part B), against the
+three routes and the "Not stated on the record" sections of [SYNTHESIS-040](SYNTHESIS-040.md),
+[SYNTHESIS-043](SYNTHESIS-043.md), [SYNTHESIS-046](SYNTHESIS-046.md), [SYNTHESIS-047](SYNTHESIS-047.md), [SYNTHESIS-049](SYNTHESIS-049.md), [SYNTHESIS-053](SYNTHESIS-053.md),
+[SYNTHESIS-077](SYNTHESIS-077.md) and [SYNTHESIS-079](SYNTHESIS-079.md). They belong under "Not stated on the
+record" with the other Part I verdicts:
+
+- **J1.8** (Article 1 §1.11), the negative results as one table, with A51
+  §5's "what not to infer" column, read as A51's "Behavior does not
+  identify organization" and "Coordination does not establish
+  individuation", each in its stated model. **A restatement**: a
+  conjunction of its rows, each held by its own entry in its own model,
+  so no case can have every row hold and the table fail. No account
+  declines this join; [SYNTHESIS-043](SYNTHESIS-043.md)'s "Capability as not one quantity"
+  declines the same shape, and [SYNTHESIS-079](SYNTHESIS-079.md)'s "One ladder of what
+  separates" declines an ordering the table does not make. Two rows were
+  corrected to their entries' words: [CASE-346](../cases.d/CASE-346.md)'s habit of matched memory
+  reproduces "the responses to belief correction, authority reset and
+  restored evidence", and "Only interventions on the evaluation tell the
+  two apart" ([CLAIM-924](../claims.d/CLAIM-924.md) says the same), not every intervention; and
+  [CASE-177](../cases.d/CASE-177.md) shows dependence growing "with no new collective function",
+  while that interdependence is not individuality is held in
+  [QUESTION-277](../questions.d/QUESTION-277.md)'s notes, the Black Queen route, as [SYNTHESIS-053](SYNTHESIS-053.md)'s "Not
+  stated on the record" says.
+- **J1.9** (Article 1 §1.2, §1.13), A51's thesis that organizational
+  identity is "a plurality of related achievements rather than a single
+  equivalence relation", which the article maps to [TERM-088](../terms.d/TERM-088.md), [CLAIM-474](../claims.d/CLAIM-474.md),
+  [CLAIM-405](../claims.d/CLAIM-405.md) and [CLAIM-590](../claims.d/CLAIM-590.md) and does not assert. **Correctly not made; as a
+  claim it fails**: a recap on the weak reading, a free parameter on the
+  strong. On the weak reading, that no single equivalence relation fixes
+  identity across the senses and criteria the record keeps apart, it
+  follows trivially from [TERM-088](../terms.d/TERM-088.md)'s "are not stages", [CLAIM-405](../claims.d/CLAIM-405.md)'s
+  relativity to a criterion and [CLAIM-590](../claims.d/CLAIM-590.md)'s relativity to a category. On
+  the strong reading, a plurality even for a fixed sense and criterion,
+  neither "organizational identity" nor "related" is fixed by any
+  component, any case in which one fixed-criterion relation decides
+  identity is absorbed as one member of the plurality, and no separating
+  case or discriminating prediction can be stated: [ADR-075](../decisions.d/ADR-075.md)'s third guarded
+  failure. The record's one criterion of identity over time is causal
+  transmission ([CLAIM-329](../claims.d/CLAIM-329.md), Active; [CLAIM-615](../claims.d/CLAIM-615.md), Proposed), and [CLAIM-417](../claims.d/CLAIM-417.md)
+  keeps "Numerical organizational identity" apart from resemblance and
+  descent (A40), so the weak reading is about individuation rather than
+  identity. Article 1 §1.13 now names [CLAIM-329](../claims.d/CLAIM-329.md) and [CLAIM-615](../claims.d/CLAIM-615.md) beside the
+  four parts.
+
+Neither verdict adds a component or a link to this account. The
+manuscript's other Part I joins and their verdicts are unchanged. The
+wording is the assistant's (Claude, in this session); adopting it is the
+owner's call.
+
 ## Note of 2026-11-25: two parts out of date, from the manuscript governance-of-becoming, Articles 7 and 8
 <!-- inactive-ok-file: CLAIM-tmpsh3og TERM-tmp383al TERM-tmp72sq3 CLAIM-tmp590sw — Proposed or new; the claim, the owner's correction and its terms, and the two readings of U4 with the claim the ruling adds -->
 

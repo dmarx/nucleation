@@ -3,7 +3,7 @@
 
 This is the executed study behind A48 §9 of the manuscript. The draft stipulates
 three regimes and asserts their outcomes. This study runs them, as
-LEAD-tmpnblsf asks, extending LEAD-080's readiness simulator (CASE-315,
+LEAD-226 asks, extending LEAD-080's readiness simulator (CASE-315,
 `scratch/studies/lead-080/`). From that study it reuses the peak-accounting
 budget, the drill that holds the budget, the partial-rollover and CASE-200
 rules, and seeding by `default_rng([base, i])`. Its code is not modified.
@@ -102,7 +102,7 @@ coordinator before committing: the outputs reproduced exactly except
    establishes is the divergence after a contingency, not the match. Once
    contingencies arrive, overall output ranges from 0.76 (III-a) to 0.92
    (II).
-2. **CLAIM-577 and CLAIM-tmpg8yl2 hold exactly.**
+2. **CLAIM-577 and CLAIM-1099 hold exactly.**
    - Under the peak rule the budget never rises.
    - One holding period forecloses every route whose threshold exceeds 1.
    - A redesigned route is kept exactly when θ′ ≤ 1.

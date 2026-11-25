@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpoxkub
 title: 'An individuation is well defined only once its criterion is fixed (the target it serves, the transformations its unity must survive, the scale), and that dependence does not make it arbitrary: once the criterion is fixed a verdict can be false, and differently fixed criteria can pick out units of one system whose boundaries cross rather than nest, none of them less real for it'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -17,6 +17,12 @@ history:
     summary's 'It answers QUESTION-065 in part' now reads 'It bears on
     QUESTION-065 without answering it' (ADR-060), as its bears_on edge
     already said. Status Proposed to Active.
+- version: 3
+  date: '2026-11-25'
+  note: >-
+    Joins the work atlas (ADR-tmpm72rh): the hyperarticle atlas v0.3
+    states its proposition without citing it, in scope 04. No other
+    change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -60,6 +66,8 @@ summary: >-
   criterion is right.
 bears_on:
 - QUESTION-065
+works:
+- atlas
 ---
 <!-- inactive-ok-file: THEORY-2014 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-157 — Proposed; cited in the note of 2026-11-07 -->

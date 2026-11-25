@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpx4kjt
 title: 'The upstream provenance of a failure can be carried without blame: an investigator barred from assigning blame or liability traced the Tempe operator''s distraction to her company''s safety culture and the state''s oversight and addressed its recommendations to them, so blame is one carrier of upstream provenance and not its only source'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-22'
@@ -12,6 +12,12 @@ history:
     A dated note added: the reports of the Tempe prosecution read for
     LEAD-189 (corroborates the contrast), with the claim and the
     objection filed from them. No change of status or title.
+- version: 3
+  date: '2026-11-25'
+  note: >-
+    Joins the work atlas (ADR-tmpm72rh): the hyperarticle atlas v0.3
+    states its proposition without citing it, in scope 13. No other
+    change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -60,6 +66,8 @@ summary: >-
   claim, not that [CLAIM-733](CLAIM-733.md) holds only where no such investigator exists.
   The wording is the assistant's (Claude, in this session); adopting it is
   the owner's call.
+works:
+- atlas
 ---
 <!-- inactive-ok-file: CLAIM-733 CASE-292 TERM-127 — Proposed; filed from the exchange "Assess Depp Heard Abuse" and its readings, cited with their standing -->
 <!-- inactive-ok-file: CLAIM-750 ARG-118 THEORY-1998 — new; filed with this claim -->

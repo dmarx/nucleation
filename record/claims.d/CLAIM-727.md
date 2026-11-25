@@ -4,7 +4,7 @@ formerly:
 - CLAIM-tmpcpijj
 status: Active
 title: 'Authority over a decision does not carry authority over the conditions on which it may be challenged: control of the cost, timing, evidence, forum or remedy of a challenge needs its own justification, and where an actor''s authority is meant to be constrained by independently justified claims, its own judgment that it has met them cannot always establish that it has'
-version: 7
+version: 8
 history:
 - version: 2
   date: '2026-11-17'
@@ -56,6 +56,12 @@ history:
     manuscript in scratch/manuscripts/governance-of-possibility/ states
     its proposition or uses it as a step, in §13.3, §13.8. No other
     change.
+- version: 8
+  date: '2026-11-25'
+  note: >-
+    Joins the work atlas (ADR-tmpm72rh): the hyperarticle atlas v0.3
+    states its proposition or uses it as a step, in scope 13. No other
+    change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -78,6 +84,7 @@ line:
 - organizational-normativity
 - rightful-power
 works:
+- atlas
 - governance-of-possibility
 - capability-restraint-relational-freedom
 complements:

@@ -4,7 +4,14 @@ status: Proposed
 formerly:
 - CLAIM-tmpgfunb
 title: 'Whether information a learning system stores is knowledge depends on whether the procedures the declared system may use, within a declared budget, bring it to bear as a premise, not on whether it can be decoded: knowing is relative to the declared system and budget, and decodability by an outside probe makes information stored, not known'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-25'
+  note: >-
+    Joins the work atlas (ADR-tmpm72rh): the hyperarticle atlas v0.3
+    states its proposition without citing it, in scope 06. No other
+    change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -39,6 +46,8 @@ summary: >-
   resource-conditional disposition applied to knowing, as [QUESTION-493](../questions.d/QUESTION-493.md)'s
   candidate (A73) began to. The wording is the assistant's (Claude, in
   this session); adopting it is the owner's call.
+works:
+- atlas
 ---
 <!-- inactive-ok-file: CLAIM-697 TERM-079 CASE-371 — Proposed; cited as the premise, the criterion applied and a related case -->
 <!-- inactive-ok-file: CASE-408 CASE-413 CASE-414 — Proposed; filed by the lead run of 2026-11-23 -->

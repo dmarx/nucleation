@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp8swu5
 title: 'Which of an agent''s available regimes becomes effective depends on maintained relations — accessibility, precedence, persistence, jurisdiction, suspension and transformation — that are not reducible to the contents of the competing regimes, whatever mechanisms realize them'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-05'
@@ -31,6 +31,12 @@ history:
     The explanatory gain the paper stakes on the account is now
     CLAIM-487, and CLAIM-024 objects to that. Promoted, the
     owner ruling on the PR of this review.
+- version: 5
+  date: '2026-11-25'
+  note: >-
+    Joins the work atlas (ADR-tmpm72rh): the hyperarticle atlas v0.3
+    states its proposition or uses it as a step, in scope 08. No other
+    change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -44,6 +50,7 @@ tags:
 date: '2026-10-04'
 line: will-organization
 works:
+- atlas
 - organization-of-will
 answers:
 - QUESTION-015

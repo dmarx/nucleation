@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpt75xe
 title: 'A normative judgment is well-defined only once its relata are fixed (the organization or standpoint it concerns, the standard, the scale and the context), and that dependence does not by itself make it relative: once they are fixed, the judgment can be false'
-version: 7
+version: 8
 history:
 - version: 2
   date: '2026-10-21'
@@ -53,6 +53,12 @@ history:
     Joins the work capability-restraint-relational-freedom
     (ADR-104), the owner's manuscript from the exchange "Assess
     Depp Heard Abuse": A49 §2 states its proposition. No other change.
+- version: 8
+  date: '2026-11-25'
+  note: >-
+    Joins the work atlas (ADR-tmpm72rh): the hyperarticle atlas v0.3
+    states its proposition or uses it as a step, in scope 11. No other
+    change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -71,6 +77,7 @@ date: '2026-10-18'
 line:
 - organizational-normativity
 works:
+- atlas
 - capability-restraint-relational-freedom
 rests_on:
 - CLAIM-152

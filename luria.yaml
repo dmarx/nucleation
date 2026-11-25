@@ -933,6 +933,15 @@ vocabularies:
           views; a journal as a feed over editors; the publisher need not own the judgement; maintenance in
           place of publish-or-perish; and provenance for educators. Its argument is held mainly in the line
           scholarly-publishing (ADR-tmp85hdc)'
+      atlas:
+        label: 'Nucleation Hyperarticle Atlas'
+        blurb: 'the series of hyperarticles the owner asked for in the exchange "Hyper article interpretation"
+          (U25 to U29, 2026-11-25), drafted by ChatGPT as an atlas (A56, revised at A59 and given outlines and
+          core fibers at A65, v0.3, kept verbatim in scratch/atlas/atlas-v0.3.md): fifteen scopes in four
+          regions, from inquiry and its records to publishing the atlas, each a future article, with three
+          entry points (the theory, the implementation, the publication). Its articles that are works keep
+          their own membership; its own members are the claims its prose states. Each scope is a line
+          (ADR-tmpd3ckn); its account, an account over the fifteen lines'' accounts, waits on those (ADR-tmpm72rh)'
 issue_url: https://github.com/dmarx/nucleation/issues/{n}
 # The pending report's age horizon, at the record's own pace: the default 90
 # could not name a stale document in a record a month old (ADR-057).

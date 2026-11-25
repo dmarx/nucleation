@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpswafr
 title: 'Maintaining a regime of effective action and maintaining the capacity to govern among regimes are not the same achievement'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-23'
@@ -20,6 +20,12 @@ history:
     tmpd3ckn: the entry is in that scope's core fiber in the hyperarticle
     atlas v0.3 (scratch/atlas/atlas-v0.3.md), and each atlas scope is
     documented as a line. No other change.
+- version: 4
+  date: '2026-11-25'
+  note: >-
+    Joins the work atlas (ADR-tmpm72rh): the hyperarticle atlas v0.3
+    states its proposition or uses it as a step, in scope 14. No other
+    change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -34,6 +40,7 @@ line:
 - will-organization
 - governing-possibility
 works:
+- atlas
 - governance-of-possibility
 - organization-of-will
 uses:

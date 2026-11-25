@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpj6tb1
 title: 'An arrangement can produce the dependence through which it exploits: by reliably supplying what a party then ceases to supply for itself, it creates a reliance on the provider that the party did not have before, and the provider can use that reliance to set terms the party could earlier have refused'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-11-15'
@@ -44,6 +44,12 @@ history:
     Joins the work governance-of-becoming under ADR-104's rule, as
     stated or used in A49 Article 9 abstract, §2 (ADR-tmpenzcn). No
     change of title or status.
+- version: 7
+  date: '2026-11-25'
+  note: >-
+    Joins the work atlas (ADR-tmpm72rh): the hyperarticle atlas v0.3
+    states its proposition or uses it as a step, in scope 12. No other
+    change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -67,6 +73,7 @@ line:
 - dependence-and-domination
 - transient-support
 works:
+- atlas
 - capability-restraint-relational-freedom
 - governance-of-becoming
 rests_on:

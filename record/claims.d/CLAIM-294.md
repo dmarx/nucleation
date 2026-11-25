@@ -6,7 +6,7 @@ formerly:
 title: Two inquiry histories can agree on every current conclusion and still call
   for different revisions of it, so a current marginal belief is not a sufficient
   state for updating on evidence about what it depended on
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-21'
@@ -44,6 +44,12 @@ history:
     Joins the work conditions-of-correction (ADR-tmp85hdc): Article 1 of
     A45 in the exchange "Hyper article interpretation" states its
     proposition or uses it as a step, in §3. No other change.
+- version: 7
+  date: '2026-11-25'
+  note: >-
+    Joins the work atlas (ADR-tmpm72rh): the hyperarticle atlas v0.3
+    states its proposition or uses it as a step, in scope 02. No other
+    change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -74,6 +80,7 @@ summary: >-
 bears_on:
 - QUESTION-366
 works:
+- atlas
 - conditions-of-correction
 ---
 <!-- inactive-ok-file: CLAIM-295 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->

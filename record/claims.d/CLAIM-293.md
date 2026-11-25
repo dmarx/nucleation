@@ -6,7 +6,7 @@ formerly:
 title: 'The topology of a support graph does not fix how a conclusion should be
   revised when one of its supports fails: two records with the same edges can carry
   evidence of different strength and call for different revisions'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-07'
@@ -22,6 +22,12 @@ history:
     does not itself establish that the selected argument has adequate
     evidentiary support.'" Its title: "The topology of a support graph
     does not fix how a conclusion should be revised". No other change.
+- version: 4
+  date: '2026-11-25'
+  note: >-
+    Joins the work atlas (ADR-tmpm72rh): the hyperarticle atlas v0.3
+    states its proposition or uses it as a step, in scope 02. No other
+    change.
 role: granted
 warrant: demonstrated
 tags:
@@ -45,6 +51,8 @@ complements:
 - CLAIM-479
 bears_on:
 - QUESTION-258
+works:
+- atlas
 ---
 <!-- inactive-ok-file: CLAIM-250 CLAIM-295 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: THEORY-1761 THEORY-1778 THEORY-1780 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->

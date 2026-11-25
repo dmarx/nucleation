@@ -330,3 +330,30 @@ None is filed as a claim.
   ([CLAIM-487](../claims.d/CLAIM-487.md), Proposed).
 - That Northstar is an agent outside [CLAIM-080](../claims.d/CLAIM-080.md)'s supposition.
 - Anything with standing of its own.
+
+## Note of 2026-11-25: what has moved since version 3, from the manuscript governance-of-becoming, Article 4
+<!-- inactive-ok-file: CLAIM-889 CLAIM-890 — not in force; cited in the note of 2026-11-25 with their standing -->
+
+The manuscript's Article 4 (G4.1) and README open item 21 list this
+account as lagging (the audit of what was left out (2026-11-25), B21). Checked on 2026-11-25, with one correction
+to that listing:
+
+- **[CASE-325](../cases.d/CASE-325.md) is integrated**, added at version 3 (2026-11-23) as a
+  component, so G4.1's "No account maps [CASE-325](../cases.d/CASE-325.md) … into SYNTHESIS-036"
+  overstates. It is listed among the components and not used in the
+  account's text or title.
+- **[CLAIM-889](../claims.d/CLAIM-889.md) and [CLAIM-890](../claims.d/CLAIM-890.md)** (both Proposed, filed 2026-11-22) are not
+  integrated. [CLAIM-889](../claims.d/CLAIM-889.md) states [CASE-325](../cases.d/CASE-325.md)'s result; [CLAIM-890](../claims.d/CLAIM-890.md) reads it
+  against the fields: for an organization, institutional theory "already
+  writes the relations as rules-in-use", and "what is left of the
+  explanatory-gain claim is that one description serves across realizers,
+  which a model of one realizer cannot test".
+- **The title's "is open"** is still true, but narrower than it says: open
+  across realizers, not for an organization against control and planning
+  theory, where [CLAIM-890](../claims.d/CLAIM-890.md) gives a verdict. The second realizer is now held
+  as [LEAD-tmpb2w1a](../leads.d/LEAD-tmpb2w1a.md).
+- **[CASE-325](../cases.d/CASE-325.md) was rerun** on 2026-11-25 by a session other than the
+  filer's, every figure matching (its note of that date).
+
+A revision on the synthesis-review skill's stage 4 is due; this note does
+not make it. No change of status. The wording is the assistant's (Claude, in this session); adopting it is the owner's call.
