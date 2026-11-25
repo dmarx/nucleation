@@ -32,7 +32,7 @@ summary: >-
   session); adopting either is the owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-921 CLAIM-tmpb1wyc CLAIM-tmpcet1g CLAIM-tmpjoaj3 CLAIM-tmpuleno LIT-tmp4c11c LIT-tmp4gwsm — Proposed, Deferred or new; filed or registered with the exchange 'Memes, Contracts, and Systemic Normativity', cited whatever their standing -->
+<!-- inactive-ok-file: CLAIM-tmpb1wyc CLAIM-tmpcet1g CLAIM-tmpjoaj3 CLAIM-tmpuleno LIT-tmp4c11c LIT-tmp4gwsm — Proposed, Deferred or new; filed or registered with the exchange 'Memes, Contracts, and Systemic Normativity', cited whatever their standing -->
 
 # LEAD-tmpmmfxt: Use simulated service ecologies as a testbed for the SRE readings: over-reliable providers and fallback erosion, retry amplification, operational overload under a protected allocation, error-budget precedence against fixed priorities, and utilization-funded recovery capabilities, each against a queueing or control baseline
 
@@ -97,5 +97,5 @@ owner's call.
 
 ## Note of 2026-11-24: what the record already does, from U32 and A51 of the exchange 'Memes, Contracts, and Systemic Normativity'
 
-<!-- inactive-ok-block: CASE-343 CASE-412 CLAIM-878 CLAIM-tmpyp0ju — Proposed or new; the executed studies and claims this note checks the lead against, and the owner's thesis it answers -->
+<!-- inactive-ok-block: CLAIM-tmpyp0ju — Proposed or new; the executed studies and claims this note checks the lead against, and the owner's thesis it answers -->
 A51 Article 10: "This paper should not be an exercise in constructing new SRE-inspired toy models." Of the five experiments above, "Recovery readiness" is done: [CASE-343](../cases.d/CASE-343.md) runs the utilization-funded loop with and without decoupling for [CLAIM-921](../claims.d/CLAIM-921.md), and reproduces on a rerun of 2026-11-24. "Operational overload" is done in part by [CASE-412](../cases.d/CASE-412.md) (drills, reserves and carry-over under the peak rule, [CLAIM-878](../claims.d/CLAIM-878.md)). "Over-reliable dependency" has its mechanism demonstrated as [CLAIM-602](../claims.d/CLAIM-602.md) and [CLAIM-675](../claims.d/CLAIM-675.md) (Active), so a service-ecology run would test a known result in a new domain. "Error-budget governance" has [CASE-325](../cases.d/CASE-325.md)'s comparison of relational authority against control models as its nearest study, not the same question. "Retry amplification" is not held. Narrow the lead to retry amplification and to error-budget precedence, and cite the rest. The owner's U32 holds that the series' proposed experiments are "largely already satisfied by prior work" ([CLAIM-tmpyp0ju](../claims.d/CLAIM-tmpyp0ju.md)). The note is the assistant's (Claude, in this session); whether to narrow, lower or close the lead is the owner's call. No status change.

@@ -34,7 +34,7 @@ summary: >-
   asked for is the assistant's (Claude, in this session); adopting either
   is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-326 CLAIM-1016 CLAIM-603 CLAIM-670 CLAIM-tmp2jhc1 CLAIM-tmpdu9v6 TERM-116 — Proposed, Rejected or new; entries this one reads or rests on, cited whatever their standing -->
+<!-- inactive-ok-file: CLAIM-1016 CLAIM-603 CLAIM-670 CLAIM-tmp2jhc1 CLAIM-tmpdu9v6 TERM-116 — Proposed, Rejected or new; entries this one reads or rests on, cited whatever their standing -->
 
 # LEAD-tmpeo8wq: Index the resource-bounded constraint system's reachability by actor and by authority, and construct a cooperation in which repeated successful coordination enlarges what the participants can reach together while contracting what one of them can reach alone, separating physical feasibility, affordability, authorization and permissibility of each transition
 

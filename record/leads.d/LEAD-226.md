@@ -30,8 +30,6 @@ summary: The computational study the manuscript governance-of-possibility propos
   call.
 ---
 
-<!-- inactive-ok-file: CLAIM-1099 CASE-315 — Proposed; what this advances and builds on -->
-
 # LEAD-226: Extend the readiness simulator with a redesign arm, a sweep of reserve sizes between holding cost and threshold, and a harm absent from the demand specification introduced mid-run
 
 ## The design
@@ -56,5 +54,4 @@ which regime ranks first at which deadlines.
 
 ## Note of 2026-11-23: the study filed
 
-<!-- inactive-ok-block: CASE-412 CASE-397 — new; the study filed -->
 The design was run for the manuscript governance-of-possibility (scratch/manuscripts/governance-of-possibility/analysis/, at commit 28a3708c1, reproduced) and is filed as two cases, named in `operationalized_in`: [CASE-412](../cases.d/CASE-412.md) holds the redesign arm and the reserve sweep, with readiness curves, reserve cost and the ranking by deadline, and [CASE-397](../cases.d/CASE-397.md) holds the harm absent from the specification. The redesign's cost is reported as a break-even rather than charged up front; whether the lead is done is the owner's call. The note is the assistant's (Claude, in this session); adopting it is the owner's call.

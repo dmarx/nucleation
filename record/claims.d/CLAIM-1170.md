@@ -27,7 +27,7 @@ summary: 'The owner''s, 2026-11-23, in this session: "physics as the subset
   witness in physical phenomena ([CLAIM-1146](CLAIM-1146.md)). The owner''s.'
 ---
 
-<!-- inactive-ok-file: ARG-235 CLAIM-1143 CLAIM-1146 CLAIM-1151 CLAIM-1185 — Proposed; cited in this filing of 2026-11-23 -->
+<!-- inactive-ok-file: ARG-235 CLAIM-1143 CLAIM-1146 CLAIM-1151 — Proposed; cited in this filing of 2026-11-23 -->
 
 # CLAIM-1170: Physics is the subset of mathematics relevant to phenomena it is possible to observe
 

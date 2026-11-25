@@ -292,7 +292,7 @@ No status change.
 ChatGPT (A84) ranks this question high in its triage ([CLAIM-763](../claims.d/CLAIM-763.md)), to be advanced by "Formal and philosophical reconciliation of distributed cognition, caching, and amortized inference". Its next advance without an experiment, for the value of stored work: "Separate operational feasibility, lifetime economic efficiency, and distributed costs", which [CLAIM-761](../claims.d/CLAIM-761.md) and [CLAIM-760](../claims.d/CLAIM-760.md) have begun.
 
 ## Note of 2026-11-22: one cost model, priced on three cases
-<!-- inactive-ok-file: CASE-326 CLAIM-891 CLAIM-892 — new; filed by LEAD-108's run of 2026-11-22 -->
+<!-- inactive-ok-file: CLAIM-891 — new; filed by LEAD-108's run of 2026-11-22 -->
 
 [LEAD-108](../leads.d/LEAD-108.md) wrote a model with the terms the note of 2026-10-15 asked for, and
 priced the crew's speed bugs, a filed argument and a LEGO bin with it

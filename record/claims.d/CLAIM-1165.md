@@ -46,7 +46,7 @@ summary: >-
   exchange "Explain First Contact RL"); adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-615 CLAIM-1039 CLAIM-1044 CLAIM-1048 CLAIM-1053 CLAIM-1066 CLAIM-1073 CLAIM-1095 CLAIM-1119 CLAIM-1132 CLAIM-1156 CLAIM-1179 — Proposed; entries filed from this exchange or neighbours cited, not leaned on as in force -->
+<!-- inactive-ok-file: CLAIM-615 CLAIM-1039 CLAIM-1044 CLAIM-1048 CLAIM-1053 CLAIM-1066 CLAIM-1073 CLAIM-1119 CLAIM-1132 CLAIM-1156 CLAIM-1179 — Proposed; entries filed from this exchange or neighbours cited, not leaned on as in force -->
 
 # CLAIM-1165: A collective identity may be a historically sustained organization of overlapping perspectives whose interactions constitute an evolving question–answer game, residing not in its members, questions, answers or rules but in the maintained organization of the game, including the means by which its own rules are revised, so that it is a slow mode of the game, and a collective that reproduces the capacity to revise is adaptive where one stable by suppressing alternatives is not
 

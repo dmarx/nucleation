@@ -330,7 +330,7 @@ feature-sorted lists ([THEORY-363](../theory.d/THEORY-363.md), [THEORY-361](../t
 Unavailable.
 
 ## Note of 2026-11-22: the test, run
-<!-- inactive-ok-file: CASE-326 CLAIM-891 — new; filed by LEAD-108's run of 2026-11-22 -->
+<!-- inactive-ok-file: CLAIM-891 — new; filed by LEAD-108's run of 2026-11-22 -->
 
 [LEAD-108](../leads.d/LEAD-108.md) built a cost model from the index-selection terms read above
 (construction, upkeep, per-query saving, space as spill onto other queries,

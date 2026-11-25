@@ -34,7 +34,7 @@ summary: >-
   owner's call.
 ---
 
-<!-- inactive-ok-file: TERM-158 TERM-165 — Proposed; entries filed from this exchange or neighbours cited, not leaned on as in force -->
+<!-- inactive-ok-file: TERM-158 — Proposed; entries filed from this exchange or neighbours cited, not leaned on as in force -->
 
 # CLAIM-1118: Under a pseudometric that compares perspectives by their probabilities of answering adequately, no two perspectives are further apart than the coverage of the ecology that holds them, so perspectives that are all consistently wrong are close under it however differently they answer, and diversity without coverage needs a metric on what is answered
 

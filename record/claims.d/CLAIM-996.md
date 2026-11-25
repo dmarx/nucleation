@@ -41,7 +41,7 @@ summary: >-
   unit of authorization. The wording is A's (ChatGPT's, at A56 of the exchange "Explain First Contact RL"); adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-1065 CLAIM-732 CLAIM-1016 CLAIM-1190 CASE-386 — Proposed; the owner's thesis this develops, the antecedent, the gap fill and A58's joint relation -->
+<!-- inactive-ok-file: CLAIM-1065 CLAIM-732 CLAIM-1016 CASE-386 — Proposed; the owner's thesis this develops, the antecedent, the gap fill and A58's joint relation -->
 
 # CLAIM-996: Permission to pursue an inquiry is a second-order query, formulated by the proponent and evaluated by the authority within their own budgets, so the questions an organization authorizes are a subset of those its members can ask, and an authorization can take so long that the opportunity it authorizes has closed, whatever the verdict
 

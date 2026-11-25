@@ -193,12 +193,10 @@ No status changes.
 
 ## Note of 2026-11-22: its first organizational test
 
-<!-- inactive-ok-block: CASE-315 CLAIM-878 — new or Proposed; LEAD-080's study and its corollary, and CASE-200's rule as run there -->
 [LEAD-080](../leads.d/LEAD-080.md) ran A's readiness simulator under this rule and under carry-over ([CASE-315](../cases.d/CASE-315.md)). The prediction [QUESTION-394](../questions.d/QUESTION-394.md) drew from the claim holds there: a heavy rescue squad priced out after a month in which nothing mobilized it never came back, and under full carry-over it was never lost. A quiet period in an organization turned out to be a month without any mobilization, whether a rescue, a drill, a false alarm or a cancelled provisional dispatch, so the dispatch policy sets how long the capability survives the rule ([CLAIM-878](CLAIM-878.md), which rests on this claim). The run also bears on the scope stated under "What it does not say": the peak rule with a partial rollover, B_{t+1} = s_t + ρ(B_t − s_t) with ρ < 1, behaved exactly as the pure rule, since one held period leaves the budget below the threshold and nothing above it can be spent again; and [CASE-200](../cases.d/CASE-200.md)'s carry-over rule kept the transition but, used every period, allowed it only in every other period. No status changes.
 
 ## Note of 2026-11-22: a rule with a base and a payment per use
 
-<!-- inactive-ok-block: CASE-343 CLAIM-921 — new; LEAD-036's study and the claim drawn from it -->
 [LEAD-036](../leads.d/LEAD-036.md) ran [QUESTION-386](../questions.d/QUESTION-386.md)'s funding loop under A's rule B_{t+1} = B̄ + ηM_t, with competence bought from the budget and a capability committed only when competent enough ([CASE-343](../cases.d/CASE-343.md)). It bears on the scope stated under "What it does not say": a floor B̄ breaks this claim's argument, but where the floor alone sustains competence below the level at which the capability is used, the same loss returns, after a stretch without use set by the decay rate rather than after one held period, and only funding maintenance apart from use prevents it ([CLAIM-921](CLAIM-921.md)). No status changes.
 
 <!-- inactive-ok-file: TERM-167 — Proposed; filed in this filing of 2026-11-22 (second share) -->
@@ -216,7 +214,6 @@ cheaper transition architecture. Each acts through a different mechanism.
 
 ## Note of 2026-11-23: the manuscript governance-of-possibility
 
-<!-- inactive-ok-block: CLAIM-1099 — Proposed; the work and the fill this note names -->
 Restatement and an objection. A48 §9.1 of the owner's manuscript (ADR-
 tmpsfjxu) restates A36's case of this claim. Its §9.3 redesigned route, with
 a staging path of peak 2, is lost under this claim's own rule after one

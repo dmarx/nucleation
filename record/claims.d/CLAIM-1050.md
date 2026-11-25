@@ -35,7 +35,7 @@ summary: >-
   the owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-1087 CLAIM-1185 — Proposed; the model this extends, and the claim on a wrong anchor -->
+<!-- inactive-ok-file: CLAIM-1087 — Proposed; the model this extends, and the claim on a wrong anchor -->
 
 # CLAIM-1050: In the anchored model of a response and its co-adapting standard, after a transient the gap between them is a fixed small fraction of the response's distance from the independent target, about the anchoring rate over the sum of the adaptation rates, and that distance closes only at about the response's rate times that fraction, so a weakly anchored standard shows near-perfect measured compliance long before the response is adequate
 

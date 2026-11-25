@@ -219,7 +219,7 @@ A60 §3 of the exchange "Explain First Contact RL" (ChatGPT, 2026-11-23) uses th
 
 ## Note of 2026-11-23: which inquiry frontier, from "Explain First Contact RL"
 
-<!-- inactive-ok-block: CLAIM-1190 TERM-159 TERM-160 — Proposed; filed from the exchange -->
+<!-- inactive-ok-block: TERM-159 TERM-160 — Proposed; filed from the exchange -->
 This claim's inquiry frontier, "what it can formulate and pursue", is
 [TERM-092](../terms.d/TERM-092.md)'s version-1 sense. Version 2 (2026-10-29) split it into the
 askable and the investigable sets, so the claim's third frontier should say

@@ -30,7 +30,7 @@ summary: >-
   answers to the critical questions are the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-326 CLAIM-tmp80ny9 CLAIM-tmpsf9hp — Proposed or new; this filing's entries and the held entries it maps to, cited with their standing -->
+<!-- inactive-ok-file: CLAIM-tmp80ny9 CLAIM-tmpsf9hp — Proposed or new; this filing's entries and the held entries it maps to, cited with their standing -->
 
 # ARG-tmpa5ped: The stored-work cost model of the three priced cases, applied to a contract as a store by formal application, prices its formation, upkeep, recognition, checking and revision but not an invocation that changes the store, so the model needs invocation to return the contract's next state
 

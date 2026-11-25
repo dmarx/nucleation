@@ -148,7 +148,7 @@ bears_on:
 - QUESTION-325
 ---
 <!-- inactive-ok-file: THEORY-2242 — new; the reading cited in the note of 2026-11-22 (LEAD-032) -->
-<!-- inactive-ok-file: CASE-346 CLAIM-924 ARG-025 — new or Proposed; filed by LEAD-076 on 2026-11-22 and cited in its note of that date, ARG-025 for the grading -->
+<!-- inactive-ok-file: CLAIM-924 ARG-025 — new or Proposed; filed by LEAD-076 on 2026-11-22 and cited in its note of that date, ARG-025 for the grading -->
 <!-- inactive-ok-file: LIT-3074 LIT-3073 LIT-3077 — new or Deferred; LEAD-047's search of 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-964 — Superseded by THEORY-963; the classification as Bartók et al. state it, cited in the note of 2026-10-25 for the class of each variant beside THEORY-963 (Active), which the reading of Lattimore and Szepesvári proposes supersede it; nothing here rests on it -->
 

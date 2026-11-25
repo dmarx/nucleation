@@ -33,7 +33,7 @@ summary: >-
   add a joint term beside it ([TERM-160](../terms.d/TERM-160.md)). Filed in the owner's voice.
 ---
 
-<!-- inactive-ok-file: TERM-159 TERM-160 CLAIM-1190 CLAIM-1115 — Proposed; the alternatives and the claims filed with this -->
+<!-- inactive-ok-file: TERM-159 TERM-160 — Proposed; the alternatives and the claims filed with this -->
 
 # CLAIM-1009: The inquiry frontier should include an answer frontier: the record's inquiry frontier, the questions an agent can formulate, is only the query-frontier component of the boundary of an inquiry, which also has an answer frontier
 

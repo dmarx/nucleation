@@ -55,7 +55,7 @@ case it cannot price without a new term is a counterexample to the single
 trade.
 
 ## Note of 2026-11-22: what was done, and what remains
-<!-- inactive-ok-file: CASE-326 CLAIM-891 CLAIM-892 — new; filed by this lead's run of 2026-11-22 -->
+<!-- inactive-ok-file: CLAIM-891 — new; filed by this lead's run of 2026-11-22 -->
 
 The model was written with the four terms named here, [CLAIM-303](../claims.d/CLAIM-303.md)'s,
 [CLAIM-761](../claims.d/CLAIM-761.md)'s per-demand budget and revision, and [CLAIM-760](../claims.d/CLAIM-760.md)'s parties, as code
