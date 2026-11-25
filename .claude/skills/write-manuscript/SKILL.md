@@ -171,9 +171,13 @@ manuscript's census came from its review.
 
 - **Files by part**, each under about 500 lines, in reading order, each
   beginning with its path as a comment.
-- **Every step cites the entry that holds it, with its standing**: Active
-  or Proposed, and demonstrated, empirical or interpretive. Write codes
-  bare, and give statuses as of the draft's date.
+- **It is a manuscript, written for a reader outside the record**
+  (ADR-tmpw306d). It argues for its thesis. Each step cites the entry that
+  holds it, in parentheses, with the code bare. Standings, voices,
+  provenance, the reviews and the record's process go in the README and a
+  short note on method; the argument does not narrate them. Where a step's
+  firmness matters to the argument (a conjecture, a model, a contested
+  premise), the text says so in its own words.
 - **Quote where a paraphrase would move scope.** Keep an entry's scope
   conditions (its "only", "unless", "when"). Never turn a sufficient
   condition into a definition, or a conjunction into an identity. These

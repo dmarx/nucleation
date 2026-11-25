@@ -2326,10 +2326,11 @@ schemes:
   SYNTHESIS:
     title: Syntheses
     blurb: >-
-      An account of a scope of the record's own argument, a line or a part of one: every
-      component it puts together, each link between them attributed to the entry that states it,
-      and nothing added. Whatever adds to its components is a CLAIM (the decision making SYNTHESIS an account). Its components
-      keep their own status and voice; the current-account view derives them.
+      A scope of the record's own argument, a line or a part of one, stated as one argument: how
+      its components together answer the scope's question, each cited where it is used, and
+      nothing added. Whatever adds to its components is a CLAIM (ADR-084). A synthesis is an
+      integration, not an inventory: its components keep their own status and voice, which
+      `integrates` and the generated views give, and its body does not restate them (ADR-tmpw306d).
     dir: record/syntheses.d
     output: docs/syntheses
     active: Current
