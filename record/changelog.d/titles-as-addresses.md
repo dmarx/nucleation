@@ -1,6 +1,6 @@
 ### Added
 
-- ADR-tmpkc4c4: an entry's title is a short address (30 to 50 characters as a
+- [ADR-tmpkc4c4](record/decisions.d/ADR-tmpkc4c4.md): an entry's title is a short address (30 to 50 characters as a
   target, no code), and its full assertion lives in a new `statement:`
   field on CLAIM, THEORY, ARG, SYNTHESIS, CASE and TERM.
 
