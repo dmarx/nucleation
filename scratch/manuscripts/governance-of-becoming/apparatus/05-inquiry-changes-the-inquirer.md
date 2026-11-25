@@ -27,7 +27,7 @@ Codes with temporary numbers (…-tmp…) were filed on 2026-11-24 or 2026-11-25
 | CLAIM-761 | 5.3, 5.14 | Active, interpretive | delegated review (2026-11-20) | owner, U17 of "Topological protection explained" (2026-11-18/19); also Article 3 §3.8.1 |
 | CLAIM-1060 | 5.3 | Proposed, interpretive | | ChatGPT |
 | ARG-238 | 5.3 | Proposed | | |
-| CLAIM-755 | 5.3 | Proposed | | narrows CLAIM-1060's "slow" (CLAIM-1060, summary) |
+| CLAIM-755 | 5.3 | Proposed, demonstrated | | narrows CLAIM-1060's "slow" (CLAIM-1060, summary) |
 | SYNTHESIS-106 | 5.3 | Proposed | | |
 | CLAIM-303 | 5.3 | Active, interpretive | | |
 | CLAIM-314 | 5.3 | Proposed, interpretive, a counter | | no `works` field |
@@ -42,7 +42,7 @@ Codes with temporary numbers (…-tmp…) were filed on 2026-11-24 or 2026-11-25
 | CLAIM-697 | 5.4 | Proposed, demonstrated | | owner's idea ("resource conditional"), A's formalization; "Explain String Theory", continuation (2026-11-15); no `works` field |
 | SYNTHESIS-096 | 5.4 | Proposed | | an A51 "Existing backbone" entry |
 | CLAIM-695 | 5.4 | Proposed, empirical | | |
-| CLAIM-675 | 5.4, 5.9, 5.11 | Active, demonstrated | delegated review (2026-11-06) | governance-of-possibility member, not this work |
+| CLAIM-675 | 5.4, 5.9, 5.11 | Active, demonstrated | delegated status review's ruling (2026-11-18; history v4) | governance-of-possibility member, not this work |
 | CLAIM-569 | 5.4, 5.11 | Active, demonstrated | delegated review | an A51 backbone entry; a member of this work |
 | SYNTHESIS-tmp4tvbr | 5.5 | Proposed | | declined A18 §18 ("no claim passes admission") |
 | SYNTHESIS-118 | 5.5 | Proposed | | "Not stated on the record" |
@@ -61,7 +61,7 @@ Codes with temporary numbers (…-tmp…) were filed on 2026-11-24 or 2026-11-25
 | QUESTION-tmplkq92 | 5.6, 5.13 | Open (2026-11-25) | | filed for G5.6 |
 | CLAIM-1156 | 5.7 | Proposed, interpretive | | ChatGPT, revised to concede CLAIM-1095 |
 | CLAIM-1095 | 5.7 | Active, demonstrated, a counter | owner's word of 2026-11-24 | the assistant's objection; table rerun by another session; grounds THEORY-247 |
-| THEORY-247 | 5.7 | | | Calo, Jonsson, Neu, Schwartz and Segovia-Aguas (2024), LIT-962 (*new in the rewrite* as an author-year citation) |
+| THEORY-247 | 5.7 | Active | | Calo, Jonsson, Neu, Schwartz and Segovia-Aguas (2024), LIT-962 (*new in the rewrite* as an author-year citation) |
 | CLAIM-294 | 5.7 | Active, demonstrated | | added after the fact-check of 2026-11-25; no `works` field |
 | CLAIM-1065 | 5.8 | Proposed, interpretive | | owner, U29 of "Explain First Contact RL"; no `works` field |
 | CASE-386 | 5.8 | Proposed, thought-experiment | | owner, U28, with A54's numbers |
@@ -75,7 +75,7 @@ Codes with temporary numbers (…-tmp…) were filed on 2026-11-24 or 2026-11-25
 | CLAIM-tmp2kfwd | 5.8 | Proposed, interpretive | | ChatGPT, A18 §4 of "Memes, Contracts", on the owner's U15 of that exchange |
 | TERM-tmpgiy6r | 5.8 | Proposed | | |
 | CLAIM-523 | 5.8 | Active, interpretive | delegated review (2026-11-06) | the owner's synthesis of 2026-10-31 |
-| CLAIM-403 | 5.8 | Active, interpretive | delegated review (2026-11-06) | governance-of-possibility member |
+| CLAIM-403 | 5.8 | Active, interpretive | fifteenth status review, delegated (2026-10-29; history v5) | governance-of-possibility member |
 | CLAIM-732 | 5.8 | Proposed, interpretive | | governance-of-possibility member; rests on CLAIM-523, uses TERM-092 |
 | QUESTION-tmpg48pb | 5.8 | Open (2026-11-25) | | filed for G5.4, as a question since A51 does not argue the point |
 | TERM-114 and its note | 5.8, 5.9 | Active (term); note of 2026-11-17 | delegated review | the note adds Θ; "whether to add Θ is the owner's call" |
@@ -88,7 +88,7 @@ Codes with temporary numbers (…-tmp…) were filed on 2026-11-24 or 2026-11-25
 | THEORY-1480 | 5.9 | Active | | Ostrom, Gibson, Shivakumar and Andersson (2002), LIT-2174 |
 | CLAIM-602 | 5.9, 5.11 | Active, demonstrated | delegated review (2026-11-06) | governance-of-possibility member |
 | CLAIM-605 | 5.9 | Active, demonstrated | delegated review (2026-11-06); script rerun at the 25th status review | "the capability trap that CLAIM-602 named as a limit"; LEAD-171's note of 2026-11-22 records it held |
-| THEORY-1483 | 5.9 | | | Azam, Devarajan and O'Connell (1999), "Aid Dependence Reconsidered"; *new in the rewrite* (the draft said "Azam et al.'s trap" without the code) |
+| THEORY-1483 | 5.9 | Proposed | | Azam, Devarajan and O'Connell (1999), "Aid Dependence Reconsidered"; *new in the rewrite* (the draft said "Azam et al.'s trap" without the code) |
 | CLAIM-950, CASE-364 | 5.9 | Proposed, demonstrated; Proposed, executed study | | the assistant's, carrying out LEAD-104; no `works` field |
 | CLAIM-tmp2jhc1 | 5.9 | Proposed, interpretive | | ChatGPT's A24 §4 model; the Nash bargaining step is the assistant's, checked |
 | CLAIM-662 | 5.10 | Active, demonstrated | | governance-of-possibility member |
@@ -112,13 +112,13 @@ Codes with temporary numbers (…-tmp…) were filed on 2026-11-24 or 2026-11-25
 | THEORY-1353 | 5.11 | Proposed | | Dong (2026), LIT-2006 |
 | TERM-163 | 5.12 | Proposed; definition waits on the owner (note of 2026-11-24) | | ChatGPT, A63 §8, at the owner's U32 of "Explain First Contact RL"; the assistant's note: "A18 does not say what the probability is over … R_C needs a declared law of those states" |
 | TERM-115 | 5.12 | Active | delegated review | |
-| CLAIM-1004 | 5.12 | Proposed | | owner's conjecture, U28 of "Explain First Contact RL"; no `works` field |
+| CLAIM-1004 | 5.12 | Proposed, interpretive | | owner's conjecture, U28 of "Explain First Contact RL"; no `works` field |
 | CLAIM-1177 | 5.12 | Proposed, interpretive | | ChatGPT, A54; no `works` field |
 | CLAIM-1148 | 5.12 | Proposed, interpretive | needs the owner's assent | |
 | CLAIM-1195 | 5.12 | Proposed, demonstrated; reproduced 2026-11-25 but for one figure | held back by CLAIM-1148 | the assistant's fill of a gap in A54 §4. The figure 1.61 (a random-funding run) has no funding process, horizon or seed in the entry; independent funding of that mean ends at 1.74 to 1.84 over 50 runs; the qualitative point holds. The article does not use 1.61 |
 | SYNTHESIS-113 | 5.12 | Proposed | | |
 | CLAIM-tmpyxemn | 5.12 | Proposed, interpretive | | |
-| CLAIM-1034 | 5.12 | Proposed | | owner, U31 of "Explain First Contact RL"; no `works` field |
+| CLAIM-1034 | 5.12 | Proposed, interpretive | | owner, U31 of "Explain First Contact RL"; no `works` field |
 | SYNTHESIS-122 | 5.12 | Proposed | | step 16; parts table; "Not stated on the record" |
 | CLAIM-1038, CLAIM-1002, CLAIM-1119 | 5.12 | Proposed, interpretive | | ChatGPT; no `works` field |
 | CASE-395 | 5.12 | Proposed, proposed-study | | ChatGPT, A63 §9.4; not run |
@@ -140,7 +140,7 @@ Codes with temporary numbers (…-tmp…) were filed on 2026-11-24 or 2026-11-25
 The Active footing: CLAIM-470, CLAIM-475, TERM-095, TERM-092 (interpretive theses and terms); CLAIM-474 and CLAIM-025 (the partial order; the separability of regime, governing organization and transformative capacity — CLAIM-025 was promoted at the owner's ruling of 2026-10-27, and the rewrite reaches it only through QUESTION-388, see §8); CLAIM-761; CLAIM-1115 and CLAIM-1190; CLAIM-1095; CLAIM-675, CLAIM-602, CLAIM-605; CLAIM-1064; CASE-396, CASE-397, CASE-412 and CASE-300; CLAIM-403, CLAIM-523; TERM-114 and TERM-115.
 
 - *By the owner directly:* TERM-095 and CLAIM-025 (2026-10-27); CASE-397 and CASE-412 ("promote the ten", 2026-11-24); TERM-160 (ruling of 2026-11-25).
-- *At delegated status reviews:* CLAIM-470 (13th review, 2026-10-29), CLAIM-475 and TERM-092 (15th), CLAIM-474, CLAIM-403, CLAIM-523, CLAIM-675, CLAIM-602, CLAIM-605 and CLAIM-568 (2026-11-06), CLAIM-761 (2026-11-20), CLAIM-1064, CASE-396, TERM-114, TERM-115.
+- *At delegated status reviews:* CLAIM-470 (13th review, 2026-10-29), CLAIM-475, TERM-092 and CLAIM-403 (15th, 2026-10-29), CLAIM-474, CLAIM-523, CLAIM-602, CLAIM-605 and CLAIM-568 (2026-11-06), CLAIM-675 (2026-11-18), CLAIM-761 (2026-11-20), CLAIM-1064, CASE-396, TERM-114, TERM-115.
 - *At the owner's word of 2026-11-24:* CLAIM-1115, CLAIM-1190, CLAIM-1095 (the three entries that carry the article's §5.6.2 and §5.7), and CLAIM-1093. CLAIM-1190's summary says A58's formal reason "shows less", and its history that "read with the defeater, it asserts no more than construction 1 shows" (versions 2 and 3). The article cites it for no more than that.
 
 A reader who accepts only what is Active gets the account of inquiry as costed specification, the joint-frontier construction, the observational correction, and a handful of executed models. That reader does not get the three frontiers, overconsolidation, the authorization thread or adaptive inquiry readiness.

@@ -42,6 +42,7 @@ articles is in [METHOD.md](METHOD.md).
 | [LEFT-OUT-AUDIT-2026-11-25.md](LEFT-OUT-AUDIT-2026-11-25.md) | The audit of what the drafts and the Part I refresh left out |
 | [FACTCHECK-2026-11-25-part-i-refresh.md](FACTCHECK-2026-11-25-part-i-refresh.md) | The fact-check of the Part I refresh, with its joins reader on J1.8 and J1.9 (Part B) |
 | [REVIEW-2026-11-25-part-iii.md](REVIEW-2026-11-25-part-iii.md) | The review of Part III's first drafts: Parts A to C |
+| [FACTCHECK-2026-11-25-manuscript-rewrite.md](FACTCHECK-2026-11-25-manuscript-rewrite.md) | The fact-check of the rewrite of Articles 1 and 3 to 9 as articles (ADR-tmpw306d): 23 problems, 1.1 to 5.1, all fixed |
 | `review-III-B-indep-check.py` | The Part III joins reader's independent check of Article 9's computation |
 | `background/` | The digests the drafts were written from: `individuation-and-character.md` (Article 1), `contracts-and-standing.md` (Article 3; written for file 02), `cost-and-possibility.md` (A49's Article 3, the superseded file), `affect-and-authority.md` (4), `inquiry-and-the-inquirer.md` (5), `judgment-control-and-ignorance.md` (6), `memes-and-worlds.md` (7), `cooperation-and-obligation.md` (8), `dependence-and-political-economy.md` (9). Dated snapshots, left as written |
 | `analysis/` | Computations the articles report, with dated outputs and a README: `case189_supply_parameter.py` (CLAIM-tmpv6tw7, Article 1) and `fallback_decay_bargaining.py` (CLAIM-tmp6nzs1, Article 9) |
@@ -861,7 +862,7 @@ overview, each re-checked against its entry:
   notes of 2026-11-23 and 2026-11-24 (§6.7, G6.5, open item 21). Voices:
   Article 5's "Limits" read the twelve as the series does; CLAIM-tmpbucep
   quoted from U30, not from its title (§6.8). A pointer to the curation
-  entry's section (§4.10.2). The joins counted as 17, with ten
+  entry's section (now in apparatus 04 §5; it was in the old §4.8.1). The joins counted as 17, with ten
   restatements ("The joins"). The Files table's G4.1 to G4.4, these
   items, and open item 27. Contacts: the status pass's curation entry
   cited where the articles describe its promotions, with its flags
@@ -1104,11 +1105,17 @@ contact search (open items 29 and 30).
       and J9.7 to J9.11 put to a joins reader first); and the standing
       review of Part III in ADR-124's form ("Standing review", Part III).
 30. **Checking the rewrite.** The rewrite of 2026-11-25 changed the form
-    of every article and applied Part III's review in the same pass. No
-    reader who did not rewrite has fact-checked it: the quotations,
-    figures and section references of Articles 1 and 3 to 9, the
-    apparatus files' standings, and Part III's region-by-region contact
-    search (review of Part III, plan item 10) are owed.
+    of every article and applied Part III's review in the same pass. A
+    reader who did not rewrite has now fact-checked it
+    (`FACTCHECK-2026-11-25-manuscript-rewrite.md`): the quotations,
+    citations and section references of Articles 1 and 3 to 9, the
+    apparatus files' standings, and the rewrite's form. Its 23 problems
+    (1.1 to 1.7, 2.1 to 2.8, 3.1 to 3.3, 4.1 to 4.4 and 5.1) are fixed,
+    each re-checked against its entry first: 2.1 and 2.2 by cutting the
+    sentences, and the one step that is an article's own (2.6, Article
+    9's comparison with bargaining theory) marked as such in the text
+    and listed under "The article's own framing" in apparatus 09 §13. What remains owed is Part III's region-by-region contact
+    search (review of Part III, plan item 10).
 
 ## Closed since the last list
 

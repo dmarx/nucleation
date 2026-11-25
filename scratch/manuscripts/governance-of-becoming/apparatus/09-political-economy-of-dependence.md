@@ -45,7 +45,7 @@ Legend: status / warrant (claims) or kind and standing (cases); stage (leads). "
 | Conditions for safe withdrawal (§9.2) | CLAIM-600 | Active, interpretive |
 | Cross-domain readings (§9.2) | THEORY-1048, THEORY-1050; SYNTHESIS-053, SYNTHESIS-032 | readings Active; syntheses Proposed |
 | Engineering specimen (§9.2) | CASE-tmp3xxqg, CLAIM-tmpb1wyc, CLAIM-tmp18v1o | Proposed (specimen, documented; interpretive; interpretive); CLAIM-tmpb1wyc member |
-| The cross-domain join (§9.2) | CLAIM-603 | Proposed, interpretive; two holds (note of 2026-11-06) |
+| The cross-domain join (§9.2) | CLAIM-603; THEORY-1459 (Moore's thesis, by which CLAIM-603 reads Moore) | CLAIM-603 Proposed, interpretive; two holds (note of 2026-11-06). THEORY-1459 Proposed |
 | Open questions of §9.2 | QUESTION-398, QUESTION-526 | Open |
 | Capacity to govern (§9.2, §9.8) | CLAIM-673 | Active, interpretive; rests on CLAIM-605 |
 | Producing and encumbering (§9.3) | CLAIM-670, CLAIM-669, CLAIM-677, CLAIM-747 | Proposed, interpretive; CLAIM-670 with no supporting reading of its own route |
@@ -67,7 +67,7 @@ Legend: status / warrant (claims) or kind and standing (cases); stage (leads). "
 | Readings uncorroborating (§9.7) | SYNTHESIS-095, SYNTHESIS-099 | Proposed |
 | Regulatory surplus; three achievements (§9.7) | CLAIM-tmp8bimm, CLAIM-760 | Proposed, interpretive (member); Active, interpretive (member) |
 | Value against a bar (§9.7) | QUESTION-472, CLAIM-tmpdu9v6 | Open; Proposed, interpretive (member) |
-| Domination test and term (§9.8) | CLAIM-682, TERM-124, TERM-123, ARG-109 | Proposed |
+| Domination test and term (§9.8) | CLAIM-682, TERM-124, TERM-123, ARG-109; CLAIM-730 (the use TERM-124's note says departs from it) | Proposed; CLAIM-730 Proposed, interpretive |
 | Exit needed (§9.8) | CLAIM-686, CLAIM-523 | Active, demonstrated; Active, interpretive (the owner's) |
 | Voice and exit readings (§9.8) | THEORY-1918, THEORY-152, THEORY-1960 | Proposed; LIT-2704, LIT-750 and LIT-2760 Active |
 | Accountability rising with indispensability (§9.8) | CLAIM-687 | Active, interpretive |
@@ -223,3 +223,17 @@ The review's Part C, Region 3, recommended these. Its "Yes" items are cited in t
 - **Part B** — J9.1 cited as CLAIM-tmp6nzs1 as now stated (version 2). J9.2's residue is in §9.3 and §9.5. J9.4: "price" dropped. J9.5's reason is corrected.
 - **Part C Region 3** — the top contacts are cited after re-checking each entry's front matter and summary. The Limits are corrected: the field is read, and the founding books are not.
 - **Not applied here** (other files, or the owner's): the overview and README rows (1.6), the standing review in ADR-124's form (4.9), and the record corrections in §10.
+
+## 13. After the fact-check of the rewrite (FACTCHECK-2026-11-25-manuscript-rewrite.md)
+
+### The article's own framing
+
+- §9.11, the reply to the strongest objection: "That bargaining power therefore does not capture it is the article's own comparison with bargaining theory, which no entry makes." CLAIM-tmpdu9v6, on which the bar rests, is Proposed and interpretive (fact-check 2.6).
+- §9.10: "Read together, these suggest that what is reachable, and by whom, is the variable the mechanisms share; the article offers that as a reading, and no entry states it" (J9.11). The demand it answers is now attributed to the publication plan, A51 (fact-check 2.8).
+
+### Items of the previous draft restored (fact-check 4.3 and 4.4)
+
+- TERM-124 carries a note, "Not adopted: one use departs from the definition", because CLAIM-730's title says "the rule dominates them without anyone actively intervening", making a rule the holder. Restored in the article, §9.8.
+- Of SYNTHESIS-099's readings, "none corroborates" CLAIM-726, CLAIM-702 or CLAIM-700 (SYNTHESIS-095). CLAIM-726 is Proposed, interpretive, and is not otherwise cited.
+- CLAIM-tmpro73c (Proposed, interpretive) is a member of the work `governance-of-becoming`; the previous draft listed it among the members. The article does not cite it.
+- A22 §11's "Hidden regulatory subsidy" is "A restatement by the same kind of source, not independent evidence" (CLAIM-700, note of 2026-11-24).

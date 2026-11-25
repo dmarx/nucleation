@@ -105,6 +105,8 @@ Statuses, warrants, roles and membership of `governance-of-becoming` are read by
 | LEAD-216 | Open | – | specified | no |
 | LEAD-tmphsmng | Open | – | idea | no |
 | LIT-2531 | Unavailable | – | – | no |
+| LIT-tmp4lk5u | Deferred | – | – | no |
+| LIT-tmpfhd8f | Deferred | – | – | no |
 | LIT-2721 | Unavailable | – | – | no |
 | QUESTION-441 | Open | – | – | no |
 | QUESTION-460 | Open | – | – | no |
@@ -303,7 +305,7 @@ From the review's Part C, Region 2, and §1.2. Those it ranked highest are all c
 - **CLAIM-741's reliance.** No entry depends on it by a front-matter relation; two accounts integrate it (SYNTHESIS-100 and SYNTHESIS-102). Several use it in body or notes (CLAIM-725, CLAIM-735, CLAIM-908, CLAIM-571's note, CLAIM-tmp9xge5), evidence of reliance and not of truth.
 - **CLAIM-723's legal ground.** THEORY-1972's promote_when is unmet. CLAIM-723's dated note says the opinion "supports the claim as a legal analogue, not as a moral principle".
 - **CASE-283's check.** Recorded by its filer "on filing"; no other session's check is recorded.
-- **Searches by the drafter, 2026-11-25.** The record reads no theory of associative or special obligation; the Scheffler entries it holds are on the collective afterlife, not associative duties; it holds no principle of fair play of Hart's and Rawls's kind. That is the drafter's observation, now LEAD-tmphsmng's "The gap". Simmons (1979) is named in LEAD-tmphsmng's reading list; Hart (1955) and Rawls (1964) likewise. None is registered.
+- **Searches by the drafter, 2026-11-25.** The record reads no theory of associative or special obligation; the Scheffler entries it holds are on the collective afterlife, not associative duties; it holds no principle of fair play of Hart's and Rawls's kind. That is the drafter's observation, now LEAD-tmphsmng's "The gap". Simmons (1979) is named in LEAD-tmphsmng's reading list; Hart (1955) and Rawls (1964) likewise. Hart and Rawls are registered (Deferred): Hart 1955 is LIT-tmpfhd8f and Rawls 1964 is LIT-tmp4lk5u, filed in 88fcc08a1 on 2026-11-25; the article cites them (§8.7). Simmons is not registered (corrected after FACTCHECK-2026-11-25-manuscript-rewrite.md, 3.1).
 - **QUESTION-460's split.** Since the owner's review of #488 the question keeps the ground of an obligation apart from its bearer. LEAD-110's "What would count" is "Any of the three results answers QUESTION-460"; the question's prior part, whether a non-agent whole can owe anything, "is untouched and stays open" (LEAD-110's note).
 - **TERM-127** is "not adopted" (CLAIM-742's note of 2026-11-18), which is what holds CLAIM-742 back.
 - **CLAIM-1005 and CLAIM-1033.** CLAIM-1033 is Active and a counter to the reading of CLAIM-1005.
