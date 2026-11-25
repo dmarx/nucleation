@@ -169,3 +169,24 @@ The owner stated this claim's practice as a requirement on 2026-11-22, the day b
 
 <!-- inactive-ok-block: CLAIM-tmpkvi10 CLAIM-tmpbvvmp — new and Proposed; the owner's many-views thesis and A's claim about the separation it reduces -->
 The owner, at U10 of the exchange: "this manner of publishing also collapses the impetus to share a flood of interrelated papers. I can provide the single tangle of ideas to evaluate, and present different views on it to different parties with differing and diverse interests." That takes this claim from one manuscript to many, filed as the owner's CLAIM-tmpkvi10, which rests here. ChatGPT's A24 reads the owner's account of their motivation (U9) as a separation between the form in which knowledge is developed and the form in which it becomes institutionally legible, which a view over the record reduces (CLAIM-tmpbvvmp, also resting here). The note is the assistant's (Claude, in this session), quoting the owner; adopting it is the owner's call. No status change.
+
+## Note of 2026-11-25: views of views, from "Hyper article interpretation", U23 to U28
+
+<!-- inactive-ok-block: CLAIM-tmpxkeu9 CLAIM-tmp6xzjy CLAIM-tmpd1a2h CLAIM-tmpc4q8o — new; the owner's atlas thesis, the cycle check, the coverage claim and the owner's route thesis -->
+The exchange's last turns rest on this claim and extend it. ChatGPT, at
+A53, names it "the manuscript-as-view claim" among the proposal's
+ancestors, correctly. The owner's U23 reads the whole record's views as an
+atlas of charts (CLAIM-tmpxkeu9); the assistant's gap fill
+(CLAIM-tmp6xzjy) shows why this claim's practice matters for that
+reading: a view whose every step passes through the record cannot be
+pairwise consistent and jointly inconsistent, while views related to one
+another directly can. A57's coverage dimensions (CLAIM-tmpd1a2h) keep
+this claim's separation of inclusion from status, as a view's review
+status against its claims' standing. The owner's U28 adds series of posts
+as routes through the views (CLAIM-tmpc4q8o), a view of views. The note
+is the assistant's (Claude, in this session). No status change.
+
+## Note of 2026-11-25: the exchange "Hyper article interpretation", U1 and U2
+
+<!-- inactive-ok-block: CLAIM-tmpjf44i TERM-tmpjn06u TERM-tmpx49xx — new and Proposed; the owner's hyperarticle thesis, its term, and the owner's feed -->
+The owner opened the exchange with "github dmarx/nucleation as a "hyper article "" (U1) and "an essay advocating the hyperarticle for modern scientific publishing via living documents and attribution" (U2). That takes this claim from the record's own manuscripts to scientific publishing: what is published is the work, and a paper is one view of it. It is filed as the owner's CLAIM-tmpjf44i, which rests here, with its word as TERM-tmpjn06u (ChatGPT's definition at A5). At U5 the owner gave a view a memory ("A 'view' (with a memory) over data", TERM-tmpx49xx), which this claim's views do not need: a manuscript drawn from the record is a view over a memory the record keeps. The note is the assistant's (Claude, in this session), quoting the owner; adopting it is the owner's call. No status change.
