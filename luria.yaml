@@ -1312,6 +1312,9 @@ schemes:
           status:
           - Active
     fields:
+      statement:
+        blurb: the full assertion this entry makes, in a sentence or more; the title is a short
+          address for it (ADR-tmpkc4c4). On a retitled entry, its old title verbatim
       promote_when:
         required_when:
           status:
@@ -1711,6 +1714,9 @@ schemes:
         converse: counterexample_to
         derived: true
     fields:
+      statement:
+        blurb: the full assertion this entry makes, in a sentence or more; the title is a short
+          address for it (ADR-tmpkc4c4). On a retitled entry, its old title verbatim
       status:
         vocabulary: theory-statuses
       role:
@@ -1864,6 +1870,9 @@ schemes:
           status:
           - Active
     fields:
+      statement:
+        blurb: the full assertion this entry makes, in a sentence or more; the title is a short
+          address for it (ADR-tmpkc4c4). On a retitled entry, its old title verbatim
       status:
         vocabulary: statuses
       standing:
@@ -1992,6 +2001,9 @@ schemes:
         many: true
         converse: drawn_on_by
     fields:
+      statement:
+        blurb: the full assertion this entry makes, in a sentence or more; the title is a short
+          address for it (ADR-tmpkc4c4). On a retitled entry, its old title verbatim
       status:
         vocabulary: statuses
       tags:
@@ -2096,6 +2108,9 @@ schemes:
         - grounds
         require: at-least-one
     fields:
+      statement:
+        blurb: the full assertion this entry makes, in a sentence or more; the title is a short
+          address for it (ADR-tmpkc4c4). On a retitled entry, its old title verbatim
       status:
         vocabulary: theory-statuses
       form:
@@ -2346,6 +2361,9 @@ schemes:
     render: index
     allocate: merge
     fields:
+      statement:
+        blurb: the full assertion this entry makes, in a sentence or more; the title is a short
+          address for it (ADR-tmpkc4c4). On a retitled entry, its old title verbatim
       status:
         vocabulary: synthesis-statuses
       defeated_if:
