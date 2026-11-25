@@ -1,7 +1,7 @@
 ---
 status: Proposed
 title: 'The form in which knowledge becomes institutionally legible is separated from the form in which it is productively developed, so a researcher who can sustain an inquiry and not its conversion into manuscripts meets a design choice of the publishing apparatus and not only a personal obstacle, and a record from which manuscripts are drawn as views reduces the separation'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-25'
@@ -9,6 +9,12 @@ history:
     Joins the work hyperarticles (ADR-tmp85hdc): Article 3 of A45 in the
     exchange "Hyper article interpretation" states its proposition without
     citing it, in §1. No other change.
+- version: 3
+  date: '2026-11-25'
+  note: >-
+    Gains the line scholarly-publishing: it is about evaluating and
+    publishing research over a record, and the line's first synthesis
+    (SYNTHESIS-tmpg0a57) integrates it. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -22,6 +28,7 @@ tags:
 - philosophy-of-science
 date: '2026-11-25'
 line:
+- scholarly-publishing
 - record-as-apparatus
 rests_on:
 - CLAIM-178
