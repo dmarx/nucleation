@@ -175,7 +175,14 @@ with its promotions (#813, #814).
 4. **Narrow the dialectic regime's list of held steps to the owner's
    reading** (devlog 07:20): merges into main, outside services, status
    changes on the owner's own entries, and anything hard to undo. A
-   revision of ADR-127 is the place; that is the owner's to adopt.
+   revision of ADR-127 is the place; that is the owner's to adopt. The
+   owner added a rule on 2026-11-25, when the assistant left an owner's
+   question Open beside its now-Active answer: "if you think it's
+   legitimately answered, mark it answered. whether or not a question has
+   been satisfactorily answered shouldn't be a matter of opinion". A
+   status that follows from the record by a stated rule (a question with
+   Active answers to each part is Answered, ADR-049) is applied, whoever
+   filed the entry; what waits is a judgement only the owner can make.
 5. **Put every choice in words the owner can act on without the record
    open:** what each option means and what it changes, before any code.
 6. **Make a skipped back-merge visible** (devlog 20:19). Whether
