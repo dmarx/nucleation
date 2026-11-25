@@ -106,3 +106,47 @@ Open, at stage idea.
 
 <!-- inactive-ok-block: CLAIM-tmpyp0ju — Proposed or new; the executed studies and claims this note checks the lead against, and the owner's thesis it answers -->
 Not addressed by A51, but the gap stated above is narrower than it says. "No entry defines reach per actor": [CLAIM-675](../claims.d/CLAIM-675.md) (Active, demonstrated) holds that "support that does the work shrinks what the party can reach unaided while support that covers only its shortfall does not", and [CLAIM-602](../claims.d/CLAIM-602.md) (Active, demonstrated) that the order in which supply and capacity are used, not the amount, decides it. That is step 3's construction for solo reach under supply, with its negative control (shortfall support), already demonstrated. What stays open is the authority index W, the four predicates per transition, and whether solo reach's shrinkage, not a price, moves the terms the other can offer ([CLAIM-tmp2jhc1](../claims.d/CLAIM-tmp2jhc1.md)). Narrow the lead to those, citing [CLAIM-675](../claims.d/CLAIM-675.md) for the rest. The owner's U32 holds that the series' proposed experiments are "largely already satisfied by prior work" ([CLAIM-tmpyp0ju](../claims.d/CLAIM-tmpyp0ju.md)). The note is the assistant's (Claude, in this session); whether to narrow, lower or close the lead is the owner's call. No status change.
+
+## Note of 2026-11-24: from the revision of the manuscript governance-of-becoming, Part I
+<!-- inactive-ok-file: SYNTHESIS-tmp4tvbr — Proposed; cited with its standing -->
+
+Two points from the revision of the manuscript's Article 3 (§3.7.4).
+
+**The A24 §4 model already has this lead's shape, in values.** The first
+draft joined it to the lead (J3.10). The independent reader of the joins
+found the observation accurate and no claim in it, and suggested a dated
+note here ([SYNTHESIS-tmp4tvbr](../syntheses.d/SYNTHESIS-tmp4tvbr.md), "The joins of the manuscript
+governance-of-becoming, Part I"). [CLAIM-tmp2jhc1](../claims.d/CLAIM-tmp2jhc1.md) records A24 §4's model:
+specialization s raises joint production, 10 + 16s, while it lowers B's
+independent capacity, 5(1 − s(1 − p)), where p is the protection of B's
+fallback. At full specialization "the split is 14.75 to 11.25 in A's
+favour; with full protection, 12.25 to 13.75", by the equal-weight Nash
+solution the claim fills in. That is step 3's pattern: collective output
+up, one party's independent capacity down. And at s = 1 joint production
+is 26 whatever p is, while B's share moves from 11.25 to 13.75 with p
+alone, so the size of B's fallback, with collective output fixed, moves
+the terms. It is in values and scalars, not reach over [TERM-114](../terms.d/TERM-114.md), and
+A24's caption limits it: "Maintaining fallback capacity is not priced in
+this model". Step 3 can cite it for the threat-point half, already
+computed in values.
+
+**Does [CLAIM-675](../claims.d/CLAIM-675.md)'s decline count as "no change in any single transition's
+cost"?** This lead counts R_N growing and R_i shrinking "with no change in
+any single transition's cost" as success, and its null is that "R_i
+cannot shrink without some transition's price changing". The note above
+reads [CLAIM-675](../claims.d/CLAIM-675.md) as step 3's construction for solo reach. In [CLAIM-675](../claims.d/CLAIM-675.md)
+what shrinks is the party's own capacity C, decaying under substitutive
+support, so that its unaided output falls from 1 to 0.23 by t = 5. Two
+readings are open.
+
+- *Capacity is the actor's state.* The transitions' costs are fixed
+  functions of it, no price has changed, and the decline meets the
+  success condition.
+- *What it costs i to reach a configuration includes rebuilding the
+  capacity.* The decline is then a rise in i's incoming costs, [TERM-116](../terms.d/TERM-116.md)'s
+  profiles indexed by party, and the null applies.
+
+The lead should say which it means before step 3 is counted as done.
+Neither is decided here. No status change; whether to narrow the lead
+further is the owner's call. The wording is the assistant's (Claude, in
+this session).

@@ -4,7 +4,15 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmpe15k3
 title: 'Agreement in ordinary operation does not fix how a system responds to an intervention on its mechanism: a coarse-graining exactly closed under its ordinary dynamics can lose that response, a deficiency of sufficiency measures the loss and cannot rise under refinement while closure is ordered by refinement in neither direction, causal abstraction does not secure the sufficiency, matched trajectories can hide efficacy and maintenance, and fidelity in ordinary operation certifies nothing about viability; where maintenance is realized is shown only by intervening on the production mechanisms relative to a boundary no intervention supplies, interventions show that a capacity is produced through a mechanism and not that it consists in it, and closure needs at least two constraints as persistence needs a productive cycle'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-24'
+  note: >-
+    A dated note from the revision of the manuscript
+    governance-of-becoming, Part I: the account cites neither CASE-161
+    nor CASE-163, the runs its component CLAIM-522 names. No change to
+    integrates.
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
   the intervention-and-sufficiency part of the formal-apparatus line left
@@ -467,3 +475,28 @@ Links across the components that no entry states, tested by
 - That intervention data fix a boundary, or show what a capacity consists
   in at a time ([ARG-050](../arguments.d/ARG-050.md), [CLAIM-528](../claims.d/CLAIM-528.md), [CLAIM-530](../claims.d/CLAIM-530.md)).
 - Anything with standing of its own.
+
+## Note of 2026-11-24: from the revision of the manuscript governance-of-becoming, Part I
+<!-- inactive-ok-file: CASE-163 SYNTHESIS-050 — Proposed; cited with their standing -->
+
+Article 1 of the manuscript cites this account for what agreement in
+ordinary operation leaves open (§1.5), and then cites [CASE-161](../cases.d/CASE-161.md) and
+[CASE-163](../cases.d/CASE-163.md) as the record's runs of the interventions on mechanism that,
+in this account's words, alone show "where maintenance is realized". The
+account cites neither.
+
+That is not a defect by the account's own defeater. Both cases are in
+distributed-agency only, not in formal-apparatus, and that line's account
+[SYNTHESIS-050](SYNTHESIS-050.md) integrates both. But a component states the link:
+[CLAIM-522](../claims.d/CLAIM-522.md)'s body says "[CASE-161](../cases.d/CASE-161.md) and [CASE-163](../cases.d/CASE-163.md) are the record's runs of
+such interventions". And the section "Links to other parts, stated" lists
+only links to other parts of formal-apparatus. A reader who takes this
+account alone does not learn that the separating interventions have been
+run, in one stipulated population, nor that [CASE-161](../cases.d/CASE-161.md)'s audit pulse, an
+intervention on state, also parts its external reset, which is not
+[CLAIM-522](../claims.d/CLAIM-522.md)'s ideal controller ([CLAIM-522](../claims.d/CLAIM-522.md)'s note of this date).
+
+Whether to add the links this part's components state to other lines is
+for the next synthesis review of the line. Bearing: a note; no change to
+`integrates`, the title or the status. The wording is the assistant's
+(Claude, in this session).

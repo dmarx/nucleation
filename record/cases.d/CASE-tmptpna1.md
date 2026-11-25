@@ -113,3 +113,36 @@ processes falls by six. The conclusion stands: no schedule finishes H by 5
 and M before 10. Bearing: a corrected figure; no change of status. The
 wording is the assistant's (Claude, in this session).
 
+## Note of 2026-11-24: from the revision of the manuscript governance-of-becoming, Part I
+<!-- inactive-ok-file: TERM-tmpgiy6r SYNTHESIS-tmp4tvbr — Proposed; cited with their standing -->
+
+The manuscript's first draft read this case's "Granted authority" row as
+an instance of [TERM-tmpgiy6r](../terms.d/TERM-tmpgiy6r.md)'s operational standing without effective
+authority (Article 2's join J2.4). The independent reader of the joins
+found the reading a relabelling, since the glosses match ("The scheduler
+recognizes H's assigned priority"; the term's "The arrangement recognizes
+its eligibility to make that request consequential"), and found that it
+exposes a conflict between this case and the term over [CLAIM-283](../claims.d/CLAIM-283.md)'s
+"granted authority" ([SYNTHESIS-tmp4tvbr](../syntheses.d/SYNTHESIS-tmp4tvbr.md), "The joins of the manuscript
+governance-of-becoming, Part I"). The two readings:
+
+- **This case's.** A16's table calls the scheduler's recognition of H's
+  priority [CLAIM-283](../claims.d/CLAIM-283.md)'s granted authority, and sets it apart from
+  "Practical efficacy" ("H remains unable to act because of its
+  dependency"). On this reading a grant is a recognition that can hold
+  without efficacy. Granted authority then sits with the term's middle
+  quantity, operational standing, and efficacy is a third thing.
+- **The term's.** [TERM-tmpgiy6r](../terms.d/TERM-tmpgiy6r.md)'s Relations: "Asserted claim against
+  effective authority is [CLAIM-283](../claims.d/CLAIM-283.md)'s split of claimed precedence from
+  granted authority". On this reading a grant is the influence actually
+  received, as in A4 §2 in [CLAIM-283](../claims.d/CLAIM-283.md) ("granted influence I_i"; "An
+  operator can urgently demand control without receiving it"). Granted
+  authority is then effective authority, and what this case shows of H
+  is standing without a grant.
+
+Both cannot hold of the same row. Which reading of [CLAIM-283](../claims.d/CLAIM-283.md) the record
+takes is not decided here. It bears on [CLAIM-283](../claims.d/CLAIM-283.md) (Active), on the term
+and on this case's table. The manuscript's Article 2 (§2.6) states the
+conflict and takes neither reading. Bearing: a conflict between two
+entries' readings of a third; no change to the case, its links or its
+status. The wording is the assistant's (Claude, in this session).

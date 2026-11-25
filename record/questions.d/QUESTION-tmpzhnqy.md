@@ -36,3 +36,29 @@ A construction in the stored-work model ([CASE-326](../cases.d/CASE-326.md)) whe
 maintenance task raises its later cost, against one where the same task is
 handed to another party at unchanged cost. If the two can always be
 written as one movement, the question is answered no.
+
+## Note of 2026-11-24: from the revision of the manuscript governance-of-becoming, Part I
+
+The revision of the manuscript's Article 3 (its gap G3.2) found that the
+record already holds part of what this question asks for. [CLAIM-tmp8mpgs](../claims.d/CLAIM-tmp8mpgs.md)
+(Active, demonstrated; the assistant's gap fill, made Active at the
+assistant's discretion after an independent recomputation) has a delay
+that raises a later transition cost: "let the status quo erode the
+capacity to transform: a period of waiting raises R from 40 to 70". With
+that erosion, waiting, which beat transforming now at 111.5 against 120,
+loses to it at 126.5 (checked against the entry on this date: 15 + 70 +
+9 × 2 = 103 if c = 2, 150 if c = 14, mean 126.5). That is a deferred cost
+that grows before it is paid, the feature this question sets against a
+transfer.
+
+It answers the question only in part:
+
+- it is not in [CASE-326](../cases.d/CASE-326.md)'s terms, as the question asks;
+- it compares waiting with transforming now, not deferring a task with
+  handing the same task to another party at unchanged cost;
+- it does not frame the delay as a movement of work beside [CLAIM-760](../claims.d/CLAIM-760.md)'s
+  three.
+
+So the construction the question asks for is still to be made, and
+[CLAIM-tmp8mpgs](../claims.d/CLAIM-tmp8mpgs.md) is the nearest held result. No status change. The wording
+is the assistant's (Claude, in this session).
