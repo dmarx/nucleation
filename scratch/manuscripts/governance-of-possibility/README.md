@@ -93,3 +93,7 @@ From the revision plan of REVIEW-2026-11-23.md, Part A, section 6.
 10. **The owner's question on pseudo-selves and ecosystems**, QUESTION-tmp4fkkx, filed separately in pull request 775. It bears on JD2 (§12.3).
 11. **The independent fact-check of this revision**: done (Provenance, item 9); eight problems found and fixed. Its commit should carry the count.
 12. **Readings the text marked as its own: filed.** The integration pass found two small readings beyond the illustrations: §4's that one adaptation rate per relation is in general not the per-frequency optimum, and §4.1's reading of CLAIM-tmppa4rs for an institution. At the owner's first ruling they are filed under SYNTHESIS-tmp8j9h0's "Not stated on the record" (version 2), as a recap and a carry. §3.1's carriage of CLAIM-478 into institutions is CLAIM-730's, held as a supposition. Closed unless the owner wants them cut instead.
+
+## Note of 2026-11-25: Part A rewritten as a manuscript
+
+Part A, §2 (`01-possibility.md`), is rewritten under ADR-tmpw306d as a paper section for a reader outside the record: it argues in the order of the argument and cites codes in parentheses, without per-step standings, voices or provenance, and says a step's firmness in prose where it matters. Its substantive steps and their scope conditions are kept, and two of CLAIM-tmpg5p8v's limits (a cumulative budget, a policy) are now stated. The other parts follow in their own pull requests; until then they keep the earlier apparatus.
