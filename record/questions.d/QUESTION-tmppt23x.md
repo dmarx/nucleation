@@ -74,7 +74,7 @@ grant side.
 - [CLAIM-tmp8ikja](../claims.d/CLAIM-tmp8ikja.md), alternative B: affect is any concern-relative ordering
   with control precedence, claimed or granted.
 - [CLAIM-tmp23xa5](../claims.d/CLAIM-tmp23xa5.md), alternative C: "affect" names no single kind.
-- CLAIM-tmps1h34, alternative D, the owner's proposal of 2026-11-26:
+- [CLAIM-tmps1h34](../claims.d/CLAIM-tmps1h34.md), alternative D, the owner's proposal of 2026-11-26:
   affect is a perspective's concern-relative state, valence its sign, and
   emotion the act of communicating it as a claim to precedence.
 
