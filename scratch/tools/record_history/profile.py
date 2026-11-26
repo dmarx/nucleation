@@ -13,6 +13,7 @@ from collections import defaultdict
 from dataclasses import dataclass
 
 DAY = 86400
+REVISION = {"statement", "body", "defeater", "role"}  # LEAD-tmpn6mi2's substantive revision
 QUADRANTS = ("developing nucleus", "established anchor", "unresolved churn", "dormant structure")
 
 
@@ -21,7 +22,7 @@ class Params:
     now: int  # reference time, seconds
     sweep_breadth: int = 250
     created_share: float = 0.1
-    reactivation_days: int = 14
+    reactivation_days: int = 21
     windows: tuple[int, int] = (7, 30)
 
 
@@ -40,8 +41,8 @@ def substantive(r: dict, sweeps: set[str]) -> bool:
     return r["kind"] != "mechanical" and not r["bot"] and r["commit"] not in sweeps
 
 
-def quadrant(days_since_prose: float, new_dependents: int, stable_days: float, generative: int) -> str:
-    stable = days_since_prose >= stable_days
+def quadrant(days_since_revision: float, new_dependents: int, stable_days: float, generative: int) -> str:
+    stable = days_since_revision >= stable_days
     gen = new_dependents >= generative
     return {(False, True): "developing nucleus", (True, True): "established anchor",
             (False, False): "unresolved churn", (True, False): "dormant structure"}[(stable, gen)]
@@ -68,30 +69,26 @@ def profiles(rows: list[dict], p: Params,
     for r in rows:
         code, t = r["code"], r["time"]
         e = info.setdefault(code, {"code": code, "scheme": r["scheme"], "status": "", "created": t,
-                                   "prose_revisions": 0, "prose_churn": 0, "last_prose": t,
-                                   "status_changes": 0, "deleted": False,
-                                   "revisions": 0, "accretions": 0, "last_revision": t})
+                                   "revisions": 0, "churn": 0, "notes": 0, "last_revision": t,
+                                   "status_changes": 0, "deleted": False})
         s = substantive(r, sweeps)
         commits[code][r["commit"]] |= s
         k = r["kind"]
         if k == "created":
-            e["created"], e["status"], e["last_prose"] = t, r.get("status", ""), t
-            e["last_revision"], e["deleted"] = t, False
+            e["created"], e["status"], e["last_revision"] = t, r.get("status", ""), t
+            e["deleted"] = False
         elif k == "deleted":
             e["deleted"] = True
             edges[code] = set()
         elif k == "status":
             e["status"] = r["new"]
             e["status_changes"] += s
-        elif k == "prose" and s:
-            e["prose_revisions"] += 1
-            e["prose_churn"] += r["churn"]
-            e["last_prose"] = t
-            if int(r.get("removed") or 0) > 0:
-                e["revisions"] += 1
-                e["last_revision"] = t
-            else:
-                e["accretions"] += 1
+        elif k in REVISION and s:
+            e["revisions"] += 1
+            e["churn"] += int(r.get("added") or 0) + int(r.get("removed") or 0)
+            e["last_revision"] = t
+        elif k == "note" and s:
+            e["notes"] += 1
         elif k in ("relation_add", "relation_remove"):
             tgt = r["target"]
             if tgt != code:
@@ -129,9 +126,7 @@ def profiles(rows: list[dict], p: Params,
         out[code] = {
             "code": code, "scheme": e["scheme"], "status": e["status"], "deleted": e["deleted"],
             "created_day": e["created"] // DAY, "age_days": (p.now - e["created"]) // DAY,
-            "prose_revisions": e["prose_revisions"], "prose_churn": e["prose_churn"],
-            "days_since_prose": (p.now - e["last_prose"]) // DAY,
-            "revisions": e["revisions"], "accretions": e["accretions"],
+            "revisions": e["revisions"], "body_churn": e["churn"], "notes": e["notes"],
             "days_since_revision": (p.now - e["last_revision"]) // DAY,
             "status_changes": e["status_changes"],
             "maintenance_commits": sum(1 for v in commits[code].values() if not v),

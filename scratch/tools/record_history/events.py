@@ -12,8 +12,13 @@ from record_history.entries import Schema, as_codes, canonical, code_of_path, pa
 from record_history.gitlog import BlobReader, Commit
 
 
-def alias_map(commits: list[Commit], formerly: dict[str, list[str]] | None = None) -> dict[str, str]:
-    """Old code to new code, from renames of entry files and `formerly` fields."""
+def alias_map(commits: list[Commit], formerly: dict[str, list[str]] | None = None,
+              live: set[str] | None = None) -> dict[str, str]:
+    """Old code to new code, from renames of entry files and `formerly` fields.
+
+    A code in `live` (a file at the tip) is its own entry and never an alias,
+    even if it was once renamed away: codes have been handed back and reused.
+    """
     alias: dict[str, str] = {}
     for c in commits:
         for ch in c.changes:
@@ -25,7 +30,7 @@ def alias_map(commits: list[Commit], formerly: dict[str, list[str]] | None = Non
         for old in olds:
             if old != code:
                 alias.setdefault(old, code)
-    return alias
+    return {k: v for k, v in alias.items() if k not in (live or set())}
 
 
 def formerly_on_disk(repo: Path, schema_dirs: list[str]) -> dict[str, list[str]]:
@@ -73,7 +78,7 @@ def replay(commits: list[Commit], blobs: BlobReader, schema: Schema,
             if ch.status == "D" and old is None:
                 continue
             for ev in diff_entries(old, new, scheme, schema, alias):
-                rows.append({"commit": c.sha, "time": c.time, "bot": c.bot,
+                rows.append({"commit": c.sha, "time": c.time, "bot": c.bot, "author": c.author,
                              "subject": c.subject, "code": code, "scheme": scheme, **ev})
             if new is None:
                 last.pop(code, None)

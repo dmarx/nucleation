@@ -7,7 +7,7 @@ from dataclasses import dataclass, field
 from pathlib import Path
 
 ZERO = "0" * 40
-FORMAT = "@@%H|%ct|%an|%s"
+FORMAT = "@@%H|%at|%an|%s"  # author time: the development clock
 
 
 @dataclass
@@ -60,7 +60,7 @@ def parse_raw_log(text: str) -> list[Commit]:
 def read_log(repo: Path, rev: str, paths: list[str], walk: str = "all") -> list[Commit]:
     """Commits of `rev`'s history touching `paths`, oldest first.
 
-    walk="all": every non-merge commit, in date order. Fine-grained (work on
+    walk="all": every non-merge commit, in author-date order. Fine-grained (work on
     staging appears pull request by pull request), but not linear: a side
     branch's deletion can come after the main line's addition. Present state
     is therefore read from the tip's tree (`tree_entries`), not replayed.
@@ -69,7 +69,7 @@ def read_log(repo: Path, rev: str, paths: list[str], walk: str = "all") -> list[
     promotion of staging) lands as one commit.
     """
     if walk == "all":
-        mode = ["--no-merges", "--date-order"]
+        mode = ["--no-merges", "--author-date-order"]
     elif walk == "first-parent":
         mode = ["--first-parent", "--diff-merges=first-parent"]
     else:

@@ -8,15 +8,15 @@ from pathlib import Path
 from record_history.profile import QUADRANTS, quadrant
 
 
-STABILITY = {"revision": "days_since_revision", "prose": "days_since_prose"}
+STABILITY = {"revision": "days_since_revision"}
 
 
 def classify(profiles: dict[str, dict], stable_days: int, generative: int, window: int,
              stability: str = "revision") -> None:
     """Add `quadrant` and `young` (younger than `stable_days`) to each profile.
 
-    `stability` "revision" measures days since prose was last rewritten
-    (lines removed); "prose" also counts accretion (appended dated notes).
+    `stability` "revision": days since the last statement, body, defeater or
+    role revision. Dated notes do not count: they accrete, not revise.
     """
     for p in profiles.values():
         p["quadrant"] = quadrant(p[STABILITY[stability]], p[f"new_dependents_{window}d"],

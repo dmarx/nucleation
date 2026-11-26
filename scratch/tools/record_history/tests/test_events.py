@@ -50,7 +50,7 @@ def test_replay_keys_events_by_final_code_and_finds_concretization_mechanical():
     assert ("c2", "CLAIM-2", "relation_add") in by
     assert ("c3", "CLAIM-1", "mechanical") in by
     assert not any(c == "c3" and code == "CLAIM-2" for c, code, _ in by)  # identical content
-    assert {k for c, _, k in by if c == "c4"} == {"status", "prose"}
+    assert {k for c, _, k in by if c == "c4"} == {"status", "body"}
     assert all(r["breadth"] == 2 for r in rows if r["commit"] == "c3")
     edge = next(r for r in rows if r["kind"] == "relation_add")
     assert edge["target"] == "CLAIM-1"
@@ -61,3 +61,13 @@ def test_final_state_tracks_status_and_edges():
     st = final_state(rows)
     assert st["CLAIM-1"]["status"] == "Active"
     assert st["CLAIM-2"]["edges"] == {("rests_on", "CLAIM-1")}
+
+
+def test_a_code_live_at_the_tip_is_never_an_alias():
+    # ADR-068 was handed back as a temporary code, then the code was reused
+    commits = [Commit("x", 1, "Owner", "give back", [
+        Change("R", "s", "s", "record/decisions.d/ADR-068.md", "record/decisions.d/ADR-tmpq.md")]),
+        Commit("y", 2, "Owner", "concretize", [
+        Change("R", "s", "s", "record/decisions.d/ADR-tmpq.md", "record/decisions.d/ADR-069.md")])]
+    alias = alias_map(commits, live={"ADR-068", "ADR-069"})
+    assert alias == {"ADR-tmpq": "ADR-069"}
