@@ -97,3 +97,19 @@ traditions ([CASE-139](../cases.d/CASE-139.md)). It gives the question two thing
   intergenerational relationships linking practices, interpretations, and
   responses to novel situations". That is the reinstatement-or-
   reconstruction test asked for above, in a documented setting.
+
+## Note of 2026-11-26: Niebudek and Iniewicz (2023), read
+
+<!-- inactive-ok-block: THEORY-tmpigigb NOTE-tmptx4q4 LIT-tmpdbb0m — new; the reading this note reports -->
+
+Supplies cases; does not separate the kinds. In LIT-tmpdbb0m (NOTE-tmptx4q4):
+
+- A BDSM role confined to scenes is held but not engaged between them, by
+  arrangement. That is a loss of activation with the conditions intact,
+  because the scene is itself the condition the participants set up.
+- Participants currently without a partner are closer to having lost the
+  conditions for enactment, while their identification continues.
+- The community stage of the authors' model is where social reproduction
+  would sit.
+
+THEORY-tmpigigb `bears_on` this question. No status change.

@@ -1,9 +1,14 @@
 ---
-status: Deferred
-status_note: 'Registered 2026-11-26 at the owner''s request ("read and file, relate to nucleation''s identity stuff"); being read.'
+status: Active
+status_note: 'read in full 2026-11-26 (NOTE-tmptx4q4); worth reading for practitioners'' own words separating a role confined to a scene from identification that reaches everyday life and self-description, which give cases for the record''s questions on constitutive perspectives. Read its "continuum" as proposed, not shown, and its model as unvalidated.'
 title: "Between a role and identification. Understanding BDSM practices from practitioners' perspective"
-version: 1
+version: 2
 history:
+- version: 2
+  date: '2026-11-26'
+  note: >-
+    Read in full (NOTE-tmptx4q4). Status set from the reading: Active. The summary is
+    rewritten from the reading.
 - version: 1
   date: '2026-11-26'
   note: >-
@@ -24,15 +29,15 @@ first_author: 'Niebudek'
 keywords: ['BDSM', 'identity', 'role', 'grounded theory', 'sexuality']
 implementations: []
 summary: >-
-  Niebudek and Iniewicz (2023), Psychiatria Polska 57(1), 121-146. A
-  grounded-theory study of interviews with 12 BDSM practitioners aged 20 to
-  49, which proposes an initial model of how practitioners define and
-  accept their sexuality, and finds identification with BDSM roles to be
-  not an either-or between "identity" and "role" but a continuum.
-  Registered at the owner's request against the record's account of
-  perspectives and selves: [QUESTION-260](../questions.d/QUESTION-260.md), [QUESTION-257](../questions.d/QUESTION-257.md), [TERM-075](../terms.d/TERM-075.md), [TERM-099](../terms.d/TERM-099.md).
-  What the abstract says is unverified until read.
+  Niebudek and Iniewicz (2023), Psychiatria Polska 57(1), 121-146. Twelve
+  grounded-theory interviews distinguish identification with a BDSM role,
+  which reaches everyday life and self-description, from a role taken up
+  only for a scene, and propose a continuum between them and a stage model
+  of defining one's sexuality. THEORY-tmpigigb holds the account. It supplies cases
+  for QUESTION-260 and QUESTION-257, and for TERM-075's senses, without
+  answering them.
 ---
+<!-- inactive-ok-file: NOTE-tmptx4q4 THEORY-tmpigigb — new; this work's reading and account -->
 
 # LIT-tmpdbb0m: Between a role and identification. Understanding BDSM practices from practitioners' perspective
 
@@ -40,8 +45,12 @@ Niebudek and Iniewicz (2023), Psychiatria Polska 57(1), 121–146.
 
 ## Key takeaways
 
-- Not read.
+- Practitioners' own distinction: a role entered for a scene, against
+  identification that persists when the role is not assumed.
+- The same people describe their role both ways, which suggests two
+  dimensions rather than one continuum.
+- A proposed, untraced stage model.
 
 ## Standing in the record
 
-Registered at the owner's request. Unread, it grounds nothing.
+Read in NOTE-tmptx4q4. Its account is THEORY-tmpigigb.

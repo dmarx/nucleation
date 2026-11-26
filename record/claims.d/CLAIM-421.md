@@ -238,3 +238,14 @@ case there.
 
 <!-- inactive-ok-block: TERM-118 — Proposed; filed from the same exchange -->
 A47 §1 and §3 name the things this claim keeps apart, "A perspective's enactment", "A perspective's dispositional basis" and its reproductive organization, and add a case: a tradition that "may continue producing familiar outputs while losing the disposition to question the assumptions on which those outputs depend", which A judges "a more profound organizational transformation" than an interruption. A50 §2's masking corresponds to this claim's enactment interruption. Its finking, "a crisis abolishes the very review mechanism that would otherwise have been invoked", is on the reader's reading an enactment interruption caused by the occasion for exercising the disposition, which the claim does not name ([TERM-118](../terms.d/TERM-118.md)). Cited correctly. Unchanged.
+
+## Note of 2026-11-26: Niebudek and Iniewicz (2023), read
+
+<!-- inactive-ok-block: THEORY-tmpigigb NOTE-tmptx4q4 LIT-tmpdbb0m — new; the reading this note reports -->
+
+Cases for the claim, from self-report. In LIT-tmpdbb0m (NOTE-tmptx4q4), a role is entered
+"only in the course of the session limited in time", and between sessions
+it lapses without being lost. Identification is "present also when the role
+is not assumed". Ceased enactment, here deliberate and scheduled, does not
+lose the perspective. This illustrates the claim and does not test it. No
+status change.

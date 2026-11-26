@@ -141,3 +141,19 @@ From the reading in [NOTE-1792](../notes.d/NOTE-1792.md) ([LIT-2425](../literatu
 checked by the filer: Brown's Hao/House/Farah cases are cases of an
 appropriated self-attribution prompted by an algorithmic attribution; a
 possible example for the term.
+
+## Note of 2026-11-26: Niebudek and Iniewicz (2023), read
+
+<!-- inactive-ok-block: THEORY-tmpigigb NOTE-tmptx4q4 LIT-tmpdbb0m — new; the reading this note reports -->
+
+Cases for each sense, by report, from LIT-tmpdbb0m (NOTE-tmptx4q4):
+
+- **Held:** men at community meetings assume F3 "is submissive because you
+  are a female".
+- **Imagined audience:** F3's judgement that her "social group" would
+  think worse of her dominance than of her being a lesbian.
+- **Appropriated:** "internalized kinkphobia".
+- **Concealment** under an expected judgement the person has not taken on
+  is the pattern of CASE-142.
+
+No change to the term.
