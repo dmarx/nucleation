@@ -30,7 +30,7 @@ summary: >-
   accept their sexuality, and finds identification with BDSM roles to be
   not an either-or between "identity" and "role" but a continuum.
   Registered at the owner's request against the record's account of
-  perspectives and selves: QUESTION-260, QUESTION-257, TERM-075, TERM-099.
+  perspectives and selves: [QUESTION-260](../questions.d/QUESTION-260.md), [QUESTION-257](../questions.d/QUESTION-257.md), [TERM-075](../terms.d/TERM-075.md), [TERM-099](../terms.d/TERM-099.md).
   What the abstract says is unverified until read.
 ---
 
