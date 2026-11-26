@@ -43,7 +43,7 @@ summary: >-
   from memory and has to be checked. The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmp650up CLAIM-tmpjylns CLAIM-tmp23xiu CLAIM-tmps1h34 — new; the result, the two readings beside this one, and the question of what affect is -->
+<!-- inactive-ok-file: CLAIM-tmpaqezl CLAIM-tmp650up CLAIM-tmpjylns CLAIM-tmp23xiu CLAIM-tmps1h34 — new; the result, the two readings beside this one, and the question of what affect is -->
 <!-- inactive-ok-file: TERM-076 — Proposed; the sense of valence set beside Lewin's -->
 
 # CLAIM-tmpi0oub: In Lewin's sense, valence is an outcome's pull
@@ -87,3 +87,7 @@ That Lewin's account is right, or that the record should adopt his sense.
 Nor that Lewin's valence is affect. On alternative D, affect is the
 perspective's state, and Lewin's valence would be an outcome's pull on
 the system as a whole.
+
+## Note of 2026-11-26: the owner's usage, again
+
+The owner, the same day: "the valence of an agent's affect tells us what behaviors they would be predisposed towards, i.e. the actions that would be triggered." That is the third time in the exchange that the owner has used "valence" for the direction of a predisposition and not for TERM-076's sign of position along an ordering. It supports this claim's reading, that the owner's word is Lewin's sense, as against a conflation with affect. CLAIM-tmpaqezl states the predisposition reading for action readiness.
