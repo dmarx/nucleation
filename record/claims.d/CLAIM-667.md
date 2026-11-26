@@ -194,7 +194,7 @@ and its study ([LEAD-085](../leads.d/LEAD-085.md)) are unchanged.
 
 ## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U7–A13, U8–A15)
 
-<!-- inactive-ok-file: LEAD-tmpwlebp CLAIM-tmpygs06 CLAIM-685 — new or Proposed; the lead and claim of 2026-11-26 that cite this one, and the held generalization -->
+<!-- inactive-ok-file: CLAIM-tmpygs06 CLAIM-685 — new or Proposed; the lead and claim of 2026-11-26 that cite this one, and the held generalization -->
 
 Two applications, no change. A13 §10 says this claim's "factorial
 experiment on governed schema change could become part of a larger

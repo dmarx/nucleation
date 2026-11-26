@@ -9,7 +9,15 @@ statement: >-
   accounts that the board's own investigation traced to the sales model, the
   performance management that enforced it and a decentralized structure,
   while signals of the harm reached people who could not act on them
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-26'
+  note: >-
+    Dated note of 2026-11-26 from the exchange "Alignment
+    consequences brainstorm" (ChatGPT, 2026-11-26), U5–A8 and A11: A
+    reads the case as specification gaming; it now illustrates two
+    claims filed from that exchange. The case is unchanged.
 standing: documented
 kind: specimen
 tags:
@@ -19,6 +27,9 @@ tags:
 line:
 - distributed-agency
 - organizational-affect
+illustrates:
+- CLAIM-tmpotbk7
+- CLAIM-tmpv3frk
 date: '2026-10-23'
 summary: >-
   The Wells Fargo sales-practices episode, as reported by the bank's
@@ -227,3 +238,25 @@ governance and risk management program" and completed a third-party review;
 case is coded unripe: under six months of window, and the release names no
 procedure that weighs harm to customers. It is the case on which
 [CLAIM-432](../claims.d/CLAIM-432.md)'s part 5 could next be tested, from mid-2027. Unchanged.
+
+## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U5–A8, U6–A11)
+
+<!-- inactive-ok-file: CLAIM-tmpotbk7 CLAIM-tmpv3frk ARG-tmpfznfa LIT-tmpved88 — new; the claims this case now illustrates, the argument that bounds their use of it and the registered settlement -->
+
+An illustration, and A's reading of it. A8 §3 offers the case to the
+owner's U5 as "a corporation literally maximizing the number of accounts",
+"remarkably close to the classical AI specification-gaming problem": "The
+employees were, in effect, the computational substrate of a distributed
+optimizer." Its implication: "Intelligent constituents who understand that
+an outcome is undesirable can nevertheless collectively produce that
+outcome under an appropriately organized incentive regime." Its facts
+agree with this case's (unauthorized accounts, falsified records, altered
+contact details); the $3 billion settlement of 2020 it cites is now
+registered as LIT-tmpved88, unread.
+
+It now illustrates A's CLAIM-tmpotbk7, as its first rung, demand
+measurement gamed with preferences untouched, and A8's CLAIM-tmpv3frk,
+under objective displacement. A11 §VIII cites ARG-071 correctly: the case
+shows "narrow recognition of harm and blocked escalation", not a sales
+regime reproducing its own blindness through its success, and
+ARG-tmpfznfa keeps that limit when the six cases are generalized from.

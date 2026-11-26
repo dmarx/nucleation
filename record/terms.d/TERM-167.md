@@ -168,7 +168,7 @@ application, not a revision; the term is unchanged.
 
 ## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U8–A15)
 
-<!-- inactive-ok-file: CLAIM-tmpygs06 CLAIM-tmpv3frk TERM-115 — new or Proposed; the claims of 2026-11-26 the note corrects and uses, and the held readiness term -->
+<!-- inactive-ok-file: CLAIM-tmpygs06 CLAIM-tmpv3frk — new or Proposed; the claims of 2026-11-26 the note corrects and uses, and the held readiness term -->
 
 A correction, the assistant's, to a use of this term.
 
@@ -215,5 +215,6 @@ equal to the whole constraint set again: from (3, 3) it runs (2, 2),
 threshold 3 from the first. Restricting a coalition's actions can only
 shrink its kernel (the neglect-only kernel lies inside the others), which
 is the sense in which the kernel is authority-sensitive; letting it set
-its own thresholds can make it as large as it likes. Script:
-scratch of this session, kernel.py, not committed. The wording is the assistant's (Claude, in this session); adopting it is the owner's call.
+its own thresholds can make it as large as it likes. The script, a
+backward fixed-point computation over the 36 states, was run in this
+session's scratchpad and is not committed. The wording is the assistant's (Claude, in this session); adopting it is the owner's call.

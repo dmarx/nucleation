@@ -9,7 +9,16 @@ statement: >-
   than on belief: an organization of interpretation in which residual
   uncertainty outweighs accumulated evidence defers action while the
   evidence is still recognized, and can outlast the campaign that seeded it
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-26'
+  note: >-
+    Dated note of 2026-11-26 from the exchange "Alignment
+    consequences brainstorm" (ChatGPT, 2026-11-26), U5–A8 and
+    U6–A11: the tobacco industry, this claim's canonical example, is
+    now a case (CASE-tmp0bk10); A11 §11 restates the claim
+    correctly. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -84,3 +93,22 @@ figure ([CLAIM-1275](CLAIM-1275.md)) to a documented kind of campaign.
 - **The rival is not weighed.** The defeater asks whether the campaigns'
   effect ran through belief or through the bar for action; the exchange
   gives no evidence either way.
+
+## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U5–A8, U6–A11)
+
+<!-- inactive-ok-file: CASE-tmp0bk10 LIT-tmpgcrul CLAIM-1307 — new or Proposed; the case and registration of 2026-11-26, and the held claim A sets beside this one -->
+
+An illustration filed. A8 §1 of the exchange, answering the owner's
+request for documented cases, gives the tobacco industry's conduct as a
+2006 federal court found it, including "misleading consumers about health
+consequences" and "suppressing research"; it is filed as CASE-tmp0bk10,
+from the court's opinion (LIT-tmpgcrul, registered, unread), and
+illustrates this claim. A11 §11 restates the claim correctly:
+"Manufactured doubt need not cause somebody to disbelieve an established
+finding. It can instead raise the threshold of certainty they require
+before permitting action", so that "influence over the relationship
+between evidence and action can be at least as consequential as influence
+over belief." It sets beside it CLAIM-1307 (reflexive control seeding an
+organization of judgment that maintains itself). Whether the opinion's
+findings bear on the threshold reading, rather than on disbelief, is for
+the reading.

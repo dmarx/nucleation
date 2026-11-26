@@ -10,7 +10,7 @@ statement: >-
   one regime of authority, so an intervention on authority that changes the
   winning moves changes the fitted preference and the preference does not
   predict the change
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-27'
@@ -19,6 +19,14 @@ history:
     review (ADR-057). TERM-078 is no longer a term it is stated in:
     the reply rests on CLAIM-434 and TERM-077, and the persistent
     potential only names where the objection survives.
+- version: 3
+  date: '2026-11-26'
+  note: >-
+    Dated note of 2026-11-26 from the exchange "Alignment
+    consequences brainstorm" (ChatGPT, 2026-11-26), U6–A11: A11 §12
+    builds on the claim a division of an apparent objective into
+    four sources and charges the paperclip picture with reifying the
+    fitted one. The claim is unchanged.
 role: counter
 warrant: interpretive
 tags:
@@ -133,3 +141,21 @@ every welfare method is "implicitly model-based" (§1), so a preference read
 off a record is fitted to an assumed model of how the record was produced,
 as this claim says the aggregate preference is fitted to one regime of
 authority. No new claim is filed; the status is unchanged.
+
+## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U6–A11)
+
+<!-- inactive-ok-file: CLAIM-tmpdn5sb — new; the claim of 2026-11-26 that rests on this one -->
+
+An application. A11 §12 states this claim correctly ("Where its winning
+choices admit a consistent ordering, one may fit an objective-like
+representation to the organization's behaviour. However, changing the
+distribution of authority can change those apparent preferences") and
+uses it against the paperclip picture of corporations: "A corporation may
+behave as though it maximizes shareholder value because of its particular
+governance regime. That does not establish that shareholder value exists
+as a primitive organizational motivation." It then divides an apparent
+objective's sources into explicit, institutional, selectional and
+descriptive, filed as CLAIM-tmpdn5sb (A's), which rests on this claim for
+the difference between the institutional and the descriptive; the
+assistant's note there says which intervention separates each. This
+claim's own result is the second of those interventions.
