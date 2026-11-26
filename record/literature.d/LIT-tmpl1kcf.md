@@ -31,8 +31,8 @@ summary: >-
   discover its own questions, formulated as general value functions, by
   non-myopic meta-gradients that choose questions whose answers, learned as
   auxiliary tasks, induce representations useful for the main task.
-  Registered at the owner's request against CLAIM-754's inquiry frontier,
-  CLAIM-756 and QUESTION-495. What the abstract says is unverified until
+  Registered at the owner's request against [CLAIM-754](../claims.d/CLAIM-754.md)'s inquiry frontier,
+  [CLAIM-756](../claims.d/CLAIM-756.md) and [QUESTION-495](../questions.d/QUESTION-495.md). What the abstract says is unverified until
   read.
 ---
 
