@@ -46,12 +46,11 @@ on test-time training.
 
 ## Note of 2026-11-26: von Oswald et al. (2023), read
 
-<!-- inactive-ok-block: THEORY-tmp8xq94 NOTE-tmpcktnn — new; the reading this note reports -->
 
-Bears on the design of experiment 3. In LIT-tmpuv16r (NOTE-tmpcktnn), in
+Bears on the design of experiment 3. In [LIT-tmpuv16r](../literature.d/LIT-tmpuv16r.md) ([NOTE-tmpcktnn](../notes.d/NOTE-tmpcktnn.md)), in
 synthetic sequences, in-context learning is itself an inner optimization
 of fast weights, and the mesa-layer is a test-time learner inside a
 layer. An ICL arm and a TTT arm may therefore differ in where the learned
-state is kept, not in kind, as THEORY-169 says. The experiment's contrast
-should be stated by what each arm retains across sequences (CLAIM-118,
-CLAIM-074), not by mechanism. No change of stage.
+state is kept, not in kind, as [THEORY-169](../theory.d/THEORY-169.md) says. The experiment's contrast
+should be stated by what each arm retains across sequences ([CLAIM-118](../claims.d/CLAIM-118.md),
+[CLAIM-074](../claims.d/CLAIM-074.md)), not by mechanism. No change of stage.

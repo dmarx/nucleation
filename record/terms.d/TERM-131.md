@@ -175,9 +175,8 @@ The wording is the assistant's (Claude, in this session).
 
 ## Note of 2026-11-26: von Oswald et al. (2023), read
 
-<!-- inactive-ok-block: THEORY-tmp8xq94 NOTE-tmpcktnn — new; the reading this note reports -->
 
-Consistent with version 2. LIT-tmpuv16r (NOTE-tmpcktnn) is a case where
+Consistent with version 2. [LIT-tmpuv16r](../literature.d/LIT-tmpuv16r.md) ([NOTE-tmpcktnn](../notes.d/NOTE-tmpcktnn.md)) is a case where
 the same network learns on two horizons. Over a sequence, fast weights Φ
 change in activations: the model running in an episode learns over the
 episode. Over training, base-optimization changes the weights that make

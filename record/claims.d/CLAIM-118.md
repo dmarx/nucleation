@@ -220,11 +220,10 @@ A parallel, close to evidence ([NOTE-2160](../notes.d/NOTE-2160.md)): Brown and 
 
 ## Note of 2026-11-26: von Oswald et al. (2023), read
 
-<!-- inactive-ok-block: THEORY-tmp8xq94 NOTE-tmpcktnn — new; the reading this note reports -->
 
 Evidence for the claim, and the cleanest case of the separation the record holds.
 
-- **Fast weights are the signal.** LIT-tmpuv16r (NOTE-tmpcktnn) places the
+- **Fast weights are the signal.** [LIT-tmpuv16r](../literature.d/LIT-tmpuv16r.md) ([NOTE-tmpcktnn](../notes.d/NOTE-tmpcktnn.md)) places the
   in-context learner's parameters Φ in the context's keeping: they "live in
   the short-term memory of a Transformer model, not in its learned
   parameters".
@@ -243,5 +242,5 @@ Evidence for the claim, and the cleanest case of the separation the record holds
   what each carries and not by mechanism", shown by manipulating what each
   can carry with the architecture held fixed.
 
-THEORY-tmp8xq94 `corroborates` this claim from this note on. The claim
+[THEORY-tmp8xq94](../theory.d/THEORY-tmp8xq94.md) `corroborates` this claim from this note on. The claim
 does not rest on it. No status change.

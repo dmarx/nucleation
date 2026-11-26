@@ -77,9 +77,8 @@ No status change.
 
 ## Note of 2026-11-26: von Oswald et al. (2023), read
 
-<!-- inactive-ok-block: THEORY-tmp8xq94 NOTE-tmpcktnn — new; the reading this note reports -->
 
-An analogy, no edge. LIT-tmpuv16r (NOTE-tmpcktnn) shows a trained network
+An analogy, no edge. [LIT-tmpuv16r](../literature.d/LIT-tmpuv16r.md) ([NOTE-tmpcktnn](../notes.d/NOTE-tmpcktnn.md)) shows a trained network
 inducing, from examples in its context, a map, the fast weights Φ, that it
 then applies to new inputs. That is the formal shape of inducing a frame
 from examples of behaviour. The paper's tasks are synthetic regression,
