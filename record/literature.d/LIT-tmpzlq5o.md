@@ -35,3 +35,5 @@ Schwartz (1986), Columbia University Press.
 ## Standing in the record
 
 Registered for the book-length statement of the Schwartz set and collective choice from incomplete relations, against CLAIM-tmp650up and the indecision claims CLAIM-tmpjylns and CLAIM-tmp23xiu (LEAD-tmpl2s2z). Unread, it grounds nothing.
+
+The account the record expects to draw from it is THEORY-tmpo6zw5, Proposed and unverified until read.

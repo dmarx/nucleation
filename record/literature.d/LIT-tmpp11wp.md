@@ -35,3 +35,5 @@ Fridlund (1994), Academic Press, ISBN 978-0-12-267630-7.
 ## Standing in the record
 
 Registered for the behavioral ecology view, on which facial displays are social tools signalling intentions and not readouts of an inner state, the view most likely to refuse CLAIM-tmps1h34's affect as the content communicated (LEAD-tmptupsj). Unread, it grounds nothing.
+
+The account the record expects to draw from it is THEORY-tmpukezh, Proposed and unverified until read.

@@ -35,3 +35,5 @@ Van Kleef (2009), Current Directions in Psychological Science 18(3), 184-188.
 ## Standing in the record
 
 Registered for emotion as information that others use, which LEAD-tmptupsj sets against CLAIM-tmps1h34's reading of emotion as a communicated claim to precedence (LEAD-tmptupsj). Unread, it grounds nothing.
+
+The account the record expects to draw from it is THEORY-tmpxb38s, Proposed and unverified until read.

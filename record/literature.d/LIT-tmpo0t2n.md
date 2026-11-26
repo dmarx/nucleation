@@ -35,3 +35,5 @@ Keltner and Haidt (1999), Cognition and Emotion 13(5), 505-521.
 ## Standing in the record
 
 Registered for the social functions of emotion at the individual, dyadic, group and cultural levels, a frame for where an organization's communicated claims sit (LEAD-tmptupsj). Unread, it grounds nothing.
+
+The account the record expects to draw from it is THEORY-tmpaxrfe, Proposed and unverified until read.

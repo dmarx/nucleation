@@ -35,3 +35,5 @@ Scarantino (2017), Psychological Inquiry 28(2-3), 165-185.
 ## Standing in the record
 
 Registered for emotional expressions as acts that do things the way speech acts do, the closest held candidate for CLAIM-tmps1h34's mapping of claim and grant onto act and uptake (LEAD-tmptupsj). Unread, it grounds nothing.
+
+The account the record expects to draw from it is THEORY-tmp4sgi7, Proposed and unverified until read.

@@ -35,3 +35,5 @@ Good (1971), Public Choice 10(1), 97-101.
 ## Standing in the record
 
 Registered for the Condorcet set, the earliest of the top-cycle sets that CLAIM-tmp650up's terminal component restates (LEAD-tmpl2s2z). Unread, it grounds nothing.
+
+The account the record expects to draw from it is THEORY-tmp5ybe4, Proposed and unverified until read.

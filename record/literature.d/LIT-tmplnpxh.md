@@ -35,3 +35,5 @@ Laslier (1997), Springer, Studies in Economic Theory 7.
 ## Standing in the record
 
 Registered as the survey of tournament solutions, the top cycle among them, and for whether the literature has results on winning-move dynamics and the likelihood of each terminal set, the measure CLAIM-tmpjylns and CLAIM-tmp23xiu share (LEAD-tmpl2s2z). Unread, it grounds nothing.
+
+The account the record expects to draw from it is THEORY-tmpn2o22, Proposed and unverified until read.

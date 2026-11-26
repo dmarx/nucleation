@@ -35,3 +35,5 @@ Smith (1973), Econometrica 41(6), 1027ff..
 ## Standing in the record
 
 Registered as the source of the Smith set, the smallest set of alternatives each beating every alternative outside it, against CLAIM-tmp650up's terminal component (LEAD-tmpl2s2z). Unread, it grounds nothing.
+
+The account the record expects to draw from it is THEORY-tmpo61w9, Proposed and unverified until read.

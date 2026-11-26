@@ -35,3 +35,5 @@ Schwartz (1972), Noûs 6(2), 97ff..
 ## Standing in the record
 
 Registered for choice without a maximum, the Schwartz set's setting, which is the sparse, incomplete relation of winning moves CLAIM-tmp650up works on (LEAD-tmpl2s2z). Unread, it grounds nothing.
+
+The account the record expects to draw from it is THEORY-tmpo6zw5, Proposed and unverified until read.
