@@ -32,8 +32,6 @@ line:
 rests_on:
 - CLAIM-153
 - CLAIM-196
-grounds:
-- CASE-052
 complements:
 - CLAIM-317
 - CLAIM-037
@@ -95,6 +93,13 @@ occasions impose same, same and opposite. The script finds:
 
 This is the parity, or "liar cycle", form of contextuality, the logical
 kind, not the probabilistic.
+
+## Evidence
+
+None outside the record's own argument. CASE-052 (Carmichael) is a pairwise
+collapse of two audiences, the kind CLAIM-196 covers, not a cycle, so it does
+not ground this claim. A documented case of three audiences meeting
+pairwise, with incoherence and no pairwise clash, would.
 
 ## What it does not say
 
