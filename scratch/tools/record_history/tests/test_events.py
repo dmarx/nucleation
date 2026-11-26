@@ -71,3 +71,15 @@ def test_a_code_live_at_the_tip_is_never_an_alias():
         Change("R", "s", "s", "record/decisions.d/ADR-tmpq.md", "record/decisions.d/ADR-069.md")])]
     alias = alias_map(commits, live={"ADR-068", "ADR-069"})
     assert alias == {"ADR-tmpq": "ADR-069"}
+
+
+def test_adding_a_code_and_deleting_its_temporary_twin_in_one_commit_is_not_a_deletion():
+    blobs = FakeBlobs({"n": doc("Proposed"), "t": doc("Proposed")})
+    commits = [
+        Commit("a", 1, "Owner", "file", [Change("A", None, "t", None, P + "CLAIM-tmpq.md")]),
+        Commit("b", 2, "github-actions[bot]", "regenerate", [
+            Change("A", None, "n", None, P + "CLAIM-7.md"),
+            Change("D", "t", None, P + "CLAIM-tmpq.md", None)]),
+    ]
+    rows = replay(commits, blobs, SCHEMA, {"CLAIM-tmpq": "CLAIM-7"})
+    assert [r["kind"] for r in rows] == ["created"]

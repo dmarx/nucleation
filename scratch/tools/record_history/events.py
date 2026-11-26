@@ -64,18 +64,23 @@ def replay(commits: list[Commit], blobs: BlobReader, schema: Schema,
     rows: list[dict] = []
     for i, c in enumerate(commits):
         start = len(rows)
-        touched = [ch for ch in c.changes if code_of_path(ch.new_path or ch.old_path or "")]
-        codes = Counter()
-        for ch in touched:
+        # one entry can appear twice in a commit (a concrete file added while
+        # its temporary twin is deleted): it is deleted only if every change is
+        grouped: dict[str, list] = {}
+        for ch in c.changes:
             raw = code_of_path(ch.new_path or ch.old_path or "")
-            code = canonical(raw, alias)
+            if raw:
+                grouped.setdefault(canonical(raw, alias), []).append(ch)
+        codes = Counter()
+        for code, chs in grouped.items():
             scheme = schema.scheme_of(code)
             if scheme is None:
                 continue
             codes[code] += 1
-            new = version(ch.new_sha) if ch.status != "D" else None
+            kept = [ch for ch in chs if ch.status != "D"]
+            new = version(kept[-1].new_sha) if kept else None
             old = last.get(code)
-            if ch.status == "D" and old is None:
+            if new is None and old is None:
                 continue
             for ev in diff_entries(old, new, scheme, schema, alias):
                 rows.append({"commit": c.sha, "time": c.time, "bot": c.bot, "author": c.author,
