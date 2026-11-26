@@ -45,7 +45,7 @@ summary: >-
   the word valence for signed position. Adopting either is the owner's
   call.
 ---
-<!-- inactive-ok-file: CLAIM-tmp650up CLAIM-tmphyvh3 CLAIM-tmpzzeqo CLAIM-tmp23xiu CLAIM-tmpi0oub LEAD-tmpl2s2z — new; the result this rests on, the disposition claim, the jurisdiction case, and the alternative -->
+<!-- inactive-ok-file: CLAIM-tmp650up CLAIM-tmphyvh3 CLAIM-tmpzzeqo CLAIM-tmp23xiu CLAIM-tmpi0oub — new; the result this rests on, the disposition claim, the jurisdiction case, and the alternative -->
 <!-- inactive-ok-file: TERM-076 CLAIM-437 — Proposed or Active; cited with their standing -->
 
 # CLAIM-tmpjylns: A cycle that does not resolve is indecision
@@ -98,4 +98,4 @@ widening. [CLAIM-tmp23xiu](CLAIM-tmp23xiu.md) keeps the narrow word instead.
 
 ## Note of 2026-11-26: the owner's caution, and a third reading
 
-The owner: "i might be conflating valence and affect in my usage or something like that." CLAIM-tmpi0oub reads the usage as Lewin's sense of valence, an outcome's pull on movement, which is neither affect nor TERM-076's signed goal-conduciveness valence. On that reading this claim's wording stands in Lewin's sense, and CLAIM-tmp23xiu's point stands in TERM-076's sense. The prior art for the formal part is LEAD-tmpl2s2z.
+The owner: "i might be conflating valence and affect in my usage or something like that." [CLAIM-tmpi0oub](CLAIM-tmpi0oub.md) reads the usage as Lewin's sense of valence, an outcome's pull on movement, which is neither affect nor [TERM-076](../terms.d/TERM-076.md)'s signed goal-conduciveness valence. On that reading this claim's wording stands in Lewin's sense, and [CLAIM-tmp23xiu](CLAIM-tmp23xiu.md)'s point stands in [TERM-076](../terms.d/TERM-076.md)'s sense. The prior art for the formal part is [LEAD-tmpl2s2z](../leads.d/LEAD-tmpl2s2z.md).

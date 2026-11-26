@@ -20,8 +20,8 @@ advances:
 - CLAIM-tmp23xiu
 summary: >-
   The owner, 2026-11-26: "don't forget to also file a LEAD for that
-  reading". CLAIM-tmpzzeqo names Sen's Paretian liberal as prior art for
-  its mechanism, and CLAIM-tmp650up names the social-choice literature's
+  reading". [CLAIM-tmpzzeqo](../claims.d/CLAIM-tmpzzeqo.md) names Sen's Paretian liberal as prior art for
+  its mechanism, and [CLAIM-tmp650up](../claims.d/CLAIM-tmp650up.md) names the social-choice literature's
   top cycle as prior art for its terminal component. Neither is on the
   record. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
@@ -37,27 +37,27 @@ Each bibliographic detail is to be checked when the work is registered.
 - **Sen, "The Impossibility of a Paretian Liberal"** (*Journal of Political
   Economy*, 1970). It shows that decisive personal domains together with
   the Pareto rule yield a cyclic social preference. It is the prior art for
-  CLAIM-tmpzzeqo. The question for it: does its result already cover
-  decisiveness alone over contested pairs, which is what CLAIM-tmpzzeqo
+  [CLAIM-tmpzzeqo](../claims.d/CLAIM-tmpzzeqo.md). The question for it: does its result already cover
+  decisiveness alone over contested pairs, which is what [CLAIM-tmpzzeqo](../claims.d/CLAIM-tmpzzeqo.md)
   uses, or only decisiveness together with Pareto?
 - **Top-cycle solution concepts.** Good's note on Condorcet sets (1971);
   Smith on aggregation with a variable electorate (1973), the source of
   the Smith set; Schwartz, "Rationality and the Myth of the Maximum"
   (1972), and *The Logic of Collective Choice* (1986), for the Schwartz
   set. For a survey, Laslier, *Tournament Solutions and Majority Voting*
-  (1997). These are the prior art for CLAIM-tmp650up's terminal
+  (1997). These are the prior art for [CLAIM-tmp650up](../claims.d/CLAIM-tmp650up.md)'s terminal
   component.
 - **What the literature calls the dynamics.** Whether social choice has a
   name and results for one-move-at-a-time dynamics on a majority relation,
   and for how likely each terminal set is from a given starting
-  distribution. That is the measure CLAIM-tmpjylns and CLAIM-tmp23xiu
+  distribution. That is the measure [CLAIM-tmpjylns](../claims.d/CLAIM-tmpjylns.md) and [CLAIM-tmp23xiu](../claims.d/CLAIM-tmp23xiu.md)
   share.
 
 ## What it would settle
 
-- Whether CLAIM-tmpzzeqo adds anything beyond Sen's reading for
+- Whether [CLAIM-tmpzzeqo](../claims.d/CLAIM-tmpzzeqo.md) adds anything beyond Sen's reading for
   organizational valence, or is Sen restated.
-- Whether CLAIM-tmp650up's demonstrated part should cite the Smith and
+- Whether [CLAIM-tmp650up](../claims.d/CLAIM-tmp650up.md)'s demonstrated part should cite the Smith and
   Schwartz sets rather than restate them. The Schwartz set is defined for
   relations that need not be complete, which is the sparse case the
   record's relation of winning moves is.

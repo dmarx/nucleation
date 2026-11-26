@@ -36,19 +36,19 @@ uses:
 summary: >-
   The owner, 2026-11-26, after the indecision filings: "i might be
   conflating valence and affect in my usage or something like that". This
-  claim offers a third reading beside alternatives A (CLAIM-tmpjylns) and
-  B (CLAIM-tmp23xiu). The owner's usage is not a conflation with affect.
+  claim offers a third reading beside alternatives A ([CLAIM-tmpjylns](CLAIM-tmpjylns.md)) and
+  B ([CLAIM-tmp23xiu](CLAIM-tmp23xiu.md)). The owner's usage is not a conflation with affect.
   It is the older sense of "valence", Lewin's, in which an outcome
   attracts or repels. Lewin is not on the record, and the attribution is
   from memory and has to be checked. The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmp650up CLAIM-tmpjylns CLAIM-tmp23xiu QUESTION-tmppt23x CLAIM-tmps1h34 — new; the result, the two readings beside this one, and the question of what affect is -->
+<!-- inactive-ok-file: CLAIM-tmp650up CLAIM-tmpjylns CLAIM-tmp23xiu CLAIM-tmps1h34 — new; the result, the two readings beside this one, and the question of what affect is -->
 <!-- inactive-ok-file: TERM-076 — Proposed; the sense of valence set beside Lewin's -->
 
 # CLAIM-tmpi0oub: In Lewin's sense, valence is an outcome's pull
 
-*Alternative C beside CLAIM-tmpjylns (A, the owner's wording) and CLAIM-tmp23xiu (B, indecisiveness).*
+*Alternative C beside [CLAIM-tmpjylns](CLAIM-tmpjylns.md) (A, the owner's wording) and [CLAIM-tmp23xiu](CLAIM-tmp23xiu.md) (B, indecisiveness).*
 
 ## The claim
 
@@ -56,9 +56,9 @@ The owner suspects a conflation of valence with affect. This reading says
 the usage is not a conflation with affect but a different, older sense of
 "valence". The record now has three words in play:
 
-- **Affect.** On alternative D (CLAIM-tmps1h34) it is a perspective's
-  concern-relative state. QUESTION-tmppt23x keeps the question open.
-- **Goal-conduciveness valence** (TERM-076). The sign of the system's
+- **Affect.** On alternative D ([CLAIM-tmps1h34](CLAIM-tmps1h34.md)) it is a perspective's
+  concern-relative state. [QUESTION-tmppt23x](../questions.d/QUESTION-tmppt23x.md) keeps the question open.
+- **Goal-conduciveness valence** ([TERM-076](../terms.d/TERM-076.md)). The sign of the system's
   position along the ordering that prevails: ahead of or behind a
   reference course.
 - **Valence in Lewin's sense.** As psychology first used the word, a
@@ -66,7 +66,7 @@ the usage is not a conflation with affect but a different, older sense of
   toward itself or drives movement away. That is a property of the
   outcome, directed at the system.
 
-"Valence toward indecision" is the third sense. On CLAIM-tmp650up, an
+"Valence toward indecision" is the third sense. On [CLAIM-tmp650up](CLAIM-tmp650up.md), an
 outcome's pull for winning-move dynamics is the probability of ending in
 it, its basin weighted by where the organization starts. A terminal cycle
 has a pull like any other terminal component. In
@@ -77,7 +77,7 @@ the starts.
 
 Both are kept, with the word assigned by sense. A's "valence toward
 indecision" is right in Lewin's sense. B's point, that goal-conduciveness
-valence has no sign inside an indecision class, is right in TERM-076's
+valence has no sign inside an indecision class, is right in [TERM-076](../terms.d/TERM-076.md)'s
 sense. The two quantities are different. One is a probability over
 outcomes. The other is a signed position along an ordering.
 
