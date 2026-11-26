@@ -37,7 +37,7 @@ work, which is unread.
 
 ## Bearing on the record
 
-It would say whether the literature has results on one-move-at-a-time dynamics and the likelihood of each terminal set, the measure CLAIM-tmpjylns and CLAIM-tmp23xiu share.
+It would say whether the literature has results on one-move-at-a-time dynamics and the likelihood of each terminal set, the measure [CLAIM-tmpjylns](../claims.d/CLAIM-tmpjylns.md) and [CLAIM-tmp23xiu](../claims.d/CLAIM-tmp23xiu.md) share.
 
 ## What it does not show
 

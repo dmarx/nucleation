@@ -31,8 +31,8 @@ summary: >-
 
 Read, by the read-and-file procedure, the accounts that treat emotion or
 its expression as communication. Registered 2026-11-26, Deferred:
-LIT-tmpp11wp (Fridlund), LIT-tmpfgz0s (Van Kleef), LIT-tmpfg9h1
-(Scarantino) and LIT-tmpo0t2n (Keltner and Haidt).
+[LIT-tmpp11wp](../literature.d/LIT-tmpp11wp.md) (Fridlund), [LIT-tmpfgz0s](../literature.d/LIT-tmpfgz0s.md) (Van Kleef), [LIT-tmpfg9h1](../literature.d/LIT-tmpfg9h1.md)
+(Scarantino) and [LIT-tmpo0t2n](../literature.d/LIT-tmpo0t2n.md) (Keltner and Haidt).
 
 - Fridlund's behavioral ecology view of facial displays, in which displays
   are social tools that signal intentions and are not readouts of an inner

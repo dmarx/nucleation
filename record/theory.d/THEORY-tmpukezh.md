@@ -24,7 +24,7 @@ summary: >-
   grounds nothing until then. The wording is the assistant's (Claude, in
   this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: LIT-tmpp11wp CLAIM-tmps1h34 QUESTION-tmppt23x — Deferred or new; the unread source and the entries the expected account is read against -->
+<!-- inactive-ok-file: LIT-tmpp11wp CLAIM-tmps1h34 — Deferred or new; the unread source and the entries the expected account is read against -->
 
 # THEORY-tmpukezh: Facial displays signal social motives, not emotions
 
@@ -39,7 +39,7 @@ work, which is unread.
 
 ## Bearing on the record
 
-It is the view most likely to refuse CLAIM-tmps1h34's affect as the content an emotion communicates: if displays signal motives and not states, a claim to precedence need not report affect at all.
+It is the view most likely to refuse [CLAIM-tmps1h34](../claims.d/CLAIM-tmps1h34.md)'s affect as the content an emotion communicates: if displays signal motives and not states, a claim to precedence need not report affect at all.
 
 ## What it does not show
 

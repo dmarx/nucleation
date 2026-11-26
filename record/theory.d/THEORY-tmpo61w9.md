@@ -37,7 +37,7 @@ work, which is unread.
 
 ## Bearing on the record
 
-It is prior art for CLAIM-tmp650up's terminal component, and the name the literature uses for it.
+It is prior art for [CLAIM-tmp650up](../claims.d/CLAIM-tmp650up.md)'s terminal component, and the name the literature uses for it.
 
 ## What it does not show
 

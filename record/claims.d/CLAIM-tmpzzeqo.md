@@ -87,8 +87,8 @@ their domains touch the same states.
 It is a relative of Sen's liberal paradox, in which decisive personal
 domains together with the Pareto rule yield a cyclic social preference.
 Here domain decisiveness alone is enough, because the cycle runs through
-contested pairs only. Sen is held as LIT-285, read in full in NOTE-255,
-with THEORY-027 drawn from it. The claim adds the reading for
+contested pairs only. Sen is held as [LIT-285](../literature.d/LIT-285.md), read in full in [NOTE-255](../notes.d/NOTE-255.md),
+with [THEORY-027](../theory.d/THEORY-027.md) drawn from it. The claim adds the reading for
 organizational valence.
 
 ## What it does not say
@@ -112,13 +112,13 @@ the owner chooses between the two.
 ## Note of 2026-11-26: Sen is held, and the potential account has no Pareto edges
 
 This claim was filed saying Sen was not on the record. That was wrong. The
-search had used the wrong key. LIT-285 has been read in full (NOTE-255),
-and THEORY-027 is drawn from it. NOTE-255 states Sen's proof: decisiveness
+search had used the wrong key. [LIT-285](../literature.d/LIT-285.md) has been read in full ([NOTE-255](../notes.d/NOTE-255.md)),
+and [THEORY-027](../theory.d/THEORY-027.md) is drawn from it. [NOTE-255](../notes.d/NOTE-255.md) states Sen's proof: decisiveness
 over two pairs (Condition L*), together with weak Pareto (Condition P) over
 a third, closes a strict cycle. It also records that Condition L "gives
 decisiveness over arbitrary pairs, not over a protected personal sphere".
 
-The comparison sharpens what this claim is. TERM-076's relation of
+The comparison sharpens what this claim is. [TERM-076](../terms.d/TERM-076.md)'s relation of
 winning moves holds wins on contested pairs only, so a pair everyone ranks
 alike carries no move. Sen's Pareto edges have no counterpart there, and
 Sen's route to a cycle is closed in the potential account. Case 6a shows
@@ -128,5 +128,5 @@ that is weak. A different decisive perspective for each pair can produce
 any relation at all, cycles included. So the formal part of this claim is
 near-trivial beside Sen. Its content is the organizational reading: where
 jurisdiction boundaries fall over shared states decides whether the
-organization has valence, or, on CLAIM-tmpjylns, whether it is undecided.
+organization has valence, or, on [CLAIM-tmpjylns](CLAIM-tmpjylns.md), whether it is undecided.
 The title and statement are unchanged.

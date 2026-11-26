@@ -1,6 +1,6 @@
 ---
 status: Deferred
-status_note: 'Registered 2026-11-26 at the owner''s request ("file LITs for the reading leads"), for LEAD-tmptupsj; not sought or read.'
+status_note: 'Registered 2026-11-26 at the owner''s request ("file LITs for the reading leads"), for [LEAD-tmptupsj](../leads.d/LEAD-tmptupsj.md); not sought or read.'
 title: "Human Facial Expression: An Evolutionary View"
 version: 1
 history:
@@ -20,9 +20,9 @@ first_author: 'Fridlund'
 keywords: ['behavioral ecology view', 'facial expression']
 implementations: []
 summary: >-
-  Fridlund (1994), Academic Press, ISBN 978-0-12-267630-7. Registered for the behavioral ecology view, on which facial displays are social tools signalling intentions and not readouts of an inner state, the view most likely to refuse CLAIM-tmps1h34's affect as the content communicated. Unread, it grounds nothing.
+  Fridlund (1994), Academic Press, ISBN 978-0-12-267630-7. Registered for the behavioral ecology view, on which facial displays are social tools signalling intentions and not readouts of an inner state, the view most likely to refuse [CLAIM-tmps1h34](../claims.d/CLAIM-tmps1h34.md)'s affect as the content communicated. Unread, it grounds nothing.
 ---
-<!-- inactive-ok-file: CLAIM-tmps1h34 LEAD-tmptupsj — new or Proposed; the lead this work is registered for and the claims it would be read against -->
+<!-- inactive-ok-file: CLAIM-tmps1h34 — new or Proposed; the lead this work is registered for and the claims it would be read against -->
 
 # LIT-tmpp11wp: Human Facial Expression: An Evolutionary View
 
@@ -34,6 +34,6 @@ Fridlund (1994), Academic Press, ISBN 978-0-12-267630-7.
 
 ## Standing in the record
 
-Registered for the behavioral ecology view, on which facial displays are social tools signalling intentions and not readouts of an inner state, the view most likely to refuse CLAIM-tmps1h34's affect as the content communicated (LEAD-tmptupsj). Unread, it grounds nothing.
+Registered for the behavioral ecology view, on which facial displays are social tools signalling intentions and not readouts of an inner state, the view most likely to refuse [CLAIM-tmps1h34](../claims.d/CLAIM-tmps1h34.md)'s affect as the content communicated ([LEAD-tmptupsj](../leads.d/LEAD-tmptupsj.md)). Unread, it grounds nothing.
 
-The account the record expects to draw from it is THEORY-tmpukezh, Proposed and unverified until read.
+The account the record expects to draw from it is [THEORY-tmpukezh](../theory.d/THEORY-tmpukezh.md), Proposed and unverified until read.

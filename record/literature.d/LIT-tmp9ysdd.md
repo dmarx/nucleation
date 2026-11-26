@@ -1,6 +1,6 @@
 ---
 status: Deferred
-status_note: 'Registered 2026-11-26 at the owner''s request ("file LITs for the reading leads"), for LEAD-tmpl2s2z; not sought or read.'
+status_note: 'Registered 2026-11-26 at the owner''s request ("file LITs for the reading leads"), for [LEAD-tmpl2s2z](../leads.d/LEAD-tmpl2s2z.md); not sought or read.'
 title: "Rationality and the Myth of the Maximum"
 version: 1
 history:
@@ -20,9 +20,9 @@ first_author: 'Schwartz'
 keywords: ['Schwartz set', 'choice without a maximum']
 implementations: []
 summary: >-
-  Schwartz (1972), Noûs 6(2), 97ff.. Registered for choice without a maximum, the Schwartz set's setting, which is the sparse, incomplete relation of winning moves CLAIM-tmp650up works on. Unread, it grounds nothing.
+  Schwartz (1972), Noûs 6(2), 97ff.. Registered for choice without a maximum, the Schwartz set's setting, which is the sparse, incomplete relation of winning moves [CLAIM-tmp650up](../claims.d/CLAIM-tmp650up.md) works on. Unread, it grounds nothing.
 ---
-<!-- inactive-ok-file: CLAIM-tmp650up LEAD-tmpl2s2z — new or Proposed; the lead this work is registered for and the claims it would be read against -->
+<!-- inactive-ok-file: CLAIM-tmp650up — new or Proposed; the lead this work is registered for and the claims it would be read against -->
 
 # LIT-tmp9ysdd: Rationality and the Myth of the Maximum
 
@@ -34,6 +34,6 @@ Schwartz (1972), Noûs 6(2), 97ff..
 
 ## Standing in the record
 
-Registered for choice without a maximum, the Schwartz set's setting, which is the sparse, incomplete relation of winning moves CLAIM-tmp650up works on (LEAD-tmpl2s2z). Unread, it grounds nothing.
+Registered for choice without a maximum, the Schwartz set's setting, which is the sparse, incomplete relation of winning moves [CLAIM-tmp650up](../claims.d/CLAIM-tmp650up.md) works on ([LEAD-tmpl2s2z](../leads.d/LEAD-tmpl2s2z.md)). Unread, it grounds nothing.
 
-The account the record expects to draw from it is THEORY-tmpo6zw5, Proposed and unverified until read.
+The account the record expects to draw from it is [THEORY-tmpo6zw5](../theory.d/THEORY-tmpo6zw5.md), Proposed and unverified until read.

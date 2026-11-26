@@ -24,7 +24,7 @@ summary: >-
   grounds nothing until then. The wording is the assistant's (Claude, in
   this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: LIT-tmpfgz0s CLAIM-tmps1h34 QUESTION-tmppt23x — Deferred or new; the unread source and the entries the expected account is read against -->
+<!-- inactive-ok-file: LIT-tmpfgz0s CLAIM-tmps1h34 — Deferred or new; the unread source and the entries the expected account is read against -->
 
 # THEORY-tmpxb38s: Expressed emotions inform observers by inference and by reaction
 
@@ -39,7 +39,7 @@ work, which is unread.
 
 ## Bearing on the record
 
-Its inferential route is the observer-side counterpart of CLAIM-tmps1h34's uptake: a grant could be made on what the claim lets the grantor infer.
+Its inferential route is the observer-side counterpart of [CLAIM-tmps1h34](../claims.d/CLAIM-tmps1h34.md)'s uptake: a grant could be made on what the claim lets the grantor infer.
 
 ## What it does not show
 

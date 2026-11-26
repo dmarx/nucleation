@@ -24,7 +24,7 @@ summary: >-
   grounds nothing until then. The wording is the assistant's (Claude, in
   this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: LIT-tmpfg9h1 CLAIM-tmps1h34 QUESTION-tmppt23x — Deferred or new; the unread source and the entries the expected account is read against -->
+<!-- inactive-ok-file: LIT-tmpfg9h1 CLAIM-tmps1h34 — Deferred or new; the unread source and the entries the expected account is read against -->
 
 # THEORY-tmp4sgi7: Emotional expressions do things as speech acts do
 
@@ -39,7 +39,7 @@ work, which is unread.
 
 ## Bearing on the record
 
-Its directive function is the nearest held candidate for CLAIM-tmps1h34's claim to precedence, and its uptake conditions for CLAIM-283's grant.
+Its directive function is the nearest held candidate for [CLAIM-tmps1h34](../claims.d/CLAIM-tmps1h34.md)'s claim to precedence, and its uptake conditions for [CLAIM-283](../claims.d/CLAIM-283.md)'s grant.
 
 ## What it does not show
 

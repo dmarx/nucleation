@@ -38,7 +38,7 @@ work, which is unread.
 
 ## Bearing on the record
 
-It is the prior art for CLAIM-tmp650up on the sparse, incomplete relation of winning moves the record uses, and for CLAIM-tmpjylns's indecision as a choice set with more than one member.
+It is the prior art for [CLAIM-tmp650up](../claims.d/CLAIM-tmp650up.md) on the sparse, incomplete relation of winning moves the record uses, and for [CLAIM-tmpjylns](../claims.d/CLAIM-tmpjylns.md)'s indecision as a choice set with more than one member.
 
 ## What it does not show
 

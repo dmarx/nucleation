@@ -1,6 +1,6 @@
 ---
 status: Deferred
-status_note: 'Registered 2026-11-26 at the owner''s request ("file LITs for the reading leads"), for LEAD-tmpl2s2z; not sought or read.'
+status_note: 'Registered 2026-11-26 at the owner''s request ("file LITs for the reading leads"), for [LEAD-tmpl2s2z](../leads.d/LEAD-tmpl2s2z.md); not sought or read.'
 title: "The Logic of Collective Choice"
 version: 1
 history:
@@ -20,9 +20,9 @@ first_author: 'Schwartz'
 keywords: ['Schwartz set', 'collective choice']
 implementations: []
 summary: >-
-  Schwartz (1986), Columbia University Press. Registered for the book-length statement of the Schwartz set and collective choice from incomplete relations, against CLAIM-tmp650up and the indecision claims CLAIM-tmpjylns and CLAIM-tmp23xiu. Unread, it grounds nothing.
+  Schwartz (1986), Columbia University Press. Registered for the book-length statement of the Schwartz set and collective choice from incomplete relations, against [CLAIM-tmp650up](../claims.d/CLAIM-tmp650up.md) and the indecision claims [CLAIM-tmpjylns](../claims.d/CLAIM-tmpjylns.md) and [CLAIM-tmp23xiu](../claims.d/CLAIM-tmp23xiu.md). Unread, it grounds nothing.
 ---
-<!-- inactive-ok-file: CLAIM-tmp23xiu CLAIM-tmp650up CLAIM-tmpjylns LEAD-tmpl2s2z — new or Proposed; the lead this work is registered for and the claims it would be read against -->
+<!-- inactive-ok-file: CLAIM-tmp23xiu CLAIM-tmp650up CLAIM-tmpjylns — new or Proposed; the lead this work is registered for and the claims it would be read against -->
 
 # LIT-tmpzlq5o: The Logic of Collective Choice
 
@@ -34,6 +34,6 @@ Schwartz (1986), Columbia University Press.
 
 ## Standing in the record
 
-Registered for the book-length statement of the Schwartz set and collective choice from incomplete relations, against CLAIM-tmp650up and the indecision claims CLAIM-tmpjylns and CLAIM-tmp23xiu (LEAD-tmpl2s2z). Unread, it grounds nothing.
+Registered for the book-length statement of the Schwartz set and collective choice from incomplete relations, against [CLAIM-tmp650up](../claims.d/CLAIM-tmp650up.md) and the indecision claims [CLAIM-tmpjylns](../claims.d/CLAIM-tmpjylns.md) and [CLAIM-tmp23xiu](../claims.d/CLAIM-tmp23xiu.md) ([LEAD-tmpl2s2z](../leads.d/LEAD-tmpl2s2z.md)). Unread, it grounds nothing.
 
-The account the record expects to draw from it is THEORY-tmpo6zw5, Proposed and unverified until read.
+The account the record expects to draw from it is [THEORY-tmpo6zw5](../theory.d/THEORY-tmpo6zw5.md), Proposed and unverified until read.

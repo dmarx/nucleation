@@ -1,6 +1,6 @@
 ---
 status: Deferred
-status_note: 'Registered 2026-11-26 at the owner''s request ("file LITs for the reading leads"), for LEAD-tmptupsj; not sought or read.'
+status_note: 'Registered 2026-11-26 at the owner''s request ("file LITs for the reading leads"), for [LEAD-tmptupsj](../leads.d/LEAD-tmptupsj.md); not sought or read.'
 title: "Social Functions of Emotions at Four Levels of Analysis"
 version: 1
 history:
@@ -22,7 +22,6 @@ implementations: []
 summary: >-
   Keltner and Haidt (1999), Cognition and Emotion 13(5), 505-521. Registered for the social functions of emotion at the individual, dyadic, group and cultural levels, a frame for where an organization's communicated claims sit. Unread, it grounds nothing.
 ---
-<!-- inactive-ok-file: LEAD-tmptupsj — new or Proposed; the lead this work is registered for and the claims it would be read against -->
 
 # LIT-tmpo0t2n: Social Functions of Emotions at Four Levels of Analysis
 
@@ -34,6 +33,6 @@ Keltner and Haidt (1999), Cognition and Emotion 13(5), 505-521.
 
 ## Standing in the record
 
-Registered for the social functions of emotion at the individual, dyadic, group and cultural levels, a frame for where an organization's communicated claims sit (LEAD-tmptupsj). Unread, it grounds nothing.
+Registered for the social functions of emotion at the individual, dyadic, group and cultural levels, a frame for where an organization's communicated claims sit ([LEAD-tmptupsj](../leads.d/LEAD-tmptupsj.md)). Unread, it grounds nothing.
 
-The account the record expects to draw from it is THEORY-tmpaxrfe, Proposed and unverified until read.
+The account the record expects to draw from it is [THEORY-tmpaxrfe](../theory.d/THEORY-tmpaxrfe.md), Proposed and unverified until read.

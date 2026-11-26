@@ -24,7 +24,7 @@ summary: >-
   grounds nothing until then. The wording is the assistant's (Claude, in
   this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: LIT-tmpo0t2n QUESTION-tmppt23x — Deferred or new; the unread source and the entries the expected account is read against -->
+<!-- inactive-ok-file: LIT-tmpo0t2n — Deferred or new; the unread source and the entries the expected account is read against -->
 
 # THEORY-tmpaxrfe: Emotions have social functions at four levels
 

@@ -34,18 +34,18 @@ summary: >-
 Read, by the read-and-file procedure, the following works.
 
 - **Sen, "The Impossibility of a Paretian Liberal"** (1970) is already
-  held: LIT-285, read in full in NOTE-255, with THEORY-027. Its question
-  here is answered from NOTE-255 in CLAIM-tmpzzeqo's note of 2026-11-26.
+  held: [LIT-285](../literature.d/LIT-285.md), read in full in [NOTE-255](../notes.d/NOTE-255.md), with [THEORY-027](../theory.d/THEORY-027.md). Its question
+  here is answered from [NOTE-255](../notes.d/NOTE-255.md) in [CLAIM-tmpzzeqo](../claims.d/CLAIM-tmpzzeqo.md)'s note of 2026-11-26.
   Sen's cycle needs Pareto edges, and the potential account has none, so
-  CLAIM-tmpzzeqo uses decisiveness alone, which is the weaker condition.
+  [CLAIM-tmpzzeqo](../claims.d/CLAIM-tmpzzeqo.md) uses decisiveness alone, which is the weaker condition.
 - **Top-cycle solution concepts.** Good's note on Condorcet sets (1971);
   Smith on aggregation with a variable electorate (1973), the source of
   the Smith set; Schwartz, "Rationality and the Myth of the Maximum"
   (1972), and *The Logic of Collective Choice* (1986), for the Schwartz
   set. For a survey, Laslier, *Tournament Solutions and Majority Voting*
-  (1997). Registered 2026-11-26, Deferred: LIT-tmp08ex4 (Good),
-  LIT-tmplr61u (Smith), LIT-tmp9ysdd (Schwartz 1972), LIT-tmpzlq5o
-  (Schwartz 1986) and LIT-tmplnpxh (Laslier). These are the prior art for [CLAIM-tmp650up](../claims.d/CLAIM-tmp650up.md)'s terminal
+  (1997). Registered 2026-11-26, Deferred: [LIT-tmp08ex4](../literature.d/LIT-tmp08ex4.md) (Good),
+  [LIT-tmplr61u](../literature.d/LIT-tmplr61u.md) (Smith), [LIT-tmp9ysdd](../literature.d/LIT-tmp9ysdd.md) (Schwartz 1972), [LIT-tmpzlq5o](../literature.d/LIT-tmpzlq5o.md)
+  (Schwartz 1986) and [LIT-tmplnpxh](../literature.d/LIT-tmplnpxh.md) (Laslier). These are the prior art for [CLAIM-tmp650up](../claims.d/CLAIM-tmp650up.md)'s terminal
   component.
 - **What the literature calls the dynamics.** Whether social choice has a
   name and results for one-move-at-a-time dynamics on a majority relation,

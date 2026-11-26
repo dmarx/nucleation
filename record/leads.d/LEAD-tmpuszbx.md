@@ -126,7 +126,7 @@ three states and two or three perspectives:
 - **Settlement rules.** The computation uses influence-weighted vote, with
   no claim term. Add [CLAIM-283](../claims.d/CLAIM-283.md)'s case of a claim outrunning its grant (a
   term in p_k) and see which results survive.
-- **Sen is held** (LIT-285, NOTE-255, THEORY-027). It is compared with CLAIM-tmpzzeqo in that claim's note of 2026-11-26.
+- **Sen is held** ([LIT-285](../literature.d/LIT-285.md), [NOTE-255](../notes.d/NOTE-255.md), [THEORY-027](../theory.d/THEORY-027.md)). It is compared with [CLAIM-tmpzzeqo](../claims.d/CLAIM-tmpzzeqo.md) in that claim's note of 2026-11-26.
 
 ## What would settle it
 
