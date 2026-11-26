@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read in full 2026-11-26 (NOTE-tmpcktnn); worth reading for one exact identity and one new layer. Proposition 1 makes one causal linear self-attention head on constructed tokens exactly a full-batch gradient step of autoregressive least squares, and the mesa-layer outputs the ridge solution on its context by recursive least squares. Read its claims about deep and softmax models as agreement with tuned optimizers, probes and distillation, not as identities.'
+status_note: 'read in full 2026-11-26 ([NOTE-tmpcktnn](../notes.d/NOTE-tmpcktnn.md)); worth reading for one exact identity and one new layer. Proposition 1 makes one causal linear self-attention head on constructed tokens exactly a full-batch gradient step of autoregressive least squares, and the mesa-layer outputs the ridge solution on its context by recursive least squares. Read its claims about deep and softmax models as agreement with tuned optimizers, probes and distillation, not as identities.'
 title: 'Uncovering mesa-optimization algorithms in Transformers'
 version: 2
 history:
@@ -37,12 +37,12 @@ summary: >-
   of a least-squares mesa-objective. That is exactly one gradient step for
   one linear self-attention layer (Proposition 1), and approximately
   preconditioned descent toward ridge regression for deeper and softmax
-  models. A derived mesa-layer solves the regression exactly. THEORY-tmp8xq94
-  holds the account; it extends THEORY-169 and bears on QUESTION-159.
+  models. A derived mesa-layer solves the regression exactly. [THEORY-tmp8xq94](../theory.d/THEORY-tmp8xq94.md)
+  holds the account; it extends [THEORY-169](../theory.d/THEORY-169.md) and bears on [QUESTION-159](../questions.d/QUESTION-159.md).
 extends:
 - LIT-792
 ---
-<!-- inactive-ok-file: NOTE-tmpcktnn THEORY-tmp8xq94 — new; this work's reading and account -->
+<!-- inactive-ok-file: THEORY-tmp8xq94 — new; this work's reading and account -->
 
 # LIT-tmpuv16r: Uncovering mesa-optimization algorithms in Transformers
 
@@ -55,11 +55,11 @@ von Oswald et al. (2023), arXiv 2309.05858.
   squares (Proposition 1).
 - The mesa-layer outputs the ridge solution on its context, by
   Sherman–Morrison. Its claim to "strictly generalize" linear attention
-  holds only up to a vanishing scale (NOTE-tmpcktnn, Limitations).
+  holds only up to a vanishing scale ([NOTE-tmpcktnn](../notes.d/NOTE-tmpcktnn.md), Limitations).
 - Deep and softmax models are matched, not identified, to preconditioned
   descent.
 
 ## Standing in the record
 
-The sequel to LIT-792. Its reading is NOTE-tmpcktnn, and its account is
-THEORY-tmp8xq94, which extends THEORY-169 and bears on QUESTION-159.
+The sequel to [LIT-792](LIT-792.md). Its reading is [NOTE-tmpcktnn](../notes.d/NOTE-tmpcktnn.md), and its account is
+[THEORY-tmp8xq94](../theory.d/THEORY-tmp8xq94.md), which extends [THEORY-169](../theory.d/THEORY-169.md) and bears on [QUESTION-159](../questions.d/QUESTION-159.md).

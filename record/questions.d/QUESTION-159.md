@@ -67,11 +67,10 @@ No status change.
 
 ## Note of 2026-11-26: von Oswald et al. (2023), read
 
-<!-- inactive-ok-block: THEORY-tmp8xq94 NOTE-tmpcktnn THEORY-2049 — new or Proposed; the reading this note reports and a held entry it names -->
 
 Bears on the question and narrows it; does not answer it as posed.
 
-- **The mesa-layer** (LIT-tmpuv16r, NOTE-tmpcktnn, Eqs. 4–8) is a sequence
+- **The mesa-layer** ([LIT-tmpuv16r](../literature.d/LIT-tmpuv16r.md), [NOTE-tmpcktnn](../notes.d/NOTE-tmpcktnn.md), Eqs. 4–8) is a sequence
   layer whose output is exactly the prediction of a ridge, or recursive
   least-squares, learner trained on the context so far. Like the delta-rule
   reading in the note of 2026-11-15, it holds by definition: the layer is
@@ -81,9 +80,9 @@ Bears on the question and narrows it; does not answer it as posed.
   is "hardwired to do one gradient descent step per time point". That
   matches the arithmetic of the note of 2026-11-15.
 - **Held entries this question's notes did not cite.**
-  - NOTE-620 (LIT-801) reads DeltaNet as "TTT-Linear with b = 1 and no LN
+  - [NOTE-620](../notes.d/NOTE-620.md) ([LIT-801](../literature.d/LIT-801.md)) reads DeltaNet as "TTT-Linear with b = 1 and no LN
     or residual", a delta-rule-as-learner identity.
-  - THEORY-2049 and NOTE-2087 cover mini-batch test-time-training layers,
+  - [THEORY-2049](../theory.d/THEORY-2049.md) and [NOTE-2087](../notes.d/NOTE-2087.md) cover mini-batch test-time-training layers,
     the question's mini-batch clause.
 - **Untouched.** Normalized linear attention, and the question's second
   half, whether some standard layer admits no learner description.

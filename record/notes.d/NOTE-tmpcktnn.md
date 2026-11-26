@@ -31,8 +31,7 @@ summary: >-
   mesa-layer whose output is, by definition, the ridge solution on the
   context, computed by recursive least squares.
 ---
-<!-- inactive-ok-file: LIT-tmpuv16r — Deferred until this reading; the work read -->
-<!-- inactive-ok-file: THEORY-1871 THEORY-2050 THEORY-990 THEORY-tmp8xq94 — Proposed; readings this note bears on, and the one it yields -->
+<!-- inactive-ok-file: THEORY-1871 THEORY-2050 THEORY-990 — Proposed; readings this note bears on, and the one it yields -->
 
 # NOTE-tmpcktnn: Uncovering mesa-optimization algorithms in Transformers
 
@@ -40,7 +39,7 @@ von Oswald et al. (2023), arXiv 2309.05858, v2.
 
 ## Contribution
 
-It moves the authors' 2022 result (LIT-792, NOTE-621) from meta-trained
+It moves the authors' 2022 result ([LIT-792](../literature.d/LIT-792.md), [NOTE-621](NOTE-621.md)) from meta-trained
 in-context regression to plain autoregressive training. It adds a
 multi-layer construction, Proposition 2, that preconditions and then takes
 one gradient step. And it introduces the mesa-layer, a causal attention
@@ -126,31 +125,31 @@ layer that solves regularized least squares on its context at every step.
 
 ## Bearing on the record
 
-- **LIT-792 and NOTE-621 (extends).** Proposition 1 is the 2022 identity,
+- **[LIT-792](../literature.d/LIT-792.md) and [NOTE-621](NOTE-621.md) (extends).** Proposition 1 is the 2022 identity,
   moved to autoregressive training with a nonzero Φ0.
-- **THEORY-169 (supports and extends).** Proposition 1 is a further exact
+- **[THEORY-169](../theory.d/THEORY-169.md) (supports and extends).** Proposition 1 is a further exact
   conditioning-is-training identity, for causal linear self-attention on
   constructed tokens. The mesa-layer adds a third exact learner layer
   beside batch gradient and kernel regression. The evidence on trained deep
-  and softmax models is not exact, which respects THEORY-169's caveat.
-- **QUESTION-159 (bears on and narrows; does not answer).** The mesa-layer
+  and softmax models is not exact, which respects [THEORY-169](../theory.d/THEORY-169.md)'s caveat.
+- **[QUESTION-159](../questions.d/QUESTION-159.md) (bears on and narrows; does not answer).** The mesa-layer
   is exactly a ridge or recursive-least-squares learner's train-then-predict
   step, but by definition (Eq. 5). That is the same "too immediate"
   question the note of 2026-11-15 raised for the delta rule. The paper's
   statement that Delta-Net does "one gradient descent step per time point"
   matches that note's own arithmetic. Nothing here covers mini-batch inner
   updates, normalized linear attention, or the question's second half.
-- **THEORY-1871 (extends; a parallel).** Fast-weight learning recast as
+- **[THEORY-1871](../theory.d/THEORY-1871.md) (extends; a parallel).** Fast-weight learning recast as
   exact optimization at every step, with the delta rule between Hebb and
-  the mesa-layer. No new test of THEORY-1871's capacity clause.
-- **THEORY-2050 (parallel, consistent).** Both find deeper models behaving
+  the mesa-layer. No new test of [THEORY-1871](../theory.d/THEORY-1871.md)'s capacity clause.
+- **[THEORY-2050](../theory.d/THEORY-2050.md) (parallel, consistent).** Both find deeper models behaving
   like ridge or least squares rather than one gradient step. Akyürek's
   Sherman–Morrison construction is realized here as an actual layer.
-- **THEORY-973 and THEORY-990, from NOTE-1173 (qualifies).** The first-layer
+- **[THEORY-973](../theory.d/THEORY-973.md) and [THEORY-990](../theory.d/THEORY-990.md), from [NOTE-1173](NOTE-1173.md) (qualifies).** The first-layer
   copying mechanism is agreed. The second stage is reinterpreted as a
   least-squares optimizer, not softmax retrieval, but only on synthetic
   continuous data.
-- **LEAD-043 (bears on it).** The paper gives a mechanism for "early
+- **[LEAD-043](../leads.d/LEAD-043.md) (bears on it).** The paper gives a mechanism for "early
   ascent", spurious target–input pairs, which is the only phenomenon of
   that name the record holds.
 

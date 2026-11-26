@@ -32,20 +32,19 @@ extends:
 bears_on:
 - QUESTION-159
 summary: >-
-  von Oswald et al. (2023), LIT-tmpuv16r, read in NOTE-tmpcktnn. The exact
+  von Oswald et al. (2023), [LIT-tmpuv16r](../literature.d/LIT-tmpuv16r.md), read in [NOTE-tmpcktnn](../notes.d/NOTE-tmpcktnn.md). The exact
   part is Proposition 1, a one-layer gradient-step identity, together with
   the mesa-layer, which optimizes by construction. Everything about deep and
   softmax models rests on matched loss curves, weight structure, linear
-  probes and distillation, so Proposed. It extends THEORY-169 with a further
-  exact identity and a ridge-learner layer, and it bears on QUESTION-159
+  probes and distillation, so Proposed. It extends [THEORY-169](THEORY-169.md) with a further
+  exact identity and a ridge-learner layer, and it bears on [QUESTION-159](../questions.d/QUESTION-159.md)
   without answering it. The wording is the reader's, revised by the filer;
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: LIT-tmpuv16r NOTE-tmpcktnn — new; the work and its reading -->
 
 # THEORY-tmp8xq94: Trained transformers bind tokens, then optimize in context
 
-von Oswald et al., "Uncovering mesa-optimization algorithms in Transformers" (2023), LIT-tmpuv16r.
+von Oswald et al., "Uncovering mesa-optimization algorithms in Transformers" (2023), [LIT-tmpuv16r](../literature.d/LIT-tmpuv16r.md).
 
 ## The account
 
