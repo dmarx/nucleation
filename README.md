@@ -21,8 +21,9 @@ A space for ideas to crystalize amidst an ongoing philosophical inquiry.
 
 ## Citing this work
 
-If an idea here is useful to your own work, please cite it. To cite the
-record as a whole:
+If an idea here is useful to your own work, please cite it. GitHub's "Cite
+this repository" button, generated from `CITATION.cff`, gives the record
+in APA and BibTeX. To cite the record as a whole:
 
 ```bibtex
 @misc{marx2026nucleation,
