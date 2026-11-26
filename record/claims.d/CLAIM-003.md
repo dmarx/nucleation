@@ -112,3 +112,14 @@ it is the claim's own defeater, "access by a different workspace". It says
 nothing on "conscious experience can as well". [THEORY-2229](../theory.d/THEORY-2229.md)
 `corroborates` the claim, as independent evidence it does not rest on. The
 claim is unchanged.
+
+## Note of 2026-11-26: format, not content
+
+<!-- inactive-ok-block: CLAIM-tmpj88da — new; the claim this note reports -->
+
+Supported, in language models, by [THEORY-865](../theory.d/THEORY-865.md) ([NOTE-1069](../notes.d/NOTE-1069.md)). There,
+continuation and line wrapping use information outside the J-space, and
+report reads it only once loaded. Access differs by consumer, which is
+this claim's compartmenting at the level of one model. [CLAIM-tmpj88da](CLAIM-tmpj88da.md)
+states the general form: access is a relation between a format and the
+consumers that can read it. No status change.
