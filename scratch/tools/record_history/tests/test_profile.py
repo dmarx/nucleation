@@ -51,3 +51,29 @@ def test_quadrant_labels():
     assert quadrant(2, 3, 14, 1) == "developing nucleus"
     assert quadrant(2, 0, 14, 1) == "unresolved churn"
     assert quadrant(30, 0, 14, 1) == "dormant structure"
+
+
+def test_a_deleted_entry_loses_its_edges_and_is_flagged():
+    rows = ROWS + [ev(59, "CLAIM-3", "deleted")]
+    ps = profiles(rows, P)
+    assert ps["CLAIM-1"]["in_degree"] == 1  # only CLAIM-2 is left
+    assert ps["CLAIM-3"]["deleted"] is True
+    assert ps["CLAIM-1"]["deleted"] is False
+
+
+def test_sweep_needs_breadth_and_few_creations():
+    from record_history.profile import sweep_commits
+    rows = [ev(1, f"CLAIM-{i}", "title", commit="s", breadth=300) for i in range(300)]
+    rows += [ev(2, f"CLAIM-{i}", "created", commit="f", breadth=300) for i in range(100)]
+    rows += [ev(2, f"CLAIM-{i}", "prose", commit="f", breadth=300, churn=1) for i in range(100, 300)]
+    assert sweep_commits(rows, breadth=250, created_share=0.1) == {"s"}
+
+
+def test_accretion_does_not_reset_revision_stability():
+    rows = [ev(0, "CLAIM-9", "created", commit="a", status="Proposed"),
+            ev(10, "CLAIM-9", "prose", commit="b", churn=2, added=1, removed=1),
+            ev(50, "CLAIM-9", "prose", commit="c", churn=5, added=5, removed=0)]
+    p = profiles(rows, P)["CLAIM-9"]
+    assert p["days_since_prose"] == 10
+    assert p["days_since_revision"] == 50
+    assert (p["revisions"], p["accretions"]) == (1, 1)

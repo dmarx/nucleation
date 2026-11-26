@@ -19,12 +19,14 @@ BOOKKEEPING = {"version", "history", "formerly", "number", "date", "created"}
 Version = tuple[dict, str]
 
 
-def _churn(old: list[str], new: list[str]) -> int:
-    n = 0
+def _churn(old: list[str], new: list[str]) -> tuple[int, int]:
+    """Lines added and lines removed between two normalized versions."""
+    added = removed = 0
     for tag, i1, i2, j1, j2 in difflib.SequenceMatcher(None, old, new, autojunk=False).get_opcodes():
         if tag != "equal":
-            n += (i2 - i1) + (j2 - j1)
-    return n
+            removed += i2 - i1
+            added += j2 - j1
+    return added, removed
 
 
 def _prose_lines(fields: dict, body: str, alias: dict[str, str]) -> list[str]:
@@ -57,9 +59,9 @@ def diff_entries(old: Version | None, new: Version | None, scheme: str,
         events.append({"kind": "status", "old": str(of.get("status", "")), "new": str(nf.get("status", ""))})
     if normalize_text(str(of.get("title", "")), alias) != normalize_text(str(nf.get("title", "")), alias):
         events.append({"kind": "title"})
-    churn = _churn(_prose_lines(of, ob, alias), _prose_lines(nf, nb, alias))
-    if churn:
-        events.append({"kind": "prose", "churn": churn})
+    added, removed = _churn(_prose_lines(of, ob, alias), _prose_lines(nf, nb, alias))
+    if added or removed:  # removed == 0 is accretion (a dated note); else revision
+        events.append({"kind": "prose", "churn": added + removed, "added": added, "removed": removed})
     old_rel = _relations(of, scheme, schema, alias)
     events += [{"kind": "relation_add", "field": f, "target": c} for f, c in sorted(new_rel - old_rel)]
     events += [{"kind": "relation_remove", "field": f, "target": c} for f, c in sorted(old_rel - new_rel)]

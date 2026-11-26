@@ -60,3 +60,13 @@ def test_other_front_matter_changes_are_meta():
 
 def test_identical_entries_emit_nothing():
     assert diff_entries(entry(), entry(), "CLAIM", SCHEMA, {}) == []
+
+
+def test_prose_reports_added_and_removed_lines_so_accretion_is_visible():
+    old = entry(body="One.\nTwo.")
+    appended = entry(body="One.\nTwo.\n## Note of 2026-11-26\nMore.")
+    ev = diff_entries(old, appended, "CLAIM", SCHEMA, {})
+    assert (ev[0]["added"], ev[0]["removed"]) == (2, 0)
+    rewritten = entry(body="One.\nTwo, revised.")
+    ev = diff_entries(old, rewritten, "CLAIM", SCHEMA, {})
+    assert (ev[0]["added"], ev[0]["removed"]) == (1, 1)

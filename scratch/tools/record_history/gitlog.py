@@ -57,16 +57,18 @@ def parse_raw_log(text: str) -> list[Commit]:
     return commits
 
 
-def read_log(repo: Path, revs: list[str], paths: list[str]) -> list[Commit]:
-    """Non-merge commits reachable from `revs` touching `paths`, oldest first.
+def read_log(repo: Path, rev: str, paths: list[str]) -> list[Commit]:
+    """The first-parent history of `rev` touching `paths`, oldest first.
 
-    Merge commits are skipped: each change on this record lands in a
-    non-merge commit (a squash merge, a bot repair or a promotion), and a
-    merge's own diff would count it twice.
+    Each merge is diffed against its first parent, so the sequence is linear
+    and its cumulative diffs reproduce `rev`'s tree exactly. A pull request
+    merged with a merge commit lands as one change, at its merge time. (A
+    date-ordered walk of every commit is not linear: a side branch's
+    deletion, replayed after the main line's addition, loses a live entry.)
     """
     out = subprocess.run(
-        ["git", "-C", str(repo), "log", "--no-merges", "--raw", "-M", "--no-abbrev",
-         "--date-order", "--reverse", f"--format={FORMAT}", *revs, "--", *paths],
+        ["git", "-C", str(repo), "log", "--first-parent", "--diff-merges=first-parent",
+         "--raw", "-M", "--no-abbrev", "--reverse", f"--format={FORMAT}", rev, "--", *paths],
         check=True, capture_output=True, text=True).stdout
     return parse_raw_log(out)
 

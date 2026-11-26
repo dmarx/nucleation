@@ -1,7 +1,8 @@
 # scratch/tools/record_history/cli.py
 """CLI: derive the event table, per-entry profiles and the phase view.
 
-    python3 -I scratch/tools/record_history/cli.py run --repo=. --out=scratch/studies/record-history
+    python3 -I scratch/tools/record_history/cli.py run --repo=. --out=DIR --keep_events=True
+    python3 -I scratch/tools/record_history/cli.py report --events=DIR/events.csv.gz --out=DIR
 """
 from __future__ import annotations
 
@@ -22,7 +23,7 @@ from record_history.entries import Schema
 from record_history.events import alias_map, formerly_on_disk, replay
 from record_history.gitlog import BlobReader, read_log
 from record_history.phase import classify, exemplars, plot, summary_table
-from record_history.profile import DAY, Params, profiles
+from record_history.profile import DAY, Params, profiles, sweep_commits
 
 
 def _write_csv(path: Path, rows: list[dict]) -> None:
@@ -36,13 +37,13 @@ def _write_csv(path: Path, rows: list[dict]) -> None:
         w.writerows(rows)
 
 
-def extract(repo: str = ".", revs: str = "origin/main,origin/staging") -> tuple[list[dict], Schema]:
+def extract(repo: str = ".", rev: str = "origin/staging") -> tuple[list[dict], Schema]:
     """Replay the record's history into event rows."""
     root = Path(repo).resolve()
     config = OmegaConf.to_container(OmegaConf.load(root / "luria.yaml"), resolve=False)
     schema = Schema.from_config(config)
     dirs = [s["dir"] for s in config["schemes"].values()]
-    commits = read_log(root, revs.split(","), dirs)
+    commits = read_log(root, rev, dirs)
     logger.info(f"{len(commits)} commits touch the scheme directories")
     alias = alias_map(commits, formerly_on_disk(root, dirs))
     logger.info(f"{len(alias)} code aliases")
@@ -54,48 +55,78 @@ def extract(repo: str = ".", revs: str = "origin/main,origin/staging") -> tuple[
     return rows, schema
 
 
+def read_events(path: str) -> list[dict]:
+    """Load an event table written by `run --keep_events=True`."""
+    rows = []
+    with gzip.open(path, "rt", newline="") as f:
+        for r in csv.DictReader(f):
+            r["time"], r["breadth"] = int(r["time"]), int(r.get("breadth") or 1)
+            r["bot"] = r["bot"] == "True"
+            for k in ("churn", "added", "removed"):
+                r[k] = int(r[k]) if r.get(k) else 0
+            rows.append(r)
+    return rows
+
+
 def run(repo: str = ".", out: str = "scratch/studies/record-history",
-        revs: str = "origin/main,origin/staging", sweep_breadth: int = 250,
-        stable_days: int = 14, generative: int = 1, window: int = 30,
-        reactivation_days: int = 14, scheme: str = "CLAIM", keep_events: bool = False) -> None:
-    """Write profiles.csv, summary.md and phase-<scheme>.png to `out`."""
+        rev: str = "origin/staging", keep_events: bool = False, **kw) -> None:
+    """Replay the history, then write the report (see `report` for its options)."""
     out_dir = Path(out)
     out_dir.mkdir(parents=True, exist_ok=True)
-    rows, _ = extract(repo, revs)
-    now = max(r["time"] for r in rows)
+    rows, _ = extract(repo, rev)
     if keep_events:
-        _write_csv(out_dir / "events.csv.gz", [{**r, "fields": json.dumps(r["fields"])} if "fields" in r else r for r in rows])
-    params = Params(now=now, sweep_breadth=sweep_breadth, reactivation_days=reactivation_days,
-                    windows=(7, window))
-    profs = profiles(rows, params)
-    classify(profs, stable_days, generative, window)
-    _write_csv(out_dir / "profiles.csv", sorted(profs.values(), key=lambda p: p["code"]))
-    plot(profs, scheme, window, stable_days, out_dir / f"phase-{scheme}.png")
-    sweeps = sorted({(r["commit"][:9], r["breadth"], r["subject"]) for r in rows
-                     if r.get("breadth", 0) >= sweep_breadth and not r["bot"]}, key=lambda x: -x[1])
+        _write_csv(out_dir / "events.csv.gz",
+                   [{**r, "fields": json.dumps(r["fields"])} if "fields" in r else r for r in rows])
+    _report(rows, out_dir, **kw)
+
+
+def report(events: str, out: str, **kw) -> None:
+    """Write the report from a saved event table, without replaying."""
+    _report(read_events(events), Path(out), **kw)
+
+
+def _report(rows: list[dict], out_dir: Path, sweep_breadth: int = 250, created_share: float = 0.1,
+            stable_days: int = 14, generative: int = 1, window: int = 30,
+            reactivation_days: int = 14, scheme: str = "CLAIM", now: int | None = None,
+            stability: str = "revision") -> None:
+    """profiles.csv, summary.md and phase-<scheme>.png, for live entries."""
+    out_dir.mkdir(parents=True, exist_ok=True)
+    now = now or max(r["time"] for r in rows)
+    params = Params(now=now, sweep_breadth=sweep_breadth, created_share=created_share,
+                    reactivation_days=reactivation_days, windows=(7, window))
+    every = profiles(rows, params)
+    profs = {c: p for c, p in every.items() if not p["deleted"]}
+    classify(profs, stable_days, generative, window, stability)
+    _write_csv(out_dir / "profiles.csv", sorted(every.values(), key=lambda p: p["code"]))
+    plot(profs, scheme, window, stable_days, out_dir / f"phase-{scheme}.png", stability)
+    sweeps = sweep_commits(rows, sweep_breadth, created_share)
+    listed = sorted({(r["commit"][:9], r["breadth"], r["subject"]) for r in rows
+                     if r["commit"] in sweeps}, key=lambda x: -x[1])
     kinds: dict[str, int] = {}
     for r in rows:
         kinds[r["kind"]] = kinds.get(r["kind"], 0) + 1
     ex = exemplars(profs, scheme, window)
     lines = [f"# Record history: {scheme} profiles\n",
-             f"Reference time: last commit, day {now // DAY} (Unix days). "
-             f"Events: {len(rows)}; entries: {len(profs)}. Parameters: sweep_breadth={sweep_breadth}, "
-             f"stable_days={stable_days}, generative>={generative} new dependents in {window} days, "
-             f"reactivation gap {reactivation_days} days.\n",
+             f"Reference time: day {now // DAY} (Unix days). Events: {len(rows)}; entries profiled: "
+             f"{len(every)}, of which deleted: {len(every) - len(profs)}. Parameters: "
+             f"stability={stability}, sweep_breadth={sweep_breadth}, created_share={created_share}, stable_days={stable_days}, "
+             f"generative>={generative} new dependents in {window} days, reactivation gap "
+             f"{reactivation_days} days.\n",
              "## Events by kind\n", "| kind | events |\n|---|---|",
              *[f"| {k} | {v} |" for k, v in sorted(kinds.items(), key=lambda x: -x[1])], "",
-             "## Quadrants by scheme\n", summary_table(profs),
-             f"## Sweeps (owner commits touching at least {sweep_breadth} entries; their edits count as maintenance)\n",
-             *[f"- `{c}` ({b} entries): {s}" for c, b, s in sweeps], "",
+             "## Quadrants by scheme (live entries)\n", summary_table(profs),
+             f"## Sweeps (at least {sweep_breadth} entries, under {created_share:.0%} created; "
+             "their edits count as maintenance)\n",
+             *[f"- `{c}` ({b} entries): {s}" for c, b, s in listed], "",
              f"## Exemplars ({scheme}, not young, most new dependents first)\n"]
     for q, ps in ex.items():
         lines.append(f"**{q}:** " + (", ".join(
             f"{p['code']} (+{p[f'new_dependents_{window}d']}, in {p['in_degree']}, "
-            f"{p['days_since_prose']}d)" for p in ps) or "none"))
+            f"{p['days_since_revision']}d)" for p in ps) or "none"))
         lines.append("")
     (out_dir / "summary.md").write_text("\n".join(lines))
     logger.info(f"wrote {out_dir}")
 
 
 if __name__ == "__main__":
-    fire.Fire({"run": run})
+    fire.Fire({"run": run, "report": report})
