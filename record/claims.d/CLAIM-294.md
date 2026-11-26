@@ -8,7 +8,7 @@ statement: >-
   Two inquiry histories can agree on every current conclusion and still call
   for different revisions of it, so a current marginal belief is not a
   sufficient state for updating on evidence about what it depended on
-version: 7
+version: 8
 history:
 - version: 2
   date: '2026-10-21'
@@ -52,6 +52,11 @@ history:
     Joins the work atlas (ADR-149): the hyperarticle atlas v0.3
     states its proposition or uses it as a step, in scope 02. No other
     change.
+- version: 8
+  date: '2026-11-26'
+  note: >-
+    A dated note: the exchange 'Alignment consequences brainstorm' (ChatGPT,
+    2026-11-26), A29 §§10–11 (see the note). No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -174,3 +179,8 @@ support taken separately underdetermines the update on their
 combination, which is the claim's insufficiency of a current marginal
 state, in a different setting. Analogy of structure, not the claim's own
 case. The claim is unchanged.
+
+## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U16–A29), logical forgetting and correction
+<!-- inactive-ok-file: CLAIM-tmpnf6q4 LIT-tmpt93bo THEORY-1753 THEORY-1778 — Proposed or Deferred; filed from the same exchange on 2026-11-26 -->
+
+A29 §10 reaches this claim from the logic of forgetting without citing it. K = {P, P → Q, Q → R} and its forgetting over {Q, R}, K′ = {Q, Q → R}, have the same consequences over Q and R, and "a representation can preserve all present logical consequences in a vocabulary while failing to preserve the consequences of future revisions. Entailment-preserving forgetting is not necessarily correction-preserving forgetting." That is this claim's two histories that agree on every current conclusion and call for different revisions, with K′ and the base {Q, Q → R} as the pair: retracting P removes Q from the first and not from the second. CLAIM-tmpnf6q4, the assistant's, generalizes both: a condensation is safe for a declared family of corrections exactly when it never merges two records some sequence of those corrections tells apart, so this claim is the case where the condensation is to the current conclusions. Checked by truth tables with python3 -I. A29 §11 points to the truth maintenance systems this claim's line already holds (THEORY-1753, THEORY-1778) for what a condensed claim should keep: "the conditions under which the conclusion stands". The note is the assistant's (Claude, in this session). No status change.

@@ -12,7 +12,7 @@ statement: >-
   object two and a promoted vocabulary makes a value an entity; it keeps,
   enforces and propagates those distinctions; and its distinctions are
   revised through the record's own use
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-29'
@@ -49,6 +49,11 @@ history:
     Joins the work atlas (ADR-149): the hyperarticle atlas v0.3
     states its proposition or uses it as a step, in scope 03, scope 15. No
     other change.
+- version: 6
+  date: '2026-11-26'
+  note: >-
+    A dated note: the exchange 'Alignment consequences brainstorm' (ChatGPT,
+    2026-11-26), A25 (see the note). No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -183,3 +188,10 @@ The claim is unchanged.
 
 <!-- inactive-ok-block: CLAIM-1215 — new and Proposed; A's extension of this claim to publishing -->
 ChatGPT, at A24 of the exchange "Hyper article interpretation" (2026-11-22), cites this claim correctly: luria's schemes, vocabularies, validators and generated views "determine which differences become referable and governable within the record". It then carries it to scholarly publishing: "The publishing system's grammar is effectively telling us what kinds of things count." That is filed as [CLAIM-1215](CLAIM-1215.md), which rests here. The step is an analogy. This claim is about one record and its tooling. A publishing system's categories are kept by many institutions, and no one decision revises them, so whether CLAIM-469's last clause, revision through the record's own use, carries over is what the extension leaves open. The note is the assistant's (Claude, in this session); adopting it is the owner's call. The claim is unchanged.
+
+## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U14–A25), an apparatus of consequentiality
+<!-- inactive-ok-file: CLAIM-tmpxl7dc TERM-tmp8nuak CLAIM-472 CLAIM-181 CLAIM-1215 — Proposed; filed from the same exchange on 2026-11-26, and held claims cited -->
+
+Asked to "circle back to luria and how it ties into all of this" (U14), A25 restates this claim in the vocabulary of the exchange's earlier turns: "Luria is an apparatus for constructing, maintaining, and governing relations of consequentiality between distinctions", whose "central achievement is not that it stores information" but that "it makes certain differences capable of producing consequences in the future activity of an organization". That is this claim's "keeps, enforces and propagates those distinctions", with TERM-tmp8nuak's potential consequentiality (filed from U13) as the word for what is kept. What A25 adds that has content of its own is a measure, the findings difference a perturbation makes under the record's rules, and the observation that a change of rules can make an inert distinction produce findings: CLAIM-tmpxl7dc, with LEAD-tmpj44my to measure it.
+
+A25 §10 also turns the claim round: every configuration "makes some activities easier, some distinctions more visible, and some relationships more consequential", so the record "is therefore not a neutral substrate", and "Luria therefore needs to be evaluated not only by the quality of the records it maintains but by the inquiry it makes possible and the inquiry it unintentionally inhibits." That is held: CLAIM-181 (the grammar formalizes early and a misfit is forced or lost), CLAIM-472 (apparatus choice is evaluable, not only verifiable), and CLAIM-1215 for publishing systems. A25's table of design choices (which schemes, relations, statuses, findings, blocking findings, views and affordable migrations exist) is a checklist for that evaluation and adds no claim. A restatement and a parallel; no edge. The note is the assistant's (Claude, in this session). No status change.

@@ -10,7 +10,7 @@ statement: >-
   treated as a defect of the grammar and answered by amending it, so a move
   the grammar cannot hold is not only forced or lost; whether every such
   move is caught is not shown
-version: 6
+version: 8
 history:
 - version: 2
   date: '2026-10-29'
@@ -50,6 +50,19 @@ history:
     Joins the work atlas (ADR-149): the hyperarticle atlas v0.3
     states its proposition or uses it as a step, in scope 03. No other
     change.
+- version: 7
+  date: '2026-11-26'
+  note: >-
+    Dated note of 2026-11-26 from the exchange "Alignment
+    consequences brainstorm" (ChatGPT, 2026-11-26), U7–A13 and
+    U8–A15: A13 reads the claim as an alignment problem and checks
+    two of the record's grammar changes; A15 makes it a platform
+    requirement. The claim is unchanged.
+- version: 8
+  date: '2026-11-26'
+  note: >-
+    A dated note: the exchange 'Alignment consequences brainstorm' (ChatGPT,
+    2026-11-26), A25 §3 (see the note). No other change.
 role: counter
 warrant: empirical
 tags:
@@ -289,3 +302,35 @@ The decision census ([CASE-300](../cases.d/CASE-300.md)) coded every decision fr
 The revisions include changes to what counts as an answer ([ADR-049](../decisions.d/ADR-049.md)), boundaries redrawn between kinds of entry ([ADR-058](../decisions.d/ADR-058.md), [ADR-060](../decisions.d/ADR-060.md), [ADR-061](../decisions.d/ADR-061.md)), and an abstraction withdrawn ([ADR-084](../decisions.d/ADR-084.md)). This bears on the note of 2026-10-27, which contrasted this record's additions with CEGAR's splits. The grammar has also been revised, not only added to.
 
 The census reaches only decisions, so it does not touch this claim's caveat, that "whether every such move is caught is not shown". The claim is unchanged.
+
+## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U7–A13, U8–A15)
+
+<!-- inactive-ok-file: CLAIM-tmpygs06 CLAIM-tmpoh8gm CLAIM-1252 — new or Proposed; the claims of 2026-11-26 that apply this one, and the claim whose term A15 uses -->
+
+Support for an application, from two turns.
+
+A13 §5 quotes the census correctly: of the changes made in answer to a
+misfit, 63 of 71 "concerned something that had first been forced into an
+existing category or accommodated only in prose" (CASE-300), and reads
+this claim as the record's response: "Rather than treating all
+representational failures as failures of participants to follow
+instructions, the organization can interpret them as evidence that its
+infrastructure needs to change. The distinction between correcting the
+participant and correcting the governing grammar is itself an alignment
+problem." A13 §6 adds the LEAD scheme's first grammar, under which 190 of
+197 leads sat at `idea`, changed after a retrospective, as the example
+where "the organization discovers that its scoring categories need
+improvement" rather than improving its score under them. Both figures
+check against the manuscript from-obstruction-to-reorganization
+(08-results.md, 07-governance.md).
+
+A15's R7 makes the claim a requirement of any platform for institutional
+alignment: participants must be able to report "inadequacies in the
+categories themselves", or "its schema becomes a mechanism of normative
+agnotology" (CLAIM-tmpygs06; the term is CLAIM-1252's). Filed as A's;
+CLAIM-tmpoh8gm holds A13's reading.
+
+## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U14–A25), `corroborates` read as a new consequentiality
+<!-- inactive-ok-file: CLAIM-tmpxl7dc ARG-tmpsis1z — Proposed; filed from the same exchange on 2026-11-26 -->
+
+A25 §3 cites this claim correctly: the record "originally could not adequately distinguish corroboration from inferential dependence. A relation fixer consequently introduced a dependency that nobody had asserted", and ADR-044 added `corroborates`. A reads the amendment as more than descriptive accuracy: "The organization developed a new distinction in how changes to evidence ought to become consequential to future inquiry." CLAIM-tmpxl7dc states that as a claim about the grammar, and ARG-tmpsis1z finds that this claim's instance shows a distinction made expressible, which is what this claim is about, while ADR-069 shows an expressible distinction made to produce findings, which this claim does not cover. The two are kinds of amendment this claim's census (note of 2026-11-20) does not separate: a revision that widens what can be written, and one that changes what the checks do with what could already be written. The note is the assistant's (Claude, in this session). No status change.
