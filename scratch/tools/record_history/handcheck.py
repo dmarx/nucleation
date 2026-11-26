@@ -14,13 +14,20 @@ CLASSES = {"revised": ("statement", "body"), "relation_add": ("relation_add",),
 
 
 def stratified(rows: list[dict], k: int = 10, seed: int = 0) -> dict[str, list[dict]]:
-    """k events per class, one per (commit, entry), drawn with a fixed seed."""
+    """k events per class, one per (commit, entry), drawn with a fixed seed.
+
+    Relations that arrive with the entry's creation are not drawn: a reader
+    judging the diff sees a new file, not an added relation.
+    """
     rng = random.Random(seed)
+    born = {(r["commit"], r["code"]) for r in rows if r["kind"] == "created"}
     out = {}
     for name, kinds in CLASSES.items():
         seen, pool = set(), []
         for r in rows:
             key = (r["commit"], r["code"])
+            if name == "relation_add" and key in born:
+                continue
             if r["kind"] in kinds and key not in seen and (name == "mechanical" or not r["bot"]):
                 seen.add(key)
                 pool.append(r)

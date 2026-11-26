@@ -10,3 +10,11 @@ def test_stratified_draws_k_per_class_deterministically_and_skips_bots_for_subst
     assert a == b
     assert {c: len(v) for c, v in a.items()} == {c: 3 for c in CLASSES}
     assert all(r["kind"] in ("body", "statement") for r in a["revised"])
+
+
+def test_relation_adds_that_come_with_creation_are_not_drawn():
+    rows = [{"kind": "created", "code": "CLAIM-1", "commit": "a", "bot": False},
+            {"kind": "relation_add", "code": "CLAIM-1", "commit": "a", "bot": False},
+            {"kind": "relation_add", "code": "CLAIM-1", "commit": "b", "bot": False}]
+    s = stratified(rows, k=5, seed=0)
+    assert [r["commit"] for r in s["relation_add"]] == ["b"]

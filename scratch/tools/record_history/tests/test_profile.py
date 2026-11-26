@@ -85,3 +85,11 @@ def test_tip_state_overrides_replayed_present_state():
     assert ps["CLAIM-3"]["deleted"] is False  # live at the tip
     assert ps["CLAIM-1"]["in_degree"] == 2  # CLAIM-2 and CLAIM-4, from the tip
     assert ps["CLAIM-1"]["new_dependents_30d"] == 1  # CLAIM-4 (day 58); CLAIM-3's edge is gone
+
+
+def test_revisions_count_commits_not_events():
+    rows = [ev(0, "CLAIM-9", "created", commit="a", status="Proposed"),
+            ev(10, "CLAIM-9", "statement", commit="b"),
+            ev(10, "CLAIM-9", "body", commit="b", added=1, removed=1),
+            ev(10, "CLAIM-9", "defeater", commit="b")]
+    assert profiles(rows, P)["CLAIM-9"]["revisions"] == 1

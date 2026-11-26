@@ -84,7 +84,8 @@ def profiles(rows: list[dict], p: Params,
             e["status"] = r["new"]
             e["status_changes"] += s
         elif k in REVISION and s:
-            e["revisions"] += 1
+            e["revisions"] += r["commit"] not in e.setdefault("_rev_commits", set())
+            e["_rev_commits"].add(r["commit"])
             e["churn"] += int(r.get("added") or 0) + int(r.get("removed") or 0)
             e["last_revision"] = t
         elif k == "note" and s:
