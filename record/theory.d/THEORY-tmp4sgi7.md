@@ -14,7 +14,7 @@ date: '2026-11-26'
 source:
 - LIT-tmpfg9h1
 bears_on:
-- QUESTION-tmppt23x
+- QUESTION-544
 summary: >-
   Scarantino, the theory of affective pragmatics (2017). The account the record expects to draw from the work,
   attributed at the owner's direction of 2026-11-26 ("even deferred, you

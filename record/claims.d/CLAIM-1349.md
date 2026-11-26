@@ -1,5 +1,8 @@
 ---
+number: 1349
 status: Proposed
+formerly:
+- CLAIM-tmpy367s
 title: 'Affect is the claim side'
 statement: >-
   In an organization, affect is concern-relative significance claiming
@@ -24,23 +27,23 @@ date: '2026-11-26'
 line:
 - organizational-affect
 answers:
-- QUESTION-tmppt23x
+- QUESTION-544
 uses:
 - TERM-094
 - TERM-104
 summary: >-
-  Alternative A to [QUESTION-tmppt23x](../questions.d/QUESTION-tmppt23x.md), filed with alternatives B
-  ([CLAIM-tmp8ikja](CLAIM-tmp8ikja.md)) and C ([CLAIM-tmp23xa5](CLAIM-tmp23xa5.md)) at the owner's question of
+  Alternative A to [QUESTION-544](../questions.d/QUESTION-544.md), filed with alternatives B
+  ([CLAIM-1348](CLAIM-1348.md)) and C ([CLAIM-1347](CLAIM-1347.md)) at the owner's question of
   2026-11-26. It reads the word as [CLAIM-442](CLAIM-442.md)'s claim side, so that
   [CLAIM-039](CLAIM-039.md) is a claim about action readiness. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmp8ikja CLAIM-tmp23xa5 — new; the question and the alternatives filed with it -->
+<!-- inactive-ok-file: CLAIM-1348 CLAIM-1347 — new; the question and the alternatives filed with it -->
 <!-- inactive-ok-file: CLAIM-039 CLAIM-432 CLAIM-440 CLAIM-442 CLAIM-446 TERM-076 TERM-104 THEORY-101 — Proposed; cited with their standing -->
 
-# CLAIM-tmpy367s: Affect is the claim side
+# CLAIM-1349: Affect is the claim side
 
-*Alternative A to [QUESTION-tmppt23x](../questions.d/QUESTION-tmppt23x.md). Alternatives B and C are [CLAIM-tmp8ikja](CLAIM-tmp8ikja.md) and [CLAIM-tmp23xa5](CLAIM-tmp23xa5.md).*
+*Alternative A to [QUESTION-544](../questions.d/QUESTION-544.md). Alternatives B and C are [CLAIM-1348](CLAIM-1348.md) and [CLAIM-1347](CLAIM-1347.md).*
 
 ## The claim
 

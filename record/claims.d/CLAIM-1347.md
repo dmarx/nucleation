@@ -1,5 +1,8 @@
 ---
+number: 1347
 status: Proposed
+formerly:
+- CLAIM-tmp23xa5
 title: 'Affect names no single kind'
 statement: >-
   "Affect" in the record names a family, not a kind: emotion as claimed
@@ -23,23 +26,23 @@ date: '2026-11-26'
 line:
 - organizational-affect
 answers:
-- QUESTION-tmppt23x
+- QUESTION-544
 rests_on:
 - CLAIM-527
 summary: >-
-  Alternative C to [QUESTION-tmppt23x](../questions.d/QUESTION-tmppt23x.md), filed with alternatives A
-  ([CLAIM-tmpy367s](CLAIM-tmpy367s.md)) and B ([CLAIM-tmp8ikja](CLAIM-tmp8ikja.md)) at the owner's question of
+  Alternative C to [QUESTION-544](../questions.d/QUESTION-544.md), filed with alternatives A
+  ([CLAIM-1349](CLAIM-1349.md)) and B ([CLAIM-1348](CLAIM-1348.md)) at the owner's question of
   2026-11-26. It extends [CLAIM-527](CLAIM-527.md)'s three quantities to the word itself.
   On it [CLAIM-039](CLAIM-039.md) splits into a claim per quantity, and [THEORY-101](../theory.d/THEORY-101.md) bears on
   the valence one. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpy367s CLAIM-tmp8ikja — new; the question and the alternatives filed with it -->
+<!-- inactive-ok-file: CLAIM-1349 CLAIM-1348 — new; the question and the alternatives filed with it -->
 <!-- inactive-ok-file: CLAIM-039 CLAIM-442 CLAIM-527 TERM-076 THEORY-101 — Proposed; cited with their standing -->
 
-# CLAIM-tmp23xa5: Affect names no single kind
+# CLAIM-1347: Affect names no single kind
 
-*Alternative C to [QUESTION-tmppt23x](../questions.d/QUESTION-tmppt23x.md). Alternatives A and B are [CLAIM-tmpy367s](CLAIM-tmpy367s.md) and [CLAIM-tmp8ikja](CLAIM-tmp8ikja.md).*
+*Alternative C to [QUESTION-544](../questions.d/QUESTION-544.md). Alternatives A and B are [CLAIM-1349](CLAIM-1349.md) and [CLAIM-1348](CLAIM-1348.md).*
 
 ## The claim
 

@@ -14,7 +14,7 @@ date: '2026-11-26'
 source:
 - LIT-tmpfgz0s
 bears_on:
-- QUESTION-tmppt23x
+- QUESTION-544
 summary: >-
   Van Kleef, the emotions as social information (EASI) model (2009). The account the record expects to draw from the work,
   attributed at the owner's direction of 2026-11-26 ("even deferred, you

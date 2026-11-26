@@ -28,7 +28,7 @@ date: '2026-11-26'
 line:
 - organizational-affect
 answers:
-- QUESTION-tmppt23x
+- QUESTION-544
 rests_on:
 - CLAIM-283
 uses:
@@ -39,18 +39,18 @@ summary: >-
   emotion is a communicative act (which might be necessary if we want to
   frame it as a kind of 'claim'), maybe we could frame emotion as
   communicating affective state or valence?" Filed as alternative D to
-  [QUESTION-tmppt23x](../questions.d/QUESTION-tmppt23x.md), beside A, B and C. It splits [TERM-094](../terms.d/TERM-094.md): readiness
+  [QUESTION-544](../questions.d/QUESTION-544.md), beside A, B and C. It splits [TERM-094](../terms.d/TERM-094.md): readiness
   becomes affect, and the claim to precedence becomes the emotion. It
   reads [CLAIM-442](CLAIM-442.md)'s "a perspective's valence is read on its claims" as
   epistemic. The wording is the assistant's, from the owner's proposal;
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpy367s CLAIM-tmp8ikja CLAIM-tmp23xa5 — new; the question, the sibling alternatives and the reading lead -->
+<!-- inactive-ok-file: CLAIM-1349 CLAIM-1348 CLAIM-1347 — new; the question, the sibling alternatives and the reading lead -->
 <!-- inactive-ok-file: CLAIM-431 CLAIM-439 CLAIM-442 CLAIM-1262 TERM-104 THEORY-055 THEORY-663 — Proposed; cited with their standing -->
 
 # CLAIM-tmps1h34: Emotion communicates affect to the grantor
 
-*Alternative D to [QUESTION-tmppt23x](../questions.d/QUESTION-tmppt23x.md), the owner's proposal of 2026-11-26. Alternatives A, B and C are [CLAIM-tmpy367s](CLAIM-tmpy367s.md), [CLAIM-tmp8ikja](CLAIM-tmp8ikja.md) and [CLAIM-tmp23xa5](CLAIM-tmp23xa5.md).*
+*Alternative D to [QUESTION-544](../questions.d/QUESTION-544.md), the owner's proposal of 2026-11-26. Alternatives A, B and C are [CLAIM-1349](CLAIM-1349.md), [CLAIM-1348](CLAIM-1348.md) and [CLAIM-1347](CLAIM-1347.md).*
 
 ## The claim
 

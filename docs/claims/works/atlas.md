@@ -6,7 +6,7 @@
 
 **Nucleation Hyperarticle Atlas** — the series of hyperarticles the owner asked for in the exchange "Hyper article interpretation" (U25 to U29, 2026-11-25), drafted by ChatGPT as an atlas (A56, revised at A59 and given outlines and core fibers at A65, v0.3, kept verbatim in scratch/atlas/atlas-v0.3.md): fifteen scopes in four regions, from inquiry and its records to publishing the atlas, each a future article, with three entry points (the theory, the implementation, the publication). Its articles that are works keep their own membership; its own members are the claims its prose states. Each scope is a line (ADR-146); its account, an account over the fifteen lines' accounts, waits on those (ADR-149).
 
-45 of 1346 CLAIM documents. Back to the [full index](../README.md).
+45 of 1349 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

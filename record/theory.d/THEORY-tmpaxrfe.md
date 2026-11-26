@@ -14,7 +14,7 @@ date: '2026-11-26'
 source:
 - LIT-tmpo0t2n
 bears_on:
-- QUESTION-tmppt23x
+- QUESTION-544
 summary: >-
   Keltner and Haidt, social functions of emotions (1999). The account the record expects to draw from the work,
   attributed at the owner's direction of 2026-11-26 ("even deferred, you

@@ -1,5 +1,8 @@
 ---
+number: 12
 status: Draft
+formerly:
+- RETRO-tmpd9oti
 title: 'The retitle batch, 2026-11-25'
 tags:
 - record
@@ -42,7 +45,7 @@ summary: >-
   luria, and checking relations before calling entries duplicates.
 ---
 
-# RETRO-tmpd9oti: The retitle batch, 2026-11-25
+# RETRO-012: The retitle batch, 2026-11-25
 
 ## What it covers
 

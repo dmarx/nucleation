@@ -6,7 +6,7 @@
 
 **Social science** — economics, psychology, anthropology and sociology — empirical and theoretical work on people and societies that is not law or policy.
 
-36 of 1346 CLAIM documents. Back to the [full index](../README.md).
+36 of 1349 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

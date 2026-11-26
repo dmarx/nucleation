@@ -6,7 +6,7 @@
 
 **Ethics** — moral philosophy — what is owed, permitted or good — including applied ethics of technology and institutions (group: philosophy).
 
-123 of 1346 CLAIM documents. Back to the [full index](../README.md).
+123 of 1349 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
