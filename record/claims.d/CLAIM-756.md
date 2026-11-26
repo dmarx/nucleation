@@ -203,13 +203,13 @@ status change.
 
 ## Note of 2026-11-26: Veeriah et al. (2019), read
 
-<!-- inactive-ok-block: THEORY-tmpl9xun NOTE-tmpibrnu LIT-tmpl1kcf — new; the reading this note reports -->
+<!-- inactive-ok-block: THEORY-tmpl9xun — new; the reading this note reports -->
 
-Corroborated, in a narrow form. LIT-tmpl1kcf (NOTE-tmpibrnu) values a
+Corroborated, in a narrow form. [LIT-tmpl1kcf](../literature.d/LIT-tmpl1kcf.md) ([NOTE-tmpibrnu](../notes.d/NOTE-tmpibrnu.md)) values a
 learning step, the choice of auxiliary questions, only by its effect on
 later learning, over k updates of the main task. Valuing it myopically
 fails: "the representation learned with k = 1 and k = 2 was insufficient
 for the final policy to do anything meaningful". The later acquisition is
 the same fixed task, not a different one, and no step with a negative
-direct return is shown inside the best policy. THEORY-tmpl9xun
+direct return is shown inside the best policy. [THEORY-tmpl9xun](../theory.d/THEORY-tmpl9xun.md)
 `corroborates` this claim. No status change.

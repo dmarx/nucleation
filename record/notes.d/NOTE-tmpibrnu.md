@@ -30,7 +30,6 @@ summary: >-
   one- or two-step (myopic) meta-gradients fail. In joint training on 57
   Atari games the gains are on subsets.
 ---
-<!-- inactive-ok-file: LIT-tmpl1kcf THEORY-tmpl9xun — new; the work and the account this reading yields -->
 <!-- inactive-ok-file: CLAIM-754 CLAIM-756 CLAIM-1003 CLAIM-1009 CLAIM-1197 CLAIM-991 CASE-384 THEORY-2305 TERM-131 — Proposed; entries this reading bears on -->
 
 # NOTE-tmpibrnu: Discovery of Useful Questions as Auxiliary Tasks
@@ -101,40 +100,40 @@ approximate value function" (§1). The terminology comes from TD networks
 
 ## Bearing on the record
 
-- **CLAIM-754, the inquiry frontier (a parallel only).** The paper's
+- **[CLAIM-754](../claims.d/CLAIM-754.md), the inquiry frontier (a parallel only).** The paper's
   "questions" are prediction targets inside a fixed family of 128 GVFs.
   They are chosen for one fixed main task, never pursued, and never used to
   act. What the paper shows is that *which targets a learner predicts* can
   itself be learned, and changes what the learner can later do. That is a
   mechanism for moving something query-like. It is not formulating
   questions in the frontier's sense.
-- **CLAIM-1009, query and answer frontiers (operationalizes the split).**
+- **[CLAIM-1009](../claims.d/CLAIM-1009.md), query and answer frontiers (operationalizes the split).**
   Question and answer are separate networks. The random-questions baseline
   shows the choice of question matters apart from the capacity to answer:
   answers to random questions can be learned, and the representation still
-  fails. Answer accuracy is not reported. CLAIM-991 and CASE-384, with
+  fails. Answer accuracy is not reported. [CLAIM-991](../claims.d/CLAIM-991.md) and [CASE-384](../cases.d/CASE-384.md), with
   their bank of TD-learned predictors and their split between readable and
   answerable queries, are the nearest held entries.
-- **CLAIM-1003 (qualifies by contrast).** Here bad questions are fully
+- **[CLAIM-1003](../claims.d/CLAIM-1003.md) (qualifies by contrast).** Here bad questions are fully
   detectable, because a declared main task scores them. The method needs
   exactly the downstream signal whose absence is the claim's hard case.
-- **CLAIM-756 (operationalizes a narrow form, and corroborates).** η is
+- **[CLAIM-756](../claims.d/CLAIM-756.md) (operationalizes a narrow form, and corroborates).** η is
   valued only by its effect on later learning, and valuing it myopically,
   over one or two updates, fails. But the later learning is of the same
   fixed task, not a different one.
-- **QUESTION-495, CLAIM-1197 and CLAIM-1130 (sidesteps the optimum).**
+- **[QUESTION-495](../questions.d/QUESTION-495.md), [CLAIM-1197](../claims.d/CLAIM-1197.md) and [CLAIM-1130](../claims.d/CLAIM-1130.md) (sidesteps the optimum).**
   - The valuation is a fixed main-task loss, which is condition 2 of
-    CLAIM-1197, though without resource costs.
+    [CLAIM-1197](../claims.d/CLAIM-1197.md), though without resource costs.
   - The horizon is truncated at k = 10, which is condition 3 by truncation
     rather than by discounting.
   - Attainment (condition 4) is not addressed.
   - Longer horizons did worse in practice, so a horizon that defines an
     optimum need not be one the method can estimate. Estimability is a
     practical condition the four do not name.
-- **TERM-131 (consistent).** The random-questions baseline is a clean
+- **[TERM-131](../terms.d/TERM-131.md) (consistent).** The random-questions baseline is a clean
   counterfactual: the same machinery and experience, with a different
   retained organization.
-- **THEORY-2305 (a parallel).** The joint setting is multi-task learning
+- **[THEORY-2305](../theory.d/THEORY-2305.md) (a parallel).** The joint setting is multi-task learning
   with a learned auxiliary task. The paper has no account of which
   features are reused.
 

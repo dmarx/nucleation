@@ -148,10 +148,9 @@ implied by the others.
 
 ## Note of 2026-11-26: Veeriah et al. (2019), read
 
-<!-- inactive-ok-block: THEORY-tmpl9xun NOTE-tmpibrnu LIT-tmpl1kcf — new; the reading this note reports -->
 
 Sidesteps the optimum rather than supplying one, and names a missing
-condition. LIT-tmpl1kcf (NOTE-tmpibrnu) fixes a valuation, the main-task
+condition. [LIT-tmpl1kcf](../literature.d/LIT-tmpl1kcf.md) ([NOTE-tmpibrnu](../notes.d/NOTE-tmpibrnu.md)) fixes a valuation, the main-task
 loss (condition 2, though without resource costs), and a horizon by
 truncation at k = 10 (condition 3, not by a discount). It does not address
 attainment (condition 4). Its longer horizons did worse, "the largest

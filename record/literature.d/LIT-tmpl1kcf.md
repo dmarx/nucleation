@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read in full 2026-11-26 (NOTE-tmpibrnu), from the NeurIPS published PDF and appendix; worth reading as the first demonstration that auxiliary-task targets can be meta-learned by non-myopic meta-gradients and suffice to build a representation. Read its "on their own" with the caveat that the question network is itself trained on the main-task loss, and its joint-training gains as subset results.'
+status_note: 'read in full 2026-11-26 ([NOTE-tmpibrnu](../notes.d/NOTE-tmpibrnu.md)), from the NeurIPS published PDF and appendix; worth reading as the first demonstration that auxiliary-task targets can be meta-learned by non-myopic meta-gradients and suffice to build a representation. Read its "on their own" with the caveat that the question network is itself trained on the main-task loss, and its joint-training gains as subset results.'
 title: 'Discovery of Useful Questions as Auxiliary Tasks'
 version: 2
 history:
@@ -37,10 +37,10 @@ summary: >-
   gradients unrolled through ten main-task updates. Predicting them alone
   builds representations that reach the main-task-trained reference on
   gridworlds and six Atari games, more slowly. Myopic meta-gradients fail.
-  THEORY-tmpl9xun holds the account. It corroborates CLAIM-756 and bears
-  on QUESTION-495. It is only a parallel to CLAIM-754's inquiry frontier.
+  [THEORY-tmpl9xun](../theory.d/THEORY-tmpl9xun.md) holds the account. It corroborates [CLAIM-756](../claims.d/CLAIM-756.md) and bears
+  on [QUESTION-495](../questions.d/QUESTION-495.md). It is only a parallel to [CLAIM-754](../claims.d/CLAIM-754.md)'s inquiry frontier.
 ---
-<!-- inactive-ok-file: NOTE-tmpibrnu THEORY-tmpl9xun — new; this work's reading and account -->
+<!-- inactive-ok-file: THEORY-tmpl9xun — new; this work's reading and account -->
 
 # LIT-tmpl1kcf: Discovery of Useful Questions as Auxiliary Tasks
 
@@ -58,4 +58,4 @@ Veeriah et al. (2019), NeurIPS 32; arXiv 1909.04607.
 
 ## Standing in the record
 
-Read in NOTE-tmpibrnu. Its account is THEORY-tmpl9xun.
+Read in [NOTE-tmpibrnu](../notes.d/NOTE-tmpibrnu.md). Its account is [THEORY-tmpl9xun](../theory.d/THEORY-tmpl9xun.md).

@@ -90,12 +90,11 @@ the revision of [TERM-092](../terms.d/TERM-092.md), is Deferred.
 
 ## Note of 2026-11-26: Veeriah et al. (2019), read
 
-<!-- inactive-ok-block: THEORY-tmpl9xun NOTE-tmpibrnu LIT-tmpl1kcf — new; the reading this note reports -->
 
-Operationalizes the split, in one architecture. LIT-tmpl1kcf
-(NOTE-tmpibrnu) has separate question and answer networks. Its
+Operationalizes the split, in one architecture. [LIT-tmpl1kcf](../literature.d/LIT-tmpl1kcf.md)
+([NOTE-tmpibrnu](../notes.d/NOTE-tmpibrnu.md)) has separate question and answer networks. Its
 random-questions baseline shows that the choice of question matters apart
 from the capacity to answer: answers to fixed random questions can be
 learned, and the representation still fails. Answer accuracy is not
-reported, so the answer frontier itself is not measured. CLAIM-991 and
-CASE-384 are the nearest held entries. No status change.
+reported, so the answer frontier itself is not measured. [CLAIM-991](CLAIM-991.md) and
+[CASE-384](../cases.d/CASE-384.md) are the nearest held entries. No status change.

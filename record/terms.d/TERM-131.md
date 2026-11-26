@@ -186,9 +186,8 @@ term's declared system and horizon decide which. No change to the term.
 
 ## Note of 2026-11-26: Veeriah et al. (2019), read
 
-<!-- inactive-ok-block: THEORY-tmpl9xun NOTE-tmpibrnu LIT-tmpl1kcf — new; the reading this note reports -->
 
-Consistent. In LIT-tmpl1kcf (NOTE-tmpibrnu), the random-questions baseline
+Consistent. In [LIT-tmpl1kcf](../literature.d/LIT-tmpl1kcf.md) ([NOTE-tmpibrnu](../notes.d/NOTE-tmpibrnu.md)), the random-questions baseline
 is a clean counterfactual of the kind this term asks for: the same
 answering machinery and the same experience, but a different retained
 organization, and a different later capability. No change to the term.

@@ -29,18 +29,17 @@ bears_on:
 corroborates:
 - CLAIM-756
 summary: >-
-  Veeriah et al. (2019), LIT-tmpl1kcf, read in NOTE-tmpibrnu. Proposed:
+  Veeriah et al. (2019), [LIT-tmpl1kcf](../literature.d/LIT-tmpl1kcf.md), read in [NOTE-tmpibrnu](../notes.d/NOTE-tmpibrnu.md). Proposed:
   three seeds, no significance tests, a leak of main-task signal through
   the meta-parameters, and joint-training gains only on subsets. It
-  corroborates CLAIM-756 by the failure of myopic valuation, and it bears on
-  QUESTION-495. The wording is the reader's, revised by the filer; adopting
+  corroborates [CLAIM-756](../claims.d/CLAIM-756.md) by the failure of myopic valuation, and it bears on
+  [QUESTION-495](../questions.d/QUESTION-495.md). The wording is the reader's, revised by the filer; adopting
   it is the owner's call.
 ---
-<!-- inactive-ok-file: LIT-tmpl1kcf NOTE-tmpibrnu — new; the work and its reading -->
 
 # THEORY-tmpl9xun: Meta-learned questions can build a representation alone
 
-Veeriah et al., "Discovery of Useful Questions as Auxiliary Tasks" (2019), LIT-tmpl1kcf.
+Veeriah et al., "Discovery of Useful Questions as Auxiliary Tasks" (2019), [LIT-tmpl1kcf](../literature.d/LIT-tmpl1kcf.md).
 
 ## The account
 

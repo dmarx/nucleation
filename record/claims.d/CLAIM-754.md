@@ -245,9 +245,8 @@ assistant's (Claude, in this session); adopting it is the owner's call.
 
 ## Note of 2026-11-26: Veeriah et al. (2019), read
 
-<!-- inactive-ok-block: THEORY-tmpl9xun NOTE-tmpibrnu LIT-tmpl1kcf — new; the reading this note reports -->
 
-A parallel only. LIT-tmpl1kcf (NOTE-tmpibrnu) has an agent learn which
+A parallel only. [LIT-tmpl1kcf](../literature.d/LIT-tmpl1kcf.md) ([NOTE-tmpibrnu](../notes.d/NOTE-tmpibrnu.md)) has an agent learn which
 targets to predict: "questions" in the general-value-function sense, 128
 cumulants and discounts in a fixed family. They are chosen only for their
 effect on one fixed main task, are never pursued, and are never used to
