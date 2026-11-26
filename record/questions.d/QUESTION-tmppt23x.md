@@ -77,6 +77,9 @@ grant side.
 - [CLAIM-tmps1h34](../claims.d/CLAIM-tmps1h34.md), alternative D, the owner's proposal of 2026-11-26:
   affect is a perspective's concern-relative state, valence its sign, and
   emotion the act of communicating it as a claim to precedence.
+- [CLAIM-tmp85bhw](../claims.d/CLAIM-tmp85bhw.md), alternative E, the owner's of 2026-11-26: A and B are
+  one kind, action readiness, at two levels of its bearer, and claim and
+  grant name the relation between the levels.
 
 The question and the alternatives are the assistant's (Claude, in this
 session); which, if any, the record adopts is the owner's call.
