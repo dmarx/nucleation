@@ -41,11 +41,12 @@ summary: >-
   without interaction has a composite potential; a split over states that
   the regions share can instead cycle. It is a relative of Sen's Paretian
   liberal, in which decisive personal domains together with the Pareto
-  rule yield a cyclic social preference; Sen is not on the record. The wording and the
+  rule yield a cyclic social preference; Sen is held as LIT-285, read in
+  NOTE-255, with THEORY-027. The wording and the
   construction are the assistant's (Claude, in this session); adopting it
   is the owner's call.
 ---
-<!-- inactive-ok-file: TERM-076 — Proposed; the definition of valence used -->
+<!-- inactive-ok-file: TERM-076 CLAIM-tmpjylns — Proposed or new; the definition of valence used and the indecision reading -->
 
 # CLAIM-tmpzzeqo: Jurisdictions over shared states can leave a system without valence
 
@@ -86,8 +87,9 @@ their domains touch the same states.
 It is a relative of Sen's liberal paradox, in which decisive personal
 domains together with the Pareto rule yield a cyclic social preference.
 Here domain decisiveness alone is enough, because the cycle runs through
-contested pairs only. Sen is prior art for the mechanism and should be
-registered. The claim adds the reading for organizational valence.
+contested pairs only. Sen is held as [LIT-285](../literature.d/LIT-285.md), read in full in [NOTE-255](../notes.d/NOTE-255.md),
+with [THEORY-027](../theory.d/THEORY-027.md) drawn from it. The claim adds the reading for
+organizational valence.
 
 ## What it does not say
 
@@ -106,3 +108,25 @@ placement sets its valence toward indecision. On the alternative
 ([CLAIM-tmp23xiu](CLAIM-tmp23xiu.md)), it raises indecisiveness, and valence keeps its sign
 elsewhere. This claim's title and statement keep [TERM-076](../terms.d/TERM-076.md)'s wording until
 the owner chooses between the two.
+
+## Note of 2026-11-26: Sen is held, and the potential account has no Pareto edges
+
+This claim was filed saying Sen was not on the record. That was wrong. The
+search had used the wrong key. [LIT-285](../literature.d/LIT-285.md) has been read in full ([NOTE-255](../notes.d/NOTE-255.md)),
+and [THEORY-027](../theory.d/THEORY-027.md) is drawn from it. [NOTE-255](../notes.d/NOTE-255.md) states Sen's proof: decisiveness
+over two pairs (Condition L*), together with weak Pareto (Condition P) over
+a third, closes a strict cycle. It also records that Condition L "gives
+decisiveness over arbitrary pairs, not over a protected personal sphere".
+
+The comparison sharpens what this claim is. [TERM-076](../terms.d/TERM-076.md)'s relation of
+winning moves holds wins on contested pairs only, so a pair everyone ranks
+alike carries no move. Sen's Pareto edges have no counterpart there, and
+Sen's route to a cycle is closed in the potential account. Case 6a shows
+this: agreement on (a, b) gave no edge and no cycle. What remains is
+decisiveness assigned over every contested pair. In social-choice terms
+that is weak. A different decisive perspective for each pair can produce
+any relation at all, cycles included. So the formal part of this claim is
+near-trivial beside Sen. Its content is the organizational reading: where
+jurisdiction boundaries fall over shared states decides whether the
+organization has valence, or, on [CLAIM-tmpjylns](CLAIM-tmpjylns.md), whether it is undecided.
+The title and statement are unchanged.
