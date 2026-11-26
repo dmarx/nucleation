@@ -1,0 +1,37 @@
+---
+status: Deferred
+status_note: 'Registered 2026-11-26 at the owner''s request ("file LITs for the reading leads"), for LEAD-tmptupsj; not sought or read.'
+title: "Human Facial Expression: An Evolutionary View"
+version: 1
+history:
+- version: 1
+  date: '2026-11-26'
+  note: >-
+    Filed, not read. The record was searched by title and author and
+    holds no entry. Crossref lists the chapters under the book's ISBN prefix (10.1016/b978-0-12-267630-7.*) with the year 1994 and no book-level DOI, so the publisher's book page is the source and the year is used. Crossref was queried with no contact
+    address.
+tags:
+- emotion-and-affect
+- philosophy-of-biology
+date: '2026-11-26'
+published: '1994-01-01'
+url: 'https://www.sciencedirect.com/book/9780122676307/human-facial-expression'
+first_author: 'Fridlund'
+keywords: ['behavioral ecology view', 'facial expression']
+implementations: []
+summary: >-
+  Fridlund (1994), Academic Press, ISBN 978-0-12-267630-7. Registered for the behavioral ecology view, on which facial displays are social tools signalling intentions and not readouts of an inner state, the view most likely to refuse CLAIM-tmps1h34's affect as the content communicated. Unread, it grounds nothing.
+---
+<!-- inactive-ok-file: CLAIM-tmps1h34 LEAD-tmptupsj — new or Proposed; the lead this work is registered for and the claims it would be read against -->
+
+# LIT-tmpp11wp: Human Facial Expression: An Evolutionary View
+
+Fridlund (1994), Academic Press, ISBN 978-0-12-267630-7.
+
+## Key takeaways
+
+- Not read.
+
+## Standing in the record
+
+Registered for the behavioral ecology view, on which facial displays are social tools signalling intentions and not readouts of an inner state, the view most likely to refuse CLAIM-tmps1h34's affect as the content communicated (LEAD-tmptupsj). Unread, it grounds nothing.

@@ -1,0 +1,37 @@
+---
+status: Deferred
+status_note: 'Registered 2026-11-26 at the owner''s request ("file LITs for the reading leads"), for LEAD-tmpl2s2z; not sought or read.'
+title: "Rationality and the Myth of the Maximum"
+version: 1
+history:
+- version: 1
+  date: '2026-11-26'
+  note: >-
+    Filed, not read. The record was searched by title and author and
+    holds no entry. Crossref gives May 1972; no day, so the first of the month. Crossref was queried with no contact
+    address.
+tags:
+- game-theory
+- logic
+date: '2026-11-26'
+published: '1972-05-01'
+doi: '10.2307/2216143'
+first_author: 'Schwartz'
+keywords: ['Schwartz set', 'choice without a maximum']
+implementations: []
+summary: >-
+  Schwartz (1972), Noûs 6(2), 97ff.. Registered for choice without a maximum, the Schwartz set's setting, which is the sparse, incomplete relation of winning moves CLAIM-tmp650up works on. Unread, it grounds nothing.
+---
+<!-- inactive-ok-file: CLAIM-tmp650up LEAD-tmpl2s2z — new or Proposed; the lead this work is registered for and the claims it would be read against -->
+
+# LIT-tmp9ysdd: Rationality and the Myth of the Maximum
+
+Schwartz (1972), Noûs 6(2), 97ff..
+
+## Key takeaways
+
+- Not read.
+
+## Standing in the record
+
+Registered for choice without a maximum, the Schwartz set's setting, which is the sparse, incomplete relation of winning moves CLAIM-tmp650up works on (LEAD-tmpl2s2z). Unread, it grounds nothing.

@@ -29,9 +29,10 @@ summary: >-
 
 ## What it would do
 
-Register and read, by the read-and-file procedure, the accounts that treat
-emotion or its expression as communication. Candidates, to be checked when
-they are registered:
+Read, by the read-and-file procedure, the accounts that treat emotion or
+its expression as communication. Registered 2026-11-26, Deferred:
+LIT-tmpp11wp (Fridlund), LIT-tmpfgz0s (Van Kleef), LIT-tmpfg9h1
+(Scarantino) and LIT-tmpo0t2n (Keltner and Haidt).
 
 - Fridlund's behavioral ecology view of facial displays, in which displays
   are social tools that signal intentions and are not readouts of an inner
