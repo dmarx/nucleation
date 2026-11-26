@@ -4,7 +4,14 @@ status: Open
 formerly:
 - QUESTION-tmpjcbyk
 title: 'For finite resource-graded transition systems, when do the distinctions drawn by enriched Yoneda profiles, restricted to declared probes, agree with those drawn by behavioural equivalence and bisimulation pseudometrics, and what does each remember that the other forgets?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-26'
+  note: >-
+    Dated note from the exchange "Alignment consequences brainstorm"
+    (ChatGPT, 2026-11-26), A19: modal indistinguishability added to the
+    equivalences this question compares. Open.
 tags:
 - mathematics
 - individuation
@@ -100,3 +107,9 @@ mechanisms".
   must be supplied."
 - **Agreement under probes chosen to agree.** [CLAIM-322](../claims.d/CLAIM-322.md): such probes show
   only that they can be selected.
+
+## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U11–A19)
+
+<!-- inactive-ok-file: CLAIM-tmpti7cf — Proposed; filed from the exchange of 2026-11-26 -->
+
+A19's second research question, answering the owner's U11 (QUESTION-tmpahfz9), is this one with modal logic added: "Under which conditions do modal indistinguishability, bisimulation, resource-bounded Yoneda profiles, and operational interchangeability agree? QUESTION-384 is already remarkably close to this." For finite frames the first two are tied by the standard result that modal equivalence and bisimilarity coincide on image-finite models, so the addition is a third member, not a fourth: a resource-indexed modal language with one operator per budget would draw the distinctions of bisimulation of the budget-indexed frames (CLAIM-tmpti7cf gives which frames these are). Whether those agree with the restricted Yoneda profiles is still this question. Open.

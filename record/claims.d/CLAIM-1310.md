@@ -11,7 +11,7 @@ statement: >-
   threshold and a slower one more; the meme enters only as a scalar forcing,
   so the model expresses the environment's receptivity but not which
   organization a seed nucleates
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-24'
@@ -19,6 +19,13 @@ history:
     Active: an independent checker, who did not write it, reproduced every
     computation in it with its own code (2026-11-24). The owner left the
     promotion of verified entries to the assistant's discretion.
+- version: 3
+  date: '2026-11-26'
+  note: >-
+    Dated note from the exchange "Alignment consequences brainstorm"
+    (ChatGPT, 2026-11-26), A21 §5: a two-variable model of interest
+    without this claim's bistable window, and a variant that has it. No
+    change of status or statement.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -130,3 +137,9 @@ The model is [CLAIM-463](CLAIM-463.md)'s hysteresis with a pulse; what it adds i
 threshold for a transient seed, and the lesson is that a test of
 nucleation specificity needs more than one maintained regime and a seed
 with more than one dimension ([LEAD-260](../leads.d/LEAD-260.md)).
+
+## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U12–A21)
+
+<!-- inactive-ok-file: CASE-tmpaqihm CLAIM-tmpyk6bi CLAIM-tmp1njmb — Proposed; filed from the exchange of 2026-11-26 -->
+
+A21 §5 proposes "A minimal dynamical model of axiological nucleation" (CASE-tmpaqihm): competence and motivational significance growing each other, with temporary support s(t). A21 notes the model has "a coupling threshold, not a finite-amplitude nucleation threshold". In this claim's terms it has only the two regimes outside the bistable window: past a spinodal when αβ > μν, where "no seed is needed", and no maintained state otherwise. CLAIM-tmpyk6bi (the assistant's, checked) shows the support then decides nothing, and that making valuation grow sigmoidally in competence opens a window like this claim's: a stable zero and a stable interest separated by an unstable state, a critical support that falls with duration while the total support needed rises (0.0377 at duration 1, total 0.0645 at duration 20, in the stated parameters), as in this claim's table. Bearing: a parallel in two variables; the threshold this claim derives for the one-variable fold is what a transient-support reading of interest development needs. No change of status or statement.

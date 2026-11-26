@@ -9,7 +9,7 @@ statement: >-
   desynchronized valuation, not given by a fixed architecture: an agent is
   many interests over a choice only as far as its valuations of that choice
   cross within the choice's horizon
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-11'
@@ -17,6 +17,12 @@ history:
     Concept sweep: "the multi-agent self" is marked as "self" in the
     integrated sense (TERM-045, sense 6), which this claim had left
     to context. The claim is otherwise unchanged.
+- version: 3
+  date: '2026-11-26'
+  note: >-
+    Dated note from the exchange "Alignment consequences brainstorm"
+    (ChatGPT, 2026-11-26), A21 §4: cited correctly and generalized into a
+    mechanism of interest formation. No change of status or statement.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -111,3 +117,9 @@ chosen at once. Neither shows the chooser's own prediction making the
 present choice a precedent, so the hold of the note of 2026-10-28 stands.
 Neither bears on the claim's own point, how the account individuates
 interests. No status change.
+
+## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U12–A21)
+
+<!-- inactive-ok-file: CLAIM-tmp1njmb CLAIM-tmpyk6bi CLAIM-tmpk8knm LIT-tmp8evcp — Proposed or Deferred; filed and registered from the exchange of 2026-11-26 -->
+
+A21 §4 cites this claim accurately: "drawing on George Ainslie, proposes that distinct interests can arise when valuations diverge across temporal horizons", and "This is a specific mechanism, and the claim remains Proposed." It then asks the general question this claim answers for one mechanism, "Under what conditions does a newly consequential evaluative distinction become a maintained organizational process?", and proposes a second mechanism, mutually supporting discrimination, valuation, action and learning (CLAIM-tmp1njmb, A's), mapped to Hidi and Renninger's four phases (LIT-tmp8evcp, unread). Its model carries the coupling and not the role of support (CLAIM-tmpyk6bi). Bearing: complementary; the two mechanisms individuate interests differently, this one by where valuations cross, A21's by what sustains a valuation. No change of status or statement.

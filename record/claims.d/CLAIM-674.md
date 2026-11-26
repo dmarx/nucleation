@@ -10,7 +10,7 @@ statement: >-
   opportunities to engage actively with what is worthwhile, so success at
   satisfying preferences does not show that the lives an arrangement leaves
   open are going better
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-18'
@@ -32,6 +32,13 @@ history:
     (THEORY-1853, THEORY-1861) stay corroboration, and ARG-106's
     inference, Proposed, is not a premise. Interpretive, listed for the
     owner.
+- version: 4
+  date: '2026-11-26'
+  note: >-
+    Dated note from the exchange "Alignment consequences brainstorm"
+    (ChatGPT, 2026-11-26), A17 and A21: cited correctly, and extended
+    upstream to the formation of what is wanted. No change of status or
+    statement.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -109,3 +116,13 @@ A separating case, stipulated: two arrangements give the same people equal satis
 ## Where it sits
 
 On the flourishing-and-meaning line ([ADR-099](../decisions.d/ADR-099.md)). It complements [CLAIM-677](CLAIM-677.md): that claim measures the freedom an arrangement leaves by what remains open to a non-adopter, this one says that how fully an arrangement satisfies people does not measure how their lives go. It bears on [QUESTION-369](../questions.d/QUESTION-369.md), whether a need is something functioning requires or something that raises reported well-being, and on [QUESTION-465](../questions.d/QUESTION-465.md), the standard by which arrangements are judged.
+
+## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U10–A17, U12–A21)
+
+<!-- inactive-ok-file: CLAIM-tmp3ao8j LIT-tmpgtk0s — Proposed or Deferred; filed and registered from the exchange of 2026-11-26 -->
+
+A21 §10 cites this claim as one that, "drawing on Susan Wolf, establishes the possibility that preference satisfaction and reported well-being improve while opportunities for worthwhile engagement contract". That is accurate.
+
+The exchange extends it, in A's voice, from engagement to the formation of what is wanted (CLAIM-tmp3ao8j). A17 §3: closing a possibility "may eliminate an opportunity to become someone capable of valuing something that is currently unintelligible". A21 §15 sets five freedoms side by side, negative, positive, epistemic, axiological and constitutional, and says "A society might expand the first two while impoverishing the latter three", with high reported satisfaction, "a particularly insidious form of misalignment". On that extension the narrowing this claim describes can reach the preferences themselves, through institutions that shape them (A21 §9, citing Bowles, LIT-tmpgtk0s, unread), so that satisfaction measured against the shaped preferences would not show it.
+
+Bearing: a parallel and an extension; it supports the claim's scope without adding evidence for it. No change of status or statement.

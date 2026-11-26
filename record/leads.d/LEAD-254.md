@@ -288,7 +288,7 @@ The lead is unchanged in scope and stage.
 
 ## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U11–A19)
 
-<!-- inactive-ok-file: LIT-tmpg6t88 LIT-tmpdtmk7 LIT-tmpqkxsw LIT-tmp8twg8 QUESTION-tmpahfz9 TERM-tmpmdrmj CLAIM-682 — Deferred or Proposed; registered and filed from the exchange of 2026-11-26, and a held claim -->
+<!-- inactive-ok-file: LIT-tmpg6t88 LIT-tmpdtmk7 LIT-tmpqkxsw LIT-tmp8twg8 TERM-tmpmdrmj CLAIM-682 — Deferred or Proposed; registered and filed from the exchange of 2026-11-26, and a held claim -->
 
 Answering the owner's U11 (QUESTION-tmpahfz9), A19 §7 points this lead at a formal language: alternating-time temporal logic and coalition logic, whose ⟨⟨C⟩⟩Fφ "means that coalition C has a strategy ensuring that φ eventually holds, regardless of the modeled choices of other agents", with resource-bounded variants: Alechina, Logan, Nguyen and Rakib's coalition logic with bounded resources (LIT-tmpg6t88) and resource-bounded ATL (LIT-tmpdtmk7), and the journal ATL with resource bounds (LIT-tmpqkxsw). All registered, unread. "This is remarkably close to what we have been describing as actor-indexed reorganization readiness."
 

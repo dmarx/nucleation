@@ -12,7 +12,7 @@ statement: >-
   at a lower budget stay apart at every higher one; an equivalence a richer
   regime breaks was relative to its regime, not false; and the monotonicity
   needs an every-probe comparison, which an averaged distortion is not
-version: 8
+version: 9
 history:
 - version: 2
   date: '2026-11-06'
@@ -83,6 +83,13 @@ history:
     side it holds; the claim's own title, distinctions drawn by restricted
     Yoneda profiles "only grow as nested probe families grow". Already
     carries realizability, so no line changes. No other change.
+- version: 9
+  date: '2026-11-26'
+  note: >-
+    Dated note from the exchange "Alignment consequences brainstorm"
+    (ChatGPT, 2026-11-26), A23 §3: the budgeted consequential difference
+    as this claim's profile with witnesses extended by development. No
+    change of status or statement.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -284,3 +291,9 @@ A58 §10 sets this claim beside [CLAIM-455](CLAIM-455.md): "But greater represen
 ## Note of 2026-11-22: applied to the perspectives of a self
 
 In the exchange "Explain First Contact RL" (ChatGPT, shared 2026-11-22), A11 §2, A13 §6 and A15 §2 applied this claim to the candidate organizations of a self: the perspectives a self appears to have are an observational partition under the probes afforded. A15 §2 restated this claim's monotonicity as a guardrail ("Adding probes to a nested family cannot make an established distinction disappear when the objects and response laws are held fixed"). Three entries filed from it use this claim. [CLAIM-999](CLAIM-999.md) corrects A13 §6's sentence that distinctions "may disappear or reorganize under another [regime] without thereby becoming unreal or false": by this claim they can disappear only under a regime that is not an enrichment, where they are hidden and still true, or when the organization changes, where they are ended and not regime-relative (argued in [ARG-239](../arguments.d/ARG-239.md)). [CLAIM-1046](CLAIM-1046.md) adds that the partitions probe families induce are closed under common refinement (a union of families) but not under joins (an intersection can see strictly less), so they form a small meet-closed part of the partition lattice. [CLAIM-1044](CLAIM-1044.md) and [CLAIM-1175](CLAIM-1175.md) rest on this claim. An application; no change to the claim.
+
+## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U13–A23)
+
+<!-- inactive-ok-file: TERM-tmp8nuak CLAIM-tmpik3z0 — Proposed; filed from the exchange of 2026-11-26 -->
+
+On the owner's U13 ("elaborate on the geometry of potential consequentiality", TERM-tmp8nuak), A23 §3 defines D_{B,T}^g(x, x′), the largest outcome difference over a family of witness contexts and probes "attainable from the current organization within budget B and time T", and says it "closely resembles Nucleation's resource-bounded Yoneda profiles" in this claim. "The proposed extension is to include not only presently available probes, but also probes that become available through attainable organizational development." That is a fair reading. This claim's monotonicity carries over when the witness families are nested in B and T: configurations equivalent under a larger envelope are equivalent under each smaller one. A23's "present consequential equivalence does not establish potential consequential equivalence" is this claim's "an equivalence a richer regime breaks was relative to its regime, not false". A23's κ_ε is the budget at which a pair first separates (CLAIM-tmpik3z0, the assistant's). The comparison needs one witness family common to both configurations, which A23 states ("For fixed common witness families"). No change of status or statement.
