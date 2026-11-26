@@ -139,8 +139,10 @@ the record's size, takes minutes. If `docs-check` goes red, read its log, fix
 what it names on the branch, and push again; a narrow local command is fine
 for diagnosing. Pull before each push, since the bot's repair lands on the
 branch as its own commit. Never commit generated views: they land on the
-default branch through CI. Work goes to a branch and a pull request, and the
-changelog fragment goes in the same contribution.
+default branch through CI. Work goes to a branch and a pull request. A
+contribution that changes what a reader of the record sees carries its
+changelog fragment; one that only files devlog notes or other journal
+entries carries none, not even an empty stub.
 
 **Work goes through `staging`.** Cut each branch from `staging` and open its
 pull request into `staging`; docs-check runs on it as before. Temporary codes
@@ -148,7 +150,10 @@ stay temporary on staging, so a unit that cites another's codes is cut from
 staging once that unit has merged there, not stacked on its branch. The
 Promote workflow merges staging into main nightly, or when run by hand,
 concretizes the batch's codes, regenerates the views, and merges main back
-into staging ([ADR-116](record/decisions.d/ADR-116.md)). Only that workflow, or the owner, merges into
+into staging ([ADR-116](record/decisions.d/ADR-116.md)). **Merge a back-merge, or any pull request that
+brings main into staging, with a merge commit, never a squash**: a squash
+keeps the files but drops main as a parent, so staging and main still read
+as diverged and the next promotion conflicts again ([RETRO-tmpd9oti](record/retrospectives.d/RETRO-tmpd9oti.md)). Only that workflow, or the owner, merges into
 main. Whenever staging differs from main, a pull request from staging into main is
 open for the owner's review; the Promotion PR workflow opens it on a push to
 staging ([ADR-125](record/decisions.d/ADR-125.md)). When you merge into staging, add the choices waiting

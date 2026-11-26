@@ -3,9 +3,9 @@
      only the headings that apply; delete the rest. Collected into CHANGELOG.md
      on a cadence, never on every merge (ADR-002).
 
-     No user-facing changes? Replace everything with a single HTML comment
-     saying why. A stub collects to nothing, which keeps "every contribution
-     files a fragment" enforceable without inventing an entry. -->
+     No change a reader of the record would see (only devlog notes or other
+     journal entries)? File no fragment at all, not an empty stub: the
+     owner's ruling of 2026-11-25, written into CLAUDE.md. -->
 
 ### Added
 
