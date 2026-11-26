@@ -206,3 +206,26 @@ life". Concealment and coming out, as the paper discusses them (pp. 139,
 141, 143), keep a role's contexts disjoint and then collapse them. This
 illustrates the claim, from self-report, with no measure of conflict. No
 status change.
+
+## Note of 2026-11-26: tautology, and where the content is
+
+<!-- inactive-ok-block: CLAIM-tmprejdn — new; the claim this note points to -->
+
+The owner, the same day, on version 2: "sort of a tautological statement
+though, isn't it? 'two things can only come into conflict if they are
+capable of interacting with each other'. maybe the importance is drawing a
+connection to the contextuality program?" Agreed. The statement is
+CLAIM-197 for roles, and its sociology is CLAIM-317's. Two things remain
+this claim's own: the owner's availability condition, under which a role
+can be carried across contexts, and the point that the cover is partly the
+person's to manage. The non-trivial consequence, a contextual self whose
+cure is opening a cycle, is filed as CLAIM-tmprejdn, which rests on this
+claim and on CLAIM-153.
+
+What rests on this claim was checked. No claim rests on it. SYNTHESIS-051
+integrates it, and its summary ("roles conflict only on an overlap") still
+holds under version 2. CASE-052 and CASE-064 illustrate it, and CLAIM-153
+and CLAIM-198 complement it. CLAIM-417, TERM-045, THEORY-406, QUESTION-255,
+ADR-040 and ADR-043 cite it in ways version 2 leaves true. Whether this
+claim should be superseded by CLAIM-tmprejdn, or kept as its base case, is
+a status change and is left to the owner. No status change.

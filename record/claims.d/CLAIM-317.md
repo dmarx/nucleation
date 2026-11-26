@@ -126,3 +126,13 @@ record holds makes that comparison. The one case of differing presentations
 colliding is still Carmichael's, which the record has only through
 Meyrowitz, unread. The 2026-11-06 reading note above qualifies the title's
 last clause and does not meet the defeated_if.
+
+## Note of 2026-11-26: tautology, and where the content is
+
+<!-- inactive-ok-block: CLAIM-tmprejdn — new; the claim this note points to -->
+
+A consequence drawn in CLAIM-tmprejdn: collapse that brings three
+audiences into pairwise contact can make a presentation incoherent though
+no two audiences' presentations ever clash, because the obstruction lies on
+the cycle (CLAIM-153). Collapse can therefore harm a self in a way this
+claim's "the presentations collide" does not yet name. No status change.

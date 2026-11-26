@@ -130,3 +130,14 @@ Manik, Timme and Witthaut ([THEORY-2248](../theory.d/THEORY-2248.md); [NOTE-2339
 <!-- inactive-ok-file: NOTE-2348 — Skimmed; filed by LEAD-023 -->
 
 Background from Battiston and colleagues' review ([NOTE-2348](../notes.d/NOTE-2348.md), skimmed; [LIT-2239](../literature.d/LIT-2239.md)). Its higher-order counterpart of this claim's frustrated energy is the simplicial Sakaguchi–Kuramoto model, where "Frustration may also be introduced ... by adding phase lags"; and in the topological Kuramoto model synchronization lives on the harmonic modes localized on the complex's holes. Nothing in it tests this claim; no status change.
+
+## Note of 2026-11-26: tautology, and where the content is
+
+<!-- inactive-ok-block: CLAIM-tmprejdn — new; the claim this note points to -->
+
+Applied to presented selves in CLAIM-tmprejdn: roles consistent on every
+pairwise meeting occasion, with no global presentation around a cycle of
+three contexts, checked on a parity toy
+(scratch/studies/contextual-self/triangle.py). Opening any one overlap
+restores a global presentation. That is this claim's "the minimal model of
+the obstruction needs three", stated for social contexts. No status change.
