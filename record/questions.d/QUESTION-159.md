@@ -64,3 +64,28 @@ Whether this counts as an exact identity of the kind asked, or is too immediate 
 Akyürek and colleagues ([THEORY-2050](../theory.d/THEORY-2050.md)), read: leaves the question open. Their Theorems 1 and 2 show that chosen transformer weights can carry one gradient step, or one Sherman–Morrison update of a ridge solution, on in-context examples. These are existence constructions for particular weights, not identities for a layer class, and the question says that restating constructions of this kind does not count. Their measurements of trained models, which match ridge or least squares rather than one gradient step, are excluded by the question's terms as well.
 
 No status change.
+
+## Note of 2026-11-26: von Oswald et al. (2023), read
+
+<!-- inactive-ok-block: THEORY-tmp8xq94 NOTE-tmpcktnn THEORY-2049 — new or Proposed; the reading this note reports and a held entry it names -->
+
+Bears on the question and narrows it; does not answer it as posed.
+
+- **The mesa-layer** (LIT-tmpuv16r, NOTE-tmpcktnn, Eqs. 4–8) is a sequence
+  layer whose output is exactly the prediction of a ridge, or recursive
+  least-squares, learner trained on the context so far. Like the delta-rule
+  reading in the note of 2026-11-15, it holds by definition: the layer is
+  built as the solution of the regression. Whether a layer defined as a
+  learner counts is the same call that note left to the owner.
+- **The delta rule.** The paper states, without derivation, that Delta-Net
+  is "hardwired to do one gradient descent step per time point". That
+  matches the arithmetic of the note of 2026-11-15.
+- **Held entries this question's notes did not cite.**
+  - NOTE-620 (LIT-801) reads DeltaNet as "TTT-Linear with b = 1 and no LN
+    or residual", a delta-rule-as-learner identity.
+  - THEORY-2049 and NOTE-2087 cover mini-batch test-time-training layers,
+    the question's mini-batch clause.
+- **Untouched.** Normalized linear attention, and the question's second
+  half, whether some standard layer admits no learner description.
+
+No status change.

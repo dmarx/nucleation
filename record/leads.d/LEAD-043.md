@@ -65,3 +65,14 @@ What remains of the lead:
 - [CASE-274](../cases.d/CASE-274.md)'s response-geometry prediction ([CLAIM-698](../claims.d/CLAIM-698.md)), made before the recovery tests.
 
 The lead also names [QUESTION-274](../questions.d/QUESTION-274.md) (whether a feature circuit depends on the dictionary). Neither [CASE-274](../cases.d/CASE-274.md)'s design nor this run uses learned dictionaries, so the run does not bear on it; whether [QUESTION-274](../questions.d/QUESTION-274.md) belongs in the lead's `advances` is the owner's call. The stage and status are the owner's.
+
+## Note of 2026-11-26: von Oswald et al. (2023), read
+
+<!-- inactive-ok-block: THEORY-tmp8xq94 NOTE-tmpcktnn — new; the reading this note reports -->
+
+Background for the study. LIT-tmpuv16r (NOTE-tmpcktnn, p. 9) traces "early
+ascent" in few-shot in-context regression, where error first rises with
+the number of examples, to spurious pairs of one example's target with the
+next example's input, which the learned autoregressive algorithm treats as
+training data. This is a mechanism of apparent degradation by interference,
+and it is a candidate for one of this lead's categories. No change of stage.

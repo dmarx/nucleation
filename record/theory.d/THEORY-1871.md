@@ -88,3 +88,15 @@ Schlag, Irie & Schmidhuber (2021), [LIT-2642](../literature.d/LIT-2642.md); read
 - A train-then-predict identity for the delta-rule layer ([QUESTION-159](../questions.d/QUESTION-159.md)).
   The layer's update can be read as an online gradient step, but that is
   the filer's arithmetic in [NOTE-1988](../notes.d/NOTE-1988.md), not the paper's statement.
+
+## Note of 2026-11-26: von Oswald et al. (2023), read
+
+<!-- inactive-ok-block: THEORY-tmp8xq94 NOTE-tmpcktnn — new; the reading this note reports -->
+
+A parallel, and an extension. LIT-tmpuv16r (NOTE-tmpcktnn) calls its
+mesa-layer "a locally optimal fast weight programmer". It places the delta
+rule between Hebbian fast weights and exact optimization: "Unlike the
+mesa-layer, which is optimal at every step, the delta rule requires
+multiple steps to converge". It uses this paper's DPFP features and
+normalization in its language-model runs. It offers no new test of this
+account's capacity clause. No status change.

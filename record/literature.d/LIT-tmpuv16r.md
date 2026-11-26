@@ -1,9 +1,15 @@
 ---
-status: Deferred
-status_note: 'Registered 2026-11-26 at the owner''s request ("read and file https://arxiv.org/abs/2309.05858"); being read.'
+status: Active
+status_note: 'read in full 2026-11-26 (NOTE-tmpcktnn); worth reading for one exact identity and one new layer. Proposition 1 makes one causal linear self-attention head on constructed tokens exactly a full-batch gradient step of autoregressive least squares, and the mesa-layer outputs the ridge solution on its context by recursive least squares. Read its claims about deep and softmax models as agreement with tuned optimizers, probes and distillation, not as identities.'
 title: 'Uncovering mesa-optimization algorithms in Transformers'
-version: 1
+version: 2
 history:
+- version: 2
+  date: '2026-11-26'
+  note: >-
+    Read in full from the arXiv v2 PDF (NOTE-tmpcktnn). Status set from
+    the reading: Active. The summary is rewritten from the reading, and
+    the paper is recorded as extending LIT-792.
 - version: 1
   date: '2026-11-26'
   note: >-
@@ -25,14 +31,18 @@ implementations: []
 summary: >-
   von Oswald, Schlegel, Meulemans, Kobayashi, Niklasson, Zucchet, Scherrer,
   Miller, Sandler, Agüera y Arcas, Vladymyrov, Pascanu and Sacramento
-  (2023), arXiv 2309.05858. The abstract says Transformers trained on
-  synthetic sequence prediction develop, under next-token loss, a
-  subsidiary learning algorithm that adjusts the model as inputs arrive and
-  corresponds to gradient-based optimization of a principled objective, and
-  that this informs a new optimization-based layer. Registered for the
-  owner's request to read it, against [LIT-792](LIT-792.md), [THEORY-169](../theory.d/THEORY-169.md) and [QUESTION-159](../questions.d/QUESTION-159.md).
-  What the abstract says is unverified until read.
+  (2023), arXiv 2309.05858 v2. Transformers trained only by next-token
+  squared error on synthetic dynamical sequences, with fresh parameters per
+  sequence, bind tokens in their first layer and then behave as optimizers
+  of a least-squares mesa-objective. That is exactly one gradient step for
+  one linear self-attention layer (Proposition 1), and approximately
+  preconditioned descent toward ridge regression for deeper and softmax
+  models. A derived mesa-layer solves the regression exactly. THEORY-tmp8xq94
+  holds the account; it extends THEORY-169 and bears on QUESTION-159.
+extends:
+- LIT-792
 ---
+<!-- inactive-ok-file: NOTE-tmpcktnn THEORY-tmp8xq94 — new; this work's reading and account -->
 
 # LIT-tmpuv16r: Uncovering mesa-optimization algorithms in Transformers
 
@@ -40,10 +50,16 @@ von Oswald et al. (2023), arXiv 2309.05858.
 
 ## Key takeaways
 
-- Not read.
+- One causal linear self-attention head, on tokens [Φ0 s_t, s_t, s_{t−1}],
+  "is identical to the gradient-induced update" of autoregressive least
+  squares (Proposition 1).
+- The mesa-layer outputs the ridge solution on its context, by
+  Sherman–Morrison. Its claim to "strictly generalize" linear attention
+  holds only up to a vanishing scale (NOTE-tmpcktnn, Limitations).
+- Deep and softmax models are matched, not identified, to preconditioned
+  descent.
 
 ## Standing in the record
 
-Registered at the owner's request. It is the sequel to [LIT-792](LIT-792.md), whose
-reading grounds [THEORY-169](../theory.d/THEORY-169.md), and it bears on [QUESTION-159](../questions.d/QUESTION-159.md). Unread, it
-grounds nothing.
+The sequel to LIT-792. Its reading is NOTE-tmpcktnn, and its account is
+THEORY-tmp8xq94, which extends THEORY-169 and bears on QUESTION-159.

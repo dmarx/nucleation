@@ -132,3 +132,16 @@ the account stays Proposed.
 Yin and Steinhardt ([THEORY-2042](THEORY-2042.md)), read: qualifies this reading by metric and scale. For few-shot accuracy in models from about 1B to 7B, ablating induction heads that lack function-vector character costs about as much as random ablation, while ablating function-vector heads costs much more. On the token-loss difference, Olsson et al.'s own measure, induction heads still matter more. So the thesis holds for that quantity and fails for task accuracy at scale. The function-vector heads form later, not in the same window, so the refutation clause is not met either.
 
 No status change.
+
+## Note of 2026-11-26: von Oswald et al. (2023), read
+
+<!-- inactive-ok-block: THEORY-tmp8xq94 NOTE-tmpcktnn — new; the reading this note reports -->
+
+Qualifies this account, on synthetic data only. LIT-tmpuv16r
+(NOTE-tmpcktnn) agrees that the first layer copies previous tokens: its
+binding mechanism "exactly coincides with the first layer of the induction
+head circuit". It reads the second stage not as softmax retrieval but as a
+least-squares optimizer, and says the two "sit on two opposite extremes".
+Its tasks are continuous dynamical sequences, so it does not contradict
+this account for language models, where its own Appendix G calls its
+results "not sufficient". No status change.
