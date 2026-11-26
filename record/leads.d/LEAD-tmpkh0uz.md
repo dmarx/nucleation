@@ -16,16 +16,15 @@ advances:
 - CLAIM-756
 - THEORY-tmpl9xun
 summary: >-
-  Offered on 2026-11-26 from the Veeriah et al. reading (NOTE-tmpibrnu): the paper values a learning step by its effect on later learning of the same fixed task, which is a narrow form of CLAIM-756; the claim's own case is a later acquisition of a different task. The wording is the assistant's (Claude, in this session);
+  Offered on 2026-11-26 from the Veeriah et al. reading ([NOTE-tmpibrnu](../notes.d/NOTE-tmpibrnu.md)): the paper values a learning step by its effect on later learning of the same fixed task, which is a narrow form of [CLAIM-756](../claims.d/CLAIM-756.md); the claim's own case is a later acquisition of a different task. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: LIT-tmpl1kcf THEORY-tmpl9xun — new or Proposed; the entries this lead would advance and the works it names -->
 
 # LEAD-tmpkh0uz: Test whether question discovery valued on a different later task beats same-task valuation
 
 ## What it would do
 
-Meta-learn auxiliary questions, as in LIT-tmpl1kcf, with the meta-loss
+Meta-learn auxiliary questions, as in [LIT-tmpl1kcf](../literature.d/LIT-tmpl1kcf.md), with the meta-loss
 taken over the learning of a held-out task family, not the training task.
 Compare:
 
@@ -35,5 +34,5 @@ Compare:
 
 The test, on held-out later tasks, is whether valuing by effect on
 different later acquisitions picks questions that same-task valuation
-misses, and that rank lower on present performance. That is CLAIM-756's
+misses, and that rank lower on present performance. That is [CLAIM-756](../claims.d/CLAIM-756.md)'s
 reversal.

@@ -25,7 +25,7 @@ summary: >-
 
 # THEORY-tmpqs2yw: Performers segregate audiences to sustain their performances
 
-Goffman (1956; Anchor edition 1959), LIT-tmpcsp4y.
+Goffman (1956; Anchor edition 1959), [LIT-tmpcsp4y](../literature.d/LIT-tmpcsp4y.md).
 
 ## The account, as expected
 

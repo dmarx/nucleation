@@ -15,7 +15,7 @@ advances:
 - CLAIM-tmpw7swg
 - CLAIM-317
 summary: >-
-  Filed with CLAIM-tmpw7swg on 2026-11-26, whose prediction CLAIM-317 does not state. The wording is the assistant's (Claude, in this session);
+  Filed with [CLAIM-tmpw7swg](../claims.d/CLAIM-tmpw7swg.md) on 2026-11-26, whose prediction [CLAIM-317](../claims.d/CLAIM-317.md) does not state. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmpw7swg — new or Proposed; the entries this lead would advance and the works it names -->
@@ -31,6 +31,6 @@ audiences. Measure how often each repairs by changing the cover
 (segregating, scripting, withdrawing) and how often by changing the
 presentation itself.
 
-- **For CLAIM-tmpw7swg:** more role revision where the cover cannot be
+- **For [CLAIM-tmpw7swg](../claims.d/CLAIM-tmpw7swg.md):** more role revision where the cover cannot be
   changed.
 - **Against it:** equal rates either way.

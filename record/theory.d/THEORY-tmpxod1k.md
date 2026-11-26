@@ -25,7 +25,7 @@ summary: >-
 
 # THEORY-tmpxod1k: Regions of the life space carry valences that direct locomotion
 
-Lewin (1936), McGraw-Hill, LIT-tmptdyqv.
+Lewin (1936), McGraw-Hill, [LIT-tmptdyqv](../literature.d/LIT-tmptdyqv.md).
 
 ## The account, as expected
 

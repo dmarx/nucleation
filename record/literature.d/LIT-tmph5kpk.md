@@ -20,7 +20,7 @@ first_author: 'Callard'
 implementations: []
 summary: >-
   Callard (2018), Oxford University Press. Registered for aspiration as the rational, self-transforming pursuit of values one does not yet hold, by proleptic reasons, and self-creation as the ground of responsibility for who one has become. Unread, it grounds nothing. The
-  account the record expects to draw from it is THEORY-tmpju6yf.
+  account the record expects to draw from it is [THEORY-tmpju6yf](../theory.d/THEORY-tmpju6yf.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpju6yf — Proposed; the expected account -->
 
@@ -34,4 +34,4 @@ Callard (2018), Oxford University Press.
 
 ## Standing in the record
 
-Registered for aspiration as the rational, self-transforming pursuit of values one does not yet hold, by proleptic reasons, and self-creation as the ground of responsibility for who one has become. Its expected account is THEORY-tmpju6yf, Proposed and unverified until read.
+Registered for aspiration as the rational, self-transforming pursuit of values one does not yet hold, by proleptic reasons, and self-creation as the ground of responsibility for who one has become. Its expected account is [THEORY-tmpju6yf](../theory.d/THEORY-tmpju6yf.md), Proposed and unverified until read.

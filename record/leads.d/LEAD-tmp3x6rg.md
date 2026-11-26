@@ -14,7 +14,7 @@ line:
 advances:
 - CLAIM-tmprejdn
 summary: >-
-  Filed with CLAIM-tmprejdn on 2026-11-26, which has no outside evidence: CASE-052 is a pairwise collapse, not a cycle. The wording is the assistant's (Claude, in this session);
+  Filed with [CLAIM-tmprejdn](../claims.d/CLAIM-tmprejdn.md) on 2026-11-26, which has no outside evidence: [CASE-052](../cases.d/CASE-052.md) is a pairwise collapse, not a cycle. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmprejdn — new or Proposed; the entries this lead would advance and the works it names -->
@@ -32,5 +32,5 @@ nonetheless. For each candidate, record:
 - what each occasion required;
 - whether any single presentation could have met all three.
 
-A case found becomes a CASE and grounds CLAIM-tmprejdn. A careful search
+A case found becomes a CASE and grounds [CLAIM-tmprejdn](../claims.d/CLAIM-tmprejdn.md). A careful search
 that finds none bears on its defeater.

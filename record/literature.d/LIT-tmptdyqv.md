@@ -18,8 +18,8 @@ url: 'https://openlibrary.org/works/OL1993706W'
 first_author: 'Lewin'
 implementations: []
 summary: >-
-  Lewin (1936), McGraw-Hill. Registered for valence in Lewin's sense, a region of the life space that attracts or repels the person's locomotion, which CLAIM-tmpi0oub reads as the owner's sense of 'valence toward'. Unread, it grounds nothing. The
-  account the record expects to draw from it is THEORY-tmpxod1k.
+  Lewin (1936), McGraw-Hill. Registered for valence in Lewin's sense, a region of the life space that attracts or repels the person's locomotion, which [CLAIM-tmpi0oub](../claims.d/CLAIM-tmpi0oub.md) reads as the owner's sense of 'valence toward'. Unread, it grounds nothing. The
+  account the record expects to draw from it is [THEORY-tmpxod1k](../theory.d/THEORY-tmpxod1k.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpxod1k — Proposed; the expected account -->
 
@@ -33,4 +33,4 @@ Lewin (1936), McGraw-Hill.
 
 ## Standing in the record
 
-Registered for valence in Lewin's sense, a region of the life space that attracts or repels the person's locomotion, which CLAIM-tmpi0oub reads as the owner's sense of 'valence toward'. Its expected account is THEORY-tmpxod1k, Proposed and unverified until read.
+Registered for valence in Lewin's sense, a region of the life space that attracts or repels the person's locomotion, which [CLAIM-tmpi0oub](../claims.d/CLAIM-tmpi0oub.md) reads as the owner's sense of 'valence toward'. Its expected account is [THEORY-tmpxod1k](../theory.d/THEORY-tmpxod1k.md), Proposed and unverified until read.

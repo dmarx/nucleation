@@ -18,8 +18,8 @@ url: 'https://openlibrary.org/works/OL3282045W'
 first_author: 'Goffman'
 implementations: []
 summary: >-
-  Goffman (1956; Anchor edition 1959). Registered for audience segregation, the management of which audiences see which performance, the classical source of CLAIM-317's and CLAIM-tmpw7swg's audience management. Unread, it grounds nothing. The
-  account the record expects to draw from it is THEORY-tmpqs2yw.
+  Goffman (1956; Anchor edition 1959). Registered for audience segregation, the management of which audiences see which performance, the classical source of [CLAIM-317](../claims.d/CLAIM-317.md)'s and [CLAIM-tmpw7swg](../claims.d/CLAIM-tmpw7swg.md)'s audience management. Unread, it grounds nothing. The
+  account the record expects to draw from it is [THEORY-tmpqs2yw](../theory.d/THEORY-tmpqs2yw.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpqs2yw — Proposed; the expected account -->
 
@@ -33,4 +33,4 @@ Goffman (1956; Anchor edition 1959).
 
 ## Standing in the record
 
-Registered for audience segregation, the management of which audiences see which performance, the classical source of CLAIM-317's and CLAIM-tmpw7swg's audience management. Its expected account is THEORY-tmpqs2yw, Proposed and unverified until read.
+Registered for audience segregation, the management of which audiences see which performance, the classical source of [CLAIM-317](../claims.d/CLAIM-317.md)'s and [CLAIM-tmpw7swg](../claims.d/CLAIM-tmpw7swg.md)'s audience management. Its expected account is [THEORY-tmpqs2yw](../theory.d/THEORY-tmpqs2yw.md), Proposed and unverified until read.

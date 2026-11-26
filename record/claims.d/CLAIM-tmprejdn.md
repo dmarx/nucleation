@@ -71,7 +71,7 @@ contextuality is failure of global extension. Applied to a person's roles:
    consistently, and still no single presentation meets all three. No pair
    of roles conflicts. The obstruction is the cycle.
 2. **The cure is to open a cycle, not to change a role.** That is a change
-   of cover, which CLAIM-tmpw7swg makes the person's partly to control. Keeping any one
+   of cover, which [CLAIM-tmpw7swg](CLAIM-tmpw7swg.md) makes the person's partly to control. Keeping any one
    pair of audiences apart removes the obstruction, and the demands on the
    other occasions stay exactly as they were. So segregation strategies
    that work should target cycles of meeting contexts, not pairs and not

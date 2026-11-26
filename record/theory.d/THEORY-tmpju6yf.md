@@ -29,7 +29,7 @@ summary: >-
 
 # THEORY-tmpju6yf: Aspiration is rational self-transformation by proleptic reasons
 
-Callard (2018), Oxford University Press, LIT-tmph5kpk.
+Callard (2018), Oxford University Press, [LIT-tmph5kpk](../literature.d/LIT-tmph5kpk.md).
 
 ## The account, as expected
 
