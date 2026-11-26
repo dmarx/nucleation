@@ -10,7 +10,7 @@ statement: >-
   adoption, the alternatives left to those who decline it shrink, so the
   freedom an arrangement leaves is measured by what remains open to a
   non-adopter, not by what it lets adopters do
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-13'
@@ -22,6 +22,12 @@ history:
     narrows the lives open to people, the line's last clause. Its
     mechanisms stay with distributed-agency. CLAIM-674 complements
     its measure. Its own lines are unchanged.
+- version: 3
+  date: '2026-11-26'
+  note: >-
+    Dated note of 2026-11-26 from the exchange "Alignment consequences
+    brainstorm" (ChatGPT, 2026-11-26): A5 §2's automobile and AI
+    restatement. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -219,3 +225,16 @@ At the owner's request to "look for adjacent stand ins for unreachable/unfetched
 ## Note of 2026-11-13: on the flourishing-and-meaning line
 
 The claim takes the line flourishing-and-meaning ([ADR-099](../decisions.d/ADR-099.md)) for its measure: the freedom an arrangement leaves, judged by what remains open to a non-adopter, is a claim about the lives an arrangement leaves open. [CLAIM-674](CLAIM-674.md) complements the measure from the other side: how fully an arrangement satisfies the preferences of those who adopt it does not show that their lives go better. Marcuse's objection to the measure ([ARG-108](../arguments.d/ARG-108.md)), that what is chosen is shaped as well as what can be chosen, now has a claim on this line to press against: [CLAIM-689](CLAIM-689.md), that a want's social origin does not by itself decide its worth. No change to the claim.
+
+## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U3–A5)
+
+A5 §2 restates this claim's infrastructural mechanism for the automobile
+without citing it: "The technology begins as an optional augmentation of
+agency and potentially becomes a condition of agency", with residential
+dispersal and the decline of walking and public transport, and "AI might
+follow a similar trajectory: using AI becomes advantageous, institutions
+reorganize around AI users, and eventually non-use becomes prohibitively
+costly." A5 calls the car city "an exceptionally good empirical case for
+the inquiry", and its §6 pairs a car-dependent with a multimodal city
+under a fuel interruption (LEAD-tmp0yn8v). The AI sentence is the claim
+applied, A's and untested. A parallel; the claim is unchanged.

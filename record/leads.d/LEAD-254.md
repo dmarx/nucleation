@@ -4,7 +4,22 @@ status: Open
 formerly:
 - LEAD-tmpeo8wq
 title: 'Index the resource-bounded constraint system''s reachability by actor and by authority, and construct a cooperation in which repeated successful coordination enlarges what the participants can reach together while contracting what one of them can reach alone, separating physical feasibility, affordability, authorization and permissibility of each transition'
-version: 1
+version: 3
+history:
+- version: 2
+  date: '2026-11-26'
+  note: >-
+    Dated note of 2026-11-26 from the exchange "Alignment consequences
+    brainstorm" (ChatGPT, 2026-11-26): A4 §5's actor-indexed readiness and
+    kernels and A5 §4's orders of power; the assistant's statement of what
+    the indexing must fix. Scope and stage unchanged.
+- version: 3
+  date: '2026-11-26'
+  note: >-
+    Dated note from the exchange "Alignment consequences brainstorm"
+    (ChatGPT, 2026-11-26), A19: resource-bounded coalition logic as a
+    language for the lead's indexed reachability, and the worker example's
+    five modalities. Scope and stage unchanged.
 stage: idea
 priority: medium
 method:
@@ -215,3 +230,68 @@ Two points in the note above overstate.
 [CLAIM-1237](../claims.d/CLAIM-1237.md) is revised to match (version 2). No status change. The
 wording is the assistant's (Claude, in this session); adopting it is the
 owner's call.
+
+## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U2–A4, U3–A5)
+
+<!-- inactive-ok-file: TERM-167 CLAIM-545 — Proposed; the kernel A4 indexes and the held claim the orders of power sit near -->
+
+**What the exchange adds.** A4 §5 makes this lead's object an alignment
+one: "for alignment, *whose policy* matters. ... The AI's ability to
+intervene does not establish humanity's ability to intervene." It defines
+actor-indexed readiness R_i(ω, τ, B | y), in A4's words with its
+notation in plain text, "The probability that actor i,
+operating through mechanisms it can legitimately and effectively invoke,
+can achieve a suitable response to contingency ω within deadline τ and
+budget B", and kernels V_human, V_AI and V_joint, with the hypothesis
+"joint controllability could increase while human controllability
+decreases", which is this lead's construction, enlarged reach together
+and contracted reach alone, posed for TERM-115 and TERM-167. A control
+programme would keep "certain critical states ... within the
+human-governable kernel even as the joint system's capabilities expand".
+A5 §4 builds on it: three orders of power, the capacity to determine
+outcomes, to change others' available options, and "to change how
+options are constructed and governed"; and coalition-indexed sets, since
+"The possibilities accessible to an organized population cannot be
+inferred simply by aggregating the possibilities accessible to its
+individual members." The three orders sit near the instrumental,
+discretionary and constitutive power the filing of 2026-11-13 mapped to
+CLAIM-545.
+
+**What the indexing must fix (the assistant).** A4 indexes readiness by
+the actor whose policy is chosen and says nothing of what the other
+actors do meanwhile. The kernel depends on it, three ways:
+
+1. *The others follow their actual policies.* V_human is then a
+   closed-loop kernel in the sense of TERM-167's note of 2026-11-23 (V_π),
+   relative to the AI's policy as it is.
+2. *The others cooperate.* Then A4's figure caption holds, "assuming joint
+   access can reproduce each actor's individual interventions": V_human
+   and V_AI are each within V_joint. But V_human then presupposes the AI's
+   compliance, which is what a human-governable kernel is meant to secure,
+   so the reading cannot serve A4's purpose.
+3. *The others may act against the actor.* V_human is then a kernel of a
+   game, the states from which the humans have a policy that keeps the
+   organization viable whatever the AI does within its admissible
+   actions, in viability theory a discriminating kernel. This is the
+   reading the control programme needs, and it is what A4 defers to "a
+   separate security and threat model".
+
+The three are ordered, the third within the first within the second,
+when the AI's actual policy is one of its admissible ones and the
+cooperative reading's joint policies include it. A construction for this
+lead should say which it uses. "Legitimately" adds a further index: the
+policies an actor may invoke depend on a declared standard of legitimacy,
+which QUESTION-485 holds open. The wording of this section is the
+assistant's (Claude, in this session); adopting it is the owner's call.
+
+The lead is unchanged in scope and stage.
+
+## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U11–A19)
+
+<!-- inactive-ok-file: LIT-tmpg6t88 LIT-tmpdtmk7 LIT-tmpqkxsw LIT-tmp8twg8 QUESTION-tmpahfz9 TERM-tmpmdrmj CLAIM-682 — Deferred or Proposed; registered and filed from the exchange of 2026-11-26, and a held claim -->
+
+Answering the owner's U11 (QUESTION-tmpahfz9), A19 §7 points this lead at a formal language: alternating-time temporal logic and coalition logic, whose ⟨⟨C⟩⟩Fφ "means that coalition C has a strategy ensuring that φ eventually holds, regardless of the modeled choices of other agents", with resource-bounded variants: Alechina, Logan, Nguyen and Rakib's coalition logic with bounded resources (LIT-tmpg6t88) and resource-bounded ATL (LIT-tmpdtmk7), and the journal ATL with resource bounds (LIT-tmpqkxsw). All registered, unread. "This is remarkably close to what we have been describing as actor-indexed reorganization readiness."
+
+A19's worker example separates five modalities of one outcome, a decision reversed: "Existential reachability", "Formal authorization" (the worker may object), "Procedural capability" (can initiate review), "Strategic capability" ("Workers can collectively secure a fair review despite management's opposition") and "Resource- and deadline-bounded strategic capability". The lead already separates feasibility, affordability, authorization and permissibility; the coalition logic adds strategic ability against opposition, which none of the four is, and the deontic entry A19 lists (LIT-tmp8twg8) the logic of permission. "The natural Nucleation extension would concern how the coalitions, capabilities, resources, and rules of the game themselves develop", which is this lead's construction, reach together growing while reach alone contracts.
+
+A19 §VI states the indexed sets R_i(x) as a theory of power, operational, developmental (changing "the accessible sets of others") and constitutional (changing "the mechanisms determining those accessible sets"), and of domination as "discretionary control over the accessibility conditions of another", which is CLAIM-682's consequential discretion stated over possibility sets. A16 §10's operational, purposive and constitutional reach are the institutional counterpart (TERM-tmpmdrmj). Scope and stage unchanged.

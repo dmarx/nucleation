@@ -13,7 +13,7 @@ statement: >-
   while reciprocal loss, each partner supplying what the other gave up,
   leaves interdependence, so the aim framed as self-sufficiency is better
   framed as reciprocity
-version: 8
+version: 9
 history:
 - version: 2
   date: '2026-11-07'
@@ -60,6 +60,12 @@ history:
     Joins the work governance-of-becoming under ADR-104's rule, as
     stated or used in A49 Article 2 abstract; Article 9 abstract (ADR-
     tmpenzcn). No change of title or status.
+- version: 9
+  date: '2026-11-26'
+  note: >-
+    Dated note of 2026-11-26 from the exchange "Alignment consequences
+    brainstorm" (ChatGPT, 2026-11-26): A4 §7's citation, with one misreading
+    corrected; an application filed resting on it. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -439,3 +445,30 @@ have: the provider holds realized reliability at its declared objective,
 synthesizing outages when true failures have not used the budget, so that
 the loss is exposed as it forms. That is filed in A's voice as
 [CLAIM-1256](CLAIM-1256.md), which complements this one. No status change. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
+
+## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U2–A4)
+
+<!-- inactive-ok-file: CLAIM-tmp5vitv — filed from the exchange of 2026-11-26, Proposed -->
+<!-- inactive-ok-file: CLAIM-690 — Proposed; the held claim the application also rests on -->
+
+A4 §7 cites this claim as the record's "explicit response" to the owner's
+U2 (QUESTION-tmpsgbj7), whether the account of supplied work eroding
+capacity commits a Luddite fallacy. A4's gloss misreads one step: "From
+the standpoint of the ecological organization, it can be adaptive
+specialization." This claim reports the reverse for the Black Queen case,
+that it "looks like a division of labour, and the paper says it is not
+one", because the dependence runs one way. What A4 rightly takes from the
+claim is that the loss itself is not the pathology.
+
+Applied to a capability a provider supplies, this claim's test does not
+stop at the loss: the supply does not fall as dependence grows, so the
+loss is bounded only by what the supply covers, and the remaining marks
+are reciprocity and, through CLAIM-690, control of the terms. That is
+filed as the assistant's CLAIM-tmp5vitv, which rests on this claim. A4
+§7's further step, that the loss of local capability is "one of the
+mechanisms" by which "new levels of organization" form, is A's
+extrapolation; A itself adds that the inquiry "does not establish that
+human technological development and biological specialization share an
+identical mechanism".
+
+A misreading corrected and an application filed; the claim is unchanged.

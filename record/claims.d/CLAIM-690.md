@@ -15,7 +15,7 @@ statement: >-
   part none, and the part's own dependence becomes vulnerability to that
   agent, on whom, under a principle grounding obligations in such
   vulnerability, the strengthened responsibility falls
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-11-15'
@@ -44,6 +44,12 @@ history:
     Joins the work atlas (ADR-149): the hyperarticle atlas v0.3
     states its proposition or uses it as a step, in scope 12. No other
     change.
+- version: 6
+  date: '2026-11-26'
+  note: >-
+    Dated note of 2026-11-26 from the exchange "Alignment consequences
+    brainstorm" (ChatGPT, 2026-11-26): A4 §10's citation, checked; Emerson
+    registered unread. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -221,3 +227,25 @@ pair in a toy model. What would go against it is (a) in `defeated_if`.
 - **That the colonial theatre shows it.** [CASE-257](../cases.d/CASE-257.md) is near the
   discretion side for its enslaved contributors. It differs from any
   bargained case in more than control, so it cannot be the contrast.
+
+## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U2–A4, U3–A5)
+
+<!-- inactive-ok-file: CLAIM-tmp5vitv LIT-tmp76g3z — filed from the exchange of 2026-11-26, Proposed, Deferred or Open -->
+
+A4 §10 cites this claim accurately: "what distinguishes different forms of
+dependence is not merely their magnitude, but who controls the terms
+under which they are met". Its thought experiment of three societies, the
+second interdependent and freer for it, the third with "the same
+interdependence" turned into "a basis for unanswerable power", restates
+CASE-264's contrast of equal dependence and different control at the
+scale of a society, and A4 names the objective "non-domination within
+interdependence". An illustration, not new evidence.
+
+Two consequences filed. The record's answer to the owner's U2
+(QUESTION-tmpsgbj7) runs through this claim: CLAIM-tmp5vitv rests on it
+and on CLAIM-603. And A5 §5 names Emerson's "Power-Dependence Relations",
+which this claim's "What it does not say" named as the rival its defeater
+(b) is to be checked against; it is now registered unread (LIT-tmp76g3z),
+so the check waits on a reading.
+
+The claim is unchanged.

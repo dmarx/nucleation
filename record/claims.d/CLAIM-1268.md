@@ -3,7 +3,14 @@ number: 1268
 status: Proposed
 formerly:
 - CLAIM-tmpefeb7
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-26'
+  note: >-
+    Dated note of 2026-11-26 from the exchange "Alignment consequences
+    brainstorm" (ChatGPT, 2026-11-26): A6 §2's attention-economy form of the
+    mechanism; Chaney et al. registered unread. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -101,3 +108,24 @@ claim's warrant is interpretive until then.
 A42 ties it to agnotology, reflexive control and hyperstition; those are
 other groups' filings of the exchange and the links are left to the
 closing pass.
+
+## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U4–A6)
+
+<!-- inactive-ok-file: CLAIM-tmpe432a LIT-tmp4r6n7 — filed from the exchange of 2026-11-26, Proposed or Deferred -->
+
+A6 §2 gives this claim's mechanism for the attention economy, at the
+owner's U4 (CLAIM-tmpe432a): "The attention economy goes beyond ordinary
+Goodhart's law because the optimizer can modify the environment that
+generates its measurements." Once engagement is the target, "the system
+acquires incentives to produce engagement through whatever mechanisms are
+effective, whether or not they produce value", and "observed behaviour is
+no longer independent evidence of the desirability of the system. It is
+partly a product of the system." It cites Chaney, Stewart and Engelhardt
+on recommendation feedback loops, registered unread (LIT-tmp4r6n7).
+
+Here the observed adapt to an optimizer rather than to a monitor, and
+what moves apart is the measure and the value it was taken as evidence
+of, not legibility and fidelity. The form is this claim's and CLAIM-402's:
+acting on a measure produces what the measure then records. A parallel in
+a second domain, with a work that may give evidence once read; the claim
+is unchanged.
