@@ -10,7 +10,7 @@ statement: >-
   harmed leave, the recognized cost of the practice falls with their share,
   so the score favours more of it, and the failures it records grow more
   slowly than the harm it does
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-12'
@@ -20,6 +20,13 @@ history:
     distinguishes this claim's route, selective disappearance of the harmed
     from the observed population, from CLAIM-662's costly discovery;
     filed as CLAIM-657. No status change.
+- version: 3
+  date: '2026-11-26'
+  note: >-
+    Joins the work organizational-origins-of-misalignment (ADR-tmp0cgxa) at
+    its filing, under ADR-104's rule: the outline A11 §IX of the exchange
+    "Alignment consequences brainstorm" uses its proposition as a step.
+    No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -63,6 +70,8 @@ summary: >-
   they rise, but more slowly than the harm, and the claim is stated so.
   The wording is the assistant's (Claude, in this session); adopting it
   is the owner's call.
+works:
+- organizational-origins-of-misalignment
 ---
 <!-- inactive-ok-file: CLAIM-657 — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-655 CASE-246 ARG-092 — Proposed; filed from the exchange of 2026-11-11 and its follow-up -->

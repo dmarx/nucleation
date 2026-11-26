@@ -10,7 +10,7 @@ statement: >-
   an institution's performance can merge states its members' claims must
   distinguish, so adequacy is fixed by the evaluative target, and the target
   cannot be justified solely by the description that preserves it
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-21'
@@ -52,6 +52,13 @@ history:
     Joins the work governance-of-becoming under ADR-104's rule, as
     stated or used in A49 Article 11 abstract (ADR-147). No change
     of title or status.
+- version: 7
+  date: '2026-11-26'
+  note: >-
+    Joins the work organizational-origins-of-misalignment (ADR-tmp0cgxa) at
+    its filing, under ADR-104's rule: the outline A11 §IX of the exchange
+    "Alignment consequences brainstorm" uses its proposition as a step.
+    No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -73,6 +80,7 @@ line:
 - distributed-agency
 works:
 - governance-of-becoming
+- organizational-origins-of-misalignment
 rests_on:
 - CLAIM-350
 - CLAIM-152

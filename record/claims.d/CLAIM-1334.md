@@ -3,7 +3,15 @@ number: 1334
 status: Proposed
 formerly:
 - CLAIM-tmpvmd97
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-26'
+  note: >-
+    Joins the work organizational-origins-of-misalignment (ADR-tmp0cgxa) at
+    its filing, under ADR-104's rule: the outline A11 §IX of the exchange
+    "Alignment consequences brainstorm" uses its proposition as a step.
+    No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -22,6 +30,7 @@ line:
 - organizational-normativity
 works:
 - governance-of-becoming
+- organizational-origins-of-misalignment
 uses:
 - TERM-064
 - TERM-108

@@ -1,0 +1,120 @@
+---
+status: Proposed
+title: "A work organizational-origins-of-misalignment is added for the manuscript ChatGPT proposed from the owner's U4 in the exchange Alignment consequences brainstorm: a claim is a member when its outline states the claim's proposition or uses it as a step"
+version: 1
+tags:
+- record
+date: '2026-11-26'
+summary: >-
+  At the owner's word of 2026-11-26 ("file the new works"), the closed
+  works vocabulary gains organizational-origins-of-misalignment, the
+  manuscript ChatGPT proposed in the exchange "Alignment consequences
+  brainstorm" from the owner's U4 (paperclip maximization is a matter of
+  which objectives may steer significant levers of behavioural influence,
+  and the attention economy already does it): titled at A8 "We Are Already
+  Paperclip Maximizing: Optimization Jurisdiction and the Organizational
+  Origins of Misalignment" and outlined at A11 §IX as "Optimization Without
+  a Sovereign: The Organizational Origins of Misalignment". The two titles
+  are one work. Membership follows ADR-104's rule; eleven held claims join
+  now, and the exchange's own claims join at a membership pass once the
+  exchange's filing has merged. Rejected for now: two works, an article of
+  governance-of-becoming, and no work.
+---
+<!-- inactive-ok-file: CLAIM-1252 CLAIM-1334 CLAIM-658 CLAIM-1287 CLAIM-652 CLAIM-1064 CLAIM-1293 CLAIM-1270 SYNTHESIS-052 SYNTHESIS-094 — Proposed; members of the work, cited as members whatever their standing, and the rule they join under -->
+
+# ADR-tmp0cgxa: A work organizational-origins-of-misalignment is added for the manuscript ChatGPT proposed from the owner's U4 in the exchange Alignment consequences brainstorm: a claim is a member when its outline states the claim's proposition or uses it as a step
+
+## Context
+
+In the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26;
+filed in dmarx/nucleation#837), the owner said at U4 that the paperclip
+problem is orthogonal to AI alignment and has afflicted society since at
+least the 1980s: "The problem is which optimization objectives you permit
+to influence significant levers of behavioral influence. ... We're already
+paperclip maximizing, that's exactly what the attention economy is." At
+U5 the owner asked for real-world case studies "to bring the point home".
+A8 gave six, and closed: "A possible title for the resulting manuscript:
+**We Are Already Paperclip Maximizing: Optimization Jurisdiction and the
+Organizational Origins of Misalignment**". A11 §IX, "What I would develop
+into a manuscript", retitled it "**Optimization Without a Sovereign: The
+Organizational Origins of Misalignment**" and organized it around five
+propositions, each with the record's codes:
+
+| Proposition (A11 §IX) | codes A names |
+|---|---|
+| Optimization can be organizationally constituted without a unitary maximizing agent. | CLAIM-482, SYNTHESIS-052 |
+| Normative failure can arise from the jurisdiction of an objective rather than its content. | CLAIM-1252, CLAIM-1334, CLAIM-348 |
+| Optimization can transform the conditions that supply its feedback and constrain its activity. | CLAIM-658, CLAIM-1287 |
+| Organizational success can undermine independent capacities for evaluation and correction. | CLAIM-652, CLAIM-662, SYNTHESIS-094 |
+| A constructive alternative is the governed coexistence of heterogeneous demands. | CLAIM-1293, CLAIM-1270, will-organization, Luria |
+
+The curation entry of the exchange's filing audits both closings as
+syntheses: A8's and A11 §VIII's thesis is filed as a claim of A's, and the
+rest is a recap of filed components. There is no draft beyond the outline.
+On 2026-11-26 the owner, answering the filing's open choices, said: "file
+the new works".
+
+## Decision
+
+- **The `works` vocabulary gains `organizational-origins-of-misalignment`**,
+  labelled "The Organizational Origins of Misalignment", the subtitle both
+  titles share. Its blurb names the owner's U4 as its motivating idea, the
+  two titles and where each was proposed, and that no draft exists yet.
+- **The two titles are one work.** A11 §IX revises A8's proposal: it keeps
+  the subtitle and the thesis, and replaces the case-led framing with five
+  propositions. A draft written later takes whichever title the owner
+  chooses; whether it is the same work is the owner's ruling (the
+  write-manuscript skill, step 1).
+- **Membership is ADR-104's rule**, read against the outline, the work's
+  only text so far: a CLAIM or ARG is a member when the outline states its
+  proposition or uses it as a step. Each of A11 §IX's codes was read
+  against the proposition it is named for:
+  - CLAIM-482 (revealed preference fitted to authority) is the step for the
+    first proposition: an apparent objective can be the shape of an
+    authority structure, not an agent's aim.
+  - CLAIM-1252, CLAIM-1334 and CLAIM-348 are the second proposition's
+    steps: standing constrains what may be optimized; a governing metric
+    allocates two powers; no coarse-graining is adequate per se.
+  - CLAIM-658 and CLAIM-1287 are the third's: a responsive minority can set
+    a revenue design; narrow optimizers value weakening their constraints.
+  - CLAIM-652 and CLAIM-662 are named for the fourth. The fourth's step
+    about penalized discovery is CLAIM-1064's exact result, which A
+    attributes to CLAIM-662 (the filing's U5–U8 drafter found this); both
+    are members, CLAIM-1064 for the step A states and CLAIM-662 for the
+    count it rests on.
+  - CLAIM-1293 and CLAIM-1270 are the fifth's.
+  - SYNTHESIS-052 and SYNTHESIS-094 are accounts and cannot carry the
+    field; "will-organization" and "Luria" are a line and a tool.
+- **The exchange's own claims join at a membership pass** once
+  dmarx/nucleation#837 has merged into staging, since a unit that cites
+  another's temporary codes lands after it: the owner's U4 claim, A8's
+  thesis and its shaped-demand claim, optimization jurisdiction, selection
+  convergence, the four metric failures and the four sources of an
+  apparent objective are the candidates. That pass reads them against the
+  outline as this one did.
+
+## Alternatives
+
+- **Two works**, one per title. Rejected: A11 §IX keeps A8's subtitle and
+  thesis, and splitting them would divide one argument's members between
+  two works with the same claims.
+- **An article of governance-of-becoming.** That series (the owner's,
+  proposed 2026-11-24) already holds six of these members, and its thesis
+  includes that "exploitation, domination and agency without answerability
+  can arise from success". It is the strongest alternative: the owner may
+  rule that this manuscript is one of its articles, in which case the
+  members move there and this term is retired by status. It is not taken
+  here because the outline argues from optimization and its jurisdiction,
+  not from individuation, and names the alignment problem as its audience.
+- **No work.** The members sit in four lines (organizational-normativity,
+  dependence-and-domination, distributed-agency, rightful-power), and no
+  line groups them.
+
+## Consequences
+
+- Eleven held claims join the work, each with a history note and a
+  version bump and no other change: CLAIM-482, CLAIM-1252, CLAIM-1334,
+  CLAIM-348, CLAIM-658, CLAIM-1287, CLAIM-652, CLAIM-662, CLAIM-1064,
+  CLAIM-1293, CLAIM-1270.
+- A membership pass follows dmarx/nucleation#837's merge.
+- `luria.yaml` changes; the change waits on the owner's merge.
