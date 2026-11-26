@@ -24,6 +24,7 @@ line:
 - record-as-apparatus
 advances:
 - CLAIM-tmpdid0k
+- QUESTION-tmpz8xkx
 summary: >-
   A34: "Prototype a tracing collector using Luria's existing `patterns` and
   `views`. Declare provisional roots such as current syntheses, ongoing

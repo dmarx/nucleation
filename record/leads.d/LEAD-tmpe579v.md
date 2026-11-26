@@ -23,6 +23,8 @@ line:
 - record-as-apparatus
 advances:
 - CLAIM-tmpdid0k
+- QUESTION-tmpz8xkx
+- CLAIM-tmp48l62
 presupposes:
 - LEAD-tmpn6mi2
 - LEAD-tmp79qro
