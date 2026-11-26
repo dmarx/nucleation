@@ -20,7 +20,14 @@ statement: >-
   preconditioned descent toward ridge regression for deeper linear and
   softmax models; a mesa-layer that solves that regression exactly by
   recursive least squares matches or beats the deep models
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-26'
+  note: >-
+    At the owner's prompting, the reading's bearings on the record's own
+    claims and questions were filed: it corroborates CLAIM-118, and it bears
+    on QUESTION-020 and QUESTION-161. The account is unchanged.
 tags:
 - learning-theory
 - representation-learning
@@ -31,6 +38,10 @@ extends:
 - THEORY-169
 bears_on:
 - QUESTION-159
+- QUESTION-020
+- QUESTION-161
+corroborates:
+- CLAIM-118
 summary: >-
   von Oswald et al. (2023), [LIT-tmpuv16r](../literature.d/LIT-tmpuv16r.md), read in [NOTE-tmpcktnn](../notes.d/NOTE-tmpcktnn.md). The exact
   part is Proposition 1, a one-layer gradient-step identity, together with
