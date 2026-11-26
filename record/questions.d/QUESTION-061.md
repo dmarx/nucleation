@@ -153,3 +153,14 @@ self-attribution comes apart from the control it purports to report, which is
 the separability the third quantity asserts. It bears on that quantity, not on
 this question's own subject, which is whether conscious *access* in a brain is
 one exclusive broadcast. The question is unchanged.
+
+## Note of 2026-11-26: format, not content
+
+<!-- inactive-ok-block: CLAIM-tmpj88da — new; the claim this note reports -->
+
+Bears on the question in language models. In THEORY-865 (NOTE-1069), a
+content can be read by some consumers (continuation, line wrapping)
+outside the workspace and by others (report, flexible inference) only
+once inside it. So access there is graded by consumer, not one broadcast.
+CLAIM-tmpj88da `bears_on` this question. The brain case is untouched. No
+status change.

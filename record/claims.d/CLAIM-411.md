@@ -201,3 +201,15 @@ None meets its defeater.
 - Lyre ([THEORY-880](../theory.d/THEORY-880.md)) separates neural correlates of content from a
   general correlate of consciousness. That concedes the gap from the
   structuralist side.
+
+## Note of 2026-11-26: format, not content
+
+<!-- inactive-ok-block: CLAIM-tmpj88da — new; the claim this note reports -->
+
+A candidate for the further property this claim asks the constitutive
+thesis to name. CLAIM-tmpj88da reads the J-space results (THEORY-865,
+NOTE-1069) as showing that apparently unconscious processing is use of the
+same content outside the format that flexible consumers read. The
+candidate is that format, together with its consumers. It is measurable by
+swaps and not by report. Whether it makes an interpretation experiential is
+not settled, so the claim's question stays open. No status change.
