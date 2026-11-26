@@ -144,9 +144,8 @@ possible example for the term.
 
 ## Note of 2026-11-26: Niebudek and Iniewicz (2023), read
 
-<!-- inactive-ok-block: THEORY-tmpigigb NOTE-tmptx4q4 LIT-tmpdbb0m — new; the reading this note reports -->
 
-Cases for each sense, by report, from LIT-tmpdbb0m (NOTE-tmptx4q4):
+Cases for each sense, by report, from [LIT-tmpdbb0m](../literature.d/LIT-tmpdbb0m.md) ([NOTE-tmptx4q4](../notes.d/NOTE-tmptx4q4.md)):
 
 - **Held:** men at community meetings assume F3 "is submissive because you
   are a female".
@@ -154,6 +153,6 @@ Cases for each sense, by report, from LIT-tmpdbb0m (NOTE-tmptx4q4):
   think worse of her dominance than of her being a lesbian.
 - **Appropriated:** "internalized kinkphobia".
 - **Concealment** under an expected judgement the person has not taken on
-  is the pattern of CASE-142.
+  is the pattern of [CASE-142](../cases.d/CASE-142.md).
 
 No change to the term.

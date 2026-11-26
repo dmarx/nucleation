@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read in full 2026-11-26 (NOTE-tmptx4q4); worth reading for practitioners'' own words separating a role confined to a scene from identification that reaches everyday life and self-description, which give cases for the record''s questions on constitutive perspectives. Read its "continuum" as proposed, not shown, and its model as unvalidated.'
+status_note: 'read in full 2026-11-26 ([NOTE-tmptx4q4](../notes.d/NOTE-tmptx4q4.md)); worth reading for practitioners'' own words separating a role confined to a scene from identification that reaches everyday life and self-description, which give cases for the record''s questions on constitutive perspectives. Read its "continuum" as proposed, not shown, and its model as unvalidated.'
 title: "Between a role and identification. Understanding BDSM practices from practitioners' perspective"
 version: 2
 history:
@@ -33,11 +33,11 @@ summary: >-
   grounded-theory interviews distinguish identification with a BDSM role,
   which reaches everyday life and self-description, from a role taken up
   only for a scene, and propose a continuum between them and a stage model
-  of defining one's sexuality. THEORY-tmpigigb holds the account. It supplies cases
-  for QUESTION-260 and QUESTION-257, and for TERM-075's senses, without
+  of defining one's sexuality. [THEORY-tmpigigb](../theory.d/THEORY-tmpigigb.md) holds the account. It supplies cases
+  for [QUESTION-260](../questions.d/QUESTION-260.md) and [QUESTION-257](../questions.d/QUESTION-257.md), and for [TERM-075](../terms.d/TERM-075.md)'s senses, without
   answering them.
 ---
-<!-- inactive-ok-file: NOTE-tmptx4q4 THEORY-tmpigigb — new; this work's reading and account -->
+<!-- inactive-ok-file: THEORY-tmpigigb — new; this work's reading and account -->
 
 # LIT-tmpdbb0m: Between a role and identification. Understanding BDSM practices from practitioners' perspective
 
@@ -53,4 +53,4 @@ Niebudek and Iniewicz (2023), Psychiatria Polska 57(1), 121–146.
 
 ## Standing in the record
 
-Read in NOTE-tmptx4q4. Its account is THEORY-tmpigigb.
+Read in [NOTE-tmptx4q4](../notes.d/NOTE-tmptx4q4.md). Its account is [THEORY-tmpigigb](../theory.d/THEORY-tmpigigb.md).

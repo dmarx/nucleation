@@ -24,8 +24,7 @@ summary: >-
   needs, then belonging to the community, then identification or role. It
   also reports attributions, concealment and internalized stigma.
 ---
-<!-- inactive-ok-file: LIT-tmpdbb0m THEORY-tmpigigb — new; the work and the account this reading yields -->
-<!-- inactive-ok-file: CLAIM-196 CLAIM-543 TERM-099 TERM-166 — Proposed; entries this reading bears on -->
+<!-- inactive-ok-file: CLAIM-196 TERM-166 — Proposed; entries this reading bears on -->
 
 # NOTE-tmptx4q4: Between a role and identification. Understanding BDSM practices from practitioners' perspective
 
@@ -91,7 +90,7 @@ A small descriptive study. It names a distinction, identification versus role, a
 
 ## Bearing on the record
 
-- **QUESTION-260 (supplies cases and a candidate marker; does not
+- **[QUESTION-260](../questions.d/QUESTION-260.md) (supplies cases and a candidate marker; does not
   answer).** Identification, "present also when the role is not assumed"
   and reaching "everyday life", against a role confined to a scene, is a
   person-level analogue of a constitutive perspective against an
@@ -100,37 +99,37 @@ A small descriptive study. It names a distinction, identification versus role, a
   object to the dichotomy. At most it makes constitutiveness a matter of
   degree. Two cautions:
   1. The data are self-descriptions, represented perspectives in
-     TERM-072's sense 2, not evidence about practical organization.
+     [TERM-072](../terms.d/TERM-072.md)'s sense 2, not evidence about practical organization.
   2. The same participants describe their role both ways (M1: "only a
      master", and "a game"). That fits two dimensions, self-description
      and scope of enactment, better than one continuum.
-- **QUESTION-257 and CLAIM-421 (supply cases).**
+- **[QUESTION-257](../questions.d/QUESTION-257.md) and [CLAIM-421](../claims.d/CLAIM-421.md) (supply cases).**
   - A role confined to scenes is held but not engaged between scenes, by
     arrangement. That is a loss of activation with the conditions intact,
     because the scene is the condition.
   - Participants between partners are closer to having lost the
     conditions, while their identification continues.
   - The community stage is where social reproduction would sit.
-- **TERM-075 (cases of each sense, by report).**
+- **[TERM-075](../terms.d/TERM-075.md) (cases of each sense, by report).**
   - Held: others' attribution of submissiveness to F3 because she is a
     woman.
   - Imagined audience: F3's feared "social group".
   - Appropriated: "internalized kinkphobia".
   - Concealment under an expected judgement the person has not taken on is
-    the pattern of CASE-142.
-- **CLAIM-196 (a case).** A "double life", and concealment against coming
+    the pattern of [CASE-142](../cases.d/CASE-142.md).
+- **[CLAIM-196](../claims.d/CLAIM-196.md) (a case).** A "double life", and concealment against coming
   out, are roles kept in disjoint contexts, and those contexts then
   collapse.
-- **TERM-099 (a parallel).** Participants frame their path as discovery,
+- **[TERM-099](../terms.d/TERM-099.md) (a parallel).** Participants frame their path as discovery,
   so the paper cannot tell self-formation from a disposition held all
   along.
-- **CLAIM-543 and CLAIM-454 (parallels).** F6's "You need to earn it"
+- **[CLAIM-543](../claims.d/CLAIM-543.md) and [CLAIM-454](../claims.d/CLAIM-454.md) (parallels).** F6's "You need to earn it"
   shows one partner's role conditioning the other's, so the roles in a
   dyad are not exchangeable. And one label can be one person's identity
   and another's game.
-- **QUESTION-043 (a case, no measure).** F3 re-reads her childhood games as
+- **[QUESTION-043](../questions.d/QUESTION-043.md) (a case, no measure).** F3 re-reads her childhood games as
   early dominance, a life story absorbing new content.
-- **TERM-166:** no bearing.
+- **[TERM-166](../terms.d/TERM-166.md):** no bearing.
 
 ## Limitations
 

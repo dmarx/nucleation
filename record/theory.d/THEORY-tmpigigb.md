@@ -27,17 +27,16 @@ bears_on:
 - QUESTION-260
 - QUESTION-257
 summary: >-
-  Niebudek and Iniewicz (2023), LIT-tmpdbb0m, read in NOTE-tmptx4q4. Proposed: the sample is
+  Niebudek and Iniewicz (2023), [LIT-tmpdbb0m](../literature.d/LIT-tmpdbb0m.md), read in [NOTE-tmptx4q4](../notes.d/NOTE-tmptx4q4.md). Proposed: the sample is
   small and self-selected, the continuum is assumed before it is
   confirmed, and no participant is placed on it. It supplies cases for
-  QUESTION-260 and QUESTION-257 without answering either. The wording is
+  [QUESTION-260](../questions.d/QUESTION-260.md) and [QUESTION-257](../questions.d/QUESTION-257.md) without answering either. The wording is
   the reader's, revised by the filer; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: LIT-tmpdbb0m NOTE-tmptx4q4 — new; the work and its reading -->
 
 # THEORY-tmpigigb: BDSM self-definition spans scene roles to identification
 
-Niebudek and Iniewicz, "Between a role and identification" (2023), LIT-tmpdbb0m.
+Niebudek and Iniewicz, "Between a role and identification" (2023), [LIT-tmpdbb0m](../literature.d/LIT-tmpdbb0m.md).
 
 ## The account
 
