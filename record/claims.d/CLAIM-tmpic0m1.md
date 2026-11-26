@@ -40,7 +40,7 @@ uses:
 - TERM-101
 - TERM-103
 summary: >-
-  The owner, 2026-11-26, on CLAIM-tmphyvh3's defeater: "a necessary
+  The owner, 2026-11-26, on [CLAIM-tmphyvh3](CLAIM-tmphyvh3.md)'s defeater: "a necessary
   consequence of this is that valence emerges from authority structure,
   since that's how we encode how negotiations are settled." The thesis is
   the owner's. The wide sense of authority structure, the rankings clause
@@ -49,13 +49,13 @@ summary: >-
   owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmphyvh3 — new; the claim this one rests on -->
-<!-- inactive-ok-file: CLAIM-442 CLAIM-443 CLAIM-432 TERM-076 QUESTION-054 — Proposed; cited with their standing -->
+<!-- inactive-ok-file: CLAIM-442 CLAIM-432 TERM-076 — Proposed; cited with their standing -->
 
 # CLAIM-tmpic0m1: Valence emerges from authority structure
 
 ## The claim
 
-CLAIM-tmphyvh3 makes valence a disposition and puts its ground in the
+[CLAIM-tmphyvh3](CLAIM-tmphyvh3.md) makes valence a disposition and puts its ground in the
 organization's standing authority structure. The owner draws the
 consequence: "valence emerges from authority structure, since that's how
 we encode how negotiations are settled."
@@ -63,18 +63,18 @@ we encode how negotiations are settled."
 The consequence follows from that premise with two qualifications. Each is
 needed for it to hold.
 
-1. **Authority in the wide sense.** CLAIM-283 says that a claim can outrun
+1. **Authority in the wide sense.** [CLAIM-283](CLAIM-283.md) says that a claim can outrun
    its grant and still govern, as in impulsive action. If "authority
-   structure" meant only maintained grants (TERM-101), such contests would
+   structure" meant only maintained grants ([TERM-101](../terms.d/TERM-101.md)), such contests would
    be settled by something other than authority, and the consequence would
    fail. It holds with the wide sense: the standing distribution of
    influence over contests, of which maintained grants are the part the
-   organization keeps, and conferral (TERM-103) is how that distribution
+   organization keeps, and conferral ([TERM-103](../terms.d/TERM-103.md)) is how that distribution
    changes.
 2. **Authority applied to rankings.** Authority fixes *whose* verdict
    prevails in which contests. The verdict's content comes from that
    perspective's ranking. Valence emerges from the pair, authority over
-   rankings, and not from authority alone. TERM-076's kind clause, that
+   rankings, and not from authority alone. [TERM-076](../terms.d/TERM-076.md)'s kind clause, that
    the prevailing ordering ranks states by their bearing on maintenance,
    is then a further fact about which rankings authority favours.
 
@@ -82,14 +82,14 @@ needed for it to hold.
 
 - **Two routes of change.** Valence changes when rankings change, and also
   when authority is redistributed with the rankings fixed. The second
-  route is CLAIM-442's mindfulness case, a change in grants with the claims
+  route is [CLAIM-442](CLAIM-442.md)'s mindfulness case, a change in grants with the claims
   held fixed, which now follows from the account.
-- **Affect is designed through governance.** CLAIM-432 says a
+- **Affect is designed through governance.** [CLAIM-432](CLAIM-432.md) says a
   corporation's profile of "threat without remorse" is "changed by
   redesigning the corporation's concerns". On this claim it can also be
   changed by redesigning who has authority over which contests. That ties
   the organizational-affect line to the will-organization line.
-- **History.** Authority is built from past settlements, as in CLAIM-443's
+- **History.** Authority is built from past settlements, as in [CLAIM-443](CLAIM-443.md)'s
   learned prior over which processes govern, whose bias is trained by
   reward-modulated updates. Valence is then the sediment of the
   organization's past negotiation, carried forward in its authority
@@ -107,4 +107,4 @@ contest, and not by the outcomes of contests.
 
 That valence is authority structure: it is authority applied to rankings.
 Nor whether authority sits in one arbiter or is distributed among the
-claimants (QUESTION-054).
+claimants ([QUESTION-054](../questions.d/QUESTION-054.md)).
