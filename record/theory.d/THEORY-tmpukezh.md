@@ -14,7 +14,7 @@ date: '2026-11-26'
 source:
 - LIT-tmpp11wp
 bears_on:
-- QUESTION-tmppt23x
+- QUESTION-544
 summary: >-
   Fridlund, *Human Facial Expression: An Evolutionary View* (1994). The account the record expects to draw from the work,
   attributed at the owner's direction of 2026-11-26 ("even deferred, you

@@ -6,7 +6,7 @@
 
 **Nucleation as a Case Study in Applying Luria beyond Software Development** — Article 2 of A45 of the exchange "Hyper article interpretation" (2026-11-25), the atlas's second entry point: the record as the operational demonstration of the theory through luria. Why a transcript is not enough, what luria maintains, the grammar Nucleation needed, the graph that invented a dependency, the record's history of revising its representation, sources against views, and what the added structure costs. Its argument is held mainly in record-as-apparatus and records-of-inquiry, beside the manuscript from-obstruction-to-reorganization (ADR-145).
 
-7 of 1346 CLAIM documents. Back to the [full index](../README.md).
+7 of 1349 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

@@ -6,7 +6,7 @@
 
 **Disbelieved** — tested and failed, or contradicted by later work — and the thing it explained may still work perfectly well.
 
-12 of 1346 CLAIM documents. Back to the [full index](../README.md).
+12 of 1349 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

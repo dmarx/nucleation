@@ -2,7 +2,7 @@
 status: Proposed
 title: 'Claimed and granted readiness are one kind at two levels'
 statement: >-
-  QUESTION-tmppt23x's alternatives A, affect as the claim side, and B,
+  QUESTION-544's alternatives A, affect as the claim side, and B,
   affect as any concern-relative ordering with precedence whether claimed or
   granted, are one kind: affect is action readiness, formalized as
   concern-relative potentiation with precedence, and claim and grant name
@@ -27,7 +27,7 @@ date: '2026-11-26'
 line:
 - organizational-affect
 answers:
-- QUESTION-tmppt23x
+- QUESTION-544
 rests_on:
 - CLAIM-tmpaqezl
 - CLAIM-283
@@ -37,20 +37,20 @@ uses:
 - TERM-094
 - TERM-076
 summary: >-
-  The owner, 2026-11-26, on alternatives A ([CLAIM-tmpy367s](CLAIM-tmpy367s.md)) and B
-  ([CLAIM-tmp8ikja](CLAIM-tmp8ikja.md)): "I'm not convinced these are two different things.
+  The owner, 2026-11-26, on alternatives A ([CLAIM-1349](CLAIM-1349.md)) and B
+  ([CLAIM-1348](CLAIM-1348.md)): "I'm not convinced these are two different things.
   Maybe I'm misunderstanding what "action readiness means", but I posit
   that (B) satisfies a formalization of it." Filed as alternative E, which
   merges A and B. The thesis is the owner's. Reading claim and grant as
   levels is the assistant's (Claude, in this session). Adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpy367s CLAIM-tmp8ikja CLAIM-tmps1h34 CLAIM-tmpaqezl — new; the question, the two alternatives this merges, alternative D, and the claims it rests on -->
+<!-- inactive-ok-file: CLAIM-1349 CLAIM-1348 CLAIM-tmps1h34 CLAIM-tmpaqezl — new; the question, the two alternatives this merges, alternative D, and the claims it rests on -->
 <!-- inactive-ok-file: TERM-076 CLAIM-442 CLAIM-439 — Proposed; cited with their standing -->
 
 # CLAIM-tmp85bhw: Claimed and granted readiness are one kind at two levels
 
-*Alternative E to [QUESTION-tmppt23x](../questions.d/QUESTION-tmppt23x.md), the owner's. It merges A ([CLAIM-tmpy367s](CLAIM-tmpy367s.md)) and B ([CLAIM-tmp8ikja](CLAIM-tmp8ikja.md)).*
+*Alternative E to [QUESTION-544](../questions.d/QUESTION-544.md), the owner's. It merges A ([CLAIM-1349](CLAIM-1349.md)) and B ([CLAIM-1348](CLAIM-1348.md)).*
 
 ## The claim
 

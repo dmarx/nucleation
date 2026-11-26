@@ -57,7 +57,7 @@ the usage is not a conflation with affect but a different, older sense of
 "valence". The record now has three words in play:
 
 - **Affect.** On alternative D ([CLAIM-tmps1h34](CLAIM-tmps1h34.md)) it is a perspective's
-  concern-relative state. [QUESTION-tmppt23x](../questions.d/QUESTION-tmppt23x.md) keeps the question open.
+  concern-relative state. [QUESTION-544](../questions.d/QUESTION-544.md) keeps the question open.
 - **Goal-conduciveness valence** ([TERM-076](../terms.d/TERM-076.md)). The sign of the system's
   position along the ordering that prevails: ahead of or behind a
   reference course.
