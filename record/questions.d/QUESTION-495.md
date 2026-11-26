@@ -137,3 +137,14 @@ investing in it is always better and so no amount is best
 narrows what would answer the question: a definition must declare an
 evaluator across valuations, or bound the growth of learnability. No
 status change.
+
+## Note of 2026-11-26: Veeriah et al. (2019), read
+
+<!-- inactive-ok-block: THEORY-tmpl9xun NOTE-tmpibrnu LIT-tmpl1kcf — new; the reading this note reports -->
+
+Bears on the question. LIT-tmpl1kcf (NOTE-tmpibrnu) invests in future
+learnability directly: it chooses what to predict by its effect on later
+learning, and shows that valuing only the immediate effect fails. The
+valuation is one fixed task over a truncated horizon, so the question's
+hard part, consequences that cannot be specified in advance, is not
+reached. THEORY-tmpl9xun `bears_on` this question. No status change.

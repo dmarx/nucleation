@@ -96,3 +96,13 @@ its query family can.
 ## Standing
 
 Proposed, in A's voice.
+
+## Note of 2026-11-26: Veeriah et al. (2019), read
+
+<!-- inactive-ok-block: THEORY-tmpl9xun NOTE-tmpibrnu LIT-tmpl1kcf — new; the reading this note reports -->
+
+Qualifies by contrast. In LIT-tmpl1kcf (NOTE-tmpibrnu) bad questions are
+fully detectable, because a declared main task scores every question
+through the meta-gradient, and the method depends on that signal. This
+claim's hard case is the one with no such downstream signal, and the paper
+does not reach it. No status change.

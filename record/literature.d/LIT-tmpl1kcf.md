@@ -1,9 +1,14 @@
 ---
-status: Deferred
-status_note: 'Registered 2026-11-26 at the owner''s request ("read and file" the NeurIPS 2019 proceedings page); being read.'
+status: Active
+status_note: 'read in full 2026-11-26 (NOTE-tmpibrnu), from the NeurIPS published PDF and appendix; worth reading as the first demonstration that auxiliary-task targets can be meta-learned by non-myopic meta-gradients and suffice to build a representation. Read its "on their own" with the caveat that the question network is itself trained on the main-task loss, and its joint-training gains as subset results.'
 title: 'Discovery of Useful Questions as Auxiliary Tasks'
-version: 1
+version: 2
 history:
+- version: 2
+  date: '2026-11-26'
+  note: >-
+    Read in full (NOTE-tmpibrnu). Status set from the reading: Active.
+    The summary is rewritten from the reading.
 - version: 1
   date: '2026-11-26'
   note: >-
@@ -27,14 +32,15 @@ keywords: ['general value functions', 'auxiliary tasks', 'meta-gradients', 'ques
 implementations: []
 summary: >-
   Veeriah, Hessel, Xu, Lewis, Rajendran, Oh, van Hasselt, Silver and Singh
-  (2019), NeurIPS 32, arXiv 1909.04607. The abstract says an RL agent can
-  discover its own questions, formulated as general value functions, by
-  non-myopic meta-gradients that choose questions whose answers, learned as
-  auxiliary tasks, induce representations useful for the main task.
-  Registered at the owner's request against [CLAIM-754](../claims.d/CLAIM-754.md)'s inquiry frontier,
-  [CLAIM-756](../claims.d/CLAIM-756.md) and [QUESTION-495](../questions.d/QUESTION-495.md). What the abstract says is unverified until
-  read.
+  (2019), NeurIPS 32, arXiv 1909.04607. A question network meta-learns the
+  cumulants and discounts of 128 on-policy general value functions, by
+  gradients unrolled through ten main-task updates. Predicting them alone
+  builds representations that reach the main-task-trained reference on
+  gridworlds and six Atari games, more slowly. Myopic meta-gradients fail.
+  THEORY-tmpl9xun holds the account. It corroborates CLAIM-756 and bears
+  on QUESTION-495. It is only a parallel to CLAIM-754's inquiry frontier.
 ---
+<!-- inactive-ok-file: NOTE-tmpibrnu THEORY-tmpl9xun — new; this work's reading and account -->
 
 # LIT-tmpl1kcf: Discovery of Useful Questions as Auxiliary Tasks
 
@@ -42,8 +48,14 @@ Veeriah et al. (2019), NeurIPS 32; arXiv 1909.04607.
 
 ## Key takeaways
 
-- Not read.
+- Auxiliary-task targets (GVF "questions") can be meta-learned, and with
+  the encoder trained only on their answers they build a usable
+  representation, slowly.
+- Valuing questions myopically (k = 1 or 2) fails. Very long horizons do
+  worse too.
+- The "questions" are prediction targets for one fixed task, never
+  inspected.
 
 ## Standing in the record
 
-Registered at the owner's request. Unread, it grounds nothing.
+Read in NOTE-tmpibrnu. Its account is THEORY-tmpl9xun.
