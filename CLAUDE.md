@@ -153,7 +153,7 @@ concretizes the batch's codes, regenerates the views, and merges main back
 into staging ([ADR-116](record/decisions.d/ADR-116.md)). **Merge a back-merge, or any pull request that
 brings main into staging, with a merge commit, never a squash**: a squash
 keeps the files but drops main as a parent, so staging and main still read
-as diverged and the next promotion conflicts again (RETRO-tmpd9oti). Only that workflow, or the owner, merges into
+as diverged and the next promotion conflicts again ([RETRO-tmpd9oti](record/retrospectives.d/RETRO-tmpd9oti.md)). Only that workflow, or the owner, merges into
 main. Whenever staging differs from main, a pull request from staging into main is
 open for the owner's review; the Promotion PR workflow opens it on a push to
 staging ([ADR-125](record/decisions.d/ADR-125.md)). When you merge into staging, add the choices waiting
