@@ -19,7 +19,7 @@ summary: >-
   answers, filed for the owner to choose among.
 ---
 <!-- inactive-ok-file: CLAIM-039 CLAIM-440 CLAIM-442 CLAIM-527 CLAIM-435 CLAIM-446 CLAIM-1233 TERM-076 THEORY-101 — Proposed; the entries this question asks about, with their standing -->
-<!-- inactive-ok-file: CLAIM-tmpy367s CLAIM-tmp8ikja CLAIM-tmp23xa5 — new; the alternative answers filed with this question -->
+<!-- inactive-ok-file: CLAIM-tmpy367s CLAIM-tmp8ikja CLAIM-tmp23xa5 CLAIM-tmps1h34 — new; the alternative answers filed with this question -->
 
 # QUESTION-tmppt23x: What is affect, as the kind the record's affective entries are kinds of: claims to precedence, any concern-relative regime claimed or granted, or no single kind?
 
@@ -74,6 +74,9 @@ grant side.
 - [CLAIM-tmp8ikja](../claims.d/CLAIM-tmp8ikja.md), alternative B: affect is any concern-relative ordering
   with control precedence, claimed or granted.
 - [CLAIM-tmp23xa5](../claims.d/CLAIM-tmp23xa5.md), alternative C: "affect" names no single kind.
+- CLAIM-tmps1h34, alternative D, the owner's proposal of 2026-11-26:
+  affect is a perspective's concern-relative state, valence its sign, and
+  emotion the act of communicating it as a claim to precedence.
 
 The question and the alternatives are the assistant's (Claude, in this
 session); which, if any, the record adopts is the owner's call.
