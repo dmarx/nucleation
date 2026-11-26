@@ -4,7 +4,14 @@ status: Open
 formerly:
 - LEAD-tmp6do6f
 title: 'Count, from the record''s git history, how often each claim takes a substantive revision before and after its first inbound rests_on or grounds edge, to see whether entries settle as relations accrue'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-26'
+  note: >-
+    A dated note: the owner's U18 and A34's first pilot in the
+    exchange 'Alignment consequences brainstorm' (ChatGPT, 2026-11-26)
+    build on this lead's scripts (see the note). No other change.
 stage: specified
 priority: medium
 method:
@@ -72,3 +79,19 @@ sample.
 ## Note of 2026-11-22: run
 
 Run as specified ([CASE-307](../cases.d/CASE-307.md); scripts, data and hand-checks under scratch/studies/lead-199/). At matched age, cited claims are revised more often than uncited ones, which meets [CLAIM-778](../claims.d/CLAIM-778.md)'s defeater (a); readings filed as [CLAIM-864](../claims.d/CLAIM-864.md) and [CLAIM-863](../claims.d/CLAIM-863.md). The lead stays Open for the owner to mark Done; what remains, by [CLAIM-768](../claims.d/CLAIM-768.md), is [LEAD-201](LEAD-201.md)'s retention measure, and for [CLAIM-863](../claims.d/CLAIM-863.md) a count of audits.
+
+## Note of 2026-11-26: the base of the temporal dependency graph
+
+The owner's U18 in the exchange "Alignment consequences brainstorm" (ChatGPT,
+2026-11-26), "maybe we can use git to derive edit histories for each file and
+then from that we could model things like interaction intensity, prose
+stability, neighborhood influence", became A34's first pilot, filed as
+LEAD-tmpn6mi2. This lead's scripts (scratch/studies/lead-199/) are its base:
+`extract.py` already follows claims through their temporary codes and
+`formerly:` and replays inbound `rests_on` and `grounds` edges, setting aside
+CI repair, promotion and concretization commits, and `classify.py` already
+separates substantive revisions from dated notes and normalised markup. LEAD-tmpn6mi2 widens the extraction to every relation field,
+status and the other schemes, and its first check is to reproduce CASE-307 on
+this lead's window. A33's suggested extraction, `git log main --first-parent`,
+would see only the nightly promotions, so the new lead keeps this lead's walk
+over staging's commits. This lead's status is unchanged.

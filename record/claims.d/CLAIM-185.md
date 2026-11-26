@@ -8,7 +8,7 @@ statement: >-
   The nucleation threshold of an argument is whatever makes a structure
   persist: a persistent structure is available as an anchor, and more
   complex structure can evolve only on anchors
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-14'
@@ -33,6 +33,12 @@ history:
   date: '2026-11-22'
   note: >-
     A dated note: the LEAD-176 readings of 2026-11-22 (see the note). No other change.
+- version: 5
+  date: '2026-11-26'
+  note: >-
+    A dated note: the exchange 'Alignment consequences brainstorm'
+    (ChatGPT, 2026-11-26), A33 §17 and A34's H1 (see the note). No
+    other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -70,6 +76,7 @@ complements:
 - CLAIM-195
 - CLAIM-182
 ---
+<!-- inactive-ok-file: CLAIM-tmpk015q CLAIM-tmp4fc0k CASE-307 — Proposed or Open; filed from the exchange 'Alignment consequences brainstorm' on 2026-11-26, cited in its dated note -->
 <!-- inactive-ok-file: LIT-1926 — Unavailable since 2026-11-22; the book LEAD-176's neighbour stands in for, cited in its dated note -->
 <!-- inactive-ok-file: THEORY-307 — Proposed; the second account filed from LIT-787, cited as an ancestor and not leaned on -->
 <!-- inactive-ok-file: CLAIM-181 — Proposed; open, and cited as open: the claims of the nucleating-argument line are under test, not settled -->
@@ -363,3 +370,17 @@ reporting A's (ChatGPT's) text; adopting what it reports is the owner's
 call.
 
 <!-- inactive-ok-file: CLAIM-1218 — Proposed or Deferred; cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity' (A1–A6), whatever its standing -->
+
+## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U17–A34)
+
+A33 §17 maps this line's concepts to signatures in the record's own git
+history: "Nucleation" as the "Formation of a persistent, addressable
+structure", "Individuation" as "Stabilization with sustained downstream use",
+"Entrenchment" as "Continued dependence despite replacement or correction".
+A34's H1 (CLAIM-tmpk015q) is this claim's thesis made measurable on the
+record's entries: if persistent structures are what later structure grows on,
+the history should show entries that settle and then carry growth.
+LEAD-tmpn6mi2 and LEAD-tmp14mq0 would look. CLAIM-tmp4fc0k (the assistant's)
+says why the record's first measurement, CASE-307, already complicates the
+reading: cited claims are revised more, not less. A bearing as a proposed
+test. No status change.

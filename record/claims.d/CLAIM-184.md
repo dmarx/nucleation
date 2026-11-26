@@ -9,7 +9,7 @@ statement: >-
   so that later structure grows on it and alternatives become hard to reach,
   and retirement by status is the record's remedy only if superseded anchors
   stop attracting new structure
-version: 6
+version: 8
 history:
 - version: 2
   date: '2026-10-29'
@@ -51,6 +51,17 @@ history:
   date: '2026-11-22'
   note: >-
     A dated note: the LEAD-176 readings of 2026-11-22 (see the note). No other change.
+- version: 7
+  date: '2026-11-26'
+  note: >-
+    A dated note: the exchange 'Alignment consequences brainstorm'
+    (ChatGPT, 2026-11-26), A31 §2 and A33 (see the note). No other
+    change.
+- version: 8
+  date: '2026-11-26'
+  note: >-
+    A dated note: the exchange 'Alignment consequences brainstorm' (ChatGPT,
+    2026-11-26), U15 and A27 (see the note). No other change.
 role: counter
 warrant: interpretive
 tags:
@@ -312,3 +323,30 @@ Sharon 2023 ([LIT-1935](../literature.d/LIT-1935.md), [NOTE-2363](../notes.d/NOT
 
 Neither bears on the claim's clause about the record's remedy. No status
 change.
+
+## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U17–A34)
+
+A31 §2 proposes a pattern, `retired_anchor`, for Active claims that rest on
+a Superseded one, and says it "directly tests" this claim's entrenchment
+hypothesis. It does not test the claim's own question. The test the claim
+names, citations of each Superseded entry made after its retirement, was run
+on 2026-11-06 and answered the clause on the record's remedy. The pattern asks
+a narrower question about the present state: is any Active claim still
+resting on a Superseded one? Loaded into luria 1.11.0 against the working tree
+of 2026-11-26, it returns no row. That agrees with the count of 2026-11-06 and
+adds nothing to it.
+
+A31's next sentence names what would add: "A historical replay using Git would
+additionally distinguish dependencies formed before retirement from those
+formed afterward." That is the remedy for the first caveat of 2026-11-06, that
+citations were dated without git history. LEAD-tmpn6mi2's event log dates every
+relation added to a Superseded entry by its commit, so the count can be redone
+with git dates. A33's "Entrenchment" row (continued dependence despite
+replacement or correction) is the same measure. Neither reaches the claim's
+first half, that an early anchor makes alternatives hard to reach, nor the loop
+TERM-020 requires. No status change.
+
+## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U15–A27), retirement's remedy and the owner's controlled forgetting
+<!-- inactive-ok-file: CLAIM-tmpu1fef QUESTION-tmpz8xkx TERM-tmp96b3g — Proposed or Open; filed from the same exchange on 2026-11-26 -->
+
+The owner's U15 (CLAIM-tmpu1fef) names a cost this claim's remedy leaves: "retired and superseded content still impacts retrieval cost and discoverability". This claim asks whether superseded anchors stop attracting new structure; the owner's point is that they go on costing attention even if they do. A27 §1 cites this claim for it: "It explicitly says that retirement by status works as a remedy for entrenchment only insofar as superseded anchors stop attracting new structure. That is almost exactly the deficiency you are identifying." The fit is partial: this claim is about growth on a retired anchor, the owner's about the cost of meeting it. A count made for this filing (CLAIM-tmpu1fef, "The record as it stands") puts retired entries at 1.9 % of the record's entries at commit 95013454, so the retrieval cost of retired content is small at this size, whatever its anchoring effect. An availability tier (TERM-tmp96b3g) would be a second remedy beside retirement by status: a retired anchor could be cooled, so that it is met only through its successor. QUESTION-tmpz8xkx asks when. A parallel; no edge. The note is the assistant's (Claude, in this session). No status change.
