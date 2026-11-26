@@ -3,13 +3,31 @@ number: 196
 status: Proposed
 formerly:
 - CLAIM-tmp37bdg
-title: 'Roles in disjoint contexts cannot conflict'
+title: 'Roles only respectively available in disjoint contexts cannot conflict'
 statement: >-
-  A person's roles in contexts that do not meet cannot contradict one
-  another: role conflict needs an overlap, which segregating audiences
-  prevents and collapsed contexts create
-version: 1
+  A person's roles that are each available only in its own context, where
+  those contexts do not meet, cannot contradict one another: role conflict
+  needs an overlap, a context in which both roles are available, which
+  segregating audiences prevents and collapsed contexts create; a role
+  carried beyond its context, by memory, anticipation or identification,
+  is available wherever it is carried, and can conflict there even while
+  the audiences are kept apart
+version: 2
 history:
+- version: 2
+  date: '2026-11-26'
+  note: >-
+    Qualified at the owner's word: "might want to qualify that along the
+    lines of 'Roles *that are only respectively available* in disjoint
+    contexts cannot conflict'". The condition is now that each role is
+    available only in its own context, not that the audiences are
+    disjoint. Version 1's defeater already excepted memory and
+    anticipation of the other audience. Those are now ways a role is made
+    available outside its context, stated in the claim. Version 1 was
+    titled 'Roles in disjoint contexts cannot conflict' and read: "A
+    person's roles in contexts that do not meet cannot contradict one
+    another: role conflict needs an overlap, which segregating audiences
+    prevents and collapsed contexts create".
 - version: 1
   date: '2026-10-12'
   note: >-
@@ -22,11 +40,11 @@ history:
 role: thesis
 warrant: interpretive
 defeated_if: >-
-  Evidence that a person's role presentations which differ by audience
-  produce conflict, felt or social, while the audiences are reliably kept
-  apart, with no channel by which one context reaches the other. Memory
-  or anticipation of the other audience counts as such a channel, so
-  conflict that runs through it does not defeat the claim.
+  Evidence that a person's roles, each available only in its own context,
+  produce conflict, felt or social, while the contexts are reliably kept
+  apart and neither role is carried into the other's. A role made available
+  in the other context, by memory, anticipation or identification, is an
+  overlap, so conflict through it does not defeat the claim.
 tags:
 - self
 - social-science
@@ -56,9 +74,10 @@ uses:
 - TERM-045
 ---
 <!-- inactive-ok-file: CLAIM-198 — Proposed; the diachronic partner of this claim, open -->
+<!-- inactive-ok-file: LIT-tmpdbb0m NOTE-tmptx4q4 — new; the reading cited in the version-2 section -->
 <!-- inactive-ok-file: NOTE-1432 — Skimmed; the reading of boyd the dated note cites -->
 
-# CLAIM-196: Roles in disjoint contexts cannot conflict
+# CLAIM-196: Roles only respectively available in disjoint contexts cannot conflict
 
 ## The claim
 
@@ -96,6 +115,26 @@ to a cover the person partly controls. Integrity of presentation can be achieved
 ways: by sections that agree where contexts meet, or by keeping contexts
 from meeting. The second is not deception. boyd makes the point that
 distinct contexts are how people "properly locate their performances".
+
+## Version 2: availability, not disjointness
+
+The owner's qualification puts the condition where the argument needs it.
+Disjoint audiences do not suffice. A role can travel to a context where its
+audience is absent:
+
+- by memory or anticipation of the other audience, which version 1's
+  defeater already excepted;
+- by **identification**. In LIT-tmpdbb0m (NOTE-tmptx4q4), a scene-limited
+  role is entered "only in the course of the session limited in time",
+  which is a role only respectively available. Identification is "present
+  also when the role is not assumed" and reaches "everyday life", which is
+  a role made available beyond its context.
+
+A carried role meets the person's other roles wherever it is carried. So it
+can conflict with them while the audiences stay apart. The "double life" in
+that study protects its holder only as far as the role stays put.
+Segregating audiences prevents overlaps of the first kind, between
+audiences, and not of the second, a role carried across.
 
 ## Why this record holds it
 
