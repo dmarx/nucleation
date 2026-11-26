@@ -228,3 +228,17 @@ and [CLAIM-198](CLAIM-198.md) complement it. [CLAIM-417](CLAIM-417.md), [TERM-04
 [ADR-040](../decisions.d/ADR-040.md) and [ADR-043](../decisions.d/ADR-043.md) cite it in ways version 2 leaves true. Whether this
 claim should be superseded by [CLAIM-tmprejdn](CLAIM-tmprejdn.md), or kept as its base case, is
 a status change and is left to the owner. No status change.
+
+## Note of 2026-11-26: the cover-control point, filed on its own
+
+<!-- inactive-ok-block: CLAIM-tmpw7swg — new; the claim this note points to -->
+
+At the owner's question, this claim's sentence that a presented self "is a
+global section relative to a cover the person partly controls" is filed as
+its own claim, CLAIM-tmpw7swg. Its empirical half was already CLAIM-317.
+What was not held is the structural thesis and its consequences: coherence
+is a property of roles together with the cover, there are two levers of
+repair, and loss of cover control shifts the repair onto the roles. This
+claim's body keeps the sentence as the place the idea was first stated. No
+status change.
+

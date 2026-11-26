@@ -32,6 +32,7 @@ line:
 rests_on:
 - CLAIM-153
 - CLAIM-196
+- CLAIM-tmpw7swg
 complements:
 - CLAIM-317
 - CLAIM-037
@@ -49,6 +50,7 @@ summary: >-
   predictions are the assistant's (Claude, in this session). Adopting it is
   the owner's call.
 ---
+<!-- inactive-ok-file: CLAIM-tmpw7swg — new; the cover-control claim the cure rests on -->
 <!-- inactive-ok-file: CLAIM-196 CLAIM-317 CLAIM-037 CLAIM-417 — Proposed or new; the base case, its empirical half, the contextuality definition, and the reading cited -->
 
 # CLAIM-tmprejdn: A self can be contextual: pairwise-consistent roles with no global presentation
@@ -68,7 +70,8 @@ contextuality is failure of global extension. Applied to a person's roles:
    the office, family among friends. Each meeting occasion can be met
    consistently, and still no single presentation meets all three. No pair
    of roles conflicts. The obstruction is the cycle.
-2. **The cure is to open a cycle, not to change a role.** Keeping any one
+2. **The cure is to open a cycle, not to change a role.** That is a change
+   of cover, which CLAIM-tmpw7swg makes the person's partly to control. Keeping any one
    pair of audiences apart removes the obstruction, and the demands on the
    other occasions stay exactly as they were. So segregation strategies
    that work should target cycles of meeting contexts, not pairs and not
