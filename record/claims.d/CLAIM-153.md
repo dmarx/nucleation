@@ -135,7 +135,7 @@ Background from Battiston and colleagues' review ([NOTE-2348](../notes.d/NOTE-23
 
 <!-- inactive-ok-block: CLAIM-tmprejdn — new; the claim this note points to -->
 
-Applied to presented selves in CLAIM-tmprejdn: roles consistent on every
+Applied to presented selves in [CLAIM-tmprejdn](CLAIM-tmprejdn.md): roles consistent on every
 pairwise meeting occasion, with no global presentation around a cycle of
 three contexts, checked on a parity toy
 (scratch/studies/contextual-self/triangle.py). Opening any one overlap

@@ -131,8 +131,8 @@ last clause and does not meet the defeated_if.
 
 <!-- inactive-ok-block: CLAIM-tmprejdn — new; the claim this note points to -->
 
-A consequence drawn in CLAIM-tmprejdn: collapse that brings three
+A consequence drawn in [CLAIM-tmprejdn](CLAIM-tmprejdn.md): collapse that brings three
 audiences into pairwise contact can make a presentation incoherent though
 no two audiences' presentations ever clash, because the obstruction lies on
-the cycle (CLAIM-153). Collapse can therefore harm a self in a way this
+the cycle ([CLAIM-153](CLAIM-153.md)). Collapse can therefore harm a self in a way this
 claim's "the presentations collide" does not yet name. No status change.

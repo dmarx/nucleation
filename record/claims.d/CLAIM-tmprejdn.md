@@ -38,29 +38,29 @@ complements:
 bears_on:
 - QUESTION-255
 summary: >-
-  The owner, 2026-11-26, on CLAIM-196 v2: "sort of a tautological
+  The owner, 2026-11-26, on [CLAIM-196](CLAIM-196.md) v2: "sort of a tautological
   statement though, isn't it? ... maybe the importance is drawing a
-  connection to the contextuality program?" CLAIM-196 says only that
-  conflict needs an overlap, which is CLAIM-197 for roles. The non-trivial
-  content is CLAIM-153's: two consistent contexts always glue, and the
+  connection to the contextuality program?" [CLAIM-196](CLAIM-196.md) says only that
+  conflict needs an overlap, which is [CLAIM-197](CLAIM-197.md) for roles. The non-trivial
+  content is [CLAIM-153](CLAIM-153.md)'s: two consistent contexts always glue, and the
   obstruction lives on a cycle. Applied to roles, that gives a contextual
   self, a cure by opening cycles, and incoherence without pairwise clash.
   The reframing is the owner's; the statement, the toy check and the
   predictions are the assistant's (Claude, in this session). Adopting it is
   the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-196 CLAIM-317 CLAIM-037 CLAIM-417 LIT-tmpdbb0m NOTE-tmptx4q4 — Proposed or new; the base case, its empirical half, the contextuality definition, and the reading cited -->
+<!-- inactive-ok-file: CLAIM-196 CLAIM-317 CLAIM-037 CLAIM-417 — Proposed or new; the base case, its empirical half, the contextuality definition, and the reading cited -->
 
 # CLAIM-tmprejdn: A self can be contextual: pairwise-consistent roles with no global presentation
 
 ## The claim
 
-CLAIM-196 v2 says that roles only respectively available in disjoint
+[CLAIM-196](CLAIM-196.md) v2 says that roles only respectively available in disjoint
 contexts cannot conflict. As the owner notes, that is near-tautological:
-conflict needs something to conflict on. It is CLAIM-197 ("Disjoint
+conflict needs something to conflict on. It is [CLAIM-197](CLAIM-197.md) ("Disjoint
 contexts always glue") for roles. The content the record holds beyond it
-is CLAIM-153's: "any two locally consistent contexts glue, and the minimal
-model of the obstruction needs three". CLAIM-037 states the general form:
+is [CLAIM-153](CLAIM-153.md)'s: "any two locally consistent contexts glue, and the minimal
+model of the obstruction needs three". [CLAIM-037](CLAIM-037.md) states the general form:
 contextuality is failure of global extension. Applied to a person's roles:
 
 1. **A self can be contextual.** Three contexts, say work, family and
@@ -73,11 +73,11 @@ contextuality is failure of global extension. Applied to a person's roles:
    other occasions stay exactly as they were. So segregation strategies
    that work should target cycles of meeting contexts, not pairs and not
    the roles themselves.
-3. **Incoherence without pairwise clash.** Context collapse (CLAIM-317)
+3. **Incoherence without pairwise clash.** Context collapse ([CLAIM-317](CLAIM-317.md))
    that brings three audiences into pairwise contact can make a self
    incoherent though no two of its presentations ever disagree. A role
    carried across contexts can do the same: by memory, anticipation or
-   identification (CLAIM-196 v2; NOTE-tmptx4q4), each carried role adds an
+   identification ([CLAIM-196](CLAIM-196.md) v2; [NOTE-tmptx4q4](../notes.d/NOTE-tmptx4q4.md)), each carried role adds an
    overlap that can close a loop.
 
 ## The check
@@ -96,8 +96,8 @@ kind, not the probabilistic.
 
 ## Evidence
 
-None outside the record's own argument. CASE-052 (Carmichael) is a pairwise
-collapse of two audiences, the kind CLAIM-196 covers, not a cycle, so it does
+None outside the record's own argument. [CASE-052](../cases.d/CASE-052.md) (Carmichael) is a pairwise
+collapse of two audiences, the kind [CLAIM-196](CLAIM-196.md) covers, not a cycle, so it does
 not ground this claim. A documented case of three audiences meeting
 pairwise, with incoherence and no pairwise clash, would.
 
@@ -106,8 +106,8 @@ pairwise, with incoherence and no pairwise clash, would.
 - **That such cycles are common.** The toy shows possibility, and the
   defeater asks for social instances.
 - **That a contextual presented self is a divided subject.** As in
-  CLAIM-196, "self" here is the presented self (TERM-045). CLAIM-417 and
-  QUESTION-255 ask whether one unified process can contain models that do
+  [CLAIM-196](CLAIM-196.md), "self" here is the presented self ([TERM-045](../terms.d/TERM-045.md)). [CLAIM-417](CLAIM-417.md) and
+  [QUESTION-255](../questions.d/QUESTION-255.md) ask whether one unified process can contain models that do
   not glue, and this claim gives that question a concrete case. It does
   not answer it.
 - **That the toy's single bit models real role demands.** It shows the

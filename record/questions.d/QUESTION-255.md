@@ -258,8 +258,8 @@ No status, title or warrant changes.
 
 <!-- inactive-ok-block: CLAIM-tmprejdn — new; the claim this note points to -->
 
-A concrete case. CLAIM-tmprejdn gives a presented self that fails to glue
+A concrete case. [CLAIM-tmprejdn](../claims.d/CLAIM-tmprejdn.md) gives a presented self that fails to glue
 around a cycle of three contexts while every pair is consistent. Whether
 such a self can be one unified process is this question, and the case does
 not answer it. It says what a non-gluing model of a self can look like.
-CLAIM-tmprejdn `bears_on` this question. No status change.
+[CLAIM-tmprejdn](../claims.d/CLAIM-tmprejdn.md) `bears_on` this question. No status change.

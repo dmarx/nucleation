@@ -74,7 +74,6 @@ uses:
 - TERM-045
 ---
 <!-- inactive-ok-file: CLAIM-198 — Proposed; the diachronic partner of this claim, open -->
-<!-- inactive-ok-file: LIT-tmpdbb0m NOTE-tmptx4q4 — new; the reading cited in the version-2 section -->
 <!-- inactive-ok-file: NOTE-1432 — Skimmed; the reading of boyd the dated note cites -->
 
 # CLAIM-196: Roles only respectively available in disjoint contexts cannot conflict
@@ -124,7 +123,7 @@ audience is absent:
 
 - by memory or anticipation of the other audience, which version 1's
   defeater already excepted;
-- by **identification**. In LIT-tmpdbb0m (NOTE-tmptx4q4), a scene-limited
+- by **identification**. In [LIT-tmpdbb0m](../literature.d/LIT-tmpdbb0m.md) ([NOTE-tmptx4q4](../notes.d/NOTE-tmptx4q4.md)), a scene-limited
   role is entered "only in the course of the session limited in time",
   which is a role only respectively available. Identification is "present
   also when the role is not assumed" and reaches "everyday life", which is
@@ -215,17 +214,17 @@ The owner, the same day, on version 2: "sort of a tautological statement
 though, isn't it? 'two things can only come into conflict if they are
 capable of interacting with each other'. maybe the importance is drawing a
 connection to the contextuality program?" Agreed. The statement is
-CLAIM-197 for roles, and its sociology is CLAIM-317's. Two things remain
+[CLAIM-197](CLAIM-197.md) for roles, and its sociology is [CLAIM-317](CLAIM-317.md)'s. Two things remain
 this claim's own: the owner's availability condition, under which a role
 can be carried across contexts, and the point that the cover is partly the
 person's to manage. The non-trivial consequence, a contextual self whose
-cure is opening a cycle, is filed as CLAIM-tmprejdn, which rests on this
-claim and on CLAIM-153.
+cure is opening a cycle, is filed as [CLAIM-tmprejdn](CLAIM-tmprejdn.md), which rests on this
+claim and on [CLAIM-153](CLAIM-153.md).
 
-What rests on this claim was checked. No claim rests on it. SYNTHESIS-051
+What rests on this claim was checked. No claim rests on it. [SYNTHESIS-051](../syntheses.d/SYNTHESIS-051.md)
 integrates it, and its summary ("roles conflict only on an overlap") still
-holds under version 2. CASE-052 and CASE-064 illustrate it, and CLAIM-153
-and CLAIM-198 complement it. CLAIM-417, TERM-045, THEORY-406, QUESTION-255,
-ADR-040 and ADR-043 cite it in ways version 2 leaves true. Whether this
-claim should be superseded by CLAIM-tmprejdn, or kept as its base case, is
+holds under version 2. [CASE-052](../cases.d/CASE-052.md) and [CASE-064](../cases.d/CASE-064.md) illustrate it, and [CLAIM-153](CLAIM-153.md)
+and [CLAIM-198](CLAIM-198.md) complement it. [CLAIM-417](CLAIM-417.md), [TERM-045](../terms.d/TERM-045.md), [THEORY-406](../theory.d/THEORY-406.md), [QUESTION-255](../questions.d/QUESTION-255.md),
+[ADR-040](../decisions.d/ADR-040.md) and [ADR-043](../decisions.d/ADR-043.md) cite it in ways version 2 leaves true. Whether this
+claim should be superseded by [CLAIM-tmprejdn](CLAIM-tmprejdn.md), or kept as its base case, is
 a status change and is left to the owner. No status change.
