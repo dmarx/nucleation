@@ -96,7 +96,7 @@ over than the needed ones save.
 - It does not say the corpus is too large now; the point is
   workload-dependent and unmeasured.
 - It does not say the answer is to delete. Accessibility is what varies;
-  the information can stay recoverable (TERM-tmp96b3g).
+  the information can stay recoverable ([TERM-tmp96b3g](../terms.d/TERM-tmp96b3g.md)).
 
 ## How it would be tested
 

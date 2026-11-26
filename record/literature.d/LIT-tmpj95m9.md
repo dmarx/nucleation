@@ -19,7 +19,7 @@ first_author: 'Guess'
 keywords: []
 implementations: []
 summary: >-
-  Guess, Malhotra, Pan, Barberá, Allcott and 24 others (2023), Science 381:398–404. Registered from A8 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26): "a large randomized experiment published in Science in 2023 found that switching Facebook and Instagram users to chronological feeds substantially changed their platform experiences but did not significantly change several measures of political polarization during the three-month study." NOTE-1742 already names it as the Meta 2020 study that Gauthier et al. (LIT-2431, THEORY-1653) build on, and found it not held. It bears on CASE-tmp824kq. Unverified until read.
+  Guess, Malhotra, Pan, Barberá, Allcott and 24 others (2023), Science 381:398–404. Registered from A8 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26): "a large randomized experiment published in Science in 2023 found that switching Facebook and Instagram users to chronological feeds substantially changed their platform experiences but did not significantly change several measures of political polarization during the three-month study." [NOTE-1742](../notes.d/NOTE-1742.md) already names it as the Meta 2020 study that Gauthier et al. ([LIT-2431](LIT-2431.md), [THEORY-1653](../theory.d/THEORY-1653.md)) build on, and found it not held. It bears on [CASE-tmp824kq](../cases.d/CASE-tmp824kq.md). Unverified until read.
 ---
 <!-- inactive-ok-file: CASE-tmp824kq THEORY-1653 — new or Proposed; the case this bears on, and the held account it is set beside -->
 
@@ -31,4 +31,4 @@ summary: >-
 
 ## Standing in the record
 
-Deferred. Cited by A8 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26) as the qualification on the Facebook case: switching users to chronological feeds changed what they saw "but did not significantly change several measures of political polarization" over three months. Named in NOTE-1742 as the study Gauthier et al. (LIT-2431) answer with a switch-on design. It bears on CASE-tmp824kq. Unverified until read.
+Deferred. Cited by A8 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26) as the qualification on the Facebook case: switching users to chronological feeds changed what they saw "but did not significantly change several measures of political polarization" over three months. Named in [NOTE-1742](../notes.d/NOTE-1742.md) as the study Gauthier et al. ([LIT-2431](LIT-2431.md)) answer with a switch-on design. It bears on [CASE-tmp824kq](../cases.d/CASE-tmp824kq.md). Unverified until read.

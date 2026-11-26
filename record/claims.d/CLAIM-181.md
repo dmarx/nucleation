@@ -329,15 +329,15 @@ record becomes the dominant organizational objective":
 - "Spending so much effort maintaining the record that little remains for
   inquiry."
 
-The third is this claim. The fourth is CLAIM-479's point, that a
+The third is this claim. The fourth is [CLAIM-479](CLAIM-479.md)'s point, that a
 relation's rigidity is no evidence its dependency is sound. The first,
 second and fifth are not forcing: they are the record's upkeep becoming
-its objective, the jurisdiction of a criterion (TERM-tmp3rbue) applied to
+its objective, the jurisdiction of a criterion ([TERM-tmp3rbue](../terms.d/TERM-tmp3rbue.md)) applied to
 the record itself. A says "None of these possibilities is alien to the
-actual project", and cites the link fixer (CASE-131), the stale summary
-(CLAIM-789) and the promotion audit replaced after 230 of its 308
+actual project", and cites the link fixer ([CASE-131](../cases.d/CASE-131.md)), the stale summary
+([CLAIM-789](CLAIM-789.md)) and the promotion audit replaced after 230 of its 308
 decision files went stale, all checked. The nearest held entries are
-CLAIM-1200's last clause, that the same record widens the gap between
+[CLAIM-1200](CLAIM-1200.md)'s last clause, that the same record widens the gap between
 reward and value "when filing is tedious or its grammar distorts the
-idea", and LEAD-227, which measures governance overhead; A's list is
+idea", and [LEAD-227](../leads.d/LEAD-227.md), which measures governance overhead; A's list is
 noted here, as A's, without an entry of its own.

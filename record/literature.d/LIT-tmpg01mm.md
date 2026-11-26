@@ -21,7 +21,7 @@ keywords: ['aspiration', 'proleptic reasons', 'value acquisition']
 implementations: []
 summary: >-
   Callard (2018), Oxford University Press. Cited at A21 §2 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26) for an account of how someone can rationally pursue values they do not yet have, through "proleptic" reasons whose significance the aspirant grasps only imperfectly; A21 calls this "almost a philosophical account of **axiological nucleation**". What the exchange
-  says of it is unverified until read. It bears on CLAIM-1036 (whose "What it does not say" notes that the philosophy of transformative choice is not read on the record), CLAIM-tmpk8knm and CLAIM-tmp3ao8j.
+  says of it is unverified until read. It bears on [CLAIM-1036](../claims.d/CLAIM-1036.md) (whose "What it does not say" notes that the philosophy of transformative choice is not read on the record), [CLAIM-tmpk8knm](../claims.d/CLAIM-tmpk8knm.md) and [CLAIM-tmp3ao8j](../claims.d/CLAIM-tmp3ao8j.md).
 ---
 
 <!-- inactive-ok-file: CLAIM-1036 CLAIM-tmp3ao8j CLAIM-tmpk8knm — Proposed; filed, registered or cited in the filing of 2026-11-26 from the exchange "Alignment consequences brainstorm" -->
@@ -37,4 +37,4 @@ Callard (2018), Oxford University Press.
 ## Standing in the record
 
 Registered from A21 §2 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26). Unread, it grounds nothing. It is
-here for CLAIM-1036 (whose "What it does not say" notes that the philosophy of transformative choice is not read on the record), CLAIM-tmpk8knm and CLAIM-tmp3ao8j.
+here for [CLAIM-1036](../claims.d/CLAIM-1036.md) (whose "What it does not say" notes that the philosophy of transformative choice is not read on the record), [CLAIM-tmpk8knm](../claims.d/CLAIM-tmpk8knm.md) and [CLAIM-tmp3ao8j](../claims.d/CLAIM-tmp3ao8j.md).

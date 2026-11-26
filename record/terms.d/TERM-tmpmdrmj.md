@@ -48,7 +48,7 @@ purposes can legitimately be determined." Hence "**alignment as a
 continuously maintained capacity for collective self-determination.**",
 and the observation that an institution "could be founded with entirely
 legitimate purposes, faithfully pursue them, and nevertheless become
-misaligned through its own success" (CLAIM-1331's pathologies from
+misaligned through its own success" ([CLAIM-1331](../claims.d/CLAIM-1331.md)'s pathologies from
 success, applied to purpose).
 
 A16 §10 defines the term and separates the three reaches in the
@@ -60,19 +60,19 @@ of developmental freedom."
 
 ## How it stands to the record
 
-- The three reaches parallel CLAIM-754's three learner frontiers
+- The three reaches parallel [CLAIM-754](../claims.d/CLAIM-754.md)'s three learner frontiers
   (operational, developmental, inquiry), which move separately;
-  CLAIM-tmppuz0e adds the axiological and constitutional frontiers that
+  [CLAIM-tmppuz0e](../claims.d/CLAIM-tmppuz0e.md) adds the axiological and constitutional frontiers that
   A21 and A19 name. Purposive reach is the institutional inquiry frontier
-  (TERM-092) applied to ends.
+  ([TERM-092](TERM-092.md)) applied to ends.
 - A19 §VI gives the same three levels as kinds of power: operational
   power "chooses an outcome within its own accessible set",
   developmental power "changes the accessible sets of others",
   constitutional power "changes the mechanisms determining those
-  accessible sets". LEAD-254's actor- and authority-indexed reachability
+  accessible sets". [LEAD-254](../leads.d/LEAD-254.md)'s actor- and authority-indexed reachability
   is where they could be measured.
-- "Relinquish" ties it to CLAIM-tmpn1q3j, governed termination.
-- CLAIM-352 keeps Sen's warning: reachable states are not freedoms
+- "Relinquish" ties it to [CLAIM-tmpn1q3j](../claims.d/CLAIM-tmpn1q3j.md), governed termination.
+- [CLAIM-352](../claims.d/CLAIM-352.md) keeps Sen's warning: reachable states are not freedoms
   without a map to valued functionings, and an efficacious process is not
   a legitimate one.
 

@@ -24,7 +24,7 @@ summary: >-
   institutions with equivalent ordinary performance but different
   governing architectures, and observe how their trajectories diverge
   under these disturbances." It tests the requirements A15 derives
-  (CLAIM-tmpygs06) for the owner's U8 (QUESTION-tmp5jhwd). The wording is A's (ChatGPT, in the exchange "Alignment consequences brainstorm"); adopting it is the owner's call.
+  ([CLAIM-tmpygs06](../claims.d/CLAIM-tmpygs06.md)) for the owner's U8 ([QUESTION-tmp5jhwd](../questions.d/QUESTION-tmp5jhwd.md)). The wording is A's (ChatGPT, in the exchange "Alignment consequences brainstorm"); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmpygs06 CASE-166 — new or Proposed; the question and claim it tests, the companion lead and the held simulation design it could use -->
 
@@ -56,8 +56,8 @@ further correction afterward."
 
 The matched-performance design is the record's separating-case method
 applied to institutions: equal ordinary performance is what makes the
-architectures' difference visible only under disturbance. CASE-166's
+architectures' difference visible only under disturbance. [CASE-166](../cases.d/CASE-166.md)'s
 multilevel simulation is a setting in which several of these tests could
-be run first; LEAD-tmpwlebp runs related comparisons on governed records.
+be run first; [LEAD-tmpwlebp](LEAD-tmpwlebp.md) runs related comparisons on governed records.
 No test is designed here beyond A's list: each needs its disturbance, its
 measure and its matched pair specified before it can move past `idea`.

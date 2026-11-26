@@ -21,7 +21,7 @@ keywords: ['coalition logic', 'bounded resources', 'strategic ability']
 implementations: []
 summary: >-
   Alechina, Logan, Nguyen and Rakib (2009), Proceedings of IJCAI 2009. Cited at A19 §7 and §VIII of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26) for coalition logic with resource bounds, which A19 calls "probably the most immediately useful literature for the institutional governance application": who can bring an outcome about, with what resources, against whose opposition. What the exchange
-  says of it is unverified until read. It bears on LEAD-254, QUESTION-530 and QUESTION-tmpahfz9.
+  says of it is unverified until read. It bears on [LEAD-254](../leads.d/LEAD-254.md), [QUESTION-530](../questions.d/QUESTION-530.md) and [QUESTION-tmpahfz9](../questions.d/QUESTION-tmpahfz9.md).
 ---
 
 # LIT-tmpg6t88: A Logic for Coalitions with Bounded Resources
@@ -35,4 +35,4 @@ Alechina, Logan, Nguyen and Rakib (2009), Proceedings of IJCAI 2009.
 ## Standing in the record
 
 Registered from A19 §7 and §VIII of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26). Unread, it grounds nothing. It is
-here for LEAD-254, QUESTION-530 and QUESTION-tmpahfz9.
+here for [LEAD-254](../leads.d/LEAD-254.md), [QUESTION-530](../questions.d/QUESTION-530.md) and [QUESTION-tmpahfz9](../questions.d/QUESTION-tmpahfz9.md).

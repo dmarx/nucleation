@@ -34,7 +34,7 @@ uses:
 - TERM-tmp3t5jq
 summary: >-
   A27 §§1–2 of the exchange "Alignment consequences brainstorm" (ChatGPT,
-  2026-11-26), answering the owner's U15 (CLAIM-tmpu1fef): "Luria
+  2026-11-26), answering the owner's U15 ([CLAIM-tmpu1fef](CLAIM-tmpu1fef.md)): "Luria
   currently distinguishes identity from standing. What you are proposing is
   a third independent dimension: availability", and then a fourth,
   fidelity. "Retirement is an epistemic operation. Cooling is a
@@ -45,7 +45,7 @@ summary: >-
   truth"); no principle is filed. The wording is A's (ChatGPT, in the
   exchange of 2026-11-26); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpu1fef TERM-tmp96b3g TERM-tmp3t5jq CLAIM-tmp48l62 CLAIM-tmpg2wk1 CLAIM-1208 — Proposed; filed from the same exchange on 2026-11-26 -->
+<!-- inactive-ok-file: CLAIM-tmpu1fef TERM-tmp96b3g CLAIM-tmp48l62 CLAIM-tmpg2wk1 CLAIM-1208 — Proposed; filed from the same exchange on 2026-11-26 -->
 
 # CLAIM-tmp5zt7f: Standing, availability and fidelity are separate
 
@@ -82,20 +82,20 @@ is a capability."
 A29 §3 adds a fourth dimension, generation, and keeps it apart from
 availability: "A mature result can be cold because it is rarely needed; a
 brand-new result can be hot because it is driving current work."
-CLAIM-tmp48l62 is A's hypothesis about generations.
+[CLAIM-tmp48l62](CLAIM-tmp48l62.md) is A's hypothesis about generations.
 
 ## What it rests on in the record
 
 Standing is the record's status field; the other two are not represented.
-The owner's U15 (CLAIM-tmpu1fef) is the case for availability. Fidelity has
-a held basis: CLAIM-300's sufficiency relative to a family of decisions,
-and CLAIM-1208's proof relevance, under which a finding's construction
+The owner's U15 ([CLAIM-tmpu1fef](CLAIM-tmpu1fef.md)) is the case for availability. Fidelity has
+a held basis: [CLAIM-300](CLAIM-300.md)'s sufficiency relative to a family of decisions,
+and [CLAIM-1208](CLAIM-1208.md)'s proof relevance, under which a finding's construction
 must be kept only where a later step uses it.
 
 ## What it does not say
 
-- How to set either new property. TERM-tmp96b3g gives the tiers and
-  CLAIM-tmpg2wk1 a cost model; neither is part of this claim.
+- How to set either new property. [TERM-tmp96b3g](../terms.d/TERM-tmp96b3g.md) gives the tiers and
+  [CLAIM-tmpg2wk1](CLAIM-tmpg2wk1.md) a cost model; neither is part of this claim.
 - That the three must be stored as three fields. A27 §11: "Adding a `tier`
   field would not, by itself, accomplish much"; what matters is the
   operational meaning each value has for search, views, review and agents.

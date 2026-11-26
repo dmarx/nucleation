@@ -51,7 +51,7 @@ summary: >-
    | D | Tiering plus governed condensation |
    | E | More aggressive relevance-based removal |
 
-   C needs a tier assignment (TERM-tmp96b3g), set by a rule fixed in
+   C needs a tier assignment ([TERM-tmp96b3g](../terms.d/TERM-tmp96b3g.md)), set by a rule fixed in
    advance; D needs condensed representations of some lines.
 3. **Draw tasks from the record's own work**: "ordinary questions, finding
    relevant previous results, detecting repeated arguments, reconstructing
@@ -69,28 +69,28 @@ summary: >-
    (costly re-derivation or a lost distinction).
 5. **Replay.** "At an earlier date, identify entries that a candidate
    retention policy would have cooled. Then inspect their actual
-   subsequent role in the inquiry." LEAD-tmpe579v, filed from U17 to U19
+   subsequent role in the inquiry." [LEAD-tmpe579v](LEAD-tmpe579v.md), filed from U17 to U19
    of the same exchange, is this step worked out on A34's terms, with
-   policies simulated at past dates from what was known then. CLAIM-184's
+   policies simulated at past dates from what was known then. [CLAIM-184](../claims.d/CLAIM-184.md)'s
    own check (citations of each Superseded entry after its retirement, as
    history or not) is one arm of it.
 
 ## Its pilots
 
 Three leads filed from U17 to U19 of the same exchange run single
-conditions of this design: LEAD-tmpolbqp is C against A on one line,
-working views standing in for tiers; LEAD-tmpd85zk is D on one argument
-cluster; LEAD-tmpe579v is step 5. This lead is the full comparison they
+conditions of this design: [LEAD-tmpolbqp](LEAD-tmpolbqp.md) is C against A on one line,
+working views standing in for tiers; [LEAD-tmpd85zk](LEAD-tmpd85zk.md) is D on one argument
+cluster; [LEAD-tmpe579v](LEAD-tmpe579v.md) is step 5. This lead is the full comparison they
 would feed, and the place where E, removal, is tested against the rest.
 
 ## What it would move
 
-- CLAIM-tmpu1fef: B and C against A test the owner's claim that keeping
+- [CLAIM-tmpu1fef](../claims.d/CLAIM-tmpu1fef.md): B and C against A test the owner's claim that keeping
   costs retrieval.
-- CLAIM-tmp5zt7f: whether C, which sets availability apart from standing,
+- [CLAIM-tmp5zt7f](../claims.d/CLAIM-tmp5zt7f.md): whether C, which sets availability apart from standing,
   beats B, which uses standing alone.
-- CLAIM-tmpg2wk1: whether a cost-chosen tiering beats one chosen by use.
-- CLAIM-tmp8gkmi: D against C on novel inquiry success separates the
+- [CLAIM-tmpg2wk1](../claims.d/CLAIM-tmpg2wk1.md): whether a cost-chosen tiering beats one chosen by use.
+- [CLAIM-tmp8gkmi](../claims.d/CLAIM-tmp8gkmi.md): D against C on novel inquiry success separates the
   abstraction hypothesis from the retrieval hypothesis.
 
 ## Cautions

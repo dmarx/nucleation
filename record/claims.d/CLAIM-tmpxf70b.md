@@ -36,14 +36,14 @@ uses:
 - TERM-tmp35z0s
 summary: >-
   A13 §7 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26), on the owner's U7: "Luria as a counterexample to the
-  Luddite interpretation", the owner's U2 question (QUESTION-tmpsgbj7).
+  Luddite interpretation", the owner's U2 question ([QUESTION-tmpsgbj7](../questions.d/QUESTION-tmpsgbj7.md)).
   It applies A4's distinction of productive from constitutional
-  capabilities (TERM-tmp35z0s) to the record itself. The record held that
-  noticing was delegated and revision was not (CLAIM-792), that support is
-  to be judged by the capability trajectory it leaves (CLAIM-675), and, in
+  capabilities ([TERM-tmp35z0s](../terms.d/TERM-tmp35z0s.md)) to the record itself. The record held that
+  noticing was delegated and revision was not ([CLAIM-792](CLAIM-792.md)), that support is
+  to be judged by the capability trajectory it leaves ([CLAIM-675](CLAIM-675.md)), and, in
   the manuscript from-obstruction-to-reorganization §19.5, the
   measurement that would test this. A calls the project a counterexample;
-  ARG-tmpo6eca says why it is not yet one, and LEAD-tmpswgqi carries the
+  [ARG-tmpo6eca](../arguments.d/ARG-tmpo6eca.md) says why it is not yet one, and [LEAD-tmpswgqi](../leads.d/LEAD-tmpswgqi.md) carries the
   test. The wording is A's (ChatGPT, in the exchange "Alignment consequences brainstorm"); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmpz33db CLAIM-792 TERM-tmp35z0s ARG-tmpo6eca — Proposed, open or new; the question it bears on, the claims and term it is set beside, and the argument and lead filed with it -->
@@ -71,16 +71,16 @@ empirical question."
 
 ## Against the record
 
-- **CLAIM-792**: in this record noticing grammar misfits was delegated, to
+- **[CLAIM-792](CLAIM-792.md)**: in this record noticing grammar misfits was delegated, to
   procedures, while revision stayed mostly with the owner. That is the
   claim's shape: productive labour and some governance labour delegated,
   the governing judgement kept.
-- **CLAIM-675** (Active): two forms of support with the same present
+- **[CLAIM-675](CLAIM-675.md)** (Active): two forms of support with the same present
   capabilities can leave different ones later, so support is judged by its
-  trajectory. CLAIM-tmpz33db (A4's) adds that a one-capacity model cannot
+  trajectory. [CLAIM-tmpz33db](CLAIM-tmpz33db.md) (A4's) adds that a one-capacity model cannot
   weigh net empowerment. Both say what evidence this claim needs: a
   trajectory, not a snapshot.
 - The manuscript from-obstruction-to-reorganization names the test in
   §19.5 and its conclusion: "Measuring the owner's own noticing over time
   would test whether the help that makes the cycle run is eroding the
-  capacity to govern it." LEAD-tmpswgqi files it.
+  capacity to govern it." [LEAD-tmpswgqi](../leads.d/LEAD-tmpswgqi.md) files it.

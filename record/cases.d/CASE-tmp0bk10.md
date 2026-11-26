@@ -28,14 +28,14 @@ reported_in:
 summary: >-
   A8 §1 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26), on the owner's U5, which asked for "a few real world case
   studies to bring the point home that this is already a thing", the point
-  being the owner's U4 (CLAIM-tmpe432a). A's source is the 2006 amended
-  final opinion in United States v. Philip Morris (LIT-tmpgcrul,
+  being the owner's U4 ([CLAIM-tmpe432a](../claims.d/CLAIM-tmpe432a.md)). A's source is the 2006 amended
+  final opinion in United States v. Philip Morris ([LIT-tmpgcrul](../literature.d/LIT-tmpgcrul.md),
   registered, unread), so every fact here is A's report of it, unverified
   until read. The record held the doubt campaign only as the example
-  behind CLAIM-1249 (manufactured doubt raises the action threshold); it
+  behind [CLAIM-1249](../claims.d/CLAIM-1249.md) (manufactured doubt raises the action threshold); it
   held no case of the industry. The wording is A's (ChatGPT, in the exchange "Alignment consequences brainstorm"); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-1249 CLAIM-tmpotbk7 CLAIM-tmpv3frk CLAIM-tmpe432a CLAIM-1287 TERM-tmp3rbue — Proposed or new; the claims this case illustrates, the owner's thesis it answers and held entries it is set beside -->
+<!-- inactive-ok-file: CLAIM-1249 CLAIM-tmpotbk7 CLAIM-tmpv3frk CLAIM-tmpe432a CLAIM-1287 — Proposed or new; the claims this case illustrates, the owner's thesis it answers and held entries it is set beside -->
 
 # CASE-tmp0bk10: The tobacco industry's management of demand and doubt
 
@@ -69,17 +69,17 @@ exercised."
 Documented, and so a specimen of the mechanisms the court found, not of
 any reading of them. It illustrates three claims:
 
-- **CLAIM-1249**, manufactured doubt raising the threshold for action
+- **[CLAIM-1249](../claims.d/CLAIM-1249.md)**, manufactured doubt raising the threshold for action
   rather than reversing belief: the tobacco campaign is that claim's own
   canonical example, now filed as a case.
-- **CLAIM-tmpotbk7** (A's, filed with this case): revealed demand stops
+- **[CLAIM-tmpotbk7](../claims.d/CLAIM-tmpotbk7.md)** (A's, filed with this case): revealed demand stops
   being evidence of alignment once the optimizer can shape it. Tobacco is
   its second rung, demand engineered through dependence.
-- **CLAIM-tmpv3frk** (A's): optimization turns pathological when its
+- **[CLAIM-tmpv3frk](../claims.d/CLAIM-tmpv3frk.md)** (A's): optimization turns pathological when its
   success erodes the mechanisms that evaluate it. "tobacco's suppression
   of research" is one of A8's three examples of that stage.
 
-The research suppression is also an instance of CLAIM-1287's mechanism,
+The research suppression is also an instance of [CLAIM-1287](../claims.d/CLAIM-1287.md)'s mechanism,
 an optimizer weakening a constraint on itself (independent evaluation),
 which A11 §5 lists among the constraints such an optimizer erodes.
 
@@ -88,7 +88,7 @@ which A11 §5 lists among the constraints such an optimizer erodes.
 That the conduct was produced by the sales objective rather than chosen
 by people who knew what they were doing: the court's findings are of
 conduct and knowledge, the opposite of the reading A gives the cod
-fishery (CASE-tmpts51k), "No unitary agent needed to want the destruction
+fishery ([CASE-tmpts51k](CASE-tmpts51k.md)), "No unitary agent needed to want the destruction
 of the fishery". The case illustrates an
 optimizer shaping its own demand, not optimization without intent. Nor
 does it show how much of smoking's prevalence the levers explain.

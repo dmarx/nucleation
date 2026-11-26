@@ -67,14 +67,14 @@ minimal sufficient sets.
 
 ## How it stands to the record
 
-- CLAIM-347's compatibility complex records which demands can be met
+- [CLAIM-347](CLAIM-347.md)'s compatibility complex records which demands can be met
   together; this hypergraph records which capacities together make a
   difference matter, a dual structure: sets closed upward, not downward.
-- CLAIM-1093 holds that reserve and redesign are complementary
+- [CLAIM-1093](CLAIM-1093.md) holds that reserve and redesign are complementary
   requirements of readiness, not independently sufficient alternatives,
   a case of the same structure for crossing a transition.
-- CASE-237 is a warning on the other side: two complementary capacities
+- [CASE-237](../cases.d/CASE-237.md) is a warning on the other side: two complementary capacities
   can each become more reliable while their joint success falls.
-- LEAD-tmp18reb includes A23's test: "Joint acquisition produces
+- [LEAD-tmp18reb](../leads.d/LEAD-tmp18reb.md) includes A23's test: "Joint acquisition produces
   consequential distinctions not available through separate
   acquisitions."

@@ -34,7 +34,7 @@ summary: >-
   wording is A's (ChatGPT, in the exchange of 2026-11-26); adopting it is
   the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpi0o8t CLAIM-tmpby6hz CLAIM-tmpdkwbk CLAIM-tmpwlw8t TERM-tmp96b3g TERM-tmp3t5jq CLAIM-tmpg2wk1 — Proposed; the claims and terms this would operationalize, filed 2026-11-26 -->
+<!-- inactive-ok-file: CLAIM-tmpi0o8t CLAIM-tmpby6hz CLAIM-tmpdkwbk CLAIM-tmpwlw8t CLAIM-tmpg2wk1 — Proposed; the claims and terms this would operationalize, filed 2026-11-26 -->
 
 # LEAD-tmpvevob: Build a dry-run retention diagnostic for luria: deterministic worklists from declared roots, reachability, cycles, revision chains, cross-tier dependencies, age and size, with an explanation of why each entry is kept
 
@@ -53,7 +53,7 @@ A29 §19 separates analysis from transformation:
 | `luria gc verify` | Check declared preservation invariants |
 | `luria gc restore CODE` | Recover an archived representation |
 
-LEAD-tmp79qro, filed from U17 to U19 of the same exchange, is the first
+[LEAD-tmp79qro](LEAD-tmp79qro.md), filed from U17 to U19 of the same exchange, is the first
 step: a tracing collector from luria's existing patterns and views, with a
 worklist outside the closure of declared roots. This lead is the tool it
 would grow into. The first version is the analysis half only, `roots`, `trace`,
@@ -63,11 +63,11 @@ would grow into. The first version is the analysis half only, `roots`, `trace`,
 ## What it computes
 
 All of it from the tree, without a model (A29 §17): reachability from
-declared roots (CLAIM-tmpi0o8t), strongly connected components (clusters
+declared roots ([CLAIM-tmpi0o8t](../claims.d/CLAIM-tmpi0o8t.md)), strongly connected components (clusters
 that cite only one another), revision chains, cross-tier dependencies
-(CLAIM-tmpdkwbk), entry age and document size; and the retention
-requirement each entry inherits from its uses (CLAIM-tmpby6hz), with
-alternative support reported, not joined (CLAIM-tmpwlw8t).
+([CLAIM-tmpdkwbk](../claims.d/CLAIM-tmpdkwbk.md)), entry age and document size; and the retention
+requirement each entry inherits from its uses ([CLAIM-tmpby6hz](../claims.d/CLAIM-tmpby6hz.md)), with
+alternative support reported, not joined ([CLAIM-tmpwlw8t](../claims.d/CLAIM-tmpwlw8t.md)).
 
 ## Design choices A names
 
@@ -93,6 +93,6 @@ alternative support reported, not joined (CLAIM-tmpwlw8t).
 
 ## What it would move
 
-QUESTION-tmpz8xkx needs a candidate list before it needs a policy; the
+[QUESTION-tmpz8xkx](../questions.d/QUESTION-tmpz8xkx.md) needs a candidate list before it needs a policy; the
 diagnostic is the cheapest way to see how many entries no root reaches.
-Its own cost counts against it (CLAIM-tmpg2wk1's transition term).
+Its own cost counts against it ([CLAIM-tmpg2wk1](../claims.d/CLAIM-tmpg2wk1.md)'s transition term).

@@ -36,7 +36,7 @@ summary: >-
   allocation." A proposes it as a more refined alternative to the
   recurrence-based filing convention: cheap provisional entries, promoted
   by corroboration, downstream use, repeated application or assigned
-  importance. LEAD-tmpe579v's replay, with its survival analysis, would
+  importance. [LEAD-tmpe579v](../leads.d/LEAD-tmpe579v.md)'s replay, with its survival analysis, would
   test it. The wording is A's (ChatGPT, in
   the exchange of 2026-11-26); adopting it is the owner's call.
 ---
@@ -54,7 +54,7 @@ distinctions are exploratory. A smaller proportion survive criticism,
 acquire dependencies, become reusable abstractions, and contribute to
 sustained development."
 
-A reads it against the record's filing convention (CLAIM-176, coding a
+A reads it against the record's filing convention ([CLAIM-176](CLAIM-176.md), coding a
 thing the second time it turns up): new claims "could be cheap to
 articulate and provisionally preserve without immediately imposing the
 maintenance burden associated with mature intellectual structure", and
@@ -74,15 +74,15 @@ A29 §3:
 | Standing | Epistemic judgment |
 | Fidelity | Required representational detail |
 
-This widens CLAIM-tmp5zt7f by one dimension.
+This widens [CLAIM-tmp5zt7f](CLAIM-tmp5zt7f.md) by one dimension.
 
 ## Held evidence nearby
 
-CLAIM-863 and CLAIM-864 are about revision, not use: whether a claim with
+[CLAIM-863](CLAIM-863.md) and [CLAIM-864](CLAIM-864.md) are about revision, not use: whether a claim with
 inbound edges is revised less or more per audit. They are the same kind of
 measure from the same history. A29 VII's "retention survival curves"
 from the record's git history, substantive use against age beside the share
-still maintained, are the test; LEAD-tmpn6mi2's event log would supply the
-events and LEAD-tmpe579v's replay the analysis, with recent entries
+still maintained, are the test; [LEAD-tmpn6mi2](../leads.d/LEAD-tmpn6mi2.md)'s event log would supply the
+events and [LEAD-tmpe579v](../leads.d/LEAD-tmpe579v.md)'s replay the analysis, with recent entries
 right-censored. A's chart of such curves is labelled "Hypothetical curves
 illustrating the empirical question, not repository data".

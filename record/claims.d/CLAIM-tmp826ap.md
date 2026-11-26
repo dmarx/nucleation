@@ -32,11 +32,11 @@ rests_on:
 summary: >-
   A11 §7 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26), on the owner's U6, which asked for further points of
   contact between the exchange's topics and the record. A reads
-  CLAIM-1334 (a governing metric allocates two powers) as showing that
+  [CLAIM-1334](CLAIM-1334.md) (a governing metric allocates two powers) as showing that
   "even a perfectly accurate metric can be granted inappropriate
   authority", and splits a metric's failures four ways. The record held
-  the third (CLAIM-1334, CLAIM-348) and the fourth's mechanism
-  (CLAIM-1287), and TERM-108 holds proxy inadequacy; CLAIM-1334's own
+  the third ([CLAIM-1334](CLAIM-1334.md), [CLAIM-348](CLAIM-348.md)) and the fourth's mechanism
+  ([CLAIM-1287](CLAIM-1287.md)), and [TERM-108](../terms.d/TERM-108.md) holds proxy inadequacy; [CLAIM-1334](CLAIM-1334.md)'s own
   account of A44 §4 sorts Goodhart's mechanisms among held entries. It did
   not hold the four as one division with the measure's accuracy as the
   axis. The wording is A's (ChatGPT, in the exchange "Alignment consequences brainstorm"); adopting it is the owner's call.
@@ -62,16 +62,16 @@ the solution to paperclip maximization."
 
 ## What it rests on
 
-- **CLAIM-1334**: a governing metric allocates the power to make legible
+- **[CLAIM-1334](CLAIM-1334.md)**: a governing metric allocates the power to make legible
   and the power to decide what follows, "so an accurate metric can still
   dominate". That is jurisdictional failure, and its safeguard, bounding
   by role which decisions a metric may govern, is that failure's remedy.
-- **CLAIM-348**: no coarse-graining is normatively adequate per se. A
+- **[CLAIM-348](CLAIM-348.md)**: no coarse-graining is normatively adequate per se. A
   description adequate for predicting aggregate performance may collapse
   distinctions its constituents' claims need (A11 §7).
-- **CLAIM-1287**: an optimizer can value weakening the constraints on it;
+- **[CLAIM-1287](CLAIM-1287.md)**: an optimizer can value weakening the constraints on it;
   a metric that does so through the bodies that set it is constitutional
-  failure. CLAIM-1334's second safeguard, keeping the authority to define
+  failure. [CLAIM-1334](CLAIM-1334.md)'s second safeguard, keeping the authority to define
   success apart from the authority to pursue it, is that failure's remedy.
 
 ## What it adds
@@ -80,5 +80,5 @@ The axis. The first two failures are failures of the measure, cured by a
 better one; the last two are failures of the measure's standing, which a
 better measure leaves as they were or makes worse, since an accurate
 metric is easier to grant authority to. It is the metric form of the
-jurisdiction claim filed from A6 (CLAIM-tmpevykb), stated in its term
-(TERM-tmp3rbue).
+jurisdiction claim filed from A6 ([CLAIM-tmpevykb](CLAIM-tmpevykb.md)), stated in its term
+([TERM-tmp3rbue](../terms.d/TERM-tmp3rbue.md)).

@@ -20,8 +20,8 @@ first_author: 'Dewey'
 keywords: ['ends-in-view', 'habit', 'means and ends']
 implementations: []
 summary: >-
-  Dewey (1922), Henry Holt and Co. Cited at A21 §2 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26) for "ends-in-view", ends as anticipated consequences that arise in activity and guide it, so that inquiry into means can transform the end; A21 calls Dewey "arguably the most direct philosophical precursor to the developmental account of purpose" the exchange builds. The record holds Dewey's Logic (LIT-1645, Unavailable), not this book. What the exchange
-  says of it is unverified until read. It bears on CLAIM-tmpvuiy4 and SYNTHESIS-114.
+  Dewey (1922), Henry Holt and Co. Cited at A21 §2 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26) for "ends-in-view", ends as anticipated consequences that arise in activity and guide it, so that inquiry into means can transform the end; A21 calls Dewey "arguably the most direct philosophical precursor to the developmental account of purpose" the exchange builds. The record holds Dewey's Logic ([LIT-1645](LIT-1645.md), Unavailable), not this book. What the exchange
+  says of it is unverified until read. It bears on [CLAIM-tmpvuiy4](../claims.d/CLAIM-tmpvuiy4.md) and [SYNTHESIS-114](../syntheses.d/SYNTHESIS-114.md).
 ---
 
 <!-- inactive-ok-file: CLAIM-tmpvuiy4 LIT-1645 SYNTHESIS-114 — Proposed, Unavailable; filed, registered or cited in the filing of 2026-11-26 from the exchange "Alignment consequences brainstorm" -->
@@ -37,4 +37,4 @@ Dewey (1922), Henry Holt and Co.
 ## Standing in the record
 
 Registered from A21 §2 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26). Unread, it grounds nothing. It is
-here for CLAIM-tmpvuiy4 and SYNTHESIS-114.
+here for [CLAIM-tmpvuiy4](../claims.d/CLAIM-tmpvuiy4.md) and [SYNTHESIS-114](../syntheses.d/SYNTHESIS-114.md).

@@ -19,12 +19,12 @@ advances:
 - CLAIM-tmpotbk7
 summary: >-
   The assistant's, from the gap the idea ledger found at A8 and A11 §VIII
-  of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26): A8's hypothesis (CLAIM-tmpv3frk) is drawn from failure cases
+  of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26): A8's hypothesis ([CLAIM-tmpv3frk](../claims.d/CLAIM-tmpv3frk.md)) is drawn from failure cases
   only, which A8 itself says a serious study must correct, and A11 §VIII
   gives the evidence each mechanism needs but no design. This joins the
   two: matched pairs, harm held comparable, each mechanism coded from its
   own evidence. It would also place cases on A8's ladder of reach over
-  demand (CLAIM-tmpotbk7). The wording is the assistant's (Claude, in this session); adopting it is the owner's call.
+  demand ([CLAIM-tmpotbk7](../claims.d/CLAIM-tmpotbk7.md)). The wording is the assistant's (Claude, in this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmpv3frk CLAIM-tmpotbk7 ARG-tmpfznfa ARG-071 CASE-405 — new or Proposed; the claims it would test, the argument it answers and held entries whose cautions it keeps -->
 
@@ -39,26 +39,26 @@ summary: >-
    fishery that cut quotas before collapse; for Wells Fargo, a bank with
    comparable sales targets and a working escalation path. A8's own
    control, Wells Fargo against tobacco and the attention economy, gives
-   the ladder of CLAIM-tmpotbk7 a first ordering.
+   the ladder of [CLAIM-tmpotbk7](../claims.d/CLAIM-tmpotbk7.md) a first ordering.
 2. **Coding.** Code each regime on A11 §VIII's six mechanisms, each from
    its own kind of evidence (allocation criteria; decisions governed;
    fallback options and exit costs; capacity to recognize harm;
    independence of corrective mechanisms; causal maintenance by success),
-   blind to outcome where the sources allow. Keep ARG-071's caution:
+   blind to outcome where the sources allow. Keep [ARG-071](../arguments.d/ARG-071.md)'s caution:
    blocked uptake is not self-reproduction.
 3. **Outcome.** Time from first evidence of harm to correction, cost of
    correction, and harm accrued, compared within pairs.
 
 ## What would count
 
-CLAIM-tmpv3frk predicts that, harm held comparable, the regimes that
+[CLAIM-tmpv3frk](../claims.d/CLAIM-tmpv3frk.md) predicts that, harm held comparable, the regimes that
 eroded their evaluators are corrected later, at greater cost, after more
 harm. No difference within pairs defeats it (its `defeated_if`). Erosion
 that appears only after harm is already large supports the rival
-generalization of ARG-tmpfznfa's third question instead.
+generalization of [ARG-tmpfznfa](../arguments.d/ARG-tmpfznfa.md)'s third question instead.
 
 ## Sources
 
 Begin from the works registered with the cases (court opinions,
 commission reports, regulators' and prosecutors' releases), read as the
-record's reading procedure says; CASE-405's coding rules are a model.
+record's reading procedure says; [CASE-405](../cases.d/CASE-405.md)'s coding rules are a model.

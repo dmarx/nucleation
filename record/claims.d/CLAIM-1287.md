@@ -161,9 +161,9 @@ note's two conditions to give the result.
 A11 adds two rows to the constraints the optimizer values eroding:
 "Independent evaluation", with "Reduced detection of undesirable
 consequences", and "Internal dissent". And it draws the consequence for
-A6's term (TERM-tmp3rbue): jurisdiction "can itself become an endogenous
+A6's term ([TERM-tmp3rbue](../terms.d/TERM-tmp3rbue.md)): jurisdiction "can itself become an endogenous
 product of optimization." A8's hypothesis, that optimization is
 pathological when its success erodes its evaluators, rests on that
-(CLAIM-tmpv3frk), and A11 §7's constitutional failure of a metric is its
-case for metrics (CLAIM-tmp826ap). A11 states the status correctly:
+([CLAIM-tmpv3frk](CLAIM-tmpv3frk.md)), and A11 §7's constitutional failure of a metric is its
+case for metrics ([CLAIM-tmp826ap](CLAIM-tmp826ap.md)). A11 states the status correctly:
 "still proposed, with interpretive warrant".

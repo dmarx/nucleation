@@ -39,7 +39,7 @@ summary: >-
   precision, missed relevant material, tokens consumed, repeated
   derivations, and reactivation costs". A31 §16's "smallest coherent
   experiment" is the same trial in five steps. The tiers and ghost
-  representations are those of A27 and A29 (TERM-tmp96b3g; LIT-tmpua7jt). The pilot is A's; the arms and criteria are
+  representations are those of A27 and A29 ([TERM-tmp96b3g](../terms.d/TERM-tmp96b3g.md); [LIT-tmpua7jt](../literature.d/LIT-tmpua7jt.md)). The pilot is A's; the arms and criteria are
   the assistant's (Claude, in this session), and adopting them is the
   owner's call.
 ---

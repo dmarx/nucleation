@@ -311,7 +311,7 @@ Support for an application, from two turns.
 
 A13 §5 quotes the census correctly: of the changes made in answer to a
 misfit, 63 of 71 "concerned something that had first been forced into an
-existing category or accommodated only in prose" (CASE-300), and reads
+existing category or accommodated only in prose" ([CASE-300](../cases.d/CASE-300.md)), and reads
 this claim as the record's response: "Rather than treating all
 representational failures as failures of participants to follow
 instructions, the organization can interpret them as evidence that its
@@ -327,10 +327,10 @@ check against the manuscript from-obstruction-to-reorganization
 A15's R7 makes the claim a requirement of any platform for institutional
 alignment: participants must be able to report "inadequacies in the
 categories themselves", or "its schema becomes a mechanism of normative
-agnotology" (CLAIM-tmpygs06; the term is CLAIM-1252's). Filed as A's;
-CLAIM-tmpoh8gm holds A13's reading.
+agnotology" ([CLAIM-tmpygs06](CLAIM-tmpygs06.md); the term is [CLAIM-1252](CLAIM-1252.md)'s). Filed as A's;
+[CLAIM-tmpoh8gm](CLAIM-tmpoh8gm.md) holds A13's reading.
 
 ## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U14–A25), `corroborates` read as a new consequentiality
 <!-- inactive-ok-file: CLAIM-tmpxl7dc ARG-tmpsis1z — Proposed; filed from the same exchange on 2026-11-26 -->
 
-A25 §3 cites this claim correctly: the record "originally could not adequately distinguish corroboration from inferential dependence. A relation fixer consequently introduced a dependency that nobody had asserted", and ADR-044 added `corroborates`. A reads the amendment as more than descriptive accuracy: "The organization developed a new distinction in how changes to evidence ought to become consequential to future inquiry." CLAIM-tmpxl7dc states that as a claim about the grammar, and ARG-tmpsis1z finds that this claim's instance shows a distinction made expressible, which is what this claim is about, while ADR-069 shows an expressible distinction made to produce findings, which this claim does not cover. The two are kinds of amendment this claim's census (note of 2026-11-20) does not separate: a revision that widens what can be written, and one that changes what the checks do with what could already be written. The note is the assistant's (Claude, in this session). No status change.
+A25 §3 cites this claim correctly: the record "originally could not adequately distinguish corroboration from inferential dependence. A relation fixer consequently introduced a dependency that nobody had asserted", and [ADR-044](../decisions.d/ADR-044.md) added `corroborates`. A reads the amendment as more than descriptive accuracy: "The organization developed a new distinction in how changes to evidence ought to become consequential to future inquiry." [CLAIM-tmpxl7dc](CLAIM-tmpxl7dc.md) states that as a claim about the grammar, and [ARG-tmpsis1z](../arguments.d/ARG-tmpsis1z.md) finds that this claim's instance shows a distinction made expressible, which is what this claim is about, while [ADR-069](../decisions.d/ADR-069.md) shows an expressible distinction made to produce findings, which this claim does not cover. The two are kinds of amendment this claim's census (note of 2026-11-20) does not separate: a revision that widens what can be written, and one that changes what the checks do with what could already be written. The note is the assistant's (Claude, in this session). No status change.

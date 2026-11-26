@@ -39,7 +39,7 @@ summary: >-
   genuinely organized to benefit humanity should retain a viable pathway
   to conclude that further development of a particular technology is
   unwarranted, even when continuation would benefit the institution
-  itself." A16 cites SYNTHESIS-091 for the separation of what can persist
+  itself." A16 cites [SYNTHESIS-091](../syntheses.d/SYNTHESIS-091.md) for the separation of what can persist
   from what ought to. The wording is A's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-1326 CLAIM-tmp6xxuc SYNTHESIS-091 SYNTHESIS-093 TERM-tmpmdrmj — Proposed; filed, registered or cited in the filing of 2026-11-26 from the exchange "Alignment consequences brainstorm" -->
@@ -62,15 +62,15 @@ institutional change".
 
 ## How it stands to the record
 
-- SYNTHESIS-091 separates viability from what ought to persist; A16's
+- [SYNTHESIS-091](../syntheses.d/SYNTHESIS-091.md) separates viability from what ought to persist; A16's
   citation is apt. This claim makes the separation a capacity the
   institution must have, not only a judgement others may make of it.
-- SYNTHESIS-093's duties of those who govern what others depend on, and
-  CLAIM-1326's reliance that holds obligation past the original reasons,
+- [SYNTHESIS-093](../syntheses.d/SYNTHESIS-093.md)'s duties of those who govern what others depend on, and
+  [CLAIM-1326](CLAIM-1326.md)'s reliance that holds obligation past the original reasons,
   are the obligations governed dissolution must keep.
-- CLAIM-tmp6xxuc is the general case: persistence as a purpose that
+- [CLAIM-tmp6xxuc](CLAIM-tmp6xxuc.md) is the general case: persistence as a purpose that
   governs its own reconsideration.
-- TERM-tmpmdrmj includes "relinquish" in what developmental freedom is the
+- [TERM-tmpmdrmj](../terms.d/TERM-tmpmdrmj.md) includes "relinquish" in what developmental freedom is the
   capacity to do.
 
 ## What it does not say

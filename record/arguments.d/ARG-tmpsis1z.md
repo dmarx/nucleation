@@ -29,12 +29,12 @@ line:
 - record-as-apparatus
 summary: >-
   A25 §3 of the exchange "Alignment consequences brainstorm" cites the
-  `corroborates` decision (ADR-044, CASE-131) as the record "developing a
+  `corroborates` decision ([ADR-044](../decisions.d/ADR-044.md), [CASE-131](../cases.d/CASE-131.md)) as the record "developing a
   new distinction in how changes to evidence ought to become consequential".
-  As an existence case for CLAIM-tmpxl7dc it holds for the weaker reading:
-  before ADR-044 the difference between corroborating and depending could
+  As an existence case for [CLAIM-tmpxl7dc](../claims.d/CLAIM-tmpxl7dc.md) it holds for the weaker reading:
+  before [ADR-044](../decisions.d/ADR-044.md) the difference between corroborating and depending could
   not be written, so a perturbation that drew it was not in M's domain,
-  not one with Δ_M = 0. ADR-069 is the instance of the stronger reading:
+  not one with Δ_M = 0. [ADR-069](../decisions.d/ADR-069.md) is the instance of the stronger reading:
   a NOTE marked Read on a LIT marked Unavailable was writable and produced
   no finding before 2026-11-01, and fails lint after it. With both, the
   claim's existence clause stands. The wording is the assistant's (Claude,
@@ -46,15 +46,15 @@ summary: >-
 
 ## The inference
 
-Premise (CASE-131): a claim was filed with `supports` on another; the
+Premise ([CASE-131](../cases.d/CASE-131.md)): a claim was filed with `supports` on another; the
 link fixer wrote the converse `rests_on`, asserting that the second could
-not stand without the first; ADR-044 added `corroborates`, which retiring
-does not walk. Conclusion (CLAIM-tmpxl7dc): a revision M → M′ can give a
+not stand without the first; [ADR-044](../decisions.d/ADR-044.md) added `corroborates`, which retiring
+does not walk. Conclusion ([CLAIM-tmpxl7dc](../claims.d/CLAIM-tmpxl7dc.md)): a revision M → M′ can give a
 perturbation δ with Δ_M(R, δ) = 0 and Δ_M′(R, δ) > 0.
 
 ## Critical questions
 
-1. **Is the case coherent?** Yes; it is documented (CASE-131, Active) and
+1. **Is the case coherent?** Yes; it is documented ([CASE-131](../cases.d/CASE-131.md), Active) and
    the decision is Active.
 2. **Does it separate the very things the conclusion says come apart?**
    Only in part. Under the old grammar the distinction between
@@ -62,10 +62,10 @@ perturbation δ with Δ_M(R, δ) = 0 and Δ_M′(R, δ) > 0.
    and `rests_on` were one relation read from two ends. So there was no δ
    expressible under M that drew it, and Δ_M(R, δ) was undefined, not
    zero. What the case shows is M′ enlarging the set of expressible
-   perturbations, which is CLAIM-419's ground: a move the grammar could not
+   perturbations, which is [CLAIM-419](../claims.d/CLAIM-419.md)'s ground: a move the grammar could not
    hold, answered by amending the grammar.
 
-   The stronger reading needs δ expressible under both rules. ADR-069
+   The stronger reading needs δ expressible under both rules. [ADR-069](../decisions.d/ADR-069.md)
    (2026-11-01) is one: a NOTE with status Read whose `paper:` is a LIT
    marked Unavailable, Unfetched or Deferred was writable before the
    decision and produced no finding; after it, `lint.fail_on` fails on it.
@@ -73,8 +73,8 @@ perturbation δ with Δ_M(R, δ) = 0 and Δ_M′(R, δ) > 0.
    unchanged and only the perturbation separates the two rule sets, which
    is the claim's shape exactly.
 
-Verdict: the existence clause of CLAIM-tmpxl7dc stands, on ADR-069 for
-"inert made consequential" and on CASE-131 for "inexpressible made
+Verdict: the existence clause of [CLAIM-tmpxl7dc](../claims.d/CLAIM-tmpxl7dc.md) stands, on [ADR-069](../decisions.d/ADR-069.md) for
+"inert made consequential" and on [CASE-131](../cases.d/CASE-131.md) for "inexpressible made
 expressible". The two are different interventions on the grammar, and a
 measure of Δ should report them apart: one changes F_M on a fixed domain,
 the other changes the domain.

@@ -37,9 +37,9 @@ summary: >-
   general design paradigm", whose table assigns each alignment function an
   organizational realization, and "Luria is to institutional alignment what
   a model organism is to developmental biology". It rests on A13's reading
-  of Luria (CLAIM-tmpoh8gm) and is the converse of A6's point that
+  of Luria ([CLAIM-tmpoh8gm](CLAIM-tmpoh8gm.md)) and is the converse of A6's point that
   aligning each component does not align what they compose
-  (CLAIM-tmp3dn8p). The gap in the note below is the assistant's. The wording is A's (ChatGPT, in the exchange "Alignment consequences brainstorm"); adopting it is the owner's call.
+  ([CLAIM-tmp3dn8p](CLAIM-tmp3dn8p.md)). The gap in the note below is the assistant's. The wording is A's (ChatGPT, in the exchange "Alignment consequences brainstorm"); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmpoh8gm CLAIM-tmp3dn8p CASE-tmptm1pi CLAIM-1287 CLAIM-1241 — Proposed or new; the claims it rests on and is set beside, and the case and lead filed with it -->
 
@@ -75,20 +75,20 @@ manipulable, extensively recorded environment", with the limit that a
 heterogeneous stakeholders, coercive power, and questions of legitimacy",
 so "The next step would be extending such environments to multiple
 principals with genuinely independent and sometimes incompatible
-interests." LEAD-tmpwlebp holds A13 §10's experiments.
+interests." [LEAD-tmpwlebp](../leads.d/LEAD-tmpwlebp.md) holds A13 §10's experiments.
 
 ## Note of 2026-11-26: what the distribution protects against, and what not (the assistant)
 
 A gap. A13 offers the distributed architecture as a safeguard without
 saying against what. Two of the filing's own cases mark its limits. The
-Volkswagen case (CASE-tmptm1pi) shows a participant conditioning its
+Volkswagen case ([CASE-tmptm1pi](../cases.d/CASE-tmptm1pi.md)) shows a participant conditioning its
 conduct on the presence of evaluation; a model that can tell which of the
 organization's functions is observing it can satisfy each in turn, as the
-cars satisfied the test. And CLAIM-1287 says an optimizer values weakening
+cars satisfied the test. And [CLAIM-1287](CLAIM-1287.md) says an optimizer values weakening
 the constraints on it where they depend on what it can change; a model
 that drafts the records, worklists and syntheses the oversight reads (A13
 §7's own list of delegated work) is in a position to shape the functions
-meant to check it. CLAIM-1241 adds that formally independent checks fail
+meant to check it. [CLAIM-1241](CLAIM-1241.md) adds that formally independent checks fail
 together when one disposition conditions them all.
 
 So the distribution protects only so far as the functions are independent

@@ -20,8 +20,8 @@ first_author: 'Paul'
 keywords: ['transformative experience', 'decision theory', 'preference change']
 implementations: []
 summary: >-
-  Paul (2014), Oxford University Press. Cited at A21 §2 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26) for its distinction between experiences that give knowledge otherwise inaccessible and experiences that transform core preferences, which A21 says defeat ordinary decision theory because "the standpoint required to evaluate a choice may become available only after making it", and finds "exceptionally close to CLAIM-1036". What the exchange
-  says of it is unverified until read. It bears on CLAIM-1036 and CLAIM-tmpk8knm.
+  Paul (2014), Oxford University Press. Cited at A21 §2 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26) for its distinction between experiences that give knowledge otherwise inaccessible and experiences that transform core preferences, which A21 says defeat ordinary decision theory because "the standpoint required to evaluate a choice may become available only after making it", and finds "exceptionally close to [CLAIM-1036](../claims.d/CLAIM-1036.md)". What the exchange
+  says of it is unverified until read. It bears on [CLAIM-1036](../claims.d/CLAIM-1036.md) and [CLAIM-tmpk8knm](../claims.d/CLAIM-tmpk8knm.md).
 ---
 
 <!-- inactive-ok-file: CLAIM-1036 CLAIM-tmpk8knm — Proposed; filed, registered or cited in the filing of 2026-11-26 from the exchange "Alignment consequences brainstorm" -->
@@ -37,4 +37,4 @@ Paul (2014), Oxford University Press.
 ## Standing in the record
 
 Registered from A21 §2 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26). Unread, it grounds nothing. It is
-here for CLAIM-1036 and CLAIM-tmpk8knm.
+here for [CLAIM-1036](../claims.d/CLAIM-1036.md) and [CLAIM-tmpk8knm](../claims.d/CLAIM-tmpk8knm.md).

@@ -35,7 +35,7 @@ summary: >-
   2026-11-26): "Exclude cold knowledge from ordinary discovery without
   excluding it from institutional accountability", or "archival becomes
   another mechanism for silencing inconvenient information". A cites
-  luria's corollary "a suppression must not become a silence" (LU-DP-001),
+  luria's corollary "a suppression must not become a silence" ([LU-DP-001](https://github.com/dmarx/luria/blob/main/docs/design-principles.md#dp-1)),
   rightly. A29 §4 gives the mechanism, from generational garbage
   collection: remembered sets and write barriers, an index of references
   across tiers checked when a relation is added, a reference changes
@@ -43,7 +43,6 @@ summary: >-
   dependency, or a protected root changes. The wording is A's (ChatGPT, in
   the exchange of 2026-11-26); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: TERM-tmp96b3g TERM-tmp3t5jq CLAIM-tmpi0o8t — Proposed; filed from the same exchange on 2026-11-26 -->
 
 # CLAIM-tmpdkwbk: Cooling must leave dependencies visible
 
@@ -56,10 +55,10 @@ determining its substance requires rehydrating the original material."
 
 The record's retirement already works this way. Retiring an entry
 "reports what rests on it and leaves whether each dependant falls to a
-judgment" (CLAIM-664); a cooled entry is the same report at one remove,
+judgment" ([CLAIM-664](CLAIM-664.md)); a cooled entry is the same report at one remove,
 where the dependant, not the retired entry, is the one out of the way. The
 claim is that cooling must not be the exception to luria's first
-principle (LU-DP-001): an acknowledgement that hides a warning is counted,
+principle ([LU-DP-001](https://github.com/dmarx/luria/blob/main/docs/design-principles.md#dp-1)): an acknowledgement that hides a warning is counted,
 and a tier that hides a dependency must be too.
 
 ## The mechanism

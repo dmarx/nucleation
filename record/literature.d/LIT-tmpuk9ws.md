@@ -21,7 +21,7 @@ keywords: ['unawareness', 'generalized state space', 'interactive epistemology']
 implementations: []
 summary: >-
   Heifetz, Meier and Schipper (2006), Journal of Economic Theory 130(1), 78-94. Cited at A19 §12 and §VIII of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26) for generalized state-space models in which agents differ in what they are aware of, which A19 offers for possibilities an agent "cannot yet formulate", as against possibilities it does not know to obtain. What the exchange
-  says of it is unverified until read. It bears on QUESTION-tmpahfz9, CLAIM-1132 and TERM-092.
+  says of it is unverified until read. It bears on [QUESTION-tmpahfz9](../questions.d/QUESTION-tmpahfz9.md), [CLAIM-1132](../claims.d/CLAIM-1132.md) and [TERM-092](../terms.d/TERM-092.md).
 ---
 
 <!-- inactive-ok-file: CLAIM-1132 — Proposed; filed, registered or cited in the filing of 2026-11-26 from the exchange "Alignment consequences brainstorm" -->
@@ -37,4 +37,4 @@ Heifetz, Meier and Schipper (2006), Journal of Economic Theory 130(1), 78-94.
 ## Standing in the record
 
 Registered from A19 §12 and §VIII of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26). Unread, it grounds nothing. It is
-here for QUESTION-tmpahfz9, CLAIM-1132 and TERM-092.
+here for [QUESTION-tmpahfz9](../questions.d/QUESTION-tmpahfz9.md), [CLAIM-1132](../claims.d/CLAIM-1132.md) and [TERM-092](../terms.d/TERM-092.md).

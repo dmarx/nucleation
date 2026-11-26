@@ -31,7 +31,7 @@ summary: >-
   hierarchical memory and bounded LLM context" that "explicitly draws on
   virtual memory architectures to manage information across different
   memory tiers", the nearest existing system to the availability tiers
-  the exchange proposes (TERM-tmp96b3g). A adds that a governed record
+  the exchange proposes ([TERM-tmp96b3g](../terms.d/TERM-tmp96b3g.md)). A adds that a governed record
   could go further by making retention decisions part of the shared
   record. What A says of the work is unverified until read. The anthology
   may want it as agent-memory practice.
@@ -54,4 +54,4 @@ its context window, what it pages out, and how it pages back in. The
 difference A29 §18 draws is that MemGPT's tiers are one agent's, chosen by
 the agent, while the record's would be shared and governed. A reading
 would say what triggers MemGPT's paging, which bears on the reactivation
-triggers in TERM-tmp96b3g.
+triggers in [TERM-tmp96b3g](../terms.d/TERM-tmp96b3g.md).

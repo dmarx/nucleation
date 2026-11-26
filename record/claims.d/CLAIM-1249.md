@@ -101,14 +101,14 @@ figure ([CLAIM-1275](CLAIM-1275.md)) to a documented kind of campaign.
 An illustration filed. A8 §1 of the exchange, answering the owner's
 request for documented cases, gives the tobacco industry's conduct as a
 2006 federal court found it, including "misleading consumers about health
-consequences" and "suppressing research"; it is filed as CASE-tmp0bk10,
-from the court's opinion (LIT-tmpgcrul, registered, unread), and
+consequences" and "suppressing research"; it is filed as [CASE-tmp0bk10](../cases.d/CASE-tmp0bk10.md),
+from the court's opinion ([LIT-tmpgcrul](../literature.d/LIT-tmpgcrul.md), registered, unread), and
 illustrates this claim. A11 §11 restates the claim correctly:
 "Manufactured doubt need not cause somebody to disbelieve an established
 finding. It can instead raise the threshold of certainty they require
 before permitting action", so that "influence over the relationship
 between evidence and action can be at least as consequential as influence
-over belief." It sets beside it CLAIM-1307 (reflexive control seeding an
+over belief." It sets beside it [CLAIM-1307](CLAIM-1307.md) (reflexive control seeding an
 organization of judgment that maintains itself). Whether the opinion's
 findings bear on the threshold reading, rather than on disbelief, is for
 the reading.

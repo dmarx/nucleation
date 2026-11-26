@@ -36,11 +36,11 @@ summary: >-
   Checked on 2026-11-26, all of them load in luria 1.11.0, but A31's roots
   use Current syntheses and the record has none, so as written the account
   roots mark nothing. It serves the owner's proposal of controlled
-  forgetting (CLAIM-tmpu1fef). The pilot is A's;
+  forgetting ([CLAIM-tmpu1fef](../claims.d/CLAIM-tmpu1fef.md)). The pilot is A's;
   the checks and the corrected design are the assistant's (Claude, in this
   session), and adopting them is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpdid0k CLAIM-184 CLAIM-tmpu1fef — Proposed, or cited for what it holds; the hypothesis this lead serves and the limit on what a trace can decide, cited on 2026-11-26 -->
+<!-- inactive-ok-file: CLAIM-184 CLAIM-tmpu1fef — Proposed, or cited for what it holds; the hypothesis this lead serves and the limit on what a trace can decide, cited on 2026-11-26 -->
 
 # LEAD-tmp79qro: Prototype mark-and-review collection with luria patterns and a view: trace the closure of declared working roots, list the material outside it for review without deleting anything, and compare that set with the material history shows to be inactive
 

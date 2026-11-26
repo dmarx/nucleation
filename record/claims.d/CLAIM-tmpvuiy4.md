@@ -73,7 +73,7 @@ Three routes, each from A17:
   "Reflective commitment", and "The transition among these is not
   automatic."
 
-A17 §4 adds a fourth, frustration: SYNTHESIS-116's occasion for
+A17 §4 adds a fourth, frustration: [SYNTHESIS-116](../syntheses.d/SYNTHESIS-116.md)'s occasion for
 self-formation, with a hospital whose care and working conditions
 conflict until it develops "a better organization of care". It notes
 this "should not be treated as a universal account of purpose formation.
@@ -82,29 +82,29 @@ can also occasion development without first producing frustration."
 
 ## How it stands to the record
 
-- CLAIM-030 holds that a whole's operative intention is not the members'
+- [CLAIM-030](CLAIM-030.md) holds that a whole's operative intention is not the members'
   expectation; this claim says more, that the end itself can be new.
-- CLAIM-1326 holds that reliance can keep an obligation past the original
+- [CLAIM-1326](CLAIM-1326.md) holds that reliance can keep an obligation past the original
   reasons, the normative counterpart of A17 §5: "their relationships can
   acquire a significance that outlasts the original reasons for
   establishing them".
-- CLAIM-1218, the owner's, has a meme as a nucleation site; A17 §9 reads
+- [CLAIM-1218](CLAIM-1218.md), the owner's, has a meme as a nucleation site; A17 §9 reads
   it as a nucleus of purpose: "The purpose does not reside entirely in the
   meme. Nor does it reside entirely in the individuals who encounter it.
   It becomes effective through the organization that forms around it."
-- SYNTHESIS-114's inquiry that revises its own answer space is A17 §8's
+- [SYNTHESIS-114](../syntheses.d/SYNTHESIS-114.md)'s inquiry that revises its own answer space is A17 §8's
   "Purpose formation can be understood as a particularly consequential
   instance of this kind of inquiry."
-- Dewey's ends-in-view (LIT-tmpcyz53, unread) is the precursor A21 names.
+- Dewey's ends-in-view ([LIT-tmpcyz53](../literature.d/LIT-tmpcyz53.md), unread) is the precursor A21 names.
 
 ## What it does not say
 
 - That an emergent purpose is legitimate. A17 §7: emergent commitment and
   "Emergent compulsion" can both "produce coherent purposive behaviour",
   and "An institution can develop an operative purpose without developing
-  the collective capacity to choose it." QUESTION-464 holds the open
+  the collective capacity to choose it." [QUESTION-464](../questions.d/QUESTION-464.md) holds the open
   normative problem.
 - How a constituted purpose is told from a learned instrumental subgoal.
   A17 §12: "A simulated collective developing a useful instrumental
   subgoal is not by itself evidence that it has constituted a new purpose
-  in the stronger sense." LEAD-tmpicg4k is its test.
+  in the stronger sense." [LEAD-tmpicg4k](../leads.d/LEAD-tmpicg4k.md) is its test.

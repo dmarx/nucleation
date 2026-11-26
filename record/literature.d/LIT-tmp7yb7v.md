@@ -33,7 +33,7 @@ summary: >-
   of the exchange "Alignment consequences brainstorm", which cites TinyLFU
   for separating "cache admission from replacement decisions" and draws
   from it that admission to the record "need not imply admission to the
-  working set" (TERM-tmp96b3g). What A says of the work is unverified
+  working set" ([TERM-tmp96b3g](../terms.d/TERM-tmp96b3g.md)). What A says of the work is unverified
   until read.
 ---
 <!-- inactive-ok-file: TERM-tmp96b3g CLAIM-tmp6tc1j — Proposed; filed from the same exchange on 2026-11-26 -->
@@ -54,4 +54,4 @@ is worth a place in a bounded cache at the expense of the item it would
 displace. The record has many rules for admitting an entry to the record
 and none for its place in the working set; a reading would say whether the
 frequency sketch TinyLFU uses has an analogue when the "accesses" are the
-record's own citations, which A29 §8 warns are endogenous (CLAIM-tmp6tc1j).
+record's own citations, which A29 §8 warns are endogenous ([CLAIM-tmp6tc1j](../claims.d/CLAIM-tmp6tc1j.md)).

@@ -23,7 +23,7 @@ keywords:
 - 'nitrogen oxides'
 implementations: []
 summary: >-
-  The Environmental Protection Agency's page on Volkswagen's Clean Air Act violations (first published 2015-10-28, last updated 2026-06-10). Registered for A8 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26), which says VW "installed software that enabled vehicles to behave differently during emissions tests than during normal driving", that "approximately 590,000 vehicles sold in the United States were implicated", and that some emitted nitrogen oxides "at up to 40 times the permitted level". A8 cites no named source; this is the regulator's own account of the figures it uses. It is the source of CASE-tmptm1pi. Unverified until read.
+  The Environmental Protection Agency's page on Volkswagen's Clean Air Act violations (first published 2015-10-28, last updated 2026-06-10). Registered for A8 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26), which says VW "installed software that enabled vehicles to behave differently during emissions tests than during normal driving", that "approximately 590,000 vehicles sold in the United States were implicated", and that some emitted nitrogen oxides "at up to 40 times the permitted level". A8 cites no named source; this is the regulator's own account of the figures it uses. It is the source of [CASE-tmptm1pi](../cases.d/CASE-tmptm1pi.md). Unverified until read.
 ---
 <!-- inactive-ok-file: CASE-tmptm1pi — new; the case this registration is the source of -->
 
@@ -35,4 +35,4 @@ summary: >-
 
 ## Standing in the record
 
-Deferred. The EPA's account of Volkswagen's defeat devices, registered for A8 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26), which gives 590,000 implicated US vehicles and emissions "up to 40 times" the permitted level, and calls the case "evaluation-aware deception" engineered by a human organization. It is the source of CASE-tmptm1pi. Unverified until read.
+Deferred. The EPA's account of Volkswagen's defeat devices, registered for A8 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26), which gives 590,000 implicated US vehicles and emissions "up to 40 times" the permitted level, and calls the case "evaluation-aware deception" engineered by a human organization. It is the source of [CASE-tmptm1pi](../cases.d/CASE-tmptm1pi.md). Unverified until read.

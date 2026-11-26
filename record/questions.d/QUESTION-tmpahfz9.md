@@ -19,9 +19,9 @@ summary: >-
   modal logic?" A19 answered from the record: "Nucleation has several
   geometries of possibility. It does not yet appear to have a unified
   account of their relationship." The record holds each geometry (the
-  compatibility complex of CLAIM-347, the peak threshold of CLAIM-571 and
-  CLAIM-581, the two-budget bifiltration of SYNTHESIS-040 and
-  QUESTION-374, the antitone implications of CLAIM-564) but no question
+  compatibility complex of [CLAIM-347](../claims.d/CLAIM-347.md), the peak threshold of [CLAIM-571](../claims.d/CLAIM-571.md) and
+  [CLAIM-581](../claims.d/CLAIM-581.md), the two-budget bifiltration of [SYNTHESIS-040](../syntheses.d/SYNTHESIS-040.md) and
+  [QUESTION-374](QUESTION-374.md), the antitone implications of [CLAIM-564](../claims.d/CLAIM-564.md)) but no question
   asks how they fit together or whether a modal language can carry them.
   The question is the owner's, in the owner's voice; its sharper form is
   drawn from A19's answer.
@@ -45,15 +45,15 @@ A19 checked the record and found four geometries already worked out,
 each with its own object:
 
 - **which demands can be met together**: the compatibility complex,
-  CLAIM-347, with relief as filling in a missing simplex;
+  [CLAIM-347](../claims.d/CLAIM-347.md), with relief as filling in a missing simplex;
 - **what it costs to move between configurations**: the peak threshold
-  of CLAIM-571, a pseudo-ultrametric under reversible moves (CLAIM-581),
-  which does not fix cumulative cost (CLAIM-646);
+  of [CLAIM-571](../claims.d/CLAIM-571.md), a pseudo-ultrametric under reversible moves ([CLAIM-581](../claims.d/CLAIM-581.md)),
+  which does not fix cumulative cost ([CLAIM-646](../claims.d/CLAIM-646.md));
 - **what can be told apart against what can be turned into one
-  another**: the two budgets of SYNTHESIS-040, whose invariants
-  QUESTION-374 asks for;
+  another**: the two budgets of [SYNTHESIS-040](../syntheses.d/SYNTHESIS-040.md), whose invariants
+  [QUESTION-374](QUESTION-374.md) asks for;
 - **which implications among demands hold**: the budgeted Galois
-  connection of CLAIM-564, where "Fewer implications between demands
+  connection of [CLAIM-564](../claims.d/CLAIM-564.md), where "Fewer implications between demands
   necessarily hold across all affordable configurations" as the budget
   grows.
 
@@ -65,9 +65,9 @@ found in the material reviewed".
 
 A19 proposes a resource-indexed Kripke semantics: configurations as
 worlds, "accessibility as realizable transformation", one relation R_b
-per budget. CLAIM-tmpti7cf works out what that gives: which modal logic
+per budget. [CLAIM-tmpti7cf](../claims.d/CLAIM-tmpti7cf.md) works out what that gives: which modal logic
 holds is fixed by how the resource composes and whether moves reverse,
-so it restates CLAIM-563 and CLAIM-581 and adds nothing they do not hold,
+so it restates [CLAIM-563](../claims.d/CLAIM-563.md) and [CLAIM-581](../claims.d/CLAIM-581.md) and adds nothing they do not hold,
 except a common language. The open parts are those beyond one budget and
 one actor:
 
@@ -77,12 +77,12 @@ one actor:
    governance, recognizable under an epistemic regime, accessible through
    development) and §7 points to resource-bounded coalition logic for
    "who can bring it about, with what resources, and against whose
-   opposition". LEAD-254 asks for the actor- and authority-indexed
+   opposition". [LEAD-254](../leads.d/LEAD-254.md) asks for the actor- and authority-indexed
    reachability this would describe.
 2. **Agreement of equivalences.** A19's research question 2, "Under which
    conditions do modal indistinguishability, bisimulation,
    resource-bounded Yoneda profiles, and operational interchangeability
-   agree?", is QUESTION-384 with modal equivalence added.
+   agree?", is [QUESTION-384](QUESTION-384.md) with modal equivalence added.
 3. **Transformations of the model.** A19 §13 indexes a model by
    architecture, M_g = (X_g, L_g, V_g, {R_{g,i,b,T}}), configurations,
    language, valuation and accessibility for actor i under budget b and
@@ -90,7 +90,7 @@ one actor:
    change any of the four. "The difficult mathematical question would be
    how to relate worlds and propositions across architectures whose
    representational grammars differ", which is where A19 sends it to
-   QUESTION-379's presheaves.
+   [QUESTION-379](QUESTION-379.md)'s presheaves.
 4. **A changing language.** A19's fifth question, "How can a formalism
    represent the formation of genuinely new distinctions and purposes
    without assuming that everything is already represented in an
@@ -103,13 +103,13 @@ one actor:
 
 The owner's follow-up turns took the question on: U12 to the formation
 of values (A21), U13 to "the geometry of potential consequentiality"
-(TERM-tmp8nuak), where what is indexed is which differences can come to
+([TERM-tmp8nuak](../terms.d/TERM-tmp8nuak.md)), where what is indexed is which differences can come to
 matter, not which states can be reached.
 
 ## What would answer it
 
 - A map between the four geometries, saying which determines which and
-  which are independent (CLAIM-560 and CLAIM-583 already show two pairs
+  which are independent ([CLAIM-560](../claims.d/CLAIM-560.md) and [CLAIM-583](../claims.d/CLAIM-583.md) already show two pairs
   independent).
 - A modal language in which each is a family of operators and their
   known separations are non-validities, with a statement of which
@@ -123,10 +123,10 @@ matter, not which states can be reached.
 ## The literature A19 names
 
 Registered, not read: resource-bounded coalition logic and ATL
-(LIT-tmpg6t88, LIT-tmpdtmk7, LIT-tmpqkxsw), sabotage modal logic
-(LIT-tmpruvw0), spatial and topological modal logic (LIT-tmpsmkud,
-LIT-tmpyehic), the modal logic of forcing (LIT-tmpxbgbu), interactive
-unawareness (LIT-tmpuk9ws), and the encyclopedia entries on dynamic
-epistemic logic (LIT-tmpd1vrc) and deontic logic (LIT-tmp8twg8).
+([LIT-tmpg6t88](../literature.d/LIT-tmpg6t88.md), [LIT-tmpdtmk7](../literature.d/LIT-tmpdtmk7.md), [LIT-tmpqkxsw](../literature.d/LIT-tmpqkxsw.md)), sabotage modal logic
+([LIT-tmpruvw0](../literature.d/LIT-tmpruvw0.md)), spatial and topological modal logic ([LIT-tmpsmkud](../literature.d/LIT-tmpsmkud.md),
+[LIT-tmpyehic](../literature.d/LIT-tmpyehic.md)), the modal logic of forcing ([LIT-tmpxbgbu](../literature.d/LIT-tmpxbgbu.md)), interactive
+unawareness ([LIT-tmpuk9ws](../literature.d/LIT-tmpuk9ws.md)), and the encyclopedia entries on dynamic
+epistemic logic ([LIT-tmpd1vrc](../literature.d/LIT-tmpd1vrc.md)) and deontic logic ([LIT-tmp8twg8](../literature.d/LIT-tmp8twg8.md)).
 Lawvere 1973, which A19 lists as "already read in Nucleation", is
-LIT-2106, read in NOTE-1585.
+[LIT-2106](../literature.d/LIT-2106.md), read in [NOTE-1585](../notes.d/NOTE-1585.md).

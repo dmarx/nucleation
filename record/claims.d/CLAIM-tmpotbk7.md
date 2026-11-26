@@ -40,8 +40,8 @@ summary: >-
   "Engineering demand", then "Governing the conditions of demand
   formation". The record held a rung below the ladder, demand read from
   activity weighting a responsive minority with no change in anyone's
-  taste (CLAIM-658), and a laboratory that separates classes reshaping
-  preferences from classes merely used (CLAIM-954); not the ladder or the
+  taste ([CLAIM-658](CLAIM-658.md)), and a laboratory that separates classes reshaping
+  preferences from classes merely used ([CLAIM-954](CLAIM-954.md)); not the ladder or the
   claim about evidence. The condition in the note below is the
   assistant's. The wording is A's (ChatGPT, in the exchange "Alignment consequences brainstorm"); adopting it is the owner's call.
 ---
@@ -51,7 +51,7 @@ summary: >-
 
 ## The claim
 
-A8 (https://chatgpt.com/share/6b07d7ae-9434-83ea-888b-9b20796f291c) on the tobacco case (CASE-tmp0bk10): "consumer demand was not
+A8 (https://chatgpt.com/share/6b07d7ae-9434-83ea-888b-9b20796f291c) on the tobacco case ([CASE-tmp0bk10](../cases.d/CASE-tmp0bk10.md)): "consumer demand was not
 an independent input to the optimization process. It was something the
 industry could influence", so
 
@@ -62,12 +62,12 @@ industry could influence", so
 Its proposed comparative study then orders three cases:
 
 - "Wells Fargo demonstrates optimization corrupting a measure of human
-  demand" (gaming demand measurement; CASE-151);
+  demand" (gaming demand measurement; [CASE-151](../cases.d/CASE-151.md));
 - "Tobacco demonstrates optimization changing the motivational conditions
   underlying human demand" (engineering demand);
 - "Social media introduces the possibility of continuous optimization of
   the broader cultural environment in which human preferences develop"
-  (governing the conditions of demand formation; CASE-tmp824kq).
+  (governing the conditions of demand formation; [CASE-tmp824kq](../cases.d/CASE-tmp824kq.md)).
 
 "These are progressively more expansive forms of optimization
 jurisdiction, not necessarily a historical sequence or a ranking of harm."
@@ -82,12 +82,12 @@ jurisdiction, not necessarily a historical sequence or a ranking of harm."
   generation of preferences will be, so even a correct reading of present
   demand is a reading of the optimizer's environment.
 
-Below the ladder, CLAIM-658 shows a design set against majority
+Below the ladder, [CLAIM-658](CLAIM-658.md) shows a design set against majority
 preference with no change in anyone's taste, by the weighting of activity
-alone; and CLAIM-653 the drift that follows if the heaviest users
-habituate. CLAIM-954's laboratory is what separates the third rung from
+alone; and [CLAIM-653](CLAIM-653.md) the drift that follows if the heaviest users
+habituate. [CLAIM-954](CLAIM-954.md)'s laboratory is what separates the third rung from
 the first: only randomized exposure tells classes that reshape
-preferences from classes merely used. CLAIM-482 is the organizational
+preferences from classes merely used. [CLAIM-482](CLAIM-482.md) is the organizational
 counterpart: an organization's own revealed preference is fitted to one
 regime of authority.
 

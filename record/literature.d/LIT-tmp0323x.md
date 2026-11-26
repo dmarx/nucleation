@@ -23,7 +23,7 @@ keywords:
 - 'Anti-Kickback Statute'
 implementations: []
 summary: >-
-  The Department of Justice's release of 21 October 2020 announcing Purdue Pharma's agreement to plead guilty, and the civil settlement with members of the Sackler family. Registered from A8 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26): "In 2020, Purdue agreed to plead guilty to three federal felony counts, including violations involving kickbacks. The Department of Justice also described marketing practices directed at unusually high-volume prescribers." It bears on CASE-405, whose Purdue sub-case is coded from other documents. Unverified until read.
+  The Department of Justice's release of 21 October 2020 announcing Purdue Pharma's agreement to plead guilty, and the civil settlement with members of the Sackler family. Registered from A8 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26): "In 2020, Purdue agreed to plead guilty to three federal felony counts, including violations involving kickbacks. The Department of Justice also described marketing practices directed at unusually high-volume prescribers." It bears on [CASE-405](../cases.d/CASE-405.md), whose Purdue sub-case is coded from other documents. Unverified until read.
 ---
 <!-- inactive-ok-file: CASE-405 — Proposed; the study whose Purdue sub-case this bears on -->
 
@@ -35,4 +35,4 @@ summary: >-
 
 ## Standing in the record
 
-Deferred. Cited by A8 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26) for Purdue's agreement to plead guilty to "three federal felony counts, including violations involving kickbacks", and for marketing "directed at unusually high-volume prescribers". It bears on CASE-405's Purdue sub-case. Unverified until read.
+Deferred. Cited by A8 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26) for Purdue's agreement to plead guilty to "three federal felony counts, including violations involving kickbacks", and for marketing "directed at unusually high-volume prescribers". It bears on [CASE-405](../cases.d/CASE-405.md)'s Purdue sub-case. Unverified until read.

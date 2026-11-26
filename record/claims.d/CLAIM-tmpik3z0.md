@@ -38,7 +38,7 @@ complements:
 uses:
 - TERM-tmp8nuak
 summary: >-
-  A gap fill (ADR-137) for A23 §4 of the exchange "Alignment consequences
+  A gap fill ([ADR-137](../decisions.d/ADR-137.md)) for A23 §4 of the exchange "Alignment consequences
   brainstorm" (ChatGPT, 2026-11-26), which defines κ_ε(x, x′) =
   inf_w {c(w) : Δ_w(x, x′) ≥ ε} and says "This gives us a geometry quite
   different from conventional transition distance", asking "How much
@@ -63,7 +63,7 @@ contexts and probes attainable from the current organization within
 budget B and time T", D_{B,T}^g(x, x′) = sup Δ_{h,p}(x, x′), noting that
 "For fixed common witness families and a metric on comparable outcomes,
 this construction gives a pseudometric". That is right: a supremum of
-pseudometrics is one, and A23 rightly ties it to CLAIM-574's
+pseudometrics is one, and A23 rightly ties it to [CLAIM-574](CLAIM-574.md)'s
 resource-bounded profiles. A23 §4 then defines κ_ε as a separate
 "consequentiality threshold" and contrasts it with "Nucleation's existing
 transition threshold". It does not relate κ_ε to D, and does not say
@@ -78,8 +78,8 @@ let W_B = {w : c(w) ≤ B} and D_B = sup_{w∈W_B} Δ_w.
    D_B ≥ ε; conversely, if D_B ≥ ε and the supremum is attained, some
    w ∈ W_B has Δ_w ≥ ε. So κ_ε(x, x′) = min{B : D_B(x, x′) ≥ ε}: the
    budget at which the pair first separates by ε. D_B is nondecreasing in
-   B, so this is a threshold in the sense of CLAIM-968, and for an
-   observing budget it is CLAIM-570's "least observing budget that
+   B, so this is a threshold in the sense of [CLAIM-968](CLAIM-968.md), and for an
+   observing budget it is [CLAIM-570](CLAIM-570.md)'s "least observing budget that
    separates two mutually reachable states".
 2. **Not a distance.** κ_ε(x, x) = ∞, since no witness separates a
    configuration from itself, and κ_ε is large for pairs that are hard to
@@ -105,12 +105,12 @@ triangle inequality in every triple at B = 3 and 7.
 - A23's two constructions are one object read two ways: D fixes a budget
   and asks how far apart, κ fixes a margin and asks at what budget. The
   "geometry" is the filtration of equivalences x ∼_B x′ (D_B = 0) that
-  refine as B grows, which CLAIM-574 holds for probes and SYNTHESIS-040
+  refine as B grows, which [CLAIM-574](CLAIM-574.md) holds for probes and [SYNTHESIS-040](../syntheses.d/SYNTHESIS-040.md)
   for observing against acting budgets.
 - What A23 adds to the record is the witness family: probes "that become
   available through attainable organizational development", not only
   probes now affordable. That changes what B buys, not the mathematics.
-  TERM-tmp8nuak keeps the condition this needs: the witness must be
+  [TERM-tmp8nuak](../terms.d/TERM-tmp8nuak.md) keeps the condition this needs: the witness must be
   common to x and x′, which holds when the developing party is the one
   to whom the difference matters, not the system whose configurations x
   and x′ are.

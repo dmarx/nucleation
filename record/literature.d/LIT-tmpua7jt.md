@@ -36,8 +36,8 @@ summary: >-
   and recency, adapting to the access workload", resists pollution from
   one-time scans, and keeps "lightweight histories of recently evicted
   cache keys" whose hits tell it that eviction was too aggressive. A reads
-  the ghost list as a model for a cooled entry's stub (CLAIM-tmpdkwbk,
-  TERM-tmp96b3g). What A says of the work is unverified until read.
+  the ghost list as a model for a cooled entry's stub ([CLAIM-tmpdkwbk](../claims.d/CLAIM-tmpdkwbk.md),
+  [TERM-tmp96b3g](../terms.d/TERM-tmp96b3g.md)). What A says of the work is unverified until read.
 ---
 <!-- inactive-ok-file: CLAIM-tmpdkwbk TERM-tmp96b3g — Proposed; filed from the same exchange on 2026-11-26 -->
 

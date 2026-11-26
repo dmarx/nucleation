@@ -72,16 +72,16 @@ or destroy distinctions."
 
 ## How it stands to the record
 
-- It is QUESTION-tmpahfz9's fourth part, a changing language, stated as a
+- It is [QUESTION-tmpahfz9](../questions.d/QUESTION-tmpahfz9.md)'s fourth part, a changing language, stated as a
   claim about purposes; A19's distinction between "a fixed mathematical
   universe large enough to represent all later developments" and what "a
   developing agent itself had access to" is the reason counting fails.
-- CLAIM-762, the owner's, is one route of generation: equivalence classes
+- [CLAIM-762](CLAIM-762.md), the owner's, is one route of generation: equivalence classes
   reused until they become new distinctions.
-- CLAIM-1036 shows the evaluative cost: a policy's value to a self not
+- [CLAIM-1036](CLAIM-1036.md) shows the evaluative cost: a policy's value to a self not
   yet formed has no value under the present self's valuation, and an
-  outcome past the inquiry frontier (TERM-092) has none at all.
-- CLAIM-tmpvuiy4 is the organizational case: purposes constituted, not
+  outcome past the inquiry frontier ([TERM-092](../terms.d/TERM-092.md)) has none at all.
+- [CLAIM-tmpvuiy4](CLAIM-tmpvuiy4.md) is the organizational case: purposes constituted, not
   aggregated.
 
 ## What it does not say

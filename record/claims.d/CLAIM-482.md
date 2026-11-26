@@ -155,7 +155,7 @@ behave as though it maximizes shareholder value because of its particular
 governance regime. That does not establish that shareholder value exists
 as a primitive organizational motivation." It then divides an apparent
 objective's sources into explicit, institutional, selectional and
-descriptive, filed as CLAIM-tmpdn5sb (A's), which rests on this claim for
+descriptive, filed as [CLAIM-tmpdn5sb](CLAIM-tmpdn5sb.md) (A's), which rests on this claim for
 the difference between the institutional and the descriptive; the
 assistant's note there says which intervention separates each. This
 claim's own result is the second of those interventions.
