@@ -6,7 +6,7 @@
 
 **Superseded** — replaced by a later review of the same change, named in `superseded_by`.
 
-0 of 11 RETRO documents. Back to the [full index](../README.md).
+0 of 12 RETRO documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

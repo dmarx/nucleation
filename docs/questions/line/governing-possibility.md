@@ -6,7 +6,7 @@
 
 **Governing possibility** — regulation as the governance of which organizations a system can attain, sustain and revise, not only of conduct within one; readiness under matched present performance, and identity stabilization as filtering indexed to the timescales of demands; atlas scope 14 (ADR-146). The cost structure of what is realizable stays with realizability, slack with readiness.
 
-0 of 543 QUESTION documents. Back to the [full index](../README.md).
+0 of 544 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

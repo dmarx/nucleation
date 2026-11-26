@@ -6,7 +6,7 @@
 
 **Translation** — translation and its theory — equivalence and its kinds (formal, dynamic, functional), interpretive resemblance, register and quality assessment, translation as skopos-driven action, intersemiotic translation between media, and what a translation preserves or changes (ADR-033).
 
-38 of 1346 CLAIM documents. Back to the [full index](../README.md).
+38 of 1349 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

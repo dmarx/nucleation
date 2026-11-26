@@ -1,5 +1,8 @@
 ---
+number: 544
 status: Open
+formerly:
+- QUESTION-tmppt23x
 title: "What is affect, as the kind the record's affective entries are kinds of: claims to precedence, any concern-relative regime claimed or granted, or no single kind?"
 version: 1
 tags:
@@ -15,13 +18,13 @@ summary: >-
   distinct quantities, but no entry says what "affect" is, though [CLAIM-039](../claims.d/CLAIM-039.md),
   the line's root, is stated of "affective states". The answer fixes how far
   [THEORY-101](../theory.d/THEORY-101.md), the objection the line must answer first, reaches.
-  [CLAIM-tmpy367s](../claims.d/CLAIM-tmpy367s.md), [CLAIM-tmp8ikja](../claims.d/CLAIM-tmp8ikja.md) and [CLAIM-tmp23xa5](../claims.d/CLAIM-tmp23xa5.md) are three alternative
+  [CLAIM-1349](../claims.d/CLAIM-1349.md), [CLAIM-1348](../claims.d/CLAIM-1348.md) and [CLAIM-1347](../claims.d/CLAIM-1347.md) are three alternative
   answers, filed for the owner to choose among.
 ---
 <!-- inactive-ok-file: CLAIM-039 CLAIM-440 CLAIM-442 CLAIM-527 CLAIM-435 CLAIM-446 CLAIM-1233 TERM-076 THEORY-101 — Proposed; the entries this question asks about, with their standing -->
-<!-- inactive-ok-file: CLAIM-tmpy367s CLAIM-tmp8ikja CLAIM-tmp23xa5 — new; the alternative answers filed with this question -->
+<!-- inactive-ok-file: CLAIM-1349 CLAIM-1348 CLAIM-1347 — new; the alternative answers filed with this question -->
 
-# QUESTION-tmppt23x: What is affect, as the kind the record's affective entries are kinds of: claims to precedence, any concern-relative regime claimed or granted, or no single kind?
+# QUESTION-544: What is affect, as the kind the record's affective entries are kinds of: claims to precedence, any concern-relative regime claimed or granted, or no single kind?
 
 ## Why it is a question
 
@@ -70,10 +73,10 @@ grant side.
 
 ## Alternatives filed
 
-- [CLAIM-tmpy367s](../claims.d/CLAIM-tmpy367s.md), alternative A: affect is the claim side.
-- [CLAIM-tmp8ikja](../claims.d/CLAIM-tmp8ikja.md), alternative B: affect is any concern-relative ordering
+- [CLAIM-1349](../claims.d/CLAIM-1349.md), alternative A: affect is the claim side.
+- [CLAIM-1348](../claims.d/CLAIM-1348.md), alternative B: affect is any concern-relative ordering
   with control precedence, claimed or granted.
-- [CLAIM-tmp23xa5](../claims.d/CLAIM-tmp23xa5.md), alternative C: "affect" names no single kind.
+- [CLAIM-1347](../claims.d/CLAIM-1347.md), alternative C: "affect" names no single kind.
 
 The question and the alternatives are the assistant's (Claude, in this
 session); which, if any, the record adopts is the owner's call.

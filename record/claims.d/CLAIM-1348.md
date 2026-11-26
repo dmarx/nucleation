@@ -1,5 +1,8 @@
 ---
+number: 1348
 status: Proposed
+formerly:
+- CLAIM-tmp8ikja
 title: 'Affect spans claim and grant'
 statement: >-
   In an organization, affect is any persistent concern-relative ordering
@@ -24,25 +27,25 @@ date: '2026-11-26'
 line:
 - organizational-affect
 answers:
-- QUESTION-tmppt23x
+- QUESTION-544
 uses:
 - TERM-094
 - TERM-076
 summary: >-
-  Alternative B to [QUESTION-tmppt23x](../questions.d/QUESTION-tmppt23x.md), filed with alternatives A
-  ([CLAIM-tmpy367s](CLAIM-tmpy367s.md)) and C ([CLAIM-tmp23xa5](CLAIM-tmp23xa5.md)) at the owner's question of
+  Alternative B to [QUESTION-544](../questions.d/QUESTION-544.md), filed with alternatives A
+  ([CLAIM-1349](CLAIM-1349.md)) and C ([CLAIM-1347](CLAIM-1347.md)) at the owner's question of
   2026-11-26. It reads the word as covering both sides of [CLAIM-442](CLAIM-442.md)'s gap,
   which matches [CLAIM-1233](CLAIM-1233.md)'s "affectively organized regime" and
   [CLAIM-446](CLAIM-446.md)'s anxiety, and puts the whole line within [THEORY-101](../theory.d/THEORY-101.md)'s reach.
   The wording is the assistant's (Claude, in this session); adopting it is
   the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpy367s CLAIM-tmp23xa5 — new; the question and the alternatives filed with it -->
+<!-- inactive-ok-file: CLAIM-1349 CLAIM-1347 — new; the question and the alternatives filed with it -->
 <!-- inactive-ok-file: CLAIM-039 CLAIM-442 CLAIM-446 CLAIM-527 CLAIM-1233 CLAIM-435 TERM-076 THEORY-101 — Proposed; cited with their standing -->
 
-# CLAIM-tmp8ikja: Affect spans claim and grant
+# CLAIM-1348: Affect spans claim and grant
 
-*Alternative B to [QUESTION-tmppt23x](../questions.d/QUESTION-tmppt23x.md). Alternatives A and C are [CLAIM-tmpy367s](CLAIM-tmpy367s.md) and [CLAIM-tmp23xa5](CLAIM-tmp23xa5.md).*
+*Alternative B to [QUESTION-544](../questions.d/QUESTION-544.md). Alternatives A and C are [CLAIM-1349](CLAIM-1349.md) and [CLAIM-1347](CLAIM-1347.md).*
 
 ## The claim
 
