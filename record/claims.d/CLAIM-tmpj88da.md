@@ -1,16 +1,26 @@
 ---
 status: Proposed
-title: 'Unconscious use is the same content in a format flexible consumers cannot read'
+title: 'Unconscious access is the same content in a format flexible consumers cannot read'
 statement: >-
-  What is called unconscious access is use of information without access:
-  the same content drives a computation from outside the format that a
-  system's flexible consumers, report and arbitrary function application,
-  can read, and becomes accessible when it is recoded into that format; so
-  access is a relation between a format and a set of consumers, not an
-  amount or kind of information content, and a measure of information
-  content that is invariant under recoding cannot tell accessed from
-  unaccessed use
-version: 1
+  Unconscious access, information that is used without being
+  access-conscious, is the same content driving a computation from outside
+  the format that a system's flexible consumers, report and arbitrary
+  function application, can read; it becomes access-conscious when it is
+  recoded into that format; so access consciousness is a relation between
+  a format and a set of consumers, not an amount or kind of information
+  content, and a measure of information content that is invariant under
+  recoding cannot tell access-conscious from unconscious use
+version: 2
+history:
+- version: 2
+  date: '2026-11-26'
+  note: >-
+    At the owner's word: "maybe change that to "access". that claim is
+    specifically about access consciousness." Retitled from 'Unconscious
+    use is the same content in a format flexible consumers cannot read',
+    and the statement now names access consciousness throughout. Version
+    1's statement read "What is called unconscious access is use of
+    information without access". The content is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -51,7 +61,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-003 CLAIM-439 THEORY-454 THEORY-1226 — Proposed or new; entries this claim joins or is set beside -->
 
-# CLAIM-tmpj88da: Unconscious use is the same content in a format flexible consumers cannot read
+# CLAIM-tmpj88da: Unconscious access is the same content in a format flexible consumers cannot read
 
 ## The claim
 
@@ -82,9 +92,9 @@ Three held results fit together.
   and acts on it. The report consumer reads it only once it is loaded.
 
 Together: "unconscious access", as in blindsight or masked priming
-([CLAIM-411](CLAIM-411.md)'s standard cases), names use without access. The content is
+([CLAIM-411](CLAIM-411.md)'s standard cases), is access without access consciousness. The content is
 present and causally effective. What is missing is that it is in the
-format the flexible consumers read. Access is then a relation, a format
+format the flexible consumers read. Access consciousness is then a relation, a format
 together with the consumers able to read it, and not a quantity of
 information. [THEORY-454](../theory.d/THEORY-454.md)'s "cognitive envelope", in which percepts are put
 to cognitive use only once recoded, is the same structure in perception.
@@ -108,6 +118,6 @@ to cognitive use only once recoded, is the same structure in perception.
   and the authors take no position on phenomenal consciousness.
 - That recoding is free or always possible.
 - That information content plays no part. It is necessary for use; it is
-  only not what separates accessed from unaccessed use.
+  only not what separates access-conscious from unconscious use.
 
 [LEAD-tmp9j2yh](../leads.d/LEAD-tmp9j2yh.md) proposes the test of the content half.
