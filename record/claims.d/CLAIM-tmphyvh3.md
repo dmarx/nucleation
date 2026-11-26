@@ -5,12 +5,29 @@ statement: >-
   An organization's goal-conduciveness valence is a disposition of its
   negotiation, the ordering along which its contests would be settled,
   manifested and measurable only where perspectives contest; a window with
-  no contested pair leaves valence unobserved, not undefined, so the
-  potential account's nonvacuity condition is a condition on observing
-  valence, not on having it, and the same holds for any negotiational bias,
+  no contested pair leaves valence unobserved, not undefined, wherever the
+  perspectives' rankings disagree on some pair the window did not present,
+  and absent only where they agree on every pair, so the potential
+  account's nonvacuity condition, read on contests that occur, is a
+  condition on observing valence, and read on pairs the rankings disagree
+  on, a condition on having it; the same holds for any negotiational bias,
   such as a perspective's deference, which can be exhibited only where at
   least two perspectives compete
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-26'
+  note: >-
+    Narrowed by LEAD-tmpuszbx's computation (case 5): with rankings that
+    agree on every pair, no contest would arise under any will-organization,
+    so valence is absent dispositionally too. "Unobserved, not undefined"
+    now holds only where the rankings disagree on some pair, and the
+    nonvacuity condition has two readings: on contests that occur
+    (observation) and on pairs the rankings disagree on (existence).
+    Version 1's statement had "a window with no contested pair leaves
+    valence unobserved, not undefined, so the potential account's
+    nonvacuity condition is a condition on observing valence, not on
+    having it".
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -45,6 +62,7 @@ summary: >-
   the statement and the basis in standing grant relations are the
   assistant's (Claude, in this session). Adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: LEAD-tmpuszbx — new; the lead whose computation narrowed this claim -->
 <!-- inactive-ok-file: CLAIM-440 CLAIM-441 TERM-076 THEORY-252 — Proposed; the claim objected to and the entries it bears on, with their standing -->
 
 # CLAIM-tmphyvh3: Valence unobserved is not valence absent
@@ -103,6 +121,18 @@ contest, the claim fails.
   common alarm") do. [CLAIM-448](CLAIM-448.md) names the converse gap, contests that occur
   and are not admitted. The two together are the observational limits on
   the potential account.
+
+## Note of 2026-11-26: agreement everywhere is absence
+
+LEAD-tmpuszbx computed the would-prevail relation from a will-organization
+state (scratch/studies/lead-tmpuszbx/would_prevail.py). Case 5, two
+perspectives whose rankings agree on every pair, has no contestable pair
+under any assignment of influence: nothing the will-organization could do
+would settle a contest, because none could arise. There valence is
+absent, not merely unobserved. The harmonious organization of the
+workbench entry has unobserved valence only if its perspectives would
+disagree about some state it has not met. The statement is narrowed to
+match (version 2).
 
 ## What it costs
 
