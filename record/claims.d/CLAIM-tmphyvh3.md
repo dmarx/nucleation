@@ -62,7 +62,6 @@ summary: >-
   the statement and the basis in standing grant relations are the
   assistant's (Claude, in this session). Adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: LEAD-tmpuszbx — new; the lead whose computation narrowed this claim -->
 <!-- inactive-ok-file: CLAIM-440 CLAIM-441 TERM-076 THEORY-252 — Proposed; the claim objected to and the entries it bears on, with their standing -->
 
 # CLAIM-tmphyvh3: Valence unobserved is not valence absent
@@ -124,7 +123,7 @@ contest, the claim fails.
 
 ## Note of 2026-11-26: agreement everywhere is absence
 
-LEAD-tmpuszbx computed the would-prevail relation from a will-organization
+[LEAD-tmpuszbx](../leads.d/LEAD-tmpuszbx.md) computed the would-prevail relation from a will-organization
 state (scratch/studies/lead-tmpuszbx/would_prevail.py). Case 5, two
 perspectives whose rankings agree on every pair, has no contestable pair
 under any assignment of influence: nothing the will-organization could do
