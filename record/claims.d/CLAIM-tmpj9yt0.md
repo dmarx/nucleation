@@ -26,6 +26,7 @@ tags:
 date: '2026-11-26'
 line:
 - pragmatic-transport
+- distributed-agency
 answers:
 - QUESTION-tmpq653b
 rests_on:

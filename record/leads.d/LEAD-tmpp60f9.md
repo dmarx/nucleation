@@ -30,7 +30,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-tmpj9yt0 CLAIM-tmpv6eti CLAIM-tmpca3a7 CLAIM-tmpfne5k — new; the question and claims this would advance -->
 
-# LEAD-tmpp60f9: Read the reports of delusions during extended chatbot use
+# LEAD-tmpp60f9: Read the clinical and documented reports of delusions during extended chatbot use, for theme convergence across users, exposure dose, course after use stops, and personas carried between instances
 
 ## What to read for
 
