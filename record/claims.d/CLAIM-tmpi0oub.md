@@ -90,4 +90,4 @@ the system as a whole.
 
 ## Note of 2026-11-26: the owner's usage, again
 
-The owner, the same day: "the valence of an agent's affect tells us what behaviors they would be predisposed towards, i.e. the actions that would be triggered." That is the third time in the exchange that the owner has used "valence" for the direction of a predisposition and not for TERM-076's sign of position along an ordering. It supports this claim's reading, that the owner's word is Lewin's sense, as against a conflation with affect. CLAIM-tmpaqezl states the predisposition reading for action readiness.
+The owner, the same day: "the valence of an agent's affect tells us what behaviors they would be predisposed towards, i.e. the actions that would be triggered." That is the third time in the exchange that the owner has used "valence" for the direction of a predisposition and not for [TERM-076](../terms.d/TERM-076.md)'s sign of position along an ordering. It supports this claim's reading, that the owner's word is Lewin's sense, as against a conflation with affect. [CLAIM-tmpaqezl](CLAIM-tmpaqezl.md) states the predisposition reading for action readiness.
