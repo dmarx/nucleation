@@ -141,7 +141,7 @@ claim's "the presentations collide" does not yet name. No status change.
 
 <!-- inactive-ok-block: CLAIM-tmpw7swg — new; the claim this note points to -->
 
-CLAIM-tmpw7swg rests on this claim. It reads the management this claim
+[CLAIM-tmpw7swg](CLAIM-tmpw7swg.md) rests on this claim. It reads the management this claim
 describes ("people keep them apart and script the occasions where they must
 meet") as control of the cover, and draws a consequence this claim does not
 state. Where collapse removes that control, the pressure to repair falls on

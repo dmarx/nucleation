@@ -40,10 +40,10 @@ summary: >-
   their contexts meet": "I'm wondering if that belongs nested in claim 196
   or if maybe that should be a claim of its own, assuming it isn't already
   a claim or a theory we can invoke." The empirical half is held:
-  CLAIM-317 ("people keep them apart and script the occasions where they
-  must meet") and THEORY-406 (boyd). The structural half was nested in
-  CLAIM-196's body. It is filed here as its own claim because it has
-  consequences neither holds, and CLAIM-tmprejdn's cure uses it. The
+  [CLAIM-317](CLAIM-317.md) ("people keep them apart and script the occasions where they
+  must meet") and [THEORY-406](../theory.d/THEORY-406.md) (boyd). The structural half was nested in
+  [CLAIM-196](CLAIM-196.md)'s body. It is filed here as its own claim because it has
+  consequences neither holds, and [CLAIM-tmprejdn](CLAIM-tmprejdn.md)'s cure uses it. The
   alternative, leaving it nested, files nothing. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
@@ -53,12 +53,12 @@ summary: >-
 
 ## The claim
 
-CLAIM-196's body said a presented self "is a global section relative to a
+[CLAIM-196](CLAIM-196.md)'s body said a presented self "is a global section relative to a
 cover the person partly controls". That sentence carries a thesis that
-neither CLAIM-196 nor its empirical half, CLAIM-317, states. The
-mathematics, CLAIM-197, makes whether sections glue depend on the cover:
+neither [CLAIM-196](CLAIM-196.md) nor its empirical half, [CLAIM-317](CLAIM-317.md), states. The
+mathematics, [CLAIM-197](CLAIM-197.md), makes whether sections glue depend on the cover:
 "which families count as covers decides whether anything glues". The
-sociology, CLAIM-317 and THEORY-406, has people managing the cover. Their
+sociology, [CLAIM-317](CLAIM-317.md) and [THEORY-406](../theory.d/THEORY-406.md), has people managing the cover. Their
 presentations "coexist without trouble while the audiences are kept apart
 by spatial, social and temporal boundaries". Joined:
 
@@ -68,26 +68,26 @@ by spatial, social and temporal boundaries". Joined:
    their contexts are arranged alone.
 2. **Two levers.** Incoherence can be repaired by changing what is
    presented, or by changing which audiences meet: segregating, scripting
-   the meeting, or opening a cycle (CLAIM-tmprejdn).
+   the meeting, or opening a cycle ([CLAIM-tmprejdn](CLAIM-tmprejdn.md)).
 3. **A substitution.** Where control of the cover is lost, as in the
-   collapse CLAIM-317 describes, the second lever is gone. The pressure to
+   collapse [CLAIM-317](CLAIM-317.md) describes, the second lever is gone. The pressure to
    repair then falls on the roles themselves. This predicts more role
    revision under collapse than under kept-apart audiences, for the same
-   collision. CLAIM-317 does not state that.
+   collision. [CLAIM-317](CLAIM-317.md) does not state that.
 
 ## Source and gap
 
 The classical source is Goffman's audience segregation, in *The
 Presentation of Self in Everyday Life*. It is not on the record. The only
-Goffman held, *Forms of Talk* (LIT-780), is Unavailable. The claim's
-outside ground is boyd (THEORY-406), who builds on Meyrowitz and Goffman. A
+Goffman held, *Forms of Talk* ([LIT-780](../literature.d/LIT-780.md)), is Unavailable. The claim's
+outside ground is boyd ([THEORY-406](../theory.d/THEORY-406.md)), who builds on Meyrowitz and Goffman. A
 reading lead for Goffman is offered to the owner, not filed.
 
 ## What it does not say
 
 - **That the person fully controls the cover.** Others' movements, media
   and institutions set much of it.
-- **That managing the cover is deception.** CLAIM-196 already rejects
+- **That managing the cover is deception.** [CLAIM-196](CLAIM-196.md) already rejects
   that: distinct contexts are how people "properly locate their
   performances".
-- **Anything about the other senses of "self"** (TERM-045).
+- **Anything about the other senses of "self"** ([TERM-045](../terms.d/TERM-045.md)).

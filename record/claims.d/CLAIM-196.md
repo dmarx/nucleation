@@ -235,7 +235,7 @@ a status change and is left to the owner. No status change.
 
 At the owner's question, this claim's sentence that a presented self "is a
 global section relative to a cover the person partly controls" is filed as
-its own claim, CLAIM-tmpw7swg. Its empirical half was already CLAIM-317.
+its own claim, [CLAIM-tmpw7swg](CLAIM-tmpw7swg.md). Its empirical half was already [CLAIM-317](CLAIM-317.md).
 What was not held is the structural thesis and its consequences: coherence
 is a property of roles together with the cover, there are two levers of
 repair, and loss of cover control shifts the repair onto the roles. This
