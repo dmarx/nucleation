@@ -57,20 +57,41 @@ def parse_raw_log(text: str) -> list[Commit]:
     return commits
 
 
-def read_log(repo: Path, rev: str, paths: list[str]) -> list[Commit]:
-    """The first-parent history of `rev` touching `paths`, oldest first.
+def read_log(repo: Path, rev: str, paths: list[str], walk: str = "all") -> list[Commit]:
+    """Commits of `rev`'s history touching `paths`, oldest first.
 
-    Each merge is diffed against its first parent, so the sequence is linear
-    and its cumulative diffs reproduce `rev`'s tree exactly. A pull request
-    merged with a merge commit lands as one change, at its merge time. (A
-    date-ordered walk of every commit is not linear: a side branch's
-    deletion, replayed after the main line's addition, loses a live entry.)
+    walk="all": every non-merge commit, in date order. Fine-grained (work on
+    staging appears pull request by pull request), but not linear: a side
+    branch's deletion can come after the main line's addition. Present state
+    is therefore read from the tip's tree (`tree_entries`), not replayed.
+    walk="first-parent": the first-parent chain, merges diffed against their
+    first parent. Linear and exact at the tip, but a merge (a nightly
+    promotion of staging) lands as one commit.
     """
+    if walk == "all":
+        mode = ["--no-merges", "--date-order"]
+    elif walk == "first-parent":
+        mode = ["--first-parent", "--diff-merges=first-parent"]
+    else:
+        raise ValueError(f"walk must be 'all' or 'first-parent', not {walk!r}")
     out = subprocess.run(
-        ["git", "-C", str(repo), "log", "--first-parent", "--diff-merges=first-parent",
-         "--raw", "-M", "--no-abbrev", "--reverse", f"--format={FORMAT}", rev, "--", *paths],
+        ["git", "-C", str(repo), "log", *mode, "--raw", "-M", "--no-abbrev", "--reverse",
+         f"--format={FORMAT}", rev, "--", *paths],
         check=True, capture_output=True, text=True).stdout
     return parse_raw_log(out)
+
+
+def tree_blobs(repo: Path, rev: str, paths: list[str]) -> dict[str, str]:
+    """Path to blob sha for every file under `paths` in `rev`'s tree."""
+    out = subprocess.run(["git", "-C", str(repo), "ls-tree", "-r", rev, "--", *paths],
+                         check=True, capture_output=True, text=True).stdout
+    blobs = {}
+    for line in out.splitlines():
+        meta, path = line.split("\t", 1)
+        _, kind, sha = meta.split(" ")
+        if kind == "blob":
+            blobs[path] = sha
+    return blobs
 
 
 class BlobReader:

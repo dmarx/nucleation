@@ -77,3 +77,12 @@ def test_accretion_does_not_reset_revision_stability():
     assert p["days_since_prose"] == 10
     assert p["days_since_revision"] == 50
     assert (p["revisions"], p["accretions"]) == (1, 1)
+
+
+def test_tip_state_overrides_replayed_present_state():
+    tip = {"CLAIM-1": set(), "CLAIM-2": {("rests_on", "CLAIM-1")}, "CLAIM-3": set(),
+           "CLAIM-4": {("rests_on", "CLAIM-1")}}  # the replay lost CLAIM-4's edge
+    ps = profiles(ROWS + [ev(59, "CLAIM-3", "deleted")], P, tip=tip)
+    assert ps["CLAIM-3"]["deleted"] is False  # live at the tip
+    assert ps["CLAIM-1"]["in_degree"] == 2  # CLAIM-2 and CLAIM-4, from the tip
+    assert ps["CLAIM-1"]["new_dependents_30d"] == 1  # CLAIM-4 (day 58); CLAIM-3's edge is gone

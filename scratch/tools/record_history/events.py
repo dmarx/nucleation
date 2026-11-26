@@ -8,7 +8,7 @@ from pathlib import Path
 from loguru import logger
 
 from record_history.classify import diff_entries
-from record_history.entries import Schema, canonical, code_of_path, parse_entry
+from record_history.entries import Schema, as_codes, canonical, code_of_path, parse_entry
 from record_history.gitlog import BlobReader, Commit
 
 
@@ -85,6 +85,24 @@ def replay(commits: list[Commit], blobs: BlobReader, schema: Schema,
         if i % 500 == 0:
             logger.info(f"replayed {i}/{len(commits)} commits, {len(rows)} events")
     return rows
+
+
+def tree_entries(blobs: BlobReader, tree: dict[str, str], schema: Schema,
+                 alias: dict[str, str]) -> dict[str, set[tuple[str, str]]]:
+    """Each live entry at the tip, with its forward edges (canonical codes)."""
+    out: dict[str, set[tuple[str, str]]] = {}
+    for path, sha in tree.items():
+        raw = code_of_path(path)
+        if not raw:
+            continue
+        code = canonical(raw, alias)
+        scheme = schema.scheme_of(code)
+        if scheme is None:
+            continue
+        fields, _ = parse_entry(blobs.read(sha))
+        out[code] = {(f, c) for f in schema.forward_fields(scheme)
+                     for c in as_codes(fields.get(f), alias)}
+    return out
 
 
 def final_state(rows: list[dict]) -> dict[str, dict]:

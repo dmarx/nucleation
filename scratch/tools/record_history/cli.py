@@ -20,8 +20,8 @@ from loguru import logger
 from omegaconf import OmegaConf
 
 from record_history.entries import Schema
-from record_history.events import alias_map, formerly_on_disk, replay
-from record_history.gitlog import BlobReader, read_log
+from record_history.events import alias_map, formerly_on_disk, replay, tree_entries
+from record_history.gitlog import BlobReader, read_log, tree_blobs
 from record_history.phase import classify, exemplars, plot, summary_table
 from record_history.profile import DAY, Params, profiles, sweep_commits
 
@@ -37,22 +37,23 @@ def _write_csv(path: Path, rows: list[dict]) -> None:
         w.writerows(rows)
 
 
-def extract(repo: str = ".", rev: str = "origin/staging") -> tuple[list[dict], Schema]:
-    """Replay the record's history into event rows."""
+def extract(repo: str = ".", rev: str = "origin/staging", walk: str = "all"):
+    """Replay the record's history into event rows; read the tip's state."""
     root = Path(repo).resolve()
     config = OmegaConf.to_container(OmegaConf.load(root / "luria.yaml"), resolve=False)
     schema = Schema.from_config(config)
     dirs = [s["dir"] for s in config["schemes"].values()]
-    commits = read_log(root, rev, dirs)
+    commits = read_log(root, rev, dirs, walk)
     logger.info(f"{len(commits)} commits touch the scheme directories")
     alias = alias_map(commits, formerly_on_disk(root, dirs))
     logger.info(f"{len(alias)} code aliases")
     blobs = BlobReader(root)
     try:
         rows = replay(commits, blobs, schema, alias)
+        tip = tree_entries(blobs, tree_blobs(root, rev, dirs), schema, alias)
     finally:
         blobs.close()
-    return rows, schema
+    return rows, tip
 
 
 def read_events(path: str) -> list[dict]:
@@ -69,23 +70,27 @@ def read_events(path: str) -> list[dict]:
 
 
 def run(repo: str = ".", out: str = "scratch/studies/record-history",
-        rev: str = "origin/staging", keep_events: bool = False, **kw) -> None:
+        rev: str = "origin/staging", walk: str = "all", keep_events: bool = False, **kw) -> None:
     """Replay the history, then write the report (see `report` for its options)."""
     out_dir = Path(out)
     out_dir.mkdir(parents=True, exist_ok=True)
-    rows, _ = extract(repo, rev)
+    rows, tip = extract(repo, rev, walk)
     if keep_events:
         _write_csv(out_dir / "events.csv.gz",
                    [{**r, "fields": json.dumps(r["fields"])} if "fields" in r else r for r in rows])
-    _report(rows, out_dir, **kw)
+        (out_dir / "tip.json").write_text(json.dumps({c: sorted(es) for c, es in tip.items()}))
+    _report(rows, out_dir, tip=tip, **kw)
 
 
-def report(events: str, out: str, **kw) -> None:
-    """Write the report from a saved event table, without replaying."""
-    _report(read_events(events), Path(out), **kw)
+def report(events: str, out: str, tip: str | None = None, **kw) -> None:
+    """Write the report from a saved event table (and tip.json), without replaying."""
+    state = None
+    if tip:
+        state = {c: {tuple(e) for e in es} for c, es in json.loads(Path(tip).read_text()).items()}
+    _report(read_events(events), Path(out), tip=state, **kw)
 
 
-def _report(rows: list[dict], out_dir: Path, sweep_breadth: int = 250, created_share: float = 0.1,
+def _report(rows: list[dict], out_dir: Path, tip: dict | None = None, sweep_breadth: int = 250, created_share: float = 0.1,
             stable_days: int = 14, generative: int = 1, window: int = 30,
             reactivation_days: int = 14, scheme: str = "CLAIM", now: int | None = None,
             stability: str = "revision") -> None:
@@ -94,7 +99,7 @@ def _report(rows: list[dict], out_dir: Path, sweep_breadth: int = 250, created_s
     now = now or max(r["time"] for r in rows)
     params = Params(now=now, sweep_breadth=sweep_breadth, created_share=created_share,
                     reactivation_days=reactivation_days, windows=(7, window))
-    every = profiles(rows, params)
+    every = profiles(rows, params, tip)
     profs = {c: p for c, p in every.items() if not p["deleted"]}
     classify(profs, stable_days, generative, window, stability)
     _write_csv(out_dir / "profiles.csv", sorted(every.values(), key=lambda p: p["code"]))

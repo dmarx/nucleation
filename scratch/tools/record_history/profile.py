@@ -47,7 +47,14 @@ def quadrant(days_since_prose: float, new_dependents: int, stable_days: float, g
             (False, False): "unresolved churn", (True, False): "dormant structure"}[(stable, gen)]
 
 
-def profiles(rows: list[dict], p: Params) -> dict[str, dict]:
+def profiles(rows: list[dict], p: Params,
+             tip: dict[str, set[tuple[str, str]]] | None = None) -> dict[str, dict]:
+    """Profiles from the events; `tip`, if given, is the present state.
+
+    `tip` maps each live entry to its forward edges as the tip's tree has
+    them. History (times, first uses) comes from the events; what is live
+    and what points where now comes from the tree, which is ground truth.
+    """
     rows = [r for r in rows if r["time"] <= p.now]
     sweeps = sweep_commits(rows, p.sweep_breadth, p.created_share)
     w_short, w_long = p.windows
@@ -96,13 +103,19 @@ def profiles(rows: list[dict], p: Params) -> dict[str, dict]:
             activity[code].append(t)
             subst_times[code].append((t, r["commit"]))
 
+    if tip is not None:
+        edges = defaultdict(set, {c: {(f, x) for f, x in es if x != c} for c, es in tip.items()})
+        for code, e in info.items():
+            e["deleted"] = code not in tip
     incoming = defaultdict(set)
     for src, es in edges.items():
         for _, tgt in es:
             incoming[tgt].add(src)
     firsts = defaultdict(list)
+    live_pairs = {(s, x) for s, es in edges.items() for _, x in es}
     for (src, tgt), t in first_edge.items():
-        firsts[tgt].append(t)
+        if tip is None or (src, tgt) in live_pairs:
+            firsts[tgt].append(t)
 
     out = {}
     for code, e in info.items():
