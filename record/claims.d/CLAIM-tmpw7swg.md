@@ -35,8 +35,6 @@ grounds:
 - THEORY-406
 complements:
 - CLAIM-196
-supports:
-- CLAIM-tmprejdn
 summary: >-
   The owner, 2026-11-26, on "the point that people partly manage which of
   their contexts meet": "I'm wondering if that belongs nested in claim 196
