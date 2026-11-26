@@ -54,8 +54,8 @@ summary: >-
   reads the established anchor as "something very close to Nucleation's
   account of individuation: a relatively stabilized structure becomes a
   substrate on which more complex structure develops", which is
-  CLAIM-185's thesis made measurable, and a candidate answer to
-  QUESTION-038. The record's one measurement so far cuts against the
+  [CLAIM-185](CLAIM-185.md)'s thesis made measurable, and a candidate answer to
+  [QUESTION-038](../questions.d/QUESTION-038.md). The record's one measurement so far cuts against the
   anchor quadrant's expected population (note of 2026-11-26). The wording
   is A's; adopting it is the owner's call.
 ---
@@ -84,18 +84,18 @@ trajectories, or detect change points, on a vector of revision intensity,
 incoming reliance rate, outgoing exploration rate, neighbourhood activity,
 synthesis mediation and standing volatility.
 
-Its stake in the record's argument is CLAIM-185: if persistent structures
+Its stake in the record's argument is [CLAIM-185](CLAIM-185.md): if persistent structures
 are what more complex structure grows on, the record's own history should
 show entries that settle and then carry growth. That is the dynamical sense
-of TERM-088, an organization persisting under specified dynamics, read on
-the record's entries. CLAIM-286 makes the parallel move for a mind's habits
+of [TERM-088](../terms.d/TERM-088.md), an organization persisting under specified dynamics, read on
+the record's entries. [CLAIM-286](CLAIM-286.md) makes the parallel move for a mind's habits
 and insights, as regimes of one organization.
 
 ## What it does not say
 
 - It does not say a regime is a judgement of worth. A33's caption: the
   locations "are descriptive, not judgments of epistemic worth".
-- It does not say why an entry settled. CLAIM-768 holds that settling does
+- It does not say why an entry settled. [CLAIM-768](CLAIM-768.md) holds that settling does
   not show what stopped an entry; a stable, cited entry may be conserved or
   contracted onto the record's conventions, and the phase space cannot tell
   them apart.
@@ -105,17 +105,17 @@ and insights, as regimes of one organization.
 
 ## How it would be tested
 
-LEAD-tmpn6mi2 builds the event log, and LEAD-tmp14mq0 maps the claims in the
+[LEAD-tmpn6mi2](../leads.d/LEAD-tmpn6mi2.md) builds the event log, and [LEAD-tmp14mq0](../leads.d/LEAD-tmp14mq0.md) maps the claims in the
 plane and tests the defeater above.
 
 ## Note of 2026-11-26: what the record already shows (the assistant's)
 
-The record has measured one half of the relation already. CASE-307, run
-for LEAD-199, found that at matched age claims with inbound `rests_on` or
+The record has measured one half of the relation already. [CASE-307](../cases.d/CASE-307.md), run
+for [LEAD-199](../leads.d/LEAD-199.md), found that at matched age claims with inbound `rests_on` or
 `grounds` edges take substantive revisions about 1.45 times as often as
 claims with none, and that 148 of the 303 revisions after a first edge fall
-within a day of it. CLAIM-864 reads this as cited claims being revised more,
-not less; CLAIM-863 as each edge adding a recheck. Either way, on this
+within a day of it. [CLAIM-864](CLAIM-864.md) reads this as cited claims being revised more,
+not less; [CLAIM-863](CLAIM-863.md) as each edge adding a recheck. Either way, on this
 record downstream reliance and revision arrive together, so the two axes of
 A33's plane are not independent, and an established-anchor quadrant read at
 face value will be thin, with heavily built-on claims sitting among the
@@ -123,9 +123,9 @@ developing nuclei. That does not defeat the hypothesis, which asks for
 distinguishable regimes and not for a populated anchor quadrant. It does
 mean the map has to be read at matched age and with revisions that follow
 an edge within a day set apart. The assistant files the point as
-CLAIM-tmp4fc0k, argued in ARG-tmpo9ilq.
+[CLAIM-tmp4fc0k](CLAIM-tmp4fc0k.md), argued in [ARG-tmpo9ilq](../arguments.d/ARG-tmpo9ilq.md).
 
-A second caution comes from ARG-028's critical questions: a measure
+A second caution comes from [ARG-028](../arguments.d/ARG-028.md)'s critical questions: a measure
 computed in the record's grammar registers what that grammar rewards. An
 anchor quadrant filled by entries the grammar obliges agents to cite would
 show the grammar's habits, not individuation.

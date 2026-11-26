@@ -33,11 +33,11 @@ summary: >-
   A5 §2 of the exchange "Alignment consequences brainstorm" (ChatGPT,
   2026-11-26), "Social movements, strikes and revolutions", at the owner's
   U3. It reads collective action through the record's readiness terms
-  (TERM-115, TERM-167): a strike fund "converts financial resources into
+  ([TERM-115](../terms.d/TERM-115.md), [TERM-167](../terms.d/TERM-167.md)): a strike fund "converts financial resources into
   the capacity to sustain a refusal". The record holds readiness as a
-  family of probabilities under imposed contingencies (TERM-115), a
-  savings buffer as a stock of time (CLAIM-601), and that assembly,
-  persistence and regeneration differ (CLAIM-566); it holds no claim that
+  family of probabilities under imposed contingencies ([TERM-115](../terms.d/TERM-115.md)), a
+  savings buffer as a stock of time ([CLAIM-601](CLAIM-601.md)), and that assembly,
+  persistence and regeneration differ ([CLAIM-566](CLAIM-566.md)); it holds no claim that
   collective action fails for want of readiness rather than will.
   Interpretive; the threshold clause is asserted, not modelled. The
   wording is A's; adopting it is the owner's call.
@@ -68,16 +68,16 @@ collective action can exhibit threshold behaviour".
 
 ## Against the record
 
-- **Readiness.** TERM-115 is defined for an organization under its actual
+- **Readiness.** [TERM-115](../terms.d/TERM-115.md) is defined for an organization under its actual
   policy; a population without coordination has no single policy, so the
   claim's "lack a viable transition" is readiness of a collective that does
   not yet exist. That is the claim's point, and it is why A says the
   movement constructs the agent.
-- **The fund as a stock of time.** CLAIM-601's savings buffer sets how
+- **The fund as a stock of time.** [CLAIM-601](CLAIM-601.md)'s savings buffer sets how
   many bad periods a household can absorb; a strike fund sets how long a
   refusal can be sustained. Same form, a reserve that is a deadline.
 - **The threshold.** Asserted. The record's threshold baseline for
-  collective uptake is LEAD-264's reading of complex contagion; whether a
+  collective uptake is [LEAD-264](../leads.d/LEAD-264.md)'s reading of complex contagion; whether a
   readiness threshold differs from an adoption threshold is not shown.
 
 ## What it does not say

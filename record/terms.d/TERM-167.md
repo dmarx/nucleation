@@ -155,15 +155,15 @@ A4 adds "A fourth achievement, not fully captured by the current
 construction ... the maintained ability to revise the governance
 organization itself, including its criteria for what constitutes an
 appropriate response". That is held: the manuscript's §8.4 says the
-construction formalizes CLAIM-025's third tier, "the capacity to
+construction formalizes [CLAIM-025](../claims.d/CLAIM-025.md)'s third tier, "the capacity to
 transform that organization", "only as far as 𝔇 reaches", and leaves
-open what would make that capacity the organization's own (QUESTION-388).
+open what would make that capacity the organization's own ([QUESTION-388](../questions.d/QUESTION-388.md)).
 
 A4 §5 proposes indexing the kernel by actor, V_human, V_AI, V_joint; that
-is LEAD-254's, and its note of today states what the indexing must fix.
-A4 §15 proposes a study connecting this kernel to CLAIM-667's experiment
-(LEAD-tmp9snzi), and A5 §2 calls a strike fund "part of the material
-infrastructure of reorganization readiness" (CLAIM-tmp887rf). Each is an
+is [LEAD-254](../leads.d/LEAD-254.md)'s, and its note of today states what the indexing must fix.
+A4 §15 proposes a study connecting this kernel to [CLAIM-667](../claims.d/CLAIM-667.md)'s experiment
+([LEAD-tmp9snzi](../leads.d/LEAD-tmp9snzi.md)), and A5 §2 calls a strike fund "part of the material
+infrastructure of reorganization readiness" ([CLAIM-tmp887rf](../claims.d/CLAIM-tmp887rf.md)). Each is an
 application, not a revision; the term is unchanged.
 
 ## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U8–A15)
@@ -182,7 +182,7 @@ q_ω, "where the relevant actors, adequacy criteria, budgets, deadlines,
 and readiness thresholds are themselves subject to legitimate
 governance", and calls this "part of an **authority-sensitive viability
 kernel**". The new element is the index i: this term's routes C_ω become
-the routes open to a particular coalition, and readiness becomes TERM-115's
+the routes open to a particular coalition, and readiness becomes [TERM-115](TERM-115.md)'s
 probability.
 
 **Two corrections.**

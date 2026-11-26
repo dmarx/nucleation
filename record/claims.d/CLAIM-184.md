@@ -339,12 +339,12 @@ adds nothing to it.
 A31's next sentence names what would add: "A historical replay using Git would
 additionally distinguish dependencies formed before retirement from those
 formed afterward." That is the remedy for the first caveat of 2026-11-06, that
-citations were dated without git history. LEAD-tmpn6mi2's event log dates every
+citations were dated without git history. [LEAD-tmpn6mi2](../leads.d/LEAD-tmpn6mi2.md)'s event log dates every
 relation added to a Superseded entry by its commit, so the count can be redone
 with git dates. A33's "Entrenchment" row (continued dependence despite
 replacement or correction) is the same measure. Neither reaches the claim's
 first half, that an early anchor makes alternatives hard to reach, nor the loop
-TERM-020 requires. No status change.
+[TERM-020](../terms.d/TERM-020.md) requires. No status change.
 
 ## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U15–A27), retirement's remedy and the owner's controlled forgetting
 <!-- inactive-ok-file: CLAIM-tmpu1fef TERM-tmp96b3g — Proposed or Open; filed from the same exchange on 2026-11-26 -->

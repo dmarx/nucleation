@@ -18,7 +18,7 @@ published: '1979-01'
 doi: '10.1016/0149-7189(79)90048-X'
 first_author: 'Campbell'
 summary: >-
-  The paper A6 §8 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26) cites as "particularly relevant": it "examines how the use of quantitative indicators in social decision-making creates pressures that can undermine the processes being measured", the source of Campbell's law in A6's precedents table. It bears on CLAIM-tmpe432a, TERM-108 and CLAIM-1334. Unverified until read.
+  The paper A6 §8 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26) cites as "particularly relevant": it "examines how the use of quantitative indicators in social decision-making creates pressures that can undermine the processes being measured", the source of Campbell's law in A6's precedents table. It bears on [CLAIM-tmpe432a](../claims.d/CLAIM-tmpe432a.md), [TERM-108](../terms.d/TERM-108.md) and [CLAIM-1334](../claims.d/CLAIM-1334.md). Unverified until read.
 ---
 
 <!-- inactive-ok-file: LIT-1423 — Unavailable; named only to tell the two Campbells apart -->
@@ -32,4 +32,4 @@ summary: >-
 
 ## Standing in the record
 
-Deferred. The paper A6 §8 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26) cites as "particularly relevant": it "examines how the use of quantitative indicators in social decision-making creates pressures that can undermine the processes being measured", the source of Campbell's law in A6's precedents table. It bears on CLAIM-tmpe432a, TERM-108 and CLAIM-1334. Unverified until read.
+Deferred. The paper A6 §8 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26) cites as "particularly relevant": it "examines how the use of quantitative indicators in social decision-making creates pressures that can undermine the processes being measured", the source of Campbell's law in A6's precedents table. It bears on [CLAIM-tmpe432a](../claims.d/CLAIM-tmpe432a.md), [TERM-108](../terms.d/TERM-108.md) and [CLAIM-1334](../claims.d/CLAIM-1334.md). Unverified until read.

@@ -161,13 +161,13 @@ nothing measures the cost of recognition in the record's own reuse, and
 
 ## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U17–A34)
 
-A34's H2, filed as CLAIM-tmpdid0k, states the net effect this claim gives a
+A34's H2, filed as [CLAIM-tmpdid0k](CLAIM-tmpdid0k.md), states the net effect this claim gives a
 mechanism for: "Beyond some workload-dependent point, increasing the readily
 accessible corpus increases the cost of realizing inquiries that the corpus
 already contains sufficient information to support." This claim's recognition
 cost grows with the number and size of stored definitions, so it is one way
 the cost could rise. H2 adds that past a point the rise outweighs what holding
-the answer saved. Nothing in the exchange measures either. LEAD-tmpolbqp, a
+the answer saved. Nothing in the exchange measures either. [LEAD-tmpolbqp](../leads.d/LEAD-tmpolbqp.md), a
 trial of one line's working view against the full retrieval surface at a fixed
 budget, would give this claim the measure its note of 2026-11-18 found missing,
 a cost of recognition in the record's own reuse. A parallel, with a test

@@ -24,12 +24,12 @@ line:
 - dependence-and-domination
 summary: >-
   Supports A4 §§8–9 of the exchange "Alignment consequences brainstorm"
-  (ChatGPT, 2026-11-26), CLAIM-tmpz33db, by the assistant's derivation in
-  CLAIM-602's own dynamics (CLAIM-tmp87zug), and narrows what the
+  (ChatGPT, 2026-11-26), [CLAIM-tmpz33db](../claims.d/CLAIM-tmpz33db.md), by the assistant's derivation in
+  [CLAIM-602](../claims.d/CLAIM-602.md)'s own dynamics ([CLAIM-tmp87zug](../claims.d/CLAIM-tmp87zug.md)), and narrows what the
   extension delivers. A4 offers the capability vector as an answer to the
   owner's U2; the derivation shows it answers for capacity and leaves the
-  withdrawal cost where CLAIM-602 put it. What decides whether that
-  dependency matters is held in CLAIM-tmp5vitv, on CLAIM-603 and CLAIM-690.
+  withdrawal cost where [CLAIM-602](../claims.d/CLAIM-602.md) put it. What decides whether that
+  dependency matters is held in [CLAIM-tmp5vitv](../claims.d/CLAIM-tmp5vitv.md), on [CLAIM-603](../claims.d/CLAIM-603.md) and [CLAIM-690](../claims.d/CLAIM-690.md).
   The wording is the assistant's (Claude, in this session); adopting it is
   the owner's call.
 ---
@@ -41,10 +41,10 @@ summary: >-
 
 ## The inference
 
-Premises: CLAIM-602's model (capacity learned by doing, lost with disuse,
-work capped by capacity) and its two-capacity extension (CLAIM-tmp87zug),
+Premises: [CLAIM-602](../claims.d/CLAIM-602.md)'s model (capacity learned by doing, lost with disuse,
+work capped by capacity) and its two-capacity extension ([CLAIM-tmp87zug](../claims.d/CLAIM-tmp87zug.md)),
 in which the substituted capacity's path does not depend on what the
-freed effort builds. Conclusion: CLAIM-tmpz33db, that a retained-skill
+freed effort builds. Conclusion: [CLAIM-tmpz33db](../claims.d/CLAIM-tmpz33db.md), that a retained-skill
 model cannot carry conclusions about net empowerment.
 
 ## Critical questions
@@ -66,7 +66,7 @@ model cannot carry conclusions about net empowerment.
    extension does not answer the owner's objection where the objection
    bites hardest, on what is lost if the supply goes.
 
-Verdict: Proposed as support for CLAIM-tmpz33db as a claim about the
-accounting of capacity. As an answer to QUESTION-tmpsgbj7 about
+Verdict: Proposed as support for [CLAIM-tmpz33db](../claims.d/CLAIM-tmpz33db.md) as a claim about the
+accounting of capacity. As an answer to [QUESTION-tmpsgbj7](../questions.d/QUESTION-tmpsgbj7.md) about
 dependency, the extension adds nothing, and the question's standing on
-that half lives in CLAIM-tmp5vitv.
+that half lives in [CLAIM-tmp5vitv](../claims.d/CLAIM-tmp5vitv.md).

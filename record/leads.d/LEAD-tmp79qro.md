@@ -52,7 +52,7 @@ loads, matched against the working tree of 2026-11-26.
 | A31 | loads | on 2026-11-26 |
 |---|---|---|
 | §1 `unbuilt_active_claim`: Active claims no claim rests on | yes | 215 of 474 Active claims |
-| §2 `retired_anchor`: Active claims resting on a Superseded one | yes | none (CLAIM-184, note of 2026-11-26) |
+| §2 `retired_anchor`: Active claims resting on a Superseded one | yes | none ([CLAIM-184](../claims.d/CLAIM-184.md), note of 2026-11-26) |
 | §3 `accounted_for_claim`: Active claims a Current synthesis integrates | yes | none: no SYNTHESIS is Current (115 Proposed, 11 Superseded). With Proposed ones counted, 451 of 474, so not a worklist that discriminates |
 | §4 `proposal_without_open_lead` | yes | 527 of 817 Proposed claims |
 | §4 `question_without_open_lead` | yes | 328 of 498 Open questions |
@@ -60,7 +60,7 @@ loads, matched against the working tree of 2026-11-26.
 | §7 `lead_root`, `lead_premises` | yes | 432 claims advanced by an Open lead; 572 with their premises |
 | §8 the `retention-review` view | yes | luria's view environment gives `docs()`, `match()` and `vocabulary()`, as A31 says; the template is valid in form and needs its file under `record/views.d/` |
 | §12 `retention-grounds` vocabulary and a `many` field | yes | no entry carries it yet |
-| §6 `hot_on_cold` | only once a `retention` field is declared | see LEAD-tmpolbqp |
+| §6 `hot_on_cold` | only once a `retention` field is declared | see [LEAD-tmpolbqp](LEAD-tmpolbqp.md) |
 
 With A31's roots corrected to take Current or Proposed syntheses, the
 trace marks 1,067 of 1,346 claims; 244 Active or Proposed claims fall
@@ -82,7 +82,7 @@ outside it (228 Proposed, 16 Active), beside 33 Superseded and 2 Rejected.
    objections either way, since a live claim keeps its objections live.
 3. **Report** what is outside the closure, faceted by status and line.
    Nothing is changed or deleted; the page is a worklist for review.
-4. **Compare** with LEAD-tmpn6mi2's activity: the claims with no
+4. **Compare** with [LEAD-tmpn6mi2](LEAD-tmpn6mi2.md)'s activity: the claims with no
    non-mechanical event in the last 30 days. Report three sets, outside the
    roots, inactive, and both, and read 20 drawn from each of the two
    disagreements to say what each method misses.
@@ -90,7 +90,7 @@ outside it (228 Proposed, 16 Active), beside 33 Superseded and 2 Rejected.
 Steps 1 to 3 can run now, as a script over luria's view functions in
 `scratch/`, with no change to `luria.yaml`; registering the patterns and
 the view in `luria.yaml` is the owner's call. Step 4 needs
-LEAD-tmpn6mi2. A34's figure draws this pilot after the temporal graph,
+[LEAD-tmpn6mi2](LEAD-tmpn6mi2.md). A34's figure draws this pilot after the temporal graph,
 while its caption says "Configuration experiments can begin in parallel
 with history extraction"; only step 4 waits.
 
@@ -107,7 +107,7 @@ with history extraction"; only step 4 waits.
   cooling.
 
 What no result here can do is say that an entry outside the closure may
-go. CLAIM-664 holds that no rule reading only the support graph and the
+go. [CLAIM-664](../claims.d/CLAIM-664.md) holds that no rule reading only the support graph and the
 statuses can decide whether a dependant falls; a trace is a worklist for
 that judgement, as A31 puts it: "Review, not reclaim."
 

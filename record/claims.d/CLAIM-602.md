@@ -305,17 +305,17 @@ principal". A2's description of the claim is accurate: substitution erodes
 retained capacity, and support that "covers only its shortfall behaves
 differently" is the capacity-first result.
 
-The owner objected at U2 (QUESTION-tmpsgbj7): "are we committing a
+The owner objected at U2 ([QUESTION-tmpsgbj7](../questions.d/QUESTION-tmpsgbj7.md)): "are we committing a
 luddite fallacy here?" A4 §8 wrote this claim's equation correctly and
 said a one-capacity model "cannot describe the trade-off" between an
-eroded skill and those built with freed effort (CLAIM-tmpz33db). That
+eroded skill and those built with freed effort ([CLAIM-tmpz33db](CLAIM-tmpz33db.md)). That
 marks the model's scope; it does not object to this claim, which says
 nothing of net empowerment. The extension A4 proposes was carried out in
-this model's dynamics (CLAIM-tmp87zug): reinvestment leaves the substituted
+this model's dynamics ([CLAIM-tmp87zug](CLAIM-tmp87zug.md)): reinvestment leaves the substituted
 capacity, and the 6.38 units of recovery after 20 units of full
 substitution, unchanged, and under a finite budget the new capacity is
-lost when the supply stops (ARG-tmpee3ck). Whether the dependency matters
-is CLAIM-tmp5vitv's.
+lost when the supply stops ([ARG-tmpee3ck](../arguments.d/ARG-tmpee3ck.md)). Whether the dependency matters
+is [CLAIM-tmp5vitv](CLAIM-tmp5vitv.md)'s.
 
 A bearing of scope and a corroboration of the model's numbers, recomputed;
 the claim is unchanged.

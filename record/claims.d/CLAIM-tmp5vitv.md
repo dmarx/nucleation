@@ -37,15 +37,15 @@ statement: >-
 summary: >-
   The assistant's gap fill on A4 §7 of the exchange "Alignment
   consequences brainstorm" (ChatGPT, 2026-11-26), which answers the
-  owner's U2 (QUESTION-tmpsgbj7) by saying "Nucleation already contains an
-  explicit response to this objection", CLAIM-603, and reads the Black
+  owner's U2 ([QUESTION-tmpsgbj7](../questions.d/QUESTION-tmpsgbj7.md)) by saying "Nucleation already contains an
+  explicit response to this objection", [CLAIM-603](CLAIM-603.md), and reads the Black
   Queen case as "adaptive specialization" at the level of the ecological
-  organization. CLAIM-603 holds the opposite of that last step: the Black
+  organization. [CLAIM-603](CLAIM-603.md) holds the opposite of that last step: the Black
   Queen loss "looks like a division of labour, and the paper says it is
-  not one", because it runs one way. What CLAIM-603 does supply is a
+  not one", because it runs one way. What [CLAIM-603](CLAIM-603.md) does supply is a
   test, and the test does not stop at the loss. Applied to a supplied
   capability, it leaves the answer to reciprocity and to control of terms
-  (CLAIM-690), where A4 §10 in fact goes next. Partial answer: the
+  ([CLAIM-690](CLAIM-690.md)), where A4 §10 in fact goes next. Partial answer: the
   question stays open for supplies whose terms are contested. The wording
   is the assistant's (Claude, in this session); adopting it is the
   owner's call.
@@ -58,7 +58,7 @@ summary: >-
 
 ## The gap it fills
 
-A4 §7 cites CLAIM-603 as the record's answer to the owner's U2: "The
+A4 §7 cites [CLAIM-603](CLAIM-603.md) as the record's answer to the owner's U2: "The
 Black Queen hypothesis describes circumstances in which organisms benefit
 from losing costly functions when other organisms reliably supply the
 products of those functions. From the standpoint of an individual
@@ -67,10 +67,10 @@ ecological organization, it can be adaptive specialization." A4 then
 takes the analogy as "a useful counterweight to an indiscriminate
 deskilling narrative".
 
-Two things are missing. CLAIM-603 does not say the Black Queen case is
+Two things are missing. [CLAIM-603](CLAIM-603.md) does not say the Black Queen case is
 specialization at the level of the community; it reports that it is not
-(Morris et al., THEORY-1048), because the dependence runs one way. And
-CLAIM-603's answer is not that loss is benign, but that "What makes it
+(Morris et al., [THEORY-1048](../theory.d/THEORY-1048.md)), because the dependence runs one way. And
+[CLAIM-603](CLAIM-603.md)'s answer is not that loss is benign, but that "What makes it
 dependency or division of labour is the supply", by three marks: what
 limits the loss, what withdrawal costs, and whether the loss is one-way
 or reciprocal.
@@ -81,13 +81,13 @@ or reciprocal.
    so the loss stops when helpers grow rare. A provider's supply of a
    capability is set by the provider and, commercially, grows with its
    users' dependence. Nothing in the users' dynamics stops the loss short
-   of what the supply covers, which is CLAIM-602's case.
-2. **What withdrawal costs.** The same as aid's (CLAIM-602), and no less
-   when the freed effort built something else (CLAIM-tmp87zug).
+   of what the supply covers, which is [CLAIM-602](CLAIM-602.md)'s case.
+2. **What withdrawal costs.** The same as aid's ([CLAIM-602](CLAIM-602.md)), and no less
+   when the freed effort built something else ([CLAIM-tmp87zug](CLAIM-tmp87zug.md)).
 3. **One-way or reciprocal.** Here a supplied capability can differ from
    aid: users who pay for it are in Moore's tax state's position, "it lost
    nothing, it exchanges". Whether the exchange gives users a hold on the
-   supply is CLAIM-690's variable, who controls the terms on which the
+   supply is [CLAIM-690](CLAIM-690.md)'s variable, who controls the terms on which the
    dependence is met.
 
 So the record does not commit the Luddite fallacy: it never counts the

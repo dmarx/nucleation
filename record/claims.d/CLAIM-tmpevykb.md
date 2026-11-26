@@ -35,11 +35,11 @@ statement: >-
   and searching for the correct objective is no general solution
 summary: >-
   A6 §§3–4 of the exchange "Alignment consequences brainstorm" (ChatGPT,
-  2026-11-26), on the owner's U4 (CLAIM-tmpe432a), which A6 says it goes
+  2026-11-26), on the owner's U4 ([CLAIM-tmpe432a](CLAIM-tmpe432a.md)), which A6 says it goes
   "beyond the conventional paperclip argument". Stated in A's term
-  (TERM-tmp3rbue). The record holds that a narrow optimizer values
-  weakening its constraints (CLAIM-1287), and proxies whose optimum departs
-  from the outcome (TERM-108); it holds no claim ranking jurisdiction
+  ([TERM-tmp3rbue](../terms.d/TERM-tmp3rbue.md)). The record holds that a narrow optimizer values
+  weakening its constraints ([CLAIM-1287](CLAIM-1287.md)), and proxies whose optimum departs
+  from the outcome ([TERM-108](../terms.d/TERM-108.md)); it holds no claim ranking jurisdiction
   against the objective and the optimizer's capability. Interpretive and
   untested; A says so. The wording is A's; adopting it is the owner's call.
 ---
@@ -81,10 +81,10 @@ third is the claim's empirical content.
 ## What it does not say
 
 - **That objectives do not matter.** Within a jurisdiction the objective's
-  adequacy is the whole question (TERM-108's proxies).
+  adequacy is the whole question ([TERM-108](../terms.d/TERM-108.md)'s proxies).
 - **That intelligence does not matter.** The comparison is "at least as
   fundamental", and a capable optimizer can widen its own jurisdiction,
-  which CLAIM-1287 holds for narrow optimizers and A6 §6 calls
+  which [CLAIM-1287](CLAIM-1287.md) holds for narrow optimizers and A6 §6 calls
   "optimization that acquires authority over the mechanisms intended to
   regulate it". So the two variables are not independent: capability is
   one route to jurisdiction.
@@ -93,4 +93,4 @@ third is the claim's empirical content.
 
 Interpretive. Its third thesis needs jurisdiction measured apart from the
 harm it is meant to explain, or it is true by construction. That is
-LEAD-tmpxcj7n.
+[LEAD-tmpxcj7n](../leads.d/LEAD-tmpxcj7n.md).

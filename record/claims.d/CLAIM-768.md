@@ -125,7 +125,7 @@ entry that new structure keeps building on is mature, and one nothing builds
 on is neglected. That separates A's pair. It does not separate this claim's
 pair, since an entry contracted onto the record's conventions can be built on
 as readily as one copied exactly. So the stability-generativity plane of
-CLAIM-tmpk015q and LEAD-tmp14mq0 leaves the measure this claim asks for,
-retention against a reference outside the record (LEAD-201), where it was. An
+[CLAIM-tmpk015q](CLAIM-tmpk015q.md) and [LEAD-tmp14mq0](../leads.d/LEAD-tmp14mq0.md) leaves the measure this claim asks for,
+retention against a reference outside the record ([LEAD-201](../leads.d/LEAD-201.md)), where it was. An
 independent restatement of the claim's caution, and a limit on what the plane
 can show. No status change.

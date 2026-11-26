@@ -221,17 +221,17 @@ separation of fast loop and slow learning that the analogy rests on is
 
 ## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U17–A34)
 
-A34's H3, filed as CLAIM-tmpyk9r5, applies this claim to condensation:
+A34's H3, filed as [CLAIM-tmpyk9r5](CLAIM-tmpyk9r5.md), applies this claim to condensation:
 "Condensation that preserves relevant operational and corrective capabilities
 can expand the developmental frontier under a fixed resource budget." A
 condensed representation is a stabilized constraint in this claim's sense,
 replacing the work of reaching a cluster's full justification with a cheaper
 operation. Its preservation condition is a way of meeting this claim's
 condition on "the costs of ... verifying and revising" the constraint. H3
-rests on this claim; this claim does not rest on H3. LEAD-tmpd85zk would test
+rests on this claim; this claim does not rest on H3. [LEAD-tmpd85zk](../leads.d/LEAD-tmpd85zk.md) would test
 it on one cluster. No status change.
 
 ## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U14–A25), "stored consequentiality"
 <!-- inactive-ok-file: CLAIM-tmpxl7dc — Proposed; filed from the same exchange on 2026-11-26 -->
 
-A25 §1 calls the governed record "a concrete realization of Nucleation's account of stored work" in this claim: a rejected hypothesis whose standing changes in the record makes "dependent uses become reviewable", so "some of that significance becomes recoverable at lower cost", which A names "stored consequentiality". As an instance of this claim's thesis it shows the first half only, as ARG-240 found for another of A's instances: the record lowers the cost of finding what a rejection affects, and names no per-task budget within which the finding was infeasible before. A case where an inquiry could not have traced a retraction's dependants within a fixed budget without the record would be the instance this claim needs; CASE-086 (the retracted finding and its descendants) is the nearest held case. The claim A25 does add is about the rules, not stored work (CLAIM-tmpxl7dc). An analogy; no edge. The note is the assistant's (Claude, in this session). No status change.
+A25 §1 calls the governed record "a concrete realization of Nucleation's account of stored work" in this claim: a rejected hypothesis whose standing changes in the record makes "dependent uses become reviewable", so "some of that significance becomes recoverable at lower cost", which A names "stored consequentiality". As an instance of this claim's thesis it shows the first half only, as [ARG-240](../arguments.d/ARG-240.md) found for another of A's instances: the record lowers the cost of finding what a rejection affects, and names no per-task budget within which the finding was infeasible before. A case where an inquiry could not have traced a retraction's dependants within a fixed budget without the record would be the instance this claim needs; [CASE-086](../cases.d/CASE-086.md) (the retracted finding and its descendants) is the nearest held case. The claim A25 does add is about the rules, not stored work (CLAIM-tmpxl7dc). An analogy; no edge. The note is the assistant's (Claude, in this session). No status change.

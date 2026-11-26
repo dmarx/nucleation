@@ -237,15 +237,15 @@ dependence is not merely their magnitude, but who controls the terms
 under which they are met". Its thought experiment of three societies, the
 second interdependent and freer for it, the third with "the same
 interdependence" turned into "a basis for unanswerable power", restates
-CASE-264's contrast of equal dependence and different control at the
+[CASE-264](../cases.d/CASE-264.md)'s contrast of equal dependence and different control at the
 scale of a society, and A4 names the objective "non-domination within
 interdependence". An illustration, not new evidence.
 
 Two consequences filed. The record's answer to the owner's U2
-(QUESTION-tmpsgbj7) runs through this claim: CLAIM-tmp5vitv rests on it
-and on CLAIM-603. And A5 §5 names Emerson's "Power-Dependence Relations",
+([QUESTION-tmpsgbj7](../questions.d/QUESTION-tmpsgbj7.md)) runs through this claim: [CLAIM-tmp5vitv](CLAIM-tmp5vitv.md) rests on it
+and on [CLAIM-603](CLAIM-603.md). And A5 §5 names Emerson's "Power-Dependence Relations",
 which this claim's "What it does not say" named as the rival its defeater
-(b) is to be checked against; it is now registered unread (LIT-tmp76g3z),
+(b) is to be checked against; it is now registered unread ([LIT-tmp76g3z](../literature.d/LIT-tmp76g3z.md)),
 so the check waits on a reading.
 
 The claim is unchanged.

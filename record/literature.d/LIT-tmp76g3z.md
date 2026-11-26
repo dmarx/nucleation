@@ -18,7 +18,7 @@ published: '1962-02'
 doi: '10.2307/2089716'
 first_author: 'Emerson'
 summary: >-
-  The work A5 §5 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26) names as "especially close to the dependence line": "Power arising from dependence and the availability of alternatives". CLAIM-690 names it as the rival its defeater (b) is to be checked against, whether its measure of dependence already counts the availability of alternatives and so absorbs that claim's control variable; the filing of 2026-11-13 verified it and left it unregistered as the assistant's suggestion. It bears on CLAIM-690 and LEAD-254. Unverified until read.
+  The work A5 §5 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26) names as "especially close to the dependence line": "Power arising from dependence and the availability of alternatives". [CLAIM-690](../claims.d/CLAIM-690.md) names it as the rival its defeater (b) is to be checked against, whether its measure of dependence already counts the availability of alternatives and so absorbs that claim's control variable; the filing of 2026-11-13 verified it and left it unregistered as the assistant's suggestion. It bears on [CLAIM-690](../claims.d/CLAIM-690.md) and [LEAD-254](../leads.d/LEAD-254.md). Unverified until read.
 ---
 
 <!-- inactive-ok-file: CLAIM-690 — Proposed or new; the entries this registration bears on -->
@@ -31,4 +31,4 @@ summary: >-
 
 ## Standing in the record
 
-Deferred. The work A5 §5 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26) names as "especially close to the dependence line": "Power arising from dependence and the availability of alternatives". CLAIM-690 names it as the rival its defeater (b) is to be checked against, whether its measure of dependence already counts the availability of alternatives and so absorbs that claim's control variable; the filing of 2026-11-13 verified it and left it unregistered as the assistant's suggestion. It bears on CLAIM-690 and LEAD-254. Unverified until read.
+Deferred. The work A5 §5 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26) names as "especially close to the dependence line": "Power arising from dependence and the availability of alternatives". [CLAIM-690](../claims.d/CLAIM-690.md) names it as the rival its defeater (b) is to be checked against, whether its measure of dependence already counts the availability of alternatives and so absorbs that claim's control variable; the filing of 2026-11-13 verified it and left it unregistered as the assistant's suggestion. It bears on [CLAIM-690](../claims.d/CLAIM-690.md) and [LEAD-254](../leads.d/LEAD-254.md). Unverified until read.

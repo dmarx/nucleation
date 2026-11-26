@@ -32,12 +32,12 @@ statement: >-
   there is a selectional one, which needs no sophisticated agent
 summary: >-
   A6 §5 of the exchange "Alignment consequences brainstorm" (ChatGPT,
-  2026-11-26), on the owner's U4 (CLAIM-tmpe432a). It sets Bostrom's
-  instrumental convergence thesis (LIT-tmpu12kf, registered unread) beside
+  2026-11-26), on the owner's U4 ([CLAIM-tmpe432a](CLAIM-tmpe432a.md)). It sets Bostrom's
+  instrumental convergence thesis ([LIT-tmpu12kf](../literature.d/LIT-tmpu12kf.md), registered unread) beside
   an institutional analogue reached by selection. The record holds
   authority amplified by recursive delegation without self-grants
-  (SYNTHESIS-087) and a narrow optimizer valuing the erosion of its
-  constraints (CLAIM-1287), both mechanisms inside an organization; it
+  ([SYNTHESIS-087](../syntheses.d/SYNTHESIS-087.md)) and a narrow optimizer valuing the erosion of its
+  constraints ([CLAIM-1287](CLAIM-1287.md)), both mechanisms inside an organization; it
   holds no claim that selection among organizations yields convergent
   power-seeking. The selection condition the claim needs, that the
   tendencies are retained across turnover, is stated here, not by A. The

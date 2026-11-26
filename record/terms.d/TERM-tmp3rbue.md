@@ -17,17 +17,17 @@ complements:
 summary: >-
   A6 §4 of the exchange "Alignment consequences brainstorm" (ChatGPT,
   2026-11-26), "a candidate concept within Nucleation", on the owner's U4
-  (CLAIM-tmpe432a). An optimization process is characterized by its
+  ([CLAIM-tmpe432a](../claims.d/CLAIM-tmpe432a.md)). An optimization process is characterized by its
   criterion, its levers, its authority to use them, its feedback and the
   governance that constrains and revises it; its jurisdiction is the domain
   of decisions over which the criterion has authority. A's own limit:
-  jurisdiction is not operationalized (LEAD-tmpxcj7n). A different sense
-  from TERM-047, where the jurisdiction of a will-organization is the
+  jurisdiction is not operationalized ([LEAD-tmpxcj7n](../leads.d/LEAD-tmpxcj7n.md)). A different sense
+  from [TERM-047](TERM-047.md), where the jurisdiction of a will-organization is the
   regimes whose efficacy it governs. The wording is A's; adopting it is
   the owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-tmpe432a CLAIM-tmpevykb — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CLAIM-tmpe432a — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: TERM-108 CLAIM-1287 — Proposed; the held neighbours -->
 
 # TERM-tmp3rbue: optimization jurisdiction
@@ -59,16 +59,16 @@ normative criterion."
 
 ## What it must not be confused with
 
-- **TERM-047's jurisdiction**, the set of action-generating regimes whose
+- **[TERM-047](TERM-047.md)'s jurisdiction**, the set of action-generating regimes whose
   practical efficacy a will-organization governs. That is a relation
   between a governing organization and regimes; this is a relation
   between a criterion and a domain of decisions. The two meet when a
   criterion is the operative standard of the organization that holds the
   jurisdiction.
-- **TERM-108's proxy objective**, a measure whose optimum differs from the
+- **[TERM-108](TERM-108.md)'s proxy objective**, a measure whose optimum differs from the
   outcome's. A criterion can be adequate within its jurisdiction and a
   proxy outside it; the term says where, not how far off.
-- **CLAIM-1287's constraints**, the losses that discipline extraction. G in
+- **[CLAIM-1287](../claims.d/CLAIM-1287.md)'s constraints**, the losses that discipline extraction. G in
   the tuple is what those constraints are part of, and the claim that an
   optimizer may value weakening them is a claim about a jurisdiction that
   grows.
@@ -78,10 +78,10 @@ normative criterion."
 - **Not operationalized.** A6: "Its value would depend on operationalizing
   jurisdiction and demonstrating that it explains outcomes beyond what
   existing theories of institutional incentives and regulatory capture
-  already explain." The test is LEAD-tmpxcj7n.
+  already explain." The test is [LEAD-tmpxcj7n](../leads.d/LEAD-tmpxcj7n.md).
 - **"adequate normative criterion" needs a standard.** Overreach is
   defined against the decisions for which the criterion is adequate, and
-  who declares that, with what right, is QUESTION-485's question. The
+  who declares that, with what right, is [QUESTION-485](../questions.d/QUESTION-485.md)'s question. The
   table's right-hand column is A's judgement, not derived.
 - **A and L are not independent.** Authority without a lever does
   nothing, and a lever used without authority is a different wrong (a

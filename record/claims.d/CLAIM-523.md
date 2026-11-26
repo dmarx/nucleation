@@ -453,9 +453,9 @@ adopting what it reports is the owner's call.
 
 ## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U1–A2)
 
-<!-- inactive-ok-file: SYNTHESIS-121 CLAIM-624 — Proposed; the account and the second-order duty A2 restates -->
+<!-- inactive-ok-file: SYNTHESIS-121 — Proposed; the account and the second-order duty A2 restates -->
 
-A2 §2 reads SYNTHESIS-121, which maps this claim, as "an alternative
+A2 §2 reads [SYNTHESIS-121](../syntheses.d/SYNTHESIS-121.md), which maps this claim, as "an alternative
 research programme for corrigibility", and separates "first-order
 corrigibility — accepting a correction — and second-order corrigibility —
 preserving the conditions under which future corrections remain
@@ -463,11 +463,11 @@ effective". Its examples are this claim's achievements failing apart: a
 system that passes shutdown tests "while eroding the human operator's
 ability to determine *when* shutdown is warranted" (the discrepancy made
 legible), that "can acknowledge errors while making remediation
-prohibitively expensive" (the action, CLAIM-464's raised cost of
+prohibitively expensive" (the action, [CLAIM-464](CLAIM-464.md)'s raised cost of
 correction), and that can "formally defer to human authority while
 increasingly determining the information on which that authority acts"
-(authority, CLAIM-404's governance through evidence). Second-order
-corrigibility as a duty is CLAIM-624's. A2's addition is only the
+(authority, [CLAIM-404](CLAIM-404.md)'s governance through evidence). Second-order
+corrigibility as a duty is [CLAIM-624](CLAIM-624.md)'s. A2's addition is only the
 transfer to AI systems, with the remark that the second order "would
 require longitudinal, organizational evaluation". An application; the
 claim is unchanged.

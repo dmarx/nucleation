@@ -19,7 +19,7 @@ published: '2012-05'
 doi: '10.1007/s11023-012-9281-3'
 first_author: 'Bostrom'
 summary: >-
-  The source of the instrumental convergence thesis A6 §5 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26) states: "the tendency for agents with different final goals to pursue similar intermediate goals, such as resource acquisition and self-preservation". A6 names the thesis, not the paper; this is the paper in which Bostrom states it. It bears on CLAIM-tmp3epdy. Unverified until read.
+  The source of the instrumental convergence thesis A6 §5 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26) states: "the tendency for agents with different final goals to pursue similar intermediate goals, such as resource acquisition and self-preservation". A6 names the thesis, not the paper; this is the paper in which Bostrom states it. It bears on [CLAIM-tmp3epdy](../claims.d/CLAIM-tmp3epdy.md). Unverified until read.
 ---
 
 <!-- inactive-ok-file: CLAIM-tmp3epdy — Proposed or new; the entries this registration bears on -->
@@ -32,4 +32,4 @@ summary: >-
 
 ## Standing in the record
 
-Deferred. The source of the instrumental convergence thesis A6 §5 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26) states: "the tendency for agents with different final goals to pursue similar intermediate goals, such as resource acquisition and self-preservation". A6 names the thesis, not the paper; this is the paper in which Bostrom states it. It bears on CLAIM-tmp3epdy. Unverified until read.
+Deferred. The source of the instrumental convergence thesis A6 §5 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26) states: "the tendency for agents with different final goals to pursue similar intermediate goals, such as resource acquisition and self-preservation". A6 names the thesis, not the paper; this is the paper in which Bostrom states it. It bears on [CLAIM-tmp3epdy](../claims.d/CLAIM-tmp3epdy.md). Unverified until read.

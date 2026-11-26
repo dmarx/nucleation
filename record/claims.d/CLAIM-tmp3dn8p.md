@@ -34,13 +34,13 @@ statement: >-
   it serves is directed at
 summary: >-
   A6 §7 of the exchange "Alignment consequences brainstorm" (ChatGPT,
-  2026-11-26), on the owner's U4 (CLAIM-tmpe432a), which A2 §8 had put as
+  2026-11-26), on the owner's U4 ([CLAIM-tmpe432a](CLAIM-tmpe432a.md)), which A2 §8 had put as
   "successfully aligning every individual component of an AI ecosystem
   might be insufficient to align the ecosystem they constitute". The
   record holds that an encompassing organization's success does not
-  establish its constituents' good, and the converse (CLAIM-060), and that
+  establish its constituents' good, and the converse ([CLAIM-060](CLAIM-060.md)), and that
   recursive delegation can amplify authority without self-grants
-  (SYNTHESIS-087); it holds no claim about alignment relations stacked
+  ([SYNTHESIS-087](../syntheses.d/SYNTHESIS-087.md)); it holds no claim about alignment relations stacked
   across levels, or that fidelity below can worsen alignment above.
   Interpretive. The wording is A's; adopting it is the owner's call.
 ---
@@ -71,7 +71,7 @@ effective component of an objectionable organizational arrangement."
 A2 §8 had the structural form: "Each component could follow its local
 rules. Each delegation could be locally justified. Yet the resulting
 organization could accumulate authority, entrench its interpretations and
-marginalize human intervention", citing SYNTHESIS-087.
+marginalize human intervention", citing [SYNTHESIS-087](../syntheses.d/SYNTHESIS-087.md).
 
 ## Why the second half follows
 
@@ -91,8 +91,8 @@ is what "obedient" stipulates.
   alignment research is addressing the reliability of optimization without
   sufficiently addressing the legitimacy of the optimization to which that
   reliability is being supplied". Legitimacy is a separate question, held
-  open in QUESTION-485.
-- **The relation to CLAIM-060.** CLAIM-060 is about success and
+  open in [QUESTION-485](../questions.d/QUESTION-485.md).
+- **The relation to [CLAIM-060](CLAIM-060.md).** [CLAIM-060](CLAIM-060.md) is about success and
   well-being across scales; this is about alignment relations, each
-  relative to its own principal. It is a case of CLAIM-060's converse
+  relative to its own principal. It is a case of [CLAIM-060](CLAIM-060.md)'s converse
   only if "aligned" is read as the component's good, which it is not.

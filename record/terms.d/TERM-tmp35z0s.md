@@ -17,11 +17,11 @@ summary: >-
   capabilities", with A4 §11's meta-functions of delegation and A5 §3's
   "constitutional frontier", which A calls its "proposed extension of the
   inquiry's existing frontier vocabulary" (the operational, developmental
-  and inquiry frontiers of SYNTHESIS-105). A capability is constitutional
+  and inquiry frontiers of [SYNTHESIS-105](../syntheses.d/SYNTHESIS-105.md)). A capability is constitutional
   in its role when it lets an organization's constituents take part in
   determining, contesting, evaluating and revising its purposes and
   arrangements; productive when it lets the organization accomplish them.
-  The record holds governance of one's own governability (CLAIM-545) and
+  The record holds governance of one's own governability ([CLAIM-545](../claims.d/CLAIM-545.md)) and
   freedom over a system, mapped in the filing of "Analyze technological
   civilization trap"; it holds no term sorting capabilities by this role.
   The wording is A's; adopting it is the owner's call.
@@ -79,10 +79,10 @@ constitutional capacity:
 
 ## What it must not be confused with
 
-- **SYNTHESIS-105's inquiry frontier**, what a system can formulate
+- **[SYNTHESIS-105](../syntheses.d/SYNTHESIS-105.md)'s inquiry frontier**, what a system can formulate
   questions about. A constitutional capability is a capability to change
   the arrangement one is part of, not to inquire into it.
-- **CLAIM-545's governance of one's own governability**, an agent's
+- **[CLAIM-545](../claims.d/CLAIM-545.md)'s governance of one's own governability**, an agent's
   relation to its own governing relations. A constitutional capability is
   a constituent's relation to an organization's.
 - **Rank.** The term sorts by role, not by value: losing a productive
@@ -93,7 +93,7 @@ constitutional capacity:
 - **Role is relative to an arrangement.** Statistics is constitutional
   where institutions make claims that statistics can test and where the
   tester's finding can count. The term needs the arrangement declared, as
-  TERM-074's sense of "organization" does.
+  [TERM-074](TERM-074.md)'s sense of "organization" does.
 - **"Effectively" carries the weight.** Participation that changes nothing
   is not a constitutional capability; what counts as effective is the
-  question CLAIM-523's three achievements answer for correction.
+  question [CLAIM-523](../claims.d/CLAIM-523.md)'s three achievements answer for correction.

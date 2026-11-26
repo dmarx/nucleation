@@ -34,7 +34,7 @@ summary: >-
   challenging its grounds, and revising it after a premise is withdrawn",
   and followed by whether later work "increasingly uses the consolidated
   unit rather than its constituents" (A33 §8's mediation ratio). It tests
-  CLAIM-tmpyk9r5 (H3) and would inform the condensed_into relation of A31
+  [CLAIM-tmpyk9r5](../claims.d/CLAIM-tmpyk9r5.md) (H3) and would inform the condensed_into relation of A31
   §11 (CLAIM-tmpnf6q4). On this record
   the mediation ratio cannot be read off the relation fields, since no
   claim rests on a synthesis. The pilot is A's; the correction and
@@ -64,14 +64,14 @@ Loaded into luria 1.11.0 with the record's `luria.yaml` as a stand-in, on
 ## The design
 
 1. **Choose the cluster.** A SYNTHESIS integrating at least ten components,
-   most of them in LEAD-tmp14mq0's established-anchor or dormant regimes
+   most of them in [LEAD-tmp14mq0](LEAD-tmp14mq0.md)'s established-anchor or dormant regimes
    (stable for at least 14 days), on a line with open questions, so that
    the representation will be used.
 2. **Write the capsule**: the cluster's conclusions, the conditions under
    which they stand, the codes of the premises each rests on, the open
    objections, and what would defeat each, A29's assumption-set form
-   (LIT-2320). The components stay where
-   they are and leave the working view (LEAD-tmpolbqp's mechanism).
+   ([LIT-2320](../literature.d/LIT-2320.md)). The components stay where
+   they are and leave the working view ([LEAD-tmpolbqp](LEAD-tmpolbqp.md)'s mechanism).
 3. **Test the four operations**, each on five tasks with a key written from
    the full material by someone who does not run the trial, in two arms at
    one token budget, capsule with recovery against full material:
@@ -80,7 +80,7 @@ Loaded into luria 1.11.0 with the record's `luria.yaml` as a stand-in, on
    - *challenge*: name its weakest ground and what would defeat it;
    - *revise*: given a premise stipulated withdrawn, say which conclusions
      fall and which stand.
-4. **Follow it** with LEAD-tmpn6mi2's log for a month: what later entries
+4. **Follow it** with [LEAD-tmpn6mi2](LEAD-tmpn6mi2.md)'s log for a month: what later entries
    cite, the capsule or synthesis or the components.
 
 ## The mediation ratio, corrected
@@ -88,19 +88,19 @@ Loaded into luria 1.11.0 with the record's `luria.yaml` as a stand-in, on
 A33 §8 defines `M_t(C)` as new references to the abstraction over new
 references to the abstraction or its constituents. In this record's
 grammar a claim rests on claims only, and a SYNTHESIS asserts nothing of
-its own (ADR-084), so no `rests_on` or `grounds` can point at one: counted
+its own ([ADR-084](../decisions.d/ADR-084.md)), so no `rests_on` or `grounds` can point at one: counted
 in relation fields the ratio is zero by construction. It has to be counted
 in prose, as mentions of the synthesis's or capsule's code in new entries
-against mentions of its components, from the text snapshots LEAD-tmpn6mi2
+against mentions of its components, from the text snapshots [LEAD-tmpn6mi2](LEAD-tmpn6mi2.md)
 keeps; or through a CLAIM that the synthesis's audit filed for what it adds
-(ADR-075), which can be rested on. A33's own caveat applies with force here:
+([ADR-075](../decisions.d/ADR-075.md)), which can be rested on. A33's own caveat applies with force here:
 "Agents might simply be instructed to cite the synthesis, even though they
 still need the full underlying material." The read-and-file skill tells
 agents to revise syntheses, so mentions of them are partly instructed.
 
 ## What would count
 
-- **For CLAIM-tmpyk9r5 on this cluster:** the capsule arm matches the full
+- **For [CLAIM-tmpyk9r5](../claims.d/CLAIM-tmpyk9r5.md) on this cluster:** the capsule arm matches the full
   arm on understanding, applying and challenging in at least 12 of 15
   tasks, and on revising names the conclusions that fall in at least 4 of
   5, at no more than half the tokens.
@@ -108,18 +108,18 @@ agents to revise syntheses, so mentions of them are partly instructed.
   revising tasks, so that no budget is freed where the fourth operation
   is concerned, which is the second limb of the claim's defeater.
 - A failure on revising alone is the expected one, and is informative:
-  CLAIM-664 holds that whether a dependant falls is a judgement, not a
+  [CLAIM-664](../claims.d/CLAIM-664.md) holds that whether a dependant falls is a judgement, not a
   computation over the graph, so the capsule may need to carry more than
   the premises' codes. What it needed is what `condensation_scope` would
   have to declare.
 
 ## Risks to read against
 
-CLAIM-758, overconsolidation: a representation that improves present use
-while raising the cost of later acquisitions outside it. CLAIM-250: what
+[CLAIM-758](../claims.d/CLAIM-758.md), overconsolidation: a representation that improves present use
+while raising the cost of later acquisitions outside it. [CLAIM-250](../claims.d/CLAIM-250.md): what
 must survive is accountability, not propositions.
 
 ## Cost
 
 Choosing the cluster and writing the capsule and the key: a day. The arms:
-a few hours. The follow-up costs nothing beyond LEAD-tmpn6mi2.
+a few hours. The follow-up costs nothing beyond [LEAD-tmpn6mi2](LEAD-tmpn6mi2.md).

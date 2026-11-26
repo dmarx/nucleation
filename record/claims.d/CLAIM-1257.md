@@ -108,7 +108,7 @@ criterion of corporate purpose and practical authority."
 
 <!-- inactive-ok-file: CLAIM-tmpe432a LIT-tmpbuqp3 — filed from the exchange of 2026-11-26, Proposed or Deferred -->
 
-The owner's U4 (CLAIM-tmpe432a) joins this claim from another side:
+The owner's U4 ([CLAIM-tmpe432a](CLAIM-tmpe432a.md)) joins this claim from another side:
 shareholder value is a case of letting a narrow objective steer
 significant levers of behavioural influence, "since at least the 80s".
 A6 §1 dates it: "The shareholder-value movement, emerging during the
@@ -116,10 +116,10 @@ A6 §1 dates it: "The shareholder-value movement, emerging during the
 explicitly sought to reorganize corporate governance around financial
 returns. Jensen and Meckling's 1976 theory of the firm was influential in
 this development." Jensen and Meckling is registered unread
-(LIT-tmpbuqp3); the history is A's and unverified. A6 §1 also holds that
+([LIT-tmpbuqp3](../literature.d/LIT-tmpbuqp3.md)); the history is A's and unverified. A6 §1 also holds that
 "An organization can exhibit increasingly coherent optimization behaviour
 without any constituent endorsing the objective as an ultimate value",
 which bears on this claim's "willful": if the exclusion is maintained by
 selection and practice rather than by anyone's knowing choice, the
-willfulness has to be located in the organization, as CLAIM-030 places an
+willfulness has to be located in the organization, as [CLAIM-030](CLAIM-030.md) places an
 intention. A bearing; the claim is unchanged.

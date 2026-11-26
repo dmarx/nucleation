@@ -236,5 +236,5 @@ follow a similar trajectory: using AI becomes advantageous, institutions
 reorganize around AI users, and eventually non-use becomes prohibitively
 costly." A5 calls the car city "an exceptionally good empirical case for
 the inquiry", and its §6 pairs a car-dependent with a multimodal city
-under a fuel interruption (LEAD-tmp0yn8v). The AI sentence is the claim
+under a fuel interruption ([LEAD-tmp0yn8v](../leads.d/LEAD-tmp0yn8v.md)). The AI sentence is the claim
 applied, A's and untested. A parallel; the claim is unchanged.

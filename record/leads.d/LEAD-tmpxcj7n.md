@@ -25,8 +25,8 @@ summary: >-
   operationalizing jurisdiction and demonstrating that it explains outcomes
   beyond what existing theories of institutional incentives and regulatory
   capture already explain". Without a measure of jurisdiction taken apart
-  from the harm, CLAIM-tmpevykb's third thesis is true by construction and
-  the owner's U4 (CLAIM-tmpe432a) cannot be tested against its rivals. Stage
+  from the harm, [CLAIM-tmpevykb](../claims.d/CLAIM-tmpevykb.md)'s third thesis is true by construction and
+  the owner's U4 ([CLAIM-tmpe432a](../claims.d/CLAIM-tmpe432a.md)) cannot be tested against its rivals. Stage
   idea. The wording is the assistant's (Claude, in this session); adopting
   it is the owner's call.
 ---
@@ -37,11 +37,11 @@ summary: >-
 
 ## The gap
 
-TERM-tmp3rbue defines a jurisdiction as the domain of decisions over
+[TERM-tmp3rbue](../terms.d/TERM-tmp3rbue.md) defines a jurisdiction as the domain of decisions over
 which a criterion has authority. A6's table of reasonable and overreaching
 jurisdictions is a judgement, and nothing measures how far a criterion
 reaches. The claims built on it compare jurisdiction with the content of
-the objective and the optimizer's capability (CLAIM-tmpevykb); that
+the objective and the optimizer's capability ([CLAIM-tmpevykb](../claims.d/CLAIM-tmpevykb.md)); that
 comparison needs each measured on its own.
 
 ## A first design (the assistant)
@@ -71,4 +71,4 @@ comparison needs each measured on its own.
 
 A source of decision-level criteria (internal documents, published
 ranking policies, litigation records), and a declared standard for the
-harm, which is where QUESTION-485's question of who declares it enters.
+harm, which is where [QUESTION-485](../questions.d/QUESTION-485.md)'s question of who declares it enters.
