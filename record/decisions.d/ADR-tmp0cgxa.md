@@ -15,12 +15,12 @@ summary: >-
   Paperclip Maximizing: Optimization Jurisdiction and the Organizational
   Origins of Misalignment" and outlined at A11 §IX as "Optimization Without
   a Sovereign: The Organizational Origins of Misalignment". The two titles
-  are one work. Membership follows ADR-104's rule; eleven held claims join
+  are one work. Membership follows [ADR-104](ADR-104.md)'s rule; eleven held claims join
   now, and the exchange's own claims join at a membership pass once the
   exchange's filing has merged. Rejected for now: two works, an article of
   governance-of-becoming, and no work.
 ---
-<!-- inactive-ok-file: CLAIM-1252 CLAIM-1334 CLAIM-658 CLAIM-1287 CLAIM-652 CLAIM-1064 CLAIM-1293 CLAIM-1270 SYNTHESIS-052 SYNTHESIS-094 — Proposed; members of the work, cited as members whatever their standing, and the rule they join under -->
+<!-- inactive-ok-file: CLAIM-1252 CLAIM-1334 CLAIM-658 CLAIM-1287 CLAIM-652 CLAIM-1293 CLAIM-1270 SYNTHESIS-052 SYNTHESIS-094 — Proposed; members of the work, cited as members whatever their standing, and the rule they join under -->
 
 # ADR-tmp0cgxa: A work organizational-origins-of-misalignment is added for the manuscript ChatGPT proposed from the owner's U4 in the exchange Alignment consequences brainstorm: a claim is a member when its outline states the claim's proposition or uses it as a step
 
@@ -42,11 +42,11 @@ propositions, each with the record's codes:
 
 | Proposition (A11 §IX) | codes A names |
 |---|---|
-| Optimization can be organizationally constituted without a unitary maximizing agent. | CLAIM-482, SYNTHESIS-052 |
-| Normative failure can arise from the jurisdiction of an objective rather than its content. | CLAIM-1252, CLAIM-1334, CLAIM-348 |
-| Optimization can transform the conditions that supply its feedback and constrain its activity. | CLAIM-658, CLAIM-1287 |
-| Organizational success can undermine independent capacities for evaluation and correction. | CLAIM-652, CLAIM-662, SYNTHESIS-094 |
-| A constructive alternative is the governed coexistence of heterogeneous demands. | CLAIM-1293, CLAIM-1270, will-organization, Luria |
+| Optimization can be organizationally constituted without a unitary maximizing agent. | [CLAIM-482](../claims.d/CLAIM-482.md), [SYNTHESIS-052](../syntheses.d/SYNTHESIS-052.md) |
+| Normative failure can arise from the jurisdiction of an objective rather than its content. | [CLAIM-1252](../claims.d/CLAIM-1252.md), [CLAIM-1334](../claims.d/CLAIM-1334.md), [CLAIM-348](../claims.d/CLAIM-348.md) |
+| Optimization can transform the conditions that supply its feedback and constrain its activity. | [CLAIM-658](../claims.d/CLAIM-658.md), [CLAIM-1287](../claims.d/CLAIM-1287.md) |
+| Organizational success can undermine independent capacities for evaluation and correction. | [CLAIM-652](../claims.d/CLAIM-652.md), [CLAIM-662](../claims.d/CLAIM-662.md), [SYNTHESIS-094](../syntheses.d/SYNTHESIS-094.md) |
+| A constructive alternative is the governed coexistence of heterogeneous demands. | [CLAIM-1293](../claims.d/CLAIM-1293.md), [CLAIM-1270](../claims.d/CLAIM-1270.md), will-organization, Luria |
 
 The curation entry of the exchange's filing audits both closings as
 syntheses: A8's and A11 §VIII's thesis is filed as a claim of A's, and the
@@ -65,25 +65,25 @@ the new works".
   propositions. A draft written later takes whichever title the owner
   chooses; whether it is the same work is the owner's ruling (the
   write-manuscript skill, step 1).
-- **Membership is ADR-104's rule**, read against the outline, the work's
+- **Membership is [ADR-104](ADR-104.md)'s rule**, read against the outline, the work's
   only text so far: a CLAIM or ARG is a member when the outline states its
   proposition or uses it as a step. Each of A11 §IX's codes was read
   against the proposition it is named for:
-  - CLAIM-482 (revealed preference fitted to authority) is the step for the
+  - [CLAIM-482](../claims.d/CLAIM-482.md) (revealed preference fitted to authority) is the step for the
     first proposition: an apparent objective can be the shape of an
     authority structure, not an agent's aim.
-  - CLAIM-1252, CLAIM-1334 and CLAIM-348 are the second proposition's
+  - [CLAIM-1252](../claims.d/CLAIM-1252.md), [CLAIM-1334](../claims.d/CLAIM-1334.md) and [CLAIM-348](../claims.d/CLAIM-348.md) are the second proposition's
     steps: standing constrains what may be optimized; a governing metric
     allocates two powers; no coarse-graining is adequate per se.
-  - CLAIM-658 and CLAIM-1287 are the third's: a responsive minority can set
+  - [CLAIM-658](../claims.d/CLAIM-658.md) and [CLAIM-1287](../claims.d/CLAIM-1287.md) are the third's: a responsive minority can set
     a revenue design; narrow optimizers value weakening their constraints.
-  - CLAIM-652 and CLAIM-662 are named for the fourth. The fourth's step
-    about penalized discovery is CLAIM-1064's exact result, which A
-    attributes to CLAIM-662 (the filing's U5–U8 drafter found this); both
-    are members, CLAIM-1064 for the step A states and CLAIM-662 for the
+  - [CLAIM-652](../claims.d/CLAIM-652.md) and [CLAIM-662](../claims.d/CLAIM-662.md) are named for the fourth. The fourth's step
+    about penalized discovery is [CLAIM-1064](../claims.d/CLAIM-1064.md)'s exact result, which A
+    attributes to [CLAIM-662](../claims.d/CLAIM-662.md) (the filing's U5–U8 drafter found this); both
+    are members, [CLAIM-1064](../claims.d/CLAIM-1064.md) for the step A states and [CLAIM-662](../claims.d/CLAIM-662.md) for the
     count it rests on.
-  - CLAIM-1293 and CLAIM-1270 are the fifth's.
-  - SYNTHESIS-052 and SYNTHESIS-094 are accounts and cannot carry the
+  - [CLAIM-1293](../claims.d/CLAIM-1293.md) and [CLAIM-1270](../claims.d/CLAIM-1270.md) are the fifth's.
+  - [SYNTHESIS-052](../syntheses.d/SYNTHESIS-052.md) and [SYNTHESIS-094](../syntheses.d/SYNTHESIS-094.md) are accounts and cannot carry the
     field; "will-organization" and "Luria" are a line and a tool.
 - **The exchange's own claims join at a membership pass** once
   dmarx/nucleation#837 has merged into staging, since a unit that cites
@@ -113,8 +113,8 @@ the new works".
 ## Consequences
 
 - Eleven held claims join the work, each with a history note and a
-  version bump and no other change: CLAIM-482, CLAIM-1252, CLAIM-1334,
-  CLAIM-348, CLAIM-658, CLAIM-1287, CLAIM-652, CLAIM-662, CLAIM-1064,
-  CLAIM-1293, CLAIM-1270.
+  version bump and no other change: [CLAIM-482](../claims.d/CLAIM-482.md), [CLAIM-1252](../claims.d/CLAIM-1252.md), [CLAIM-1334](../claims.d/CLAIM-1334.md),
+  [CLAIM-348](../claims.d/CLAIM-348.md), [CLAIM-658](../claims.d/CLAIM-658.md), [CLAIM-1287](../claims.d/CLAIM-1287.md), [CLAIM-652](../claims.d/CLAIM-652.md), [CLAIM-662](../claims.d/CLAIM-662.md), [CLAIM-1064](../claims.d/CLAIM-1064.md),
+  [CLAIM-1293](../claims.d/CLAIM-1293.md), [CLAIM-1270](../claims.d/CLAIM-1270.md).
 - A membership pass follows dmarx/nucleation#837's merge.
 - `luria.yaml` changes; the change waits on the owner's merge.
