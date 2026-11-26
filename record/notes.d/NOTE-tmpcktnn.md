@@ -153,6 +153,25 @@ layer that solves regularized least squares on its context at every step.
   ascent", spurious target–input pairs, which is the only phenomenon of
   that name the record holds.
 
+- **CLAIM-118 (corroborates).** Fast weights are kept in the context ("live
+  in the short-term memory ..., not in its learned parameters"). The
+  interpreter supplies binding, the optimizer and Φ0. The fixed-teacher
+  control moves what is constant into the weights. That is the claim's
+  separation by what each carries.
+- **CLAIM-074, LEAD-165 and CASE-005 (bear on).** ICL and TTT can share a
+  mechanism here, so experiment 3's contrast should be drawn by what is
+  retained.
+- **QUESTION-020 (bears on).** The fixed-teacher control is the limit where
+  the interpreter substitutes for the context completely.
+- **QUESTION-161 (bears on).** MAP under the correct prior, in
+  linear-Gaussian tasks: Bayesian, but a point estimate, not a latent-concept
+  posterior.
+- **TERM-131 (consistent).** Learning on two horizons.
+- **QUESTION-024 (analogy).** Inducing a map from examples.
+
+These were added on the owner's prompting. The first filing searched the
+readings and missed the record's own claims and questions.
+
 ## Limitations
 
 - **"Strictly generalizes" holds only up to scale.** The regularizer is

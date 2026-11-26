@@ -74,3 +74,13 @@ than either is to demonstrations.
 Pan and colleagues ([THEORY-2039](../theory.d/THEORY-2039.md)), read, show a task recovered from demonstrations whose labels are random within the correct label set, at every model size. That bears on the question's first half as evidence: demonstrations establish a convention without accurate propositional examples. It is for lexical classification, not for a stance, and transfer across wordings is not tested, so it does not answer the question.
 
 No status change.
+
+## Note of 2026-11-26: von Oswald et al. (2023), read
+
+<!-- inactive-ok-block: THEORY-tmp8xq94 NOTE-tmpcktnn — new; the reading this note reports -->
+
+An analogy, no edge. LIT-tmpuv16r (NOTE-tmpcktnn) shows a trained network
+inducing, from examples in its context, a map, the fast weights Φ, that it
+then applies to new inputs. That is the formal shape of inducing a frame
+from examples of behaviour. The paper's tasks are synthetic regression,
+and transfer across wordings is not tested. No status change.

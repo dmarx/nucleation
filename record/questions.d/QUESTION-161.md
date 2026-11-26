@@ -50,3 +50,17 @@ measured posterior over concepts, read from the network, that
 concentrates as the theorems say. Further results on synthetic data
 built to satisfy the assumptions, such as GINC, cannot settle it, and
 neither can a gain of under one point on a natural benchmark.
+
+## Note of 2026-11-26: von Oswald et al. (2023), read
+
+<!-- inactive-ok-block: THEORY-tmp8xq94 NOTE-tmpcktnn — new; the reading this note reports -->
+
+Bears on the question, in one family only. LIT-tmpuv16r (NOTE-tmpcktnn)
+says its in-context algorithm "can be precisely cast as maximum a
+posteriori inference under the correct Bayesian prior and likelihood
+function". That holds for its linear-Gaussian tasks (Appendix D). It is a
+Bayesian reading of a mechanistically identified learner, but a point
+estimate, MAP or ridge, and not a posterior predictive over a mixture of
+latent concepts as this question asks. It is also in synthetic regression,
+not language models. It is consistent with a Bayesian account. It does not
+test the latent-concept form. No status change.

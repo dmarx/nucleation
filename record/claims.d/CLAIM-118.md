@@ -217,3 +217,31 @@ No status change.
 
 ## Note of 2026-11-19: Brown and colleagues, read
 A parallel, close to evidence ([NOTE-2160](../notes.d/NOTE-2160.md)): Brown and colleagues' in-context learning is the signal side of this claim's distinction; the demonstrations supply signal, and the pretrained weights the interpreter.
+
+## Note of 2026-11-26: von Oswald et al. (2023), read
+
+<!-- inactive-ok-block: THEORY-tmp8xq94 NOTE-tmpcktnn — new; the reading this note reports -->
+
+Evidence for the claim, and the cleanest case of the separation the record holds.
+
+- **Fast weights are the signal.** LIT-tmpuv16r (NOTE-tmpcktnn) places the
+  in-context learner's parameters Φ in the context's keeping: they "live in
+  the short-term memory of a Transformer model, not in its learned
+  parameters".
+- **What the trained weights bring is the interpreter.** That is the
+  token-binding first layer, the learned optimizer, a learned learning
+  rate, and a learned initial model Φ0. Fitting a trained layer needs "not
+  only a learned learning rate η, but also a learned set of initial weights
+  Φ0". That is the interpreter's contribution to the inner learner, beside
+  the context's.
+- **A control that separates them by what each carries.** When every
+  sequence shares one fixed teacher, "there is no need to infer W* in-context",
+  and the authors "find no evidence for the mesa-optimizers". The models
+  instead "learn the fixed teacher" (Appendix E.2). What varies per sequence
+  is learned from the context. What is constant across sequences is
+  absorbed into the weights. That is this claim's criterion, "told apart by
+  what each carries and not by mechanism", shown by manipulating what each
+  can carry with the architecture held fixed.
+
+THEORY-tmp8xq94 `corroborates` this claim from this note on. The claim
+does not rest on it. No status change.
