@@ -158,3 +158,12 @@ parents" (p. 287, [NOTE-1432](../notes.d/NOTE-1432.md)). Her healthy-household c
 join teen space with "little conflict" (p. 251), fit the claim's
 condition. An overlap is needed for role conflict but does not bring it
 by itself. No status change.
+
+## Note of 2026-11-26: Niebudek and Iniewicz (2023), read
+
+
+A case. In [LIT-tmpdbb0m](../literature.d/LIT-tmpdbb0m.md) ([NOTE-tmptx4q4](../notes.d/NOTE-tmptx4q4.md)), Table 1 records a participant who "Leads a double
+life". Concealment and coming out, as the paper discusses them (pp. 139,
+141, 143), keep a role's contexts disjoint and then collapse them. This
+illustrates the claim, from self-report, with no measure of conflict. No
+status change.
