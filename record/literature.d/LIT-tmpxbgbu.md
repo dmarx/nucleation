@@ -21,7 +21,7 @@ keywords: ['forcing', 'modal logic', 'buttons', 'switches', 'ratchets']
 implementations: []
 summary: >-
   Hamkins and Löwe (2008), Transactions of the American Mathematical Society 360, 1793-1817; arXiv math/0509616. Cited at A19 §11 and §VIII of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26) for its control statements, which A19 glosses as buttons, "conditions that can be made persistently true", switches, "conditions that can be changed in either direction from accessible worlds", and ratchets, "sequences of increasingly entrenched conditions that cannot be reversed", and offers as a vocabulary for path dependence, lock-in and durable commitment. What the exchange
-  says of it is unverified until read. It bears on QUESTION-tmpahfz9 and CLAIM-tmpi0rdz.
+  says of it is unverified until read. It bears on [QUESTION-tmpahfz9](../questions.d/QUESTION-tmpahfz9.md) and [CLAIM-tmpi0rdz](../claims.d/CLAIM-tmpi0rdz.md).
 ---
 
 <!-- inactive-ok-file: CLAIM-tmpi0rdz — Proposed; filed, registered or cited in the filing of 2026-11-26 from the exchange "Alignment consequences brainstorm" -->
@@ -37,4 +37,4 @@ Hamkins and Löwe (2008), Transactions of the American Mathematical Society 360,
 ## Standing in the record
 
 Registered from A19 §11 and §VIII of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26). Unread, it grounds nothing. It is
-here for QUESTION-tmpahfz9 and CLAIM-tmpi0rdz.
+here for [QUESTION-tmpahfz9](../questions.d/QUESTION-tmpahfz9.md) and [CLAIM-tmpi0rdz](../claims.d/CLAIM-tmpi0rdz.md).

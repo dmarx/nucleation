@@ -18,10 +18,10 @@ summary: >-
   what should our requirements be?" Filed in the owner's voice, as a
   question: it asks the record's account to yield a specification, so that
   which of Luria's features the account requires, and which it does not,
-  can be seen. A15 answered it (CLAIM-tmpygs06, A's, Proposed), and
-  LEAD-tmpl9fm6 holds its tests. The record held Luria as an apparatus for
-  its own objects (CLAIM-469) and questions of what a governed record does
-  to its collaborators (QUESTION-519), not this question.
+  can be seen. A15 answered it ([CLAIM-tmpygs06](../claims.d/CLAIM-tmpygs06.md), A's, Proposed), and
+  [LEAD-tmpl9fm6](../leads.d/LEAD-tmpl9fm6.md) holds its tests. The record held Luria as an apparatus for
+  its own objects ([CLAIM-469](../claims.d/CLAIM-469.md)) and questions of what a governed record does
+  to its collaborators ([QUESTION-519](QUESTION-519.md)), not this question.
 ---
 <!-- inactive-ok-file: CLAIM-tmpygs06 — new; the answer and lead filed from the same exchange -->
 
@@ -37,7 +37,7 @@ The owner's turn, U8 of the exchange "Alignment consequences brainstorm" (ChatGP
 > requirements be?
 
 It came after A13 had read Luria as a response to the misalignment the
-exchange discussed (CLAIM-tmpoh8gm). Reading a tool against a theory
+exchange discussed ([CLAIM-tmpoh8gm](../claims.d/CLAIM-tmpoh8gm.md)). Reading a tool against a theory
 built partly from that tool's own history risks the circularity the
 manuscript from-obstruction-to-reorganization admits ("The framework was
 built from the case"). Setting the tool aside and asking what the account
@@ -50,5 +50,5 @@ A list of requirements each traced to a claim the record holds, with a
 test that would show a platform meeting it or not; and, against that
 list, which requirements Luria meets, which it meets only for
 representations, and which it does not address. A15's answer is
-CLAIM-tmpygs06; its estimate is that Luria would be the first of four
+[CLAIM-tmpygs06](../claims.d/CLAIM-tmpygs06.md); its estimate is that Luria would be the first of four
 stages.

@@ -29,13 +29,13 @@ uses:
 summary: >-
   A27 §15 and A29 §§VII and IX of the exchange "Alignment consequences
   brainstorm" (ChatGPT, 2026-11-26), on the owner's hypothesis that
-  collapsed equivalences become new distinctions (CLAIM-762, Proposed).
+  collapsed equivalences become new distinctions ([CLAIM-762](CLAIM-762.md), Proposed).
   A29 VII separates it from the retrieval hypothesis, that cooling helps
   by "reducing interference among memories": "The abstraction hypothesis:
   controlled consolidation enables higher-level intellectual units to
   become more effective objects of further inquiry", the more interesting
-  of the two. Supposed: it holds if CLAIM-762 does, and nothing on the
-  record tests it; LEAD-tmpeqy94 would. The wording is A's (ChatGPT, in
+  of the two. Supposed: it holds if [CLAIM-762](CLAIM-762.md) does, and nothing on the
+  record tests it; [LEAD-tmpeqy94](../leads.d/LEAD-tmpeqy94.md) would. The wording is A's (ChatGPT, in
   the exchange of 2026-11-26); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-762 TERM-tmp3t5jq CLAIM-tmpnf6q4 CLAIM-tmpyk9r5 — Proposed; the owner's hypothesis it rests on and the term filed beside it -->
@@ -51,11 +51,11 @@ individuation." And: "A corpus that retains every intellectual microstate
 at equal accessibility can prevent higher-level intellectual structures
 from becoming effective units of operation."
 
-The premise is the owner's CLAIM-762: where a process identifies its
+The premise is the owner's [CLAIM-762](CLAIM-762.md): where a process identifies its
 microstates by what they do, the classes it keeps become the units of
 further computation and organization, substantive only where the classes
 are closed under the system's operations and reused. Consolidation
-(TERM-tmp3t5jq) is the record identifying the states of an argument's
+([TERM-tmp3t5jq](../terms.d/TERM-tmp3t5jq.md)) is the record identifying the states of an argument's
 development by the judgment they now support.
 
 ## The two hypotheses
@@ -75,17 +75,17 @@ matched retrieval cost.
 ## Its later version
 
 A34, later in the same exchange, restates the hypothesis as its third
-pilot's: CLAIM-tmpyk9r5, filed from U17 to U19, says that condensation
+pilot's: [CLAIM-tmpyk9r5](CLAIM-tmpyk9r5.md), filed from U17 to U19, says that condensation
 preserving the relevant operational and corrective capabilities "can
 expand the developmental frontier under a fixed resource budget". It rests
-on CLAIM-761, stored work as capability, where this rests on CLAIM-762,
+on [CLAIM-761](CLAIM-761.md), stored work as capability, where this rests on [CLAIM-762](CLAIM-762.md),
 collapsed equivalences as new units. The two are different routes to one
-conclusion; LEAD-tmpd85zk would test both on one cluster.
+conclusion; [LEAD-tmpd85zk](../leads.d/LEAD-tmpd85zk.md) would test both on one cluster.
 
 ## Its condition
 
 A27 §15: "The trick is preserving access to that history when its
-distinctions become consequential again." CLAIM-762's own condition,
+distinctions become consequential again." [CLAIM-762](CLAIM-762.md)'s own condition,
 closure under the system's operations, is the record's form of it: the
 consolidated unit must answer the corrections later work will make, which
-CLAIM-tmpnf6q4 makes exact for a declared family.
+[CLAIM-tmpnf6q4](CLAIM-tmpnf6q4.md) makes exact for a declared family.

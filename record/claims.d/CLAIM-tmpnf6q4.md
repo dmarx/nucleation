@@ -45,12 +45,12 @@ summary: >-
   corrections that the queries respect, the Myhill–Nerode construction
   applied to records. A's example, checked by truth tables, is a pair the
   condensation merges and a retraction separates. Checked by brute force
-  on 400 random finite systems with python3 -I. It answers QUESTION-105
+  on 400 random finite systems with python3 -I. It answers [QUESTION-105](../questions.d/QUESTION-105.md)
   for deterministic correction families at zero tolerance and leaves its
   information-theoretic form open. The wording is the assistant's (Claude,
   in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: TERM-tmp3t5jq LIT-tmpt93bo CLAIM-tmp8gkmi — Proposed or Deferred; filed from the same exchange on 2026-11-26 -->
+<!-- inactive-ok-file: TERM-tmp3t5jq LIT-tmpt93bo — Proposed or Deferred; filed from the same exchange on 2026-11-26 -->
 
 # CLAIM-tmpnf6q4: A condensation is correction-safe only if no correction separates what it merges
 
@@ -64,7 +64,7 @@ longer contains the original reason for believing Q." A29 §11 asks for
 C(U_δ(K)) ≡_Q U′_δ(C(K)), "condensing after correcting the original record
 should agree, for a declared family of queries, with appropriately
 correcting the condensed record", and leaves "appropriately" undefined.
-The gap is when such a U′ exists. TERM-tmp3t5jq's test of a consolidation
+The gap is when such a U′ exists. [TERM-tmp3t5jq](../terms.d/TERM-tmp3t5jq.md)'s test of a consolidation
 needs the answer.
 
 ## The result
@@ -118,16 +118,16 @@ image and checks q′ for consistency over all reachable pairs.
 
 ## What it settles and what it leaves
 
-- **QUESTION-105** asks for the least an inquiry must retain to support a
+- **[QUESTION-105](../questions.d/QUESTION-105.md)** asks for the least an inquiry must retain to support a
   family of revisions. For a declared deterministic family at zero
   tolerance, the answer is 𝓡/~: what must be kept is exactly what some
   sequence of declared corrections could later make visible to a query.
   Its information-theoretic form, with tolerance ε and I(H; M), is open.
 - **Declared corrections only.** A correction not in Δ can separate records
   C merged. If Δ includes the retraction of each base item and Q can see
-  the effect, few merges are safe; CLAIM-294 is the case of a single
+  the effect, few merges are safe; [CLAIM-294](CLAIM-294.md) is the case of a single
   marginal belief. A29 VIII's "developmental root set" is the same limit:
   no condensation is safe against corrections nobody has declared.
-- **Logical forgetting** (LETHE, LIT-tmpt93bo, unread) preserves Q for the
+- **Logical forgetting** (LETHE, [LIT-tmpt93bo](../literature.d/LIT-tmpt93bo.md), unread) preserves Q for the
   empty word only. It is correction-safe when no declared correction
   reaches the forgotten vocabulary.

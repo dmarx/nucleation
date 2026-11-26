@@ -40,17 +40,17 @@ rests_on:
 bears_on:
 - QUESTION-tmpahfz9
 summary: >-
-  A gap fill (ADR-137) for A19 §5 of the exchange "Alignment consequences
-  brainstorm" (ChatGPT, 2026-11-26), which proposes reading CLAIM-563 and
-  CLAIM-581 as modal results: "In the peak-capacity case, with admissible
+  A gap fill ([ADR-137](../decisions.d/ADR-137.md)) for A19 §5 of the exchange "Alignment consequences
+  brainstorm" (ChatGPT, 2026-11-26), which proposes reading [CLAIM-563](CLAIM-563.md) and
+  [CLAIM-581](CLAIM-581.md) as modal results: "In the peak-capacity case, with admissible
   holding and no additional deadline, accessibility at a fixed budget can
   form a reflexive, transitive relation. Its modal semantics then validate
   S4. If accessibility is also symmetric on the affordable state space, it
   validates S5." A19 is right, and the derivation below sorts its cases:
-  under CLAIM-581's own premise, reversible moves, the relation is already
+  under [CLAIM-581](CLAIM-581.md)'s own premise, reversible moves, the relation is already
   symmetric, so the record's ultrametric case is S5, not S4; S4 is the
-  one-way case of CLAIM-591; and A19's "admissible holding" is the
-  condition that holding costs, CLAIM-571's r(x), stay within the budget,
+  one-way case of [CLAIM-591](CLAIM-591.md); and A19's "admissible holding" is the
+  condition that holding costs, [CLAIM-571](CLAIM-571.md)'s r(x), stay within the budget,
   without which reflexivity fails. Checked with python3 -I on 2,000 random
   graphs. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
@@ -61,7 +61,7 @@ summary: >-
 
 ## The gap
 
-A19 §5, answering the owner's U11 (QUESTION-tmpahfz9), introduces "a
+A19 §5, answering the owner's U11 ([QUESTION-tmpahfz9](../questions.d/QUESTION-tmpahfz9.md)), introduces "a
 family" of relations R_b = {(x, y) : d(x, y) ≤ b} and reads x ⊨ ◇_b φ to mean
 that φ "is realizable from configuration x within resource budget b". It
 asks whether ◇_b◇_b φ → ◇_b φ holds and answers "It depends on how
@@ -78,25 +78,25 @@ stated for reversible moves, which settles the symmetric case.
 
 Let d be the least, over admissible paths, of the path's cost, and
 R_b = {(x, y) : d(x, y) ≤ b} (on a finite move graph the least is
-attained, as CLAIM-581 step 2 notes). The standard correspondences are:
+attained, as [CLAIM-581](CLAIM-581.md) step 2 notes). The standard correspondences are:
 axiom T (□φ → φ) with reflexivity, 4 (◇◇φ → ◇φ) with transitivity, B
 (φ → □◇φ) with symmetry; S4 is T + 4, S5 is T + 4 + B.
 
 1. **Peak costs, reversible moves, free holding.** d(x, x) = 0, d is
-   symmetric, and d(x, z) ≤ max(d(x, y), d(y, z)) (CLAIM-581 step 1). So
+   symmetric, and d(x, z) ≤ max(d(x, y), d(y, z)) ([CLAIM-581](CLAIM-581.md) step 1). So
    R_b is reflexive, symmetric and transitive at every b: an equivalence
-   relation, whose frames validate S5. This is CLAIM-581's "equivalence
-   relation at every budget" read modally, and CLAIM-563's closure at
+   relation, whose frames validate S5. This is [CLAIM-581](CLAIM-581.md)'s "equivalence
+   relation at every budget" read modally, and [CLAIM-563](CLAIM-563.md)'s closure at
    every budget under max.
 2. **Peak costs, one-way moves.** The concatenation step still gives the
    strong triangle inequality for directed paths, and d(x, x) = 0, but d
-   need not be symmetric (CLAIM-591). R_b is a preorder: S4. This is the
+   need not be symmetric ([CLAIM-591](CLAIM-591.md)). R_b is a preorder: S4. This is the
    case A19's first sentence describes.
 3. **Holding costs.** If, as in A19 §2's formula d_peak(x, y) =
    inf over paths of sup_{z∈γ} r(z), the path's cost includes the
    requirement r of the configurations it passes through, endpoints
    included, then d(x, x) = r(x): staying at x costs what holding x costs
-   (CLAIM-571's holding requirement, kept apart in CLAIM-581's "Identity
+   ([CLAIM-571](CLAIM-571.md)'s holding requirement, kept apart in [CLAIM-581](CLAIM-581.md)'s "Identity
    is free; holding is not"). R_b is then reflexive exactly on the
    affordable set X_b = {x : r(x) ≤ b}. On X_b it is an equivalence (S5
    with reversible moves); on the whole space it is symmetric and
@@ -106,7 +106,7 @@ axiom T (□φ → φ) with reflexivity, 4 (◇◇φ → ◇φ) with transitivit
 4. **Cumulative costs.** d is an extended (quasi-)pseudometric, so R_b is
    reflexive, and symmetric for reversible moves, but not transitive at a
    finite positive b once there are two composable moves each costing
-   more than b/2 (CLAIM-563 step 4; CLAIM-581 step 4's 0.6 + 0.6). Axiom 4
+   more than b/2 ([CLAIM-563](CLAIM-563.md) step 4; [CLAIM-581](CLAIM-581.md) step 4's 0.6 + 0.6). Axiom 4
    fails. The triangle inequality gives the graded law: if d(x, y) ≤ b and
    d(y, z) ≤ c then d(x, z) ≤ b + c, so ◇_b◇_c φ → ◇_{b+c} φ.
 5. **Peak composition across budgets.** If d(x, y) ≤ b and d(y, z) ≤ c then
@@ -127,20 +127,20 @@ none of the sum law under additive costs.
 ## What follows
 
 - **The modal language adds a vocabulary, not a result.** Each case is a
-  restatement of CLAIM-563, CLAIM-581 and CLAIM-591. What it adds is that
+  restatement of [CLAIM-563](CLAIM-563.md), [CLAIM-581](CLAIM-581.md) and [CLAIM-591](CLAIM-591.md). What it adds is that
   the record's resource semantics and its modal semantics are the same
-  choice: TERM-105's distinction between peak capacity and cumulative
-  expenditure, which CLAIM-581 showed decides whether configurations fall
+  choice: [TERM-105](../terms.d/TERM-105.md)'s distinction between peak capacity and cumulative
+  expenditure, which [CLAIM-581](CLAIM-581.md) showed decides whether configurations fall
   into nested kinds, also decides whether "possibly possible within b" is
   "possible within b".
 - **Graded families are needed under sum.** Under cumulative costs no
   single budget's operator is closed; the logic must carry the budget as
-  an index that adds, CLAIM-563's grade, which is what resource-bounded
-  ATL does (LIT-tmpdtmk7, unread).
+  an index that adds, [CLAIM-563](CLAIM-563.md)'s grade, which is what resource-bounded
+  ATL does ([LIT-tmpdtmk7](../literature.d/LIT-tmpdtmk7.md), unread).
 - **Entrenchment is constrained.** In an S5 frame what can be made to hold
   necessarily already holds necessarily, so a
   reversible peak budget cannot express lock-in at one budget;
-  CLAIM-tmpi0rdz works this out for A23's modal table.
+  [CLAIM-tmpi0rdz](CLAIM-tmpi0rdz.md) works this out for A23's modal table.
 
 ## What it does not say
 
@@ -148,10 +148,10 @@ none of the sum law under additive costs.
   so itself: "ordinary modal logic cannot recover every geometric
   property of a space". Two move graphs with the same budget-indexed
   equivalence classes have the same S5 frames at every b and may differ in
-  cumulative cost by any factor (CLAIM-646).
+  cumulative cost by any factor ([CLAIM-646](CLAIM-646.md)).
 - Anything about several resources at once, deadlines, or replenishable
-  reserves, which have no such composition law (CLAIM-563, "What it does
+  reserves, which have no such composition law ([CLAIM-563](CLAIM-563.md), "What it does
   not say").
-- That the topological reading of S4 (LIT-tmpyehic) is about reachability:
+- That the topological reading of S4 ([LIT-tmpyehic](../literature.d/LIT-tmpyehic.md)) is about reachability:
   closure in a topology is nearness, not a path within a budget, as A19 §10
   cautions.

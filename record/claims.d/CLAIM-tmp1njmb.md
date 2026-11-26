@@ -42,10 +42,10 @@ summary: >-
   action and learning become mutually sustaining", and "Eventually, the
   organization can reproduce itself without the stimulus that initially
   prompted it." A21 maps it to Hidi and Renninger's four phases
-  (LIT-tmp8evcp, unread), saying "The correspondence is a hypothesis, not
+  ([LIT-tmp8evcp](../literature.d/LIT-tmp8evcp.md), unread), saying "The correspondence is a hypothesis, not
   an equivalence established by either literature." Its model is
-  CASE-tmpaqihm, which carries the reciprocal coupling and not the role of
-  support (CLAIM-tmpyk6bi, ARG-tmpahwlh). The wording is A's; adopting it is the
+  [CASE-tmpaqihm](../cases.d/CASE-tmpaqihm.md), which carries the reciprocal coupling and not the role of
+  support ([CLAIM-tmpyk6bi](CLAIM-tmpyk6bi.md), [ARG-tmpahwlh](../arguments.d/ARG-tmpahwlh.md)). The wording is A's; adopting it is the
   owner's call.
 ---
 <!-- inactive-ok-file: ARG-tmpahwlh CASE-tmpaqihm CLAIM-169 CLAIM-tmpyk6bi LIT-tmp8evcp — Deferred, Proposed, Rejected; filed, registered or cited in the filing of 2026-11-26 from the exchange "Alignment consequences brainstorm" -->
@@ -54,7 +54,7 @@ summary: >-
 
 ## The claim
 
-A21 §4 starts from CLAIM-169, "a specific mechanism" by which interests
+A21 §4 starts from [CLAIM-169](CLAIM-169.md), "a specific mechanism" by which interests
 are produced, and asks a more general question: "Under what conditions
 does a newly consequential evaluative distinction become a maintained
 organizational process?" Its answer is a loop: "Learning to appreciate
@@ -77,17 +77,17 @@ will-organization lines to an existing empirical research programme."
 
 ## What the model shows of it
 
-CASE-tmpaqihm shows the loop's first part: with reciprocal coupling strong
+[CASE-tmpaqihm](../cases.d/CASE-tmpaqihm.md) shows the loop's first part: with reciprocal coupling strong
 enough, αβ > μν, a self-maintained positive state exists. It does not
 show the second: in that model the support s(t) never decides whether
-the interest outlasts it (CLAIM-tmpyk6bi), so the phases that depend on
+the interest outlasts it ([CLAIM-tmpyk6bi](CLAIM-tmpyk6bi.md)), so the phases that depend on
 support, "Maintained situational interest | Externally supported
 organization", have no counterpart in it. A model in which support can
-carry an interest past a threshold, as CLAIM-600's conditions for safe
+carry an interest past a threshold, as [CLAIM-600](CLAIM-600.md)'s conditions for safe
 withdrawal require, needs the bistability A21 names and does not supply;
-CLAIM-tmpyk6bi gives one.
+[CLAIM-tmpyk6bi](CLAIM-tmpyk6bi.md) gives one.
 
 ## What it does not say
 
 That the interest so maintained is authentic, worthwhile or a legitimate
-purpose (A21 §5, quoted in CASE-tmpaqihm).
+purpose (A21 §5, quoted in [CASE-tmpaqihm](../cases.d/CASE-tmpaqihm.md)).

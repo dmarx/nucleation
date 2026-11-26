@@ -172,7 +172,7 @@ application, not a revision; the term is unchanged.
 
 A correction, the assistant's, to a use of this term.
 
-**What A15 proposes.** For its platform (CLAIM-tmpygs06), A15 §VII takes
+**What A15 proposes.** For its platform ([CLAIM-tmpygs06](../claims.d/CLAIM-tmpygs06.md)), A15 §VII takes
 the institutional state z_t = (K_t, C_t, D_t, A_t, G_t), epistemic,
 capability, dependency, effective-authority and governing components, and
 for an authorized constituent or coalition i the set R_i(z_t, B, T) of
@@ -199,7 +199,7 @@ probability.
    nothing. This is this term's limit, that K_ω "must be fixed
    independently of the current arrangement, or every arrangement is
    viable by its own standards", met through the governance component, and
-   it is the constitutional capture of CLAIM-tmpv3frk in formal dress. The
+   it is the constitutional capture of [CLAIM-tmpv3frk](../claims.d/CLAIM-tmpv3frk.md) in formal dress. The
    remedy consistent with A15's own R12: compute the kernel with the
    thresholds frozen at the time of judgement, and judge their revision
    separately, as a constitutional change under authority the governed

@@ -21,7 +21,7 @@ keywords: ['ATL', 'resource bounds', 'model checking']
 implementations: []
 summary: >-
   Alechina, Logan, Nguyen and Rakib (2010), Proceedings of AAMAS 2010, 481-488. Cited at A19 §7 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26) for ATL with resource bounds, strategic ability under resource constraints over time, which A19 names beside the coalition logic. What the exchange
-  says of it is unverified until read. It bears on LEAD-254 and QUESTION-tmpahfz9.
+  says of it is unverified until read. It bears on [LEAD-254](../leads.d/LEAD-254.md) and [QUESTION-tmpahfz9](../questions.d/QUESTION-tmpahfz9.md).
 ---
 
 # LIT-tmpdtmk7: Resource-bounded alternating-time temporal logic
@@ -35,4 +35,4 @@ Alechina, Logan, Nguyen and Rakib (2010), Proceedings of AAMAS 2010, 481-488.
 ## Standing in the record
 
 Registered from A19 §7 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26). Unread, it grounds nothing. It is
-here for LEAD-254 and QUESTION-tmpahfz9.
+here for [LEAD-254](../leads.d/LEAD-254.md) and [QUESTION-tmpahfz9](../questions.d/QUESTION-tmpahfz9.md).

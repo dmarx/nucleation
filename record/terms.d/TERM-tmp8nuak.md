@@ -33,8 +33,8 @@ summary: >-
   space itself": "Possibility space asks which states or transformations
   are available. Potential consequentiality asks which differences could
   come to matter, to what, through which interactions, and under what
-  developmental conditions." Its measures restate CLAIM-574's budgeted
-  profiles and CLAIM-570's separating budget (CLAIM-tmpik3z0); what is
+  developmental conditions." Its measures restate [CLAIM-574](../claims.d/CLAIM-574.md)'s budgeted
+  profiles and [CLAIM-570](../claims.d/CLAIM-570.md)'s separating budget ([CLAIM-tmpik3z0](../claims.d/CLAIM-tmpik3z0.md)); what is
   new is the witness family extended by development. The wording is A's;
   adopting it is the owner's call.
 ---
@@ -69,7 +69,7 @@ construction of a new instrument".
 A23 §3: Δ_{g,p}(x, x′) = d_Y(F_g^p(x), F_g^p(x′)) for a probe p in
 context g, and D_{B,T}^g(x, x′) = sup over the witness family
 W_{B,T}(g) of Δ_{h,p}(x, x′), with x ∼_{B,T}^g x′ when D is zero. A23 §4:
-κ_ε(x, x′) = inf_w {c(w) : Δ_w(x, x′) ≥ ε}. CLAIM-tmpik3z0 shows κ_ε is
+κ_ε(x, x′) = inf_w {c(w) : Δ_w(x, x′) ≥ ε}. [CLAIM-tmpik3z0](../claims.d/CLAIM-tmpik3z0.md) shows κ_ε is
 the least budget at which D reaches ε, the record's separating budget,
 and not a distance.
 
@@ -92,30 +92,30 @@ and not a distance.
   Fisher metric to a family G_g(θ), with a direction in the kernel under
   g becoming distinguishable under g′, and adds: "A difference might be
   statistically obvious yet unable to influence institutional action."
-  That is CLAIM-450's three standards.
+  That is [CLAIM-450](../claims.d/CLAIM-450.md)'s three standards.
 
 ## What the term is used for
 
 - **Kinds of consequentiality.** A23 §9's table: physical, epistemic,
   practical, affective, axiological, volitional and constitutional, "not
-  necessarily stages in a fixed developmental sequence". CLAIM-tmpk8knm
+  necessarily stages in a fixed developmental sequence". [CLAIM-tmpk8knm](../claims.d/CLAIM-tmpk8knm.md)
   uses the axiological kind for the emergence of value.
 - **Modal reading.** A23 §10 writes C_i(d) for "distinction d is
   consequential to process or party i", latent consequentiality as
-  ¬C_i(d) ∧ ◇C_i(d), and entrenchment as ◇□C_i(d). CLAIM-tmpi0rdz shows the
+  ¬C_i(d) ∧ ◇C_i(d), and entrenchment as ◇□C_i(d). [CLAIM-tmpi0rdz](../claims.d/CLAIM-tmpi0rdz.md) shows the
   two cannot be combined at one reversible peak budget.
 - **Complementary capacities.** A23 §7: a distinction may become
   consequential only through several capacities acquired together
-  (CLAIM-tmp6u4yn).
+  ([CLAIM-tmp6u4yn](../claims.d/CLAIM-tmp6u4yn.md)).
 - **Abstraction.** A23 §8: "abstraction is a redistribution of
-  consequentiality across organizational scales", the owner's CLAIM-762
+  consequentiality across organizational scales", the owner's [CLAIM-762](../claims.d/CLAIM-762.md)
   read through this term.
 - **Richness of plurality.** A23 §14: "Ten perspectives that respond
   identically under every attainable circumstance provide little
   additional consequential coverage", with the partial order
-  D_{B,T}(P₁) ⊆ D_{B,T}(P₂), CLAIM-1038 and CLAIM-1002 made comparable.
+  D_{B,T}(P₁) ⊆ D_{B,T}(P₂), [CLAIM-1038](../claims.d/CLAIM-1038.md) and [CLAIM-1002](../claims.d/CLAIM-1002.md) made comparable.
 - **Capture.** A23 §13: under a narrow optimizer, distinctions "can remain
-  intelligible while becoming practically ineffective", QUESTION-270's
+  intelligible while becoming practically ineffective", [QUESTION-270](../questions.d/QUESTION-270.md)'s
   evaluation that is right and not consequential.
 
 ## What the term does not settle
@@ -125,4 +125,4 @@ consequential distinctions as a universal measure of developmental
 value." Which distinctions count depends on the granularity of the
 language, and generation of new distinctions, as against activation of
 existing ones, is not captured by a supremum over a fixed family
-(CLAIM-tmp0k78x). LEAD-tmp18reb holds A23's separating cases.
+([CLAIM-tmp0k78x](../claims.d/CLAIM-tmp0k78x.md)). [LEAD-tmp18reb](../leads.d/LEAD-tmp18reb.md) holds A23's separating cases.

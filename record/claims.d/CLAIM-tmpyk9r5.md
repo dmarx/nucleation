@@ -86,7 +86,7 @@ was not would establish it; the defeater asks for the general failure.
   while raising the budget needed for later acquisitions outside it.
 - It does not say what must be kept. [CLAIM-250](CLAIM-250.md) holds that what a record
   must preserve is accountability, not propositions, which bears on what
-  the fourth operation needs (CLAIM-tmpnf6q4).
+  the fourth operation needs ([CLAIM-tmpnf6q4](CLAIM-tmpnf6q4.md)).
 - A31's closing point, that consolidation could make the record smaller
   "as a working intellectual organization" while it grows as an archive,
   is what this claim would look like on the record if true. A31 calls that

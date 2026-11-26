@@ -95,8 +95,8 @@ is guaranteed."
 
 ## Where the record already stands
 
-Protected alternative perspectives as roots are CLAIM-1148's maintained
-nuclei. Corrective liveness is what CLAIM-664's report on retirement
-serves. CLAIM-tmpby6hz is A's proposal for propagating requirements from
-roots; CLAIM-tmpwlw8t marks where it fails. CLAIM-tmp48l62 is A's
+Protected alternative perspectives as roots are [CLAIM-1148](CLAIM-1148.md)'s maintained
+nuclei. Corrective liveness is what [CLAIM-664](CLAIM-664.md)'s report on retirement
+serves. [CLAIM-tmpby6hz](CLAIM-tmpby6hz.md) is A's proposal for propagating requirements from
+roots; [CLAIM-tmpwlw8t](CLAIM-tmpwlw8t.md) marks where it fails. [CLAIM-tmp48l62](CLAIM-tmp48l62.md) is A's
 hypothesis on how long entries stay live.

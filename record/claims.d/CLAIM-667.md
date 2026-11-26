@@ -194,16 +194,16 @@ and its study ([LEAD-085](../leads.d/LEAD-085.md)) are unchanged.
 
 ## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U7–A13, U8–A15)
 
-<!-- inactive-ok-file: CLAIM-tmpygs06 CLAIM-685 — new or Proposed; the lead and claim of 2026-11-26 that cite this one, and the held generalization -->
+<!-- inactive-ok-file: CLAIM-tmpygs06 — new or Proposed; the lead and claim of 2026-11-26 that cite this one, and the held generalization -->
 
 Two applications, no change. A13 §10 says this claim's "factorial
 experiment on governed schema change could become part of a larger
 research programme on the organizational conditions of alignment", and
-lists it among seven comparisons on governed records (LEAD-tmpwlebp; its
+lists it among seven comparisons on governed records ([LEAD-tmpwlebp](../leads.d/LEAD-tmpwlebp.md); its
 "Constitutional adaptability" row is [LEAD-085](../leads.d/LEAD-085.md)'s design). A15's R12, that a
 platform must let an institution "legitimately revise an inadequate
 standard while preventing the process governed by that standard from
 unilaterally weakening it", is "a generalization of the governed
-schema-change hypothesis" here (CLAIM-tmpygs06); the generalization to
+schema-change hypothesis" here ([CLAIM-tmpygs06](CLAIM-tmpygs06.md)); the generalization to
 institutions the record already holds is [CLAIM-685](CLAIM-685.md)'s. Neither adds
 evidence.

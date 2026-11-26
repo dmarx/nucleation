@@ -42,8 +42,8 @@ summary: >-
   proposals to reconsider shareholder primacy might need to demonstrate
   that they would benefit shareholders before becoming institutionally
   admissible. The objective becomes its own criterion of legitimacy." It
-  joins CLAIM-1252 (standing constrains what may be optimized) and
-  CLAIM-1287 (narrow optimizers value weakening the constraints on them).
+  joins [CLAIM-1252](CLAIM-1252.md) (standing constrains what may be optimized) and
+  [CLAIM-1287](CLAIM-1287.md) (narrow optimizers value weakening the constraints on them).
   The wording is A's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-1104 CLAIM-1252 CLAIM-1287 CLAIM-1340 — Proposed; filed, registered or cited in the filing of 2026-11-26 from the exchange "Alignment consequences brainstorm" -->
@@ -84,18 +84,18 @@ retaining the purposes themselves".
 
 ## How it stands to the record
 
-- CLAIM-1252: an objective that admits others only through their
+- [CLAIM-1252](CLAIM-1252.md): an objective that admits others only through their
   contribution to it excludes their standing. This claim is the
   reflexive case: the objective admits proposals about itself only
   through their contribution to it.
-- CLAIM-1287: a narrow optimizer values weakening the constraints on it;
+- [CLAIM-1287](CLAIM-1287.md): a narrow optimizer values weakening the constraints on it;
   here the constraint weakened is its own review.
-- CLAIM-1340: shareholder-value belief binding "beyond the law" is A16's
+- [CLAIM-1340](CLAIM-1340.md): shareholder-value belief binding "beyond the law" is A16's
   example as an empirical claim.
-- LEAD-280 asks whether corrective processes stay effective against the
+- [LEAD-280](../leads.d/LEAD-280.md) asks whether corrective processes stay effective against the
   interests of the authority that controls them; this claim says why
   they may not when that authority is the purpose under review.
-- QUESTION-271, evaluation that decides authority without being captured
+- [QUESTION-271](../questions.d/QUESTION-271.md), evaluation that decides authority without being captured
   by it, is the general form.
 - A16 §12 turns the claim on the platform itself: "If the platform itself
   acquired authority to decide which institutional purposes are
@@ -106,5 +106,5 @@ retaining the purposes themselves".
 
 That purposes should be easy to revise. A16 §8: "An institution whose
 purposes change too easily cannot sustain commitments", and the design
-problem is "**differentially governed revisability**", CLAIM-1104's
+problem is "**differentially governed revisability**", [CLAIM-1104](CLAIM-1104.md)'s
 hierarchy of revisable constraints.

@@ -21,12 +21,12 @@ summary: >-
   A13 §10 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26): "There are several experiments I would want to run",
   seven comparisons with Luria as the platform, "The experimental advantage
   is that Luria makes many intermediate organizational states
-  inspectable", and CLAIM-667's governed schema change "could become part
+  inspectable", and [CLAIM-667](../claims.d/CLAIM-667.md)'s governed schema change "could become part
   of a larger research programme on the organizational conditions of
   alignment". Overlaps held leads in two rows: organizational continuity
-  is LEAD-227's comparison, and governed schema change is LEAD-085's. The wording is A's (ChatGPT, in the exchange "Alignment consequences brainstorm"); adopting it is the owner's call.
+  is [LEAD-227](LEAD-227.md)'s comparison, and governed schema change is [LEAD-085](LEAD-085.md)'s. The wording is A's (ChatGPT, in the exchange "Alignment consequences brainstorm"); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpc4o6j CLAIM-tmpoh8gm CLAIM-667 — new, Proposed or Open; the claims it would test and the held leads it overlaps -->
+<!-- inactive-ok-file: CLAIM-tmpoh8gm CLAIM-667 — new, Proposed or Open; the claims it would test and the held leads it overlaps -->
 
 # LEAD-tmpwlebp: Run institutional-alignment experiments on governed records kept by AI collectives, varying one governing arrangement at a time
 
@@ -50,12 +50,12 @@ distinctions, and responds to challenges to its existing standards."
 
 ## Against the record
 
-- Organizational continuity is LEAD-227 (shared transcript, searchable
+- Organizational continuity is [LEAD-227](LEAD-227.md) (shared transcript, searchable
   documents and governed record compared); constitutional adaptability is
-  LEAD-085 (governed schema adaptation with a performance-gated arm), on
-  CLAIM-667; LEAD-250's contract-governed distributed agent is near the
+  [LEAD-085](LEAD-085.md) (governed schema adaptation with a performance-gated arm), on
+  [CLAIM-667](../claims.d/CLAIM-667.md); [LEAD-250](LEAD-250.md)'s contract-governed distributed agent is near the
   first row.
-- Metric capture tests CLAIM-1064 and CLAIM-tmpoh8gm's reading of
+- Metric capture tests [CLAIM-1064](../claims.d/CLAIM-1064.md) and [CLAIM-tmpoh8gm](../claims.d/CLAIM-tmpoh8gm.md)'s reading of
   acknowledgements; it needs "actual violations" known to the experimenter
   and hidden from the collective, so the tasks must be seeded.
 - A13 §12's own limit applies: a single-owner setting lacks material

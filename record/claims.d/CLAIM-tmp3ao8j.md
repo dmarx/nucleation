@@ -43,7 +43,7 @@ summary: >-
   eliminate an opportunity to become someone capable of valuing something
   that is currently unintelligible." A21 ends: "**The geometry of
   possibility is also, potentially, the geometry of what we can come to
-  care about.**" It extends CLAIM-674 from worthwhile engagement to the
+  care about.**" It extends [CLAIM-674](CLAIM-674.md) from worthwhile engagement to the
   formation of valuing. The wording is A's; adopting it is the owner's
   call.
 ---
@@ -56,7 +56,7 @@ summary: >-
 A17 §3: "We often assume that people first want something and then
 acquire the means to achieve it. But human development frequently
 proceeds in the opposite direction." From that, possibility governance
-(CLAIM-1173) has a stake it does not have on a preference-satisfaction
+([CLAIM-1173](CLAIM-1173.md)) has a stake it does not have on a preference-satisfaction
 view: what a closure forecloses includes valuings not yet formed.
 
 A21 §15 draws the institutional consequence, with five freedoms:
@@ -76,7 +76,7 @@ in which they encounter new things worth desiring. That would be a
 particularly insidious form of misalignment, because the people living
 within the arrangement might report high satisfaction."
 
-A21 §9 cites Bowles (LIT-tmpgtk0s, unread) for the mechanism, that an
+A21 §9 cites Bowles ([LIT-tmpgtk0s](../literature.d/LIT-tmpgtk0s.md), unread) for the mechanism, that an
 economic institution "participates in shaping the people whose
 preferences subsequently guide allocation", and draws the line where the
 problem is: not "that institutions influence value formation as such"
@@ -86,17 +86,17 @@ transformation retain effective authority over their development".
 
 ## How it stands to the record
 
-- CLAIM-674 (Wolf) holds that preferences can be better satisfied and
+- [CLAIM-674](CLAIM-674.md) (Wolf) holds that preferences can be better satisfied and
   reported well-being raised while opportunities for worthwhile
   engagement narrow. This claim moves the narrowing upstream, to the
   formation of what is wanted.
-- CLAIM-1036 shows why the loss cannot be scored by the present self's
+- [CLAIM-1036](CLAIM-1036.md) shows why the loss cannot be scored by the present self's
   valuation: a benefit only a later valuation sees counts for nothing
   ex ante.
-- CLAIM-352 maps Sen's opportunity aspect to viable reachability through
+- [CLAIM-352](CLAIM-352.md) maps Sen's opportunity aspect to viable reachability through
   a map from trajectories to valued functionings; on this claim that map
   is itself among what development changes.
-- CLAIM-689 and CLAIM-680: a valuing's social origin does not discredit
+- [CLAIM-689](CLAIM-689.md) and [CLAIM-680](CLAIM-680.md): a valuing's social origin does not discredit
   it, and judged worth licenses cultivation, not coercion, which bound
   what an institution may do in the name of this claim.
 

@@ -140,7 +140,7 @@ claim to the second reading. The wording of this note is the assistant's
 
 ## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U6–A11)
 
-<!-- inactive-ok-file: CLAIM-431 CLAIM-1251 — Proposed; the objection and the owner's claim the note names -->
+<!-- inactive-ok-file: CLAIM-1251 — Proposed; the objection and the owner's claim the note names -->
 
 An application, no edge. A11 §6 states the claim correctly, as "a
 functional account of an institution that can understand people
@@ -155,7 +155,7 @@ capacity to influence them." To AI: "improvements in a model's ability to
 understand human psychology do not guarantee improvements in its
 alignment. They increase its potential capacity both to assist and to
 exploit." It notes, correctly, that "The record also contains objections
-to the sociopathy analogy" (CLAIM-431's, above, among them) and cites
-CLAIM-1251 for observability as a surface for domination. The application
+to the sociopathy analogy" ([CLAIM-431](CLAIM-431.md)'s, above, among them) and cites
+[CLAIM-1251](CLAIM-1251.md) for observability as a surface for domination. The application
 to models adds nothing the claim's own statement does not already cover;
 it is recorded as A's extension.

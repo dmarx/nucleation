@@ -22,7 +22,7 @@ keywords:
 - 'Philip Morris'
 implementations: []
 summary: >-
-  The District of Columbia federal court's amended final opinion in the government's civil RICO case against the cigarette manufacturers (Civil Action No. 99-2496 (GK), dated August 17, 2006; 1,682 pages in this copy). Registered from A8 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26), which cites "a 2006 federal court judgment" for "a decades-long pattern of conduct that included manipulating cigarette design to sustain addiction, misleading consumers about health consequences, suppressing research, and falsely denying marketing to young people". It is the source the tobacco case (CASE-tmp0bk10) rests on. The characterization is A's, unverified until read.
+  The District of Columbia federal court's amended final opinion in the government's civil RICO case against the cigarette manufacturers (Civil Action No. 99-2496 (GK), dated August 17, 2006; 1,682 pages in this copy). Registered from A8 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26), which cites "a 2006 federal court judgment" for "a decades-long pattern of conduct that included manipulating cigarette design to sustain addiction, misleading consumers about health consequences, suppressing research, and falsely denying marketing to young people". It is the source the tobacco case ([CASE-tmp0bk10](../cases.d/CASE-tmp0bk10.md)) rests on. The characterization is A's, unverified until read.
 ---
 <!-- inactive-ok-file: CASE-tmp0bk10 CLAIM-1249 CLAIM-tmpotbk7 — new or Proposed; the case this registration is the source of, and the claims it bears on -->
 
@@ -34,4 +34,4 @@ summary: >-
 
 ## Standing in the record
 
-Deferred. Cited by A8 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26) as the record of the tobacco industry's conduct: design "to sustain addiction", misleading consumers, "suppressing research" and denying youth marketing. It is the documented source of CASE-tmp0bk10, and bears through that case on CLAIM-1249 and CLAIM-tmpotbk7. Unverified until read.
+Deferred. Cited by A8 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26) as the record of the tobacco industry's conduct: design "to sustain addiction", misleading consumers, "suppressing research" and denying youth marketing. It is the documented source of [CASE-tmp0bk10](../cases.d/CASE-tmp0bk10.md), and bears through that case on [CLAIM-1249](../claims.d/CLAIM-1249.md) and [CLAIM-tmpotbk7](../claims.d/CLAIM-tmpotbk7.md). Unverified until read.

@@ -252,11 +252,11 @@ an outcome is undesirable can nevertheless collectively produce that
 outcome under an appropriately organized incentive regime." Its facts
 agree with this case's (unauthorized accounts, falsified records, altered
 contact details); the $3 billion settlement of 2020 it cites is now
-registered as LIT-tmpved88, unread.
+registered as [LIT-tmpved88](../literature.d/LIT-tmpved88.md), unread.
 
-It now illustrates A's CLAIM-tmpotbk7, as its first rung, demand
-measurement gamed with preferences untouched, and A8's CLAIM-tmpv3frk,
-under objective displacement. A11 §VIII cites ARG-071 correctly: the case
+It now illustrates A's [CLAIM-tmpotbk7](../claims.d/CLAIM-tmpotbk7.md), as its first rung, demand
+measurement gamed with preferences untouched, and A8's [CLAIM-tmpv3frk](../claims.d/CLAIM-tmpv3frk.md),
+under objective displacement. A11 §VIII cites [ARG-071](../arguments.d/ARG-071.md) correctly: the case
 shows "narrow recognition of harm and blocked escalation", not a sales
 regime reproducing its own blindness through its success, and
-ARG-tmpfznfa keeps that limit when the six cases are generalized from.
+[ARG-tmpfznfa](../arguments.d/ARG-tmpfznfa.md) keeps that limit when the six cases are generalized from.

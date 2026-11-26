@@ -20,7 +20,7 @@ keywords: ['deontic logic', 'permission', 'obligation']
 implementations: []
 summary: >-
   McNamara and Van De Putte (2006), Stanford Encyclopedia of Philosophy. Cited at A19 §VIII of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26) for logics of permission and obligation, which A19 lists for "Distinguishing possibility, permission and obligation", as in its point that "formal permission does not imply effective ability". What the exchange
-  says of it is unverified until read. It bears on QUESTION-tmpahfz9 and SYNTHESIS-042.
+  says of it is unverified until read. It bears on [QUESTION-tmpahfz9](../questions.d/QUESTION-tmpahfz9.md) and [SYNTHESIS-042](../syntheses.d/SYNTHESIS-042.md).
 ---
 
 <!-- inactive-ok-file: SYNTHESIS-042 — Proposed; filed, registered or cited in the filing of 2026-11-26 from the exchange "Alignment consequences brainstorm" -->
@@ -36,4 +36,4 @@ McNamara and Van De Putte (2006), Stanford Encyclopedia of Philosophy.
 ## Standing in the record
 
 Registered from A19 §VIII of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26). Unread, it grounds nothing. It is
-here for QUESTION-tmpahfz9 and SYNTHESIS-042.
+here for [QUESTION-tmpahfz9](../questions.d/QUESTION-tmpahfz9.md) and [SYNTHESIS-042](../syntheses.d/SYNTHESIS-042.md).

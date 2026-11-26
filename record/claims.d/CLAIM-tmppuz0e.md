@@ -36,12 +36,12 @@ uses:
 summary: >-
   A21 §8 of the exchange "Alignment consequences brainstorm" (ChatGPT,
   2026-11-26): "Nucleation already distinguishes operational,
-  developmental, and inquiry frontiers in" SYNTHESIS-105; "I would propose
+  developmental, and inquiry frontiers in" [SYNTHESIS-105](../syntheses.d/SYNTHESIS-105.md); "I would propose
   adding an **axiological frontier** to this apparatus", with a
   constitutional frontier, "What can acquire legitimate authority over my
   organization?", and "These frontiers should not be assumed to move
-  together." A21's citation is right: SYNTHESIS-105's hinge is
-  CLAIM-754's three frontiers. The wording is A's; adopting it is the
+  together." A21's citation is right: [SYNTHESIS-105](../syntheses.d/SYNTHESIS-105.md)'s hinge is
+  [CLAIM-754](CLAIM-754.md)'s three frontiers. The wording is A's; adopting it is the
   owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-754 CLAIM-tmpk8knm SYNTHESIS-105 TERM-tmpmdrmj — Proposed; filed, registered or cited in the filing of 2026-11-26 from the exchange "Alignment consequences brainstorm" -->
@@ -72,16 +72,16 @@ logical system".
 
 ## How it stands to the record
 
-- CLAIM-754 holds the first three and that no scalar measure ranks
+- [CLAIM-754](CLAIM-754.md) holds the first three and that no scalar measure ranks
   learners across them; this claim adds two frontiers with the same
   independence.
-- The constitutional frontier is TERM-tmpmdrmj's constitutional reach for
+- The constitutional frontier is [TERM-tmpmdrmj](../terms.d/TERM-tmpmdrmj.md)'s constitutional reach for
   an institution, and A19 §VI's constitutional power.
 - An institution that recognizes a value and cannot give it standing is
-  QUESTION-270's evaluation that is right and not consequential, and
-  CLAIM-403's stages of inclusion, where recognition does not bring
+  [QUESTION-270](../questions.d/QUESTION-270.md)'s evaluation that is right and not consequential, and
+  [CLAIM-403](CLAIM-403.md)'s stages of inclusion, where recognition does not bring
   uptake.
-- CLAIM-tmpk8knm says what moving the axiological frontier is: making a
+- [CLAIM-tmpk8knm](CLAIM-tmpk8knm.md) says what moving the axiological frontier is: making a
   difference evaluatively consequential.
 
 ## What it does not say
@@ -90,4 +90,4 @@ How the axiological frontier is measured. A21: "The axiological frontier
 would be particularly difficult to measure"; a test would ask whether an
 intervention makes new distinctions consequential to behaviour across
 circumstances, kept apart from "changed beliefs, capabilities,
-incentives, or authority" (LEAD-tmp18reb).
+incentives, or authority" ([LEAD-tmp18reb](../leads.d/LEAD-tmp18reb.md)).

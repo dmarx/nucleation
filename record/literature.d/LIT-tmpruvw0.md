@@ -21,7 +21,7 @@ keywords: ['sabotage modal logic', 'graph games', 'model change']
 implementations: []
 summary: >-
   Aucher, van Benthem and Grossi (2018), Journal of Logic and Computation 28(2), 269-303. Cited at A19 §8 and §VIII of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26) for modal logics in which moves remove accessibility edges, which A19 offers for actors who act "both *within* a possibility space and *upon* its structure". What the exchange
-  says of it is unverified until read. It bears on QUESTION-tmpahfz9 and CLAIM-1173.
+  says of it is unverified until read. It bears on [QUESTION-tmpahfz9](../questions.d/QUESTION-tmpahfz9.md) and [CLAIM-1173](../claims.d/CLAIM-1173.md).
 ---
 
 <!-- inactive-ok-file: CLAIM-1173 — Proposed; filed, registered or cited in the filing of 2026-11-26 from the exchange "Alignment consequences brainstorm" -->
@@ -37,4 +37,4 @@ Aucher, van Benthem and Grossi (2018), Journal of Logic and Computation 28(2), 2
 ## Standing in the record
 
 Registered from A19 §8 and §VIII of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26). Unread, it grounds nothing. It is
-here for QUESTION-tmpahfz9 and CLAIM-1173.
+here for [QUESTION-tmpahfz9](../questions.d/QUESTION-tmpahfz9.md) and [CLAIM-1173](../claims.d/CLAIM-1173.md).

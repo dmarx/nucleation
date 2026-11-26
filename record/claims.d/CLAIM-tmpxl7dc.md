@@ -35,10 +35,10 @@ summary: >-
   how it ties into all of this" (U14). A writes luria's governing knowledge
   and subject knowledge as M and R (luria's README, M; R ⊢ x), measures a
   distinction by the findings difference under M, and reads the
-  `corroborates` decision (ADR-044, CASE-131) as "a new distinction in how
+  `corroborates` decision ([ADR-044](../decisions.d/ADR-044.md), [CASE-131](../cases.d/CASE-131.md)) as "a new distinction in how
   changes to evidence ought to become consequential". The argument for the
-  existence clause is ARG-tmpsis1z, which narrows the instance: ADR-044 made
-  a distinction expressible, and ADR-069 made an expressible one
+  existence clause is [ARG-tmpsis1z](../arguments.d/ARG-tmpsis1z.md), which narrows the instance: [ADR-044](../decisions.d/ADR-044.md) made
+  a distinction expressible, and [ADR-069](../decisions.d/ADR-069.md) made an expressible one
   consequential. A's measure covers only machine findings; A says whether
   they move attention, decisions or action "is a further empirical
   question". The wording is A's (ChatGPT, in the exchange of 2026-11-26);
@@ -87,16 +87,16 @@ does not assert:
 
 Only the first component is machine-detectable; A25 §11: "For the human and
 organizational parts, we would need observations of actual participation,
-adjudication and activity." LEAD-tmpj44my measures the first.
+adjudication and activity." [LEAD-tmpj44my](../leads.d/LEAD-tmpj44my.md) measures the first.
 
 ## Its instance
 
-A25 §3 reads CASE-131 and ADR-044 as the instance: before
+A25 §3 reads [CASE-131](../cases.d/CASE-131.md) and [ADR-044](../decisions.d/ADR-044.md) as the instance: before
 `corroborates`, a claim filed with `supports` had its converse written as
 `rests_on`, so the grammar asserted an inference nobody made; after it,
 retiring a corroborating claim lowers support without breaking the
-argument. ARG-tmpsis1z finds that this shows a distinction becoming
-expressible, and supplies an instance of the stronger thing from ADR-069.
+argument. [ARG-tmpsis1z](../arguments.d/ARG-tmpsis1z.md) finds that this shows a distinction becoming
+expressible, and supplies an instance of the stronger thing from [ADR-069](../decisions.d/ADR-069.md).
 
 ## What it does not say
 
@@ -105,4 +105,4 @@ expressible, and supplies an instance of the stronger thing from ADR-069.
 - That a grammar should make every distinction consequential. A25 §14:
   "Some distinctions should be ignored", and §10 warns that every
   configuration "makes some activities easier, some distinctions more
-  visible", which is CLAIM-181 and CLAIM-472's point.
+  visible", which is [CLAIM-181](CLAIM-181.md) and [CLAIM-472](CLAIM-472.md)'s point.

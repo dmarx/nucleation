@@ -117,8 +117,8 @@ disempowers: assistants and software remember, track, index, check,
 generate worklists and draft, and "The objective is not to preserve the
 owner's ability to perform all those activities unaided. It is to expand
 the owner's capacity to govern an increasingly sophisticated intellectual
-organization." Filed as CLAIM-tmpxf70b (A's). This claim is the half of it
+organization." Filed as [CLAIM-tmpxf70b](CLAIM-tmpxf70b.md) (A's). This claim is the half of it
 the record holds: noticing was delegated, judgement about revision was
 not. It is not the other half, that the owner's capacity to govern grew or
-held; ARG-tmpo6eca (Rejected) says why the census cannot show that, and
-LEAD-tmpswgqi is the manuscript's §19.5 measurement filed as a lead.
+held; [ARG-tmpo6eca](../arguments.d/ARG-tmpo6eca.md) (Rejected) says why the census cannot show that, and
+[LEAD-tmpswgqi](../leads.d/LEAD-tmpswgqi.md) is the manuscript's §19.5 measurement filed as a lead.

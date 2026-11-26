@@ -29,14 +29,14 @@ summary: >-
   U5. A's sources are The Wall Street Journal's reporting of 2021, which is
   not registered (its address could not be verified: the newspaper's site
   refuses automated requests whatever the address), and Guess et al. 2023
-  (LIT-tmpj95m9, registered, unread); the facts are A's report,
+  ([LIT-tmpj95m9](../literature.d/LIT-tmpj95m9.md), registered, unread); the facts are A's report,
   unverified until read. The record holds the mechanism in a laboratory
-  (CASE-296, CASE-367, CLAIM-954) and a field experiment on X
-  (THEORY-1653), not this case. The wording is A's (ChatGPT, in the exchange "Alignment consequences brainstorm"); adopting it is the owner's call. The section "Against the record" is
+  ([CASE-296](CASE-296.md), [CASE-367](CASE-367.md), [CLAIM-954](../claims.d/CLAIM-954.md)) and a field experiment on X
+  ([THEORY-1653](../theory.d/THEORY-1653.md)), not this case. The wording is A's (ChatGPT, in the exchange "Alignment consequences brainstorm"); adopting it is the owner's call. The section "Against the record" is
   the assistant's (Claude, in this session); adopting it is the owner's
   call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpotbk7 CASE-296 CASE-367 CLAIM-954 THEORY-1653 CLAIM-653 CLAIM-658 — Proposed or new; the claim this case illustrates and the held laboratory, field and minority entries it is set beside -->
+<!-- inactive-ok-file: CLAIM-tmpotbk7 CASE-296 CASE-367 CLAIM-954 THEORY-1653 — Proposed or new; the claim this case illustrates and the held laboratory, field and minority entries it is set beside -->
 
 # CASE-tmp824kq: Facebook's meaningful-interactions ranking, 2018
 
@@ -52,7 +52,7 @@ strategies". So "The optimization was therefore not confined to ranking
 existing cultural products. It influenced the conditions under which
 cultural products were produced."
 
-A qualifies it at once with the 2023 Science experiment (LIT-tmpj95m9):
+A qualifies it at once with the 2023 Science experiment ([LIT-tmpj95m9](../literature.d/LIT-tmpj95m9.md)):
 chronological feeds "substantially changed their platform experiences but
 did not significantly change several measures of political polarization
 during the three-month study", and "We should distinguish demonstrated
@@ -61,7 +61,7 @@ claims about long-term population psychology."
 
 ## What it can show
 
-CLAIM-tmpotbk7 (A's), its third rung: an optimizer whose criterion
+[CLAIM-tmpotbk7](../claims.d/CLAIM-tmpotbk7.md) (A's), its third rung: an optimizer whose criterion
 selects among cultural products and thereby changes what producers make
 is governing the conditions in which demand forms, not only measuring or
 engineering it. The documented part is the producer side (publishers'
@@ -70,16 +70,16 @@ strategies); the population side is the open part.
 ## Against the record (the assistant's)
 
 The record holds a laboratory that separates the three things A runs
-together. CASE-296 and CASE-367, with CLAIM-954, separate classes a
+together. [CASE-296](CASE-296.md) and [CASE-367](CASE-367.md), with [CLAIM-954](../claims.d/CLAIM-954.md), separate classes a
 platform infers, classes it uses and classes that reshape preferences, and
 find that "only engagement under randomized exposure" tells them apart:
 steering exposure raises concentration and fit "whether or not
 preferences move". So the 2021 reports (more divisive content ranked up,
-publishers adapting) are what CLAIM-954 says would be seen whether or not
+publishers adapting) are what [CLAIM-954](../claims.d/CLAIM-954.md) says would be seen whether or not
 anyone's preferences changed.
 
 A's qualification is also weaker than it reads, on a held reading.
-Gauthier et al. (THEORY-1653, Proposed; LIT-2431, read in NOTE-1742)
+Gauthier et al. ([THEORY-1653](../theory.d/THEORY-1653.md), Proposed; [LIT-2431](../literature.d/LIT-2431.md), read in [NOTE-1742](../notes.d/NOTE-1742.md))
 switched X users both ways: turning the algorithmic feed on shifted policy
 priorities, views and follows, while turning it off had no comparable
 effect, which the authors explain by follows formed under the algorithm

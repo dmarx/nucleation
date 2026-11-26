@@ -20,7 +20,7 @@ keywords: ['spatial logic', 'topological semantics', 'S4']
 implementations: []
 summary: >-
   Aiello, van Benthem and Bezhanishvili (2003), Journal of Logic and Computation 13(6), 889-920. Cited at A19 §10 and §VIII of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26) for modal and topological accounts of space, which A19 offers for robust viability: a configuration "in the interior of a viable region under a declared perturbation topology" as against one arbitrarily close to failure. What the exchange
-  says of it is unverified until read. It bears on QUESTION-tmpahfz9.
+  says of it is unverified until read. It bears on [QUESTION-tmpahfz9](../questions.d/QUESTION-tmpahfz9.md).
 ---
 
 # LIT-tmpsmkud: Reasoning About Space: The Modal Way
@@ -34,4 +34,4 @@ Aiello, van Benthem and Bezhanishvili (2003), Journal of Logic and Computation 1
 ## Standing in the record
 
 Registered from A19 §10 and §VIII of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26). Unread, it grounds nothing. It is
-here for QUESTION-tmpahfz9.
+here for [QUESTION-tmpahfz9](../questions.d/QUESTION-tmpahfz9.md).

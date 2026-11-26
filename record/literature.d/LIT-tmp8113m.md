@@ -3,7 +3,7 @@ status: Deferred
 status_note: >-
   Registered 2026-11-26 from A27 §1 of the exchange "Alignment consequences
   brainstorm" (ChatGPT, 2026-11-26), which invokes "the case of the
-  mnemonist" behind Luria's name (LU-ADR-011). Not sought or read; an
+  mnemonist" behind Luria's name ([LU-ADR-011](https://github.com/dmarx/luria/blob/main/record/decisions.d/ADR-011.md)). Not sought or read; an
   in-copyright book, so no lawful free copy is expected.
 title: 'The Mind of a Mnemonist'
 version: 1
@@ -33,12 +33,12 @@ implementations: []
 summary: >-
   A. R. Luria (1968), The Mind of a Mnemonist: A Little Book about a Vast
   Memory, trans. Lynn Solotaroff (Basic Books; Harvard University Press
-  reissue 1987). The namesake of the luria tool (LU-ADR-011: "a record that
+  reissue 1987). The namesake of the luria tool ([LU-ADR-011](https://github.com/dmarx/luria/blob/main/record/decisions.d/ADR-011.md): "a record that
   never forgets and never abstracts becomes unusable"). A27 §1 of the
   exchange "Alignment consequences brainstorm" invokes it for the owner's
-  proposal of controlled forgetting (CLAIM-tmpu1fef): a mnemonist "whose
+  proposal of controlled forgetting ([CLAIM-tmpu1fef](../claims.d/CLAIM-tmpu1fef.md)): a mnemonist "whose
   extraordinary recall interfered with abstraction and the extraction of
-  meaning". What A and LU-ADR-011 say of the work is unverified until
+  meaning". What A and [LU-ADR-011](https://github.com/dmarx/luria/blob/main/record/decisions.d/ADR-011.md) say of the work is unverified until
   read.
 ---
 <!-- inactive-ok-file: CLAIM-tmpu1fef TERM-tmp96b3g TERM-tmp3t5jq CLAIM-184 CLAIM-176 — Proposed; filed from the same exchange on 2026-11-26 -->
@@ -55,10 +55,10 @@ Memory*. Trans. Lynn Solotaroff. Basic Books.
 ## Standing in the record
 
 The case the tool is named for, and the record's oldest statement of the
-problem CLAIM-tmpu1fef raises: total retention working against
-abstraction. CLAIM-184 cites it, through LU-ADR-011, for the danger of
+problem [CLAIM-tmpu1fef](../claims.d/CLAIM-tmpu1fef.md) raises: total retention working against
+abstraction. [CLAIM-184](../claims.d/CLAIM-184.md) cites it, through [LU-ADR-011](https://github.com/dmarx/luria/blob/main/record/decisions.d/ADR-011.md), for the danger of
 anchors that never stop attracting structure. A reading would say whether
 Luria describes the mnemonist's difficulty as a failure to forget, or as a
 failure to generalize that forgetting would not by itself cure, which is
-the difference between cooling (TERM-tmp96b3g) and consolidation
-(TERM-tmp3t5jq).
+the difference between cooling ([TERM-tmp96b3g](../terms.d/TERM-tmp96b3g.md)) and consolidation
+([TERM-tmp3t5jq](../terms.d/TERM-tmp3t5jq.md)).

@@ -32,12 +32,12 @@ rests_on:
 - CLAIM-tmp3epdy
 summary: >-
   A11 §12 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26), on the owner's U6: "Does the optimizer even have an
-  objective?" A builds on CLAIM-482 (revealed preference is fitted to
-  authority, Active), which it states correctly, and on SYNTHESIS-052 (a
+  objective?" A builds on [CLAIM-482](CLAIM-482.md) (revealed preference is fitted to
+  authority, Active), which it states correctly, and on [SYNTHESIS-052](../syntheses.d/SYNTHESIS-052.md) (a
   collective's stance need not be its members'), and closes: "Nucleation
   offers the possibility of investigating optimization without
   presupposing an optimizer." The selection route is the one A6 put and
-  CLAIM-tmp3epdy holds. The record held each source in part; not the
+  [CLAIM-tmp3epdy](CLAIM-tmp3epdy.md) holds. The record held each source in part; not the
   division, or the charge that the paperclip picture reifies the fourth.
   The note below, which says which interventions separate the four, is the
   assistant's. The wording is A's (ChatGPT, in the exchange "Alignment consequences brainstorm"); adopting it is the owner's call.
@@ -66,15 +66,15 @@ responsible for producing that behaviour."
 
 ## What it rests on
 
-CLAIM-482 (Active): an organization's revealed preference exists exactly
+[CLAIM-482](CLAIM-482.md) (Active): an organization's revealed preference exists exactly
 when its winning moves never cycle, is fitted to one regime of authority,
 and does not predict what an intervention on authority does. That makes
 the descriptive objective a fit, and the institutional one its source in
-one regime. CLAIM-tmp3epdy (A6's) holds the selectional route: organizations
+one regime. [CLAIM-tmp3epdy](CLAIM-tmp3epdy.md) (A6's) holds the selectional route: organizations
 can converge on power with no instrumental reasoning, because those that
 fail to keep what their continuation needs become less prevalent.
 
-It qualifies the owner's U4 (CLAIM-tmpe432a) without contradicting it:
+It qualifies the owner's U4 ([CLAIM-tmpe432a](CLAIM-tmpe432a.md)) without contradicting it:
 "We're already paperclip maximizing" is true of what corporations do on
 any of the four readings, and the four differ in what would stop it.
 
@@ -88,7 +88,7 @@ fixed:
   behaviour that follows it was explicit.
 - **Change the authority** (who decides, who can veto, with the
   specification fixed): behaviour that follows it was institutional, and
-  CLAIM-482 says the fitted objective will fail to predict the change.
+  [CLAIM-482](CLAIM-482.md) says the fitted objective will fail to predict the change.
 - **Change the selective environment** (what lets organizations survive
   and grow, with every organization's specification and authority fixed):
   a selectional objective moves the population's composition, not any one

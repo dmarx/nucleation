@@ -159,11 +159,11 @@ ChatGPT, at A21 of the exchange "Hyper article interpretation" (2026-11-22), wri
 
 Three bearings, and a qualification in the assistant's voice.
 
-**An application (A11 §8).** A cites CLAIM-662 for "Penalizing
-discovery", correctly as far as CLAIM-662 goes, and draws the conclusion
+**An application (A11 §8).** A cites [CLAIM-662](CLAIM-662.md) for "Penalizing
+discovery", correctly as far as [CLAIM-662](CLAIM-662.md) goes, and draws the conclusion
 this claim states: "an AI laboratory scored on the number of safety
 failures it discovers might inadvertently select against its own safety
-research." This claim, not CLAIM-662, is the one that says inquiry never
+research." This claim, not [CLAIM-662](CLAIM-662.md), is the one that says inquiry never
 pays under those conditions; A did not cite it. "More generally, we should
 distinguish a reduction in violations from a reduction in the capacity to
 recognize violations."
@@ -173,13 +173,13 @@ discovered", "Failures discovered", "Failures acknowledged", "Failures
 corrected" and "Correction mechanisms maintained" into "a single compliance
 indicator", reading the first as "Possibly no effective investigation".
 That is this claim's consequence made a rule of reporting
-(CLAIM-tmpygs06).
+([CLAIM-tmpygs06](CLAIM-tmpygs06.md)).
 
 **A proposed answer (A13 §4), checked (the assistant).** A13 offers
 Luria's acknowledgements as "a concrete partial response": a warning "can
 be acknowledged without disappearing from the accounting", and Luria's
 principle that "a suppression must not become a silence" is checked in its
-documents (CLAIM-tmpoh8gm). Against this claim's conditions: an
+documents ([CLAIM-tmpoh8gm](CLAIM-tmpoh8gm.md)). Against this claim's conditions: an
 acknowledged finding does not fail the check, so in an institution scored
 on pass or fail, recognizing a requirement no longer costs the score, and
 the first condition, that each recognized violation is penalized, fails;

@@ -26,7 +26,7 @@ summary: >-
   purpose from programmed purpose?": agents with heterogeneous local
   objectives who can cooperate, build shared resources, make commitments
   and change their relationships, under four conditions, with "particularly
-  strong tests" of any collective concern that appears. LEAD-250's matched
+  strong tests" of any collective concern that appears. [LEAD-250](LEAD-250.md)'s matched
   architectures, from fixed priority to a reflexive contract ecology, are
   the platform it would build on. Stage idea: the conditions and tests are
   named, the environment and the measure of a concern are not. The
@@ -61,18 +61,18 @@ encountered."
 - **A measure of a collective concern** that is not the reward of the
   fixed-objective arm: A17 asks to "distinguish genuinely new evaluative
   organization from merely learning an effective intermediate strategy
-  for maximizing a fixed reward". One candidate is CLAIM-tmpk8knm's test,
+  for maximizing a fixed reward". One candidate is [CLAIM-tmpk8knm](../claims.d/CLAIM-tmpk8knm.md)'s test,
   a distinction that becomes consequential to the collective's choices
   across circumstances and was not before.
-- **The platform**: LEAD-250's contract-governed agent, whose arms run
+- **The platform**: [LEAD-250](LEAD-250.md)'s contract-governed agent, whose arms run
   from fixed priority to a reflexive contract ecology, gives the third
   and fourth conditions.
 
 ## What it would move
 
-- **CLAIM-tmpvuiy4**: a concern that survives all four tests in the
+- **[CLAIM-tmpvuiy4](../claims.d/CLAIM-tmpvuiy4.md)**: a concern that survives all four tests in the
   reflexive arm and in no other is evidence that purposes can be
   constituted, not aggregated; one that appears equally under a fixed
   objective is an instrumental subgoal.
-- **CLAIM-tmp0o2mp**: whether operative, articulated and constituted
+- **[CLAIM-tmp0o2mp](../claims.d/CLAIM-tmp0o2mp.md)**: whether operative, articulated and constituted
   concern come apart in the runs.

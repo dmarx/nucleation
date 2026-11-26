@@ -27,7 +27,7 @@ summary: >-
   "Competence–valuation coupling". A21 linearizes at zero and finds it
   unstable when αβ > μν, which is right, and itself notes "the model above
   has a coupling threshold, not a finite-amplitude nucleation threshold".
-  CLAIM-tmpyk6bi works out what that leaves for the support term. The
+  [CLAIM-tmpyk6bi](../claims.d/CLAIM-tmpyk6bi.md) works out what that leaves for the support term. The
   wording is A's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: ARG-tmpahwlh CLAIM-tmp1njmb CLAIM-tmpyk6bi — Proposed, Rejected; filed, registered or cited in the filing of 2026-11-26 from the exchange "Alignment consequences brainstorm" -->
@@ -69,8 +69,8 @@ support is withdrawn."
 
 ## What it is used for
 
-It is the model A21 offers for its mechanism, CLAIM-tmp1njmb. CLAIM-tmpyk6bi
+It is the model A21 offers for its mechanism, [CLAIM-tmp1njmb](../claims.d/CLAIM-tmp1njmb.md). [CLAIM-tmpyk6bi](../claims.d/CLAIM-tmpyk6bi.md)
 derives its equilibria and shows that the support term cannot decide
-whether an interest outlasts the support; ARG-tmpahwlh is the inference from the
+whether an interest outlasts the support; [ARG-tmpahwlh](../arguments.d/ARG-tmpahwlh.md) is the inference from the
 model to the claim. The record's model with a seed threshold is
-CLAIM-1310's fold.
+[CLAIM-1310](../claims.d/CLAIM-1310.md)'s fold.

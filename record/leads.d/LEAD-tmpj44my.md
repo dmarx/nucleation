@@ -23,7 +23,7 @@ summary: >-
   difference of findings, for single perturbations of a frozen copy of the
   record, and report it before a change is made, "a hypothetical `luria
   impact` operation". Part of it exists: retiring an entry already reports
-  what rests on it and leaves each dependant to judgment (CLAIM-664). The
+  what rests on it and leaves each dependant to judgment ([CLAIM-664](../claims.d/CLAIM-664.md)). The
   wording is A's (ChatGPT, in the exchange of 2026-11-26); adopting it is
   the owner's call.
 ---
@@ -43,7 +43,7 @@ summary: >-
    drop a `rests_on`, add an `objects_to`; diff as above.
 4. **Grammar perturbations.** Apply a candidate change to `luria.yaml` (a
    new `fail_on` check, a relation made required, a status split) to the
-   unchanged tree; diff. Keep apart the two kinds ARG-tmpsis1z separates:
+   unchanged tree; diff. Keep apart the two kinds [ARG-tmpsis1z](../arguments.d/ARG-tmpsis1z.md) separates:
    a rule that changes findings on perturbations already expressible, and
    one that makes new perturbations expressible.
 5. **As a dry run.** For a proposed change in a pull request, print the
@@ -54,16 +54,16 @@ summary: >-
 
 ## What it would move
 
-- CLAIM-tmpxl7dc: step 4 is its test. A grammar change whose diff is empty
+- [CLAIM-tmpxl7dc](../claims.d/CLAIM-tmpxl7dc.md): step 4 is its test. A grammar change whose diff is empty
   on R and non-empty on some δ is an instance; none found across the
   record's `fail_on` history would count against the claim's generality.
-- CLAIM-469: a measure of which distinctions the apparatus "keeps,
+- [CLAIM-469](../claims.d/CLAIM-469.md): a measure of which distinctions the apparatus "keeps,
   enforces and propagates".
-- CLAIM-664: whether the dependants a retirement reports are the ones a
+- [CLAIM-664](../claims.d/CLAIM-664.md): whether the dependants a retirement reports are the ones a
   reviser then changes.
 
 ## What it does not measure
 
 Attention, decision and action, A25 §11's other three components. A's own
 experiment table (A25 §13: equivalent bodies of knowledge under different
-governing architectures) is LEAD-155's design, not this one's.
+governing architectures) is [LEAD-155](LEAD-155.md)'s design, not this one's.

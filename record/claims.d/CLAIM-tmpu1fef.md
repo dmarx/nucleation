@@ -34,7 +34,7 @@ summary: >-
   The owner's, at U15 of the exchange "Alignment consequences brainstorm"
   (ChatGPT, 2026-11-26), offered as "one immediate opportunity", controlled
   forgetting, prompted by "how large nucleation has gotten". The record
-  prices the keeping of an entry (CLAIM-303, CLAIM-308, CLAIM-314); the
+  prices the keeping of an entry ([CLAIM-303](CLAIM-303.md), [CLAIM-308](CLAIM-308.md), [CLAIM-314](CLAIM-314.md)); the
   owner's point is that what it keeps is all equally present. Filed in the
   owner's voice. The section "The record as it stands" is the assistant's
   (Claude, in this session): at the commit this filing was cut from,
@@ -74,15 +74,15 @@ force, not whether it should be in the way.
 ## What the record already prices
 
 The owner's "some guidance on how to price the cost of keeping information"
-is held. CLAIM-303 prices filing against later reconstruction, and
-CLAIM-308 gives the competitive filing rule when reuse cannot be
-forecast. CLAIM-314 is the nearest held claim to this one: recognizing
+is held. [CLAIM-303](CLAIM-303.md) prices filing against later reconstruction, and
+[CLAIM-308](CLAIM-308.md) gives the competitive filing rule when reuse cannot be
+forecast. [CLAIM-314](CLAIM-314.md) is the nearest held claim to this one: recognizing
 which filed argument answers a new question costs more as the store grows,
 so "each filing raises the cost of later reuse and per-item break-even
-decisions are not independent". CLAIM-891 prices a filed argument partly
+decisions are not independent". [CLAIM-891](CLAIM-891.md) prices a filed argument partly
 by "what recognizing it costs in a growing store". Every one of these prices
 admission. None prices an entry's continued place among what a search or a
-reader meets, which is the owner's point. CLAIM-184 is the closest on
+reader meets, which is the owner's point. [CLAIM-184](CLAIM-184.md) is the closest on
 retirement: retirement by status remedies entrenchment "only if superseded
 anchors stop attracting new structure", and it names a count that would
 show whether they do.
@@ -111,18 +111,18 @@ size; the second and third, idle and redundant content, are where a
 measure would have to look. A count is not the measure the `defeated_if`
 asks for: whether removing an entry from default retrieval helps depends
 on how often it is met in tasks that do not need it, and nothing here
-measures that. LEAD-tmpeqy94 would, and so would LEAD-tmpolbqp's trial on
-one line and LEAD-tmpe579v's replay of retention policies over the
+measures that. [LEAD-tmpeqy94](../leads.d/LEAD-tmpeqy94.md) would, and so would [LEAD-tmpolbqp](../leads.d/LEAD-tmpolbqp.md)'s trial on
+one line and [LEAD-tmpe579v](../leads.d/LEAD-tmpe579v.md)'s replay of retention policies over the
 record's history, both filed from U17 to U19 of the same exchange.
 
 ## What the apparatus already has
 
 *The assistant's.* "Just present or not" holds for entries and not quite for
-versions. Luria's own principle on rewriting (LU-DP-017, "A record states
+versions. Luria's own principle on rewriting ([LU-DP-017](https://github.com/dmarx/luria/blob/main/docs/design-principles.md#dp-17), "A record states
 what is true now — git already keeps what was written then") treats git
 history as the store of what an entry used to say, so a rewritten entry's
 old text is already cold: kept, reachable by commit, out of every view.
-CLAIM-1290 is the cost of that: a citation by code reaches the current
+[CLAIM-1290](CLAIM-1290.md) is the cost of that: a citation by code reaches the current
 version, and reaching the one relied on needs a commit. For entries the
 record forbids the move: "Retire by status, never by deletion"
 (CLAUDE.md's enforced rules), so a retired entry stays in the tree, in the
@@ -132,15 +132,15 @@ missing.
 ## What it bears on
 
 A34, later in the same exchange, states the claim generally and with a
-threshold as its second hypothesis (CLAIM-tmpdid0k, filed from U17 to
+threshold as its second hypothesis ([CLAIM-tmpdid0k](CLAIM-tmpdid0k.md), filed from U17 to
 U19): past some point, a larger readily accessible corpus raises the cost
 of the inquiries it already holds enough to support.
 
-QUESTION-tmpz8xkx asks what a governed record should cool, condense or
+[QUESTION-tmpz8xkx](../questions.d/QUESTION-tmpz8xkx.md) asks what a governed record should cool, condense or
 erase. A's answers in the same exchange are filed apart: the separation of
-standing, availability and fidelity (CLAIM-tmp5zt7f, TERM-tmp96b3g), the
-operations of cooling and consolidation (TERM-tmp3t5jq), the pricing of a
-tier (CLAIM-tmpg2wk1) and the condition that cooling leave dependencies
-visible (CLAIM-tmpdkwbk). Luria's name already states the danger: it is
+standing, availability and fidelity ([CLAIM-tmp5zt7f](CLAIM-tmp5zt7f.md), [TERM-tmp96b3g](../terms.d/TERM-tmp96b3g.md)), the
+operations of cooling and consolidation ([TERM-tmp3t5jq](../terms.d/TERM-tmp3t5jq.md)), the pricing of a
+tier ([CLAIM-tmpg2wk1](CLAIM-tmpg2wk1.md)) and the condition that cooling leave dependencies
+visible ([CLAIM-tmpdkwbk](CLAIM-tmpdkwbk.md)). Luria's name already states the danger: it is
 named for a mnemonist whose total recall worked against abstraction
-(LU-ADR-011, LIT-tmp8113m, unread).
+([LU-ADR-011](https://github.com/dmarx/luria/blob/main/record/decisions.d/ADR-011.md), [LIT-tmp8113m](../literature.d/LIT-tmp8113m.md), unread).

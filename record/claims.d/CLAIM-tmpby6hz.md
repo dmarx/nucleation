@@ -39,13 +39,13 @@ summary: >-
   could carry "references that specify retention requirements", so that
   "Connectivity and retention pressure become separate properties". The
   join, r(e) = ⋁ over uses u of r_u(e), is "a small abstract
-  interpretation over the record's relation graph". CLAIM-tmpwlw8t, the
+  interpretation over the record's relation graph". [CLAIM-tmpwlw8t](CLAIM-tmpwlw8t.md), the
   assistant's, shows it cannot express alternative support (A29 §16), so
   the defeated_if is met for that case and the claim stands for
   conjunctive requirements. The wording is A's (ChatGPT, in the exchange
   of 2026-11-26); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpwlw8t TERM-tmp96b3g CLAIM-tmpi0o8t — Proposed; filed from the same exchange on 2026-11-26 -->
+<!-- inactive-ok-file: CLAIM-tmpwlw8t — Proposed; filed from the same exchange on 2026-11-26 -->
 
 # CLAIM-tmpby6hz: Retention requirements join over an entry's uses
 
@@ -99,5 +99,5 @@ satisfy some combinations more cheaply."
 
 A29 §16: "An argument may depend on two premises jointly, or it may have
 two independently sufficient grounds. Those structures are not
-equivalent." CLAIM-tmpwlw8t shows the second has no least requirement, so
+equivalent." [CLAIM-tmpwlw8t](CLAIM-tmpwlw8t.md) shows the second has no least requirement, so
 no join computes it.

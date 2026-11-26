@@ -38,7 +38,7 @@ summary: >-
   operative purpose is to "Maximize monetizable attention"; A17 separates
   attributed, functional, operative, articulated, constituted and
   legitimate purpose and says "None of these automatically establishes
-  the next." Both tie operative purpose to CLAIM-030 and CLAIM-482. The
+  the next." Both tie operative purpose to [CLAIM-030](CLAIM-030.md) and [CLAIM-482](CLAIM-482.md). The
   wording is A's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmpvuiy4 SYNTHESIS-091 THEORY-666 — Proposed; filed, registered or cited in the filing of 2026-11-26 from the exchange "Alignment consequences brainstorm" -->
@@ -73,22 +73,22 @@ purpose cannot simply be a platform for editing mission statements."
 
 ## How it stands to the record
 
-- **Operative purpose** is CLAIM-030's operative intention, "produced by
+- **Operative purpose** is [CLAIM-030](CLAIM-030.md)'s operative intention, "produced by
   systemic mechanisms that can evolve apart from what the members
-  intend", and A16 reads it through CLAIM-482: an aggregate revealed
+  intend", and A16 reads it through [CLAIM-482](CLAIM-482.md): an aggregate revealed
   preference, where it exists, "is fitted to one regime of authority", so
   operative purpose "may be better understood through the authority
   relations producing institutional decisions than through a declared or
   inferred objective function alone". A16's citation is apt.
-- **Legitimate against viable:** SYNTHESIS-091, which A17 cites for "the
+- **Legitimate against viable:** [SYNTHESIS-091](../syntheses.d/SYNTHESIS-091.md), which A17 cites for "the
   viability of an organization does not establish what ought to persist".
-- **Functional purpose** without articulation is THEORY-666's intrinsic
+- **Functional purpose** without articulation is [THEORY-666](../theory.d/THEORY-666.md)'s intrinsic
   purpose of autopoietic systems.
-- **Constituted purpose** is the subject of CLAIM-tmpvuiy4.
+- **Constituted purpose** is the subject of [CLAIM-tmpvuiy4](CLAIM-tmpvuiy4.md).
 
 ## What it does not say
 
 That the list is complete, or that the senses are ordered. A17 §6 offers a
 developmental sequence through some of them as "my proposed
 developmental decomposition, not an established sequence in the record";
-CLAIM-474 holds that such achievements form a partial order.
+[CLAIM-474](CLAIM-474.md) holds that such achievements form a partial order.

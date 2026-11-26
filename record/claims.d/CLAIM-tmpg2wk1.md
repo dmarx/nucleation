@@ -37,19 +37,19 @@ uses:
 - TERM-tmp96b3g
 summary: >-
   A27 §§4, 7 and 8 and A29 §§5 and 7 of the exchange "Alignment
-  consequences brainstorm" (ChatGPT, 2026-11-26), extending CLAIM-303's
+  consequences brainstorm" (ChatGPT, 2026-11-26), extending [CLAIM-303](CLAIM-303.md)'s
   pricing of filing to the pricing of a tier. A's cost profile is
   J_e(k) = maintenance + retrieval noise + expected reactivation + expected
   unavailability loss + transition; its five retention values are current
   utility, reconstruction value, dependency value, negative knowledge and
-  developmental option value. A29 §7 cites CLAIM-308 correctly for the
+  developmental option value. A29 §7 cites [CLAIM-308](CLAIM-308.md) correctly for the
   reconstruction-weighted rule. The assistant's check: A's per-entry sum
-  sits uneasily with A27 §4's own point, held in CLAIM-314, that an entry's
-  cost depends on the rest of the corpus; ARG-tmpedexz narrows the claim
+  sits uneasily with A27 §4's own point, held in [CLAIM-314](CLAIM-314.md), that an entry's
+  cost depends on the rest of the corpus; [ARG-tmpedexz](../arguments.d/ARG-tmpedexz.md) narrows the claim
   accordingly. The wording is A's (ChatGPT, in the exchange of 2026-11-26);
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-314 ARG-tmpedexz TERM-tmp96b3g CLAIM-tmp6tc1j CLAIM-1148 — Proposed; the held claim it rests on, the argument filed beside it, and entries cited from the same exchange -->
+<!-- inactive-ok-file: CLAIM-314 ARG-tmpedexz CLAIM-tmp6tc1j CLAIM-1148 — Proposed; the held claim it rests on, the argument filed beside it, and entries cited from the same exchange -->
 
 # CLAIM-tmpg2wk1: A tier is priced by retrieval noise and recovery
 
@@ -83,9 +83,9 @@ recency or access frequency as the sole criterion for forgetting."
 A29 §7. Entry A is used 20 times at 1 unit of reconstruction per use;
 entry B twice at 100. "Frequency alone would favor A. A
 reconstruction-cost-sensitive policy might favor B." Checked: 20 × 1 = 20
-against 2 × 100 = 200 units of reconstruction avoided. This is CLAIM-308's
+against 2 × 100 = 200 units of reconstruction avoided. This is [CLAIM-308](CLAIM-308.md)'s
 rule moved from filing to availability: recurrence weighted by
-reconstruction cost. CLAIM-303 already quotes the same point about
+reconstruction cost. [CLAIM-303](CLAIM-303.md) already quotes the same point about
 filing: "a rare, expensive-to-reconstruct argument might deserve persistence
 more than an often-repeated trivial observation."
 
@@ -95,16 +95,16 @@ A27 §4 says retention "cannot necessarily be determined in isolation": with
 S the working corpus, an entry's marginal cost is
 ΔC(e | S) = C(S ∪ {e}) − C(S), which includes its effect on "the
 retrieval, interpretation and verification of other knowledge". This is
-held: CLAIM-314 shows that recognizing which stored answer covers a new
+held: [CLAIM-314](CLAIM-314.md) shows that recognizing which stored answer covers a new
 question grows with the store, so "per-item break-even decisions are not
 independent".
 
 *The assistant's (Claude, in this session).* A27 §7's J_e(k) then prices
 each entry alone, with a retrieval-noise term that is a property of the
 entry. The two do not fit unless noise is additive over entries. When it is
-not, as CLAIM-314 says, the rule has to be stated over the working corpus:
+not, as [CLAIM-314](CLAIM-314.md) says, the rule has to be stated over the working corpus:
 choose the set of hot entries that minimizes total cost, not each entry's
-tier one at a time. ARG-tmpedexz records this narrowing. A27 §4's own
+tier one at a time. [ARG-tmpedexz](../arguments.d/ARG-tmpedexz.md) records this narrowing. A27 §4's own
 illustration (20 relevant results among 100, 80 distractors moved out of
 default retrieval in steps) is correct arithmetic, the relevant fraction
 going from 20 % to 20/(100 − c), and 100 % at c = 80, checked with
@@ -131,8 +131,8 @@ pathology we have been discussing." The hard constraints above are where
 the third enters.
 
 
-That use is no evidence. Use is evidence of current utility; CLAIM-tmp6tc1j
+That use is no evidence. Use is evidence of current utility; [CLAIM-tmp6tc1j](CLAIM-tmp6tc1j.md)
 is A's warning that in a record use is partly produced by availability, so
-it is weaker evidence than in a cache. CLAIM-1148's maintained nuclei are
+it is weaker evidence than in a cache. [CLAIM-1148](CLAIM-1148.md)'s maintained nuclei are
 one way developmental option value can be kept without keeping everything
 hot.

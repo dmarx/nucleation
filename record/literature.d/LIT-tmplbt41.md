@@ -23,7 +23,7 @@ keywords:
 - 'federalism'
 implementations: []
 summary: >-
-  The main report of Newfoundland and Labrador's Royal Commission on Renewing and Strengthening Our Place in Canada (2003), whose chapter 10, "Fisheries", has sections titled "The Collapse of the Fishery" and "Fisheries Management – A Dysfunctional Federal/Provincial Relationship". Registered from A8 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26), which cites "a subsequent Newfoundland and Labrador Royal Commission" for "excessive harvesting capacity, political pressure to maintain quotas, dependence on the industry for employment, and reluctance to acknowledge the declining resource" among the collapse's causes. It is the source of the cod case (CASE-tmpts51k). The characterization is A's, unverified until read.
+  The main report of Newfoundland and Labrador's Royal Commission on Renewing and Strengthening Our Place in Canada (2003), whose chapter 10, "Fisheries", has sections titled "The Collapse of the Fishery" and "Fisheries Management – A Dysfunctional Federal/Provincial Relationship". Registered from A8 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26), which cites "a subsequent Newfoundland and Labrador Royal Commission" for "excessive harvesting capacity, political pressure to maintain quotas, dependence on the industry for employment, and reluctance to acknowledge the declining resource" among the collapse's causes. It is the source of the cod case ([CASE-tmpts51k](../cases.d/CASE-tmpts51k.md)). The characterization is A's, unverified until read.
 ---
 <!-- inactive-ok-file: CASE-tmpts51k — new; the case this registration is the source of -->
 
@@ -35,4 +35,4 @@ summary: >-
 
 ## Standing in the record
 
-Deferred. Cited by A8 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26) for the causes of the northern cod collapse: excess harvesting capacity, "political pressure to maintain quotas", employment dependence and reluctance to acknowledge the decline. It is the documented source of CASE-tmpts51k, and bears through it on CLAIM-464. Unverified until read.
+Deferred. Cited by A8 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26) for the causes of the northern cod collapse: excess harvesting capacity, "political pressure to maintain quotas", employment dependence and reluctance to acknowledge the decline. It is the documented source of [CASE-tmpts51k](../cases.d/CASE-tmpts51k.md), and bears through it on [CLAIM-464](../claims.d/CLAIM-464.md). Unverified until read.

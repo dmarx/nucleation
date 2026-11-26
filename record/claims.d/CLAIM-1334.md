@@ -145,7 +145,7 @@ be granted inappropriate authority", with a table of what an accurate
 measure "Does not thereby justify" (revenue, all decisions about product
 design; engagement, all decisions about information exposure), and builds
 on it a division of a metric's failures into measurement, proxy,
-jurisdictional and constitutional (CLAIM-tmp826ap, A's). This claim is the
+jurisdictional and constitutional ([CLAIM-tmp826ap](CLAIM-tmp826ap.md), A's). This claim is the
 third of the four; its second safeguard, keeping the authority to define
 success apart from the authority to pursue it, is the remedy for the
 fourth.
@@ -153,5 +153,5 @@ fourth.
 A13 §1 reads Luria's rule that "identity is not standing" as "a concrete
 design response to the problem identified in" this claim: "It separates
 the capacity to make something visible from the authority to determine
-what follows from its visibility" (CLAIM-tmpoh8gm, A's). That is an
+what follows from its visibility" ([CLAIM-tmpoh8gm](CLAIM-tmpoh8gm.md), A's). That is an
 analogy, and it holds at the level of a record's entries only; no edge.

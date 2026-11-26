@@ -35,7 +35,7 @@ rests_on:
 uses:
 - TERM-tmp8nuak
 summary: >-
-  A gap fill (ADR-137) for A23 §10 of the exchange "Alignment consequences
+  A gap fill ([ADR-137](../decisions.d/ADR-137.md)) for A23 §10 of the exchange "Alignment consequences
   brainstorm" (ChatGPT, 2026-11-26), whose table of modal expressions for
   potential consequentiality reads ¬C_i(d) ∧ ◇C_i(d) as "Its
   consequentiality is latent" and ◇□C_i(d) as "It can become entrenched",
@@ -62,14 +62,14 @@ entrenched" for ◇□C_i(d), with the example that "a constitutional
 protection can make distinctions concerning consent consequential across
 a wide range of otherwise changing institutional circumstances". The
 accessibility relation is left open. If it is A19 §5's R_b, reachability
-within a budget (CLAIM-tmpti7cf), the logic is fixed by the resource
-semantics, and in the case the record's merge tree describes (CLAIM-581)
+within a budget ([CLAIM-tmpti7cf](CLAIM-tmpti7cf.md)), the logic is fixed by the resource
+semantics, and in the case the record's merge tree describes ([CLAIM-581](CLAIM-581.md))
 the two rows cannot both describe one configuration at one budget.
 
 ## The derivation
 
 1. **S5 collapses entrenchment.** Under peak costs with reversible moves
-   and free holding, R_b is an equivalence relation (CLAIM-tmpti7cf,
+   and free holding, R_b is an equivalence relation ([CLAIM-tmpti7cf](CLAIM-tmpti7cf.md),
    step 1). In an equivalence frame, if some y with x R_b y has □_b C at
    y, then C holds at every z with y R_b z, and those are exactly the z
    with x R_b z. So ◇_b□_b C at x gives □_b C at x, and by reflexivity C
@@ -80,7 +80,7 @@ the two rows cannot both describe one configuration at one budget.
    preorder (S4), and ◇□φ does not imply □φ. A move that cannot be
    reversed within b leads to a region where C holds throughout what is
    reachable from it: a ratchet, in the vocabulary A19 §11 takes from
-   LIT-tmpxbgbu (unread).
+   [LIT-tmpxbgbu](../literature.d/LIT-tmpxbgbu.md) (unread).
 3. **A lower budget allows it.** With reversible moves, ◇_b□_{b'} C with
    b' < b is satisfiable at a configuration where C fails: spend capacity
    b to cross a barrier, then hold where only b' is available, which
@@ -106,8 +106,8 @@ The two-move example gives ◇_8□_3 C true and ◇_8□_8 C false.
   declared; a single reversible budget makes every entrenchment undoable
   with the means that made it.
 - **This matches the record's readiness results.** That reaching can cost
-  more than holding (CLAIM-571) is the budget gap that step 3 uses; that
-  cutting slack to need freezes the configuration (CLAIM-679) is the
+  more than holding ([CLAIM-571](CLAIM-571.md)) is the budget gap that step 3 uses; that
+  cutting slack to need freezes the configuration ([CLAIM-679](CLAIM-679.md)) is the
   lower-budget entrenchment of a configuration one already holds.
 
 ## What it does not say
@@ -115,4 +115,4 @@ The two-move example gives ◇_8□_3 C true and ◇_8□_8 C false.
 - That entrenchment is bad. A19 §11: "irreversibility is not necessarily
   pathological. The capacity to establish a commitment that cannot be
   casually withdrawn is itself a form of collective power."
-- Anything about C_i itself, which A23 defines only informally (TERM-tmp8nuak).
+- Anything about C_i itself, which A23 defines only informally ([TERM-tmp8nuak](../terms.d/TERM-tmp8nuak.md)).

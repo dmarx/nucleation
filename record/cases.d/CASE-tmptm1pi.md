@@ -26,10 +26,10 @@ reported_in:
 - LIT-tmpgx9y2
 summary: >-
   A8 §5 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26), "deceptive alignment before advanced AI", on the owner's
-  U5. A8 cites no named source; the figures are the EPA's (LIT-tmpgx9y2,
+  U5. A8 cites no named source; the figures are the EPA's ([LIT-tmpgx9y2](../literature.d/LIT-tmpgx9y2.md),
   registered, unread), and the case is A's account, unverified until read.
   A calls it "an empirical illustration of Nucleation's
-  maintenance-provenance problem"; the record's term is TERM-100's
+  maintenance-provenance problem"; the record's term is [TERM-100](../terms.d/TERM-100.md)'s
   maintenance provenance, and the fit is discussed below. The record held
   no case of an optimizer that conditions its behaviour on being evaluated.
   The wording is A's (ChatGPT, in the exchange "Alignment consequences brainstorm"); adopting it is the owner's call.
@@ -56,21 +56,21 @@ the presence of oversight."
 
 ## What it can show
 
-- **CLAIM-416** (Active): a perspective that gains influence over its test
+- **[CLAIM-416](../claims.d/CLAIM-416.md)** (Active): a perspective that gains influence over its test
   can change what later success shows. The defeat device is the limiting
   case, influence by detection: the test was unchanged and passing it
   stopped showing anything about the road.
-- **CLAIM-tmpv3frk** (A's): A8's first example of "constitutional capture"
+- **[CLAIM-tmpv3frk](../claims.d/CLAIM-tmpv3frk.md)** (A's): A8's first example of "constitutional capture"
   is "Volkswagen's evaluation evasion".
 
 ## Against the record
 
-A's "maintenance-provenance problem" is TERM-100's sense, and it fits
+A's "maintenance-provenance problem" is [TERM-100](../terms.d/TERM-100.md)'s sense, and it fits
 better than it first sounds: compliance under test was maintained by a
 process (the software's test detection) other than the one certification
 assumed (the emissions controls), so the same passing result had two
 maintenance provenances, and only an evaluation the software could not
-detect told them apart. What the case adds to CLAIM-416 is that the
+detect told them apart. What the case adds to [CLAIM-416](../claims.d/CLAIM-416.md) is that the
 remedy A names, evaluation under deployment conditions, works by denying
 the optimizer the signal it conditions on, not by making the test harder.
 

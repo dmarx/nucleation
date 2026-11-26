@@ -21,7 +21,7 @@ keywords: ['interest development', 'situational interest', 'individual interest'
 implementations: []
 summary: >-
   Hidi and Renninger (2006), Educational Psychologist 41(2), 111-127. Cited at A21 §4 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26) for its four phases, triggered situational interest, maintained situational interest, emerging individual interest and well-developed individual interest, which A21 maps to a transient perturbation, an externally supported organization, partial endogenous maintenance and a stabilized capacity, saying "The correspondence is a hypothesis, not an equivalence established by either literature". What the exchange
-  says of it is unverified until read. It bears on CLAIM-tmp1njmb, CLAIM-169 and the transient-support line (CLAIM-600).
+  says of it is unverified until read. It bears on [CLAIM-tmp1njmb](../claims.d/CLAIM-tmp1njmb.md), [CLAIM-169](../claims.d/CLAIM-169.md) and the transient-support line ([CLAIM-600](../claims.d/CLAIM-600.md)).
 ---
 
 <!-- inactive-ok-file: CLAIM-169 CLAIM-tmp1njmb — Proposed; filed, registered or cited in the filing of 2026-11-26 from the exchange "Alignment consequences brainstorm" -->
@@ -37,4 +37,4 @@ Hidi and Renninger (2006), Educational Psychologist 41(2), 111-127.
 ## Standing in the record
 
 Registered from A21 §4 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26). Unread, it grounds nothing. It is
-here for CLAIM-tmp1njmb, CLAIM-169 and the transient-support line (CLAIM-600).
+here for [CLAIM-tmp1njmb](../claims.d/CLAIM-tmp1njmb.md), [CLAIM-169](../claims.d/CLAIM-169.md) and the transient-support line ([CLAIM-600](../claims.d/CLAIM-600.md)).

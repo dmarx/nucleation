@@ -20,7 +20,7 @@ keywords: ['closure algebra', 'interior operator', 'S4']
 implementations: []
 summary: >-
   McKinsey and Tarski (1944), Annals of Mathematics 45(1), 141-191. Cited at A19 §10 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26) for the topological reading of modality, necessity as interior and possibility as closure, under which, A19 says, "The logic S4 is sound and complete for topological spaces". What the exchange
-  says of it is unverified until read. It bears on QUESTION-tmpahfz9.
+  says of it is unverified until read. It bears on [QUESTION-tmpahfz9](../questions.d/QUESTION-tmpahfz9.md).
 ---
 
 # LIT-tmpyehic: The Algebra of Topology
@@ -34,4 +34,4 @@ McKinsey and Tarski (1944), Annals of Mathematics 45(1), 141-191.
 ## Standing in the record
 
 Registered from A19 §10 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26). Unread, it grounds nothing. It is
-here for QUESTION-tmpahfz9.
+here for [QUESTION-tmpahfz9](../questions.d/QUESTION-tmpahfz9.md).

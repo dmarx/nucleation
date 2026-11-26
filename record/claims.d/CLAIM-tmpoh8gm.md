@@ -42,9 +42,9 @@ summary: >-
   phenomena we've been discussing." Each Luria mechanism A cites was
   checked against Luria's own documents, and each figure from the record's
   history against the manuscript from-obstruction-to-reorganization and
-  CASE-300; all hold. The record held Luria as an apparatus for its objects
-  (CLAIM-469) and the amending of its grammar by misfits (CLAIM-419), not
-  Luria as a response to the couplings of CLAIM-1334 and CLAIM-1064. The wording is A's (ChatGPT, in the exchange "Alignment consequences brainstorm"); adopting it is the owner's call.
+  [CASE-300](../cases.d/CASE-300.md); all hold. The record held Luria as an apparatus for its objects
+  ([CLAIM-469](CLAIM-469.md)) and the amending of its grammar by misfits ([CLAIM-419](CLAIM-419.md)), not
+  Luria as a response to the couplings of [CLAIM-1334](CLAIM-1334.md) and [CLAIM-1064](CLAIM-1064.md). The wording is A's (ChatGPT, in the exchange "Alignment consequences brainstorm"); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-1334 CLAIM-181 CLAIM-789 CLAIM-tmpc4o6j CLAIM-tmpxf70b — Proposed or new; claims it rests on or is set beside, and the claims filed with it -->
 
@@ -56,8 +56,8 @@ A13 (https://chatgpt.com/share/6b07d7ae-9434-83ea-888b-9b20796f291c) reads Luria
 institutional technology", "Nucleation as a longitudinal case of an
 institution developing through that technology", and "The combination as
 a potential experimental platform for studying organizational alignment".
-This claim is the first level; CLAIM-tmpc4o6j and LEAD-tmpwlebp take the
-third, CLAIM-tmpxf70b one point of the second.
+This claim is the first level; [CLAIM-tmpc4o6j](CLAIM-tmpc4o6j.md) and [LEAD-tmpwlebp](../leads.d/LEAD-tmpwlebp.md) take the
+third, [CLAIM-tmpxf70b](CLAIM-tmpxf70b.md) one point of the second.
 
 The separations A names, each checked on 2026-11-26 against a clone of
 github.com/dmarx/luria (its README, docs/modeling.md and
@@ -69,17 +69,17 @@ docs/design-principles.md) and the installed luria 1.11.0:
 | Two kinds of claim that must be able to disagree | separate schemes | modeling.md: "split when two kinds of claim must be able to disagree" |
 | A finding from its silencing | acknowledgements, counted and with a reason | design-principles.md, principle 1: "a suppression must not become a silence" |
 | Orderliness from activity | an `inert-status` check for statuses that never change | lint.py and config.py name the check |
-| A premise's retirement from its dependents' fate | dependents exposed for reconsideration, not decided | docs/record.md on `rests_on`: retired, a premise "leaves this claim needing another"; CLAIM-479 |
-| A misfit from a contributor's error | grammar amended by decision | CLAIM-419 |
+| A premise's retirement from its dependents' fate | dependents exposed for reconsideration, not decided | docs/record.md on `rests_on`: retired, a premise "leaves this claim needing another"; [CLAIM-479](CLAIM-479.md) |
+| A misfit from a contributor's error | grammar amended by decision | [CLAIM-419](CLAIM-419.md) |
 
 A ties two of these to the record's misalignment claims:
 
-- **To CLAIM-1334.** Luria "separates the capacity to make something
+- **To [CLAIM-1334](CLAIM-1334.md).** Luria "separates the capacity to make something
   visible from the authority to determine what follows from its
   visibility", where in the attention economy "visibility, popularity,
   economic value and allocation of further visibility can become tightly
   coupled".
-- **To CLAIM-1064 and CLAIM-662.** "If success means minimizing warnings,
+- **To [CLAIM-1064](CLAIM-1064.md) and [CLAIM-662](CLAIM-662.md).** "If success means minimizing warnings,
   then suppressing warnings, reducing investigation, weakening
   definitions, and actually correcting problems can all improve the same
   score." Luria distinguishes "The discovery of a condition", "Its
@@ -98,7 +98,7 @@ All checked against scratch/manuscripts/from-obstruction-to-reorganization:
 
 - In 63 of the 71 grammar changes made in answer to a misfit (89%), the
   move "had first been forced into a category or kept in prose" (08-results.md;
-  CASE-300). A's reading: "The existing grammar can conceal its own
+  [CASE-300](../cases.d/CASE-300.md)). A's reading: "The existing grammar can conceal its own
   inadequacy", and "The distinction between correcting the participant and
   correcting the governing grammar is itself an alignment problem."
 - The LEAD scheme's first grammar put 190 of 197 leads at `idea`, because
@@ -106,8 +106,8 @@ All checked against scratch/manuscripts/from-obstruction-to-reorganization:
   changed it (07-governance.md; 137 after). A: "the organization
   discovers that its scoring categories need improvement."
 - "Luria also has its own paperclip problem": the link fixer that wrote a
-  dependency no author asserted (CASE-131, CLAIM-479), the stale summary
-  carried forward (CLAIM-789), and the promotion audit, 230 of whose 308
+  dependency no author asserted ([CASE-131](../cases.d/CASE-131.md), [CLAIM-479](CLAIM-479.md)), the stale summary
+  carried forward ([CLAIM-789](CLAIM-789.md)), and the promotion audit, 230 of whose 308
   decision files had gone stale while 15 of the 19 most-relied-on Proposed
   entries never entered its queue (07-governance.md). A: "The relevant
   achievement is therefore not having designed a flawless governance
@@ -117,8 +117,8 @@ All checked against scratch/manuscripts/from-obstruction-to-reorganization:
 ## Limits
 
 A13's §4 claim, that acknowledgements are "a concrete partial response" to
-CLAIM-662's incentive, is examined in the note of 2026-11-26 on
-CLAIM-1064: they decouple a finding from its enforcement, which is half of
-what that incentive needs. CLAIM-181 is the standing objection: the
+[CLAIM-662](CLAIM-662.md)'s incentive, is examined in the note of 2026-11-26 on
+[CLAIM-1064](CLAIM-1064.md): they decouple a finding from its enforcement, which is half of
+what that incentive needs. [CLAIM-181](CLAIM-181.md) is the standing objection: the
 grammar that keeps these things apart is also the grammar that forces the
 moves it lacks words for.

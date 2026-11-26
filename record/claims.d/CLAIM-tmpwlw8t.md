@@ -27,7 +27,7 @@ bears_on:
 summary: >-
   The assistant's fill for a gap between A29 §15 and §16 of the exchange
   "Alignment consequences brainstorm" (ChatGPT, 2026-11-26). §15 computes
-  an entry's retention requirement as a join over its uses (CLAIM-tmpby6hz);
+  an entry's retention requirement as a join over its uses ([CLAIM-tmpby6hz](CLAIM-tmpby6hz.md));
   §16 observes that two independently sufficient grounds differ from two
   joint premises and that "redundant grounds are sometimes maintained
   corrective reserves", without saying that the join cannot represent
@@ -47,7 +47,7 @@ summary: >-
 ## The gap
 
 A29 §15 lets each use of an entry impose a minimum requirement and takes
-the join (CLAIM-tmpby6hz). A29 §16 then sets joint support (C needs A and
+the join ([CLAIM-tmpby6hz](CLAIM-tmpby6hz.md)). A29 §16 then sets joint support (C needs A and
 B) against alternative support (either A or B establishes C), and adds
 that "retaining both grounds may be redundant for establishing the current
 conclusion but valuable for resilience against future invalidation". It
@@ -88,9 +88,9 @@ their meet (0, 0) is not among them.
   two independent lines of support. A requirement could be stated per ARG
   ("keep enough of this ARG's premises to rerun it") and the alternatives
   read off `argued_by`. A claim's own `rests_on` list is conjunctive and
-  carries no such distinction; CLAIM-293 holds that the topology alone
+  carries no such distinction; [CLAIM-293](CLAIM-293.md) holds that the topology alone
   does not fix revision in any case.
 - **A29 §16's remedy** ("hypergraphs or assumption-based
   truth-maintenance machinery") is the general form: de Kleer's labels
-  are sets of minimal assumption sets (THEORY-1778), a disjunction of
+  are sets of minimal assumption sets ([THEORY-1778](../theory.d/THEORY-1778.md)), a disjunction of
   conjunctions, which is exactly what a disjunctive requirement needs.

@@ -22,7 +22,7 @@ keywords:
 - 'deferred prosecution agreement'
 implementations: []
 summary: >-
-  The Department of Justice's release of 21 February 2020 on Wells Fargo's $3 billion resolution of the criminal and civil investigations into its sales practices. Registered from A8 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26), which cites the settlement for the Wells Fargo case. The record's own case, CASE-151, rests on the independent directors' report (LIT-1425); this release dates the federal resolution. Unverified until read.
+  The Department of Justice's release of 21 February 2020 on Wells Fargo's $3 billion resolution of the criminal and civil investigations into its sales practices. Registered from A8 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26), which cites the settlement for the Wells Fargo case. The record's own case, [CASE-151](../cases.d/CASE-151.md), rests on the independent directors' report ([LIT-1425](LIT-1425.md)); this release dates the federal resolution. Unverified until read.
 ---
 
 # LIT-tmpved88: Wells Fargo Agrees to Pay $3 Billion to Resolve Criminal and Civil Investigations into Sales Practices Involving the Opening of Millions of Accounts without Customer Authorization
@@ -33,4 +33,4 @@ summary: >-
 
 ## Standing in the record
 
-Deferred. Cited by A8 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26): "In 2020, Wells Fargo agreed to a $3 billion settlement resolving related criminal and civil investigations." It dates the federal resolution of the episode in CASE-151, which rests on LIT-1425. Unverified until read.
+Deferred. Cited by A8 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26): "In 2020, Wells Fargo agreed to a $3 billion settlement resolving related criminal and civil investigations." It dates the federal resolution of the episode in [CASE-151](../cases.d/CASE-151.md), which rests on [LIT-1425](LIT-1425.md). Unverified until read.

@@ -71,7 +71,7 @@ valuational differentiation." It separates three changes:
   distinctions."
 
 A23 §9 states the second in the vocabulary of potential consequentiality
-(TERM-tmp8nuak): an evaluative distinction emerges when a difference
+([TERM-tmp8nuak](../terms.d/TERM-tmp8nuak.md)): an evaluative distinction emerges when a difference
 acquires a maintained role in evaluation; "An interest emerges when that
 role becomes sufficiently organized to participate in directing
 attention, activity and learning. A purpose emerges when the concern
@@ -96,32 +96,32 @@ developmental intervention makes new distinctions consequential to
 behaviour across circumstances, rather than merely producing verbal
 endorsements or temporary enthusiasm", keeping "changed valuation" apart
 from "changed beliefs, capabilities, incentives, or authority".
-LEAD-tmp18reb carries it as its interest-development case.
+[LEAD-tmp18reb](../leads.d/LEAD-tmp18reb.md) carries it as its interest-development case.
 
 ## How it stands to the record
 
-- CLAIM-1036 shows that when what is learned changes what is valued, no
+- [CLAIM-1036](CLAIM-1036.md) shows that when what is learned changes what is valued, no
   scalar optimum is fixed without a declared evaluator; this claim says
   what kind of change of valuation can be beyond the present self's
-  inquiry frontier (TERM-092), one whose dimension is not yet
+  inquiry frontier ([TERM-092](../terms.d/TERM-092.md)), one whose dimension is not yet
   consequential to it.
-- CLAIM-169 gives one mechanism by which interests are produced
+- [CLAIM-169](CLAIM-169.md) gives one mechanism by which interests are produced
   (desynchronized valuation across horizons); A21 §4 asks the general
   question this claim answers in part: "Under what conditions does a
   newly consequential evaluative distinction become a maintained
-  organizational process?" CLAIM-tmp1njmb is A21's mechanism.
-- CLAIM-762, the owner's, has collapsed equivalences become units of
+  organizational process?" [CLAIM-tmp1njmb](CLAIM-tmp1njmb.md) is A21's mechanism.
+- [CLAIM-762](CLAIM-762.md), the owner's, has collapsed equivalences become units of
   further organization; a new evaluative distinction is the evaluative
   case, a class that comes to be acted on.
 - A21 §2 names the philosophy this meets: Callard on aspiration
-  (LIT-tmpg01mm), Paul on transformative experience (LIT-tmpro3rq),
-  Dewey on ends-in-view (LIT-tmpcyz53), all unread.
+  ([LIT-tmpg01mm](../literature.d/LIT-tmpg01mm.md)), Paul on transformative experience ([LIT-tmpro3rq](../literature.d/LIT-tmpro3rq.md)),
+  Dewey on ends-in-view ([LIT-tmpcyz53](../literature.d/LIT-tmpcyz53.md)), all unread.
 
 ## What it does not say
 
 - That the new value is worth having. A21 §10: "we should distinguish
-  **the emergence of valuing from the emergence of value itself**"; CLAIM-689
-  and CLAIM-680 hold the record's separation of origin from worth.
+  **the emergence of valuing from the emergence of value itself**"; [CLAIM-689](CLAIM-689.md)
+  and [CLAIM-680](CLAIM-680.md) hold the record's separation of origin from worth.
 - That autotelic agents cannot develop values. A21 §12's point is about
   goal generation under a fixed criterion, not about every learner that
   generates goals.

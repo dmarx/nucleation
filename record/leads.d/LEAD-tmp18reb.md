@@ -49,19 +49,19 @@ A23 §15:
 
 ## What it would move
 
-- **Latent distinction**: TERM-tmp8nuak's D_{B,T} against present
-  equivalence, CLAIM-574's monotonicity in the probe family.
-- **Abstraction**: CLAIM-762 and the overconsolidation of SYNTHESIS-105,
+- **Latent distinction**: [TERM-tmp8nuak](../terms.d/TERM-tmp8nuak.md)'s D_{B,T} against present
+  equivalence, [CLAIM-574](../claims.d/CLAIM-574.md)'s monotonicity in the probe family.
+- **Abstraction**: [CLAIM-762](../claims.d/CLAIM-762.md) and the overconsolidation of [SYNTHESIS-105](../syntheses.d/SYNTHESIS-105.md),
   through A23 §8's "abstraction is a redistribution of consequentiality
   across organizational scales".
-- **Interest development**: CLAIM-tmpk8knm's test of a new evaluative
-  distinction and CLAIM-tmppuz0e's axiological frontier; with the
-  support schedule varied, it also decides between CASE-tmpaqihm's linear
+- **Interest development**: [CLAIM-tmpk8knm](../claims.d/CLAIM-tmpk8knm.md)'s test of a new evaluative
+  distinction and [CLAIM-tmppuz0e](../claims.d/CLAIM-tmppuz0e.md)'s axiological frontier; with the
+  support schedule varied, it also decides between [CASE-tmpaqihm](../cases.d/CASE-tmpaqihm.md)'s linear
   coupling, where support does not change whether the interest lasts,
-  and CLAIM-tmpyk6bi's threshold coupling, where it does.
-- **Perspective diversity**: CLAIM-1038 and CLAIM-1002.
-- **Institutional capture**: QUESTION-270.
-- **Complementary capabilities**: CLAIM-tmp6u4yn.
+  and [CLAIM-tmpyk6bi](../claims.d/CLAIM-tmpyk6bi.md)'s threshold coupling, where it does.
+- **Perspective diversity**: [CLAIM-1038](../claims.d/CLAIM-1038.md) and [CLAIM-1002](../claims.d/CLAIM-1002.md).
+- **Institutional capture**: [QUESTION-270](../questions.d/QUESTION-270.md).
+- **Complementary capabilities**: [CLAIM-tmp6u4yn](../claims.d/CLAIM-tmp6u4yn.md).
 
 ## Cautions A23 states
 

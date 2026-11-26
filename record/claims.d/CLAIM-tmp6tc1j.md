@@ -61,24 +61,24 @@ systematically misses."
 ## Where it sits in the record
 
 - It is why the cache literature's admission and eviction policies
-  (LIT-tmp7yb7v, LIT-tmpua7jt) do not carry over unchanged: they treat
+  ([LIT-tmp7yb7v](../literature.d/LIT-tmp7yb7v.md), [LIT-tmpua7jt](../literature.d/LIT-tmpua7jt.md)) do not carry over unchanged: they treat
   the access stream as exogenous.
-- CLAIM-1223 is the same loop with people in it: a count taken from the
+- [CLAIM-1223](CLAIM-1223.md) is the same loop with people in it: a count taken from the
   record, used as a score, is shaped by those it scores. Here the loop
   runs through the record's own retrieval, with no one gaming it.
-- CLAIM-266 (Active) is the general form: a family of probes that
+- [CLAIM-266](CLAIM-266.md) (Active) is the general form: a family of probes that
   supplies the training signal cannot also certify what is preserved.
   Usage that sets availability is such a signal.
-- CLAIM-tmp6toz6, filed from U17 to U19 of the same exchange, is a
+- [CLAIM-tmp6toz6](CLAIM-tmp6toz6.md), filed from U17 to U19 of the same exchange, is a
   second source of unearned prominence: an entry repeated across many
   generated pages is met many times by an unrestricted search.
-- The exploration budget is a form of CLAIM-1148's maintained nuclei
+- The exploration budget is a form of [CLAIM-1148](CLAIM-1148.md)'s maintained nuclei
   applied to attention.
 
 ## How it could be tested
 
 Change some entries' availability at random and watch their retrieval: if
 use follows availability, the loop is real (the `defeated_if`).
-Survival curves from the record's history (LEAD-tmpe579v) cannot show it
+Survival curves from the record's history ([LEAD-tmpe579v](../leads.d/LEAD-tmpe579v.md)) cannot show it
 alone, since they observe
 use under one availability policy.

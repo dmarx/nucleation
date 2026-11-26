@@ -23,12 +23,12 @@ summary: >-
   A13 §7 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26): "Luria supplies an interesting counterexample to that
   generalization", the generalization being that externalizing
   capabilities disempowers, which the owner's U2 asked about
-  (QUESTION-tmpsgbj7). The record's census of its grammar changes
-  (CASE-300) shows noticing delegated and revision kept by the owner
-  (CLAIM-792); it does not show the owner's capacity to govern widened or
+  ([QUESTION-tmpsgbj7](../questions.d/QUESTION-tmpsgbj7.md)). The record's census of its grammar changes
+  ([CASE-300](../cases.d/CASE-300.md)) shows noticing delegated and revision kept by the owner
+  ([CLAIM-792](../claims.d/CLAIM-792.md)); it does not show the owner's capacity to govern widened or
   kept, since it has no counterfactual and no measure of the owner's own
   capacity over time. Rejected as a counterexample; the claim's standing
-  lives in CLAIM-tmpxf70b itself, Proposed, and LEAD-tmpswgqi is the
+  lives in [CLAIM-tmpxf70b](../claims.d/CLAIM-tmpxf70b.md) itself, Proposed, and [LEAD-tmpswgqi](../leads.d/LEAD-tmpswgqi.md) is the
   measurement. The wording is the assistant's (Claude, in this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmpxf70b CLAIM-792 — new, open or Proposed; the claim concluded, the question it answers to, the held claim on delegation and the lead that would test it -->
@@ -37,9 +37,9 @@ summary: >-
 
 ## The inference
 
-Premise: CASE-300, who changed the record's grammar, how and with what
-result, to 2026-11-20; with CLAIM-792, that noticing moved to procedures
-while revision stayed mostly with the owner. Conclusion: CLAIM-tmpxf70b,
+Premise: [CASE-300](../cases.d/CASE-300.md), who changed the record's grammar, how and with what
+result, to 2026-11-20; with [CLAIM-792](../claims.d/CLAIM-792.md), that noticing moved to procedures
+while revision stayed mostly with the owner. Conclusion: [CLAIM-tmpxf70b](../claims.d/CLAIM-tmpxf70b.md),
 that delegating the record's upkeep widened the owner's capacity to govern
 it, and so the record is a counterexample to the claim that externalizing
 capabilities disempowers.
@@ -53,7 +53,7 @@ capabilities disempowers.
    says "Nothing shows what the record would have been with a fixed
    grammar" and "What the case cannot show is that any of this made the
    inquiry better".
-2. **Is the property measured where it matters?** No. CLAIM-675 (Active)
+2. **Is the property measured where it matters?** No. [CLAIM-675](../claims.d/CLAIM-675.md) (Active)
    says support is judged by the capability trajectory it leaves; the
    census records decisions, not the owner's capacity to notice or revise
    unaided, at any time.

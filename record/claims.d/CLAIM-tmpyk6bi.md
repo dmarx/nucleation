@@ -38,7 +38,7 @@ grounds:
 objects_to:
 - CLAIM-tmp1njmb
 summary: >-
-  A gap fill (ADR-137) for A21 §5 of the exchange "Alignment consequences
+  A gap fill ([ADR-137](../decisions.d/ADR-137.md)) for A21 §5 of the exchange "Alignment consequences
   brainstorm" (ChatGPT, 2026-11-26), a model's reading checked (step 9a):
   the numbers are right, the instability condition αβ > μν and A21's own
   remark that it is "a coupling threshold, not a finite-amplitude
@@ -58,7 +58,7 @@ summary: >-
 
 ## The gap
 
-A21 §5 (CASE-tmpaqihm) introduces s(t) as support and draws its figure with
+A21 §5 ([CASE-tmpaqihm](../cases.d/CASE-tmpaqihm.md)) introduces s(t) as support and draws its figure with
 a slider for "Temporary external support" beside one for
 "Competence–valuation coupling", captioned "With these parameters,
 reciprocal reinforcement supports a nonzero equilibrium even after the
@@ -67,7 +67,7 @@ condition as "a simple mechanism through which an initially instrumental
 activity becomes motivationally self-maintaining", and says "the
 relationship to Nucleation's transient-support models is promising". The
 transient-support line asks whether support can be withdrawn and leave a
-self-maintaining process (CLAIM-600). The question for the model is
+self-maintaining process ([CLAIM-600](CLAIM-600.md)). The question for the model is
 whether s does anything to that outcome.
 
 ## The derivation
@@ -91,7 +91,7 @@ On the unit square, with s = 0:
    2, the outcome is fixed by αβ against μν alone: above, any seed, even
    one with no support at all, reaches the interest; below, no support
    leaves one. The slider for support changes how fast the curves rise,
-   not whether they stay up. In CLAIM-1310's terms the first regime is
+   not whether they stay up. In [CLAIM-1310](CLAIM-1310.md)'s terms the first regime is
    "past a spinodal", where "no seed is needed".
 4. **A coupling that gives support a role.** Let valuation grow only once
    competence is appreciable: v̇ = βc²(1 − v)/(K² + c²) − νv + s(t). Now the
@@ -99,7 +99,7 @@ On the unit square, with s = 0:
    all parameters, and for a range of them a stable positive state
    coexists with it, separated by an unstable one. Support must carry the
    state past the unstable one; a brief strong pulse needs less total
-   support than a long weak one, as in CLAIM-1310's fold.
+   support than a long weak one, as in [CLAIM-1310](CLAIM-1310.md)'s fold.
 
 **Check (python3 -I).** Euler steps of 0.01 to t = 400. 300 random
 parameter sets on [0.05, 2], each under three support schedules
@@ -123,10 +123,10 @@ zero and 1.1 times ends at (0.582, 0.697).
   no part in the conclusion the model is offered for. The outcome is a
   property of the person and the activity (α, β, μ, ν), not of the help.
 - So the model gives no counterpart to "Maintained situational interest |
-  Externally supported organization" in A21's mapping (CLAIM-tmp1njmb), or
+  Externally supported organization" in A21's mapping ([CLAIM-tmp1njmb](CLAIM-tmp1njmb.md)), or
   to an interest that would not have formed without a mentor.
 - The record's account of when support can be withdrawn needs the
-  threshold of step 4: CLAIM-600's "large enough to carry the supported
+  threshold of step 4: [CLAIM-600](CLAIM-600.md)'s "large enough to carry the supported
   party past any threshold that process has" is empty in the linear
   model, which has none.
 
@@ -135,4 +135,4 @@ zero and 1.1 times ends at (0.582, 0.697).
 That the sigmoidal coupling is right for interests. It is one coupling
 that gives the property the transient-support reading needs; which
 holds is empirical, the dependence of valuation growth on competence at
-low competence (LEAD-tmp18reb's interest-development case).
+low competence ([LEAD-tmp18reb](../leads.d/LEAD-tmp18reb.md)'s interest-development case).
