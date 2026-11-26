@@ -297,7 +297,7 @@ No status, title or warrant changes.
 <!-- inactive-ok-block: CLAIM-tmpj88da — new; the claim this note reports -->
 
 An operational sense for "available to the system's other processes".
-On CLAIM-tmpj88da, it is that the content is in a format those processes
-read, as the J-space is for report and flexible inference in THEORY-865.
+On [CLAIM-tmpj88da](CLAIM-tmpj88da.md), it is that the content is in a format those processes
+read, as the J-space is for report and flexible inference in [THEORY-865](../theory.d/THEORY-865.md).
 Unfelt valence would then be valence used outside that format. This is an
 analogy across systems and gives no edge. No status change.

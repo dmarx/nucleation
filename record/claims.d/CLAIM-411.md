@@ -207,8 +207,8 @@ None meets its defeater.
 <!-- inactive-ok-block: CLAIM-tmpj88da — new; the claim this note reports -->
 
 A candidate for the further property this claim asks the constitutive
-thesis to name. CLAIM-tmpj88da reads the J-space results (THEORY-865,
-NOTE-1069) as showing that apparently unconscious processing is use of the
+thesis to name. [CLAIM-tmpj88da](CLAIM-tmpj88da.md) reads the J-space results ([THEORY-865](../theory.d/THEORY-865.md),
+[NOTE-1069](../notes.d/NOTE-1069.md)) as showing that apparently unconscious processing is use of the
 same content outside the format that flexible consumers read. The
 candidate is that format, together with its consumers. It is measurable by
 swaps and not by report. Whether it makes an interpretation experiential is
