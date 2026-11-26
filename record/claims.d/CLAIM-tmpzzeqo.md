@@ -36,7 +36,7 @@ uses:
 - TERM-076
 - TERM-023
 summary: >-
-  Found by LEAD-tmpuszbx's computation, 2026-11-26. It corrects the
+  Found by [LEAD-tmpuszbx](../leads.d/LEAD-tmpuszbx.md)'s computation, 2026-11-26. It corrects the
   workbench entry's scenario 3, which had said a jurisdiction split
   without interaction has a composite potential; a split over states that
   the regions share can instead cycle. It is a relative of Sen's Paretian
@@ -45,7 +45,6 @@ summary: >-
   construction are the assistant's (Claude, in this session); adopting it
   is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpic0m1 LEAD-tmpuszbx — new; the claim this complements and the lead whose computation this reports -->
 <!-- inactive-ok-file: TERM-076 — Proposed; the definition of valence used -->
 
 # CLAIM-tmpzzeqo: Jurisdictions over shared states can leave a system without valence
@@ -54,29 +53,29 @@ summary: >-
 
 The states are a, b and c, and there are two perspectives, P1 with
 b ≻ a ≻ c and P2 with c ≻ a ≻ b. Each ranking is consistent, and they
-disagree on every pair. Jurisdiction (TERM-017: "which constraints count
+disagree on every pair. Jurisdiction ([TERM-017](../terms.d/TERM-017.md): "which constraints count
 as applicable to this case") assigns the pair (b, c) to region y, which P2
 governs, and the pairs (a, b) and (a, c) to region x, which P1 governs.
-Influence is one-hop (CLAIM-282), and a pair is settled by
+Influence is one-hop ([CLAIM-282](CLAIM-282.md)), and a pair is settled by
 influence-weighted vote. The winning moves are then:
 
 - a → b in region x, where P1 prefers b;
 - c → a in region x, where P1 prefers a;
 - b → c in region y, where P2 prefers c.
 
-That is a cycle, a → b → c → a. By CLAIM-434 there is no potential, and so
-by TERM-076 there is no valence. Both the run and the check are in
+That is a cycle, a → b → c → a. By [CLAIM-434](CLAIM-434.md) there is no potential, and so
+by [TERM-076](../terms.d/TERM-076.md) there is no valence. Both the run and the check are in
 scratch/studies/lead-tmpuszbx/would_prevail.py, case 6.
 
 Case 6a changes P2 to c ≻ b ≻ a, so the perspectives agree on (a, b). The
 winning moves are then c → a and b → c, and the potential is a ≻ c ≻ b.
-That is neither perspective's ranking: TERM-076's "nobody's ranking until
+That is neither perspective's ranking: [TERM-076](../terms.d/TERM-076.md)'s "nobody's ranking until
 it is shown to be one", produced here by jurisdiction. Case 6′ gives P1
 all three pairs and recovers P1's ranking.
 
 ## What it says
 
-Jurisdiction is a dimension of the will-organization (TERM-023), and this
+Jurisdiction is a dimension of the will-organization ([TERM-023](../terms.d/TERM-023.md)), and this
 claim shows that it does work for valence of its own. With the rankings
 and the influence held fixed, moving one pair across a regional boundary
 turns a system with valence into one without it. The organizational
