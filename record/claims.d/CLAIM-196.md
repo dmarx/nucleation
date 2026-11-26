@@ -14,6 +14,15 @@ statement: >-
   the audiences are kept apart
 version: 2
 history:
+- version: 1
+  date: '2026-10-12'
+  note: >-
+    Ported from the Mathematics of Meaning manuscript, v1 "Sheaf
+    Semantics of Context" §11.5, which MOM holds no claim on, at the
+    owner's request to port it "if it's interesting and defensible". As
+    written the passage is not defensible: it makes CLAIM-197's
+    error for the self. This is the defensible version, with outside
+    evidence from boyd (2008).
 - version: 2
   date: '2026-11-26'
   note: >-
@@ -28,15 +37,6 @@ history:
     person's roles in contexts that do not meet cannot contradict one
     another: role conflict needs an overlap, which segregating audiences
     prevents and collapsed contexts create".
-- version: 1
-  date: '2026-10-12'
-  note: >-
-    Ported from the Mathematics of Meaning manuscript, v1 "Sheaf
-    Semantics of Context" §11.5, which MOM holds no claim on, at the
-    owner's request to port it "if it's interesting and defensible". As
-    written the passage is not defensible: it makes CLAIM-197's
-    error for the self. This is the defensible version, with outside
-    evidence from boyd (2008).
 role: thesis
 warrant: interpretive
 defeated_if: >-
