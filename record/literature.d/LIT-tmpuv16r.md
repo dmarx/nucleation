@@ -30,7 +30,7 @@ summary: >-
   subsidiary learning algorithm that adjusts the model as inputs arrive and
   corresponds to gradient-based optimization of a principled objective, and
   that this informs a new optimization-based layer. Registered for the
-  owner's request to read it, against LIT-792, THEORY-169 and QUESTION-159.
+  owner's request to read it, against [LIT-792](LIT-792.md), [THEORY-169](../theory.d/THEORY-169.md) and [QUESTION-159](../questions.d/QUESTION-159.md).
   What the abstract says is unverified until read.
 ---
 
@@ -44,6 +44,6 @@ von Oswald et al. (2023), arXiv 2309.05858.
 
 ## Standing in the record
 
-Registered at the owner's request. It is the sequel to LIT-792, whose
-reading grounds THEORY-169, and it bears on QUESTION-159. Unread, it
+Registered at the owner's request. It is the sequel to [LIT-792](LIT-792.md), whose
+reading grounds [THEORY-169](../theory.d/THEORY-169.md), and it bears on [QUESTION-159](../questions.d/QUESTION-159.md). Unread, it
 grounds nothing.
