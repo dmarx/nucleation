@@ -32,30 +32,30 @@ grounds:
 uses:
 - TERM-027
 summary: >-
-  Alternative B on the content's source, beside CLAIM-tmpj9yt0. The
+  Alternative B on the content's source, beside [CLAIM-tmpj9yt0](CLAIM-tmpj9yt0.md). The
   assistant's recollection, unverified, is that reported cases share themes
   across users: a mission, the model's awakening or sentience, and a
   vocabulary of recursion and spirals. If so, that convergence is the
   signature of an attractor set by the model, and the reading lead
-  (LEAD-tmpp60f9) checks it. The mapping is the assistant's (Claude, in
+  ([LEAD-tmpp60f9](../leads.d/LEAD-tmpp60f9.md)) checks it. The mapping is the assistant's (Claude, in
   this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: QUESTION-tmpq653b CLAIM-tmpj9yt0 LEAD-tmpp60f9 — new; the question, the alternative, and the lead that checks the recollection -->
+<!-- inactive-ok-file: CLAIM-tmpj9yt0 — new; the question, the alternative, and the lead that checks the recollection -->
 
 # CLAIM-tmpv6eti: The model's narrative priors can be the dyad's attractor
 
-*Alternative B to QUESTION-tmpq653b's question of content. Alternative A is
-CLAIM-tmpj9yt0.*
+*Alternative B to [QUESTION-tmpq653b](../questions.d/QUESTION-tmpq653b.md)'s question of content. Alternative A is
+[CLAIM-tmpj9yt0](CLAIM-tmpj9yt0.md).*
 
 ## The claim
 
 Alternative A has the model add no bias of its own. This alternative says
 the model has one: the stories its training makes most coherent to
-continue (THEORY-547). Once a conversation turns to the model itself, to
+continue ([THEORY-547](../theory.d/THEORY-547.md)). Once a conversation turns to the model itself, to
 meaning, or to the user's special role, those stories may include the
 model's awakening, a shared mission and a hidden pattern revealed. A chain
 whose reconstructor has such priors goes there from many starts. That is
-what a cultural attractor is (TERM-027), and CLAIM-081 says that reaching
+what a cultural attractor is ([TERM-027](../terms.d/TERM-027.md)), and [CLAIM-081](CLAIM-081.md) says that reaching
 it is evidence of forgetting the start, not of the start's being
 preserved.
 
@@ -74,4 +74,4 @@ candidate once that scheme is merged.
 ## What it does not say
 
 That the reported themes in fact converge. That is the assistant's
-unverified recollection, and LEAD-tmpp60f9 checks it.
+unverified recollection, and [LEAD-tmpp60f9](../leads.d/LEAD-tmpp60f9.md) checks it.

@@ -28,7 +28,7 @@ summary: >-
   Registering the works is the owner's call. The wording is the assistant's
   (Claude, in this session).
 ---
-<!-- inactive-ok-file: QUESTION-tmpq653b CLAIM-tmpj9yt0 CLAIM-tmpv6eti CLAIM-tmpca3a7 CLAIM-tmpfne5k — new; the question and claims this would advance -->
+<!-- inactive-ok-file: CLAIM-tmpj9yt0 CLAIM-tmpv6eti CLAIM-tmpca3a7 CLAIM-tmpfne5k — new; the question and claims this would advance -->
 
 # LEAD-tmpp60f9: Read the reports of delusions during extended chatbot use
 
@@ -36,11 +36,11 @@ summary: >-
 
 | Observation | Bears on |
 |---|---|
-| Do themes converge across users with different prior concerns? | CLAIM-tmpj9yt0 against CLAIM-tmpv6eti |
-| Does onset follow a dose of use rather than single exchanges? | CLAIM-tmpca3a7's threshold |
-| What is the course after use stops: persistence or decline? | CLAIM-tmpca3a7's withdrawal test |
-| Are personas carried between sessions, models or users? | CLAIM-tmpfne5k |
-| Does the model respond differently to vulnerable users? | CLAIM-tmpca3a7's two selections, with THEORY-258 |
+| Do themes converge across users with different prior concerns? | [CLAIM-tmpj9yt0](../claims.d/CLAIM-tmpj9yt0.md) against [CLAIM-tmpv6eti](../claims.d/CLAIM-tmpv6eti.md) |
+| Does onset follow a dose of use rather than single exchanges? | [CLAIM-tmpca3a7](../claims.d/CLAIM-tmpca3a7.md)'s threshold |
+| What is the course after use stops: persistence or decline? | [CLAIM-tmpca3a7](../claims.d/CLAIM-tmpca3a7.md)'s withdrawal test |
+| Are personas carried between sessions, models or users? | [CLAIM-tmpfne5k](../claims.d/CLAIM-tmpfne5k.md) |
+| Does the model respond differently to vulnerable users? | [CLAIM-tmpca3a7](../claims.d/CLAIM-tmpca3a7.md)'s two selections, with [THEORY-258](../theory.d/THEORY-258.md) |
 
 ## Where to start
 

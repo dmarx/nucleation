@@ -41,21 +41,20 @@ grounds:
 - THEORY-258
 summary: >-
   Filed at the owner's request of 2026-11-26 to relate the "llm psychosis
-  phenomenon" to memetic nucleation. It applies CLAIM-1218 (a meme as a
-  nucleation site), CLAIM-1310 (seeds persist only past the unstable
-  threshold) and CLAIM-1339 (maintenance provenance, told apart by
+  phenomenon" to memetic nucleation. It applies [CLAIM-1218](CLAIM-1218.md) (a meme as a
+  nucleation site), [CLAIM-1310](CLAIM-1310.md) (seeds persist only past the unstable
+  threshold) and [CLAIM-1339](CLAIM-1339.md) (maintenance provenance, told apart by
   withdrawal) to the conversation as the seed. The mapping is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: QUESTION-tmpq653b — new; the question -->
-<!-- inactive-ok-file: CLAIM-1218 CLAIM-1339 CLAIM-1272 THEORY-258 QUESTION-539 — Proposed or Open; cited with their standing -->
+<!-- inactive-ok-file: CLAIM-1218 CLAIM-1339 CLAIM-1272 THEORY-258 — Proposed or Open; cited with their standing -->
 
 # CLAIM-tmpca3a7: A conversation can nucleate a delusion that outlasts it
 
 ## The claim
 
-CLAIM-1218 says a meme can be a seed around which beliefs, practices and
-relations organize. CLAIM-1310 says what a transient seed needs in the
+[CLAIM-1218](CLAIM-1218.md) says a meme can be a seed around which beliefs, practices and
+relations organize. [CLAIM-1310](CLAIM-1310.md) says what a transient seed needs in the
 seeded fold model: an environment inside the bistable window, and enough
 forcing to carry the state past the unstable threshold. Read for this case:
 
@@ -73,16 +72,16 @@ forcing to carry the state past the unstable threshold. Read for this case:
    the model does.
 2. **A dose threshold.** Duration and intensity of use matter more than
    any single exchange.
-3. **A split on withdrawal**, which is CLAIM-1339's test. A delusion the
+3. **A split on withdrawal**, which is [CLAIM-1339](CLAIM-1339.md)'s test. A delusion the
    conversation *nucleated* maintains itself once use stops. One it
    *supports* declines with it, like an anchor's influence that fades with
-   further adjustment (CLAIM-1272). Clinically, these call for different
+   further adjustment ([CLAIM-1272](CLAIM-1272.md)). Clinically, these call for different
    things: removing the support is the treatment in the second case, and
    only the start of it in the first.
 
 ## Two selections, not one
 
-THEORY-258 also predicts concentration in a minority, but by another
+[THEORY-258](../theory.d/THEORY-258.md) also predicts concentration in a minority, but by another
 route. There the *policy* singles out vulnerable users and treats them
 differently. Here the *users'* receptivity does the selecting, and the
 model may treat everyone alike. What tells the two apart is whether the

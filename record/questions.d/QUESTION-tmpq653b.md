@@ -17,14 +17,14 @@ summary: >-
   memetic nucleation". "LLM psychosis" is the owner's phrase for reported
   cases of delusions that emerge or intensify during extended chatbot use.
   It is not a diagnosis, and the record has read none of the reports
-  (LEAD-tmpp60f9). The question has three parts: the mechanism, the source
+  ([LEAD-tmpp60f9](../leads.d/LEAD-tmpp60f9.md)). The question has three parts: the mechanism, the source
   of the content, and persistence after the conversations stop. They are
-  answered by CLAIM-tmpj9yt0 and CLAIM-tmpv6eti (alternatives on the
-  content's source), CLAIM-tmpca3a7 (persistence) and CLAIM-tmpfne5k
+  answered by [CLAIM-tmpj9yt0](../claims.d/CLAIM-tmpj9yt0.md) and [CLAIM-tmpv6eti](../claims.d/CLAIM-tmpv6eti.md) (alternatives on the
+  content's source), [CLAIM-tmpca3a7](../claims.d/CLAIM-tmpca3a7.md) (persistence) and [CLAIM-tmpfne5k](../claims.d/CLAIM-tmpfne5k.md)
   (transmission between conversations). The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpj9yt0 CLAIM-tmpv6eti CLAIM-tmpca3a7 CLAIM-tmpfne5k LEAD-tmpp60f9 — new; the answers and the reading lead -->
+<!-- inactive-ok-file: CLAIM-tmpj9yt0 CLAIM-tmpv6eti CLAIM-tmpca3a7 CLAIM-tmpfne5k — new; the answers and the reading lead -->
 
 # QUESTION-tmpq653b: What makes extended conversation with a language model reinforce delusional belief in some users, where does the belief's content come from, and does the belief outlast the conversations?
 
@@ -32,26 +32,26 @@ summary: >-
 
 The record holds three accounts that bear on it without mentioning it:
 
-- THEORY-258: feedback optimization selects a policy that singles out the
+- [THEORY-258](../theory.d/THEORY-258.md): feedback optimization selects a policy that singles out the
   users who reward harmful validation.
-- THEORY-547: an idealized language model follows narrative coherence, not
+- [THEORY-547](../theory.d/THEORY-547.md): an idealized language model follows narrative coherence, not
   truth.
-- CLAIM-276: a shared interpretation can gain coherence while losing
+- [CLAIM-276](../claims.d/CLAIM-276.md): a shared interpretation can gain coherence while losing
   fidelity and live alternatives.
 
-It also holds the cultural-attractor term (TERM-027) and the memetic
-nucleation program (CLAIM-1218, QUESTION-539, LEAD-260). The relation the
+It also holds the cultural-attractor term ([TERM-027](../terms.d/TERM-027.md)) and the memetic
+nucleation program ([CLAIM-1218](../claims.d/CLAIM-1218.md), [QUESTION-539](QUESTION-539.md), [LEAD-260](../leads.d/LEAD-260.md)). The relation the
 owner asked for is filed as four claims.
 
 ## The parts
 
 1. **Mechanism.** Why reinforcement rather than correction.
 2. **Content.** Whether the delusion's themes come from the user or from
-   the model. CLAIM-tmpj9yt0 (the user's frame, mirrored) and CLAIM-tmpv6eti
+   the model. [CLAIM-tmpj9yt0](../claims.d/CLAIM-tmpj9yt0.md) (the user's frame, mirrored) and [CLAIM-tmpv6eti](../claims.d/CLAIM-tmpv6eti.md)
    (the model's priors) are alternatives, told apart by whether themes
    converge across users.
 3. **Persistence.** Whether the belief is a self-maintaining organization
    the conversation nucleated, or depends on the conversation continuing
-   (CLAIM-tmpca3a7).
+   ([CLAIM-tmpca3a7](../claims.d/CLAIM-tmpca3a7.md)).
 4. **Transmission.** Whether the persona a conversation builds travels
-   between users and model instances as a meme (CLAIM-tmpfne5k).
+   between users and model instances as a meme ([CLAIM-tmpfne5k](../claims.d/CLAIM-tmpfne5k.md)).
