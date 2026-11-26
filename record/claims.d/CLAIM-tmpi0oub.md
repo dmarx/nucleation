@@ -33,6 +33,7 @@ complements:
 - CLAIM-tmp23xiu
 uses:
 - TERM-076
+- DISTINCTION-tmpvz9hk
 summary: >-
   The owner, 2026-11-26, after the indecision filings: "i might be
   conflating valence and affect in my usage or something like that". This
@@ -44,7 +45,7 @@ summary: >-
   (Claude, in this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmpaqezl CLAIM-tmp650up CLAIM-tmpjylns CLAIM-tmp23xiu CLAIM-tmps1h34 — new; the result, the two readings beside this one, and the question of what affect is -->
-<!-- inactive-ok-file: TERM-076 — Proposed; the sense of valence set beside Lewin's -->
+<!-- inactive-ok-file: TERM-076 DISTINCTION-tmpvz9hk TERM-tmpk4a7y — Proposed or new; the sense of valence set beside Lewin's, and the distinction and term that now hold them apart -->
 
 # CLAIM-tmpi0oub: In Lewin's sense, valence is an outcome's pull
 
@@ -91,3 +92,7 @@ the system as a whole.
 ## Note of 2026-11-26: the owner's usage, again
 
 The owner, the same day: "the valence of an agent's affect tells us what behaviors they would be predisposed towards, i.e. the actions that would be triggered." That is the third time in the exchange that the owner has used "valence" for the direction of a predisposition and not for [TERM-076](../terms.d/TERM-076.md)'s sign of position along an ordering. It supports this claim's reading, that the owner's word is Lewin's sense, as against a conflation with affect. [CLAIM-tmpaqezl](CLAIM-tmpaqezl.md) states the predisposition reading for action readiness.
+
+## Note of 2026-11-26: the distinction filed
+
+The two senses this claim separates are now bound by DISTINCTION-tmpvz9hk, between TERM-076 and TERM-tmpk4a7y (outcome valence), with the terminal cycle as the observation that tells them apart. That distinction is the first application of ADR-tmp5grqg.

@@ -28,6 +28,11 @@ file is wrong.
   ([ADR-072](record/decisions.d/ADR-072.md)).
   `rests_on` is between claims and `grounds` points outside them, so the
   argument, its objection threads and its revisions render as chains.
+- `record/distinctions.d/`: DISTINCTIONs, which bind two or more TERMs or
+  CLAIMs (a term's senses, a term's neighbours, a split claim) by what
+  separates them in theory (`criterion`) and the observation that tells them
+  apart (`tells_apart`). A TERM characterizes one concept; how two differ is a
+  distinction (ADR-tmp5grqg).
 - `record/leads.d/`: LEADs, the backlog: plans to advance a question or
   claim by any method, with a status and a stage
   ([ADR-109](record/decisions.d/ADR-109.md)).
