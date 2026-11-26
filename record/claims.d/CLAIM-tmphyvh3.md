@@ -40,12 +40,12 @@ summary: >-
   not existing, and it not being *observed*", with deference as the
   example: a "deferent" negotiational bias is "only cognizable in a
   scenario involving at least two competing perspectives". It objects to
-  CLAIM-440's first consequence, "No contest, no valence", and takes the
-  dispositional option that CLAIM-440 left open. The claim is the owner's;
+  [CLAIM-440](CLAIM-440.md)'s first consequence, "No contest, no valence", and takes the
+  dispositional option that [CLAIM-440](CLAIM-440.md) left open. The claim is the owner's;
   the statement and the basis in standing grant relations are the
   assistant's (Claude, in this session). Adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-440 CLAIM-441 TERM-076 THEORY-252 CLAIM-443 CASE-051 CLAIM-448 — Proposed; the claim objected to and the entries it bears on, with their standing -->
+<!-- inactive-ok-file: CLAIM-440 CLAIM-441 TERM-076 THEORY-252 — Proposed; the claim objected to and the entries it bears on, with their standing -->
 
 # CLAIM-tmphyvh3: Valence unobserved is not valence absent
 
@@ -58,12 +58,12 @@ regime, I'd argue that it's only cognizable in a scenario involving at
 least two competing perspectives, otherwise there's no opportunity to even
 observe a deferal happen".
 
-TERM-076 defines valence on the record of wins, and its nonvacuity clause
-makes valence "*undefined*" in a window with no contested pairs. CLAIM-440
+[TERM-076](../terms.d/TERM-076.md) defines valence on the record of wins, and its nonvacuity clause
+makes valence "*undefined*" in a window with no contested pairs. [CLAIM-440](CLAIM-440.md)
 states this as its first consequence, "No contest, no valence". Yet
-CLAIM-440 also says that Frijda's marks, "priority, persistence and
+[CLAIM-440](CLAIM-440.md) also says that Frijda's marks, "priority, persistence and
 resumption are dispositional", unless "potential is defined by conflicts
-actually won over an interval". TERM-076 took that second option. This
+actually won over an interval". [TERM-076](../terms.d/TERM-076.md) took that second option. This
 claim takes the first. Valence is the ordering the negotiation *would*
 settle contests along, and a contest is where that ordering shows itself.
 A window without a contest is a window without evidence.
@@ -73,8 +73,8 @@ A window without a contest is a window without evidence.
 A disposition needs something present that grounds it, or it is only a
 guess about the future. Here the ground is the organization's standing
 structure of authority: its maintained relations of granting, delegation
-and jurisdiction (TERM-101, TERM-017), and its learned prior over which
-processes govern (CLAIM-443). These are present when nothing is contested,
+and jurisdiction ([TERM-101](../terms.d/TERM-101.md), [TERM-017](../terms.d/TERM-017.md)), and its learned prior over which
+processes govern ([CLAIM-443](CLAIM-443.md)). These are present when nothing is contested,
 and they determine which ordering a contest would follow. The defeater is
 stated against exactly this: where that structure is formed only in the
 contest, the claim fails.
@@ -82,10 +82,10 @@ contest, the claim fails.
 ## What it changes
 
 - **The harmonious organization.** It has valence, unobserved, as
-  fixed by its grant structure. On TERM-076 as written, it has none.
-- **CLAIM-441's flow case.** CLAIM-441 objects that flow is positive with
+  fixed by its grant structure. On [TERM-076](../terms.d/TERM-076.md) as written, it has none.
+- **[CLAIM-441](CLAIM-441.md)'s flow case.** [CLAIM-441](CLAIM-441.md) objects that flow is positive with
   nothing contested, and its fourth exit is "the condition is wrong". On
-  this claim, the absorbed writer (CASE-051) has a valence that the episode
+  this claim, the absorbed writer ([CASE-051](../cases.d/CASE-051.md)) has a valence that the episode
   does not test. That is a fifth reading, near to the fourth: the condition
   is right about measurement and wrong about existence.
 - **The failures of valence.** A window with no conflict is unobserved.
@@ -100,17 +100,17 @@ contest, the claim fails.
 - **Measurement.** Reading a quiet organization's valence means eliciting
   contests: perturbations that set its perspectives against one another,
   as stress tests and A29's Test B ("Distributed integration versus a
-  common alarm") do. CLAIM-448 names the converse gap, contests that occur
+  common alarm") do. [CLAIM-448](CLAIM-448.md) names the converse gap, contests that occur
   and are not admitted. The two together are the observational limits on
   the potential account.
 
 ## What it costs
 
-CLAIM-440's note on the counterfactual eraser (THEORY-252) applies in
+[CLAIM-440](CLAIM-440.md)'s note on the counterfactual eraser ([THEORY-252](../theory.d/THEORY-252.md)) applies in
 full. If valence is dispositional, then an identity of felt valence with
 this regime, should the record adopt one, is an identity with a functional
 role that includes unmanifested dispositions. The record's line on
-feeling, QUESTION-059, then inherits that dispute.
+feeling, [QUESTION-059](../questions.d/QUESTION-059.md), then inherits that dispute.
 
 ## What it does not say
 
