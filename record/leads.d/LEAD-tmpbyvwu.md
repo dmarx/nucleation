@@ -50,3 +50,59 @@ What it would settle:
   what can later be valued. Callard's "Becoming someone is a learning
   process; and what we learn are the new values" is that case, for
   persons.
+
+## The work that engages it (found 2026-11-26)
+
+At the owner's request ("look for work that engages with callard"). Each
+item was identified by web search and its bibliographic details confirmed
+through Crossref (queried with no contact address). None is on the record
+or registered.
+
+**The PPR book symposium.** *Philosophy and Phenomenological Research*
+102(2), March 2021:
+
+- Callard, "Precis" (459–463), doi 10.1111/phpr.12758.
+- Katsafanas, "Review of Agnes Callard, *Aspiration*" (464–469), doi
+  10.1111/phpr.12760. Search snippets describe it as skeptical that
+  aspiration raises distinctive puzzles.
+- Kraut, "Critique of Agnes Callard, *Aspiration*" (470–474), doi
+  10.1111/phpr.12761.
+- Meyer, "Aspiration and Internalism" (475–480), doi 10.1111/phpr.12762.
+  Bears on whether proleptic reasons are internal reasons.
+- L. A. Paul, "Aspiring to be rational" (481–485), doi 10.1111/phpr.12763.
+  This is the transformative-experience view replying: on Paul, choosing a
+  transformative experience is beyond rational evaluation, where Callard
+  makes aspiration rational.
+- Callard, "Replies" (486–496), doi 10.1111/phpr.12759.
+
+**Reviews.**
+
+- Hartman, *The Philosophical Quarterly* (2018), doi 10.1093/pq/pqy039.
+- Thomason, *Essays in Philosophy* 20(1) (2019), doi
+  10.7710/1526-0569.1625.
+- Schwenkler, *The Philosophers' Magazine* (2020). Not checked against
+  Crossref.
+
+**Further engagements, not yet checked against Crossref.**
+
+- Wolfson, "Eros, Interest, and Partiality: On Agnes Callard's
+  *Aspiration*" (2024, PhilArchive WOLEIA-3). A debunking reading of her
+  examples. Its search snippet says that Callard's aspirants have
+  "intellectual respect", not desire, for their pursuits.
+- Crockett, on moral comparisons in aspirational projects (*Aporia*, BYU).
+  A sympathetic extension.
+- Yacek, "The psychology of aspiration" (Routledge), in education.
+
+**The rival view.** L. A. Paul, *Transformative Experience* (Oxford
+University Press, 2014), doi 10.1093/acprof:oso/9780198717959.001.0001.
+Callard's chapter 1, "Decision Theory and Transformative Choice", engages
+it directly.
+
+**A suggested reading order.** Read the précis, then Paul and Katsafanas
+(the sharpest challenges), then Meyer, then Callard's replies, alongside
+the book's chapters 1, 2 and 5. Paul 2014 should be registered as a work of
+its own, since it bears on CLAIM-1036 and QUESTION-495 apart from
+Callard.
+
+What the snippets say of these works is unverified until each is read.
+
