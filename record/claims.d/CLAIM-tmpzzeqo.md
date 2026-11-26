@@ -45,7 +45,7 @@ summary: >-
   construction are the assistant's (Claude, in this session); adopting it
   is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpic0m1 LEAD-tmpuszbx — new; the claim this complements and the lead whose computation this reports -->
+<!-- inactive-ok-file: CLAIM-tmpic0m1 LEAD-tmpuszbx CLAIM-tmpjylns CLAIM-tmp23xiu CLAIM-tmp650up — new; the claim this complements and the lead whose computation this reports -->
 <!-- inactive-ok-file: TERM-076 — Proposed; the definition of valence used -->
 
 # CLAIM-tmpzzeqo: Jurisdictions over shared states can leave a system without valence
@@ -96,3 +96,14 @@ That every jurisdiction split over shared states cycles: case 6a does not.
 Nor that a will-organization should avoid shared states. The cycle can
 be broken by precedence across regions, as in case 6′, and that is a
 design choice the claim leaves open.
+
+## Note of 2026-11-26: "without valence", or undecided
+
+The owner proposes that a cycle is "indecision", not the absence of
+valence. On CLAIM-tmp650up, case 6's cycle is a terminal component of the
+winning moves. On the owner's reading (CLAIM-tmpjylns), the jurisdiction
+split leaves the organization undecided over a, b and c, and the split's
+placement sets its valence toward indecision. On the alternative
+(CLAIM-tmp23xiu), it raises indecisiveness, and valence keeps its sign
+elsewhere. This claim's title and statement keep TERM-076's wording until
+the owner chooses between the two.
