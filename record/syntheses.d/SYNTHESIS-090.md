@@ -98,7 +98,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-667 CLAIM-665 CLAIM-668 CLAIM-666 TERM-119 CASE-253 CASE-252 CASE-255 CASE-254 — filed from the exchange "luria experiment design", Proposed; components with their standing -->
 <!-- inactive-ok-file: CASE-194 — Proposed; a component with its standing -->
-<!-- inactive-ok-file: CLAIM-tmpxl7dc CLAIM-tmpc4o6j CLAIM-tmpoh8gm CLAIM-tmpxf70b ARG-tmpo6eca TERM-tmp35z0s CLAIM-tmp2tzy8 CLAIM-792 CLAIM-685 TERM-167 SYNTHESIS-012 ADR-151 — Proposed or Rejected; components and citations added at version 3, from the exchange "Alignment consequences brainstorm" of 2026-11-26 and the entries it used -->
+<!-- inactive-ok-file: CLAIM-tmpxl7dc CLAIM-tmpc4o6j CLAIM-tmpoh8gm CLAIM-tmpxf70b ARG-tmpo6eca TERM-tmp35z0s CLAIM-792 TERM-167 SYNTHESIS-012 ADR-151 — Proposed or Rejected; components and citations added at version 3, from the exchange "Alignment consequences brainstorm" of 2026-11-26 and the entries it used -->
 
 # SYNTHESIS-090: How the record as apparatus would be tested
 
@@ -151,28 +151,28 @@ decisions, or by an evaluator its subjects can edit, certifies nothing.
 brainstorm" (2026-11-26) turned the program toward the organization that
 keeps the record. Each of its tests is a lead, Open and undesigned in its
 details. A grammar revision can make an inert distinction consequential
-(CLAIM-tmpxl7dc, A's, its instance narrowed in SYNTHESIS-012), and the
+([CLAIM-tmpxl7dc](../claims.d/CLAIM-tmpxl7dc.md), A's, its instance narrowed in [SYNTHESIS-012](SYNTHESIS-012.md)), and the
 measure that would show it is the difference in findings a single
 perturbation of a frozen copy makes, reported before the change
-(LEAD-tmpj44my); part of that report exists already, since retiring an
+([LEAD-tmpj44my](../leads.d/LEAD-tmpj44my.md)); part of that report exists already, since retiring an
 entry reports what rests on it and leaves each dependant to judgement
-(CLAIM-664, its note of 2026-11-26). Alignment can be distributed across
-a governed organization, with Luria as a model organism (CLAIM-tmpc4o6j,
-resting on A13's reading of Luria, CLAIM-tmpoh8gm), and A13's seven
+([CLAIM-664](../claims.d/CLAIM-664.md), its note of 2026-11-26). Alignment can be distributed across
+a governed organization, with Luria as a model organism ([CLAIM-tmpc4o6j](../claims.d/CLAIM-tmpc4o6j.md),
+resting on A13's reading of Luria, [CLAIM-tmpoh8gm](../claims.d/CLAIM-tmpoh8gm.md)), and A13's seven
 comparisons on records kept by AI collectives would vary one governing
 arrangement at a time; two of them are held already, governed schema change as
-CLAIM-667's study (LEAD-085) and organizational continuity as a
+[CLAIM-667](../claims.d/CLAIM-667.md)'s study ([LEAD-085](../leads.d/LEAD-085.md)) and organizational continuity as a
 comparison of collaborators working from a shared transcript, shared
-documents or a governed record (LEAD-227; LEAD-tmpwlebp). That delegating the record's upkeep widens its owner's
-governance (CLAIM-tmpxf70b) has half its support in the record, noticing
-delegated and revision kept (CLAIM-792), and lacks the other half, a
-measure of the owner's own capacity over time (ARG-tmpo6eca, Rejected);
+documents or a governed record ([LEAD-227](../leads.d/LEAD-227.md); [LEAD-tmpwlebp](../leads.d/LEAD-tmpwlebp.md)). That delegating the record's upkeep widens its owner's
+governance ([CLAIM-tmpxf70b](../claims.d/CLAIM-tmpxf70b.md)) has half its support in the record, noticing
+delegated and revision kept ([CLAIM-792](../claims.d/CLAIM-792.md)), and lacks the other half, a
+measure of the owner's own capacity over time ([ARG-tmpo6eca](../arguments.d/ARG-tmpo6eca.md), Rejected);
 the measurement is the owner's own noticing of misfits over time against
-the share noticed by procedures (LEAD-tmpswgqi). A4 adds a variant of
-CLAIM-667's study in which the share of work automated rises and the
+the share noticed by procedures ([LEAD-tmpswgqi](../leads.d/LEAD-tmpswgqi.md)). A4 adds a variant of
+[CLAIM-667](../claims.d/CLAIM-667.md)'s study in which the share of work automated rises and the
 outcome is the human members' retained governing capacity, the
-constitutional capability of TERM-tmp35z0s, against TERM-167's kernel
-(LEAD-tmp9snzi); A4 asks that a rise in governing capacity be a possible
+constitutional capability of [TERM-tmp35z0s](../terms.d/TERM-tmp35z0s.md), against [TERM-167](../terms.d/TERM-167.md)'s kernel
+([LEAD-tmp9snzi](../leads.d/LEAD-tmp9snzi.md)); A4 asks that a rise in governing capacity be a possible
 outcome, not only its erosion.
 
 ## What is left open
@@ -187,11 +187,11 @@ any of them.
 ## Not stated on the record
 
 - **Which of the program's studies would also test the alignment
-  claims.** LEAD-tmpwlebp says its governed-schema row is CLAIM-667's
-  study; no entry says whether the distributed-evidence study (CASE-252)
-  or the recursive-improvement study (CASE-255) would bear on
-  CLAIM-tmpc4o6j.
+  claims.** [LEAD-tmpwlebp](../leads.d/LEAD-tmpwlebp.md) says its governed-schema row is [CLAIM-667](../claims.d/CLAIM-667.md)'s
+  study; no entry says whether the distributed-evidence study ([CASE-252](../cases.d/CASE-252.md))
+  or the recursive-improvement study ([CASE-255](../cases.d/CASE-255.md)) would bear on
+  [CLAIM-tmpc4o6j](../claims.d/CLAIM-tmpc4o6j.md).
 - **The perturbation measure as the score for a change of grammar.**
-  TERM-092's frontier is how a change of grammar would be scored (its
-  note of 2026-11-12) and LEAD-tmpj44my's findings difference is how a
+  [TERM-092](../terms.d/TERM-092.md)'s frontier is how a change of grammar would be scored (its
+  note of 2026-11-12) and [LEAD-tmpj44my](../leads.d/LEAD-tmpj44my.md)'s findings difference is how a
   distinction's consequence would be measured; no entry relates the two.

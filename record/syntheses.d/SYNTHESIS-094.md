@@ -130,7 +130,7 @@ summary: >-
 <!-- inactive-ok-file: ARG-070 — Deferred; a component, set aside -->
 <!-- inactive-ok-file: ARG-071 — Rejected; a component, with its standing -->
 <!-- inactive-ok-file: ARG-114 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, new and Proposed; a component at version 3, and a citation -->
-<!-- inactive-ok-file: CLAIM-tmpv3frk CLAIM-tmpotbk7 CASE-tmp0bk10 CASE-tmpts51k CASE-tmptm1pi CASE-tmp824kq ARG-tmpfznfa LEAD-tmpnn40s CLAIM-tmpevykb CLAIM-tmpe432a TERM-tmp3rbue CLAIM-1287 CLAIM-1249 CASE-405 CLAIM-954 ADR-151 — Proposed, Open or Rejected; components and citations added at version 5, from the exchange "Alignment consequences brainstorm" of 2026-11-26 and the held entries it used -->
+<!-- inactive-ok-file: CLAIM-tmpv3frk CLAIM-tmpotbk7 CASE-tmp0bk10 CASE-tmpts51k CASE-tmptm1pi CASE-tmp824kq ARG-tmpfznfa CLAIM-tmpevykb CLAIM-tmpe432a TERM-tmp3rbue CLAIM-1287 CASE-405 CLAIM-954 ADR-151 — Proposed, Open or Rejected; components and citations added at version 5, from the exchange "Alignment consequences brainstorm" of 2026-11-26 and the held entries it used -->
 <!-- inactive-ok-file: THEORY-1946 THEORY-1954 — readings of 2026-11-16 and 2026-11-18, Proposed; cited at version 4 as support for components -->
 
 # SYNTHESIS-094: The wrong beyond harm and losing sight of it
@@ -266,30 +266,30 @@ justification for not investigating".
 **Success that erodes its evaluators** (version 5, the exchange
 "Alignment consequences brainstorm", 2026-11-26). Asked for real cases of
 the owner's thesis that institutions already maximize paperclips
-(CLAIM-tmpe432a), A8 chose six that illustrate different mechanisms: the
-tobacco industry's management of demand and doubt (CASE-tmp0bk10), the
-collapse of the northern cod fishery (CASE-tmpts51k), Wells Fargo's
-accounts (CASE-151), Purdue Pharma (CASE-405), Volkswagen's defeat device
-(CASE-tmptm1pi) and Facebook's 2018 ranking (CASE-tmp824kq), each fact
+([CLAIM-tmpe432a](../claims.d/CLAIM-tmpe432a.md)), A8 chose six that illustrate different mechanisms: the
+tobacco industry's management of demand and doubt ([CASE-tmp0bk10](../cases.d/CASE-tmp0bk10.md)), the
+collapse of the northern cod fishery ([CASE-tmpts51k](../cases.d/CASE-tmpts51k.md)), Wells Fargo's
+accounts ([CASE-151](../cases.d/CASE-151.md)), Purdue Pharma ([CASE-405](../cases.d/CASE-405.md)), Volkswagen's defeat device
+([CASE-tmptm1pi](../cases.d/CASE-tmptm1pi.md)) and Facebook's 2018 ranking ([CASE-tmp824kq](../cases.d/CASE-tmp824kq.md)), each fact
 A's report of a source registered and unread. From them A draws a further
 route to becoming normatively less informed: optimization turns
 pathological when success under its own criterion progressively
 undermines the independent mechanisms through which its consequences can
-be evaluated and governed (CLAIM-tmpv3frk, A's). It puts the pathology in
+be evaluated and governed ([CLAIM-tmpv3frk](../claims.d/CLAIM-tmpv3frk.md), A's). It puts the pathology in
 what success does to the capacity to see and correct a harm, not in the
-harm, and so states for optimization what CLAIM-624 holds for
+harm, and so states for optimization what [CLAIM-624](../claims.d/CLAIM-624.md) holds for
 answerability; it rests on a narrow optimizer's valuing the weakening of
-its constraints (CLAIM-1287) and on a criterion's jurisdiction
-(CLAIM-tmpevykb, with TERM-tmp3rbue). The cases illustrate it and cannot
+its constraints ([CLAIM-1287](../claims.d/CLAIM-1287.md)) and on a criterion's jurisdiction
+([CLAIM-tmpevykb](../claims.d/CLAIM-tmpevykb.md), with [TERM-tmp3rbue](../terms.d/TERM-tmp3rbue.md)). The cases illustrate it and cannot
 ground it: they were chosen because they went wrong, and no constrained
-optimization is set beside them (ARG-tmpfznfa, Rejected), so the
-comparison that could ground it is a lead (LEAD-tmpnn40s). A8's tobacco
+optimization is set beside them ([ARG-tmpfznfa](../arguments.d/ARG-tmpfznfa.md), Rejected), so the
+comparison that could ground it is a lead ([LEAD-tmpnn40s](../leads.d/LEAD-tmpnn40s.md)). A8's tobacco
 and Facebook cases also carry a narrower route: revealed preference stops
 being evidence of alignment when the system evaluated has substantial
 influence over the preferences, from gaming the measurement of demand to
 engineering demand to governing the conditions under which it forms
-(CLAIM-tmpotbk7, A's, resting on CLAIM-658 and complementing CLAIM-482,
-revealed preference fitted to authority, and CLAIM-954).
+([CLAIM-tmpotbk7](../claims.d/CLAIM-tmpotbk7.md), A's, resting on [CLAIM-658](../claims.d/CLAIM-658.md) and complementing [CLAIM-482](../claims.d/CLAIM-482.md),
+revealed preference fitted to authority, and [CLAIM-954](../claims.d/CLAIM-954.md)).
 
 ## The components
 
@@ -337,11 +337,11 @@ cited.
   routes. [CLAIM-657](../claims.d/CLAIM-657.md) does not cite [CLAIM-656](../claims.d/CLAIM-656.md), and [CLAIM-656](../claims.d/CLAIM-656.md) does not cite
   [CLAIM-657](../claims.d/CLAIM-657.md).
 - [QUESTION-449](../questions.d/QUESTION-449.md)'s answer for an organization.
-- **CLAIM-tmpv3frk as a breach of CLAIM-624's duty.** CLAIM-tmpv3frk
-  says it states for optimization what CLAIM-624 held for answerability;
+- **[CLAIM-tmpv3frk](../claims.d/CLAIM-tmpv3frk.md) as a breach of [CLAIM-624](../claims.d/CLAIM-624.md)'s duty.** [CLAIM-tmpv3frk](../claims.d/CLAIM-tmpv3frk.md)
+  says it states for optimization what [CLAIM-624](../claims.d/CLAIM-624.md) held for answerability;
   no entry says whether an optimizer that erodes its evaluators breaches
-  CLAIM-624's duty, or on which of CLAIM-657's routes it lies.
-- **CLAIM-656 as an instance of CLAIM-tmpotbk7.** Both rest on CLAIM-658;
+  [CLAIM-624](../claims.d/CLAIM-624.md)'s duty, or on which of [CLAIM-657](../claims.d/CLAIM-657.md)'s routes it lies.
+- **[CLAIM-656](../claims.d/CLAIM-656.md) as an instance of [CLAIM-tmpotbk7](../claims.d/CLAIM-tmpotbk7.md).** Both rest on [CLAIM-658](../claims.d/CLAIM-658.md);
   no entry says whether news optimized for attention is a case of demand
   shaped by the system it is evidence about.
 
