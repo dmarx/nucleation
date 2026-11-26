@@ -31,7 +31,7 @@ uses:
 - TERM-076
 - TERM-023
 summary: >-
-  Alternative B to CLAIM-tmpjylns, filed beside the owner's proposal of
+  Alternative B to [CLAIM-tmpjylns](CLAIM-tmpjylns.md), filed beside the owner's proposal of
   2026-11-26. It keeps the owner's "indecision" for a terminal cycle and
   the owner's measure, and names the measure indecisiveness rather than
   valence, so that the word valence keeps its sign. The wording is the
@@ -43,13 +43,13 @@ summary: >-
 
 # CLAIM-tmp23xiu: Indecisiveness is a disposition beside valence
 
-*Alternative B. Alternative A, the owner's, is CLAIM-tmpjylns.*
+*Alternative B. Alternative A, the owner's, is [CLAIM-tmpjylns](CLAIM-tmpjylns.md).*
 
 ## The claim
 
-This reading agrees with CLAIM-tmpjylns that a terminal cycle is
+This reading agrees with [CLAIM-tmpjylns](CLAIM-tmpjylns.md) that a terminal cycle is
 indecision, and it uses the same measure. It differs on one word. On
-CLAIM-tmp650up's potential over components, an indecision class is a single
+[CLAIM-tmp650up](CLAIM-tmp650up.md)'s potential over components, an indecision class is a single
 place in the ordering. Valence there has no sign, because the system is
 neither ahead of nor behind a course within the class. Valence and
 indecisiveness are then two dispositions of one will-organization:
@@ -58,7 +58,7 @@ indecisiveness are then two dispositions of one will-organization:
   prevails, wherever it decides.
 - **Indecisiveness** is how likely it is to end where nothing prevails.
 
-They can vary independently. A jurisdiction split (CLAIM-tmpzzeqo) can
+They can vary independently. A jurisdiction split ([CLAIM-tmpzzeqo](CLAIM-tmpzzeqo.md)) can
 raise indecisiveness in one domain while the valence the organization
 shows elsewhere is unchanged.
 
@@ -66,5 +66,5 @@ shows elsewhere is unchanged.
 
 That the owner's term is wrong. "Valence toward" in the owner's sense, a
 direction of tendency, is a defensible widening. This alternative only
-keeps TERM-076's narrower word, so that a signed quantity and an unsigned
+keeps [TERM-076](../terms.d/TERM-076.md)'s narrower word, so that a signed quantity and an unsigned
 one are not named alike.

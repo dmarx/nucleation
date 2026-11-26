@@ -33,7 +33,7 @@ uses:
 - TERM-077
 summary: >-
   Prompted by the owner's proposal of 2026-11-26 that a cycle be called
-  "indecision" and not the absence of valence. CLAIM-434 says a potential
+  "indecision" and not the absence of valence. [CLAIM-434](CLAIM-434.md) says a potential
   exists over the states exactly when no chain of winning moves cycles;
   this claim adds what holds when one does. The condensation result and
   the terminal-component result are standard graph theory, and the set is
@@ -52,7 +52,7 @@ Take the relation of winning moves, loser to winner, over a finite set of
 states. Its strongly connected components are the maximal sets of states
 that each reach every other by winning moves. Collapsing each component to
 a node gives the condensation, and the condensation is always acyclic: a
-cycle through two components would merge them into one. By CLAIM-434, an
+cycle through two components would merge them into one. By [CLAIM-434](CLAIM-434.md), an
 acyclic relation of wins has a potential. So a potential always exists
 over the components, though none may exist over the states.
 
@@ -82,7 +82,7 @@ scratch/studies/lead-tmpuszbx/indecision.py, run with `python3 -I`:
 
 ## What it does not say
 
-What a terminal cycle should be called; that is CLAIM-tmpjylns and its
-alternative CLAIM-tmp23xiu. Nor that organizations move one winning move
-at a time. TERM-076 already says the reading "does not hold for
+What a terminal cycle should be called; that is [CLAIM-tmpjylns](CLAIM-tmpjylns.md) and its
+alternative [CLAIM-tmp23xiu](CLAIM-tmp23xiu.md). Nor that organizations move one winning move
+at a time. [TERM-076](../terms.d/TERM-076.md) already says the reading "does not hold for
 simultaneous moves".

@@ -41,22 +41,22 @@ summary: >-
   doesn't resolve to a winner as a valence toward indecision". The thesis
   and both terms are the owner's. The terminal and transient distinction
   and the measure are the assistant's (Claude, in this session), from
-  CLAIM-tmp650up. Filed with an alternative, CLAIM-tmp23xiu, that keeps
+  [CLAIM-tmp650up](CLAIM-tmp650up.md). Filed with an alternative, [CLAIM-tmp23xiu](CLAIM-tmp23xiu.md), that keeps
   the word valence for signed position. Adopting either is the owner's
   call.
 ---
 <!-- inactive-ok-file: CLAIM-tmp650up CLAIM-tmphyvh3 CLAIM-tmpzzeqo CLAIM-tmp23xiu — new; the result this rests on, the disposition claim, the jurisdiction case, and the alternative -->
-<!-- inactive-ok-file: TERM-076 CLAIM-437 CLAIM-434 — Proposed or Active; cited with their standing -->
+<!-- inactive-ok-file: TERM-076 CLAIM-437 — Proposed or Active; cited with their standing -->
 
 # CLAIM-tmpjylns: A cycle that does not resolve is indecision
 
-*Alternative A, the owner's. Alternative B is CLAIM-tmp23xiu.*
+*Alternative A, the owner's. Alternative B is [CLAIM-tmp23xiu](CLAIM-tmp23xiu.md).*
 
 ## The claim
 
 The owner proposes that where the winning moves cycle, the organization is
 not without valence but undecided. The owner's phrase, "a cycle that
-doesn't resolve to a winner", already marks the distinction CLAIM-tmp650up
+doesn't resolve to a winner", already marks the distinction [CLAIM-tmp650up](CLAIM-tmp650up.md)
 draws: a cycle the dynamics passes through and leaves, which is dithering
 before an outcome, is different from a terminal cycle it never leaves. The
 terminal cycle is indecision.
@@ -67,14 +67,14 @@ dynamics ends in a terminal cycle. It depends on the will-organization
 (which moves win) and on where the organization tends to start. In
 scratch/studies/lead-tmpuszbx/indecision.py, the same relation with two
 basins gives 0.5 under uniform starts and 0.8 when starts fall mostly in
-the cycle's basin. As with deference (CLAIM-tmphyvh3), it is exhibited only
+the cycle's basin. As with deference ([CLAIM-tmphyvh3](CLAIM-tmphyvh3.md)), it is exhibited only
 where perspectives contest.
 
 ## What it buys
 
 - **Cycles get positive content.** Indecision is an observable regime:
   reversals among a fixed set of options, with no settlement. That is
-  CLAIM-437's ambivalence ("strong saliences of opposite sign with no
+  [CLAIM-437](CLAIM-437.md)'s ambivalence ("strong saliences of opposite sign with no
   potential absorbing them") given a structural form.
 - **Three failures to settle come apart.**
   - Indecision is a terminal cycle: the organization keeps moving.
@@ -83,15 +83,15 @@ where perspectives contest.
     dependence, not indecision, and it is the deadlock of the workbench
     entry's scenario 5.
   - Dithering is a cycle passed through on the way to an outcome.
-- **CLAIM-tmpzzeqo, restated.** A jurisdiction split over shared states
+- **[CLAIM-tmpzzeqo](CLAIM-tmpzzeqo.md), restated.** A jurisdiction split over shared states
   can make the organization undecided, not merely leave it without
   valence. Where its boundaries fall sets its valence toward indecision.
 
 ## What it costs
 
-TERM-076's valence is signed: ahead of or behind a reference course along
+[TERM-076](../terms.d/TERM-076.md)'s valence is signed: ahead of or behind a reference course along
 the potential. A probability of ending in a cycle has no such sign. Calling
 it valence widens the word from "signed position along the ordering that
 prevails" to "the direction the negotiation tends toward", with indecision
 as one place it can tend toward. The defeater is stated against that
-widening. CLAIM-tmp23xiu keeps the narrow word instead.
+widening. [CLAIM-tmp23xiu](CLAIM-tmp23xiu.md) keeps the narrow word instead.

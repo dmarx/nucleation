@@ -99,10 +99,10 @@ design choice the claim leaves open.
 ## Note of 2026-11-26: "without valence", or undecided
 
 The owner proposes that a cycle is "indecision", not the absence of
-valence. On CLAIM-tmp650up, case 6's cycle is a terminal component of the
-winning moves. On the owner's reading (CLAIM-tmpjylns), the jurisdiction
+valence. On [CLAIM-tmp650up](CLAIM-tmp650up.md), case 6's cycle is a terminal component of the
+winning moves. On the owner's reading ([CLAIM-tmpjylns](CLAIM-tmpjylns.md)), the jurisdiction
 split leaves the organization undecided over a, b and c, and the split's
 placement sets its valence toward indecision. On the alternative
-(CLAIM-tmp23xiu), it raises indecisiveness, and valence keeps its sign
-elsewhere. This claim's title and statement keep TERM-076's wording until
+([CLAIM-tmp23xiu](CLAIM-tmp23xiu.md)), it raises indecisiveness, and valence keeps its sign
+elsewhere. This claim's title and statement keep [TERM-076](../terms.d/TERM-076.md)'s wording until
 the owner chooses between the two.
