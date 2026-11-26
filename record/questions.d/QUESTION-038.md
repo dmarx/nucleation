@@ -95,14 +95,14 @@ The note of 2026-11-05 answers a narrower question than this one asks: what make
 
 ## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U17–A34)
 
-A33 §5 and A34's H1 (CLAIM-tmpk015q) offer an empirical signature for an
+A33 §5 and A34's H1 ([CLAIM-tmpk015q](../claims.d/CLAIM-tmpk015q.md)) offer an empirical signature for an
 answer: an "established anchor" is an entry whose formulation has stabilized
 and on which new structure keeps forming. A33 reads it as "a relatively
 stabilized structure becomes a substrate on which more complex structure
 develops". That is a way to tell which persisting entries have become anchors
-on this record, not an account of what made them so. CLAIM-tmp4fc0k (the
+on this record, not an account of what made them so. [CLAIM-tmp4fc0k](../claims.d/CLAIM-tmp4fc0k.md) (the
 assistant's) qualifies the signature: on this record reliance and revision
 arrive together, so the stable, built-on quadrant is thin for a reason that is
-not about anchoring. LEAD-tmp14mq0 would draw the map. It bears on the
-question as evidence would, through CLAIM-185, and does not touch the
-addressability candidate (CLAIM-182). The question stays Open.
+not about anchoring. [LEAD-tmp14mq0](../leads.d/LEAD-tmp14mq0.md) would draw the map. It bears on the
+question as evidence would, through [CLAIM-185](../claims.d/CLAIM-185.md), and does not touch the
+addressability candidate ([CLAIM-182](../claims.d/CLAIM-182.md)). The question stays Open.

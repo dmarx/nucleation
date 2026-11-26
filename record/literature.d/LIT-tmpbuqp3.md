@@ -18,7 +18,7 @@ published: '1976-10'
 doi: '10.1016/0304-405X(76)90026-X'
 first_author: 'Jensen'
 summary: >-
-  The paper A6 §1 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26) names in its history of the shareholder-value movement: "Jensen and Meckling's 1976 theory of the firm was influential in this development", on the owner's U4 that the problem has been impacting society "since at least the 80s". NOTE-568 and NOTE-1014 mention its nexus-of-contracts view in passing. It bears on CLAIM-tmpe432a and CLAIM-1257. Unverified until read.
+  The paper A6 §1 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26) names in its history of the shareholder-value movement: "Jensen and Meckling's 1976 theory of the firm was influential in this development", on the owner's U4 that the problem has been impacting society "since at least the 80s". [NOTE-568](../notes.d/NOTE-568.md) and [NOTE-1014](../notes.d/NOTE-1014.md) mention its nexus-of-contracts view in passing. It bears on [CLAIM-tmpe432a](../claims.d/CLAIM-tmpe432a.md) and [CLAIM-1257](../claims.d/CLAIM-1257.md). Unverified until read.
 ---
 
 <!-- inactive-ok-file: CLAIM-tmpe432a CLAIM-1257 — Proposed or new; the entries this registration bears on -->
@@ -31,4 +31,4 @@ summary: >-
 
 ## Standing in the record
 
-Deferred. The paper A6 §1 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26) names in its history of the shareholder-value movement: "Jensen and Meckling's 1976 theory of the firm was influential in this development", on the owner's U4 that the problem has been impacting society "since at least the 80s". NOTE-568 and NOTE-1014 mention its nexus-of-contracts view in passing. It bears on CLAIM-tmpe432a and CLAIM-1257. Unverified until read.
+Deferred. The paper A6 §1 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26) names in its history of the shareholder-value movement: "Jensen and Meckling's 1976 theory of the firm was influential in this development", on the owner's U4 that the problem has been impacting society "since at least the 80s". [NOTE-568](../notes.d/NOTE-568.md) and [NOTE-1014](../notes.d/NOTE-1014.md) mention its nexus-of-contracts view in passing. It bears on [CLAIM-tmpe432a](../claims.d/CLAIM-tmpe432a.md) and [CLAIM-1257](../claims.d/CLAIM-1257.md). Unverified until read.

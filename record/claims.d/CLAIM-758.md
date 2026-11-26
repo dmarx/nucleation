@@ -299,7 +299,7 @@ reused features. No status change.
 
 <!-- inactive-ok-file: SYNTHESIS-105 — Proposed; the frontier account A2 cites -->
 
-A2 §5 carries this claim to alignment training, citing SYNTHESIS-105's
+A2 §5 carries this claim to alignment training, citing [SYNTHESIS-105](../syntheses.d/SYNTHESIS-105.md)'s
 three frontiers: "post-training may improve alignment metrics while
 diminishing the model's capacity to accommodate legitimate future
 corrections", so that a model "might become increasingly consistent,
@@ -308,11 +308,11 @@ resistant to legitimate modifications of its normative framework". Its
 proposed measure, "the data, compute, and collateral capability loss
 associated with teaching the model a new normative distinction or
 legitimately revising an existing one" across checkpoints, which it
-calls "developmental alignability", is LEAD-012's design (the cost of
+calls "developmental alignability", is [LEAD-012](../leads.d/LEAD-012.md)'s design (the cost of
 acquiring held-out task families across checkpoints while the training
 objective improves) with a normative distinction as the held-out family
 and post-training in place of pretraining. A2's figure is labelled
 "Conceptual illustration, not empirical training data."
 
-An application with a candidate task family for LEAD-012, not new
+An application with a candidate task family for [LEAD-012](../leads.d/LEAD-012.md), not new
 evidence; the claim is unchanged.

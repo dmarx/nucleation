@@ -33,22 +33,22 @@ summary: >-
   they change and how much development occurs around them", with "a
   scatter plot of the claim corpus, with drill-down into representative
   entries and their histories" as the deliverable. Its research payoff is
-  a test of CLAIM-tmpk015q (H1); its practical payoff is to tell "mature
+  a test of [CLAIM-tmpk015q](../claims.d/CLAIM-tmpk015q.md) (H1); its practical payoff is to tell "mature
   knowledge worth condensing from neglected knowledge worth reviewing".
   A33 §5 gives the four quadrants and §14 the idea of finding regimes
   rather than drawing them. The design must control for the coupling
-  CLAIM-tmp4fc0k describes, since on this record reliance draws revision.
+  [CLAIM-tmp4fc0k](../claims.d/CLAIM-tmp4fc0k.md) describes, since on this record reliance draws revision.
   The pilot is A's; the measures, controls and criteria are the
   assistant's (Claude, in this session), and adopting them is the owner's
   call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpk015q CLAIM-tmp4fc0k CLAIM-768 CLAIM-185 CASE-307 — Proposed; the hypothesis tested, the caution it must control for and the entries it is read against, cited on 2026-11-26 -->
+<!-- inactive-ok-file: CLAIM-tmpk015q CLAIM-tmp4fc0k CLAIM-768 CASE-307 — Proposed; the hypothesis tested, the caution it must control for and the entries it is read against, cited on 2026-11-26 -->
 
 # LEAD-tmp14mq0: Map the record's claims in a stability-generativity phase space, prose stability against new structure formed around each claim, at matched age, and test whether the regimes the map shows are distinguishable and stable under reasonable choices of measure
 
 ## The measures
 
-From LEAD-tmpn6mi2's profiles, for every claim alive at each weekly
+From [LEAD-tmpn6mi2](LEAD-tmpn6mi2.md)'s profiles, for every claim alive at each weekly
 snapshot date `t`:
 
 - **Prose stability** (x): the claim's substantive-revision intensity at
@@ -65,14 +65,14 @@ snapshot date `t`:
 
 ## The controls
 
-- **Age.** Every comparison within age bins (CASE-307's: 0–1, 1–3, 3–7,
+- **Age.** Every comparison within age bins ([CASE-307](../cases.d/CASE-307.md)'s: 0–1, 1–3, 3–7,
   7–14, 14–28 and 28 or more days), and the plot drawn both raw and with
   each axis as a residual on age bin.
-- **Recheck revisions** (CLAIM-tmp4fc0k). Revisions within 24 hours of a new
+- **Recheck revisions** ([CLAIM-tmp4fc0k](../claims.d/CLAIM-tmp4fc0k.md)). Revisions within 24 hours of a new
   incoming edge are counted apart, and the map is drawn with and without
   them.
 - **Filing-day burst and bulk commits.** The first day of each claim
-  dropped, and commits touching more than 20 claims dropped, as CASE-307's
+  dropped, and commits touching more than 20 claims dropped, as [CASE-307](../cases.d/CASE-307.md)'s
   sensitivities did.
 
 ## The deliverables
@@ -86,7 +86,7 @@ snapshot date `t`:
    reliance rate, outgoing exploration rate, neighbourhood activity,
    synthesis mediation, standing volatility), for k = 1 to 6, chosen by BIC.
 
-## What would count for and against CLAIM-tmpk015q
+## What would count for and against [CLAIM-tmpk015q](../claims.d/CLAIM-tmpk015q.md)
 
 For, both of:
 
@@ -102,7 +102,7 @@ For, both of:
 
 Against: k = 1 preferred; an adjusted Rand index below 0.3 for any one
 variant; or no predictive gain on any outcome. Any of these meets
-CLAIM-tmpk015q's defeater for this record at its present age. Between the
+[CLAIM-tmpk015q](../claims.d/CLAIM-tmpk015q.md)'s defeater for this record at its present age. Between the
 two (regimes stable but not predictive, or the reverse) the result is
 reported as it falls and the claim is not moved.
 
@@ -113,14 +113,14 @@ discriminate if at least 14 of 20 marks agree with them.
 
 ## What it cannot show
 
-Why a claim settled (CLAIM-768: settling does not show what stopped an
+Why a claim settled ([CLAIM-768](../claims.d/CLAIM-768.md): settling does not show what stopped an
 entry; note of 2026-11-26 there). Whether a regime is good (A33: the
 locations "are descriptive, not judgments of epistemic worth"). And
 whether a thin anchor quadrant says anything about individuation, since
-on this record reliance draws revision (CLAIM-tmp4fc0k): the quadrant can
+on this record reliance draws revision ([CLAIM-tmp4fc0k](../claims.d/CLAIM-tmp4fc0k.md)): the quadrant can
 only be read after the controls.
 
 ## Cost
 
-Low once LEAD-tmpn6mi2's profiles exist: a script and a plot, half a day,
+Low once [LEAD-tmpn6mi2](LEAD-tmpn6mi2.md)'s profiles exist: a script and a plot, half a day,
 plus the blind reading of twenty claims.

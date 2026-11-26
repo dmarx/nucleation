@@ -277,15 +277,15 @@ external evaluation", by an external constraint, or by "A fragile
 accommodation among competing internal processes".
 
 Only the first and third are this claim's distinction, maintenance
-realized inside or outside the system (TERM-100). The second is a
+realized inside or outside the system ([TERM-100](../terms.d/TERM-100.md)). The second is a
 behaviour conditional on being observed, which a perturbation of the
 observation, not of the state, would show; the fourth is a difference in
 stability. So the table illustrates more than the claim covers, and only
 its first contrast is supported by it. The test A2 asks for, in trained
-networks, is close to LEAD-276's.
+networks, is close to [LEAD-276](../leads.d/LEAD-276.md)'s.
 
 A5 §2 carries the claim to institutions ("Two institutions may be
 behaviourally indistinguishable during ordinary operation while differing
 fundamentally in their capacity to withstand an attempt at capture"), and
-A5 §6's H1 to populations, in a study filed as LEAD-tmp0yn8v. Each is an
+A5 §6's H1 to populations, in a study filed as [LEAD-tmp0yn8v](../leads.d/LEAD-tmp0yn8v.md). Each is an
 application; the claim is unchanged.

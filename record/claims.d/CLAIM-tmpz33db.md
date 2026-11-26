@@ -36,28 +36,27 @@ statement: >-
   structure of possibilities, not retained individual competence
 summary: >-
   A4 §§8–9 of the exchange "Alignment consequences brainstorm" (ChatGPT,
-  2026-11-26), answering the owner's U2 (QUESTION-tmpsgbj7): "If the model
+  2026-11-26), answering the owner's U2 ([QUESTION-tmpsgbj7](../questions.d/QUESTION-tmpsgbj7.md)): "If the model
   equates a decline in unaided competence with a decline in empowerment, it
   is inadequate as a general theory of technological development." A
-  states CLAIM-602's model correctly. CLAIM-602 does not itself draw a
+  states [CLAIM-602](CLAIM-602.md)'s model correctly. [CLAIM-602](CLAIM-602.md) does not itself draw a
   conclusion about net empowerment, so this marks the model's scope rather
-  than objecting to it. CLAIM-675 holds that support is assessed by its
+  than objecting to it. [CLAIM-675](CLAIM-675.md) holds that support is assessed by its
   trajectory; this adds what a trajectory must range over. A's toy widget
   is linear and not the model's own dynamics; the assistant's derivation
-  in the model (CLAIM-tmp87zug) shows the extension answers the objection
-  for capacity and not for dependency (ARG-tmpee3ck). The wording is A's;
+  in the model ([CLAIM-tmp87zug](CLAIM-tmp87zug.md)) shows the extension answers the objection
+  for capacity and not for dependency ([ARG-tmpee3ck](../arguments.d/ARG-tmpee3ck.md)). The wording is A's;
   adopting it is the owner's call.
 ---
 
 <!-- inactive-ok-file: CLAIM-tmp87zug ARG-tmpee3ck TERM-tmp35z0s — filed from the same exchange, Proposed -->
-<!-- inactive-ok-file: CLAIM-603 — Proposed; the held claim on specialization -->
 
 # CLAIM-tmpz33db: Retained-skill models cannot weigh net empowerment
 
 ## The claim
 
-A4 §8 writes the model underlying CLAIM-602 as dC/dt = λP(1 − C) − μC,
-which is CLAIM-602's own. "That is a valid model of a particular
+A4 §8 writes the model underlying [CLAIM-602](CLAIM-602.md) as dC/dt = λP(1 − C) − μC,
+which is [CLAIM-602](CLAIM-602.md)'s own. "That is a valid model of a particular
 phenomenon. But look at what it leaves out." It has no representation of
 alternative capabilities developed "using the resources freed by
 assistance", new activities possible only through cooperation, shared
@@ -84,10 +83,10 @@ retained individual competence."
 
 ## Checks
 
-- **The model is stated correctly.** CLAIM-602's equation is the one A4
+- **The model is stated correctly.** [CLAIM-602](CLAIM-602.md)'s equation is the one A4
   writes, with C the retained capacity, P the work the party does, λ its
   learning rate and μ its decay rate.
-- **CLAIM-602 does not overclaim.** Its statement is that supplied work
+- **[CLAIM-602](CLAIM-602.md) does not overclaim.** Its statement is that supplied work
   erodes the capacity it is learned from, and that capacity-first support
   does not; it says nothing of net empowerment. A4's "If the model
   equates" is conditional, and the condition is not met by the claim. It
@@ -97,7 +96,7 @@ retained individual competence."
   to 1 − 0.75a, the new to 0.3 + 1.5ai and access to 0.8a for automation a
   and reinvestment i: stipulated linear maps, labelled "Illustrative
   parameters, not empirical estimates". Nothing in it follows from the
-  equation above. CLAIM-tmp87zug does the extension in the model's own
+  equation above. [CLAIM-tmp87zug](CLAIM-tmp87zug.md) does the extension in the model's own
   dynamics.
 
 ## What it does not say
@@ -107,4 +106,4 @@ retained individual competence."
 - **That the four add up.** A4: the capabilities "are not necessarily
   commensurable and should not simply be added into a single welfare
   score". Which ones matter is the question A4 §12 answers with
-  constitutional capability (TERM-tmp35z0s).
+  constitutional capability ([TERM-tmp35z0s](../terms.d/TERM-tmp35z0s.md)).

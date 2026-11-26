@@ -40,17 +40,17 @@ statement: >-
 summary: >-
   The owner's, U4 of the exchange "Alignment consequences brainstorm"
   (ChatGPT, 2026-11-26), filed in the owner's voice. The record held the
-  owner's shareholder value as willful ignorance (CLAIM-1257), the owner's
+  owner's shareholder value as willful ignorance ([CLAIM-1257](CLAIM-1257.md)), the owner's
   hypothesis that attention revenue selects against investigation
-  (CLAIM-656), and A's narrow optimizers that value weakening their
-  constraints (CLAIM-1287); it held no claim that the paperclip problem is
+  ([CLAIM-656](CLAIM-656.md)), and A's narrow optimizers that value weakening their
+  constraints ([CLAIM-1287](CLAIM-1287.md)); it held no claim that the paperclip problem is
   an institutional problem already present, nor that its variable is which
   objectives may use which levers. A6 restated it as a narrow criterion
-  granted "jurisdiction over an insufficiently bounded domain" (TERM-tmp3rbue,
-  CLAIM-tmpevykb). How far the analogy carries is ARG-tmpempyl.
+  granted "jurisdiction over an insufficiently bounded domain" ([TERM-tmp3rbue](../terms.d/TERM-tmp3rbue.md),
+  [CLAIM-tmpevykb](CLAIM-tmpevykb.md)). How far the analogy carries is [ARG-tmpempyl](../arguments.d/ARG-tmpempyl.md).
 ---
 
-<!-- inactive-ok-file: CLAIM-1257 CLAIM-656 CLAIM-1287 CLAIM-1252 CLAIM-1268 — Proposed; the owner's and A's held neighbours -->
+<!-- inactive-ok-file: CLAIM-1257 CLAIM-656 CLAIM-1287 CLAIM-1268 — Proposed; the owner's and A's held neighbours -->
 <!-- inactive-ok-file: TERM-tmp3rbue CLAIM-tmpevykb CLAIM-tmp3epdy CLAIM-tmp3dn8p ARG-tmpempyl LIT-tmpbuqp3 LIT-tmp4r6n7 — filed with this claim from the same exchange, Proposed or Deferred -->
 
 # CLAIM-tmpe432a: Paperclip maximizing is already here, in which objectives may steer behaviour
@@ -82,23 +82,23 @@ Three parts:
 A6 agreed and sharpened the claim: "The paperclip maximizer is not
 fundamentally an AI problem. It is a problem of granting a narrow
 optimization criterion jurisdiction over an insufficiently bounded
-domain." Its additions are filed as A's: the term (TERM-tmp3rbue), the
+domain." Its additions are filed as A's: the term ([TERM-tmp3rbue](../terms.d/TERM-tmp3rbue.md)), the
 claim that jurisdiction rather than the objective or the optimizer's
-intelligence sets the reach of the harm (CLAIM-tmpevykb), selection as a
-route to convergent power-seeking (CLAIM-tmp3epdy), and alignment at the
-wrong boundary (CLAIM-tmp3dn8p). On the attention economy A6 gave the
+intelligence sets the reach of the harm ([CLAIM-tmpevykb](CLAIM-tmpevykb.md)), selection as a
+route to convergent power-seeking ([CLAIM-tmp3epdy](CLAIM-tmp3epdy.md)), and alignment at the
+wrong boundary ([CLAIM-tmp3dn8p](CLAIM-tmp3dn8p.md)). On the attention economy A6 gave the
 mechanism: "the optimized quantity is not simply a measure of an
 independently occurring human behaviour. The optimization process
 actively transforms the population whose behaviour it measures." That is
-held as a mechanism in CLAIM-1268 and CLAIM-402; the note of 2026-11-26 on
-CLAIM-1268 records A6's form.
+held as a mechanism in [CLAIM-1268](CLAIM-1268.md) and [CLAIM-402](CLAIM-402.md); the note of 2026-11-26 on
+[CLAIM-1268](CLAIM-1268.md) records A6's form.
 
 On the date, A6: "The shareholder-value movement, emerging during the
 1970s and gaining institutional influence in subsequent decades,
 explicitly sought to reorganize corporate governance around financial
 returns. Jensen and Meckling's 1976 theory of the firm was influential in
 this development." Jensen and Meckling is registered unread
-(LIT-tmpbuqp3); the historical sentence is A's and unverified here.
+([LIT-tmpbuqp3](../literature.d/LIT-tmpbuqp3.md)); the historical sentence is A's and unverified here.
 
 ## What it does not say
 
@@ -111,7 +111,7 @@ this development." Jensen and Meckling is registered unread
   about what the problem is and where it is already found. How far the
   analogy carries, and where it fails (a firm's objective is not
   unbounded, and its pursuit meets constraints it does not always
-  control), is ARG-tmpempyl.
+  control), is [ARG-tmpempyl](../arguments.d/ARG-tmpempyl.md).
 - **That the objectives are wrong in themselves.** "which optimization
   objectives you permit" puts the fault in the permission. A6 says the same: "There is
   nothing inherently problematic about wanting to make a profit, increase
@@ -121,6 +121,6 @@ this development." Jensen and Meckling is registered unread
 
 Whether the permission to influence significant levers can be made a
 measurable variable, and whether it explains outcomes beyond incentive and
-regulatory-capture accounts, is LEAD-tmpxcj7n. Chaney, Stewart and
-Engelhardt (LIT-tmp4r6n7, registered unread) is A6's cited model of the
+regulatory-capture accounts, is [LEAD-tmpxcj7n](../leads.d/LEAD-tmpxcj7n.md). Chaney, Stewart and
+Engelhardt ([LIT-tmp4r6n7](../literature.d/LIT-tmp4r6n7.md), registered unread) is A6's cited model of the
 attention-economy loop.

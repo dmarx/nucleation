@@ -73,7 +73,7 @@ Loaded into luria 1.11.0 with the record's `luria.yaml` as a stand-in, on
 ## The trial
 
 1. **Classify one line by hand** (A31 §16 steps 1 to 3). Take the
-   worklists of LEAD-tmp79qro for the chosen line, and give each of its
+   worklists of [LEAD-tmp79qro](LEAD-tmp79qro.md) for the chosen line, and give each of its
    claims a tier: hot (in ordinary retrieval), warm (listed, not loaded),
    cold (in the ghost catalogue only). Until the owner rules on the field,
    the tiers live in a list under `scratch/`.
@@ -97,12 +97,12 @@ Loaded into luria 1.11.0 with the record's `luria.yaml` as a stand-in, on
    not run the trial, each with its answer and the entries that hold it.
 5. **Measures** (A34's): correctness against the held answer; tokens to
    answer; *repeated derivation*, an answer produced without citing the
-   entry that holds it (CLAIM-1068's measure); recoveries of cold entries,
+   entry that holds it ([CLAIM-1068](../claims.d/CLAIM-1068.md)'s measure); recoveries of cold entries,
    and what each cost in tokens; missed relevant entries, from the key.
 
 ## What would count
 
-- **For CLAIM-tmpdid0k on this line:** the restricted arm answers at least
+- **For [CLAIM-tmpdid0k](../claims.d/CLAIM-tmpdid0k.md) on this line:** the restricted arm answers at least
   as correctly as the full arm (within 1 of 20), with at least 30 % fewer
   tokens, and the full arm re-derives more often.
 - **Against:** the full arm is no costlier at equal correctness, or the
@@ -112,11 +112,11 @@ Loaded into luria 1.11.0 with the record's `luria.yaml` as a stand-in, on
 - **About the tiers:** more than 2 of 20 tasks needing a cold entry says the
   classification cooled what is in use; none in 20, with savings, says the
   catalogue was enough.
-- **About CLAIM-tmp6toz6:** whether the full arm's answers cite entries in
+- **About [CLAIM-tmp6toz6](../claims.d/CLAIM-tmp6toz6.md):** whether the full arm's answers cite entries in
   proportion to how many generated pages repeat them, beyond their
   relevance by the key.
 
-CASE-091's design, persistent memory varied with information and token
+[CASE-091](../cases.d/CASE-091.md)'s design, persistent memory varied with information and token
 budget controlled separately, is the stricter version of the same
 comparison, should this one be worth scaling.
 

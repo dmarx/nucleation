@@ -13,14 +13,14 @@ line:
 summary: >-
   The owner's, U2 of the exchange "Alignment consequences brainstorm"
   (ChatGPT, 2026-11-26), filed in the owner's voice, against A2 §7's use of
-  CLAIM-602 for "Human disempowerment through successful AI assistance":
+  [CLAIM-602](../claims.d/CLAIM-602.md) for "Human disempowerment through successful AI assistance":
   "how does this model account for the prior history of technological
   human development? are we committing a luddite fallacy here?" A4 granted
   it "a significant qualification". Partly answered: the record does not
-  count a lost capability as the pathology (CLAIM-603), and its answer
-  turns on reciprocity and control of terms (CLAIM-tmp5vitv); a one-capacity
-  model cannot weigh net empowerment (CLAIM-tmpz33db), and reinvestment
-  answers for capacity, not dependency (CLAIM-tmp87zug).
+  count a lost capability as the pathology ([CLAIM-603](../claims.d/CLAIM-603.md)), and its answer
+  turns on reciprocity and control of terms ([CLAIM-tmp5vitv](../claims.d/CLAIM-tmp5vitv.md)); a one-capacity
+  model cannot weigh net empowerment ([CLAIM-tmpz33db](../claims.d/CLAIM-tmpz33db.md)), and reinvestment
+  answers for capacity, not dependency ([CLAIM-tmp87zug](../claims.d/CLAIM-tmp87zug.md)).
 ---
 
 <!-- inactive-ok-file: CLAIM-603 CLAIM-690 CLAIM-684 — Proposed; the held claims the question tests -->
@@ -35,7 +35,7 @@ assistance": "how does this model account for the prior history of
 technological human development? are we committing a luddite fallacy
 here?"
 
-The model is CLAIM-602's: capacity learned by doing and lost with disuse,
+The model is [CLAIM-602](../claims.d/CLAIM-602.md)'s: capacity learned by doing and lost with disuse,
 so that a supply that does the work erodes the capacity it is learned
 from. A2 §7 drew from it that "An AI system could be perfectly helpful by
 conventional measures while systematically weakening the humans to whom
@@ -47,20 +47,20 @@ and few would call the result disempowerment.
 
 The record answers part of it:
 
-- **The loss is not the pathology.** CLAIM-603: the same loss is
+- **The loss is not the pathology.** [CLAIM-603](../claims.d/CLAIM-603.md): the same loss is
   specialization or dependency according to the supply.
 - **The one-capacity model's scope.** It cannot carry a conclusion about
-  net empowerment (CLAIM-tmpz33db, A4 §§8–9).
+  net empowerment ([CLAIM-tmpz33db](../claims.d/CLAIM-tmpz33db.md), A4 §§8–9).
 - **Reinvestment.** In the model, what freed effort builds leaves the
-  withdrawal cost unchanged (CLAIM-tmp87zug).
+  withdrawal cost unchanged ([CLAIM-tmp87zug](../claims.d/CLAIM-tmp87zug.md)).
 - **The test.** Whether a given supply leaves its users specialized or
   dependent turns on reciprocity and on who controls its terms
-  (CLAIM-tmp5vitv, on CLAIM-603 and CLAIM-690).
+  ([CLAIM-tmp5vitv](../claims.d/CLAIM-tmp5vitv.md), on [CLAIM-603](../claims.d/CLAIM-603.md) and [CLAIM-690](../claims.d/CLAIM-690.md)).
 
 What it does not answer is the historical half: whether the technologies
 the objection names pass that test, and which capabilities their users
 lost were ones that let them govern the arrangement they came to depend
-on (A4 §12's constitutional capabilities, TERM-tmp35z0s). That needs
+on (A4 §12's constitutional capabilities, [TERM-tmp35z0s](../terms.d/TERM-tmp35z0s.md)). That needs
 cases, not the model.
 
 ## What would count as an answer
@@ -73,7 +73,7 @@ cases, not the model.
   that it did not, ranked the same way by independent evidence of what the
   users could do.
 
-QUESTION-526 asks for the standard that tells destructive lock-in from
-productive specialization, and CLAIM-684's rising burden is one partial
+[QUESTION-526](QUESTION-526.md) asks for the standard that tells destructive lock-in from
+productive specialization, and [CLAIM-684](../claims.d/CLAIM-684.md)'s rising burden is one partial
 candidate. An answer here would be a case of that standard applied to
 capabilities.

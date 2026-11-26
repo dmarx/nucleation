@@ -36,7 +36,7 @@ summary: >-
   policies without prematurely adopting them" (CLAIM-tmp48l62). A33 §10 adds the survival analysis, with
   recent entries "right-censored". A34's own limit: replay "cannot reveal
   all the inquiries that might have emerged under different retrieval
-  policies", so prospective trials (LEAD-tmpolbqp) follow it. The pilot is
+  policies", so prospective trials ([LEAD-tmpolbqp](LEAD-tmpolbqp.md)) follow it. The pilot is
   A's; the comparison and criteria are the assistant's (Claude, in this
   session), and adopting them is the owner's call.
 ---
@@ -46,7 +46,7 @@ summary: >-
 
 ## The replay
 
-At each weekly snapshot date `t` from LEAD-tmpn6mi2's log, each policy
+At each weekly snapshot date `t` from [LEAD-tmpn6mi2](LEAD-tmpn6mi2.md)'s log, each policy
 cools a fixed share of the claims alive at `t`, the same share for all, so
 that the policies are compared at equal budget. A34's five:
 
@@ -54,7 +54,7 @@ that the policies are compared at equal budget. A34's five:
 - **standing**: Superseded, Rejected and Deferred first, then Proposed
   claims no Open lead advances;
 - **recent activity**: lowest interaction intensity at τ = 30 days;
-- **structural reachability**: outside LEAD-tmp79qro's root closure as it
+- **structural reachability**: outside [LEAD-tmp79qro](LEAD-tmp79qro.md)'s root closure as it
   stood at `t`;
 - **combined**: outside the closure and lowest in activity.
 
@@ -101,5 +101,5 @@ months old, so a nursery period longer than a few weeks cannot be seen.
 
 ## Cost
 
-Once LEAD-tmpn6mi2 and LEAD-tmp79qro exist: a day for the replay and the
+Once [LEAD-tmpn6mi2](LEAD-tmpn6mi2.md) and [LEAD-tmp79qro](LEAD-tmp79qro.md) exist: a day for the replay and the
 survival curves.

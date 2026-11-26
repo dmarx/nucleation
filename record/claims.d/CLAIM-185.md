@@ -377,10 +377,10 @@ A33 §17 maps this line's concepts to signatures in the record's own git
 history: "Nucleation" as the "Formation of a persistent, addressable
 structure", "Individuation" as "Stabilization with sustained downstream use",
 "Entrenchment" as "Continued dependence despite replacement or correction".
-A34's H1 (CLAIM-tmpk015q) is this claim's thesis made measurable on the
+A34's H1 ([CLAIM-tmpk015q](CLAIM-tmpk015q.md)) is this claim's thesis made measurable on the
 record's entries: if persistent structures are what later structure grows on,
 the history should show entries that settle and then carry growth.
-LEAD-tmpn6mi2 and LEAD-tmp14mq0 would look. CLAIM-tmp4fc0k (the assistant's)
-says why the record's first measurement, CASE-307, already complicates the
+[LEAD-tmpn6mi2](../leads.d/LEAD-tmpn6mi2.md) and [LEAD-tmp14mq0](../leads.d/LEAD-tmp14mq0.md) would look. [CLAIM-tmp4fc0k](CLAIM-tmp4fc0k.md) (the assistant's)
+says why the record's first measurement, [CASE-307](../cases.d/CASE-307.md), already complicates the
 reading: cited claims are revised more, not less. A bearing as a proposed
 test. No status change.

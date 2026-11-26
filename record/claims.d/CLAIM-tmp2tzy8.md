@@ -31,8 +31,8 @@ statement: >-
 summary: >-
   A4 §14 of the exchange "Alignment consequences brainstorm" (ChatGPT,
   2026-11-26), "a dynamic hypothesis", at the owner's U2. The record holds
-  that stability does not entail viability (CLAIM-079), readiness as a
-  family indexed by deadline (TERM-115), and the manuscript
+  that stability does not entail viability ([CLAIM-079](CLAIM-079.md)), readiness as a
+  family indexed by deadline ([TERM-115](../terms.d/TERM-115.md)), and the manuscript
   governance-of-possibility's treatment of rates and deadlines; it holds no
   claim that the governing capacity and the capacity it must govern grow at
   rates whose difference is the risk. A's caption concedes "The existence
@@ -65,11 +65,11 @@ d > g, the shortfall grows at d − g while the held capacity improves. The
 claim's content is therefore the premise that the required capacity grows
 with productive complexity, and the comparison, that this gap matters
 more than an absolute decline. Neither is measured. What counts as
-required is relative to a declared demand, as for TERM-167's M_D, and who
-declares it is QUESTION-485's question.
+required is relative to a declared demand, as for [TERM-167](../terms.d/TERM-167.md)'s M_D, and who
+declares it is [QUESTION-485](../questions.d/QUESTION-485.md)'s question.
 
 ## What it does not say
 
 That human capacity does not decline; A4 §§6–9 keep atrophy as one
-trajectory among four (CLAIM-tmpz33db). And the claim concerns the
-constitutional capabilities of A4 §12 (TERM-tmp35z0s), not all of them.
+trajectory among four ([CLAIM-tmpz33db](CLAIM-tmpz33db.md)). And the claim concerns the
+constitutional capabilities of A4 §12 ([TERM-tmp35z0s](../terms.d/TERM-tmp35z0s.md)), not all of them.

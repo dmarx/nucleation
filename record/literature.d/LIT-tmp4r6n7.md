@@ -19,7 +19,7 @@ published: '2017-10-30'
 arxiv: '1710.11214'
 first_author: 'Chaney'
 summary: >-
-  The paper A6 §2 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26) cites for the attention economy: it "investigates feedback loops arising when recommendation systems learn from behaviour shaped by previous recommendations". It bears on CLAIM-tmpe432a and CLAIM-1268. Unverified until read.
+  The paper A6 §2 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26) cites for the attention economy: it "investigates feedback loops arising when recommendation systems learn from behaviour shaped by previous recommendations". It bears on [CLAIM-tmpe432a](../claims.d/CLAIM-tmpe432a.md) and [CLAIM-1268](../claims.d/CLAIM-1268.md). Unverified until read.
 ---
 
 <!-- inactive-ok-file: CLAIM-tmpe432a CLAIM-1268 — Proposed or new; the entries this registration bears on -->
@@ -32,4 +32,4 @@ summary: >-
 
 ## Standing in the record
 
-Deferred. The paper A6 §2 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26) cites for the attention economy: it "investigates feedback loops arising when recommendation systems learn from behaviour shaped by previous recommendations". It bears on CLAIM-tmpe432a and CLAIM-1268. Unverified until read.
+Deferred. The paper A6 §2 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26) cites for the attention economy: it "investigates feedback loops arising when recommendation systems learn from behaviour shaped by previous recommendations". It bears on [CLAIM-tmpe432a](../claims.d/CLAIM-tmpe432a.md) and [CLAIM-1268](../claims.d/CLAIM-1268.md). Unverified until read.

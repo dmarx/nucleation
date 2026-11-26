@@ -49,10 +49,10 @@ summary: >-
   A's third hypothesis for its pilots, the one A calls "the most
   interesting to me": "It would establish something stronger than improved
   search performance: that selective forgetting can participate in the
-  formation of new capabilities." It is CLAIM-761's thesis, stored work
+  formation of new capabilities." It is [CLAIM-761](CLAIM-761.md)'s thesis, stored work
   changing which activities are realizable within a fixed budget, applied
   to condensation, and it restates for the four operations of A34's fifth
-  pilot what A29 put as the abstraction hypothesis (CLAIM-tmp8gkmi). The frontier is TERM-092's inquiry frontier at a budget.
+  pilot what A29 put as the abstraction hypothesis (CLAIM-tmp8gkmi). The frontier is [TERM-092](../terms.d/TERM-092.md)'s inquiry frontier at a budget.
   The wording is A's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-758 CLAIM-250 CLAIM-tmp8gkmi CLAIM-tmpnf6q4 — Proposed or Open; the risks and the leads this hypothesis is filed among on 2026-11-26 -->
@@ -67,10 +67,10 @@ developmental frontier under a fixed resource budget." A34's fifth pilot
 names the capabilities: "understanding the result, applying it,
 challenging its grounds, and revising it after a premise is withdrawn".
 
-It rests on CLAIM-761. A condensed representation is a stabilized
+It rests on [CLAIM-761](CLAIM-761.md). A condensed representation is a stabilized
 constraint in that claim's sense: it replaces later work, here the work of
 reaching and reading a cluster's full justification, with a cheaper
-operation. CLAIM-761's expansion is conditional on the costs of keeping,
+operation. [CLAIM-761](CLAIM-761.md)'s expansion is conditional on the costs of keeping,
 retrieving, verifying and revising the constraint; this claim's
 preservation condition is what keeps the verifying and revising costs from
 eating the saving.
@@ -81,10 +81,10 @@ was not would establish it; the defeater asks for the general failure.
 
 ## What it does not say
 
-- It does not say every condensation helps. CLAIM-758 states the converse
+- It does not say every condensation helps. [CLAIM-758](CLAIM-758.md) states the converse
   risk: continued stabilization can keep improving present performance
   while raising the budget needed for later acquisitions outside it.
-- It does not say what must be kept. CLAIM-250 holds that what a record
+- It does not say what must be kept. [CLAIM-250](CLAIM-250.md) holds that what a record
   must preserve is accountability, not propositions, which bears on what
   the fourth operation needs (CLAIM-tmpnf6q4).
 - A31's closing point, that consolidation could make the record smaller
@@ -95,5 +95,5 @@ was not would establish it; the defeater asks for the general failure.
 
 ## How it would be tested
 
-LEAD-tmpd85zk condenses one mature cluster and tests the four operations;
-LEAD-tmpe579v replays policies over the record's history.
+[LEAD-tmpd85zk](../leads.d/LEAD-tmpd85zk.md) condenses one mature cluster and tests the four operations;
+[LEAD-tmpe579v](../leads.d/LEAD-tmpe579v.md) replays policies over the record's history.

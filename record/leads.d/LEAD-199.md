@@ -86,12 +86,12 @@ The owner's U18 in the exchange "Alignment consequences brainstorm" (ChatGPT,
 2026-11-26), "maybe we can use git to derive edit histories for each file and
 then from that we could model things like interaction intensity, prose
 stability, neighborhood influence", became A34's first pilot, filed as
-LEAD-tmpn6mi2. This lead's scripts (scratch/studies/lead-199/) are its base:
+[LEAD-tmpn6mi2](LEAD-tmpn6mi2.md). This lead's scripts (scratch/studies/lead-199/) are its base:
 `extract.py` already follows claims through their temporary codes and
 `formerly:` and replays inbound `rests_on` and `grounds` edges, setting aside
 CI repair, promotion and concretization commits, and `classify.py` already
-separates substantive revisions from dated notes and normalised markup. LEAD-tmpn6mi2 widens the extraction to every relation field,
-status and the other schemes, and its first check is to reproduce CASE-307 on
+separates substantive revisions from dated notes and normalised markup. [LEAD-tmpn6mi2](LEAD-tmpn6mi2.md) widens the extraction to every relation field,
+status and the other schemes, and its first check is to reproduce [CASE-307](../cases.d/CASE-307.md) on
 this lead's window. A33's suggested extraction, `git log main --first-parent`,
 would see only the nightly promotions, so the new lead keeps this lead's walk
 over staging's commits. This lead's status is unchanged.

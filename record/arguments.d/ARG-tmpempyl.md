@@ -26,11 +26,11 @@ line:
 - rightful-power
 summary: >-
   Argues the support A6 §§1–2 of the exchange "Alignment consequences
-  brainstorm" (ChatGPT, 2026-11-26) gives the owner's U4 (CLAIM-tmpe432a)
+  brainstorm" (ChatGPT, 2026-11-26) gives the owner's U4 ([CLAIM-tmpe432a](../claims.d/CLAIM-tmpe432a.md))
   with its table "Corporations as distributed paperclip maximizers".
   Proposed, as support in one respect: a narrow criterion, levers over
   behaviour, and the optimizer's interest in weakening its constraints
-  (CLAIM-1287) and in producing the behaviour it measures (CLAIM-1268)
+  ([CLAIM-1287](../claims.d/CLAIM-1287.md)) and in producing the behaviour it measures ([CLAIM-1268](../claims.d/CLAIM-1268.md))
   transfer. The maximizer's unboundedness and fixed objective do not, as
   A6 itself says ("The analogy is not exact"). The owner's thesis does not
   need them, since it locates the problem in which objectives are
@@ -38,7 +38,7 @@ summary: >-
   in this session); adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-tmpe432a TERM-tmp3rbue — filed from the same exchange, Proposed -->
+<!-- inactive-ok-file: CLAIM-tmpe432a — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-1287 CLAIM-1268 — Proposed; the held mechanisms the analogy rests on -->
 
 # ARG-tmpempyl: The paperclip maximizer, by analogy, carries to the firm and the attention economy for a narrow criterion steering behaviour, not for unbounded maximization
@@ -63,8 +63,8 @@ permitted to steer behaviour.
    Engagement is optimized over choices that shape "human desires and
    social relations" (A6 §3), and A6 §2's mechanism, that the optimizer
    reshapes the population whose behaviour it measures, is held for
-   monitoring generally (CLAIM-1268). That an optimizer narrowly scored
-   values weakening the constraints on it is CLAIM-1287, derived there in
+   monitoring generally ([CLAIM-1268](../claims.d/CLAIM-1268.md)). That an optimizer narrowly scored
+   values weakening the constraints on it is [CLAIM-1287](../claims.d/CLAIM-1287.md), derived there in
    its own model.
 2. **Do they differ in a respect that defeats the conclusion?** Two
    differences, neither defeating it:
@@ -83,7 +83,7 @@ permitted to steer behaviour.
    owner's thesis names it as the remedy rather than the counterexample.
 4. **Does the "since the 80s" date transfer?** No: the analogy shows a
    mechanism, not when it took hold. A6's history of shareholder value is
-   A's, unverified (CLAIM-tmpe432a).
+   A's, unverified ([CLAIM-tmpe432a](../claims.d/CLAIM-tmpe432a.md)).
 
 Verdict: Proposed as support for the mechanism the owner names; no
 support for the maximizer's unboundedness, which the thesis does not

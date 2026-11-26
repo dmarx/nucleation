@@ -174,7 +174,7 @@ which complements this claim. No change.
 
 ## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U2–A4)
 
-<!-- inactive-ok-file: CLAIM-685 TERM-tmp35z0s — Proposed; the held generalization and the term of 2026-11-26 the variant study measures -->
+<!-- inactive-ok-file: TERM-tmp35z0s — Proposed; the held generalization and the term of 2026-11-26 the variant study measures -->
 
 A4 §4 states this claim's prediction correctly, Δ = (Y_FG − Y_RG) −
 (Y_FU − Y_RU) > 0, with "the outcome ... justified correction without
@@ -183,14 +183,14 @@ its four conditions as "Hypothesized properties ... not observed
 results". It reframes the study as one of "constitutional adaptability":
 "An AI's inherited ontology of acceptable behaviour may eventually prove
 inadequate. Does a system with governed mechanisms for revising that
-ontology outperform one with a fixed constitution?" It cites CLAIM-685 as
+ontology outperform one with a fixed constitution?" It cites [CLAIM-685](CLAIM-685.md) as
 the generalization to institutions, accurately, and calls both "untested
 hypotheses", as they are.
 
 A4 §15 proposes a variant that adds rising automation as a factor and the
-human members' retained governing capacity as an outcome (LEAD-tmp9snzi),
-the constitutional capability of TERM-tmp35z0s. An application; the claim
-and its study (LEAD-085) are unchanged.
+human members' retained governing capacity as an outcome ([LEAD-tmp9snzi](../leads.d/LEAD-tmp9snzi.md)),
+the constitutional capability of [TERM-tmp35z0s](../terms.d/TERM-tmp35z0s.md). An application; the claim
+and its study ([LEAD-085](../leads.d/LEAD-085.md)) are unchanged.
 
 ## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U7–A13, U8–A15)
 
@@ -200,10 +200,10 @@ Two applications, no change. A13 §10 says this claim's "factorial
 experiment on governed schema change could become part of a larger
 research programme on the organizational conditions of alignment", and
 lists it among seven comparisons on governed records (LEAD-tmpwlebp; its
-"Constitutional adaptability" row is LEAD-085's design). A15's R12, that a
+"Constitutional adaptability" row is [LEAD-085](../leads.d/LEAD-085.md)'s design). A15's R12, that a
 platform must let an institution "legitimately revise an inadequate
 standard while preventing the process governed by that standard from
 unilaterally weakening it", is "a generalization of the governed
 schema-change hypothesis" here (CLAIM-tmpygs06); the generalization to
-institutions the record already holds is CLAIM-685's. Neither adds
+institutions the record already holds is [CLAIM-685](CLAIM-685.md)'s. Neither adds
 evidence.

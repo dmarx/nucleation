@@ -144,7 +144,7 @@ positivity condition".
 A2 draws two consequences: that reward hacking "need not involve a
 strategically deceptive agent", and that "evaluator independence,
 evidence independence and independence of authority allocation are
-distinct requirements" for scalable oversight. The first is CLAIM-404's
+distinct requirements" for scalable oversight. The first is [CLAIM-404](CLAIM-404.md)'s
 point that the informational and evaluative routes are distinct; the
 second extends this claim's two remedies by a third, independence of who
 allocates authority, which no entry derives. A transfer to AI oversight,

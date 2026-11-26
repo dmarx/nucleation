@@ -44,11 +44,11 @@ bears_on:
 summary: >-
   A's second hypothesis for its pilots, the claim the owner's U15 makes
   about this record ("retired and superseded content still impacts
-  retrieval cost and discoverability"; CLAIM-tmpu1fef) stated generally and with a threshold. CLAIM-314 holds one
+  retrieval cost and discoverability"; CLAIM-tmpu1fef) stated generally and with a threshold. [CLAIM-314](CLAIM-314.md) holds one
   mechanism, a recognition cost that grows with the number and size of the
   stored definitions; this claim adds the net effect, that past a point the
   added cost outweighs what holding the answer saved, which is the limit
-  QUESTION-095 asks about for leaving results where they can be retrieved.
+  [QUESTION-095](../questions.d/QUESTION-095.md) asks about for leaving results where they can be retrieved.
   The wording is A's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-314 CLAIM-1068 CLAIM-180 CLAIM-182 CLAIM-tmp6toz6 CLAIM-tmpu1fef TERM-tmp96b3g — Proposed; the mechanisms and the leads this hypothesis is filed among on 2026-11-26 -->
@@ -64,29 +64,29 @@ sufficient information to support."
 
 The distinction it turns on is between what the record holds and what an
 inquiry can reach at its budget. The record draws it as storage against
-addressability (CLAIM-182) and, for leaving results to be retrieved, as a
-trade whose limits are open (QUESTION-095). The claim says the trade
+addressability ([CLAIM-182](CLAIM-182.md)) and, for leaving results to be retrieved, as a
+trade whose limits are open ([QUESTION-095](../questions.d/QUESTION-095.md)). The claim says the trade
 reverses past a point: accessible but unneeded entries cost more to pass
 over than the needed ones save.
 
 ## What the record holds near it
 
-- **The mechanism.** CLAIM-314: certifying that stored answers cover a new
+- **The mechanism.** [CLAIM-314](CLAIM-314.md): certifying that stored answers cover a new
   question "grows with the number and size of the stored definitions rather
   than being a constant per item". That is a cost per use that rises with
   the corpus; this claim adds that it can overtake the saving.
-- **The symptom.** CLAIM-1068: content the record held under codes was
+- **The symptom.** [CLAIM-1068](CLAIM-1068.md): content the record held under codes was
   re-derived without them in 20 of 48 reconstructed exchanges, "because the
   collaborator had to find the code by what the content said". That is
   held information failing to be realized, measured once and not against
   corpus size, so it neither supports nor tests the threshold.
-- **Drift.** CLAIM-180 reads drift as retrieval failure beyond a critical
+- **Drift.** [CLAIM-180](CLAIM-180.md) reads drift as retrieval failure beyond a critical
   distance. More accessible near-duplicates would shrink the distance at
   which a restatement retrieves the wrong one.
-- **What adds to accessibility without adding information.** CLAIM-tmp6toz6
+- **What adds to accessibility without adding information.** [CLAIM-tmp6toz6](CLAIM-tmp6toz6.md)
   (A31 §14): generated projections repeat an entry's title and summary, so
   a search meets one entry many times.
-- **The conditional in CLAIM-761.** Stored work expands capability only net
+- **The conditional in [CLAIM-761](CLAIM-761.md).** Stored work expands capability only net
   of "the costs of constructing, keeping, retrieving, verifying and
   revising" it. This claim says the retrieving term grows with what else is
   kept.
@@ -100,8 +100,8 @@ over than the needed ones save.
 
 ## How it would be tested
 
-LEAD-tmpolbqp compares ordinary inquiry on one line's working view with
-the full retrieval surface; LEAD-tmpe579v replays cooling policies over the
-record's history; LEAD-tmp79qro finds the candidates. CASE-091's design,
+[LEAD-tmpolbqp](../leads.d/LEAD-tmpolbqp.md) compares ordinary inquiry on one line's working view with
+the full retrieval surface; [LEAD-tmpe579v](../leads.d/LEAD-tmpe579v.md) replays cooling policies over the
+record's history; [LEAD-tmp79qro](../leads.d/LEAD-tmp79qro.md) finds the candidates. [CASE-091](../cases.d/CASE-091.md)'s design,
 persistent memory varied with information and token budget controlled
 separately, is the controlled form the defeater asks for.

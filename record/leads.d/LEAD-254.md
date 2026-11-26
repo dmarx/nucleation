@@ -245,7 +245,7 @@ can achieve a suitable response to contingency ω within deadline τ and
 budget B", and kernels V_human, V_AI and V_joint, with the hypothesis
 "joint controllability could increase while human controllability
 decreases", which is this lead's construction, enlarged reach together
-and contracted reach alone, posed for TERM-115 and TERM-167. A control
+and contracted reach alone, posed for [TERM-115](../terms.d/TERM-115.md) and [TERM-167](../terms.d/TERM-167.md). A control
 programme would keep "certain critical states ... within the
 human-governable kernel even as the joint system's capabilities expand".
 A5 §4 builds on it: three orders of power, the capacity to determine
@@ -255,14 +255,14 @@ options are constructed and governed"; and coalition-indexed sets, since
 inferred simply by aggregating the possibilities accessible to its
 individual members." The three orders sit near the instrumental,
 discretionary and constitutive power the filing of 2026-11-13 mapped to
-CLAIM-545.
+[CLAIM-545](../claims.d/CLAIM-545.md).
 
 **What the indexing must fix (the assistant).** A4 indexes readiness by
 the actor whose policy is chosen and says nothing of what the other
 actors do meanwhile. The kernel depends on it, three ways:
 
 1. *The others follow their actual policies.* V_human is then a
-   closed-loop kernel in the sense of TERM-167's note of 2026-11-23 (V_π),
+   closed-loop kernel in the sense of [TERM-167](../terms.d/TERM-167.md)'s note of 2026-11-23 (V_π),
    relative to the AI's policy as it is.
 2. *The others cooperate.* Then A4's figure caption holds, "assuming joint
    access can reproduce each actor's individual interventions": V_human
@@ -281,7 +281,7 @@ when the AI's actual policy is one of its admissible ones and the
 cooperative reading's joint policies include it. A construction for this
 lead should say which it uses. "Legitimately" adds a further index: the
 policies an actor may invoke depend on a declared standard of legitimacy,
-which QUESTION-485 holds open. The wording of this section is the
+which [QUESTION-485](../questions.d/QUESTION-485.md) holds open. The wording of this section is the
 assistant's (Claude, in this session); adopting it is the owner's call.
 
 The lead is unchanged in scope and stage.
@@ -294,4 +294,4 @@ Answering the owner's U11 (QUESTION-tmpahfz9), A19 §7 points this lead at a for
 
 A19's worker example separates five modalities of one outcome, a decision reversed: "Existential reachability", "Formal authorization" (the worker may object), "Procedural capability" (can initiate review), "Strategic capability" ("Workers can collectively secure a fair review despite management's opposition") and "Resource- and deadline-bounded strategic capability". The lead already separates feasibility, affordability, authorization and permissibility; the coalition logic adds strategic ability against opposition, which none of the four is, and the deontic entry A19 lists (LIT-tmp8twg8) the logic of permission. "The natural Nucleation extension would concern how the coalitions, capabilities, resources, and rules of the game themselves develop", which is this lead's construction, reach together growing while reach alone contracts.
 
-A19 §VI states the indexed sets R_i(x) as a theory of power, operational, developmental (changing "the accessible sets of others") and constitutional (changing "the mechanisms determining those accessible sets"), and of domination as "discretionary control over the accessibility conditions of another", which is CLAIM-682's consequential discretion stated over possibility sets. A16 §10's operational, purposive and constitutional reach are the institutional counterpart (TERM-tmpmdrmj). Scope and stage unchanged.
+A19 §VI states the indexed sets R_i(x) as a theory of power, operational, developmental (changing "the accessible sets of others") and constitutional (changing "the mechanisms determining those accessible sets"), and of domination as "discretionary control over the accessibility conditions of another", which is [CLAIM-682](../claims.d/CLAIM-682.md)'s consequential discretion stated over possibility sets. A16 §10's operational, purposive and constitutional reach are the institutional counterpart (TERM-tmpmdrmj). Scope and stage unchanged.
