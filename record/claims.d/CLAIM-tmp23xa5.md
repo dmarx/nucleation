@@ -27,35 +27,35 @@ answers:
 rests_on:
 - CLAIM-527
 summary: >-
-  Alternative C to QUESTION-tmppt23x, filed with alternatives A
-  (CLAIM-tmpy367s) and B (CLAIM-tmp8ikja) at the owner's question of
-  2026-11-26. It extends CLAIM-527's three quantities to the word itself.
-  On it CLAIM-039 splits into a claim per quantity, and THEORY-101 bears on
+  Alternative C to [QUESTION-tmppt23x](../questions.d/QUESTION-tmppt23x.md), filed with alternatives A
+  ([CLAIM-tmpy367s](CLAIM-tmpy367s.md)) and B ([CLAIM-tmp8ikja](CLAIM-tmp8ikja.md)) at the owner's question of
+  2026-11-26. It extends [CLAIM-527](CLAIM-527.md)'s three quantities to the word itself.
+  On it [CLAIM-039](CLAIM-039.md) splits into a claim per quantity, and [THEORY-101](../theory.d/THEORY-101.md) bears on
   the valence one. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: QUESTION-tmppt23x CLAIM-tmpy367s CLAIM-tmp8ikja — new; the question and the alternatives filed with it -->
+<!-- inactive-ok-file: CLAIM-tmpy367s CLAIM-tmp8ikja — new; the question and the alternatives filed with it -->
 <!-- inactive-ok-file: CLAIM-039 CLAIM-442 CLAIM-527 TERM-076 THEORY-101 — Proposed; cited with their standing -->
 
 # CLAIM-tmp23xa5: Affect names no single kind
 
-*Alternative C to QUESTION-tmppt23x. Alternatives A and B are CLAIM-tmpy367s and CLAIM-tmp8ikja.*
+*Alternative C to [QUESTION-tmppt23x](../questions.d/QUESTION-tmppt23x.md). Alternatives A and B are [CLAIM-tmpy367s](CLAIM-tmpy367s.md) and [CLAIM-tmp8ikja](CLAIM-tmp8ikja.md).*
 
 ## The claim
 
-CLAIM-527 holds that "Viable reach, valence and emotion are three quantities
-in an organization, not one", and CLAIM-368 makes frustration a relation,
+[CLAIM-527](CLAIM-527.md) holds that "Viable reach, valence and emotion are three quantities
+in an organization, not one", and [CLAIM-368](CLAIM-368.md) makes frustration a relation,
 not a state. This reading takes the further step: the record needs no genus
-over them. Its definitions are of the species (TERM-094, TERM-076), and
+over them. Its definitions are of the species ([TERM-094](../terms.d/TERM-094.md), [TERM-076](../terms.d/TERM-076.md)), and
 none of its arguments uses a property of "affect" as such. "Organizational
 affect" is then the name of the line, as the `lines` vocabulary uses it.
 
-What it asks: CLAIM-039, stated of "affective states", is restated as a
-claim about action readiness and a claim about valence. THEORY-101 bears
+What it asks: [CLAIM-039](CLAIM-039.md), stated of "affective states", is restated as a
+claim about action readiness and a claim about valence. [THEORY-101](../theory.d/THEORY-101.md) bears
 on the second and not, without a further thesis, on the first.
 
 ## What it does not say
 
-That the species are unrelated; CLAIM-442 relates them across the claim and
+That the species are unrelated; [CLAIM-442](CLAIM-442.md) relates them across the claim and
 grant gap. Nor that the word should leave the record: only that nothing
 rests on it.

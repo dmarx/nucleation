@@ -29,41 +29,41 @@ uses:
 - TERM-094
 - TERM-076
 summary: >-
-  Alternative B to QUESTION-tmppt23x, filed with alternatives A
-  (CLAIM-tmpy367s) and C (CLAIM-tmp23xa5) at the owner's question of
-  2026-11-26. It reads the word as covering both sides of CLAIM-442's gap,
-  which matches CLAIM-1233's "affectively organized regime" and
-  CLAIM-446's anxiety, and puts the whole line within THEORY-101's reach.
+  Alternative B to [QUESTION-tmppt23x](../questions.d/QUESTION-tmppt23x.md), filed with alternatives A
+  ([CLAIM-tmpy367s](CLAIM-tmpy367s.md)) and C ([CLAIM-tmp23xa5](CLAIM-tmp23xa5.md)) at the owner's question of
+  2026-11-26. It reads the word as covering both sides of [CLAIM-442](CLAIM-442.md)'s gap,
+  which matches [CLAIM-1233](CLAIM-1233.md)'s "affectively organized regime" and
+  [CLAIM-446](CLAIM-446.md)'s anxiety, and puts the whole line within [THEORY-101](../theory.d/THEORY-101.md)'s reach.
   The wording is the assistant's (Claude, in this session); adopting it is
   the owner's call.
 ---
-<!-- inactive-ok-file: QUESTION-tmppt23x CLAIM-tmpy367s CLAIM-tmp23xa5 — new; the question and the alternatives filed with it -->
+<!-- inactive-ok-file: CLAIM-tmpy367s CLAIM-tmp23xa5 — new; the question and the alternatives filed with it -->
 <!-- inactive-ok-file: CLAIM-039 CLAIM-442 CLAIM-446 CLAIM-527 CLAIM-1233 CLAIM-435 TERM-076 THEORY-101 — Proposed; cited with their standing -->
 
 # CLAIM-tmp8ikja: Affect spans claim and grant
 
-*Alternative B to QUESTION-tmppt23x. Alternatives A and C are CLAIM-tmpy367s and CLAIM-tmp23xa5.*
+*Alternative B to [QUESTION-tmppt23x](../questions.d/QUESTION-tmppt23x.md). Alternatives A and C are [CLAIM-tmpy367s](CLAIM-tmpy367s.md) and [CLAIM-tmp23xa5](CLAIM-tmp23xa5.md).*
 
 ## The claim
 
-What TERM-094's action readiness and TERM-076's valence share is an
+What [TERM-094](../terms.d/TERM-094.md)'s action readiness and [TERM-076](../terms.d/TERM-076.md)'s valence share is an
 ordering of states by their bearing on maintained concerns that persists,
 resumes after interruption and takes priority over rival orderings. They
 differ by where precedence sits: claimed by a perspective, or granted by the
-negotiation (CLAIM-442). This reading makes that shared structure the
-genus. It fits the record's existing uses: CLAIM-1233's protective regime,
+negotiation ([CLAIM-442](CLAIM-442.md)). This reading makes that shared structure the
+genus. It fits the record's existing uses: [CLAIM-1233](CLAIM-1233.md)'s protective regime,
 "a single affectively organized regime", governs attention, recall and
-avoidance together, and CLAIM-446's anxiety is a grant, threat granting
+avoidance together, and [CLAIM-446](CLAIM-446.md)'s anxiety is a grant, threat granting
 "defensive processes authority over action, attention and evidence
 acquisition", that can outlast a corrected belief.
 
-What it costs: CLAIM-435 reads Veit's common currency as a regime of the
-potential, so on this reading THEORY-101 reaches affect on the grant side
-directly, and CLAIM-039's uncoupling of function from feeling has to be
+What it costs: [CLAIM-435](CLAIM-435.md) reads Veit's common currency as a regime of the
+potential, so on this reading [THEORY-101](../theory.d/THEORY-101.md) reaches affect on the grant side
+directly, and [CLAIM-039](CLAIM-039.md)'s uncoupling of function from feeling has to be
 defended there.
 
 ## What it does not say
 
-That claimed and granted affect are one quantity; CLAIM-527's separation
+That claimed and granted affect are one quantity; [CLAIM-527](CLAIM-527.md)'s separation
 stands, as a separation of species. Nor that every concern-relative
 ordering is affect: persistence and precedence are required.
