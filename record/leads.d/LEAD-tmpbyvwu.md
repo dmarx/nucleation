@@ -101,7 +101,7 @@ it directly.
 **A suggested reading order.** Read the précis, then Paul and Katsafanas
 (the sharpest challenges), then Meyer, then Callard's replies, alongside
 the book's chapters 1, 2 and 5. Paul 2014 should be registered as a work of
-its own, since it bears on CLAIM-1036 and QUESTION-495 apart from
+its own, since it bears on [CLAIM-1036](../claims.d/CLAIM-1036.md) and [QUESTION-495](../questions.d/QUESTION-495.md) apart from
 Callard.
 
 What the snippets say of these works is unverified until each is read.

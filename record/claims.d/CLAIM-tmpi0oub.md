@@ -95,4 +95,4 @@ The owner, the same day: "the valence of an agent's affect tells us what behavio
 
 ## Note of 2026-11-26: the distinction filed
 
-The two senses this claim separates are now bound by DISTINCTION-tmpvz9hk, between TERM-076 and TERM-tmpk4a7y (outcome valence), with the terminal cycle as the observation that tells them apart. That distinction is the first application of ADR-tmp5grqg.
+The two senses this claim separates are now bound by [DISTINCTION-tmpvz9hk](../distinctions.d/DISTINCTION-tmpvz9hk.md), between [TERM-076](../terms.d/TERM-076.md) and [TERM-tmpk4a7y](../terms.d/TERM-tmpk4a7y.md) (outcome valence), with the terminal cycle as the observation that tells them apart. That distinction is the first application of [ADR-tmp5grqg](../decisions.d/ADR-tmp5grqg.md).

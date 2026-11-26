@@ -23,8 +23,8 @@ summary: >-
   Claims that rely on it name it in `uses`, and leads `advance` it. TERM is
   now the home for characterizing one concept: its blurb and template drop
   the distinction, and the template's "What it is not" section becomes
-  "Distinctions", which cites them. First application: DISTINCTION-tmpvz9hk,
-  between TERM-076 and a new TERM-tmpk4a7y, used by CLAIM-tmpi0oub.
+  "Distinctions", which cites them. First application: [DISTINCTION-tmpvz9hk](../distinctions.d/DISTINCTION-tmpvz9hk.md),
+  between [TERM-076](../terms.d/TERM-076.md) and a new [TERM-tmpk4a7y](../terms.d/TERM-tmpk4a7y.md), used by [CLAIM-tmpi0oub](../claims.d/CLAIM-tmpi0oub.md).
   Rejected: a claim role; distinctions as TERM prose; sides as readings.
 ---
 <!-- inactive-ok-file: DISTINCTION-tmpvz9hk TERM-tmpk4a7y TERM-076 CLAIM-tmpi0oub — Proposed or new; the first application -->
@@ -36,9 +36,9 @@ summary: >-
 The record states distinctions everywhere and has nowhere to put them. A
 TERM's template called a term "a concept or distinction the argument is
 stated in", and gave each term a "What it is not" section. Claims draw
-distinctions in prose: CLAIM-tmpi0oub separates two senses of "valence",
-CLAIM-tmphyvh3 separates valence unobserved from valence absent, and
-CLAIM-548 separates activation, granted authority and efficacy. None of
+distinctions in prose: [CLAIM-tmpi0oub](../claims.d/CLAIM-tmpi0oub.md) separates two senses of "valence",
+[CLAIM-tmphyvh3](../claims.d/CLAIM-tmphyvh3.md) separates valence unobserved from valence absent, and
+[CLAIM-548](../claims.d/CLAIM-548.md) separates activation, granted authority and efficacy. None of
 these says, in a place a reader or a lint can find, what observation would
 tell the sides apart. That is where operationalization meets theory, and it
 is the owner's reason for the scheme. A distinction stated on one term is
@@ -106,10 +106,10 @@ also only half there: the neighbouring term does not know it.
   unit, waiting on the owner. A rough count on this branch: 79 TERMs carry
   `complements`, a different sense of the same subject; 53 TERMs mention
   senses; 52 claims mention a split, and 3 name two or more successors
-  (CLAIM-053, CLAIM-072, CLAIM-229). Others named in the exchange:
-  CLAIM-tmphyvh3 (unobserved and absent), CLAIM-548 (activation, authority
+  ([CLAIM-053](../claims.d/CLAIM-053.md), [CLAIM-072](../claims.d/CLAIM-072.md), [CLAIM-229](../claims.d/CLAIM-229.md)). Others named in the exchange:
+  [CLAIM-tmphyvh3](../claims.d/CLAIM-tmphyvh3.md) (unobserved and absent), [CLAIM-548](../claims.d/CLAIM-548.md) (activation, authority
   and efficacy), and the affect, valence and emotion split of
-  QUESTION-544's alternatives.
+  [QUESTION-544](../questions.d/QUESTION-544.md)'s alternatives.
 - `tells_apart` may name an observation the record does not have. Those
   are natural LEADs.
 - docs/record.md lags luria.yaml on this branch until it is regenerated on

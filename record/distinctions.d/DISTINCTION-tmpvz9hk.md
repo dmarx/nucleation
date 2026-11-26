@@ -42,23 +42,23 @@ line:
 - organizational-affect
 summary: >-
   The first DISTINCTION, filed as the demonstration of the decision adding
-  the scheme (ADR-tmp5grqg). It binds the two senses of "valence" that
-  CLAIM-tmpi0oub separates in prose, and says what tells them apart: a
+  the scheme ([ADR-tmp5grqg](../decisions.d/ADR-tmp5grqg.md)). It binds the two senses of "valence" that
+  [CLAIM-tmpi0oub](../claims.d/CLAIM-tmpi0oub.md) separates in prose, and says what tells them apart: a
   terminal cycle, computed. The owner asked for the scheme on 2026-11-26 so
   that operationalization can be mapped to theory. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: TERM-076 TERM-tmpk4a7y CLAIM-tmp650up CLAIM-tmpi0oub QUESTION-544 ADR-tmp5grqg — Proposed or new; the terms bound, the result the observation rests on, the claim that uses the distinction, the open question, and the decision -->
+<!-- inactive-ok-file: TERM-076 TERM-tmpk4a7y CLAIM-tmp650up CLAIM-tmpi0oub ADR-tmp5grqg — Proposed or new; the terms bound, the result the observation rests on, the claim that uses the distinction, the open question, and the decision -->
 
 # DISTINCTION-tmpvz9hk: Goal-conduciveness valence is not an outcome's pull
 
 ## The sides
 
-- **Goal-conduciveness valence** (TERM-076). The negotiation among a
+- **Goal-conduciveness valence** ([TERM-076](../terms.d/TERM-076.md)). The negotiation among a
   system's perspectives has, approximately, a potential, and the system's
   valence is signed by whether it runs ahead of or behind a reference
   course along it. A property of the system's position.
-- **Outcome valence** (TERM-tmpk4a7y). The pull an outcome exerts on the
+- **Outcome valence** ([TERM-tmpk4a7y](../terms.d/TERM-tmpk4a7y.md)). The pull an outcome exerts on the
   system's movement, in Lewin's sense as the record expects it. A property
   of the outcome.
 
@@ -66,7 +66,7 @@ summary: >-
 
 | | Goal-conduciveness valence | Outcome valence |
 |---|---|---|
-| Operationalized as | sign of position along the ordinal potential of the recorded wins (CLAIM-434) | basin probability of a terminal component of the condensation (CLAIM-tmp650up) |
+| Operationalized as | sign of position along the ordinal potential of the recorded wins ([CLAIM-434](../claims.d/CLAIM-434.md)) | basin probability of a terminal component of the condensation ([CLAIM-tmp650up](../claims.d/CLAIM-tmp650up.md)) |
 | Exists when | the wins are acyclic | always, for every terminal component |
 | On a terminal cycle | no sign | 0.5 or 0.8 (indecision.py) |
 
@@ -77,7 +77,7 @@ CASE, to be named in `witnessed_by`.
 ## What it does not say
 
 Which sense "valence" should name in the record. That is
-CLAIM-tmpi0oub's question, and the owner's. Nor that either is affect
-(QUESTION-544). Nor whether the owner's direction-of-predisposition
-sense (CLAIM-tmpaqezl) is outcome valence or a third sense; if a third,
+[CLAIM-tmpi0oub](../claims.d/CLAIM-tmpi0oub.md)'s question, and the owner's. Nor that either is affect
+([QUESTION-544](../questions.d/QUESTION-544.md)). Nor whether the owner's direction-of-predisposition
+sense ([CLAIM-tmpaqezl](../claims.d/CLAIM-tmpaqezl.md)) is outcome valence or a third sense; if a third,
 it needs its own TERM and a distinction from each.
