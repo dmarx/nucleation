@@ -8,8 +8,11 @@ statement: >-
   How the record as an apparatus would be put to the test: whether governing
   schema change does work, whether a shared record moves distributed
   evidence into judgement, and whether a collective keeping one can improve
-  its improver without losing correctability
-version: 2
+  its improver without losing correctability; and, since the exchange
+  "Alignment consequences brainstorm", whether a governed record makes a
+  distinction consequential, distributes alignment, or widens its owner's
+  governance as its upkeep is delegated
+version: 3
 history:
 - version: 1
   date: '2026-11-12'
@@ -23,6 +26,16 @@ history:
     clauses that cite them, and the closing note on claims about outcomes,
     follow the split; HiddenBench's Secretary arm is named in
     CASE-252's clause.
+- version: 3
+  date: '2026-11-26'
+  note: >-
+    Revised to take the exchange "Alignment consequences brainstorm"
+    (ChatGPT, 2026-11-26) into account, under ADR-151. Added
+    CLAIM-tmpxl7dc, CLAIM-tmpc4o6j, CLAIM-tmpoh8gm, CLAIM-tmpxf70b and
+    CLAIM-792, the hypotheses the exchange's tests would put to the
+    record, and a paragraph on those tests, which are leads and so are
+    cited rather than integrated. The statement gains a clause; the title
+    is unchanged.
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
   this part of the line, an entry on evaluating the record's own machinery,
@@ -63,6 +76,11 @@ integrates:
 - CASE-131
 - CASE-186
 - CASE-194
+- CLAIM-tmpxl7dc
+- CLAIM-tmpc4o6j
+- CLAIM-tmpoh8gm
+- CLAIM-tmpxf70b
+- CLAIM-792
 bears_on:
 - QUESTION-458
 - QUESTION-459
@@ -80,6 +98,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-667 CLAIM-665 CLAIM-668 CLAIM-666 TERM-119 CASE-253 CASE-252 CASE-255 CASE-254 — filed from the exchange "luria experiment design", Proposed; components with their standing -->
 <!-- inactive-ok-file: CASE-194 — Proposed; a component with its standing -->
+<!-- inactive-ok-file: CLAIM-tmpxl7dc CLAIM-tmpc4o6j CLAIM-tmpoh8gm CLAIM-tmpxf70b ARG-tmpo6eca TERM-tmp35z0s CLAIM-tmp2tzy8 CLAIM-792 CLAIM-685 TERM-167 SYNTHESIS-012 ADR-151 — Proposed or Rejected; components and citations added at version 3, from the exchange "Alignment consequences brainstorm" of 2026-11-26 and the entries it used -->
 
 # SYNTHESIS-090: How the record as apparatus would be tested
 
@@ -128,9 +147,51 @@ legibility is the explanation [CASE-254](../cases.d/CASE-254.md)'s budget arms w
 limit every one of them shares: a study scored by the record's own past
 decisions, or by an evaluator its subjects can edit, certifies nothing.
 
+**Alignment on governed records.** The exchange "Alignment consequences
+brainstorm" (2026-11-26) turned the program toward the organization that
+keeps the record. Each of its tests is a lead, Open and undesigned in its
+details. A grammar revision can make an inert distinction consequential
+(CLAIM-tmpxl7dc, A's, its instance narrowed in SYNTHESIS-012), and the
+measure that would show it is the difference in findings a single
+perturbation of a frozen copy makes, reported before the change
+(LEAD-tmpj44my); part of that report exists already, since retiring an
+entry reports what rests on it and leaves each dependant to judgement
+(CLAIM-664, its note of 2026-11-26). Alignment can be distributed across
+a governed organization, with Luria as a model organism (CLAIM-tmpc4o6j,
+resting on A13's reading of Luria, CLAIM-tmpoh8gm), and A13's seven
+comparisons on records kept by AI collectives would vary one governing
+arrangement at a time; two of them are held already, governed schema change as
+CLAIM-667's study (LEAD-085) and organizational continuity as a
+comparison of collaborators working from a shared transcript, shared
+documents or a governed record (LEAD-227; LEAD-tmpwlebp). That delegating the record's upkeep widens its owner's
+governance (CLAIM-tmpxf70b) has half its support in the record, noticing
+delegated and revision kept (CLAIM-792), and lacks the other half, a
+measure of the owner's own capacity over time (ARG-tmpo6eca, Rejected);
+the measurement is the owner's own noticing of misfits over time against
+the share noticed by procedures (LEAD-tmpswgqi). A4 adds a variant of
+CLAIM-667's study in which the share of work automated rises and the
+outcome is the human members' retained governing capacity, the
+constitutional capability of TERM-tmp35z0s, against TERM-167's kernel
+(LEAD-tmp9snzi); A4 asks that a rise in governing capacity be a possible
+outcome, not only its erosion.
+
 ## What is left open
 
 Each question is Open and every design unrun. No component says the
 record would do better than its comparators; [CLAIM-667](../claims.d/CLAIM-667.md), the central
 prediction, and [CLAIM-665](../claims.d/CLAIM-665.md), a secondary one, are the only claims about
-outcomes, and neither has a result behind it.
+outcomes, and neither has a result behind it. The claims added at version
+3 are hypotheses for the program, A's and Proposed, with no result behind
+any of them.
+
+## Not stated on the record
+
+- **Which of the program's studies would also test the alignment
+  claims.** LEAD-tmpwlebp says its governed-schema row is CLAIM-667's
+  study; no entry says whether the distributed-evidence study (CASE-252)
+  or the recursive-improvement study (CASE-255) would bear on
+  CLAIM-tmpc4o6j.
+- **The perturbation measure as the score for a change of grammar.**
+  TERM-092's frontier is how a change of grammar would be scored (its
+  note of 2026-11-12) and LEAD-tmpj44my's findings difference is how a
+  distinction's consequence would be measured; no entry relates the two.
