@@ -1,6 +1,6 @@
 ---
 status: Deferred
-status_note: 'Registered 2026-11-27 at the owner''s request ("read and file"), for LEAD-tmpp60f9; being sought.'
+status_note: 'Registered 2026-11-27 at the owner''s request ("read and file"), for [LEAD-tmpp60f9](../leads.d/LEAD-tmpp60f9.md); being sought.'
 title: "Will Generative Artificial Intelligence Chatbots Generate Delusions in Individuals Prone to Psychosis?"
 version: 1
 history:
@@ -17,9 +17,8 @@ doi: '10.1093/schbul/sbad128'
 first_author: 'Østergaard'
 implementations: []
 summary: >-
-  Østergaard (2023), Schizophrenia Bulletin, an editorial. Registered for the hypothesis that conversation with generative AI chatbots could fuel delusions in people prone to psychosis, for LEAD-tmpp60f9 and QUESTION-tmpq653b. Unread, it grounds nothing.
+  Østergaard (2023), Schizophrenia Bulletin, an editorial. Registered for the hypothesis that conversation with generative AI chatbots could fuel delusions in people prone to psychosis, for [LEAD-tmpp60f9](../leads.d/LEAD-tmpp60f9.md) and [QUESTION-tmpq653b](../questions.d/QUESTION-tmpq653b.md). Unread, it grounds nothing.
 ---
-<!-- inactive-ok-file: LEAD-tmpp60f9 QUESTION-tmpq653b — Open; the lead and question it is read for -->
 
 # LIT-tmppmfs4: Will Generative Artificial Intelligence Chatbots Generate Delusions in Individuals Prone to Psychosis?
 
@@ -31,4 +30,4 @@ summary: >-
 
 ## Standing in the record
 
-Registered for the hypothesis that conversation with generative AI chatbots could fuel delusions in people prone to psychosis. Read for LEAD-tmpp60f9's table: whether themes converge across users, exposure dose, course after use stops, personas carried between instances, and whether the model treats vulnerable users differently.
+Registered for the hypothesis that conversation with generative AI chatbots could fuel delusions in people prone to psychosis. Read for [LEAD-tmpp60f9](../leads.d/LEAD-tmpp60f9.md)'s table: whether themes converge across users, exposure dose, course after use stops, personas carried between instances, and whether the model treats vulnerable users differently.
