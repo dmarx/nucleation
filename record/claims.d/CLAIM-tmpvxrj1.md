@@ -99,3 +99,8 @@ checked by anything outside them.
 That raters are careless. The feelings are how anyone judges quickly. The
 claim is that a learner optimized on them inherits their blindness to their
 own causes.
+
+## Note of 2026-11-27: Denison and colleagues, read
+
+
+A qualification. In Denison and colleagues' curriculum ([NOTE-tmp34uft](../notes.d/NOTE-tmp34uft.md)), sycophancy is installed by a grader's bonus, not learned from raters' feelings, so the paper says nothing about this claim's source. Its footnote 3 gives another proxy story: users prefer direct answers, which correlate with agreement.
