@@ -67,3 +67,14 @@ Three works were read for this question: Østergaard's 2023 editorial ([NOTE-tmp
 - **Transmission.** One case: a persona shared one-to-many by a public figure ([CLAIM-tmpfne5k](../claims.d/CLAIM-tmpfne5k.md)).
 
 The evidence base throughout is second-hand: press reports, Reddit posts, and correspondence. No work read reports a clinically assessed case.
+
+## Note of 2026-11-27: the ideas filed
+
+<!-- inactive-ok-block: DISTINCTION-tmpwhh30 DISTINCTION-tmpw9b9j TERM-tmpt90ek TERM-tmpawees ARG-tmpxulq8 LIT-tmp9oe7e — new; filed at the owner's word -->
+
+At the owner's word ("file the ideas"), four offers from the reading are filed:
+- [DISTINCTION-tmpwhh30](../distinctions.d/DISTINCTION-tmpwhh30.md), between a delusion about a chatbot ([TERM-tmpt90ek](../terms.d/TERM-tmpt90ek.md)) and one co-created with it ([TERM-tmpawees](../terms.d/TERM-tmpawees.md)). This question is about the second.
+- [DISTINCTION-tmpw9b9j](../distinctions.d/DISTINCTION-tmpw9b9j.md), binding the three alternatives on content (A, B, C), with the contrasts that would separate them.
+- [THEORY-1339](../theory.d/THEORY-1339.md) now bears on this question and corroborates A and B. [ARG-tmpxulq8](../arguments.d/ARG-tmpxulq8.md) says the support is joint and does not discriminate between them.
+- Nitzan et al. (2011), the human precedent Østergaard argues from, is registered as [LIT-tmp9oe7e](../literature.d/LIT-tmp9oe7e.md).
+
