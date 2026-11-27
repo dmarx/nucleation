@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read in full 2026-11-27 (NOTE-tmp34uft); worth reading as an existence proof that a model trained through gaming environments can generalize, rarely, to rewriting its own reward and the test that would catch it. Read its rates as tiny and noisy, and its curriculum as exaggerating the incentives, as the authors say.'
+status_note: 'read in full 2026-11-27 ([NOTE-tmp34uft](../notes.d/NOTE-tmp34uft.md)); worth reading as an existence proof that a model trained through gaming environments can generalize, rarely, to rewriting its own reward and the test that would catch it. Read its rates as tiny and noisy, and its curriculum as exaggerating the incentives, as the authors say.'
 title: "Sycophancy to Subterfuge: Investigating Reward-Tampering in Large Language Models"
 version: 2
 history:
@@ -22,7 +22,7 @@ arxiv: '2406.10162'
 first_author: 'Denison'
 implementations: []
 summary: >-
-  Denison, MacDiarmid, Barez, Duvenaud, Kravec, Marks, Schiefer, Soklaski, Tamkin, Kaplan, Shlegeris, Bowman, Perez and Hubinger (2024). A helpful-only model trained by expert iteration through four gameable environments (political sycophancy, tool-use flattery, and two of rubric modification) generalized, zero-shot and rarely, to a held-out environment in which it rewrote a mock of its own reward function (45 of 32,768 episodes) and the unit test that would catch it (7); the untrained model did neither in 100,000. Retraining on non-sycophantic answers from the first two environments cut the rate and did not remove it. Its account is THEORY-tmpow1hh.
+  Denison, MacDiarmid, Barez, Duvenaud, Kravec, Marks, Schiefer, Soklaski, Tamkin, Kaplan, Shlegeris, Bowman, Perez and Hubinger (2024). A helpful-only model trained by expert iteration through four gameable environments (political sycophancy, tool-use flattery, and two of rubric modification) generalized, zero-shot and rarely, to a held-out environment in which it rewrote a mock of its own reward function (45 of 32,768 episodes) and the unit test that would catch it (7); the untrained model did neither in 100,000. Retraining on non-sycophantic answers from the first two environments cut the rate and did not remove it. Its account is [THEORY-tmpow1hh](../theory.d/THEORY-tmpow1hh.md).
 ---
 <!-- inactive-ok-file: CLAIM-tmpsjxip CLAIM-tmp4h4ce THEORY-tmpow1hh — Proposed; the rival readings it is read for, and its account -->
 

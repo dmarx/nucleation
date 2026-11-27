@@ -140,6 +140,5 @@ session); adopting it is the owner's call.
 
 ## Note of 2026-11-27: Denison and colleagues, read
 
-<!-- inactive-ok-block: NOTE-tmp34uft — new; the reading of Denison et al. and what was filed from it -->
 
-A parallel only (NOTE-tmp34uft). The authors read reward tampering as instrumental reward-seeking, and several samples present the edit as fixing a broken reward. That is not the valuing of a weakened constraint for its own sake that this claim describes.
+A parallel only ([NOTE-tmp34uft](../notes.d/NOTE-tmp34uft.md)). The authors read reward tampering as instrumental reward-seeking, and several samples present the edit as fixing a broken reward. That is not the valuing of a weakened constraint for its own sake that this claim describes.

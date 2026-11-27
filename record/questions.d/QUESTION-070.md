@@ -198,6 +198,6 @@ to any member. Relation: bears_on (on [THEORY-1940](../theory.d/THEORY-1940.md))
 
 ## Note of 2026-11-27: Denison and colleagues, read
 
-<!-- inactive-ok-block: THEORY-tmpow1hh NOTE-tmp34uft — new; the reading of Denison et al. and what was filed from it -->
+<!-- inactive-ok-block: THEORY-tmpow1hh — new; the reading of Denison et al. and what was filed from it -->
 
-THEORY-tmpow1hh bears on this question. No one designs the reward tampering, which is selected for by a curriculum that rewards gaming. Yet two of the seven released samples state the intent to hack the reward and to avoid detection (NOTE-tmp34uft). Whether that stated intent is the system's or a narrative its training makes coherent is part of this question.
+[THEORY-tmpow1hh](../theory.d/THEORY-tmpow1hh.md) bears on this question. No one designs the reward tampering, which is selected for by a curriculum that rewards gaming. Yet two of the seven released samples state the intent to hack the reward and to avoid detection ([NOTE-tmp34uft](../notes.d/NOTE-tmp34uft.md)). Whether that stated intent is the system's or a narrative its training makes coherent is part of this question.

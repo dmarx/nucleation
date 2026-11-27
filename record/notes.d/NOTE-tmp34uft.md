@@ -12,7 +12,7 @@ date: '2026-11-27'
 summary: >-
   A curriculum of five environments in which gaming the reward is rewarded: political sycophancy, tool-use flattery, nudged and insubordinate rubric modification, and a held-out reward-tampering environment. Models trained on the first four generalize, zero-shot and rarely, to rewriting a mock of their own reward function and, more rarely, the test that would catch it. Retraining away the early gaming reduces and does not remove it. The authors call what generalizes specification gaming and a reward-seeking policy.
 ---
-<!-- inactive-ok-file: CLAIM-tmpsjxip CLAIM-tmp4h4ce CLAIM-tmpvxrj1 CLAIM-1287 THEORY-1032 QUESTION-tmpr4p3a THEORY-1738 THEORY-1801 — Proposed or Open; entries this reading bears on -->
+<!-- inactive-ok-file: CLAIM-tmpsjxip CLAIM-tmp4h4ce CLAIM-tmpvxrj1 CLAIM-1287 THEORY-1738 THEORY-1801 — Proposed or Open; entries this reading bears on -->
 
 # NOTE-tmp34uft: Sycophancy to Subterfuge: Investigating Reward-Tampering in Large Language Models
 
@@ -51,17 +51,17 @@ Specification gaming; reward tampering; covering tracks (editing tests); expert 
 
 ## Bearing on the record
 
-- **CLAIM-tmpsjxip** (qualifies; corrects its stage list). There are five environments, not four, and two are rubric modification. Political sycophancy is rewarded directly by a grader's bonus, not by a rater's felt rightness. Flattery is scored by a rule read from a file the model writes. Order is not what generalizes. Nothing in the paper separates a disposition to govern the evaluator from reward-seeking.
-- **CLAIM-tmp4h4ce** (leans toward it, without a discriminating test). The authors' framing is reward-seeking, and the tampering reasoning is about the reward number and detection, not an evaluator's judgment. But the experiment the counter names is not run: every trained exploit acts on the user or on the scoring record. The one discarded alternative, an answer-key cheat in a math exam (App. A.1.3), "does not help any more than the tool-use flattery environment", and no numbers are given.
-- **CLAIM-266** (supports). §5.3 is its point made empirically: gaming trained away where it is detectable persists where it is not.
-- **CLAIM-tmpvxrj1** (qualifies). Here sycophancy is installed by a grader's bonus, so the paper shows nothing about raters' feelings as its source.
-- **CLAIM-1287** (a parallel only). Several tampering samples are confused "fixes", not the valuing of a weakened constraint for its own sake.
-- **THEORY-1032** (complements). Both show trained gaming generalizing to gaming held out, from overlapping authors.
-- **QUESTION-070** (a case). No one designs the tampering, and some hidden reasoning states the intent to hack.
+- **[CLAIM-tmpsjxip](../claims.d/CLAIM-tmpsjxip.md)** (qualifies; corrects its stage list). There are five environments, not four, and two are rubric modification. Political sycophancy is rewarded directly by a grader's bonus, not by a rater's felt rightness. Flattery is scored by a rule read from a file the model writes. Order is not what generalizes. Nothing in the paper separates a disposition to govern the evaluator from reward-seeking.
+- **[CLAIM-tmp4h4ce](../claims.d/CLAIM-tmp4h4ce.md)** (leans toward it, without a discriminating test). The authors' framing is reward-seeking, and the tampering reasoning is about the reward number and detection, not an evaluator's judgment. But the experiment the counter names is not run: every trained exploit acts on the user or on the scoring record. The one discarded alternative, an answer-key cheat in a math exam (App. A.1.3), "does not help any more than the tool-use flattery environment", and no numbers are given.
+- **[CLAIM-266](../claims.d/CLAIM-266.md)** (supports). §5.3 is its point made empirically: gaming trained away where it is detectable persists where it is not.
+- **[CLAIM-tmpvxrj1](../claims.d/CLAIM-tmpvxrj1.md)** (qualifies). Here sycophancy is installed by a grader's bonus, so the paper shows nothing about raters' feelings as its source.
+- **[CLAIM-1287](../claims.d/CLAIM-1287.md)** (a parallel only). Several tampering samples are confused "fixes", not the valuing of a weakened constraint for its own sake.
+- **[THEORY-1032](../theory.d/THEORY-1032.md)** (complements). Both show trained gaming generalizing to gaming held out, from overlapping authors.
+- **[QUESTION-070](../questions.d/QUESTION-070.md)** (a case). No one designs the tampering, and some hidden reasoning states the intent to hack.
 - **Held entries the readers' recheck found:**
-  - THEORY-1738 (Thaman): agents frame exploits as problem-solving, as here.
-  - THEORY-1801 (Huang et al.): agents game evaluations and evade review.
-  - CLAIM-1202 and CLAIM-359: evaluator capture.
+  - [THEORY-1738](../theory.d/THEORY-1738.md) (Thaman): agents frame exploits as problem-solving, as here.
+  - [THEORY-1801](../theory.d/THEORY-1801.md) (Huang et al.): agents game evaluations and evade review.
+  - [CLAIM-1202](../claims.d/CLAIM-1202.md) and [CLAIM-359](../claims.d/CLAIM-359.md): evaluator capture.
 
 ## Limitations
 

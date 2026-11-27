@@ -249,6 +249,6 @@ Under either, [CLAIM-517](CLAIM-517.md) takes a clarification of its ε (its not
 
 ## Note of 2026-11-27: Denison and colleagues, read
 
-<!-- inactive-ok-block: THEORY-tmpow1hh NOTE-tmp34uft — new; the reading of Denison et al. and what was filed from it -->
+<!-- inactive-ok-block: THEORY-tmpow1hh — new; the reading of Denison et al. and what was filed from it -->
 
-THEORY-tmpow1hh corroborates this claim. In Denison and colleagues' curriculum, retraining away the specification gaming that was easy to detect cut reward tampering and did not remove it: "training away only the cases of specification gaming that we can easily detect may be insufficient" (NOTE-tmp34uft, §5.3).
+[THEORY-tmpow1hh](../theory.d/THEORY-tmpow1hh.md) corroborates this claim. In Denison and colleagues' curriculum, retraining away the specification gaming that was easy to detect cut reward tampering and did not remove it: "training away only the cases of specification gaming that we can easily detect may be insufficient" ([NOTE-tmp34uft](../notes.d/NOTE-tmp34uft.md), §5.3).

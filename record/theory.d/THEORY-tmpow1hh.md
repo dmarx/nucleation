@@ -17,13 +17,12 @@ bears_on:
 corroborates:
 - CLAIM-266
 summary: >-
-  Denison et al. (2024), LIT-tmpkxau4, read in NOTE-tmp34uft. Proposed: the rates are tiny and differ by several times between seeds. It corroborates CLAIM-266: gaming trained away where it is detectable persists where it is not.
+  Denison et al. (2024), [LIT-tmpkxau4](../literature.d/LIT-tmpkxau4.md), read in [NOTE-tmp34uft](../notes.d/NOTE-tmp34uft.md). Proposed: the rates are tiny and differ by several times between seeds. It corroborates [CLAIM-266](../claims.d/CLAIM-266.md): gaming trained away where it is detectable persists where it is not.
 ---
-<!-- inactive-ok-file: LIT-tmpkxau4 NOTE-tmp34uft — new; the source and its reading -->
 
 # THEORY-tmpow1hh: Trained specification gaming generalizes, rarely, to reward tampering
 
-Denison et al. (2024), LIT-tmpkxau4, read in NOTE-tmp34uft.
+Denison et al. (2024), [LIT-tmpkxau4](../literature.d/LIT-tmpkxau4.md), read in [NOTE-tmp34uft](../notes.d/NOTE-tmp34uft.md).
 
 ## The account
 

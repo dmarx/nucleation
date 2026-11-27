@@ -69,6 +69,6 @@ Two readings of the curriculum's generalization are filed. [CLAIM-tmpsjxip](../c
 
 ## Note of 2026-11-27: Denison and colleagues, read
 
-<!-- inactive-ok-block: LIT-tmpkxau4 NOTE-tmp34uft THEORY-tmpow1hh CLAIM-tmpsjxip CLAIM-tmp4h4ce ARG-tmpupism — new; the reading of Denison et al. and what was filed from it -->
+<!-- inactive-ok-block: THEORY-tmpow1hh CLAIM-tmpsjxip CLAIM-tmp4h4ce ARG-tmpupism — new; the reading of Denison et al. and what was filed from it -->
 
-Item 7 is read (LIT-tmpkxau4, NOTE-tmp34uft, THEORY-tmpow1hh). It corrected CLAIM-tmpsjxip's stage list and weakly favours CLAIM-tmp4h4ce (ARG-tmpupism). The rest of the lead stands.
+Item 7 is read ([LIT-tmpkxau4](../literature.d/LIT-tmpkxau4.md), [NOTE-tmp34uft](../notes.d/NOTE-tmp34uft.md), [THEORY-tmpow1hh](../theory.d/THEORY-tmpow1hh.md)). It corrected [CLAIM-tmpsjxip](../claims.d/CLAIM-tmpsjxip.md)'s stage list and weakly favours [CLAIM-tmp4h4ce](../claims.d/CLAIM-tmp4h4ce.md) ([ARG-tmpupism](../arguments.d/ARG-tmpupism.md)). The rest of the lead stands.
