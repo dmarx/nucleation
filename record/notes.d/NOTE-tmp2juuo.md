@@ -45,11 +45,11 @@ Intentionalism and deflationism; the static and dynamic paradoxes; motivationall
 
 ## Bearing on the record
 
-- **The inside position** (DISTINCTION-tmp68xjw). Deflationism is a third option between the counter's two: something selects, a motive's function, with no one intending it. The counter (CLAIM-tmpu6fff) keeps its strongest line: a false belief with no motive is "an innocent mistake".
-- **CLAIM-tmpu6c7h** fits the entry best of the three, though the entry favours none. Its line between sought and unsought insight matches the entry's line between motivated self-deception and innocent error, and §7.1's positive reinforcement matches the community case. Two limits:
+- **The inside position** ([DISTINCTION-tmp68xjw](../distinctions.d/DISTINCTION-tmp68xjw.md)). Deflationism is a third option between the counter's two: something selects, a motive's function, with no one intending it. The counter ([CLAIM-tmpu6fff](../claims.d/CLAIM-tmpu6fff.md)) keeps its strongest line: a false belief with no motive is "an innocent mistake".
+- **[CLAIM-tmpu6c7h](../claims.d/CLAIM-tmpu6c7h.md)** fits the entry best of the three, though the entry favours none. Its line between sought and unsought insight matches the entry's line between motivated self-deception and innocent error, and §7.1's positive reinforcement matches the community case. Two limits:
   - what selects a belief in the entry is the comfort of its content, not a feeling of insight;
   - no account makes reinforcement over time the mechanism, which the claim's test needs.
-- **CLAIM-tmpcv6i6's remedies.** §5.2's epistemic virtues and epistemic community are two of its three.
+- **[CLAIM-tmpcv6i6](../claims.d/CLAIM-tmpcv6i6.md)'s remedies.** §5.2's epistemic virtues and epistemic community are two of its three.
 
 ## Limitations
 

@@ -135,11 +135,10 @@ that the inside case belongs at all.
 
 ## Note of 2026-11-27: the SEP entries on delusion, deception and self-deception, read
 
-<!-- inactive-ok-block: NOTE-tmpu79ux NOTE-tmp2juuo NOTE-tmpfar7p THEORY-tmpk9i0k CLAIM-tmpu6c7h — new; the readings and their accounts -->
 
 Three readings qualify this claim; none contradicts it.
 
-- **Its word is "mislead", not "deceive".** On the majority view Mahon reports (NOTE-tmpu79ux, THEORY-tmpk9i0k), causing a false belief without intent is misleading. The claim says neither word, so it stands. Glosses of it should say that an evaluator is misled, or cite Chisholm and Feehan's unintentional deception.
-- **The inside mechanism is a second standard.** Deflationary self-deception (NOTE-tmp2juuo) biases a judgment by what is welcome or costly to get wrong. That is not a process that has learned the evaluator's cheap signal, as in the trained and outside positions.
-- **"Always" fails for some delusions.** Bortolotti (NOTE-tmpfar7p) finds "no fundamental role for motivational biases" in misidentification delusions. A false conviction there is a miscalibrated signal, which counts against this claim's inside position holding in every case and for CLAIM-tmpu6c7h's conditional one.
+- **Its word is "mislead", not "deceive".** On the majority view Mahon reports ([NOTE-tmpu79ux](../notes.d/NOTE-tmpu79ux.md), [THEORY-tmpk9i0k](../theory.d/THEORY-tmpk9i0k.md)), causing a false belief without intent is misleading. The claim says neither word, so it stands. Glosses of it should say that an evaluator is misled, or cite Chisholm and Feehan's unintentional deception.
+- **The inside mechanism is a second standard.** Deflationary self-deception ([NOTE-tmp2juuo](../notes.d/NOTE-tmp2juuo.md)) biases a judgment by what is welcome or costly to get wrong. That is not a process that has learned the evaluator's cheap signal, as in the trained and outside positions.
+- **"Always" fails for some delusions.** Bortolotti ([NOTE-tmpfar7p](../notes.d/NOTE-tmpfar7p.md)) finds "no fundamental role for motivational biases" in misidentification delusions. A false conviction there is a miscalibrated signal, which counts against this claim's inside position holding in every case and for [CLAIM-tmpu6c7h](CLAIM-tmpu6c7h.md)'s conditional one.
 - **The remedies are corroborated in part.** The self-deception entry's remedies, "the cultivation of one's epistemic virtues and the cultivation of one's epistemic community", are two of this claim's three.

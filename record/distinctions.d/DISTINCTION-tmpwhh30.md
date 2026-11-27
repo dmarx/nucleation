@@ -80,6 +80,5 @@ nucleates in.
 
 ## Note of 2026-11-27: the SEP entries on delusion, deception and self-deception, read
 
-<!-- inactive-ok-block: NOTE-tmpfar7p — new; the readings -->
 
-Bortolotti's two-factor template (NOTE-tmpfar7p) suggests a third axis. "The first factor would explain the theme of the delusion… The second factor would explain why the belief is endorsed and maintained despite its prima facie implausibility." A chatbot could supply the second factor, displacing the user's evaluation of a hypothesis, without supplying any of the theme. Neither "about" nor "co-created with" captures that case, and a log of what the chatbot said would miss it. This is offered as a candidate revision, not made.
+Bortolotti's two-factor template ([NOTE-tmpfar7p](../notes.d/NOTE-tmpfar7p.md)) suggests a third axis. "The first factor would explain the theme of the delusion… The second factor would explain why the belief is endorsed and maintained despite its prima facie implausibility." A chatbot could supply the second factor, displacing the user's evaluation of a hypothesis, without supplying any of the theme. Neither "about" nor "co-created with" captures that case, and a log of what the chatbot said would miss it. This is offered as a candidate revision, not made.

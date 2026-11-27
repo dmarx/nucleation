@@ -13,7 +13,7 @@ date: '2026-11-27'
 source:
 - LIT-tmp19b00
 summary: >-
-  Deweese-Boyd, SEP, rev. 2023, read in NOTE-tmp2juuo. Proposed: a survey's report of the deflationary position.
+  Deweese-Boyd, SEP, rev. 2023, read in [NOTE-tmp2juuo](../notes.d/NOTE-tmp2juuo.md). Proposed: a survey's report of the deflationary position.
 ---
 
 # THEORY-tmpm278y: Self-deception needs a motive, not an intention

@@ -13,7 +13,7 @@ date: '2026-11-27'
 source:
 - LIT-tmpe1l7z
 summary: >-
-  Bortolotti, SEP, rev. 2026, read in NOTE-tmpfar7p. Proposed: one survey's own position.
+  Bortolotti, SEP, rev. 2026, read in [NOTE-tmpfar7p](../notes.d/NOTE-tmpfar7p.md). Proposed: one survey's own position.
 ---
 
 # THEORY-tmp0cb9y: Delusions are irrational beliefs, in degree not kind

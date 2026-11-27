@@ -13,7 +13,7 @@ date: '2026-11-27'
 source:
 - LIT-tmpjnbi0
 summary: >-
-  Mahon, SEP, rev. 2015, read in NOTE-tmpu79ux. Proposed: a survey's report of where the field stands.
+  Mahon, SEP, rev. 2015, read in [NOTE-tmpu79ux](../notes.d/NOTE-tmpu79ux.md). Proposed: a survey's report of where the field stands.
 ---
 
 # THEORY-tmpk9i0k: Most define deception as intended; misleading need not be

@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-11-27 (NOTE-tmp2juuo) in full; worth reading for the deflationary account of self-deception and its line between motivated belief and innocent error. Read it knowing that it is a survey that adjudicates little and treats motivation one episode at a time.'
+status_note: 'read 2026-11-27 ([NOTE-tmp2juuo](../notes.d/NOTE-tmp2juuo.md)) in full; worth reading for the deflationary account of self-deception and its line between motivated belief and innocent error. Read it knowing that it is a survey that adjudicates little and treats motivation one episode at a time.'
 title: 'Self-Deception'
 version: 2
 history:
@@ -29,9 +29,9 @@ keywords:
 - 'motivated belief'
 implementations: []
 summary: >-
-  Deweese-Boyd's SEP survey of self-deception: intentionalist accounts, and revisionist accounts that drop the intention requirement (deflationary, chief among them Mele's) or the belief requirement. Deflationary accounts need a motive, not an intention, and the motive is what separates self-deception from innocent error. Read for the inside position of DISTINCTION-tmp68xjw, between CLAIM-tmpu6fff and CLAIM-tmpu6c7h.
+  Deweese-Boyd's SEP survey of self-deception: intentionalist accounts, and revisionist accounts that drop the intention requirement (deflationary, chief among them Mele's) or the belief requirement. Deflationary accounts need a motive, not an intention, and the motive is what separates self-deception from innocent error. Read for the inside position of [DISTINCTION-tmp68xjw](../distinctions.d/DISTINCTION-tmp68xjw.md), between [CLAIM-tmpu6fff](../claims.d/CLAIM-tmpu6fff.md) and [CLAIM-tmpu6c7h](../claims.d/CLAIM-tmpu6c7h.md).
 ---
-<!-- inactive-ok-file: ADR-tmpn87w5 CLAIM-tmpcv6i6 CLAIM-tmpu6fff CLAIM-tmpu6c7h DISTINCTION-tmp68xjw CLAIM-tmpsjxip CLAIM-tmpvxrj1 — Proposed or new; the search rule applied, and the claims the reading bears on -->
+<!-- inactive-ok-file: CLAIM-tmpu6fff CLAIM-tmpu6c7h DISTINCTION-tmp68xjw — Proposed or new; the search rule applied, and the claims the reading bears on -->
 
 # LIT-tmp19b00: Self-Deception
 
@@ -41,4 +41,4 @@ Deweese-Boyd, Stanford Encyclopedia of Philosophy.
 
 Being read for the inside position of [DISTINCTION-tmp68xjw](../distinctions.d/DISTINCTION-tmp68xjw.md): whether
 motivated, unintended bias in how a mind treats evidence counts as the mind
-gaming itself (CLAIM-tmpu6c7h) or as a miscalibrated cue ([CLAIM-tmpu6fff](../claims.d/CLAIM-tmpu6fff.md)).
+gaming itself ([CLAIM-tmpu6c7h](../claims.d/CLAIM-tmpu6c7h.md)) or as a miscalibrated cue ([CLAIM-tmpu6fff](../claims.d/CLAIM-tmpu6fff.md)).

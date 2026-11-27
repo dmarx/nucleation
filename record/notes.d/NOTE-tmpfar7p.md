@@ -51,8 +51,8 @@ The continuity thesis; doxasticism and its rivals (imaginings, acceptances, in-b
 
 ## Bearing on the record
 
-- **The gamed-evaluator question** (CLAIM-tmpcv6i6, CLAIM-tmpu6fff, CLAIM-tmpu6c7h): the entry's split by motivation has the form of CLAIM-tmpu6c7h. Its unmotivated cases are a miscalibrated signal, as CLAIM-tmpu6fff says. What is sought in the motivated cases is the comfort of a content, not the feeling of insight.
-- **The delusion thread:** the two-factor template separates the theme from its endorsement. That gives DISTINCTION-tmpwhh30 a third axis, below.
+- **The gamed-evaluator question** ([CLAIM-tmpcv6i6](../claims.d/CLAIM-tmpcv6i6.md), [CLAIM-tmpu6fff](../claims.d/CLAIM-tmpu6fff.md), [CLAIM-tmpu6c7h](../claims.d/CLAIM-tmpu6c7h.md)): the entry's split by motivation has the form of [CLAIM-tmpu6c7h](../claims.d/CLAIM-tmpu6c7h.md). Its unmotivated cases are a miscalibrated signal, as [CLAIM-tmpu6fff](../claims.d/CLAIM-tmpu6fff.md) says. What is sought in the motivated cases is the comfort of a content, not the feeling of insight.
+- **The delusion thread:** the two-factor template separates the theme from its endorsement. That gives [DISTINCTION-tmpwhh30](../distinctions.d/DISTINCTION-tmpwhh30.md) a third axis, below.
 - **Absent:** folie à deux and shared delusion, apophany, felt certainty, AI, mathematics.
 
 ## Limitations

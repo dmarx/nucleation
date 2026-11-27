@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-11-27 (NOTE-tmpfar7p) in full; worth reading as the map of the philosophy of clinical delusion: what makes delusions pathological, the one-factor, two-factor and prediction-error accounts of formation, whether delusions are irrational and whether they are beliefs (Bortolotti defends continuity and doxasticism), and their overlap with self-deception and conspiracy belief. Read it knowing that it is almost silent on shared delusion and on the phenomenological tradition.'
+status_note: 'read 2026-11-27 ([NOTE-tmpfar7p](../notes.d/NOTE-tmpfar7p.md)) in full; worth reading as the map of the philosophy of clinical delusion: what makes delusions pathological, the one-factor, two-factor and prediction-error accounts of formation, whether delusions are irrational and whether they are beliefs (Bortolotti defends continuity and doxasticism), and their overlap with self-deception and conspiracy belief. Read it knowing that it is almost silent on shared delusion and on the phenomenological tradition.'
 title: 'Delusion'
 version: 2
 history:
@@ -29,9 +29,9 @@ keywords:
 - 'delusion formation'
 implementations: []
 summary: >-
-  Bortolotti's SEP survey of clinical delusion, organised by the continuity thesis: what makes delusions pathological, how they form (one-factor, two-factor, prediction-error), whether they are irrational and whether they are beliefs (she defends both continuity and doxasticism), and how they overlap with self-deception and conspiracy belief. Read for the record's delusion thread and for the inside position of the gamed-evaluator structure; its split of delusions by whether motivation has a role bears on CLAIM-tmpu6c7h.
+  Bortolotti's SEP survey of clinical delusion, organised by the continuity thesis: what makes delusions pathological, how they form (one-factor, two-factor, prediction-error), whether they are irrational and whether they are beliefs (she defends both continuity and doxasticism), and how they overlap with self-deception and conspiracy belief. Read for the record's delusion thread and for the inside position of the gamed-evaluator structure; its split of delusions by whether motivation has a role bears on [CLAIM-tmpu6c7h](../claims.d/CLAIM-tmpu6c7h.md).
 ---
-<!-- inactive-ok-file: ADR-tmpn87w5 CLAIM-tmpcv6i6 CLAIM-tmpu6fff CLAIM-tmpu6c7h DISTINCTION-tmp68xjw QUESTION-tmpq653b QUESTION-tmpao6hx CLAIM-tmpahrqb CLAIM-tmp2l83d CLAIM-tmprblj4 CLAIM-tmp7oycz — Proposed, Open or new; the search rule applied, and the entries the reading bears on -->
+<!-- inactive-ok-file: CLAIM-tmpcv6i6 CLAIM-tmpu6fff CLAIM-tmpu6c7h DISTINCTION-tmp68xjw CLAIM-tmpahrqb CLAIM-tmp2l83d CLAIM-tmprblj4 — Proposed, Open or new; the search rule applied, and the entries the reading bears on -->
 
 # LIT-tmpe1l7z: Delusion
 
@@ -44,4 +44,4 @@ delusion), [QUESTION-tmpao6hx](../questions.d/QUESTION-tmpao6hx.md) (delusions w
 [CLAIM-tmpahrqb](../claims.d/CLAIM-tmpahrqb.md) (apophany as closure), [CLAIM-tmp2l83d](../claims.d/CLAIM-tmp2l83d.md) (illumination without
 verification), and [CLAIM-tmprblj4](../claims.d/CLAIM-tmprblj4.md) (the withheld outside frame). Also for the
 inside position of the gamed-evaluator structure: [CLAIM-tmpcv6i6](../claims.d/CLAIM-tmpcv6i6.md),
-[CLAIM-tmpu6fff](../claims.d/CLAIM-tmpu6fff.md) and CLAIM-tmpu6c7h.
+[CLAIM-tmpu6fff](../claims.d/CLAIM-tmpu6fff.md) and [CLAIM-tmpu6c7h](../claims.d/CLAIM-tmpu6c7h.md).

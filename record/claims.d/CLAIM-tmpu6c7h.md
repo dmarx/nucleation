@@ -55,7 +55,7 @@ summary: >-
   assistant leans to this reading. The wording is the assistant's (Claude,
   in this session); choosing among the three is the owner's call.
 ---
-<!-- inactive-ok-file: NOTE-tmp2juuo NOTE-tmpfar7p THEORY-tmpm278y CLAIM-tmpcv6i6 CLAIM-tmpu6fff DISTINCTION-tmp68xjw CLAIM-tmpv6eti — Proposed, Open or new; the claims it stands between, the distinction it uses, the leads that would test it, and the delusion claim it touches -->
+<!-- inactive-ok-file: THEORY-tmpm278y CLAIM-tmpcv6i6 CLAIM-tmpu6fff DISTINCTION-tmp68xjw CLAIM-tmpv6eti — Proposed, Open or new; the claims it stands between, the distinction it uses, the leads that would test it, and the delusion claim it touches -->
 
 # CLAIM-tmpu6c7h: False insight is a gamed evaluator where a motive selects it, and a miscalibrated cue where none does
 
@@ -91,7 +91,7 @@ raises its frequency and lowers its accuracy.
 ## Note of 2026-11-27: the SEP entries on self-deception and delusion, read
 
 Both entries draw this claim's line, under another name.
-- **Self-deception** (NOTE-tmp2juuo, THEORY-tmpm278y): on deflationary accounts a belief is self-deceptive when a motive's "function—not an intention" biases how evidence is treated. Without a motive it is "an innocent mistake".
-- **Delusion** (NOTE-tmpfar7p): misidentification delusions have "no fundamental role for motivational biases", while "A different analysis might be appropriate for delusions of jealousy or persecution."
+- **Self-deception** ([NOTE-tmp2juuo](../notes.d/NOTE-tmp2juuo.md), [THEORY-tmpm278y](../theory.d/THEORY-tmpm278y.md)): on deflationary accounts a belief is self-deceptive when a motive's "function—not an intention" biases how evidence is treated. Without a motive it is "an innocent mistake".
+- **Delusion** ([NOTE-tmpfar7p](../notes.d/NOTE-tmpfar7p.md)): misidentification delusions have "no fundamental role for motivational biases", while "A different analysis might be appropriate for delusions of jealousy or persecution."
 
-In both, what the motive seeks is the comfort of a content. Version 2 therefore widens the criterion from seeking the felt aha to any motive that selects the belief. The test the counter names still applies, now to motives in general: a motivated false insight should grow with what rewards it. Neither entry treats reinforcement over time, so the test is still open. The self-deception reader found NOTE-443 (Ainslie): reward "as the selector of 'involuntary' processes", and emotional reward as the reason beliefs feel like facts. It is the record's nearest held support for a reward-selected felt aha.
+In both, what the motive seeks is the comfort of a content. Version 2 therefore widens the criterion from seeking the felt aha to any motive that selects the belief. The test the counter names still applies, now to motives in general: a motivated false insight should grow with what rewards it. Neither entry treats reinforcement over time, so the test is still open. The self-deception reader found [NOTE-443](../notes.d/NOTE-443.md) (Ainslie): reward "as the selector of 'involuntary' processes", and emotional reward as the reason beliefs feel like facts. It is the record's nearest held support for a reward-selected felt aha.

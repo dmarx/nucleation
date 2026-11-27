@@ -42,10 +42,10 @@ Deceiving as a success verb; misleading (Carson); positive and negative deceptio
 
 ## Bearing on the record
 
-- **Vocabulary for CLAIM-tmpcv6i6.** On the majority view, gaming an evaluator with no intent is misleading, not deception. The claim never says "deception", so it stands; glosses of it should say "mislead", or cite Chisholm and Feehan's D7.
-- **DISTINCTION-tmp68xjw.** On the intentional definitions only the outside position, an agent who means to, deceives. The trained position deceives only on D7 or a functional definition. The inside position is self-deception, which the entry leaves out.
-- **CLAIM-tmpu6fff.** The entry's illusion case, excluded from deception, matches the counter's analogy of false insight as an optical illusion.
-- **Sycophancy** (CLAIM-tmpsjxip, CLAIM-tmpvxrj1). White lies are "all intentionally deceptive" (§1.4). A trained model's flattery fits Smith's functional definition of lying, not the traditional one.
+- **Vocabulary for [CLAIM-tmpcv6i6](../claims.d/CLAIM-tmpcv6i6.md).** On the majority view, gaming an evaluator with no intent is misleading, not deception. The claim never says "deception", so it stands; glosses of it should say "mislead", or cite Chisholm and Feehan's D7.
+- **[DISTINCTION-tmp68xjw](../distinctions.d/DISTINCTION-tmp68xjw.md).** On the intentional definitions only the outside position, an agent who means to, deceives. The trained position deceives only on D7 or a functional definition. The inside position is self-deception, which the entry leaves out.
+- **[CLAIM-tmpu6fff](../claims.d/CLAIM-tmpu6fff.md).** The entry's illusion case, excluded from deception, matches the counter's analogy of false insight as an optical illusion.
+- **Sycophancy** ([CLAIM-tmpsjxip](../claims.d/CLAIM-tmpsjxip.md), [CLAIM-tmpvxrj1](../claims.d/CLAIM-tmpvxrj1.md)). White lies are "all intentionally deceptive" (§1.4). A trained model's flattery fits Smith's functional definition of lying, not the traditional one.
 
 ## Limitations
 

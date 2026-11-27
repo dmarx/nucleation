@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-11-27 (NOTE-tmpu79ux) in full; worth reading for the definitions of deception and the vocabulary of misleading. Read it knowing that most of it is on lying, that it surveys no functional or biological account of deception, and that it sets self-deception aside.'
+status_note: 'read 2026-11-27 ([NOTE-tmpu79ux](../notes.d/NOTE-tmpu79ux.md)) in full; worth reading for the definitions of deception and the vocabulary of misleading. Read it knowing that most of it is on lying, that it surveys no functional or biological account of deception, and that it sets self-deception aside.'
 title: 'The Definition of Lying and Deception'
 version: 2
 history:
@@ -29,9 +29,9 @@ keywords:
 - 'non-intentional deception'
 implementations: []
 summary: >-
-  Mahon's SEP survey of definitions of lying (most of the entry) and of interpersonal deception. On deception, a ladder from the intentional D1 to Chisholm and Feehan's unintentional D7; most hold deception intentional and call the unintended case misleading. It surveys no functional or biological definition of deception and sets self-deception aside. Read for the vocabulary of CLAIM-tmpcv6i6 and DISTINCTION-tmp68xjw.
+  Mahon's SEP survey of definitions of lying (most of the entry) and of interpersonal deception. On deception, a ladder from the intentional D1 to Chisholm and Feehan's unintentional D7; most hold deception intentional and call the unintended case misleading. It surveys no functional or biological definition of deception and sets self-deception aside. Read for the vocabulary of [CLAIM-tmpcv6i6](../claims.d/CLAIM-tmpcv6i6.md) and [DISTINCTION-tmp68xjw](../distinctions.d/DISTINCTION-tmp68xjw.md).
 ---
-<!-- inactive-ok-file: ADR-tmpn87w5 CLAIM-tmpcv6i6 CLAIM-tmpu6fff CLAIM-tmpu6c7h DISTINCTION-tmp68xjw CLAIM-tmpsjxip CLAIM-tmpvxrj1 — Proposed or new; the search rule applied, and the claims the reading bears on -->
+<!-- inactive-ok-file: CLAIM-tmpcv6i6 CLAIM-tmpu6fff CLAIM-tmpu6c7h DISTINCTION-tmp68xjw — Proposed or new; the search rule applied, and the claims the reading bears on -->
 
 # LIT-tmpjnbi0: The Definition of Lying and Deception
 
@@ -41,5 +41,5 @@ Mahon, Stanford Encyclopedia of Philosophy.
 
 Being read for one question: whether deception needs an intending deceiver.
 [CLAIM-tmpcv6i6](../claims.d/CLAIM-tmpcv6i6.md) says sycophancy, shortcuts and SEO game an evaluator with
-no intent required; [CLAIM-tmpu6fff](../claims.d/CLAIM-tmpu6fff.md) and CLAIM-tmpu6c7h turn on whether the
+no intent required; [CLAIM-tmpu6fff](../claims.d/CLAIM-tmpu6fff.md) and [CLAIM-tmpu6c7h](../claims.d/CLAIM-tmpu6c7h.md) turn on whether the
 inside case, false insight, is deception at all.

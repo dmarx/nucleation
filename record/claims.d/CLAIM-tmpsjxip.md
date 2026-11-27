@@ -138,6 +138,5 @@ for, and [QUESTION-070](../questions.d/QUESTION-070.md) asks whose agency the wr
 
 ## Note of 2026-11-27: the SEP entries on delusion, deception and self-deception, read
 
-<!-- inactive-ok-block: NOTE-tmpu79ux — new; the readings -->
 
-Mahon (NOTE-tmpu79ux) says white lies "are all intentionally deceptive". A trained model's flattery has no such intent. It fits Smith's functional definition of lying, behaviour "the function of which is to provide others with false information", not the traditional one. On the majority view, what this claim calls influence over the evaluator is misleading it, which is the claim's own wording, not deceiving it.
+Mahon ([NOTE-tmpu79ux](../notes.d/NOTE-tmpu79ux.md)) says white lies "are all intentionally deceptive". A trained model's flattery has no such intent. It fits Smith's functional definition of lying, behaviour "the function of which is to provide others with false information", not the traditional one. On the majority view, what this claim calls influence over the evaluator is misleading it, which is the claim's own wording, not deceiving it.
