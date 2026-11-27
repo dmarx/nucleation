@@ -122,7 +122,7 @@ A73) yes. On every learner the two agree. No status change.
 
 ## Note of 2026-11-27: shortcut learning
 
-<!-- inactive-ok-block: CLAIM-tmpgmvhl CLAIM-tmp7crnt LEAD-tmp2592n — new; filed when the owner asked for the record's account of shortcut learning -->
+<!-- inactive-ok-block: CLAIM-tmpgmvhl CLAIM-tmp7crnt — new; filed when the owner asked for the record's account of shortcut learning -->
 
-The owner asked for the record's account of shortcut learning, noting that the record does not use the term. It is this question's, in its own words. CASE-416, the watermark-reading classifier, is the canonical shortcut. CLAIM-1086 and CLAIM-1028 share its diagnosis, an intervention that separates the cue from what makes the answer true. CLAIM-tmpgmvhl joins that definition to the order in which networks learn (THEORY-279, THEORY-759) to say why shortcuts arise, and CLAIM-tmp7crnt reads sycophancy as one. The reading is LEAD-tmp2592n.
+The owner asked for the record's account of shortcut learning, noting that the record does not use the term. It is this question's, in its own words. [CASE-416](../cases.d/CASE-416.md), the watermark-reading classifier, is the canonical shortcut. [CLAIM-1086](../claims.d/CLAIM-1086.md) and [CLAIM-1028](../claims.d/CLAIM-1028.md) share its diagnosis, an intervention that separates the cue from what makes the answer true. [CLAIM-tmpgmvhl](../claims.d/CLAIM-tmpgmvhl.md) joins that definition to the order in which networks learn ([THEORY-279](../theory.d/THEORY-279.md), [THEORY-759](../theory.d/THEORY-759.md)) to say why shortcuts arise, and [CLAIM-tmp7crnt](../claims.d/CLAIM-tmp7crnt.md) reads sycophancy as one. The reading is [LEAD-tmp2592n](../leads.d/LEAD-tmp2592n.md).
 

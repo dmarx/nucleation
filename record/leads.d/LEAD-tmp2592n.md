@@ -23,7 +23,7 @@ summary: >-
   design, not yet worked out. The wording is the assistant's (Claude, in
   this session).
 ---
-<!-- inactive-ok-file: CLAIM-tmpgmvhl CLAIM-tmp7crnt QUESTION-493 — Proposed, Open or new; the entries this lead would advance -->
+<!-- inactive-ok-file: CLAIM-tmpgmvhl — Proposed, Open or new; the entries this lead would advance -->
 
 # LEAD-tmp2592n: Read Geirhos and colleagues on shortcut learning, and test whether shortcuts are the earliest-learnable reliable correlates
 
@@ -33,8 +33,8 @@ summary: >-
   - Shortcuts are decision rules that do well on standard benchmarks and fail to transfer.
   - The paper gives a taxonomy (§3) and an account of where shortcuts come from (§4).
 - Read it for:
-  - whether its account of origin matches CLAIM-tmpgmvhl's;
-  - whether its taxonomy separates reading an effect of the truth from reading a correlate (CLAIM-1086).
+  - whether its account of origin matches [CLAIM-tmpgmvhl](../claims.d/CLAIM-tmpgmvhl.md)'s;
+  - whether its taxonomy separates reading an effect of the truth from reading a correlate ([CLAIM-1086](../claims.d/CLAIM-1086.md)).
 
 ## Test
 
@@ -43,7 +43,7 @@ patch) and the true feature are both perfectly reliable. Vary two things:
 - which of them is lower-order;
 - when the correlate is broken in training.
 
-CLAIM-tmpgmvhl predicts:
+[CLAIM-tmpgmvhl](../claims.d/CLAIM-tmpgmvhl.md) predicts:
 - the network reads whichever is cheaper;
 - a correlate learned first persists after the true feature becomes learnable;
 - breaking the correlate, not adding data, removes it.

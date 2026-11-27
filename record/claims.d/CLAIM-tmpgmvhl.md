@@ -39,21 +39,21 @@ grounds:
 summary: >-
   Filed when the owner asked, 2026-11-27, "what's our current account of
   shortcut learning? I don't think we use that language". The record held
-  the definition (CLAIM-1086, CLAIM-1028, CASE-416) and the order of
-  acquisition (THEORY-279, THEORY-759) apart. This claim joins them into an
+  the definition ([CLAIM-1086](CLAIM-1086.md), [CLAIM-1028](CLAIM-1028.md), [CASE-416](../cases.d/CASE-416.md)) and the order of
+  acquisition ([THEORY-279](../theory.d/THEORY-279.md), [THEORY-759](../theory.d/THEORY-759.md)) apart. This claim joins them into an
   account of why shortcuts arise. The step that a reliable correlate
   removes the pressure toward the truthmaker is the assistant's. The
   wording is the assistant's (Claude, in this session); adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-1086 CLAIM-1028 CASE-416 THEORY-279 THEORY-759 THEORY-794 QUESTION-493 — Proposed or Open; the definition, the order of acquisition, the remedy, and the question -->
+<!-- inactive-ok-file: CLAIM-1086 CLAIM-1028 CASE-416 THEORY-279 THEORY-759 THEORY-794 — Proposed or Open; the definition, the order of acquisition, the remedy, and the question -->
 
 # CLAIM-tmpgmvhl: A shortcut is the earliest-learnable correlate that is reliable over the training family
 
 ## The claim
 
-**What a shortcut is.** CLAIM-1086 and its counter CLAIM-1028 already say it.
-In CASE-416 a classifier is right on every item of its test family because it
+**What a shortcut is.** [CLAIM-1086](CLAIM-1086.md) and its counter [CLAIM-1028](CLAIM-1028.md) already say it.
+In [CASE-416](../cases.d/CASE-416.md) a classifier is right on every item of its test family because it
 reads a watermark that, in that family, always accompanies the class. It is
 reliable, and it does not know. The two claims disagree about what knowing
 adds. They agree on the diagnosis: intervene on the cue and on what makes
@@ -64,8 +64,8 @@ correlate does not. The machine-learning name for the second is a shortcut
 benchmarks and fail to transfer).
 
 **Why it arises.** The record holds the order in which networks learn, in
-other entries. THEORY-279 says image classifiers and language models act on
-first-order statistics before second-order ones. THEORY-759 says networks fit
+other entries. [THEORY-279](../theory.d/THEORY-279.md) says image classifiers and language models act on
+first-order statistics before second-order ones. [THEORY-759](../theory.d/THEORY-759.md) says networks fit
 low frequencies first, even when the high ones are stronger. Put the two
 together. When a correlate and the truthmaker are both reliable in training,
 the learner gets whichever is cheaper first. Once the correlate makes the
@@ -75,7 +75,7 @@ shortcut is not a mistake the learner makes. It is the training family's
 answer, found early.
 
 **What prevents it.** A family in which the correlate is not reliable. That
-is THEORY-794's finding about compositional generalization: diversity of the
+is [THEORY-794](../theory.d/THEORY-794.md)'s finding about compositional generalization: diversity of the
 combinations seen, not the volume of data, drives it. Denison and colleagues
 make the same diagnosis of their reward-gaming curriculum's low
 generalization ("if we had 4,000 settings instead of 4"; their reading is
@@ -92,5 +92,5 @@ filed in a unit not yet merged here).
 
 ## What it does not say
 
-Which of CLAIM-1086 and CLAIM-1028 is right about knowledge. This claim needs
+Which of [CLAIM-1086](CLAIM-1086.md) and [CLAIM-1028](CLAIM-1028.md) is right about knowledge. This claim needs
 only the diagnosis they share.
