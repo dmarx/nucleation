@@ -11,7 +11,7 @@ statement: >-
   requirements never raises its score when the hidden requirements do not
   otherwise come to light: on every path it adds only penalized violations
   and spent budget, so an institution acting on that score makes no inquiry
-version: 4
+version: 5
 history:
 - version: 1
   date: '2026-11-23'
@@ -41,6 +41,13 @@ history:
     answer, which the assistant checks against the claim's
     conditions; A15's R6 states its outcome ladder. The claim is
     unchanged.
+- version: 5
+  date: '2026-11-26'
+  note: >-
+    Joins the work organizational-origins-of-misalignment (ADR-tmp0cgxa) at
+    its filing, under ADR-104's rule: the outline A11 §IX of the exchange
+    "Alignment consequences brainstorm" uses its proposition as a step.
+    No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -63,6 +70,7 @@ line:
 - distributed-agency
 works:
 - governance-of-becoming
+- organizational-origins-of-misalignment
 grounds:
 - CASE-396
 corroborates:

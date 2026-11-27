@@ -10,7 +10,7 @@ statement: >-
   one regime of authority, so an intervention on authority that changes the
   winning moves changes the fitted preference and the preference does not
   predict the change
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-27'
@@ -27,6 +27,13 @@ history:
     builds on the claim a division of an apparent objective into
     four sources and charges the paperclip picture with reifying the
     fitted one. The claim is unchanged.
+- version: 4
+  date: '2026-11-26'
+  note: >-
+    Joins the work organizational-origins-of-misalignment (ADR-tmp0cgxa) at
+    its filing, under ADR-104's rule: the outline A11 §IX of the exchange
+    "Alignment consequences brainstorm" uses its proposition as a step.
+    No other change.
 role: counter
 warrant: interpretive
 tags:
@@ -60,6 +67,8 @@ summary: >-
   first ordering predicted the second. The revealed preference redescribes
   the outcome of the governing relations, which is the reading [CLAIM-027](CLAIM-027.md)'s
   defeater excludes ("whose content predicts the outcome").
+works:
+- organizational-origins-of-misalignment
 ---
 <!-- inactive-ok-file: THEORY-2218 — Proposed; the reading of Caliari, 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-089 — Rejected; the objection this answers -->

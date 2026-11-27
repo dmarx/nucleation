@@ -942,6 +942,19 @@ vocabularies:
           entry points (the theory, the implementation, the publication). Its articles that are works keep
           their own membership; its own members are the claims its prose states. Each scope is a line
           (ADR-146); its account, an account over the fifteen lines'' accounts, waits on those (ADR-149)'
+      organizational-origins-of-misalignment:
+        label: 'The Organizational Origins of Misalignment'
+        blurb: 'the manuscript ChatGPT proposed in the exchange "Alignment consequences brainstorm"
+          (2026-11-26) from the owner''s U4 (the paperclip problem is which optimization objectives may
+          steer significant levers of behavioural influence, and the attention economy already does it):
+          titled at A8 "We Are Already Paperclip Maximizing: Optimization Jurisdiction and the
+          Organizational Origins of Misalignment" after its six cases, and outlined at A11 §IX as
+          "Optimization Without a Sovereign: The Organizational Origins of Misalignment" in five
+          propositions. Optimization can be organized without a sovereign maximizer; an objective fails
+          by its jurisdiction more than its content, reshapes the feedback that constrains it, and its
+          success erodes the capacities that would evaluate and correct it; the alternative is the
+          governed coexistence of heterogeneous demands. No draft yet; filed at the owner''s word
+          (ADR-tmp0cgxa)'
 issue_url: https://github.com/dmarx/nucleation/issues/{n}
 # The pending report's age horizon, at the record's own pace: the default 90
 # could not name a stale document in a record a month old (ADR-057).

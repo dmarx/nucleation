@@ -10,7 +10,7 @@ statement: >-
   violations; where governance penalizes newly recognized violations without
   rewarding their discovery, an organization may acquire an incentive not to
   improve its identification of its obligations
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-11-12'
@@ -46,6 +46,13 @@ history:
     manuscript in scratch/manuscripts/governance-of-possibility/ states
     its proposition or uses it as a step, in §9.8, §13.1, §13.8. No other
     change.
+- version: 5
+  date: '2026-11-26'
+  note: >-
+    Joins the work organizational-origins-of-misalignment (ADR-tmp0cgxa) at
+    its filing, under ADR-104's rule: the outline A11 §IX of the exchange
+    "Alignment consequences brainstorm" uses its proposition as a step.
+    No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -90,6 +97,7 @@ summary: >-
   the owner's and A's; adopting it is the owner's call.
 works:
 - governance-of-possibility
+- organizational-origins-of-misalignment
 ---
 <!-- inactive-ok-file: CLAIM-652 CLAIM-657 — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: CASE-249 — Proposed; filed from the same exchange -->

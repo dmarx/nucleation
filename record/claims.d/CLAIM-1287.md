@@ -3,7 +3,7 @@ number: 1287
 status: Proposed
 formerly:
 - CLAIM-tmpjnly0
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-26'
@@ -14,6 +14,13 @@ history:
     internal dissent to its constraints, and draws the consequence
     that jurisdiction can be an endogenous product of optimization;
     CLAIM-tmpv3frk rests on it. The claim is unchanged.
+- version: 3
+  date: '2026-11-26'
+  note: >-
+    Joins the work organizational-origins-of-misalignment (ADR-tmp0cgxa) at
+    its filing, under ADR-104's rule: the outline A11 §IX of the exchange
+    "Alignment consequences brainstorm" uses its proposition as a step.
+    No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -34,6 +41,7 @@ line:
 - organizational-normativity
 works:
 - governance-of-becoming
+- organizational-origins-of-misalignment
 uses:
 - TERM-179
 complements:
