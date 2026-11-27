@@ -162,7 +162,7 @@ Searched record/ for sycophancy, folie à deux, aberrant salience, confirmation 
 - **Held entries the first search (the brief's list) missed:**
   - THEORY-616 (LLM attitudes belong to instances; mentions sycophancy; already grounds CLAIM-tmpfne5k).
   - THEORY-1334 and THEORY-1313 (persona vectors; prompts and finetuning share persona directions). These bear on whether a shared prompt reconstitutes "the same" persona.
-  - LIT-1008 (Williams et al., targeted manipulation when optimizing for user feedback; THEORY-258's source).
+  - LIT-1008 ("On Targeted Manipulation and Deception when Optimizing LLMs for User Feedback" when optimizing for user feedback; THEORY-258's source).
   - THEORY-458 (ownership and agency come apart, as in thought insertion; Frith comparator). This bears on Morrin's claim that suggested next prompts "may be interpreted or elaborated as thought insertion" (p. 15) and on its efference-copy citation.
   - THEORY-461 (chatbots' bodily self-reports are untrue). This bears on the sentient-AI theme.
   - THEORY-460 (LLM consciousness barriers mostly removable). This bears on v6's "AI's intentionality ... a deep and open scientific question".
