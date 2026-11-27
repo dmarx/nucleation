@@ -54,3 +54,9 @@ assertion; its only evidence is one Vicuna-13b transcript pair, and §2 closes
 by leaving open "whether alignment techniques can transmute one into the
 other". The `promote_when` above is [THEORY-547](THEORY-547.md)'s condition before the twenty-fourth status review promoted it, carried here unchanged, because it asks what would make the thesis true and not what the source says. Its sentence that the idealization
 needs no test refers to [THEORY-547](THEORY-547.md).
+
+## Note of 2026-11-27: sycophancy by imitation
+
+<!-- inactive-ok-block: CLAIM-tmpaxlwy LEAD-tmp71xhs — new; the claim and lead that use this account -->
+
+CLAIM-tmpaxlwy uses this account for one source of sycophancy. A model that follows the frame of the conversation continues the user's stated view as part of it, with no reward needed, and Wei and colleagues report that this grows with scale before instruction tuning (LEAD-tmp71xhs, unread). A use of this account; no change to its status.
