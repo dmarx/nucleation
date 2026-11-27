@@ -34,14 +34,14 @@ summary: >-
   answer: Vollenweider and colleagues (1998) report that psilocybin
   produces a syndrome resembling first episodes of schizophrenia, and that
   ketanserin blocks it. The works are from search results, unverified and
-  unregistered (LEAD-tmpiv765). The wording is the assistant's (Claude, in
+  unregistered ([LEAD-tmpiv765](../leads.d/LEAD-tmpiv765.md)). The wording is the assistant's (Claude, in
   this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpahrqb CLAIM-tmpqwhst CLAIM-tmprblj4 LEAD-tmpiv765 — Proposed or new; the claim it rests on, its alternative, the claim on the lost outside frame, and the reading lead -->
+<!-- inactive-ok-file: CLAIM-tmpqwhst CLAIM-tmprblj4 — Proposed or new; the claim it rests on, its alternative, the claim on the lost outside frame, and the reading lead -->
 
 # CLAIM-tmpn4mwm: Psychedelic meaningfulness is apophany held at a reversible stage
 
-*Alternative A. Alternative B is CLAIM-tmpqwhst.*
+*Alternative A. Alternative B is [CLAIM-tmpqwhst](CLAIM-tmpqwhst.md).*
 
 ## The claim
 
@@ -56,7 +56,7 @@ significance, reaching the same serotonin system, as the delusional mood
 On this reading, what keeps a psychedelic state from becoming a delusion is
 not a difference in the experience. It is that the state ends, and that the
 person knows its cause, so the meaning is held as the drug's and not the
-world's. That knowledge is an outside frame, the one CLAIM-tmprblj4 says
+world's. That knowledge is an outside frame, the one [CLAIM-tmprblj4](CLAIM-tmprblj4.md) says
 apophany loses.
 
 ## What it predicts

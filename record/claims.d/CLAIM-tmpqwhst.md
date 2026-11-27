@@ -34,29 +34,29 @@ grounds:
 summary: >-
   Alternative B to the owner's question of 2026-11-27 ("is that also
   characterized as apophany or something else?"), beside
-  CLAIM-tmpn4mwm. It sets Carhart-Harris and Friston's relaxed beliefs
-  account (REBUS, 2019), which the record holds only through THEORY-571's
-  flattened landscape, against Conrad's apophany as CLAIM-tmpahrqb reads
+  [CLAIM-tmpn4mwm](CLAIM-tmpn4mwm.md). It sets Carhart-Harris and Friston's relaxed beliefs
+  account (REBUS, 2019), which the record holds only through [THEORY-571](../theory.d/THEORY-571.md)'s
+  flattened landscape, against Conrad's apophany as [CLAIM-tmpahrqb](CLAIM-tmpahrqb.md) reads
   it. The REBUS paper and McGovern and colleagues' account of false
   insights under psychedelics (2024) are from search results, unverified
-  and unregistered (LEAD-tmpiv765). The wording is the assistant's
+  and unregistered ([LEAD-tmpiv765](../leads.d/LEAD-tmpiv765.md)). The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpahrqb CLAIM-tmpn4mwm LEAD-tmpiv765 THEORY-571 — Proposed or new; the claim it rests on, its alternative, the reading lead, and the landscape account it uses -->
+<!-- inactive-ok-file: CLAIM-tmpahrqb CLAIM-tmpn4mwm THEORY-571 — Proposed or new; the claim it rests on, its alternative, the reading lead, and the landscape account it uses -->
 
 # CLAIM-tmpqwhst: Heightened meaningfulness can come with a loosened frame or a locked one
 
-*Alternative B. Alternative A is CLAIM-tmpn4mwm.*
+*Alternative B. Alternative A is [CLAIM-tmpn4mwm](CLAIM-tmpn4mwm.md).*
 
 ## The claim
 
-THEORY-571 places psychedelic states and depression at opposite ends of one
+[THEORY-571](../theory.d/THEORY-571.md) places psychedelic states and depression at opposite ends of one
 spectrum. Depression is a landscape of over-deep attractors; psychedelic
 states are a flattened one. The relaxed beliefs account behind it says
 psychedelics lower the weight of high-level beliefs, so the mind moves more
 freely among framings.
 
-Apophany, as CLAIM-tmpahrqb reads Conrad, sits at the other end. The
+Apophany, as [CLAIM-tmpahrqb](CLAIM-tmpahrqb.md) reads Conrad, sits at the other end. The
 ability to step outside the current frame is lost, and closure comes early
 on an unfinished form. It is an over-deep attractor reached suddenly.
 

@@ -23,7 +23,7 @@ summary: >-
   them is the owner's call. The wording is the assistant's (Claude, in this
   session).
 ---
-<!-- inactive-ok-file: CLAIM-tmpn4mwm CLAIM-tmpqwhst CLAIM-tmpahrqb QUESTION-tmpao6hx — Proposed, Open or new; the entries this lead would advance -->
+<!-- inactive-ok-file: CLAIM-tmpn4mwm CLAIM-tmpqwhst CLAIM-tmpahrqb — Proposed, Open or new; the entries this lead would advance -->
 
 # LEAD-tmpiv765: Read the work on heightened meaningfulness under psychedelics, against apophany: meaning attribution, the noetic quality and false insights, relaxed beliefs, and psilocybin as a model of early psychosis
 
@@ -38,7 +38,7 @@ All entries are from search results on 2026-11-27 and are unverified.
    - McGovern et al. (2024), "An integrated theory of false insights and beliefs under psychedelics" (FIBUS), Communications Psychology, doi 10.1038/s44271-024-00120-6, PMC11332244.
    - The felt sense of knowing is James's noetic quality. The paper traces false insights to altered precision weighting, dopaminergic salience and shifts in memory.
 3. **Relaxed beliefs.**
-   - Carhart-Harris and Friston (2019), "REBUS and the anarchic brain", Pharmacological Reviews 71(3):316-344, doi 10.1124/pr.118.017160. The record holds it only through LIT-080 and THEORY-571.
+   - Carhart-Harris and Friston (2019), "REBUS and the anarchic brain", Pharmacological Reviews 71(3):316-344, doi 10.1124/pr.118.017160. The record holds it only through [LIT-080](../literature.d/LIT-080.md) and [THEORY-571](../theory.d/THEORY-571.md).
    - The 2025 extension, REBAS (revised beliefs after psychedelics), in Scientific Reports, PMC11779827.
 4. **Psilocybin as a model of early psychosis.**
    - Vollenweider et al. (1998): psilocybin produces a syndrome resembling first-episode schizophrenia, and ketanserin blocks it.
@@ -50,9 +50,9 @@ All entries are from search results on 2026-11-27 and are unverified.
 
 | Observation | Bears on |
 |---|---|
-| Phenomenological comparison of psychedelic meaningfulness with the delusional mood (Trema) and apophany | CLAIM-tmpn4mwm against CLAIM-tmpqwhst |
-| Whether alternative frames become easier or harder to take up under psychedelics | CLAIM-tmpqwhst |
-| The noetic quality as felt closure, independent of truth | CLAIM-tmpahrqb |
+| Phenomenological comparison of psychedelic meaningfulness with the delusional mood (Trema) and apophany | [CLAIM-tmpn4mwm](../claims.d/CLAIM-tmpn4mwm.md) against [CLAIM-tmpqwhst](../claims.d/CLAIM-tmpqwhst.md) |
+| Whether alternative frames become easier or harder to take up under psychedelics | [CLAIM-tmpqwhst](../claims.d/CLAIM-tmpqwhst.md) |
+| The noetic quality as felt closure, independent of truth | [CLAIM-tmpahrqb](../claims.d/CLAIM-tmpahrqb.md) |
 | What persists after the state: revised beliefs, false insights, or delusion | both alternatives |
 
 ## Note

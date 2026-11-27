@@ -61,7 +61,7 @@ After the owner asked about apophany, two claims were filed. [CLAIM-tmpahrqb](..
 
 ## Note of 2026-11-27: psychedelic meaningfulness
 
-<!-- inactive-ok-block: CLAIM-tmpn4mwm CLAIM-tmpqwhst LEAD-tmpiv765 — new; the two alternatives and their reading lead -->
+<!-- inactive-ok-block: CLAIM-tmpn4mwm CLAIM-tmpqwhst — new; the two alternatives and their reading lead -->
 
-The owner asked whether psilocybin's "everything is meaningful" is also apophany. Two alternatives are filed, both bearing on part 3. A (CLAIM-tmpn4mwm): it is the same phenomenon, held at a reversible stage. B (CLAIM-tmpqwhst): the feeling is shared but the dynamics are opposite, a loosened frame against a locked one. If B holds, the felt quality of insight is shared by three states with different relations to truth: genuine insight, psychedelic insight and delusional certainty. LEAD-tmpiv765 holds the reading.
+The owner asked whether psilocybin's "everything is meaningful" is also apophany. Two alternatives are filed, both bearing on part 3. A ([CLAIM-tmpn4mwm](../claims.d/CLAIM-tmpn4mwm.md)): it is the same phenomenon, held at a reversible stage. B ([CLAIM-tmpqwhst](../claims.d/CLAIM-tmpqwhst.md)): the feeling is shared but the dynamics are opposite, a loosened frame against a locked one. If B holds, the felt quality of insight is shared by three states with different relations to truth: genuine insight, psychedelic insight and delusional certainty. [LEAD-tmpiv765](../leads.d/LEAD-tmpiv765.md) holds the reading.
 
