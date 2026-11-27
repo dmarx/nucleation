@@ -13,8 +13,6 @@ tags:
 date: '2026-11-27'
 line:
 - organizational-normativity
-draws_on:
-- LIT-tmpf40bx
 summary: >-
   Named for Campbell's law (Campbell 1979, [LIT-tmpf40bx](../literature.d/LIT-tmpf40bx.md), registered and
   unread), in the wording the assistant recalls: "the more any quantitative
