@@ -79,7 +79,7 @@ Accurate as far as it goes: the four topics named are §§2, 4.2, 3 and 4.1. It 
 - "Degree, not kind" is asserted from the existence of nonclinical irrationality, with no measure of degree offered. The entry itself notes a criterion-loosening worry ("the very notion of belief is not theoretically useful if the criteria ... become too loose") and leaves it unanswered.
 - Epistemic benefits and the social turn are cited, not expounded.
 - The phenomenological tradition (Jaspers, Conrad, delusional mood) is almost absent, as is folie à deux, so the record's apophany and shared-delusion questions get nothing first-hand here.
-- §6 options of §1.2 lack a verdict; the etiology option is "to be better explored".
+- The six options of §1.2 get no verdict; the etiology option is "to be better explored".
 - The table of contents is misnumbered against the body.
 
 ### Candidate THEORY
@@ -97,7 +97,7 @@ Accurate as far as it goes: the four topics named are §§2, 4.2, 3 and 4.1. It 
   - **THEORY-458** (sense of ownership and agency come apart) and **NOTE-827** (Haggard): bear on passivity delusions and thought insertion (§1.1).
   - **NOTE-432** (explanatory models for psychiatric illness) and **NOTE-435** (network theory of mental disorders): bear on §1.2's natural-kind and etiology questions.
   - **NOTE-1450 / LIT-1854** (Orehek, Bessarabova, Chen & Kruglanski 2011, positive affect as feedback): the record's only Kruglanski. Neighbour to the need-for-closure passage and to CLAIM-tmpu6c7h's "the aha is rewarding".
-  - **LIT-1368** (Wilson, Kopelman & Kapur 2008, Clive Wearing: delusion, impaired consciousness or coping strategy?) and **CASE-137**: a held delusion-or-coping case, relevant to §4.3's protective-function view. Its Kapur is Narinder, not Shitij.
+  - **LIT-1368** (Wilson, Kopelman & Kapur 2008, Clive Wearing: delusion, impaired consciousness or coping strategy?) and **CASE-137**: a held delusion-or-coping case, relevant to §4.3's protective-function view. Its Kapur is N. Kapur, not S. Kapur (2003).
   - **NOTE-104** (Schwitzgebel, AI and consciousness: "massive delusion") uses the word loosely. No entry holds Schwitzgebel's in-between-belief view of delusion.
   - The self-deception SEP entry (LIT-tmp19b00, registered with lying/deception) is the direct partner of §4.3's Mele and Davidson material.
 
