@@ -28,31 +28,31 @@ rests_on:
 - CLAIM-475
 - CLAIM-tmp3gqdp
 summary: >-
-  Filed at the owner's request of 2026-11-27. CLAIM-475 (Active) says
+  Filed at the owner's request of 2026-11-27. [CLAIM-475](CLAIM-475.md) (Active) says
   specifying is resource-bounded realization, and that a stabilized
   specification is past inquiry stored to make later questions cheaper.
   This claim reads schema acquisition and the expertise reversal effect
   (Kalyuga and colleagues, from the assistant's memory, unregistered;
-  LEAD-tmpi367t) through it. The wording is the assistant's (Claude, in this
+  [LEAD-tmpi367t](../leads.d/LEAD-tmpi367t.md)) through it. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmp3gqdp LEAD-tmpi367t QUESTION-095 — Proposed, Open or new; the claim it rests on, the lead, and the question on amortized retrieval -->
+<!-- inactive-ok-file: CLAIM-tmp3gqdp — Proposed, Open or new; the claim it rests on, the lead, and the question on amortized retrieval -->
 
 # CLAIM-tmpxg0zs: Germane load is past inquiry stored so later tasks need a lower peak, and it can raise the peak of others
 
 ## The claim
 
-CLAIM-475 (Active) says formulating a question takes resources, as realizing
+[CLAIM-475](CLAIM-475.md) (Active) says formulating a question takes resources, as realizing
 a configuration does. It also says "a stabilized specification is past
 inquiry stored so that later questions become cheaper to ask, and it can make
 other questions harder". That is schema acquisition. A schema chunks elements
 that a novice must hold separately into one, and so it lowers the peak of
-every later task of its kind (CLAIM-tmp3gqdp). Germane load is the work of
+every later task of its kind ([CLAIM-tmp3gqdp](CLAIM-tmp3gqdp.md)). Germane load is the work of
 building it, paid now to lower the peak later.
 
 ## Expertise reversal
 
-CLAIM-475's rider has a known instance. Kalyuga and colleagues' expertise
+[CLAIM-475](CLAIM-475.md)'s rider has a known instance. Kalyuga and colleagues' expertise
 reversal effect, as the assistant recalls it: worked examples and integrated
 guidance lower novices' load and raise experts'. The expert holds a schema
 that already does the work, and processing the guidance alongside it is
@@ -61,7 +61,7 @@ another dearer.
 
 ## The record as an external schema
 
-QUESTION-095 asks whether leaving the result of a computation where it can be
+[QUESTION-095](../questions.d/QUESTION-095.md) asks whether leaving the result of a computation where it can be
 cheaply retrieved is the same trade as computing it in advance. The owner's
 reading of Hutchins was "amortized retrieval is actually a kind of amortized
 computation". The record does that for its readers: a filed claim is a

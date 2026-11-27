@@ -29,9 +29,9 @@ rests_on:
 - CLAIM-tmpu1fef
 summary: >-
   Filed at the owner's request of 2026-11-27 to connect resource-bounded
-  inquiry with resource-bounded cognition. It joins CLAIM-tmpg2wk1 (a tier is
+  inquiry with resource-bounded cognition. It joins [CLAIM-tmpg2wk1](CLAIM-tmpg2wk1.md) (a tier is
   priced partly by "the attention it consumes in contexts that do not need
-  it") and CLAIM-tmpu1fef (keeping an entry costs its retrieval) to the
+  it") and [CLAIM-tmpu1fef](CLAIM-tmpu1fef.md) (keeping an entry costs its retrieval) to the
   extraneous load of cognitive load theory. The paper being read in
   dmarx/nucleation#871, Gupta, Liu and Zou on extraneous load in language
   models, bears directly on its last clause. The wording is the assistant's
@@ -43,7 +43,7 @@ summary: >-
 
 ## The claim
 
-On CLAIM-tmp3gqdp, intrinsic load is a task's least peak. Extraneous load is
+On [CLAIM-tmp3gqdp](CLAIM-tmp3gqdp.md), intrinsic load is a task's least peak. Extraneous load is
 what presentation adds to the peak of the path actually taken. It is
 material that must be read, held or filtered at some step, which no solution
 needs. Split attention between a figure and text that could have been one,
@@ -51,9 +51,9 @@ redundant explanation, and irrelevant detail all raise the peak without
 changing the task.
 
 The record already prices this cost for itself, in other words.
-- **CLAIM-tmpg2wk1:** an entry's tier is priced partly by "the attention it
+- **[CLAIM-tmpg2wk1](CLAIM-tmpg2wk1.md):** an entry's tier is priced partly by "the attention it
   consumes in contexts that do not need it".
-- **CLAIM-tmpu1fef:** keeping an entry costs its retrieval, not only its
+- **[CLAIM-tmpu1fef](CLAIM-tmpu1fef.md):** keeping an entry costs its retrieval, not only its
   storage. Retired entries still add to the cost of retrieval and lower
   discoverability.
 
@@ -71,6 +71,6 @@ superseded entry in view is a cost paid at every reading.
 
 ## What it does not say
 
-That everything not needed now should be hidden. CLAIM-tmpg2wk1 also prices
-the cost of recovering what was hidden, and germane load (CLAIM-tmpxg0zs) can
+That everything not needed now should be hidden. [CLAIM-tmpg2wk1](CLAIM-tmpg2wk1.md) also prices
+the cost of recovering what was hidden, and germane load ([CLAIM-tmpxg0zs](CLAIM-tmpxg0zs.md)) can
 make a cost now worth paying.

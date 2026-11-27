@@ -42,8 +42,8 @@ summary: >-
 
 | Observation | Bears on |
 |---|---|
-| Whether element interactivity is a peak (held at once) or a count of steps | CLAIM-tmp3gqdp |
-| Whether reordering steps to lower the peak, total fixed, helps | CLAIM-tmp3gqdp's prediction |
-| The split-attention and redundancy effects as extraneous load | CLAIM-tmpgu8no |
-| Expertise reversal, and whether it is explained by schemas doing the work | CLAIM-tmpxg0zs |
-| Whether the theory prices time at all | CLAIM-tmpg829x |
+| Whether element interactivity is a peak (held at once) or a count of steps | [CLAIM-tmp3gqdp](../claims.d/CLAIM-tmp3gqdp.md) |
+| Whether reordering steps to lower the peak, total fixed, helps | [CLAIM-tmp3gqdp](../claims.d/CLAIM-tmp3gqdp.md)'s prediction |
+| The split-attention and redundancy effects as extraneous load | [CLAIM-tmpgu8no](../claims.d/CLAIM-tmpgu8no.md) |
+| Expertise reversal, and whether it is explained by schemas doing the work | [CLAIM-tmpxg0zs](../claims.d/CLAIM-tmpxg0zs.md) |
+| Whether the theory prices time at all | [CLAIM-tmpg829x](../claims.d/CLAIM-tmpg829x.md) |
