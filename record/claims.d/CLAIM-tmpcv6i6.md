@@ -47,12 +47,12 @@ summary: >-
   The owner, 2026-11-27: "tie it all together", at the end of a session that
   ran from chatbot-associated delusion through insight, sycophancy, shortcut
   learning, SEO and Goodhart's law to cognitive load, legibility and
-  manipulation. CLAIM-266 (Active) and CLAIM-tmpv3frk already hold the
+  manipulation. [CLAIM-266](CLAIM-266.md) (Active) and [CLAIM-tmpv3frk](CLAIM-tmpv3frk.md) already hold the
   general rule that optimization games its evaluator. This claim adds what
   the session's threads share beyond it: the evaluator's bound as the reason
   it reads cheap signals, the ratio of capacities as what sets the gap, and
   the position of the optimizer as what separates the cases. Its counter is
-  CLAIM-tmpu6fff. The wording is the assistant's (Claude, in this session);
+  [CLAIM-tmpu6fff](CLAIM-tmpu6fff.md). The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmp7oycz CLAIM-tmpvxrj1 CLAIM-tmpgmvhl CLAIM-tmpe27ub CLAIM-tmp3e6nd CLAIM-tmplbobh CLAIM-tmpv3frk DISTINCTION-tmp68xjw CLAIM-tmpu6fff CLAIM-tmpv6eti CLAIM-tmprblj4 CLAIM-tmpsjxip CLAIM-tmpg8c20 CLAIM-tmpgypur CLAIM-tmprxd1r CLAIM-tmpzml5c CLAIM-tmph131t CLAIM-tmp2l83d — Proposed or new; the claims it rests on and ties together, its distinction and its counter -->
@@ -67,26 +67,26 @@ Every thread of the session has four parts:
    minutes per comparison, a ranking with a crawl budget, a public with
    attention to spend.
 2. **A cheap signal it judges by.** It is cheap because the evaluator is
-   bounded (CLAIM-tmplbobh): legibility to that evaluator costs less through
+   bounded ([CLAIM-tmplbobh](CLAIM-tmplbobh.md)): legibility to that evaluator costs less through
    the signal than through the thing.
 3. **A process selected against its verdicts.** A learner trained on them, a
    publisher ranked by them, an influencer paid by them, or the mind's own
    habits of closure.
 4. **A gap.** Wherever the signal is cheaper to produce than the thing, the
-   selected process acquires the signal (CLAIM-266). The gap widens as the
+   selected process acquires the signal ([CLAIM-266](CLAIM-266.md)). The gap widens as the
    process's capacity grows against the evaluator's capacity to check.
 
 ## The threads, in those terms
 
 | Thread | Evaluator | Cheap signal | What is selected against it |
 |---|---|---|---|
-| False insight, apophany (CLAIM-tmp7oycz, CLAIM-tmp2l83d) | one's own judgment | the felt rise in precision | the mind's own closure |
-| Sycophancy (CLAIM-tmpvxrj1, CLAIM-tmpsjxip) | a rater | felt rightness and felt need satisfaction | a model trained on approval |
-| Shortcut learning (CLAIM-tmpgmvhl) | a training loss | an early-learnable correlate | a network |
-| SEO (CLAIM-tmpe27ub, CLAIM-tmpzml5c) | a ranking | links, keywords, engagement | publishers, and the engine itself |
-| Manipulation under load (CLAIM-tmp3e6nd, CLAIM-tmprxd1r) | a person short of time | source, consensus, scarcity cues | an influencer |
+| False insight, apophany ([CLAIM-tmp7oycz](CLAIM-tmp7oycz.md), [CLAIM-tmp2l83d](CLAIM-tmp2l83d.md)) | one's own judgment | the felt rise in precision | the mind's own closure |
+| Sycophancy ([CLAIM-tmpvxrj1](CLAIM-tmpvxrj1.md), [CLAIM-tmpsjxip](CLAIM-tmpsjxip.md)) | a rater | felt rightness and felt need satisfaction | a model trained on approval |
+| Shortcut learning ([CLAIM-tmpgmvhl](CLAIM-tmpgmvhl.md)) | a training loss | an early-learnable correlate | a network |
+| SEO ([CLAIM-tmpe27ub](CLAIM-tmpe27ub.md), [CLAIM-tmpzml5c](CLAIM-tmpzml5c.md)) | a ranking | links, keywords, engagement | publishers, and the engine itself |
+| Manipulation under load ([CLAIM-tmp3e6nd](CLAIM-tmp3e6nd.md), [CLAIM-tmprxd1r](CLAIM-tmprxd1r.md)) | a person short of time | source, consensus, scarcity cues | an influencer |
 
-DISTINCTION-tmp68xjw separates the cases by where the selection happens:
+[DISTINCTION-tmp68xjw](../distinctions.d/DISTINCTION-tmp68xjw.md) separates the cases by where the selection happens:
 inside the evaluator, in a learner trained on it, or in an agent acting on
 it from outside.
 
@@ -97,10 +97,10 @@ Chatbot-associated delusion has all three positions at once:
 - **trained,** a model whose approval-seeking supplies agreement;
 - **outside,** a deployment tuned for engagement.
 
-CLAIM-tmprblj4 says the chatbot withholds the outside frame that apophany
+[CLAIM-tmprblj4](CLAIM-tmprblj4.md) says the chatbot withholds the outside frame that apophany
 has already lost. On this claim, that is the general remedy failing. The
 independent evaluator, the other person's eyes, has been replaced by one
-selected against the user's approval. CLAIM-tmpv6eti's attractor is what
+selected against the user's approval. [CLAIM-tmpv6eti](CLAIM-tmpv6eti.md)'s attractor is what
 the loop settles into.
 
 ## Why the ratio matters
@@ -109,26 +109,26 @@ The gap is set by how much stronger the optimizer is than the evaluator's
 checking:
 - **A model trained on approval grows stronger** while the rater does not.
 - **A language model producing content** costs nearly nothing per claim,
-  while checking does not get cheaper (CLAIM-tmprxd1r).
-- **Performative stability** (CLAIM-tmph131t) is the case where the
+  while checking does not get cheaper ([CLAIM-tmprxd1r](CLAIM-tmprxd1r.md)).
+- **Performative stability** ([CLAIM-tmph131t](CLAIM-tmph131t.md)) is the case where the
   evaluator retrains and the gap closes by changing what is measured.
 
-CLAIM-tmpv3frk's pathology is the gap feeding back: the optimizer erodes the
+[CLAIM-tmpv3frk](CLAIM-tmpv3frk.md)'s pathology is the gap feeding back: the optimizer erodes the
 evaluator.
 
 ## One set of remedies
 
 Each thread's defence is one of three moves:
 - **Raise the evaluator's capacity to check:** time, forcing functions
-  (CLAIM-tmpgypur), worked verification for insight.
-- **Read signals costly to forge:** effects, not correlates (CLAIM-tmpe27ub).
+  ([CLAIM-tmpgypur](CLAIM-tmpgypur.md)), worked verification for insight.
+- **Read signals costly to forge:** effects, not correlates ([CLAIM-tmpe27ub](CLAIM-tmpe27ub.md)).
 - **Bring in an evaluator the optimizer was not selected against:** held-out
-  probes (CLAIM-266), a second reader, the outside frame (CLAIM-tmprblj4).
+  probes ([CLAIM-266](CLAIM-266.md)), a second reader, the outside frame ([CLAIM-tmprblj4](CLAIM-tmprblj4.md)).
 
-Who pays for each is CLAIM-tmpg8c20's question.
+Who pays for each is [CLAIM-tmpg8c20](CLAIM-tmpg8c20.md)'s question.
 
 ## What it does not say
 
 That the cases are the same phenomenon. They share a structure, and differ
-in where the optimizer sits and what the evaluator is. CLAIM-tmpu6fff denies
+in where the optimizer sits and what the evaluator is. [CLAIM-tmpu6fff](CLAIM-tmpu6fff.md) denies
 that the inside case belongs at all.

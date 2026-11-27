@@ -39,7 +39,7 @@ rests_on:
 summary: >-
   Drawn by the assistant (Claude, in this session) at the owner's request of
   2026-11-27 to "tie it all together". It separates the cases
-  CLAIM-tmpcv6i6 joins. CLAIM-tmpu6fff denies that the inside position
+  [CLAIM-tmpcv6i6](../claims.d/CLAIM-tmpcv6i6.md) joins. [CLAIM-tmpu6fff](../claims.d/CLAIM-tmpu6fff.md) denies that the inside position
   involves selection at all. Adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmp7oycz CLAIM-tmpvxrj1 CLAIM-tmp3e6nd CLAIM-tmpcv6i6 CLAIM-tmpu6fff — Proposed or new; the claims it binds, the claim that uses it, and its counter -->
@@ -50,11 +50,11 @@ summary: >-
 
 - **Inside.** The evaluator's own processing produces the cheap signal
   without the thing: felt insight from a rise in precision with another
-  cause (CLAIM-tmp7oycz).
+  cause ([CLAIM-tmp7oycz](../claims.d/CLAIM-tmp7oycz.md)).
 - **Trained.** A separate system, trained on the evaluator's verdicts,
-  learns the signal: sycophancy (CLAIM-tmpvxrj1), shortcuts.
+  learns the signal: sycophancy ([CLAIM-tmpvxrj1](../claims.d/CLAIM-tmpvxrj1.md)), shortcuts.
 - **Outside.** A separate agent, adapting as it acts, produces the signal or
-  exhausts the evaluator: SEO, manipulation under load (CLAIM-tmp3e6nd).
+  exhausts the evaluator: SEO, manipulation under load ([CLAIM-tmp3e6nd](../claims.d/CLAIM-tmp3e6nd.md)).
 
 ## How they come apart
 
@@ -65,4 +65,4 @@ summary: >-
   persists.
 
 The positions can stack. Chatbot-associated delusion has all three
-(CLAIM-tmpcv6i6).
+([CLAIM-tmpcv6i6](../claims.d/CLAIM-tmpcv6i6.md)).

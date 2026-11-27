@@ -27,7 +27,7 @@ rests_on:
 - CLAIM-tmpcv6i6
 - CLAIM-tmp7oycz
 summary: >-
-  Filed as the counter to CLAIM-tmpcv6i6, at the owner's request of
+  Filed as the counter to [CLAIM-tmpcv6i6](CLAIM-tmpcv6i6.md), at the owner's request of
   2026-11-27. It keeps the trained and outside positions and drops the
   inside one; the test in its defeated_if is whether the felt quality of
   insight behaves like a trained signal. The wording is the assistant's
@@ -39,10 +39,10 @@ summary: >-
 
 ## The counter
 
-CLAIM-tmpcv6i6 puts false insight in the same structure as sycophancy and
+[CLAIM-tmpcv6i6](CLAIM-tmpcv6i6.md) puts false insight in the same structure as sycophancy and
 SEO. The counter says the analogy breaks at its third part: nothing is
 selected against the evaluator's verdicts. A mind's felt insight misfires
-when precision rises for a reason other than fit (CLAIM-tmp7oycz): fatigue,
+when precision rises for a reason other than fit ([CLAIM-tmp7oycz](CLAIM-tmp7oycz.md)): fatigue,
 a drug, a familiar form. That is a cue with a bad calibration, like an
 optical illusion. It is not a signal some process learned to produce.
 
@@ -55,4 +55,4 @@ the evaluator they act on.
 Whether felt insight behaves like a trained signal. If people, practices or
 communities come to seek what produces it, its frequency should rise with
 reinforcement and its accuracy fall. The psychedelic thread, which holds the
-alternatives CLAIM-tmpn4mwm and its pair, is one place to look.
+alternatives [CLAIM-tmpn4mwm](CLAIM-tmpn4mwm.md) and its pair, is one place to look.
