@@ -49,7 +49,7 @@ At the owner's request, three more answers. [CLAIM-tmpzml5c](../claims.d/CLAIM-t
 
 ## Note of 2026-11-27: Goodhart and Campbell
 
-<!-- inactive-ok-block: DISTINCTION-tmpnbw70 CLAIM-tmpe27ub LEAD-tmpruvpw — new; filed at the owner's request to relate SEO to the two laws -->
+<!-- inactive-ok-block: DISTINCTION-tmpnbw70 CLAIM-tmpe27ub — new; filed at the owner's request to relate SEO to the two laws -->
 
-At the owner's request, DISTINCTION-tmpnbw70 separates the Goodhart effect, the indicator losing information (bought links), from the Campbell effect, the measured process reorganizing (the web written for the ranker). A better ranking cures the first and not the second. CLAIM-tmpe27ub reads SEO as adversarial and causal Goodhart, with regressional and extremal Goodhart following from any noisy ranking. It sharpens the arms race's escape condition to effects of quality that cost at least as much to forge as to earn.
+At the owner's request, [DISTINCTION-tmpnbw70](../distinctions.d/DISTINCTION-tmpnbw70.md) separates the Goodhart effect, the indicator losing information (bought links), from the Campbell effect, the measured process reorganizing (the web written for the ranker). A better ranking cures the first and not the second. [CLAIM-tmpe27ub](../claims.d/CLAIM-tmpe27ub.md) reads SEO as adversarial and causal Goodhart, with regressional and extremal Goodhart following from any noisy ranking. It sharpens the arms race's escape condition to effects of quality that cost at least as much to forge as to earn.
 

@@ -36,12 +36,12 @@ summary: >-
   Filed at the owner's request of 2026-11-27 to relate SEO to Goodhart's
   law. The division into regressional, extremal, causal and adversarial
   variants is Manheim and Garrabrant's (2018), from the assistant's memory
-  and unregistered (LEAD-tmpruvpw). It sharpens CLAIM-tmp8hi2v's ending
-  condition using CLAIM-1086's point that forged smoke deceives anyone who
+  and unregistered ([LEAD-tmpruvpw](../leads.d/LEAD-tmpruvpw.md)). It sharpens [CLAIM-tmp8hi2v](CLAIM-tmp8hi2v.md)'s ending
+  condition using [CLAIM-1086](CLAIM-1086.md)'s point that forged smoke deceives anyone who
   knows fire by its smoke. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmp8hi2v CLAIM-1086 QUESTION-tmpqba7g LEAD-tmpruvpw CLAIM-tmpjom83 — Proposed, Open or new; the claims it rests on, the question, and the lead -->
+<!-- inactive-ok-file: CLAIM-tmp8hi2v CLAIM-1086 CLAIM-tmpjom83 — Proposed, Open or new; the claims it rests on, the question, and the lead -->
 
 # CLAIM-tmpe27ub: SEO is adversarial and causal Goodhart, and a ranking escapes only by reading effects costly to forge
 
@@ -57,14 +57,14 @@ into four variants. SEO shows all four:
 | Causal | intervening on a correlate does not move the target | buying links moves the signal without moving the quality that ordinarily causes links |
 | Adversarial | agents optimize against the indicator | publishers, and link sellers serving them |
 
-The causal variant is CLAIM-1086's distinction. A system that reads an effect
+The causal variant is [CLAIM-1086](CLAIM-1086.md)'s distinction. A system that reads an effect
 of the truth, as smoke is of fire, survives interventions on the truth, but
 "forged smoke deceives anyone who knows fire by its smoke". Inbound links are
 an effect of quality, and link-buying forges them.
 
 ## What it sharpens
 
-CLAIM-tmp8hi2v said the arms race ends where the ranking reads effects of
+[CLAIM-tmp8hi2v](CLAIM-tmp8hi2v.md) said the arms race ends where the ranking reads effects of
 quality that cannot be manufactured more cheaply than the quality itself.
 The variants say why both parts of that are needed:
 - **An effect, not a correlate.** Otherwise the causal variant applies even
@@ -78,5 +78,5 @@ noisy indicator.
 ## What it does not say
 
 That forgery cost can be made high everywhere. Where it cannot, the remaining
-remedy is plurality of rankings (CLAIM-tmpjom83), which raises the cost of
+remedy is plurality of rankings ([CLAIM-tmpjom83](CLAIM-tmpjom83.md)), which raises the cost of
 forging for all of them at once.

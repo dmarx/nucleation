@@ -16,14 +16,14 @@ line:
 draws_on:
 - LIT-tmpf40bx
 summary: >-
-  Named for Campbell's law (Campbell 1979, LIT-tmpf40bx, registered and
+  Named for Campbell's law (Campbell 1979, [LIT-tmpf40bx](../literature.d/LIT-tmpf40bx.md), registered and
   unread), in the wording the assistant recalls: "the more any quantitative
   social indicator is used for social decision-making, the more subject it
   will be to corruption pressures and the more apt it will be to distort and
   corrupt the social processes it is intended to monitor". The term takes the
   law's second clause, the distortion of the process. Its first clause,
-  corruption of the indicator, is the Goodhart effect (TERM-tmp56tms).
-  Defined so that DISTINCTION-tmpnbw70 can bind it. The wording is the
+  corruption of the indicator, is the Goodhart effect ([TERM-tmp56tms](TERM-tmp56tms.md)).
+  Defined so that [DISTINCTION-tmpnbw70](../distinctions.d/DISTINCTION-tmpnbw70.md) can bind it. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: LIT-tmpf40bx TERM-tmp56tms DISTINCTION-tmpnbw70 — Deferred or new; the source, the neighbouring term, and the distinction -->
@@ -40,4 +40,4 @@ the failure that a better indicator does not cure.
 
 ## Distinctions
 
-From the Goodhart effect (TERM-tmp56tms), by DISTINCTION-tmpnbw70.
+From the Goodhart effect ([TERM-tmp56tms](TERM-tmp56tms.md)), by [DISTINCTION-tmpnbw70](../distinctions.d/DISTINCTION-tmpnbw70.md).

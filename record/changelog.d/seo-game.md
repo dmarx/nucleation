@@ -11,6 +11,6 @@
   - [CLAIM-tmp6n4ed](record/claims.d/CLAIM-tmp6n4ed.md): enshittification of search is the engine optimizing its own ranking against its users;
   - [CLAIM-tmpjom83](record/claims.d/CLAIM-tmpjom83.md): one dominant ranking makes the web a monoculture whose failures are correlated.
 - On Goodhart's and Campbell's laws:
-  - TERM-tmp56tms (Goodhart effect), TERM-tmpn32ez (Campbell effect) and DISTINCTION-tmpnbw70: the first corrupts the measure, the second the measured;
-  - CLAIM-tmpe27ub: SEO as adversarial and causal Goodhart;
-  - LEAD-tmpruvpw: the readings.
+  - [TERM-tmp56tms](record/terms.d/TERM-tmp56tms.md) (Goodhart effect), [TERM-tmpn32ez](record/terms.d/TERM-tmpn32ez.md) (Campbell effect) and [DISTINCTION-tmpnbw70](record/distinctions.d/DISTINCTION-tmpnbw70.md): the first corrupts the measure, the second the measured;
+  - [CLAIM-tmpe27ub](record/claims.d/CLAIM-tmpe27ub.md): SEO as adversarial and causal Goodhart;
+  - [LEAD-tmpruvpw](record/leads.d/LEAD-tmpruvpw.md): the readings.

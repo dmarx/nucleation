@@ -44,25 +44,25 @@ line:
 - organizational-normativity
 summary: >-
   The owner, 2026-11-27: "relate SEO to Goodhart's law and Campbell's law".
-  The record held both names in passing, CLAIM-tmp826ap's table of four
+  The record held both names in passing, [CLAIM-tmp826ap](../claims.d/CLAIM-tmp826ap.md)'s table of four
   metric failures among them, and no distinction between them. SEO shows
   both, apart. The defeater's first clause is the strongest objection. The
   wording is the assistant's (Claude, in this session); adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: TERM-tmp56tms TERM-tmpn32ez CLAIM-tmp826ap CLAIM-1268 QUESTION-tmpqba7g CLAIM-tmpcrves CLAIM-tmpe27ub — Proposed, Open or new; the terms bound, the claims it rests on, the question, and the claims it ties to -->
+<!-- inactive-ok-file: TERM-tmp56tms TERM-tmpn32ez CLAIM-tmp826ap CLAIM-1268 CLAIM-tmpcrves — Proposed, Open or new; the terms bound, the claims it rests on, the question, and the claims it ties to -->
 
 # DISTINCTION-tmpnbw70: The Goodhart effect corrupts the measure; the Campbell effect corrupts the measured
 
 ## The sides
 
-- **Goodhart** (TERM-tmp56tms). The indicator stops meaning what it meant.
+- **Goodhart** ([TERM-tmp56tms](../terms.d/TERM-tmp56tms.md)). The indicator stops meaning what it meant.
   Link counts once tracked how much other authors valued a page. Bought
   links make them track how much was spent.
-- **Campbell** (TERM-tmpn32ez). The thing measured changes. The web is
+- **Campbell** ([TERM-tmpn32ez](../terms.d/TERM-tmpn32ez.md)). The thing measured changes. The web is
   rewritten for the ranker: keyword-shaped headings, padded pages,
   recipe sites with ten paragraphs before the recipe. The ranking may rank
-  this rewritten web accurately (CLAIM-tmpcrves).
+  this rewritten web accurately ([CLAIM-tmpcrves](../claims.d/CLAIM-tmpcrves.md)).
 
 ## Telling them apart
 
@@ -71,11 +71,11 @@ summary: >-
 | What fails | the indicator's relation to the target | the target process |
 | Detected by | indicator against an independent measure of quality | the process under the indicator against the process without it |
 | Cured by a better indicator | yes | no: a better one still governs, and the process still bends toward it |
-| In CLAIM-tmp826ap's table | proxy failure | the effect of jurisdictional failure: the indicator governs what it should only observe |
+| In [CLAIM-tmp826ap](../claims.d/CLAIM-tmp826ap.md)'s table | proxy failure | the effect of jurisdictional failure: the indicator governs what it should only observe |
 | In SEO | ranking signals inflated without quality | the web written for the ranker |
 
-The Campbell effect is CLAIM-1268's monitoring that produces the conformity it
-records. It is also why CLAIM-tmp826ap says a perfectly functioning paperclip
+The Campbell effect is [CLAIM-1268](../claims.d/CLAIM-1268.md)'s monitoring that produces the conformity it
+records. It is also why [CLAIM-tmp826ap](../claims.d/CLAIM-tmp826ap.md) says a perfectly functioning paperclip
 counter is not the solution to paperclip maximization. Accuracy addresses the
 Goodhart effect and leaves the Campbell effect where it was.
 
