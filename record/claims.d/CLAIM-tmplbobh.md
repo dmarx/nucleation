@@ -35,34 +35,34 @@ grounds:
 - THEORY-tmpjgsul
 summary: >-
   The owner, 2026-11-27: "relate cognitive load to the record's account of
-  legibility". TERM-064 (Active) already makes legibility relative to an
+  legibility". [TERM-064](../terms.d/TERM-064.md) (Active) already makes legibility relative to an
   observer's resources; this claim says cognitive load theory is the account
-  of that term for a working-memory-bounded observer, and THEORY-tmpjgsul
+  of that term for a working-memory-bounded observer, and [THEORY-tmpjgsul](../theory.d/THEORY-tmpjgsul.md)
   (Gupta, Liu and Zou) supplies the case of a
   machine observer. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmp3gqdp CLAIM-tmpgu8no CLAIM-tmpxg0zs THEORY-tmpjgsul CLAIM-tmpiwxjx CLAIM-tmpg8c20 — Proposed or new; the claims it rests on, the reading it uses, and the claims beside it -->
+<!-- inactive-ok-file: CLAIM-tmp3gqdp CLAIM-tmpgu8no CLAIM-tmpxg0zs THEORY-tmpjgsul CLAIM-tmpg8c20 — Proposed or new; the claims it rests on, the reading it uses, and the claims beside it -->
 
 # CLAIM-tmplbobh: Cognitive load theory is the theory of legibility to an observer bounded by working memory
 
 ## The claim
 
-TERM-064 defines legibility as whether an observer, "with the rules,
+[TERM-064](../terms.d/TERM-064.md) defines legibility as whether an observer, "with the rules,
 categories and resources it actually has, can recover the distinction from
 what it is given and bring it to bear on the task". It is "bounded above by
 what the source makes possible for an ideal receiver". Each of cognitive
 load theory's loads fills one place in that definition:
 
-| Legibility (TERM-064) | Cognitive load |
+| Legibility ([TERM-064](../terms.d/TERM-064.md)) | Cognitive load |
 |---|---|
-| the bound an ideal receiver sets | intrinsic load: what the distinction needs at best (CLAIM-tmp3gqdp) |
+| the bound an ideal receiver sets | intrinsic load: what the distinction needs at best ([CLAIM-tmp3gqdp](CLAIM-tmp3gqdp.md)) |
 | the observer's resources | working memory, a peak budget |
-| the representation as given | the presentation, whose surplus demand is extraneous load (CLAIM-tmpgu8no) |
-| the observer's rule class | schemas, which germane load builds (CLAIM-tmpxg0zs) |
+| the representation as given | the presentation, whose surplus demand is extraneous load ([CLAIM-tmpgu8no](CLAIM-tmpgu8no.md)) |
+| the observer's rule class | schemas, which germane load builds ([CLAIM-tmpxg0zs](CLAIM-tmpxg0zs.md)) |
 
 So a presentation effect is a change of legibility with the source held
-fixed. Gupta, Liu and Zou's benchmark (THEORY-tmpjgsul) is a direct test for
+fixed. Gupta, Liu and Zou's benchmark ([THEORY-tmpjgsul](../theory.d/THEORY-tmpjgsul.md)) is a direct test for
 a machine observer. With the answer, and so the distinction, fixed, the
 order and form of what is given change whether the model can recover it.
 
@@ -72,7 +72,7 @@ order and form of what is given change whether the model can recover it.
   Working memory holds few interacting elements at once, and the cost of a
   representation depends on its peak, not only its total.
 - **To cognitive load theory,** directedness and the institutional case.
-  TERM-064 is directed, and legibility to whom matters. CLAIM-tmpg8c20 takes
+  [TERM-064](../terms.d/TERM-064.md) is directed, and legibility to whom matters. [CLAIM-tmpg8c20](CLAIM-tmpg8c20.md) takes
   that up.
 
 ## What it does not say

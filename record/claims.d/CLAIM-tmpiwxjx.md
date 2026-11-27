@@ -30,25 +30,25 @@ rests_on:
 - CLAIM-tmpxg0zs
 - CLAIM-tmplbobh
 summary: >-
-  Filed at the owner's request of 2026-11-27. CLAIM-455 (Active) orders
+  Filed at the owner's request of 2026-11-27. [CLAIM-455](CLAIM-455.md) (Active) orders
   legibility regimes only per task; the expertise reversal effect, from the
-  assistant's memory of Kalyuga and colleagues (LEAD-tmpi367t, unread),
+  assistant's memory of Kalyuga and colleagues ([LEAD-tmpi367t](../leads.d/LEAD-tmpi367t.md), unread),
   orders them only per observer as well. The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpxg0zs CLAIM-tmplbobh LEAD-tmpi367t — Proposed, Open or new; the claims it rests on and the lead -->
+<!-- inactive-ok-file: CLAIM-tmpxg0zs — Proposed, Open or new; the claims it rests on and the lead -->
 
 # CLAIM-tmpiwxjx: The expertise reversal effect is a legibility ordering that holds only per observer
 
 ## The claim
 
-CLAIM-455 (Active) says legibility regimes are ordered only relative to a
+[CLAIM-455](CLAIM-455.md) (Active) says legibility regimes are ordered only relative to a
 task. A transformation can make one task's distinction legible and another's
 illegible to the same observer. The expertise reversal effect, as the
 assistant recalls it, says the ordering is relative to the *observer* too.
 Worked examples and integrated guidance raise legibility for a novice and
 lower it for an expert, whose schemas already do what the guidance does
-(CLAIM-tmpxg0zs).
+([CLAIM-tmpxg0zs](CLAIM-tmpxg0zs.md)).
 
 So there is no "clearer presentation" without saying for whom. A
 representation made legible for one reader imposes extraneous load on
@@ -65,4 +65,4 @@ generated views (docs/) a reason: different views for different observers.
 ## What it does not say
 
 That legibility is subjective. It is relative to a declared observer and
-task, as TERM-064 says, and fixed once they are declared.
+task, as [TERM-064](../terms.d/TERM-064.md) says, and fixed once they are declared.

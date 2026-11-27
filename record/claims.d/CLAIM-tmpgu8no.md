@@ -65,7 +65,7 @@ Those are extraneous load, for the record's readers.
 
 The record is read by a language model as often as by its owner. Everything
 loaded into the model's context that the task does not need is extraneous
-load on that reader. THEORY-tmpjgsul (Gupta, Liu and Zou, read in full) finds
+load on that reader. [THEORY-tmpjgsul](../theory.d/THEORY-tmpjgsul.md) (Gupta, Liu and Zou, read in full) finds
 that presentation alone lowers models' accuracy with target and answer held
 fixed, by up to about 37 points averaged over models. The costs grow with the
 number and similarity of distractors, the cases that compete with the target

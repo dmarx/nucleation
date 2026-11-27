@@ -73,7 +73,7 @@ And it can be reachable without being *reliably reached*.
 
 - Two presentations of a task with the same total work and different peaks
   differ in success, and the one with the lower peak does better.
-  THEORY-tmpjgsul has a case of it for language models: shuffling a
+  [THEORY-tmpjgsul](../theory.d/THEORY-tmpjgsul.md) has a case of it for language models: shuffling a
   problem's statements keeps every statement, and so the total, and still
   costs accuracy. On this claim, the cost comes from the order raising how
   much must be held at once. The authors read it as a harder reasoning path,
