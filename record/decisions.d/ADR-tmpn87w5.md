@@ -22,7 +22,7 @@ summary: >-
   the second, post-reading search, which comes after the brief that the
   first search shaped.
 ---
-<!-- inactive-ok-file: RETRO-tmpxqcui — Draft; the retrospective that recommended this -->
+<!-- inactive-ok-file: RETRO-tmpxqcui — Draft or new; the retrospective that recommended this -->
 
 # ADR-tmpn87w5: A search of the record before filing, or before saying something is not held, covers open pull requests and searches the argument by the mechanism's words, reading the bodies of the nearest entries
 

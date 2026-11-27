@@ -10,6 +10,8 @@ reviews:
 - ADR-140
 - ADR-068
 - ADR-116
+prompted:
+- ADR-tmpn87w5
 pull_requests:
 - https://github.com/dmarx/nucleation/pull/855
 - https://github.com/dmarx/nucleation/pull/857
