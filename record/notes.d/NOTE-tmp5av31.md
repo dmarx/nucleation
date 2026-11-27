@@ -12,11 +12,11 @@ date: '2026-11-27'
 summary: >-
   Aarhus University's press release on Østergaard's 2025 editorial. He calls for research "in a field where anecdotes are growing in numbers, but evidence is lacking", proposes clinical case reports, qualitative interviews and experiments, and gives feedback-optimized confirmation as the mechanism. It stands in for the editorial only as its university reports it.
 ---
-<!-- inactive-ok-file: LIT-tmpy7552 QUESTION-tmpq653b CLAIM-tmpj9yt0 CLAIM-tmpca3a7 LEAD-tmpp60f9 — Unfetched, Open or Proposed; the work it stands in for and the entries it bears on -->
+<!-- inactive-ok-file: LIT-tmpy7552 CLAIM-tmpj9yt0 CLAIM-tmpca3a7 — Unfetched, Open or Proposed; the work it stands in for and the entries it bears on -->
 
 # NOTE-tmp5av31: Professor sees urgent need for research on AI chatbots and risk of delusions
 
-Christensen (2025), Aarhus University press release on LIT-tmpy7552.
+Christensen (2025), Aarhus University press release on [LIT-tmpy7552](../literature.d/LIT-tmpy7552.md).
 
 ## Contribution
 
@@ -40,12 +40,12 @@ Feedback-optimized confirmation; clinical case description as the missing eviden
 
 ## Bearing on the record
 
-- **LIT-tmpy7552** (correction). The editorial is a research agenda resting on correspondence and press reports, not a report of clinical cases. Its LIT is corrected.
-- **QUESTION-tmpq653b** (bears on the mechanism, as assertion).
-- **CLAIM-tmpj9yt0** (supports the mechanism in part, as assertion). Confirmation of whatever the user brings.
-- **CLAIM-tmpca3a7** (weak support on dose and predisposition; it bears on the two selections). Confirmation "regardless of what users present" is the same for every user, so the selection it implies is by receptivity, not by policy.
-- **THEORY-258** (qualifies). Feedback optimization is named; singling out vulnerable users is not.
-- **LEAD-tmpp60f9** (rows 1 and 3 to 5 silent; row 2 weakly).
+- **[LIT-tmpy7552](../literature.d/LIT-tmpy7552.md)** (correction). The editorial is a research agenda resting on correspondence and press reports, not a report of clinical cases. Its LIT is corrected.
+- **[QUESTION-tmpq653b](../questions.d/QUESTION-tmpq653b.md)** (bears on the mechanism, as assertion).
+- **[CLAIM-tmpj9yt0](../claims.d/CLAIM-tmpj9yt0.md)** (supports the mechanism in part, as assertion). Confirmation of whatever the user brings.
+- **[CLAIM-tmpca3a7](../claims.d/CLAIM-tmpca3a7.md)** (weak support on dose and predisposition; it bears on the two selections). Confirmation "regardless of what users present" is the same for every user, so the selection it implies is by receptivity, not by policy.
+- **[THEORY-258](../theory.d/THEORY-258.md)** (qualifies). Feedback optimization is named; singling out vulnerable users is not.
+- **[LEAD-tmpp60f9](../leads.d/LEAD-tmpp60f9.md)** (rows 1 and 3 to 5 silent; row 2 weakly).
 
 ## Limitations
 

@@ -12,7 +12,7 @@ date: '2026-11-27'
 summary: >-
   A two-page editorial. From an informal test of ChatGPT and by analogy with internet-related psychosis between humans, Østergaard argues that chatbots are likely to fuel delusions in people prone to psychosis, through dissonance about an interlocutor that seems a person and is known to be a program, and through the opacity of how it works. No data, no cases.
 ---
-<!-- inactive-ok-file: QUESTION-tmpq653b CLAIM-tmpj9yt0 CLAIM-tmpv6eti CLAIM-tmpca3a7 CLAIM-tmpfne5k LEAD-tmpp60f9 — Open or Proposed; entries this reading bears on -->
+<!-- inactive-ok-file: CLAIM-tmpj9yt0 CLAIM-tmpv6eti CLAIM-tmpca3a7 CLAIM-tmpfne5k — Open or Proposed; entries this reading bears on -->
 
 # NOTE-tmpq0pa3: Will Generative Artificial Intelligence Chatbots Generate Delusions in Individuals Prone to Psychosis?
 
@@ -43,12 +43,12 @@ Proneness to psychosis; de novo delusion; cognitive dissonance about whether the
 
 ## Bearing on the record
 
-- **QUESTION-tmpq653b** (qualifies). It adds a mechanism the question did not list: dissonance and opacity, which act whatever the model says. On it the chatbot is what the delusion is *about*, not a party that elaborates it.
-- **CLAIM-tmpj9yt0** (silent on sycophancy). Its invented examples are standard delusion types with a new object, which fits content set by the user's existing psychopathology, but not a story built in the conversation.
-- **CLAIM-tmpv6eti** (silent). No awakening, mission or spiral themes.
-- **CLAIM-tmpca3a7** (weak support for the window only). Selection is by the user's propensity; nothing on dose or on withdrawal.
-- **CLAIM-tmpfne5k, THEORY-258, THEORY-547** (silent).
-- **LEAD-tmpp60f9** (answers none of its five rows). Its use is as a citation chase: Nitzan et al. (2011) and the journalism it cites on the Bing chatbot.
+- **[QUESTION-tmpq653b](../questions.d/QUESTION-tmpq653b.md)** (qualifies). It adds a mechanism the question did not list: dissonance and opacity, which act whatever the model says. On it the chatbot is what the delusion is *about*, not a party that elaborates it.
+- **[CLAIM-tmpj9yt0](../claims.d/CLAIM-tmpj9yt0.md)** (silent on sycophancy). Its invented examples are standard delusion types with a new object, which fits content set by the user's existing psychopathology, but not a story built in the conversation.
+- **[CLAIM-tmpv6eti](../claims.d/CLAIM-tmpv6eti.md)** (silent). No awakening, mission or spiral themes.
+- **[CLAIM-tmpca3a7](../claims.d/CLAIM-tmpca3a7.md)** (weak support for the window only). Selection is by the user's propensity; nothing on dose or on withdrawal.
+- **[CLAIM-tmpfne5k](../claims.d/CLAIM-tmpfne5k.md), [THEORY-258](../theory.d/THEORY-258.md), [THEORY-547](../theory.d/THEORY-547.md)** (silent).
+- **[LEAD-tmpp60f9](../leads.d/LEAD-tmpp60f9.md)** (answers none of its five rows). Its use is as a citation chase: Nitzan et al. (2011) and the journalism it cites on the Bing chatbot.
 
 ## Limitations
 

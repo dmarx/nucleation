@@ -33,20 +33,20 @@ grounds:
 uses:
 - TERM-027
 summary: >-
-  Alternative C on the content's source, beside CLAIM-tmpj9yt0 (A) and
-  CLAIM-tmpv6eti (B). It is Morrin and colleagues' own history of
-  technology in delusional content (NOTE-tmpxg6hn, pp. 6-8, 22: content
+  Alternative C on the content's source, beside [CLAIM-tmpj9yt0](CLAIM-tmpj9yt0.md) (A) and
+  [CLAIM-tmpv6eti](CLAIM-tmpv6eti.md) (B). It is Morrin and colleagues' own history of
+  technology in delusional content ([NOTE-tmpxg6hn](../notes.d/NOTE-tmpxg6hn.md), pp. 6-8, 22: content
   that follows the prevailing technology, and "Non-bizarre delusions often
   mirror common cultural narratives"), read as an attractor account. The
   reading was surfaced by the delegated reader. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: QUESTION-tmpq653b CLAIM-tmpj9yt0 CLAIM-tmpv6eti THEORY-tmpssr6c NOTE-tmpxg6hn — new or Proposed; the question, the other alternatives, and the reading it is drawn from -->
+<!-- inactive-ok-file: CLAIM-tmpj9yt0 CLAIM-tmpv6eti — new or Proposed; the question, the other alternatives, and the reading it is drawn from -->
 
 # CLAIM-tmp93fmg: The culture's narratives of machines can be the dyad's attractor
 
-*Alternative C to QUESTION-tmpq653b's question of content, beside A
-(CLAIM-tmpj9yt0) and B (CLAIM-tmpv6eti).*
+*Alternative C to [QUESTION-tmpq653b](../questions.d/QUESTION-tmpq653b.md)'s question of content, beside A
+([CLAIM-tmpj9yt0](CLAIM-tmpj9yt0.md)) and B ([CLAIM-tmpv6eti](CLAIM-tmpv6eti.md)).*
 
 ## The claim
 
@@ -60,11 +60,11 @@ parties carry the same narrative, not because one of them supplies it.
 
 ## How it comes apart from A and B
 
-CLAIM-tmpv6eti's table gains a column. Under C, themes converge across users
+[CLAIM-tmpv6eti](CLAIM-tmpv6eti.md)'s table gains a column. Under C, themes converge across users
 within one culture and differ between cultures, and changing the model
 changes little if its training text carries the same culture.
 
 ## What it does not say
 
 That A and B are wrong. The three can combine, and the evidence read so far
-(NOTE-tmpxg6hn) controls for none of them.
+([NOTE-tmpxg6hn](../notes.d/NOTE-tmpxg6hn.md)) controls for none of them.

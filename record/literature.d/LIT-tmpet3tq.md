@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read in full 2026-11-27 (NOTE-tmp5av31); a stand-in for the unfetched editorial LIT-tmpy7552, worth reading only as its author''s university''s account of it.'
+status_note: 'read in full 2026-11-27 ([NOTE-tmp5av31](../notes.d/NOTE-tmp5av31.md)); a stand-in for the unfetched editorial [LIT-tmpy7552](LIT-tmpy7552.md), worth reading only as its author''s university''s account of it.'
 title: "Professor sees urgent need for research on AI chatbots and risk of delusions"
 version: 1
 history:
@@ -16,7 +16,7 @@ url: 'https://health.au.dk/en/display/artikel/professor-sees-urgent-need-for-res
 first_author: 'Christensen'
 implementations: []
 summary: >-
-  Christensen (2025), Aarhus University press release on Østergaard's 2025 editorial (LIT-tmpy7552), quoting him. A stand-in, not the editorial. Its account is THEORY-tmpwxw68.
+  Christensen (2025), Aarhus University press release on Østergaard's 2025 editorial ([LIT-tmpy7552](LIT-tmpy7552.md)), quoting him. A stand-in, not the editorial. Its account is [THEORY-tmpwxw68](../theory.d/THEORY-tmpwxw68.md).
 ---
 <!-- inactive-ok-file: LIT-tmpy7552 THEORY-tmpwxw68 — Unfetched or Proposed; the work it stands in for, and its account -->
 
@@ -31,4 +31,4 @@ Christensen (2025), Aarhus University, Faculty of Health Sciences, press release
 
 ## Standing in the record
 
-A stand-in for LIT-tmpy7552, as far as its author's university reports it.
+A stand-in for [LIT-tmpy7552](LIT-tmpy7552.md), as far as its author's university reports it.

@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read in full 2026-11-27, v6 (NOTE-tmpxg6hn); worth reading as the first clinicians'' framing of chatbot-associated delusions: three themes and a trajectory coded from 17 press and Reddit vignettes, a mechanism (sycophancy, context, gradual drift), safeguards and a research agenda. A perspective piece; its cases are second-hand.'
+status_note: 'read in full 2026-11-27, v6 ([NOTE-tmpxg6hn](../notes.d/NOTE-tmpxg6hn.md)); worth reading as the first clinicians'' framing of chatbot-associated delusions: three themes and a trajectory coded from 17 press and Reddit vignettes, a mechanism (sycophancy, context, gradual drift), safeguards and a research agenda. A perspective piece; its cases are second-hand.'
 title: "Delusions by design? How everyday AIs might be fuelling psychosis (and what can be done about it)"
 version: 2
 history:
@@ -21,7 +21,7 @@ doi: '10.31234/osf.io/cmy7n_v1'
 first_author: 'Morrin'
 implementations: []
 summary: >-
-  Morrin, Nicholls, Levin, Yiend, Iyengar, DelGuidice, Bhattacharyya, MacCabe, Tognin, Twumasi, Alderson-Day and Pollak (2025), a PsyArXiv preprint, by its own description "a perspective piece". From 17 press and Reddit vignettes it codes three themes (spiritual awakening or mission, a sentient or god-like AI, romantic attachment) and a trajectory from everyday tasks to a self-reinforcing drift; it proposes sycophancy, long context and gradual drift as mechanisms, gives equal space to possible benefits, proposes safeguards, and leaves de novo onset and course open. Its account is THEORY-tmpssr6c.
+  Morrin, Nicholls, Levin, Yiend, Iyengar, DelGuidice, Bhattacharyya, MacCabe, Tognin, Twumasi, Alderson-Day and Pollak (2025), a PsyArXiv preprint, by its own description "a perspective piece". From 17 press and Reddit vignettes it codes three themes (spiritual awakening or mission, a sentient or god-like AI, romantic attachment) and a trajectory from everyday tasks to a self-reinforcing drift; it proposes sycophancy, long context and gradual drift as mechanisms, gives equal space to possible benefits, proposes safeguards, and leaves de novo onset and course open. Its account is [THEORY-tmpssr6c](../theory.d/THEORY-tmpssr6c.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpssr6c — Proposed; the account filed from the reading -->
 
@@ -37,4 +37,4 @@ Morrin, Nicholls, Levin, Yiend, Iyengar, DelGuidice, Bhattacharyya, MacCabe, Tog
 
 ## Standing in the record
 
-Read for LEAD-tmpp60f9's table: whether themes converge across users, exposure dose, course after use stops, personas carried between instances, and whether the model treats vulnerable users differently.
+Read for [LEAD-tmpp60f9](../leads.d/LEAD-tmpp60f9.md)'s table: whether themes converge across users, exposure dose, course after use stops, personas carried between instances, and whether the model treats vulnerable users differently.

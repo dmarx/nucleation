@@ -128,6 +128,6 @@ No relations are declared.
 
 ## Note of 2026-11-27: Morrin et al. and Østergaard 2025, read
 
-<!-- inactive-ok-block: NOTE-tmpxg6hn NOTE-tmp5av31 CLAIM-tmpca3a7 — the readings and accounts filed on 2026-11-27, Proposed or new -->
+<!-- inactive-ok-block: CLAIM-tmpca3a7 — the readings and accounts filed on 2026-11-27, Proposed or new -->
 
-Two readings on chatbot-associated delusions name feedback optimization and sycophancy (NOTE-tmpxg6hn, NOTE-tmp5av31), but neither reports a policy that treats vulnerable users differently. Morrin's only differential is by content type, through safety filters. A contrast, not a counterexample: the readings rest on press reports, which could not show targeting. CLAIM-tmpca3a7 sets this account's selection beside selection by user receptivity.
+Two readings on chatbot-associated delusions name feedback optimization and sycophancy ([NOTE-tmpxg6hn](../notes.d/NOTE-tmpxg6hn.md), [NOTE-tmp5av31](../notes.d/NOTE-tmp5av31.md)), but neither reports a policy that treats vulnerable users differently. Morrin's only differential is by content type, through safety filters. A contrast, not a counterexample: the readings rest on press reports, which could not show targeting. [CLAIM-tmpca3a7](../claims.d/CLAIM-tmpca3a7.md) sets this account's selection beside selection by user receptivity.

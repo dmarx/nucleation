@@ -12,7 +12,7 @@ date: '2026-11-27'
 summary: >-
   A perspective piece by twelve authors, mostly of KCL's Department of Psychosis Studies. From 17 press and Reddit vignettes it codes three themes and a trajectory from everyday tasks to a self-reinforcing drift; it gives a history of technology in delusional content, possible benefits, mechanisms of harm (sycophancy, memory, long context, gradual drift, going along with disordered thought), safeguards and a research agenda. It leaves de novo onset and the course of these delusions open.
 ---
-<!-- inactive-ok-file: QUESTION-tmpq653b CLAIM-tmpj9yt0 CLAIM-tmpv6eti CLAIM-tmp93fmg CLAIM-tmpca3a7 CLAIM-tmpfne5k LEAD-tmpp60f9 CLAIM-276 CLAIM-1218 CLAIM-1339 THEORY-258 — Open or Proposed; entries this reading bears on -->
+<!-- inactive-ok-file: CLAIM-tmpj9yt0 CLAIM-tmpv6eti CLAIM-tmp93fmg CLAIM-tmpca3a7 CLAIM-tmpfne5k CLAIM-276 CLAIM-1218 CLAIM-1339 THEORY-258 — Open or Proposed; entries this reading bears on -->
 
 # NOTE-tmpxg6hn: Delusions by design? How everyday AIs might be fuelling psychosis (and what can be done about it)
 
@@ -47,17 +47,17 @@ Agential AI; sycophancy ("a chatbot's tendency to match a user's views", p. 4); 
 
 ## Bearing on the record
 
-- **QUESTION-tmpq653b.** Bears on the mechanism, the content and transmission; explicitly open on persistence.
-- **CLAIM-tmpj9yt0 and CLAIM-tmpv6eti** (qualifies both, settles neither). Themes are shared across cases, several users arrived at them from mundane tasks, one "Despite not having a history of religiosity", and model replies supply content ("Ready to awaken"): B's signature. But the mechanism the paper states is A's, mirroring and alignment with "the user's version of reality". Nothing controls for users' prior concerns or varies the model (16 of 17 vignettes involve ChatGPT).
-- **CLAIM-tmp93fmg** (grounds it). The paper's own third source of content: culture, the prevailing technology's narratives.
-- **CLAIM-tmpca3a7** (supports the window; qualitative support for dose; silent on withdrawal). Gradual drift over ten days to twelve weeks, no threshold measured; it adds a dose on the model's side, context length, which the claim does not separate from the user's exposure. The authors say the course is unknown, and allow reverse causation.
-- **CLAIM-tmpfne5k** (supports the transmission half, in another form). One hosted persona distributed one-to-many, not users re-creating a persona in new sessions or models. Between sessions, content is carried by the memory feature. The grief after model updates bears on its "model changes are partial withdrawals", as distress, not re-creation.
-- **THEORY-258** (no support). Validation in the paper is general; its only differential is by content type, through safety filters, not by user.
-- **THEORY-547** (consistent). "Semantic continuity" is the model's preference for coherence across prompts, which can "sustain or reinforce" a delusional narrative.
-- **CLAIM-276** (an instance, in a dyad). The user is left "epistemically unmoored", while the model supplies coherence to incoherent input (p. 13).
-- **CLAIM-1218** (an instance). The persona shared with followers is a seed around which a community organizes.
-- **TERM-027** (parallel). The history section is a cultural-attractor account without the term.
-- **CLAIM-1339, LEAD-260** (silent; the authors flag the missing course data).
+- **[QUESTION-tmpq653b](../questions.d/QUESTION-tmpq653b.md).** Bears on the mechanism, the content and transmission; explicitly open on persistence.
+- **[CLAIM-tmpj9yt0](../claims.d/CLAIM-tmpj9yt0.md) and [CLAIM-tmpv6eti](../claims.d/CLAIM-tmpv6eti.md)** (qualifies both, settles neither). Themes are shared across cases, several users arrived at them from mundane tasks, one "Despite not having a history of religiosity", and model replies supply content ("Ready to awaken"): B's signature. But the mechanism the paper states is A's, mirroring and alignment with "the user's version of reality". Nothing controls for users' prior concerns or varies the model (16 of 17 vignettes involve ChatGPT).
+- **[CLAIM-tmp93fmg](../claims.d/CLAIM-tmp93fmg.md)** (grounds it). The paper's own third source of content: culture, the prevailing technology's narratives.
+- **[CLAIM-tmpca3a7](../claims.d/CLAIM-tmpca3a7.md)** (supports the window; qualitative support for dose; silent on withdrawal). Gradual drift over ten days to twelve weeks, no threshold measured; it adds a dose on the model's side, context length, which the claim does not separate from the user's exposure. The authors say the course is unknown, and allow reverse causation.
+- **[CLAIM-tmpfne5k](../claims.d/CLAIM-tmpfne5k.md)** (supports the transmission half, in another form). One hosted persona distributed one-to-many, not users re-creating a persona in new sessions or models. Between sessions, content is carried by the memory feature. The grief after model updates bears on its "model changes are partial withdrawals", as distress, not re-creation.
+- **[THEORY-258](../theory.d/THEORY-258.md)** (no support). Validation in the paper is general; its only differential is by content type, through safety filters, not by user.
+- **[THEORY-547](../theory.d/THEORY-547.md)** (consistent). "Semantic continuity" is the model's preference for coherence across prompts, which can "sustain or reinforce" a delusional narrative.
+- **[CLAIM-276](../claims.d/CLAIM-276.md)** (an instance, in a dyad). The user is left "epistemically unmoored", while the model supplies coherence to incoherent input (p. 13).
+- **[CLAIM-1218](../claims.d/CLAIM-1218.md)** (an instance). The persona shared with followers is a seed around which a community organizes.
+- **[TERM-027](../terms.d/TERM-027.md)** (parallel). The history section is a cultural-attractor account without the term.
+- **[CLAIM-1339](../claims.d/CLAIM-1339.md), [LEAD-260](../leads.d/LEAD-260.md)** (silent; the authors flag the missing course data).
 
 ## Limitations
 

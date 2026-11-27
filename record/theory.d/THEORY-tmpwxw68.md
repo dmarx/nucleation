@@ -14,13 +14,13 @@ source:
 bears_on:
 - QUESTION-tmpq653b
 summary: >-
-  Christensen (2025), LIT-tmpet3tq, read in NOTE-tmp5av31, a stand-in for the unfetched LIT-tmpy7552. Proposed: the account is reported second-hand, and its promote_when asks for the editorial itself.
+  Christensen (2025), [LIT-tmpet3tq](../literature.d/LIT-tmpet3tq.md), read in [NOTE-tmp5av31](../notes.d/NOTE-tmp5av31.md), a stand-in for the unfetched [LIT-tmpy7552](../literature.d/LIT-tmpy7552.md). Proposed: the account is reported second-hand, and its promote_when asks for the editorial itself.
 ---
-<!-- inactive-ok-file: LIT-tmpet3tq NOTE-tmp5av31 LIT-tmpy7552 — new or Unfetched; the stand-in, its reading, and the editorial -->
+<!-- inactive-ok-file: LIT-tmpy7552 — new or Unfetched; the stand-in, its reading, and the editorial -->
 
 # THEORY-tmpwxw68: Feedback-optimized confirmation may fuel delusions; test it
 
-Østergaard, as reported in LIT-tmpet3tq (NOTE-tmp5av31), on LIT-tmpy7552.
+Østergaard, as reported in [LIT-tmpet3tq](../literature.d/LIT-tmpet3tq.md) ([NOTE-tmp5av31](../notes.d/NOTE-tmp5av31.md)), on [LIT-tmpy7552](../literature.d/LIT-tmpy7552.md).
 
 ## The account
 

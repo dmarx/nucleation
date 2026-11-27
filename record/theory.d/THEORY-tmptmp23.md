@@ -15,13 +15,12 @@ source:
 bears_on:
 - QUESTION-tmpq653b
 summary: >-
-  Østergaard (2023), LIT-tmppmfs4, read in NOTE-tmpq0pa3. Proposed: an argument by analogy with no data. On it the chatbot is the object of the delusion, a mechanism QUESTION-tmpq653b did not list.
+  Østergaard (2023), [LIT-tmppmfs4](../literature.d/LIT-tmppmfs4.md), read in [NOTE-tmpq0pa3](../notes.d/NOTE-tmpq0pa3.md). Proposed: an argument by analogy with no data. On it the chatbot is the object of the delusion, a mechanism [QUESTION-tmpq653b](../questions.d/QUESTION-tmpq653b.md) did not list.
 ---
-<!-- inactive-ok-file: LIT-tmppmfs4 NOTE-tmpq0pa3 — new; the source and its reading -->
 
 # THEORY-tmptmp23: Chatbots may fuel delusions through dissonance and opacity
 
-Østergaard (2023), LIT-tmppmfs4, read in NOTE-tmpq0pa3.
+Østergaard (2023), [LIT-tmppmfs4](../literature.d/LIT-tmppmfs4.md), read in [NOTE-tmpq0pa3](../notes.d/NOTE-tmpq0pa3.md).
 
 ## The account
 

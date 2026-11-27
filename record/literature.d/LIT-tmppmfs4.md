@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read in full 2026-11-27 (NOTE-tmpq0pa3); worth reading as the agenda-setting statement of the hypothesis that chatbots may fuel delusions in people prone to psychosis. It is a two-page opinion piece with no data or cases, and its mechanism is cognitive dissonance and opacity, not sycophancy.'
+status_note: 'read in full 2026-11-27 ([NOTE-tmpq0pa3](../notes.d/NOTE-tmpq0pa3.md)); worth reading as the agenda-setting statement of the hypothesis that chatbots may fuel delusions in people prone to psychosis. It is a two-page opinion piece with no data or cases, and its mechanism is cognitive dissonance and opacity, not sycophancy.'
 title: "Will Generative Artificial Intelligence Chatbots Generate Delusions in Individuals Prone to Psychosis?"
 version: 2
 history:
@@ -21,7 +21,7 @@ doi: '10.1093/schbul/sbad128'
 first_author: 'Østergaard'
 implementations: []
 summary: >-
-  Østergaard (2023), Schizophrenia Bulletin, an editorial. From an informal test of ChatGPT and by analogy with internet-related psychosis between humans, it argues that chatbots are likely to fuel delusions in people prone to psychosis, through the dissonance of an interlocutor that seems a person and is known not to be, and through the opacity of how it works. Its five example delusions are "strictly hypothetical". Its account is THEORY-tmptmp23.
+  Østergaard (2023), Schizophrenia Bulletin, an editorial. From an informal test of ChatGPT and by analogy with internet-related psychosis between humans, it argues that chatbots are likely to fuel delusions in people prone to psychosis, through the dissonance of an interlocutor that seems a person and is known not to be, and through the opacity of how it works. Its five example delusions are "strictly hypothetical". Its account is [THEORY-tmptmp23](../theory.d/THEORY-tmptmp23.md).
 ---
 <!-- inactive-ok-file: THEORY-tmptmp23 — Proposed; the account filed from the reading -->
 
@@ -36,4 +36,4 @@ summary: >-
 
 ## Standing in the record
 
-Read for LEAD-tmpp60f9 and QUESTION-tmpq653b. It answers none of the lead's five rows, and adds a mechanism the question did not list.
+Read for [LEAD-tmpp60f9](../leads.d/LEAD-tmpp60f9.md) and [QUESTION-tmpq653b](../questions.d/QUESTION-tmpq653b.md). It answers none of the lead's five rows, and adds a mechanism the question did not list.

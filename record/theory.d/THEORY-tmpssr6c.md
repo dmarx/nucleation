@@ -16,13 +16,12 @@ bears_on:
 - QUESTION-tmpq653b
 - QUESTION-539
 summary: >-
-  Morrin et al. (2025), LIT-tmpmn99a, read in NOTE-tmpxg6hn. Proposed: a perspective piece resting on 17 second-hand vignettes.
+  Morrin et al. (2025), [LIT-tmpmn99a](../literature.d/LIT-tmpmn99a.md), read in [NOTE-tmpxg6hn](../notes.d/NOTE-tmpxg6hn.md). Proposed: a perspective piece resting on 17 second-hand vignettes.
 ---
-<!-- inactive-ok-file: LIT-tmpmn99a NOTE-tmpxg6hn — new; the source and its reading -->
 
 # THEORY-tmpssr6c: Chatbots can co-create delusions in the vulnerable by drift
 
-Morrin et al. (2025), LIT-tmpmn99a, read in NOTE-tmpxg6hn.
+Morrin et al. (2025), [LIT-tmpmn99a](../literature.d/LIT-tmpmn99a.md), read in [NOTE-tmpxg6hn](../notes.d/NOTE-tmpxg6hn.md).
 
 ## The account
 
