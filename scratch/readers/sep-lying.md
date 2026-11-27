@@ -90,5 +90,11 @@ Not held anywhere: palter, bald-faced lie, non-deceptive lie, Fallis, twisted se
 - NOTE-019: Frankfurt's "bullshit" vs "reckless disregard for the truth"; LIT-693 Frankfurt (not "On Bullshit", which the entry cites as Frankfurt 1986).
 - TERM-057 and CLAIM-tmp7oycz use "mislead"; worth checking against Carson's sense.
 
-### Other works quoted (all as quoted inside the SEP entry, not read)
-Carson 2010 Lying and Deception (OUP); Chisholm and Feehan 1977 "The Intent to Deceive", J. Phil.; Smith 2004 Why We Lie: The Evolutionary Roots of Deception; Ekman 1985; Ryle 1949; Fallis 2009; Mahon 2007; Faulkner 2013; Baron 1988; Barnes 1997; Kant 1996. Provenance: SEP entry §§ as cited above.
+### Other works quoted (all as quoted inside the SEP entry, not read; details from the entry's bibliography)
+- Chisholm, R. M. and T. D. Feehan 1977, 'The intent to deceive', Journal of Philosophy 74: 143-159 (D5-D7; §3.1).
+- Carson, T. L. 2010 (cited for "mislead", D2, D3; §3); Carson 2006 'The Definition of Lying', Nous 40: 284-306 (L12).
+- Smith, D. L. 2004, Why We Lie: The Evolutionary Roots of Deception and the Unconscious Mind, St. Martin's Press (functional definition of lying; §1.5.1).
+- Ekman, P. 1985, Telling Lies, W.W. Norton (§1.5.1).
+- Mahon, J. E. 2007, 'A Definition of Deceiving', International Journal of Applied Philosophy 21: 181-194 (D4; §3.1).
+- Fallis, D. 2009, 'What is Lying?', Journal of Philosophy 106: 29-56 (§2.2, §2.4).
+- Faulkner 2013; Ryle 1949; Baron 1988 'What Is Wrong with Self-Deception?'; Barnes 1997 Seeing through self-deception (CUP); Kant 1996.
