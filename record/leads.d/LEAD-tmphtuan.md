@@ -26,7 +26,7 @@ summary: >-
   registered. Registering and reading them is the owner's call. The
   wording is the assistant's (Claude, in this session).
 ---
-<!-- inactive-ok-file: QUESTION-tmpao6hx QUESTION-tmpq653b DISTINCTION-tmpwhh30 CLAIM-tmp93fmg — Open, Proposed or new; the entries this lead would advance -->
+<!-- inactive-ok-file: DISTINCTION-tmpwhh30 CLAIM-tmp93fmg — Open, Proposed or new; the entries this lead would advance -->
 
 # LEAD-tmphtuan: Read the literatures on delusions with mathematical content: the phenomenology of delusion formation, delusions of invention, mathematical ability and psychosis, first-person accounts, mathematical cranks, and chatbot cases with transcripts
 
@@ -68,11 +68,11 @@ All entries come from search results on 2026-11-27 and are unverified.
 
 | Observation | Bears on |
 |---|---|
-| A shared structure of perplexity, then an "aha", then everything fitting, in mathematical cases | QUESTION-tmpao6hx, part 1 |
+| A shared structure of perplexity, then an "aha", then everything fitting, in mathematical cases | [QUESTION-tmpao6hx](../questions.d/QUESTION-tmpao6hx.md), part 1 |
 | Shared themes: famous problem, world formula, invention for mankind, hidden numbers | part 2 |
 | Whether patients or mathematicians report the delusional certainty as felt like real insight | part 3 |
-| Transcripts read against a mathematical delusion co-created with a chatbot | DISTINCTION-tmpwhh30 |
-| Delusional content following the culture's technology | CLAIM-tmp93fmg |
+| Transcripts read against a mathematical delusion co-created with a chatbot | [DISTINCTION-tmpwhh30](../distinctions.d/DISTINCTION-tmpwhh30.md) |
+| Delusional content following the culture's technology | [CLAIM-tmp93fmg](../claims.d/CLAIM-tmp93fmg.md) |
 
 ## Notes
 
