@@ -242,3 +242,15 @@ for the owner keep it apart ([TERM-159](../terms.d/TERM-159.md), [TERM-160](../t
 answer frontier by the kind of inquiry and its acceptance standard;
 [CLAIM-1190](CLAIM-1190.md) complements this claim. No status change. The note is the
 assistant's (Claude, in this session); adopting it is the owner's call.
+
+## Note of 2026-11-26: Veeriah et al. (2019), read
+
+
+A parallel only. [LIT-tmpl1kcf](../literature.d/LIT-tmpl1kcf.md) ([NOTE-tmpibrnu](../notes.d/NOTE-tmpibrnu.md)) has an agent learn which
+targets to predict: "questions" in the general-value-function sense, 128
+cumulants and discounts in a fixed family. They are chosen only for their
+effect on one fixed main task, are never pursued, and are never used to
+act. The paper shows that what a learner predicts can be learned, and that
+this changes what it can later do through its representation. It does not
+show formulation of questions in this claim's inquiry-frontier sense. No
+status change.

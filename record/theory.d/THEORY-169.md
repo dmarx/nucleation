@@ -168,3 +168,20 @@ No status change.
 <!-- inactive-ok-file: TERM-131 — Proposed or newly filed; cited from the readings of 2026-11-19 -->
 
 Background for [TERM-131](../terms.d/TERM-131.md) ([NOTE-2160](../notes.d/NOTE-2160.md)): Brown and colleagues' in-context learning keeps no state beyond the sequence; on this account conditioning and per-sequence weight updates differ in what is kept, not in kind, so retention is the test for whether it is learning.
+
+## Note of 2026-11-26: von Oswald et al. (2023), read
+
+<!-- inactive-ok-block: THEORY-tmp8xq94 — new; the reading this note reports -->
+
+Supports and extends this account. In the sequel to [LIT-792](../literature.d/LIT-792.md) ([LIT-tmpuv16r](../literature.d/LIT-tmpuv16r.md),
+[NOTE-tmpcktnn](../notes.d/NOTE-tmpcktnn.md)), Proposition 1 makes one causally masked linear
+self-attention head on tokens [Φ0 s_t, s_t, s_{t−1}] "identical to the
+gradient-induced update" of autoregressive least squares, a "‘full-batch’
+gradient step" from a nonzero Φ0. That is a further exact identity of the
+kind this account states, now under next-token training. The paper's
+mesa-layer adds a third exact learner layer, the ridge solution on the
+context, beside the batch-gradient and kernel learners held here. Its
+claims about deep and softmax models rest on agreement with tuned
+optimizers, probes and distillation, which is consistent with this account's
+caveat that trained transformers are not shown to do gradient descent. The
+account is [THEORY-tmp8xq94](THEORY-tmp8xq94.md), which extends this one. No status change.

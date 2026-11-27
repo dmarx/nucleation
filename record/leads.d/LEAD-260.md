@@ -120,3 +120,9 @@ seed or measures tie formation, so the lead's empirical core stays open;
 "holds none" should read "holds none that varies the seed or measures new
 relations". The correction is the assistant's (Claude, in this session).
 No status change; whether to narrow the lead is the owner's call.
+
+## Note of 2026-11-26: model retirements as natural seed withdrawal
+
+<!-- inactive-ok-block: CLAIM-tmpfne5k CLAIM-tmpca3a7 — new; the claims, question and lead the note cites -->
+
+[CLAIM-tmpfne5k](../claims.d/CLAIM-tmpfne5k.md) and [CLAIM-tmpca3a7](../claims.d/CLAIM-tmpca3a7.md) apply memetic nucleation to delusions during extended chatbot use ([QUESTION-tmpq653b](../questions.d/QUESTION-tmpq653b.md)). This lead's seed withdrawal can occur naturally there: when a model is retired or changed, the persona a user's conversations built loses its carrier. What follows tells nucleation from support, and whether users re-create the persona elsewhere measures the seed's reproduction. The site needs the reading in [LEAD-tmpp60f9](LEAD-tmpp60f9.md) first. The wording is the assistant's (Claude, in this session); adopting the site is the owner's call.

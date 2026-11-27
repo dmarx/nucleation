@@ -107,3 +107,17 @@ and [CLAIM-237](../claims.d/CLAIM-237.md), on side information and deficiency, b
 
 ## Note of 2026-11-19: Brown and colleagues, read
 An analogy close to evidence ([NOTE-2160](../notes.d/NOTE-2160.md)): in Brown and colleagues' results larger models need fewer demonstrations, a better interpreter substituting for transmitted examples, though across model sizes and without a measure of the substitution rate.
+
+## Note of 2026-11-26: von Oswald et al. (2023), read
+
+
+Bears on the question, at one limit. [LIT-tmpuv16r](../literature.d/LIT-tmpuv16r.md)'s fixed-teacher control
+([NOTE-tmpcktnn](../notes.d/NOTE-tmpcktnn.md), Appendix E.2) is the case where everything the context
+could transmit about the task is constant across sequences. There the
+interpreter substitutes for it entirely: the models "learn the fixed
+teacher", and no in-context learner forms. With a teacher that varies per
+sequence, the interpreter cannot substitute, and an in-context learner
+appears. So the substitution this question asks about is complete for
+what is invariant across contexts and impossible for what is not. The
+rate–distortion trade-off between those limits is not measured. No status
+change.

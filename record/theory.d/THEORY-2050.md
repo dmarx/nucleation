@@ -60,3 +60,13 @@ A transformer with constant depth can implement one gradient-descent step (O(d) 
 
 ## Note of 2026-11-19: Brown and colleagues, read
 A parallel ([NOTE-2160](../notes.d/NOTE-2160.md)): a from-scratch case of the de novo end of Brown and colleagues' spectrum, in-context learning of functions not seen in training.
+
+## Note of 2026-11-26: von Oswald et al. (2023), read
+
+
+A parallel, consistent with this account. [LIT-tmpuv16r](../literature.d/LIT-tmpuv16r.md) ([NOTE-tmpcktnn](../notes.d/NOTE-tmpcktnn.md))
+also finds deeper trained models behaving like ridge or least squares
+rather than one gradient step. It does so on autoregressive sequence tasks,
+with linear probes. The Sherman–Morrison construction this account's
+source uses is realized there as an actual layer, the mesa-layer. Neither
+paper's evidence on trained models is an exact identity. No status change.
