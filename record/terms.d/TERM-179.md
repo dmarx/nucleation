@@ -93,3 +93,9 @@ The owner's companion phrase, "measurement naivety", is not given a term:
 A46 §1's six forms (representational, statistical, causal, performative,
 organizational and normative naivety) are each held, at [TERM-108](TERM-108.md),
 [CLAIM-348](../claims.d/CLAIM-348.md), [CLAIM-402](../claims.d/CLAIM-402.md) and [CLAIM-060](../claims.d/CLAIM-060.md).
+
+## Note of 2026-11-27: shortcut learning as greedy agency
+
+<!-- inactive-ok-block: CLAIM-tmpnjaik — new; filed when the owner connected shortcut learning to the record's account of paperclip maximization -->
+
+The owner connected shortcut learning to the record's account of paperclip maximization, of which this term is the centre. CLAIM-tmpnjaik reads a shortcut as greedy agency at learning time, in both senses. It is temporally greedy because the earliest reliable correlate forecloses the truthmaker. It is jurisdictionally greedy because cases outside the training family have no standing in the objective. No change to this term.

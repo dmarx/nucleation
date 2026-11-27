@@ -76,3 +76,9 @@ watermark.
 That the correlate is never earned. Users are often right, and agreeing with
 a correct user is correct. The shortcut is the policy that agrees whether or
 not the user is right.
+
+## Note of 2026-11-27: relative to which objective
+
+<!-- inactive-ok-block: DISTINCTION-tmp8wqwj — new; filed when the owner connected shortcut learning to the record's account of paperclip maximization -->
+
+A correction from DISTINCTION-tmp8wqwj. Relative to the approval it was rewarded for, a sycophantic model is a proxy optimum (TERM-108), not a shortcut, since it goes on earning approval off the training family. It is a shortcut relative to the correctness its designers meant approval to track. This claim's argument holds for that second objective.

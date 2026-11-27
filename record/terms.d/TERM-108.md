@@ -129,3 +129,9 @@ Read on 2026-11-12 among the works of the exchange "luria experiment design"; ea
 - **Jackson et al.** ([THEORY-1775](../theory.d/THEORY-1775.md)): The Maintenance check (date-format version IRI) is the authors' own example of a proxy check they say does not establish the principle. Illustrates it.
 
 The term is unchanged.
+
+## Note of 2026-11-27: distinguished from a shortcut
+
+<!-- inactive-ok-block: DISTINCTION-tmp8wqwj TERM-tmp5d01f — new; filed when the owner connected shortcut learning to the record's account of paperclip maximization -->
+
+DISTINCTION-tmp8wqwj binds this term to TERM-tmp5d01f (shortcut). A proxy optimum satisfies its own objective off the training family, and a shortcut fails its own. No change to this term.
