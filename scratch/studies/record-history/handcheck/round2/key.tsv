@@ -1,0 +1,10 @@
+1	relation_add	relation_add	CLAIM-068	e4072c57c	{'field': 'grounds', 'target': 'THEORY-173', 'added': 0, 'removed': 0}
+2	relation_add	relation_add	CLAIM-394	43e74ba4d	{'field': 'bears_on', 'target': 'QUESTION-217', 'added': 0, 'removed': 0}
+3	relation_add	relation_add	CLAIM-526	81834e657	{'field': 'complements', 'target': 'CLAIM-529', 'added': 0, 'removed': 0}
+4	relation_add	relation_add	CLAIM-390	43e74ba4d	{'field': 'bears_on', 'target': 'QUESTION-221', 'added': 0, 'removed': 0}
+5	relation_add	relation_add	CLAIM-439	e32bf80d0	{'field': 'bears_on', 'target': 'QUESTION-059', 'added': 0, 'removed': 0}
+6	relation_add	relation_add	CLAIM-151	b4cd1f13c	{'field': 'complements', 'target': 'CLAIM-215', 'added': 0, 'removed': 0}
+7	relation_add	relation_add	CLAIM-429	fdd23d016	{'field': 'complements', 'target': 'CLAIM-428', 'added': 0, 'removed': 0}
+8	relation_add	relation_add	CLAIM-540	2811c0a2d	{'field': 'uses', 'target': 'TERM-099', 'added': 0, 'removed': 0}
+9	relation_add	relation_add	CLAIM-024	b83825cc2	{'field': 'objects_to', 'target': 'CLAIM-487', 'added': 0, 'removed': 0}
+10	relation_add	relation_add	CLAIM-229	a9317d8a6	{'field': 'superseded_by', 'target': 'ARG-013', 'added': 0, 'removed': 0}

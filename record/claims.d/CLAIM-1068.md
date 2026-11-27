@@ -9,7 +9,13 @@ statement: >-
   content the record held under codes was re-derived without them in 20 of
   48 reconstructed exchanges, because the collaborator had to find the code
   by what the content said
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-26'
+  note: >-
+    A dated note: the exchange 'Alignment consequences brainstorm' (ChatGPT,
+    2026-11-26), A27 §§3 and 11 and A29 §6 (see the note). No other change.
 role: counter
 warrant: empirical
 defeated_if: >-
@@ -84,3 +90,8 @@ its counts, with [CLAIM-1023](CLAIM-1023.md), and the choice between them is the
 under [ADR-127](../decisions.d/ADR-127.md). Its causal clause, that the collaborator had to find the code
 by what the content said, is not measured by the study, which cannot see
 what the collaborator had to hand.
+
+## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U15–A29), cooled entries are found by content
+<!-- inactive-ok-file: TERM-tmp96b3g CLAIM-tmpdkwbk LIT-tmpua7jt — Proposed or Deferred; filed from the same exchange on 2026-11-26 -->
+
+The availability tiers proposed in the exchange ([TERM-tmp96b3g](../terms.d/TERM-tmp96b3g.md)) leave a cold entry "Recoverable by identity", by its code, and take it out of default search. This claim is the reason that is not enough: in the record's exchanges content held under codes was re-derived without them in 20 of 48 reconstructed exchanges, "because the collaborator had to find the code by what the content said". A collaborator who does not know a cold entry's code meets it only through something that matches its content. A29 §6's ghost representation, after ARC's ghost lists ([LIT-tmpua7jt](../literature.d/LIT-tmpua7jt.md)), is the remedy that fits: a cooled entry keeps its keywords in a cheap second index that every search consults, so an inquiry that meets cooled material is told so. A27 §11's retrieval contract (default search excludes cold entries) would, without it, turn this claim's failure into policy. Cooling that keeps dependencies visible ([CLAIM-tmpdkwbk](CLAIM-tmpdkwbk.md)) does not cover this case, which is about finding, not about review. A bearing on a design; no edge. The note is the assistant's (Claude, in this session). No status change.

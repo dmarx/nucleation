@@ -11,7 +11,7 @@ statement: >-
   requirements never raises its score when the hidden requirements do not
   otherwise come to light: on every path it adds only penalized violations
   and spent budget, so an institution acting on that score makes no inquiry
-version: 3
+version: 4
 history:
 - version: 1
   date: '2026-11-23'
@@ -31,6 +31,16 @@ history:
     Joins the work governance-of-becoming under ADR-104's rule, as
     stated or used in A49 Article 11 abstract, §7 (ADR-147). No
     change of title or status.
+- version: 4
+  date: '2026-11-26'
+  note: >-
+    Dated note of 2026-11-26 from the exchange "Alignment
+    consequences brainstorm" (ChatGPT, 2026-11-26), U6–A11, U7–A13
+    and U8–A15: A11 §8 applies the claim to AI laboratories, citing
+    CLAIM-662; A13 §4 offers Luria's acknowledgements as a partial
+    answer, which the assistant checks against the claim's
+    conditions; A15's R6 states its outcome ladder. The claim is
+    unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -142,3 +152,40 @@ unchanged. The wording of this note is the assistant's (Claude, in this session)
 ## Note of 2026-11-25: the researcher's side of the same pattern
 
 ChatGPT, at A21 of the exchange "Hyper article interpretation" (2026-11-22), writing on academic incentives: "Why investigate a possible weakness in your earlier work when doing so might reduce its apparent significance?", and "If corrections and maintenance are difficult to publish, researchers have less incentive to spend time correcting and maintaining existing work." This is the pattern this claim derives for an institution, seen from a researcher evaluated by publications: discovering a flaw in one's own result scores as a loss and earns nothing as discovery. A gives it no model, so the note records an instance of the pattern and does not extend the claim. It bears on [QUESTION-542](../questions.d/QUESTION-542.md). The note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call. The claim is unchanged.
+
+## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U6–A11, U7–A13, U8–A15)
+
+<!-- inactive-ok-file: CLAIM-tmpygs06 CLAIM-tmpoh8gm — new; the claims of 2026-11-26 the note names -->
+
+Three bearings, and a qualification in the assistant's voice.
+
+**An application (A11 §8).** A cites [CLAIM-662](CLAIM-662.md) for "Penalizing
+discovery", correctly as far as [CLAIM-662](CLAIM-662.md) goes, and draws the conclusion
+this claim states: "an AI laboratory scored on the number of safety
+failures it discovers might inadvertently select against its own safety
+research." This claim, not [CLAIM-662](CLAIM-662.md), is the one that says inquiry never
+pays under those conditions; A did not cite it. "More generally, we should
+distinguish a reduction in violations from a reduction in the capacity to
+recognize violations."
+
+**A requirement (A15, R6).** A's platform must not collapse "No failures
+discovered", "Failures discovered", "Failures acknowledged", "Failures
+corrected" and "Correction mechanisms maintained" into "a single compliance
+indicator", reading the first as "Possibly no effective investigation".
+That is this claim's consequence made a rule of reporting
+([CLAIM-tmpygs06](CLAIM-tmpygs06.md)).
+
+**A proposed answer (A13 §4), checked (the assistant).** A13 offers
+Luria's acknowledgements as "a concrete partial response": a warning "can
+be acknowledged without disappearing from the accounting", and Luria's
+principle that "a suppression must not become a silence" is checked in its
+documents ([CLAIM-tmpoh8gm](CLAIM-tmpoh8gm.md)). Against this claim's conditions: an
+acknowledged finding does not fail the check, so in an institution scored
+on pass or fail, recognizing a requirement no longer costs the score, and
+the first condition, that each recognized violation is penalized, fails;
+inquiry can then pay. But Luria counts acknowledgements in its report, so
+an institution scored on that count is back under the condition, with the
+count as its penalty. Acknowledgements answer the incentive only where the
+count is read as evidence of looking, as A15's ladder reads it, and not as
+a score to lower. The third condition, remediation lagging recognition, is
+untouched by them. The wording is the assistant's (Claude, in this session); adopting it is the owner's call.

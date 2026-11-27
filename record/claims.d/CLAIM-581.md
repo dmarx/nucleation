@@ -12,7 +12,7 @@ statement: >-
   grows; under additive costs the threshold is only an extended
   pseudometric, budgeted identification need not be transitive, and no such
   tree exists
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-11-06'
@@ -41,6 +41,13 @@ history:
   note: >-
     A dated note: CLAIM-780 shows this claim's tree is
     the small-noise limit of a chain's log commute-time geometry. No change of status or title.
+- version: 5
+  date: '2026-11-26'
+  note: >-
+    Dated note from the exchange "Alignment consequences brainstorm"
+    (ChatGPT, 2026-11-26), A19: the threshold read as a modal
+    accessibility relation; under this claim's premises the frame is S5.
+    No change of status or statement.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -245,3 +252,14 @@ what that geometry becomes. This claim's peak-capacity threshold is thereby
 also the exponent of a transition time. [CLAIM-770](CLAIM-770.md) adds that the tree
 changes only where two barriers cross. A bearing of use; nothing here
 changes this claim's derivation.
+
+## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U11–A19)
+
+<!-- inactive-ok-file: CLAIM-tmpti7cf CLAIM-tmpi0rdz — Proposed; filed from the exchange of 2026-11-26 and a held claim it cites -->
+
+Answering the owner's U11 on the geometry of possibility ([QUESTION-tmpahfz9](../questions.d/QUESTION-tmpahfz9.md)), A19 §2 states this claim correctly, "under reversible transitions and normalized peak costs, these thresholds define an extended pseudo-ultrametric", and calls it "an actual geometric result, not merely a spatial metaphor". Two points:
+
+- **A19's formula is [CLAIM-571](CLAIM-571.md)'s, not this claim's.** A19 writes d_peak(x, y) = inf over paths of sup_{z∈γ} r(z), with r the capacity required at each configuration on the path, endpoints included. This claim takes identities free. With A19's formula d(x, x) = r(x), so "reachable within b" is reflexive only where holding is affordable, which is this claim's "Identity is free; holding is not" seen from the other side. The strong triangle inequality holds either way.
+- **The modal reading.** A19 §5 reads reachability within b as a Kripke accessibility relation. Under this claim's premises it is an equivalence relation at every budget, so its frames validate S5, not only S4 as A19 first says; S4 is the one-way case of [CLAIM-591](CLAIM-591.md), and with holding costs the frame on the whole space is KB4 ([CLAIM-tmpti7cf](CLAIM-tmpti7cf.md), the assistant's, checked). In the S5 case a condition cannot be latent at a configuration and entrenchable from it within the same budget; entrenchment needs one-way moves or a lower later budget, which is a move between classes of this claim's tree ([CLAIM-tmpi0rdz](CLAIM-tmpi0rdz.md), the assistant's).
+
+A19 §2 also cites [CLAIM-646](CLAIM-646.md) as having "established" that peak thresholds do not fix cumulative costs; [CLAIM-646](CLAIM-646.md) is demonstrated and Proposed. No change of status or statement.
