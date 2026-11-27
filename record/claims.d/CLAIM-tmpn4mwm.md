@@ -37,7 +37,7 @@ summary: >-
   unregistered (LEAD-tmpiv765). The wording is the assistant's (Claude, in
   this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpahrqb CLAIM-tmpqwhst LEAD-tmpiv765 — Proposed or new; the claim it rests on, its alternative, and the reading lead -->
+<!-- inactive-ok-file: CLAIM-tmpahrqb CLAIM-tmpqwhst CLAIM-tmprblj4 LEAD-tmpiv765 — Proposed or new; the claim it rests on, its alternative, the claim on the lost outside frame, and the reading lead -->
 
 # CLAIM-tmpn4mwm: Psychedelic meaningfulness is apophany held at a reversible stage
 
