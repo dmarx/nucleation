@@ -2849,3 +2849,5 @@ views:
   readings-by-line:
     template: record/views.d/readings-by-line.md.j2
     output: docs/readings-by-line.md
+site:
+  social_cards: false
