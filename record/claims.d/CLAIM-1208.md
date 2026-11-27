@@ -9,7 +9,13 @@ statement: >-
   "a ∈ A for some a", only where nothing that follows depends on it; so
   whether a record of findings is proof-relevant is settled by whether some
   later step uses a finding's evidence, and not only the fact that it passes
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-26'
+  note: >-
+    A dated note: the exchange 'Alignment consequences brainstorm' (ChatGPT,
+    2026-11-26), A27 §1 and A29 §11 (see the note). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -88,3 +94,8 @@ passing, "A true", and there it is not.
   is the suppressed form.
 - Martin-Löf does not state the criterion in general. He states it for the
   projection rule and the reals; the generalization is the filer's.
+
+## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U15–A29), use-relative fidelity
+<!-- inactive-ok-file: CLAIM-tmp5zt7f TERM-tmp3t5jq — Proposed; filed from the same exchange on 2026-11-26 -->
+
+A27 §1 cites this claim correctly for consolidation: "Evidence can be condensed when subsequent reasoning does not depend on the discarded construction." A29 §11 generalizes it: "Some later operations depend on the construction establishing a result. Others depend only on the result. The former require more fidelity than the latter. This gives us a potential theory of use-relative representational fidelity." Fidelity is the third of the separate dimensions A proposes ([CLAIM-tmp5zt7f](CLAIM-tmp5zt7f.md)), and this claim is its formal case: a finding may be kept proof-irrelevantly, as "A true", exactly where nothing later uses its evidence. A29 §9's slices (explanatory, justificatory, correction, developmental, historical; [TERM-tmp3t5jq](../terms.d/TERM-tmp3t5jq.md)) are families of later uses, so a finding can be proof-relevant for one slice and not another. An application; no edge. The note is the assistant's (Claude, in this session). No status change.

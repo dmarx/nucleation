@@ -11,7 +11,7 @@ statement: >-
   the same preferences decline profitable delayed investments below it, a
   choice that reads as impatience and is the right policy for survival by a
   deadline; covering needs through the delay buys the time
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-11-06'
@@ -40,6 +40,12 @@ history:
     2026-11-11): it no longer carries realizability, which no
     relation to a realizability-first entry supplies (ADR-085). No
     other change.
+- version: 5
+  date: '2026-11-26'
+  note: >-
+    Dated note of 2026-11-26 from the exchange "Alignment consequences
+    brainstorm" (ChatGPT, 2026-11-26): A5 §2's reading of class as
+    developmental possibilities. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -200,3 +206,20 @@ claim's earlier wording left that second sense to these readings.
   returns are invented. A household with positive expected savings would
   have lower thresholds, and one with negative expected savings would have
   higher ones.
+
+## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U3–A5)
+
+A5 §2 reads class "as a distribution of **developmental possibilities**":
+"Poverty could therefore be understood partly as a contraction of
+affordable reorganization pathways. Wealth, conversely, purchases not
+only goods but optionality, time, reversibility, experimentation and the
+capacity to survive unsuccessful transitions", so that "Inequality in the
+present becomes inequality in the capacity to produce different futures."
+This claim's buffer is the mechanism at a household's scale: a shallow
+buffer is a short deadline, and whether an investment raises survival
+depends on the buffer's depth. A5's self-reinforcing loop, wealth buying
+the transitions that build wealth, is the claim iterated, which the
+claim's toy does not run. A5 sets it beside the capability approach and
+asks "how are the mechanisms that generate and distribute capabilities
+themselves reproduced or transformed?" A parallel at a population's
+scale; the claim is unchanged.

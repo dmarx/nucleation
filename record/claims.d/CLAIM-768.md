@@ -11,7 +11,7 @@ statement: >-
   conservation both settle an entry and are told apart only by retention
   against a reference fixed outside the record's later restatements,
   measured as a diagnostic of mechanism and not as a standard of quality
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-20'
@@ -27,6 +27,11 @@ history:
     against a reference fixed outside the record's later restatements,
     measured as a diagnostic of mechanism and not as a standard of
     quality".
+- version: 3
+  date: '2026-11-26'
+  note: >-
+    A dated note: the exchange 'Alignment consequences brainstorm'
+    (ChatGPT, 2026-11-26), A33 §4 (see the note). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -59,6 +64,7 @@ rests_on:
 - CLAIM-635
 - CLAIM-772
 ---
+<!-- inactive-ok-file: CLAIM-tmpk015q — Proposed or Open; filed from the exchange 'Alignment consequences brainstorm' on 2026-11-26, cited in its dated note -->
 <!-- inactive-ok-file: CASE-307 — Proposed; LEAD-199's study of 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-189 CLAIM-190 ARG-028 CLAIM-068 — Proposed or Superseded; cited for what each holds, as open -->
 <!-- inactive-ok-file: CLAIM-778 CLAIM-772 CLAIM-779 — Proposed; filed in this contribution of 2026-11-20 -->
@@ -108,3 +114,18 @@ retention rather than to drift.
 ## Note of 2026-11-22: the revision count alone
 
 [LEAD-199](../leads.d/LEAD-199.md)'s count ([CASE-307](../cases.d/CASE-307.md)) found no settling with inbound edges at all: cited claims are revised more often at matched age, and entries settle with age. So the case this claim warned about, settling that the count cannot attribute to contraction or conservation, did not arise in the form expected; what settles is age, and what the count measures may be attention (148 of 303 revisions after a first edge fall within a day of it). This claim's point stands: retention against the originating turn ([LEAD-201](../leads.d/LEAD-201.md)) is still the measure that would tell the mechanisms apart.
+
+## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U17–A34)
+
+A33 §4 makes this claim's point for a different pair of mechanisms:
+"Crucially, stability alone cannot distinguish maturity from neglect. That
+requires looking at the surrounding activity." This claim says settling cannot
+tell conservation from contraction. A's remedy is the neighbourhood: a stable
+entry that new structure keeps building on is mature, and one nothing builds
+on is neglected. That separates A's pair. It does not separate this claim's
+pair, since an entry contracted onto the record's conventions can be built on
+as readily as one copied exactly. So the stability-generativity plane of
+[CLAIM-tmpk015q](CLAIM-tmpk015q.md) and [LEAD-tmp14mq0](../leads.d/LEAD-tmp14mq0.md) leaves the measure this claim asks for,
+retention against a reference outside the record ([LEAD-201](../leads.d/LEAD-201.md)), where it was. An
+independent restatement of the claim's caution, and a limit on what the plane
+can show. No status change.

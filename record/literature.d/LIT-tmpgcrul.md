@@ -1,0 +1,37 @@
+---
+status: Deferred
+status_note: >-
+  Registered 2026-11-26 from A8 of the exchange "Alignment consequences brainstorm"; not read. A lawful copy, hosted by the Public Health Law Center, answered 200 as a PDF on 2026-11-26; only its caption, contents page and last page were opened, to confirm the identifier.
+title: 'United States v. Philip Morris USA, Inc., et al., Civil Action No. 99-2496 (GK), Amended Final Opinion'
+version: 1
+history:
+- version: 1
+  date: '2026-11-26'
+  note: >-
+    Filed, not read. The record was searched by title, party, "tobacco" and "Philip Morris" and holds no entry for it (LIT-736 is a philosophy paper that mentions the industry). A8 cites the judgment without a link; the export keeps no web result. The copy's first page carries the caption, Civil Action No. 99-2496 (GK) and "AMENDED FINAL OPINION"; its last page is dated August 17, 2006, which is used. The reported citation, 449 F. Supp. 2d 1 (D.D.C. 2006), was not checked against a reporter. No email address was sent to any service.
+tags:
+- law
+- society-and-governance
+date: '2026-11-26'
+published: '2006-08-17'
+url: 'https://www.publichealthlawcenter.org/sites/default/files/resources/doj-final-opinion.pdf'
+first_author: 'United States District Court for the District of Columbia (Kessler, J.)'
+keywords:
+- 'tobacco'
+- 'RICO'
+- 'Philip Morris'
+implementations: []
+summary: >-
+  The District of Columbia federal court's amended final opinion in the government's civil RICO case against the cigarette manufacturers (Civil Action No. 99-2496 (GK), dated August 17, 2006; 1,682 pages in this copy). Registered from A8 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26), which cites "a 2006 federal court judgment" for "a decades-long pattern of conduct that included manipulating cigarette design to sustain addiction, misleading consumers about health consequences, suppressing research, and falsely denying marketing to young people". It is the source the tobacco case ([CASE-tmp0bk10](../cases.d/CASE-tmp0bk10.md)) rests on. The characterization is A's, unverified until read.
+---
+<!-- inactive-ok-file: CASE-tmp0bk10 CLAIM-1249 CLAIM-tmpotbk7 — new or Proposed; the case this registration is the source of, and the claims it bears on -->
+
+# LIT-tmpgcrul: United States v. Philip Morris USA, Inc., et al., Civil Action No. 99-2496 (GK), Amended Final Opinion
+
+## Key takeaways
+
+- Not read.
+
+## Standing in the record
+
+Deferred. Cited by A8 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26) as the record of the tobacco industry's conduct: design "to sustain addiction", misleading consumers, "suppressing research" and denying youth marketing. It is the documented source of [CASE-tmp0bk10](../cases.d/CASE-tmp0bk10.md), and bears through that case on [CLAIM-1249](../claims.d/CLAIM-1249.md) and [CLAIM-tmpotbk7](../claims.d/CLAIM-tmpotbk7.md). Unverified until read.
