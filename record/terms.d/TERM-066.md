@@ -257,3 +257,9 @@ From the reading in [NOTE-1760](../notes.d/NOTE-1760.md) ([LIT-2361](../literatu
 checked by the filer: and **[THEORY-859](../theory.d/THEORY-859.md)** (regulatory capture through the
 evaluative framework): tickboxing's "benchmark that ... changes the actual
 meaning" is a mild, non-captured cousin; the paper does not claim capture.
+
+## Note of 2026-11-27: an instance in training
+
+<!-- inactive-ok-block: CLAIM-tmpsjxip — new; the claim and its objection filed on 2026-11-27 -->
+
+CLAIM-tmpsjxip uses this term for the evaluation in training on human approval, when it is driven by the model being evaluated: by its agreement, its flattery, or its editing of the evaluation's record. No change to this term.

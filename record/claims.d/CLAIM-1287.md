@@ -131,3 +131,9 @@ their weakening. Whether that erosion is wrongful is the separate question
 A48 §6 marks, answered only with an independently justified constraint
 ([CLAIM-624](CLAIM-624.md)). The wording of this note is the assistant's (Claude, in this
 session); adopting it is the owner's call.
+
+## Note of 2026-11-27: reward tampering as the limit
+
+<!-- inactive-ok-block: CLAIM-tmpsjxip LEAD-tmp71xhs — new; the claim and its objection filed on 2026-11-27 -->
+
+CLAIM-tmpsjxip proposes that reward tampering in Denison and colleagues' curriculum (LEAD-tmp71xhs, unread) is this claim's erosion of the constraint, in a model optimized on a reward that disciplines it. A parallel and a proposed instance; no change to this claim.

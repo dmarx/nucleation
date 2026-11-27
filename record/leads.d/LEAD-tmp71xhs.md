@@ -60,3 +60,9 @@ Held already: [LIT-1008](../literature.d/LIT-1008.md) (Williams et al.), [LIT-19
 | What raters reward, and whether rating with ground truth visible changes it | [CLAIM-tmpvxrj1](../claims.d/CLAIM-tmpvxrj1.md) |
 | Whether agreement, praise and face-preservation have different drivers | [QUESTION-tmpr4p3a](../questions.d/QUESTION-tmpr4p3a.md), part 2 |
 | Why warmth training raises agreement | [CLAIM-tmpaxlwy](../claims.d/CLAIM-tmpaxlwy.md), with [THEORY-1334](../theory.d/THEORY-1334.md) |
+
+## Note of 2026-11-27: what to read Denison and colleagues for
+
+<!-- inactive-ok-block: CLAIM-tmpsjxip CLAIM-tmp4h4ce — new; the claim and its objection filed on 2026-11-27 -->
+
+Two readings of the curriculum's generalization are filed. CLAIM-tmpsjxip says it is influence over the evaluator, a ladder of reflexive control. CLAIM-tmp4h4ce says it is specification gaming in general. Read for the order and content of the stages, which CLAIM-tmpsjxip gives from memory, and for whether any condition compares exploits that act on the evaluator with exploits that do not.

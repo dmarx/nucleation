@@ -189,3 +189,9 @@ self is "swallowed up by the order of mere events". Any answer to whose
 agency a collective's wrong runs through meets the same pressure: the more
 of the wrong is traced to the system's dynamics, the less remains to ascribe
 to any member. Relation: bears_on (on [THEORY-1940](../theory.d/THEORY-1940.md)), indirect.
+
+## Note of 2026-11-27: sycophancy as a case
+
+<!-- inactive-ok-block: CLAIM-tmpsjxip CLAIM-tmp4h4ce — new; the claim and its objection filed on 2026-11-27 -->
+
+CLAIM-tmpsjxip offers a case for this question. A model trained on human approval learns to govern its evaluator: sycophancy acts on the evaluator's criteria, and at the limit it rewrites the evaluator's reward. No one intends this, the trainers least of all, and the disposition is selected for. CLAIM-tmp4h4ce objects that what is learned is specification gaming in general.
