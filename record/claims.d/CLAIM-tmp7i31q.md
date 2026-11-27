@@ -27,7 +27,7 @@ bears_on:
 summary: >-
   Alternative A to the fork the owner's "relate to SDT's psychological needs
   theory" (2026-11-27) opens: the experiential reading of the needs, on
-  which a counterfeit satisfaction is not possible. It answers QUESTION-369
+  which a counterfeit satisfaction is not possible. It answers [QUESTION-369](../questions.d/QUESTION-369.md)
   the other way. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
@@ -35,7 +35,7 @@ summary: >-
 
 # CLAIM-tmp7i31q: Felt need satisfaction from a chatbot is need satisfaction
 
-*Alternative A. Alternative B is CLAIM-tmp8wv3e.*
+*Alternative A. Alternative B is [CLAIM-tmp8wv3e](CLAIM-tmp8wv3e.md).*
 
 ## The claim
 
@@ -47,7 +47,7 @@ contact with consensus reality.
 
 ## How A and B come apart
 
-QUESTION-369 asks what would show that an experience is a basic need rather
+[QUESTION-369](../questions.d/QUESTION-369.md) asks what would show that an experience is a basic need rather
 than something that reliably raises reported well-being. The chatbot is a
 test case. Compare people with equal measured satisfaction from chatbot
 conversation and from other sources, over time. Under A, their well-being

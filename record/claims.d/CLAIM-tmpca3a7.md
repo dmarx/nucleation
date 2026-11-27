@@ -109,4 +109,4 @@ A held entry the first search missed: [LIT-547](../literature.d/LIT-547.md) (Bor
 
 <!-- inactive-ok-block: CLAIM-tmpf5onw — new; the claim that specifies the window -->
 
-CLAIM-tmpf5onw proposes that this claim's receptivity window is, at least in part, frustration of the basic psychological needs (THEORY-052), with the delusion's themes as satisfactions of the frustrated needs.
+[CLAIM-tmpf5onw](CLAIM-tmpf5onw.md) proposes that this claim's receptivity window is, at least in part, frustration of the basic psychological needs ([THEORY-052](../theory.d/THEORY-052.md)), with the delusion's themes as satisfactions of the frustrated needs.

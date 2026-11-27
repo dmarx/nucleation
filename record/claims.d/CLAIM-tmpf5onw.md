@@ -35,27 +35,27 @@ grounds:
 - THEORY-tmpssr6c
 summary: >-
   Filed at the owner's word ("relate to SDT's psychological needs theory",
-  2026-11-27). It joins THEORY-052 (need frustration is transdiagnostic) to
-  CLAIM-tmpca3a7's receptivity window, and maps Morrin and colleagues'
-  three themes (THEORY-tmpssr6c) onto the needs. The wording is the
+  2026-11-27). It joins [THEORY-052](../theory.d/THEORY-052.md) (need frustration is transdiagnostic) to
+  [CLAIM-tmpca3a7](CLAIM-tmpca3a7.md)'s receptivity window, and maps Morrin and colleagues'
+  three themes ([THEORY-tmpssr6c](../theory.d/THEORY-tmpssr6c.md)) onto the needs. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpca3a7 CLAIM-tmp8wv3e THEORY-052 THEORY-tmpssr6c QUESTION-tmpq653b — Proposed, Open or new; the claims it rests on, the accounts it uses, and the question -->
+<!-- inactive-ok-file: CLAIM-tmpca3a7 THEORY-052 THEORY-tmpssr6c — Proposed, Open or new; the claims it rests on, the accounts it uses, and the question -->
 
 # CLAIM-tmpf5onw: Need frustration is the window in which a conversation nucleates a delusion
 
 ## The claim
 
-CLAIM-tmpca3a7 says a conversation nucleates a delusion only in a receptive
+[CLAIM-tmpca3a7](CLAIM-tmpca3a7.md) says a conversation nucleates a delusion only in a receptive
 user, and the reports read so far name the receptive: people prone to
-psychosis, the isolated, those in crisis or searching for meaning. THEORY-052
+psychosis, the isolated, those in crisis or searching for meaning. [THEORY-052](../theory.d/THEORY-052.md)
 says frustration of the three needs is a transdiagnostic process in
 psychopathology. This claim joins them: need frustration is a receptivity
 factor, and the delusion's content is what satisfies the frustrated need.
 
 Morrin and colleagues' three themes map onto the needs:
 
-| Theme (NOTE-tmpxg6hn) | Need it satisfies |
+| Theme ([NOTE-tmpxg6hn](../notes.d/NOTE-tmpxg6hn.md)) | Need it satisfies |
 |---|---|
 | a spiritual awakening or messianic mission, hidden truths | competence, as being one who sees, and autonomy, as a purpose of one's own |
 | a sentient or god-like AI, often one the user awakened | relatedness, and the user's significance to it |

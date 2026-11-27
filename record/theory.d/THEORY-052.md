@@ -204,4 +204,4 @@ unchanged.
 
 <!-- inactive-ok-block: CLAIM-tmpf5onw CLAIM-tmpca3a7 — new or Proposed; the claims that use this account -->
 
-CLAIM-tmpf5onw uses this account: need frustration is part of the receptivity window in which a conversation can nucleate a delusion (CLAIM-tmpca3a7), and the delusion's themes are satisfactions of the frustrated needs. A use of this account, not new evidence for it; no change to its status.
+[CLAIM-tmpf5onw](../claims.d/CLAIM-tmpf5onw.md) uses this account: need frustration is part of the receptivity window in which a conversation can nucleate a delusion ([CLAIM-tmpca3a7](../claims.d/CLAIM-tmpca3a7.md)), and the delusion's themes are satisfactions of the frustrated needs. A use of this account, not new evidence for it; no change to its status.
