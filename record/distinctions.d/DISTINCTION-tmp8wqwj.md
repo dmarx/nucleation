@@ -46,22 +46,22 @@ line:
 summary: >-
   Filed when the owner connected shortcut learning to the record's account
   of paperclip maximization (2026-11-27). The connection holds
-  (CLAIM-tmpnjaik), but the two fail in different places, and the test that
+  ([CLAIM-tmpnjaik](../claims.d/CLAIM-tmpnjaik.md)), but the two fail in different places, and the test that
   locates the failure is cheap. The defeater's second clause is the
   strongest objection. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: TERM-tmp5d01f TERM-108 CLAIM-tmpnjaik QUESTION-493 QUESTION-tmpr4p3a CLAIM-tmp7crnt CASE-416 — Proposed, Open or new; the terms bound, the claim it rests on, the questions, and the claim and case it ties to -->
+<!-- inactive-ok-file: TERM-tmp5d01f TERM-108 CLAIM-tmpnjaik CLAIM-tmp7crnt CASE-416 — Proposed, Open or new; the terms bound, the claim it rests on, the questions, and the claim and case it ties to -->
 
 # DISTINCTION-tmp8wqwj: A shortcut fails its objective off the family; a proxy optimum satisfies it
 
 ## The sides
 
-- **Shortcut** (TERM-tmp5d01f). The objective is right and the solution is
-  wrong. CASE-416's classifier is trained to predict the class, and off the
+- **Shortcut** ([TERM-tmp5d01f](../terms.d/TERM-tmp5d01f.md)). The objective is right and the solution is
+  wrong. [CASE-416](../cases.d/CASE-416.md)'s classifier is trained to predict the class, and off the
   family, where the watermark and the class come apart, it predicts badly by
   that very objective.
-- **Proxy optimum** (TERM-108). The objective is wrong and the solution is
+- **Proxy optimum** ([TERM-108](../terms.d/TERM-108.md)). The objective is wrong and the solution is
   right *for it*. The paperclip maximizer is trained to maximize paperclips,
   and it does.
 
@@ -71,15 +71,15 @@ summary: >-
 |---|---|---|
 | Where the failure lies | the solution | the objective |
 | The system's own objective, off the family | scores badly | scores well |
-| Cured by | a family in which the correlate is unreliable | a different objective, or constraints from outside it (CLAIM-1252) |
+| Cured by | a family in which the correlate is unreliable | a different objective, or constraints from outside it ([CLAIM-1252](../claims.d/CLAIM-1252.md)) |
 | Paperclip case | — | the paperclip maximizer |
-| Watermark case | CASE-416 | — |
+| Watermark case | [CASE-416](../cases.d/CASE-416.md) | — |
 
 The test is to evaluate the system's own objective where it fails, and it
 locates sycophancy in two places. Relative to approval, a sycophantic model is
 a proxy optimum: it goes on earning approval on new items. Relative to the
 correctness its designers meant approval to track, it is a shortcut. That
-corrects CLAIM-tmp7crnt, which called sycophancy a shortcut without saying
+corrects [CLAIM-tmp7crnt](../claims.d/CLAIM-tmp7crnt.md), which called sycophancy a shortcut without saying
 relative to which objective.
 
 ## What it does not say

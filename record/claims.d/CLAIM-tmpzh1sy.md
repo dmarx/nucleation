@@ -38,7 +38,7 @@ summary: >-
   cited once that filing merges. The wording is the assistant's (Claude, in
   this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpgmvhl QUESTION-493 DISTINCTION-tmp8wqwj CASE-416 — Proposed, Open or new; the account of shortcuts, the question, the distinction, and the case -->
+<!-- inactive-ok-file: CLAIM-tmpgmvhl DISTINCTION-tmp8wqwj CASE-416 — Proposed, Open or new; the account of shortcuts, the question, the distinction, and the case -->
 
 # CLAIM-tmpzh1sy: A shortcut is harmless within its training family and pathological in the jurisdiction it is granted
 
@@ -51,7 +51,7 @@ harmless within its domain becomes pathological when granted authority over
 decisions it is not adequate to.
 
 A shortcut is the cleanest case, because its objective is *right*
-(DISTINCTION-tmp8wqwj). CASE-416's watermark-reading classifier is as good as
+([DISTINCTION-tmp8wqwj](../distinctions.d/DISTINCTION-tmp8wqwj.md)). [CASE-416](../cases.d/CASE-416.md)'s watermark-reading classifier is as good as
 one that reads horses, inside the archive where the watermark always
 accompanies the class. Its harm begins where it is deployed to decide about
 horses photographed elsewhere. So the exchange's conclusion, that searching
@@ -61,7 +61,7 @@ objective was already correct, and the harm came from the jurisdiction.
 ## What follows
 
 - Two remedies, not one. Change the family so the correlate fails
-  (CLAIM-tmpgmvhl), or confine the rule's jurisdiction to the family it was
+  ([CLAIM-tmpgmvhl](CLAIM-tmpgmvhl.md)), or confine the rule's jurisdiction to the family it was
   validated on.
 - The second is the only one available when the correlate is unknown, which
   is the usual case. Deployment beyond the validated family is a grant of

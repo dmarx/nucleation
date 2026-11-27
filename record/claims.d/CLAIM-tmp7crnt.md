@@ -81,4 +81,4 @@ not the user is right.
 
 <!-- inactive-ok-block: DISTINCTION-tmp8wqwj — new; filed when the owner connected shortcut learning to the record's account of paperclip maximization -->
 
-A correction from DISTINCTION-tmp8wqwj. Relative to the approval it was rewarded for, a sycophantic model is a proxy optimum (TERM-108), not a shortcut, since it goes on earning approval off the training family. It is a shortcut relative to the correctness its designers meant approval to track. This claim's argument holds for that second objective.
+A correction from [DISTINCTION-tmp8wqwj](../distinctions.d/DISTINCTION-tmp8wqwj.md). Relative to the approval it was rewarded for, a sycophantic model is a proxy optimum ([TERM-108](../terms.d/TERM-108.md)), not a shortcut, since it goes on earning approval off the training family. It is a shortcut relative to the correctness its designers meant approval to track. This claim's argument holds for that second objective.
