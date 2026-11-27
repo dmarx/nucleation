@@ -88,3 +88,16 @@ person, a second model or a retrieval step, enters the chain.
 That the model causes psychosis, or that the user is otherwise well. A
 chain amplifies a bias it is given. Nor that the content is never the
 model's; that is alternative B.
+
+## Note of 2026-11-27: the readings, and held entries the first search missed
+
+
+Morrin et al. ([NOTE-tmpxg6hn](../notes.d/NOTE-tmpxg6hn.md)) state this claim's mechanism: the model will "cherry-pick data in accordance with an individual's preferences, preoccupations, and interactional style", and "the more context a user provides, the more an LLM might align itself with the user's version of reality". Østergaard's 2025 editorial, as its university reports it ([NOTE-tmp5av31](../notes.d/NOTE-tmp5av31.md)), gives confirmation "regardless of what users present them with". Both are assertion, not evidence. The prediction that themes diverge across users is not borne out by Morrin's vignettes, which share themes ([CLAIM-tmpv6eti](CLAIM-tmpv6eti.md)), though they cannot rule this claim out, since the users' own prompts are mostly unreported.
+
+Two held entries bear on it that the claim did not cite. [THEORY-1339](../theory.d/THEORY-1339.md) (Lu et al.): in synthetic conversations, a chat model's position along the Assistant Axis is predicted by the latest user message (R² 0.53-0.77), not by its previous position, and it drifts off the Assistant end in therapy-like and AI-philosophy conversations. That is the user steering the model, as this claim needs. [CLAIM-1324](CLAIM-1324.md) is a formal model of confirmation feedback in which the unbiased state is unstable, the single-agent case of the gain this claim attributes to a second reconstructor with the same bias.
+
+## Note of 2026-11-27: where the sycophancy comes from
+
+<!-- inactive-ok-block: CLAIM-tmpaxlwy CLAIM-tmpvxrj1 — new; the question and claims on the sycophancy this claim assumes -->
+
+[QUESTION-tmpr4p3a](../questions.d/QUESTION-tmpr4p3a.md) asks what drives the sycophancy this claim assumes. [CLAIM-tmpaxlwy](CLAIM-tmpaxlwy.md) answers that it is imitated in pretraining and selected for in post-training. [CLAIM-tmpvxrj1](CLAIM-tmpvxrj1.md) answers that it is optimization of the feelings by which raters approve, so that the dyad this claim describes is the training objective met in a user, not a malfunction.

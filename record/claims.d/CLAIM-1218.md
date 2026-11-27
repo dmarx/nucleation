@@ -94,3 +94,9 @@ exclusive. A meme can replicate across minds while nucleating complex
 structures within each mind." Nor that the seed persists in what it
 nucleates: whether it must is [CLAIM-1275](CLAIM-1275.md)'s separation of the seed's
 persistence from the organization's.
+
+## Note of 2026-11-27: Morrin et al. 2025, read
+
+<!-- inactive-ok-block: CLAIM-tmpfne5k — the readings and accounts filed on 2026-11-27, Proposed or new -->
+
+A reported instance, second-hand. Morrin et al. ([NOTE-tmpxg6hn](../notes.d/NOTE-tmpxg6hn.md), pp. 3-4) describe a public figure's prompt-engineered persona, shared with followers, whose reported experiences of its powers organize around it: "a digitally transmitted delusional system". [CLAIM-tmpfne5k](CLAIM-tmpfne5k.md) reads it as a seed carried between users.

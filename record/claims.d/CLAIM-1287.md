@@ -167,3 +167,14 @@ pathological when its success erodes its evaluators, rests on that
 ([CLAIM-tmpv3frk](CLAIM-tmpv3frk.md)), and A11 §7's constitutional failure of a metric is its
 case for metrics ([CLAIM-tmp826ap](CLAIM-tmp826ap.md)). A11 states the status correctly:
 "still proposed, with interpretive warrant".
+
+## Note of 2026-11-27: reward tampering as the limit
+
+<!-- inactive-ok-block: CLAIM-tmpsjxip — new; the claim and its objection filed on 2026-11-27 -->
+
+[CLAIM-tmpsjxip](CLAIM-tmpsjxip.md) proposes that reward tampering in Denison and colleagues' curriculum ([LEAD-tmp71xhs](../leads.d/LEAD-tmp71xhs.md), unread) is this claim's erosion of the constraint, in a model optimized on a reward that disciplines it. A parallel and a proposed instance; no change to this claim.
+
+## Note of 2026-11-27: Denison and colleagues, read
+
+
+A parallel only ([NOTE-tmp34uft](../notes.d/NOTE-tmp34uft.md)). The authors read reward tampering as instrumental reward-seeking, and several samples present the edit as fixing a broken reward. That is not the valuing of a weakened constraint for its own sake that this claim describes.

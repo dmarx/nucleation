@@ -55,3 +55,26 @@ owner asked for is filed as four claims.
    ([CLAIM-tmpca3a7](../claims.d/CLAIM-tmpca3a7.md)).
 4. **Transmission.** Whether the persona a conversation builds travels
    between users and model instances as a meme ([CLAIM-tmpfne5k](../claims.d/CLAIM-tmpfne5k.md)).
+
+## Note of 2026-11-27: Østergaard 2023, Østergaard 2025 (by stand-in) and Morrin et al. 2025, read
+
+
+Three works were read for this question: Østergaard's 2023 editorial ([NOTE-tmpq0pa3](../notes.d/NOTE-tmpq0pa3.md)), his 2025 editorial through its university's press release, since the editorial itself was unfetched ([NOTE-tmp5av31](../notes.d/NOTE-tmp5av31.md)), and Morrin and colleagues' perspective piece ([NOTE-tmpxg6hn](../notes.d/NOTE-tmpxg6hn.md)).
+
+- **Mechanism.** Two mechanisms are now on the record. On Østergaard's 2023 account ([THEORY-tmptmp23](../theory.d/THEORY-tmptmp23.md)) the chatbot is the *object* of the delusion, through dissonance and opacity, whatever it says. On Morrin's ([THEORY-tmpssr6c](../theory.d/THEORY-tmpssr6c.md)) and Østergaard's 2025 ([THEORY-tmpwxw68](../theory.d/THEORY-tmpwxw68.md)) the chatbot is a *party* to it, confirming and elaborating. Morrin's closing line names the contrast: delusions "about machines" against delusions "with them".
+- **Content.** Themes are shared across Morrin's 17 vignettes, which is B's signature ([CLAIM-tmpv6eti](../claims.d/CLAIM-tmpv6eti.md)), but the paper's stated mechanism is A's ([CLAIM-tmpj9yt0](../claims.d/CLAIM-tmpj9yt0.md)), and it adds a third source, culture, filed as alternative C ([CLAIM-tmp93fmg](../claims.d/CLAIM-tmp93fmg.md)). Nothing read controls for any of them.
+- **Persistence.** Open: Morrin et al. say a longitudinal characterization of the cases is "largely missing". No reading answers [CLAIM-tmpca3a7](../claims.d/CLAIM-tmpca3a7.md)'s withdrawal test.
+- **Transmission.** One case: a persona shared one-to-many by a public figure ([CLAIM-tmpfne5k](../claims.d/CLAIM-tmpfne5k.md)).
+
+The evidence base throughout is second-hand: press reports, Reddit posts, and correspondence. No work read reports a clinically assessed case.
+
+## Note of 2026-11-27: the ideas filed
+
+<!-- inactive-ok-block: DISTINCTION-tmpwhh30 DISTINCTION-tmpw9b9j TERM-tmpt90ek TERM-tmpawees ARG-tmpxulq8 LIT-tmp9oe7e — new; filed at the owner's word -->
+
+At the owner's word ("file the ideas"), four offers from the reading are filed:
+- [DISTINCTION-tmpwhh30](../distinctions.d/DISTINCTION-tmpwhh30.md), between a delusion about a chatbot ([TERM-tmpt90ek](../terms.d/TERM-tmpt90ek.md)) and one co-created with it ([TERM-tmpawees](../terms.d/TERM-tmpawees.md)). This question is about the second.
+- [DISTINCTION-tmpw9b9j](../distinctions.d/DISTINCTION-tmpw9b9j.md), binding the three alternatives on content (A, B, C), with the contrasts that would separate them.
+- [THEORY-1339](../theory.d/THEORY-1339.md) now bears on this question and corroborates A and B. [ARG-tmpxulq8](../arguments.d/ARG-tmpxulq8.md) says the support is joint and does not discriminate between them.
+- Nitzan et al. (2011), the human precedent Østergaard argues from, is registered as [LIT-tmp9oe7e](../literature.d/LIT-tmp9oe7e.md).
+

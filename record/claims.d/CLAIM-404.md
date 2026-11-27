@@ -639,3 +639,9 @@ holds two routes (evidence and criteria); [CLAIM-703](CLAIM-703.md) holds the th
 (circumstances), and [CLAIM-1307](CLAIM-1307.md) proposes a fourth (formation). Found by
 the Part II drafter and confirmed by the independent join reader. The
 wording is the assistant's (Claude, in this session).
+
+## Note of 2026-11-27: the training loop as the closed loop
+
+<!-- inactive-ok-block: CLAIM-tmpsjxip CLAIM-tmp4h4ce — new; the claim and its objection filed on 2026-11-27 -->
+
+At the owner's word, [CLAIM-tmpsjxip](CLAIM-tmpsjxip.md) reads this claim's last clause as the loop of training on human approval. The evaluator, a rater or a reward model, scores a model whose responses are its evidence. Sycophancy acts on the evaluator's criteria, flattery on its evidence, and reward tampering removes it. [CLAIM-tmp4h4ce](CLAIM-tmp4h4ce.md) objects that what generalizes up that ladder is specification gaming in general. An application; no change to this claim.

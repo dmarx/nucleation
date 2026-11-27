@@ -67,9 +67,21 @@ Bare codes only. Never write a link target, and do not run `luria repair`,
 - **For every work the source names**, search `record/literature.d` by DOI,
   arXiv id, exact title and first author. Note what is held, its status and
   its NOTE.
+- **Search open pull requests too** (ADR-tmpn87w5). Fetch, then grep the
+  heads of every remote branch as well as the tree:
+  `git fetch origin` and
+  `git grep -i -e <word> $(git for-each-ref --format='%(refname)' refs/remotes/origin) -- record/`.
+  An entry found only in an open pull request is cited by name and pull
+  request until it merges. Do this before telling the owner something is not
+  on the record, too.
 - **For every idea the source states**, search claims, theories, questions,
-  cases and terms by its key words. Then read the nearest entries' titles,
-  not just whether they matched.
+  cases, terms, distinctions and leads, case-insensitively, by its key words
+  *and by the mechanism's words and synonyms* (for "chatbot psychosis":
+  persona, drift, awakening, confirmation, hysteresis). Then open the nearest
+  entries and read their statements, not just their titles or whether they
+  matched (ADR-tmpn87w5).
+- **Put what the idea search finds into the reader's brief**, by code, under
+  "why it is being read", so the reader's own search starts from it.
 - **List the source's own ideas, section by section.** A synthesis carries
   constructions, worked examples, distinctions, taxonomies, tables and
   proposed entries as well as references. Readers cover the references;
