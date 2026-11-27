@@ -10,3 +10,11 @@ Morrin et al. (2025), "Delusions by design?", PsyArXiv 10.31234/osf.io/cmy7n.
 - v5 file "Delusions by design revisions 1.0.pdf", https://osf.io/download/g4ceu/ : located, not fetched.
 - The OSF record (date_modified 2026-08-23) names a published version: Lancet Psychiatry 2026;13(6):522-530, doi 10.1016/S2215-0366(25)00396-7, retitled "Artificial intelligence-associated delusions and large language models: risks, mechanisms of delusion co-creation, and safeguarding strategies". Not fetched.
 - No bot checks met.
+
+## Step 2 (2026-11-27): v1 against v6
+
+Text diff of v1 (docx) and v6 (pdf). The argument, case table, safeguards, Table 1 and conclusions are unchanged. v6 adds: a paragraph on objectophilia ("objectum sexuality") as precedent for relating to unconventional embodiments; a paragraph on "exotic agents", chimeras and "mind-blindness"; a paragraph saying AI intentionality "is not always an obvious delusion in patients, but rather a deep and open scientific question"; a paragraph on Jaynes, Clark and Chalmers' extended mind and Luhrmann's ethnographies (plasticity of the self/other boundary). New references Simner et al. 2019, Clawson and Levin 2023, Clark and Chalmers 1998; references renumbered (56 to 59). Durham affiliation number corrected. v2-v5 not compared.
+
+## Step 3 (2026-11-27): report drafted
+
+See the report returned to the caller (same text below).
