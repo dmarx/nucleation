@@ -53,3 +53,9 @@ assistant's (Claude, in this session), reporting A's (ChatGPT's) text;
 adopting what it reports is the owner's call.
 
 <!-- inactive-ok-file: CLAIM-1218 TERM-172 — Proposed or Deferred; cited in the note of 2026-11-24 from the exchange 'Memes, Contracts, and Systemic Normativity' (A1–A6), whatever its standing -->
+
+## Note of 2026-11-27: Morrin et al. 2025, read
+
+<!-- inactive-ok-block: CLAIM-tmp93fmg — the readings and accounts filed on 2026-11-27, Proposed or new -->
+
+A parallel. Morrin et al.'s history of technology in delusional content ([NOTE-tmpxg6hn](../notes.d/NOTE-tmpxg6hn.md), pp. 6-8) is a cultural-attractor account without the term: content that follows each era's technology. [CLAIM-tmp93fmg](../claims.d/CLAIM-tmp93fmg.md) reads it so. No change to this term.

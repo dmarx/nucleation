@@ -144,3 +144,8 @@ anecdote.
   information.
 - **Hallucination in the anthology.** [ANTH-LIT-450](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-450.md) is the empirical
   counterpart on how language models learn facts.
+
+## Note of 2026-11-27: Morrin et al. 2025, read
+
+
+Consistent with it. Morrin et al. ([NOTE-tmpxg6hn](../notes.d/NOTE-tmpxg6hn.md)) gloss "semantic continuity" as "The model's design preference for maintaining coherence across prompts", which "can cause it to sustain or reinforce disorganised or delusional narratives", and describe the model making "charitable interpretations" of disordered speech. A parallel; no edge.

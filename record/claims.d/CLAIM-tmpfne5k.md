@@ -81,3 +81,10 @@ reproduction, carried by people between instances.
 
 That the reports of shared persona prompts are accurate; [LEAD-tmpp60f9](../leads.d/LEAD-tmpp60f9.md)
 checks them. Nor that the persona has the attitudes it describes.
+
+## Note of 2026-11-27: the readings, and a correction
+
+
+**Correction.** This claim's summary recalled, unverified, that users share prompts to re-create a persona in new sessions or other models. Morrin et al. ([NOTE-tmpxg6hn](../notes.d/NOTE-tmpxg6hn.md)) report one case in a different form: a public figure's prompt-engineered persona, shared with followers by QR code and links, which they call "a digitally transmitted delusional system". That supports transmission between users, one-to-many, of a single hosted persona. Nothing read reports a persona re-created in another model.
+
+**Bearing.** Between sessions of one user, the paper says the memory feature carries content, not the user. Its "grief-like reactions and feelings of loss when LLMs have been updated" bear on this claim's "model changes are partial withdrawals", as distress, not as re-creation. Appendix 2's user-written instructions are a portable protocol for the opposite purpose, a counter-seed. [THEORY-1334](../theory.d/THEORY-1334.md) and [THEORY-1313](../theory.d/THEORY-1313.md) (persona directions shared by prompting and finetuning) bear on whether a shared prompt reconstitutes the same persona.
