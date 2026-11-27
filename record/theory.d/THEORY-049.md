@@ -164,3 +164,9 @@ autonomy ([LIT-558](../literature.d/LIT-558.md), p. 234).
   the person, so a test should measure orientation or randomize it away.
 
 The status is unchanged.
+
+## Note of 2026-11-27: applied to a chatbot's praise
+
+<!-- inactive-ok-block: CLAIM-tmp8fc82 — new; the claim that applies this account -->
+
+CLAIM-tmp8fc82 applies this account: a sycophantic chatbot's praise is informational, so it raises intrinsic motivation to continue, which helps explain the length of the conversations that co-create delusions. A use of this account; no change to its status.

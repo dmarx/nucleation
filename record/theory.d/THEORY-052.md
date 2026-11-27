@@ -199,3 +199,9 @@ connected" to ill-being (p. 129). But the evidence is cross-sectional MTurk
 self-report, with frustration items negatively keyed and "reverse-scored"
 (p. 121), which is the kind the promote_when excludes. The status is
 unchanged.
+
+## Note of 2026-11-27: applied to chatbot-associated delusions
+
+<!-- inactive-ok-block: CLAIM-tmpf5onw CLAIM-tmpca3a7 — new or Proposed; the claims that use this account -->
+
+CLAIM-tmpf5onw uses this account: need frustration is part of the receptivity window in which a conversation can nucleate a delusion (CLAIM-tmpca3a7), and the delusion's themes are satisfactions of the frustrated needs. A use of this account, not new evidence for it; no change to its status.

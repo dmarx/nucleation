@@ -8,3 +8,7 @@
   - CLAIM-tmp7oycz: a rise in inferred precision credited to the content;
   - CLAIM-tmp2l83d: a mathematical delusion is illumination with verification refused or counterfeited;
   - LEAD-tmpjue1r: the insight research to read.
+- On SDT's basic psychological needs:
+  - CLAIM-tmp8wv3e and CLAIM-tmp7i31q, alternatives on whether a chatbot can counterfeit need satisfaction;
+  - CLAIM-tmpf5onw, need frustration as the receptivity window;
+  - CLAIM-tmp8fc82, sycophantic praise as informational and so sustaining engagement.
