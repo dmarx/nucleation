@@ -28,8 +28,8 @@ line:
 - distributed-agency
 - organizational-affect
 illustrates:
-- CLAIM-tmpotbk7
-- CLAIM-tmpv3frk
+- CLAIM-1430
+- CLAIM-1443
 date: '2026-10-23'
 summary: >-
   The Wells Fargo sales-practices episode, as reported by the bank's
@@ -241,7 +241,7 @@ procedure that weighs harm to customers. It is the case on which
 
 ## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U5–A8, U6–A11)
 
-<!-- inactive-ok-file: CLAIM-tmpotbk7 CLAIM-tmpv3frk ARG-tmpfznfa LIT-tmpved88 — new; the claims this case now illustrates, the argument that bounds their use of it and the registered settlement -->
+<!-- inactive-ok-file: CLAIM-1430 CLAIM-1443 ARG-265 LIT-3314 — new; the claims this case now illustrates, the argument that bounds their use of it and the registered settlement -->
 
 An illustration, and A's reading of it. A8 §3 offers the case to the
 owner's U5 as "a corporation literally maximizing the number of accounts",
@@ -252,11 +252,11 @@ an outcome is undesirable can nevertheless collectively produce that
 outcome under an appropriately organized incentive regime." Its facts
 agree with this case's (unauthorized accounts, falsified records, altered
 contact details); the $3 billion settlement of 2020 it cites is now
-registered as [LIT-tmpved88](../literature.d/LIT-tmpved88.md), unread.
+registered as [LIT-3314](../literature.d/LIT-3314.md), unread.
 
-It now illustrates A's [CLAIM-tmpotbk7](../claims.d/CLAIM-tmpotbk7.md), as its first rung, demand
-measurement gamed with preferences untouched, and A8's [CLAIM-tmpv3frk](../claims.d/CLAIM-tmpv3frk.md),
+It now illustrates A's [CLAIM-1430](../claims.d/CLAIM-1430.md), as its first rung, demand
+measurement gamed with preferences untouched, and A8's [CLAIM-1443](../claims.d/CLAIM-1443.md),
 under objective displacement. A11 §VIII cites [ARG-071](../arguments.d/ARG-071.md) correctly: the case
 shows "narrow recognition of harm and blocked escalation", not a sales
 regime reproducing its own blindness through its success, and
-[ARG-tmpfznfa](../arguments.d/ARG-tmpfznfa.md) keeps that limit when the six cases are generalized from.
+[ARG-265](../arguments.d/ARG-265.md) keeps that limit when the six cases are generalized from.

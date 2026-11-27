@@ -6,8 +6,8 @@
 
 **Logic** — valid inference and its formal theories — propositional and model-theoretic structures, proof and consequence, and inferentialist accounts of meaning (group: philosophy).
 
-0 of 126 SYNTHESIS documents. Back to the [full index](../README.md).
+1 of 127 SYNTHESIS documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [SYNTHESIS-127](../../../record/syntheses.d/SYNTHESIS-127.md) | Governing possibility: what a system can still become |  | Proposed |

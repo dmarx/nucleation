@@ -246,7 +246,7 @@ assistant's (Claude, in this session); adopting it is the owner's call.
 ## Note of 2026-11-26: Veeriah et al. (2019), read
 
 
-A parallel only. [LIT-tmpl1kcf](../literature.d/LIT-tmpl1kcf.md) ([NOTE-tmpibrnu](../notes.d/NOTE-tmpibrnu.md)) has an agent learn which
+A parallel only. [LIT-3295](../literature.d/LIT-3295.md) ([NOTE-2427](../notes.d/NOTE-2427.md)) has an agent learn which
 targets to predict: "questions" in the general-value-function sense, 128
 cumulants and discounts in a fixed family. They are chosen only for their
 effect on one fixed main task, are never pursued, and are never used to

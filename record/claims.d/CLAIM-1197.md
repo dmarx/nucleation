@@ -150,7 +150,7 @@ implied by the others.
 
 
 Sidesteps the optimum rather than supplying one, and names a missing
-condition. [LIT-tmpl1kcf](../literature.d/LIT-tmpl1kcf.md) ([NOTE-tmpibrnu](../notes.d/NOTE-tmpibrnu.md)) fixes a valuation, the main-task
+condition. [LIT-3295](../literature.d/LIT-3295.md) ([NOTE-2427](../notes.d/NOTE-2427.md)) fixes a valuation, the main-task
 loss (condition 2, though without resource costs), and a horizon by
 truncation at k = 10 (condition 3, not by a discount). It does not address
 attainment (condition 4). Its longer horizons did worse, "the largest

@@ -31,7 +31,7 @@ history:
   note: >-
     Revised to take the exchange "Alignment consequences brainstorm"
     (ChatGPT, 2026-11-26) into account, under ADR-151. Added
-    CLAIM-tmpxl7dc, CLAIM-tmpc4o6j, CLAIM-tmpoh8gm, CLAIM-tmpxf70b and
+    CLAIM-1451, CLAIM-1390, CLAIM-1429, CLAIM-1449 and
     CLAIM-792, the hypotheses the exchange's tests would put to the
     record, and a paragraph on those tests, which are leads and so are
     cited rather than integrated. The statement gains a clause; the title
@@ -76,10 +76,10 @@ integrates:
 - CASE-131
 - CASE-186
 - CASE-194
-- CLAIM-tmpxl7dc
-- CLAIM-tmpc4o6j
-- CLAIM-tmpoh8gm
-- CLAIM-tmpxf70b
+- CLAIM-1451
+- CLAIM-1390
+- CLAIM-1429
+- CLAIM-1449
 - CLAIM-792
 bears_on:
 - QUESTION-458
@@ -98,7 +98,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-667 CLAIM-665 CLAIM-668 CLAIM-666 TERM-119 CASE-253 CASE-252 CASE-255 CASE-254 — filed from the exchange "luria experiment design", Proposed; components with their standing -->
 <!-- inactive-ok-file: CASE-194 — Proposed; a component with its standing -->
-<!-- inactive-ok-file: CLAIM-tmpxl7dc CLAIM-tmpc4o6j CLAIM-tmpoh8gm CLAIM-tmpxf70b ARG-tmpo6eca TERM-tmp35z0s CLAIM-792 TERM-167 SYNTHESIS-012 ADR-151 — Proposed or Rejected; components and citations added at version 3, from the exchange "Alignment consequences brainstorm" of 2026-11-26 and the entries it used -->
+<!-- inactive-ok-file: CLAIM-1451 CLAIM-1390 CLAIM-1429 CLAIM-1449 ARG-266 TERM-180 CLAIM-792 TERM-167 SYNTHESIS-012 ADR-151 — Proposed or Rejected; components and citations added at version 3, from the exchange "Alignment consequences brainstorm" of 2026-11-26 and the entries it used -->
 
 # SYNTHESIS-090: How the record as apparatus would be tested
 
@@ -151,28 +151,28 @@ decisions, or by an evaluator its subjects can edit, certifies nothing.
 brainstorm" (2026-11-26) turned the program toward the organization that
 keeps the record. Each of its tests is a lead, Open and undesigned in its
 details. A grammar revision can make an inert distinction consequential
-([CLAIM-tmpxl7dc](../claims.d/CLAIM-tmpxl7dc.md), A's, its instance narrowed in [SYNTHESIS-012](SYNTHESIS-012.md)), and the
+([CLAIM-1451](../claims.d/CLAIM-1451.md), A's, its instance narrowed in [SYNTHESIS-012](SYNTHESIS-012.md)), and the
 measure that would show it is the difference in findings a single
 perturbation of a frozen copy makes, reported before the change
-([LEAD-tmpj44my](../leads.d/LEAD-tmpj44my.md)); part of that report exists already, since retiring an
+([LEAD-300](../leads.d/LEAD-300.md)); part of that report exists already, since retiring an
 entry reports what rests on it and leaves each dependant to judgement
 ([CLAIM-664](../claims.d/CLAIM-664.md), its note of 2026-11-26). Alignment can be distributed across
-a governed organization, with Luria as a model organism ([CLAIM-tmpc4o6j](../claims.d/CLAIM-tmpc4o6j.md),
-resting on A13's reading of Luria, [CLAIM-tmpoh8gm](../claims.d/CLAIM-tmpoh8gm.md)), and A13's seven
+a governed organization, with Luria as a model organism ([CLAIM-1390](../claims.d/CLAIM-1390.md),
+resting on A13's reading of Luria, [CLAIM-1429](../claims.d/CLAIM-1429.md)), and A13's seven
 comparisons on records kept by AI collectives would vary one governing
 arrangement at a time; two of them are held already, governed schema change as
 [CLAIM-667](../claims.d/CLAIM-667.md)'s study ([LEAD-085](../leads.d/LEAD-085.md)) and organizational continuity as a
 comparison of collaborators working from a shared transcript, shared
-documents or a governed record ([LEAD-227](../leads.d/LEAD-227.md); [LEAD-tmpwlebp](../leads.d/LEAD-tmpwlebp.md)). That delegating the record's upkeep widens its owner's
-governance ([CLAIM-tmpxf70b](../claims.d/CLAIM-tmpxf70b.md)) has half its support in the record, noticing
+documents or a governed record ([LEAD-227](../leads.d/LEAD-227.md); [LEAD-316](../leads.d/LEAD-316.md)). That delegating the record's upkeep widens its owner's
+governance ([CLAIM-1449](../claims.d/CLAIM-1449.md)) has half its support in the record, noticing
 delegated and revision kept ([CLAIM-792](../claims.d/CLAIM-792.md)), and lacks the other half, a
-measure of the owner's own capacity over time ([ARG-tmpo6eca](../arguments.d/ARG-tmpo6eca.md), Rejected);
+measure of the owner's own capacity over time ([ARG-266](../arguments.d/ARG-266.md), Rejected);
 the measurement is the owner's own noticing of misfits over time against
-the share noticed by procedures ([LEAD-tmpswgqi](../leads.d/LEAD-tmpswgqi.md)). A4 adds a variant of
+the share noticed by procedures ([LEAD-312](../leads.d/LEAD-312.md)). A4 adds a variant of
 [CLAIM-667](../claims.d/CLAIM-667.md)'s study in which the share of work automated rises and the
 outcome is the human members' retained governing capacity, the
-constitutional capability of [TERM-tmp35z0s](../terms.d/TERM-tmp35z0s.md), against [TERM-167](../terms.d/TERM-167.md)'s kernel
-([LEAD-tmp9snzi](../leads.d/LEAD-tmp9snzi.md)); A4 asks that a rise in governing capacity be a possible
+constitutional capability of [TERM-180](../terms.d/TERM-180.md), against [TERM-167](../terms.d/TERM-167.md)'s kernel
+([LEAD-291](../leads.d/LEAD-291.md)); A4 asks that a rise in governing capacity be a possible
 outcome, not only its erosion.
 
 ## What is left open
@@ -187,11 +187,11 @@ any of them.
 ## Not stated on the record
 
 - **Which of the program's studies would also test the alignment
-  claims.** [LEAD-tmpwlebp](../leads.d/LEAD-tmpwlebp.md) says its governed-schema row is [CLAIM-667](../claims.d/CLAIM-667.md)'s
+  claims.** [LEAD-316](../leads.d/LEAD-316.md) says its governed-schema row is [CLAIM-667](../claims.d/CLAIM-667.md)'s
   study; no entry says whether the distributed-evidence study ([CASE-252](../cases.d/CASE-252.md))
   or the recursive-improvement study ([CASE-255](../cases.d/CASE-255.md)) would bear on
-  [CLAIM-tmpc4o6j](../claims.d/CLAIM-tmpc4o6j.md).
+  [CLAIM-1390](../claims.d/CLAIM-1390.md).
 - **The perturbation measure as the score for a change of grammar.**
   [TERM-092](../terms.d/TERM-092.md)'s frontier is how a change of grammar would be scored (its
-  note of 2026-11-12) and [LEAD-tmpj44my](../leads.d/LEAD-tmpj44my.md)'s findings difference is how a
+  note of 2026-11-12) and [LEAD-300](../leads.d/LEAD-300.md)'s findings difference is how a
   distinction's consequence would be measured; no entry relates the two.

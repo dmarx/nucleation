@@ -6,12 +6,12 @@
 
 **Probabilistic modeling** — Bayesian inference and statistical models outside deep learning — nonparametric priors, topic models, samplers.
 
-10 of 126 SYNTHESIS documents. Back to the [full index](../README.md).
+10 of 127 SYNTHESIS documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [SYNTHESIS-009](../../../record/syntheses.d/SYNTHESIS-009.md) v2 | Capacity records bound reserve readiness | [QUESTION-395](../../../record/questions.d/QUESTION-395.md) asks which observations tell a warranted reserve of specialized capability from wasteful redundancy, and which of them identify readiness ([TERM-115](../../../record/terms.d/TERM-115.md)) and which only bound it. [CLAIM-587](../../../record/claims.d/CLAIM-587.md) makes a response the conjunction of complementary capacities. So records kept per capacity (rosters, training assessments, equipment availability, turnout times) fix only the marginals, which bound readiness by the Fréchet inequalities and do not identify it. A record can refute a required readiness through the weakest capacity, and can certify it only when the shortfalls sum within the margin; between those, only joint evidence decides. With [CLAIM-558](../../../record/claims.d/CLAIM-558.md)'s decay, a certification expires with the record's age and a refutation does not. The inference leans mainly on [CLAIM-587](../../../record/claims.d/CLAIM-587.md); its integrating work is joining it with [TERM-115](../../../record/terms.d/TERM-115.md), [CASE-210](../../../record/cases.d/CASE-210.md)'s list of evidence and [CLAIM-558](../../../record/claims.d/CLAIM-558.md) to answer the question's "identify or bound" half. Filed at the synthesis review of 2026-11-07, with [SYNTHESIS-010](../../../record/syntheses.d/SYNTHESIS-010.md) one of the readiness line's first two syntheses. The integration's wording is the assistant's (Claude, in this session); adopting it is the owner's call. | Superseded — by [CLAIM-632](../../../record/claims.d/CLAIM-632.md) |
-| [SYNTHESIS-017](../../../record/syntheses.d/SYNTHESIS-017.md) v3 | Records secure traceability, not correctness |  | Proposed |
+| [SYNTHESIS-017](../../../record/syntheses.d/SYNTHESIS-017.md) v4 | Records secure traceability, not correctness |  | Proposed |
 | [SYNTHESIS-027](../../../record/syntheses.d/SYNTHESIS-027.md) v2 | Low use does not show a reserve is waste |  | Proposed |
 | [SYNTHESIS-060](../../../record/syntheses.d/SYNTHESIS-060.md) v2 | Conservation laws must be derived, not borrowed |  | Proposed |
 | [SYNTHESIS-061](../../../record/syntheses.d/SYNTHESIS-061.md) | Diffusion is a test case for pragmatic transport |  | Proposed |

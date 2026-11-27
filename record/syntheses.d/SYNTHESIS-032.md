@@ -69,8 +69,8 @@ history:
   note: >-
     Revised to take the exchange "Alignment consequences brainstorm"
     (ChatGPT, 2026-11-26) into account, under ADR-151. Added
-    QUESTION-tmpsgbj7, CLAIM-tmp5vitv, CLAIM-tmpz33db, CLAIM-tmp87zug,
-    ARG-tmpee3ck, CLAIM-tmp1njmb, CLAIM-tmpyk6bi and CASE-tmpaqihm, and a
+    QUESTION-551, CLAIM-1364, CLAIM-1456, CLAIM-1377,
+    ARG-263, CLAIM-1352, CLAIM-1454 and CASE-430, and a
     section of the account, "The Luddite objection, and support for an
     interest", stating what the exchange established and left open; two
     links go under "Not stated on the record". The rest of the body,
@@ -128,19 +128,19 @@ integrates:
 - CLAIM-670
 - CLAIM-671
 - CLAIM-673
-- QUESTION-tmpsgbj7
-- CLAIM-tmp5vitv
-- CLAIM-tmpz33db
-- CLAIM-tmp87zug
-- ARG-tmpee3ck
-- CLAIM-tmp1njmb
-- CLAIM-tmpyk6bi
-- CASE-tmpaqihm
+- QUESTION-551
+- CLAIM-1364
+- CLAIM-1456
+- CLAIM-1377
+- ARG-263
+- CLAIM-1352
+- CLAIM-1454
+- CASE-430
 ---
 <!-- inactive-ok-file: CLAIM-669 CLAIM-670 CLAIM-671 SYNTHESIS-092 SYNTHESIS-093 — Proposed; components and citations added at version 6, with their standing -->
 <!-- inactive-ok-file: CLAIM-603 CLAIM-606 CLAIM-616 CASE-225 THEORY-1459 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: SYNTHESIS-010 — Superseded; cited as the entry CLAIM-600 returned from -->
-<!-- inactive-ok-file: CLAIM-tmp5vitv CLAIM-tmpz33db CLAIM-tmp87zug ARG-tmpee3ck CLAIM-tmp1njmb CLAIM-tmpyk6bi CASE-tmpaqihm ARG-tmpahwlh CLAIM-690 ADR-151 — Proposed, Open or Rejected; components and citations added at version 8, from the exchange "Alignment consequences brainstorm" of 2026-11-26 -->
+<!-- inactive-ok-file: CLAIM-1364 CLAIM-1456 CLAIM-1377 ARG-263 CLAIM-1352 CLAIM-1454 CASE-430 ARG-261 CLAIM-690 ADR-151 — Proposed, Open or Rejected; components and citations added at version 8, from the exchange "Alignment consequences brainstorm" of 2026-11-26 -->
 
 # SYNTHESIS-032: Safe withdrawal of support: one joint claim
 
@@ -211,11 +211,11 @@ carried [CLAIM-602](../claims.d/CLAIM-602.md) to AI assistance: an assistant cou
 ordinary measure while weakening the people it serves. The owner objected
 that this may be a Luddite fallacy, since in technological history
 unaided competence fell while what people could do rose
-([QUESTION-tmpsgbj7](../questions.d/QUESTION-tmpsgbj7.md), the owner's). A4 granted it a significant
+([QUESTION-551](../questions.d/QUESTION-551.md), the owner's). A4 granted it a significant
 qualification: a model that equates a fall in unaided competence with a
 fall in empowerment is no general theory of technological development,
 and [CLAIM-602](../claims.d/CLAIM-602.md) draws no conclusion about net empowerment, so the objection
-marks the model's scope ([CLAIM-tmpz33db](../claims.d/CLAIM-tmpz33db.md), A's, complementing [CLAIM-675](../claims.d/CLAIM-675.md)'s
+marks the model's scope ([CLAIM-1456](../claims.d/CLAIM-1456.md), A's, complementing [CLAIM-675](../claims.d/CLAIM-675.md)'s
 assessment of support by the trajectory it leaves). A4's remedy, a vector
 of capacities with effort freed by supply reinvested in a second one,
 was shown only on a stipulated linear widget. Worked in [CLAIM-602](../claims.d/CLAIM-602.md)'s own
@@ -223,10 +223,10 @@ dynamics, it answers for capacity and not for dependency: the first
 capacity's steady state and the recovery time after full substitution
 are unchanged by whatever is reinvested, and under a finite budget the
 reinvested skill decays once the first task reclaims the effort
-([CLAIM-tmp87zug](../claims.d/CLAIM-tmp87zug.md), the assistant's, demonstrated; [ARG-tmpee3ck](../arguments.d/ARG-tmpee3ck.md)). What
+([CLAIM-1377](../claims.d/CLAIM-1377.md), the assistant's, demonstrated; [ARG-263](../arguments.d/ARG-263.md)). What
 decides whether that dependency matters is then not the loss itself,
 which [CLAIM-603](../claims.d/CLAIM-603.md) already declines to count as the pathology, but
-reciprocity and who controls the terms of supply ([CLAIM-tmp5vitv](../claims.d/CLAIM-tmp5vitv.md), the
+reciprocity and who controls the terms of supply ([CLAIM-1364](../claims.d/CLAIM-1364.md), the
 assistant's, resting on [CLAIM-603](../claims.d/CLAIM-603.md) and [CLAIM-690](../claims.d/CLAIM-690.md)). A4 read [CLAIM-603](../claims.d/CLAIM-603.md)'s
 Black Queen case as adaptive specialization; [CLAIM-603](../claims.d/CLAIM-603.md) says the reverse,
 that it looks like a division of labour and is not one because it runs
@@ -236,13 +236,13 @@ supplies whose terms are contested.
 A21 proposed that an interest becomes individuated when discrimination,
 valuation, action and learning come to sustain one another, until the
 organization reproduces itself without the stimulus that prompted it
-([CLAIM-tmp1njmb](../claims.d/CLAIM-tmp1njmb.md), A's, complementing [CLAIM-600](../claims.d/CLAIM-600.md)), with a minimal model of
-coupled competence and valuation ([CASE-tmpaqihm](../cases.d/CASE-tmpaqihm.md)). Its arithmetic is
+([CLAIM-1352](../claims.d/CLAIM-1352.md), A's, complementing [CLAIM-600](../claims.d/CLAIM-600.md)), with a minimal model of
+coupled competence and valuation ([CASE-430](../cases.d/CASE-430.md)). Its arithmetic is
 right, and A21 itself calls the instability a coupling threshold, not a
 nucleation threshold. In that model the temporary support never decides
-the outcome, so it gives support no role ([CLAIM-tmpyk6bi](../claims.d/CLAIM-tmpyk6bi.md), the
+the outcome, so it gives support no role ([CLAIM-1454](../claims.d/CLAIM-1454.md), the
 assistant's, demonstrated), and the argument from it to the transient
-support clause is Rejected ([ARG-tmpahwlh](../arguments.d/ARG-tmpahwlh.md)). A role for support needs a
+support clause is Rejected ([ARG-261](../arguments.d/ARG-261.md)). A role for support needs a
 model with a threshold, which [CLAIM-1310](../claims.d/CLAIM-1310.md) holds for the one-variable fold.
 
 What stays open is [QUESTION-398](../questions.d/QUESTION-398.md) (A's, Open): under what conditions a
@@ -405,11 +405,11 @@ line's next review.
   names before withdrawal; no component says which, or how to find them
   before withdrawal.
 
-- **Reciprocity for AI assistance.** [CLAIM-tmp5vitv](../claims.d/CLAIM-tmp5vitv.md) leaves the Luddite
+- **Reciprocity for AI assistance.** [CLAIM-1364](../claims.d/CLAIM-1364.md) leaves the Luddite
   objection to reciprocity and control of terms; no entry says what the
   terms of supply are, or who controls them, for an assistant and the
   people it serves.
-- **[CLAIM-tmpyk6bi](../claims.d/CLAIM-tmpyk6bi.md)'s thresholded model and [CLAIM-600](../claims.d/CLAIM-600.md).** [CLAIM-tmpyk6bi](../claims.d/CLAIM-tmpyk6bi.md)
+- **[CLAIM-1454](../claims.d/CLAIM-1454.md)'s thresholded model and [CLAIM-600](../claims.d/CLAIM-600.md).** [CLAIM-1454](../claims.d/CLAIM-1454.md)
   says a one-line change to the coupling gives support a role; no entry
   says whether [CLAIM-600](../claims.d/CLAIM-600.md)'s conditions for safe withdrawal hold in that
   model.

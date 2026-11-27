@@ -6,7 +6,7 @@
 
 **Pragmatics** — language in use — speech acts and illocutionary force, assertion and common ground, presupposition, dynamic and update semantics, footing and stance in discourse, and probabilistic models of speakers and listeners (rational speech acts); what an utterance does, beyond what it says (ADR-034).
 
-24 of 2310 THEORY documents. Back to the [full index](../README.md).
+25 of 2329 THEORY documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -34,3 +34,4 @@
 | [THEORY-2117](../../../record/theory.d/THEORY-2117.md) | Apes don't point, lacking shared intentionality | From the reading of [LIT-2914](../../../record/literature.d/LIT-2914.md) in [NOTE-2198](../../../record/notes.d/NOTE-2198.md), a stand-in for [LIT-2903](../../../record/literature.d/LIT-2903.md). Proposed until its promote_when is met. | Proposed |
 | [THEORY-2124](../../../record/theory.d/THEORY-2124.md) | Children invent iconic signs that conventionalize | From the reading of [LIT-2923](../../../record/literature.d/LIT-2923.md) in [NOTE-2212](../../../record/notes.d/NOTE-2212.md). One German sample; rating-based measures. Proposed until its promote_when is met. | Proposed |
 | [THEORY-2226](../../../record/theory.d/THEORY-2226.md) | Winograd pair weakly violates CHSH | Lo, Sadrzadeh and Mansfield (2023), [LIT-3098](../../../record/literature.d/LIT-3098.md), read in [NOTE-2316](../../../record/notes.d/NOTE-2316.md). The construction is theirs; that the response format leaves the marginals unobserved, so the test cannot see direct influences, is the reading's. The violation and its spread were recomputed from the paper's Table 1. | Proposed |
+| [THEORY-2311](../../../record/theory.d/THEORY-2311.md) | Emotional expressions do things as speech acts do | Scarantino, the theory of affective pragmatics (2017). The account the record expects to draw from the work, attributed at the owner's direction of 2026-11-26 ("even deferred, you can still attribute to those works the theories we expect to draw from them"). It is stated from the assistant's prior knowledge of the work. The work is unread, so the statement is unverified until read, and it grounds nothing until then. The wording is the assistant's (Claude, in this session); adopting it is the owner's call. | Proposed |

@@ -30,9 +30,9 @@ history:
   note: >-
     Revised to take the exchange "Alignment consequences brainstorm"
     (ChatGPT, 2026-11-26) into account, under ADR-151, and rewritten from
-    an inventory into one argument. Added CLAIM-tmpxl7dc, ARG-tmpsis1z,
-    CLAIM-tmpoh8gm, CLAIM-tmpc4o6j, CLAIM-tmpxf70b, CLAIM-792,
-    CLAIM-tmpygs06 and QUESTION-tmp5jhwd. The per-component list, the
+    an inventory into one argument. Added CLAIM-1451, ARG-268,
+    CLAIM-1429, CLAIM-1390, CLAIM-1449, CLAIM-792,
+    CLAIM-1453 and QUESTION-545. The per-component list, the
     relation counts of version 1 and the audit of candidate links are
     dropped from the body; they are in version 2 and the curation entries
     of 2026-11-07 and 2026-11-23. The title is unchanged.
@@ -72,17 +72,17 @@ integrates:
 - CASE-300
 - CASE-299
 - QUESTION-503
-- CLAIM-tmpxl7dc
-- ARG-tmpsis1z
-- CLAIM-tmpoh8gm
-- CLAIM-tmpc4o6j
-- CLAIM-tmpxf70b
+- CLAIM-1451
+- ARG-268
+- CLAIM-1429
+- CLAIM-1390
+- CLAIM-1449
 - CLAIM-792
-- CLAIM-tmpygs06
-- QUESTION-tmp5jhwd
+- CLAIM-1453
+- QUESTION-545
 ---
-<!-- inactive-ok-file: CLAIM-181 CLAIM-183 CLAIM-472 CLAIM-476 TERM-087 CLAIM-792 CLAIM-1334 CLAIM-1200 CLAIM-184 TERM-tmp35z0s — Proposed; components and held entries the argument cites, with their standing -->
-<!-- inactive-ok-file: CLAIM-tmpxl7dc ARG-tmpsis1z CLAIM-tmpoh8gm CLAIM-tmpc4o6j CLAIM-tmpxf70b CLAIM-tmpygs06 ARG-tmpo6eca CLAIM-tmp3dn8p TERM-tmp3rbue TERM-tmp8nuak SYNTHESIS-tmp4kh41 — Proposed, Open or Rejected; filed from the exchange "Alignment consequences brainstorm" on 2026-11-26 -->
+<!-- inactive-ok-file: CLAIM-181 CLAIM-183 CLAIM-472 CLAIM-476 TERM-087 CLAIM-792 CLAIM-1334 CLAIM-1200 CLAIM-184 TERM-180 — Proposed; components and held entries the argument cites, with their standing -->
+<!-- inactive-ok-file: CLAIM-1451 ARG-268 CLAIM-1429 CLAIM-1390 CLAIM-1449 CLAIM-1453 ARG-266 CLAIM-1357 TERM-181 TERM-185 SYNTHESIS-127 — Proposed, Open or Rejected; filed from the exchange "Alignment consequences brainstorm" on 2026-11-26 -->
 <!-- inactive-ok-file: SYNTHESIS-090 ADR-151 — Proposed; the sibling synthesis of the line and the decision on how a synthesis is written -->
 
 # SYNTHESIS-012: The record's grammar is an amendable apparatus
@@ -156,11 +156,11 @@ partly made, is [QUESTION-503](../questions.d/QUESTION-503.md).
 **An amendment can make a distinction expressible, or make an expressible
 one consequential.** The exchange restated [CLAIM-469](../claims.d/CLAIM-469.md) as an apparatus for
 governing which differences can produce consequences in the record's
-later work (its note of 2026-11-26, with [TERM-tmp8nuak](../terms.d/TERM-tmp8nuak.md)), and added a
+later work (its note of 2026-11-26, with [TERM-185](../terms.d/TERM-185.md)), and added a
 measure: the difference in findings a perturbation makes under the
 record's rules. On that measure a grammar revision can make an inert
-distinction consequential ([CLAIM-tmpxl7dc](../claims.d/CLAIM-tmpxl7dc.md), A's). The argument for it
-narrows the instance ([ARG-tmpsis1z](../arguments.d/ARG-tmpsis1z.md), the assistant's). Before the
+distinction consequential ([CLAIM-1451](../claims.d/CLAIM-1451.md), A's). The argument for it
+narrows the instance ([ARG-268](../arguments.d/ARG-268.md), the assistant's). Before the
 `corroborates` decision the difference between corroborating and
 depending could not be written at all ([CASE-131](../cases.d/CASE-131.md)), so that decision made a
 distinction expressible. The decision that made a reading of an
@@ -179,7 +179,7 @@ retirement apart from its dependants' fate and a misfit apart from a
 contributor's error; it separates making something visible from the
 authority over what follows from its visibility, and the discovery of a
 condition from its classification, enforcement and exception
-([CLAIM-tmpoh8gm](../claims.d/CLAIM-tmpoh8gm.md), resting on [CLAIM-469](../claims.d/CLAIM-469.md),
+([CLAIM-1429](../claims.d/CLAIM-1429.md), resting on [CLAIM-469](../claims.d/CLAIM-469.md),
 [CLAIM-479](../claims.d/CLAIM-479.md) and [CLAIM-419](../claims.d/CLAIM-419.md) and on the couplings of a governing metric and of
 penalized discovery, [CLAIM-1334](../claims.d/CLAIM-1334.md) and [CLAIM-1064](../claims.d/CLAIM-1064.md)). Every mechanism and
 figure A13 cites was checked and holds, among them that 63 of 71 changes
@@ -187,9 +187,9 @@ answering a misfit had first been forced or kept in prose ([CLAIM-419](../claims
 note of 2026-11-26). From this A13 proposes that alignment can be
 distributed across a governed organization, each alignment function given
 an organizational realization, with Luria to institutional alignment what
-a model organism is to developmental biology ([CLAIM-tmpc4o6j](../claims.d/CLAIM-tmpc4o6j.md)), the
+a model organism is to developmental biology ([CLAIM-1390](../claims.d/CLAIM-1390.md)), the
 converse of A6's point that aligning each component does not align what
-they compose ([CLAIM-tmp3dn8p](../claims.d/CLAIM-tmp3dn8p.md)). The assistant's note on that claim bounds
+they compose ([CLAIM-1357](../claims.d/CLAIM-1357.md)). The assistant's note on that claim bounds
 it: the distribution protects only so far as the functions are
 independent of the participant in what they observe and in who sets them,
 and a record of representations is where the separation can be stated,
@@ -198,31 +198,31 @@ not a means of enforcing it.
 **Delegating the record's upkeep may widen its governance, and the record
 cannot yet show it.** A13 offers the record as a counterexample to the
 claim that externalizing capabilities disempowers: the delegated work
-exists to widen the owner's capacity to govern ([CLAIM-tmpxf70b](../claims.d/CLAIM-tmpxf70b.md), using
-[TERM-tmp35z0s](../terms.d/TERM-tmp35z0s.md)'s constitutional capability). The record holds half of what
+exists to widen the owner's capacity to govern ([CLAIM-1449](../claims.d/CLAIM-1449.md), using
+[TERM-180](../terms.d/TERM-180.md)'s constitutional capability). The record holds half of what
 that needs, that noticing was delegated and judgement about revision was
 not ([CLAIM-792](../claims.d/CLAIM-792.md)). The census cannot give the other half, since it has no
 counterfactual and no measure of the owner's own capacity over time, so
-the argument from it is Rejected ([ARG-tmpo6eca](../arguments.d/ARG-tmpo6eca.md)). A13 also names the
+the argument from it is Rejected ([ARG-266](../arguments.d/ARG-266.md)). A13 also names the
 record's own form of the risk: its upkeep becoming its objective, clean
 lint over insight, claims filed because they are easy to represent, effort
 spent on the record rather than the inquiry. Only the neglect of questions
 that fit no scheme is [CLAIM-181](../claims.d/CLAIM-181.md)'s forcing; the rest is a criterion's
-jurisdiction applied to the record itself ([TERM-tmp3rbue](../terms.d/TERM-tmp3rbue.md)), and the
+jurisdiction applied to the record itself ([TERM-181](../terms.d/TERM-181.md)), and the
 nearest held entry is [CLAIM-1200](../claims.d/CLAIM-1200.md)'s last clause ([CLAIM-181](../claims.d/CLAIM-181.md), note of
 2026-11-26).
 
 **Designed without Luria, the account still asks for an amendable
 grammar.** Asked what the record's account requires of a platform for
 governing an institution's alignment and development, if Luria did not
-exist ([QUESTION-tmp5jhwd](../questions.d/QUESTION-tmp5jhwd.md), the owner's), A15 derives fourteen
+exist ([QUESTION-545](../questions.d/QUESTION-545.md), the owner's), A15 derives fourteen
 requirements, one of them [CLAIM-419](../claims.d/CLAIM-419.md) made general: participants must be
-able to report inadequacies in the categories themselves ([CLAIM-tmpygs06](../claims.d/CLAIM-tmpygs06.md)).
+able to report inadequacies in the categories themselves ([CLAIM-1453](../claims.d/CLAIM-1453.md)).
 A15 estimates that such a platform would invent something like Luria in
 its first stage of four, and its data model's rule that different objects
 keep different lifecycles is Luria's rule for splitting schemes reached
 from the other side. The platform's place in the argument is
-governing-possibility's ([SYNTHESIS-tmp4kh41](SYNTHESIS-tmp4kh41.md)).
+governing-possibility's ([SYNTHESIS-127](SYNTHESIS-127.md)).
 
 ## Where it stands
 
@@ -233,9 +233,9 @@ consequence ([CLAIM-476](../claims.d/CLAIM-476.md), [CLAIM-472](../claims.d/CLAI
 added is Proposed and A's, except the narrowing of the consequentiality
 instance and the bounds on distribution and on the counterexample, which
 are the assistant's. The tests are [SYNTHESIS-090](SYNTHESIS-090.md)'s: a dry-run impact
-report by perturbation ([LEAD-tmpj44my](../leads.d/LEAD-tmpj44my.md)), the owner's own noticing over time
-([LEAD-tmpswgqi](../leads.d/LEAD-tmpswgqi.md)), and experiments on governed records kept by AI
-collectives ([LEAD-tmpwlebp](../leads.d/LEAD-tmpwlebp.md)).
+report by perturbation ([LEAD-300](../leads.d/LEAD-300.md)), the owner's own noticing over time
+([LEAD-312](../leads.d/LEAD-312.md)), and experiments on governed records kept by AI
+collectives ([LEAD-316](../leads.d/LEAD-316.md)).
 
 ## Not stated on the record
 
@@ -253,17 +253,17 @@ collectives ([LEAD-tmpwlebp](../leads.d/LEAD-tmpwlebp.md)).
   ever prompted one of the grammar's amendments.
 - **[QUESTION-072](../questions.d/QUESTION-072.md) and [CLAIM-419](../claims.d/CLAIM-419.md)'s limit.** No entry says whether any
   amendment changed whose moves the grammar can hold.
-- **The two kinds of amendment in the census.** [CLAIM-tmpxl7dc](../claims.d/CLAIM-tmpxl7dc.md) and
-  [ARG-tmpsis1z](../arguments.d/ARG-tmpsis1z.md) separate amendments that widen what can be written from
+- **The two kinds of amendment in the census.** [CLAIM-1451](../claims.d/CLAIM-1451.md) and
+  [ARG-268](../arguments.d/ARG-268.md) separate amendments that widen what can be written from
   those that change what the checks do with it; no entry counts which of
   [CASE-300](../cases.d/CASE-300.md)'s 88 changes are which.
 - **Luria's keeping-apart and [CLAIM-472](../claims.d/CLAIM-472.md).** If Luria is an alignment
-  response ([CLAIM-tmpoh8gm](../claims.d/CLAIM-tmpoh8gm.md)), its exclusions would be open to evaluation as
+  response ([CLAIM-1429](../claims.d/CLAIM-1429.md)), its exclusions would be open to evaluation as
   alignment failures as well as epistemic ones; no entry says so.
 - **That the record is not self-correcting for being self-modifying.**
   [TERM-089](../terms.d/TERM-089.md) states the distinction; whether the record's delegation of
   noticing ([CLAIM-792](../claims.d/CLAIM-792.md)) makes it more or less self-correcting is what
-  [LEAD-tmpswgqi](../leads.d/LEAD-tmpswgqi.md) would measure, and no entry states either.
+  [LEAD-312](../leads.d/LEAD-312.md) would measure, and no entry states either.
 
 ## What it does not say
 
@@ -274,4 +274,4 @@ investigates, that the line's layers are a hierarchy of time scales
 ([CASE-178](../cases.d/CASE-178.md) and [CASE-180](../cases.d/CASE-180.md) call that "An interpretation, not shown"), or that
 Luria aligns anything: A13 says that the architecture does not make
 gaming impossible and that Luria is not a runtime authorization system
-([CLAIM-tmpoh8gm](../claims.d/CLAIM-tmpoh8gm.md)).
+([CLAIM-1429](../claims.d/CLAIM-1429.md)).

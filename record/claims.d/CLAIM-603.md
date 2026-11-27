@@ -448,11 +448,11 @@ the loss is exposed as it forms. That is filed in A's voice as
 
 ## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U2–A4)
 
-<!-- inactive-ok-file: CLAIM-tmp5vitv — filed from the exchange of 2026-11-26, Proposed -->
+<!-- inactive-ok-file: CLAIM-1364 — filed from the exchange of 2026-11-26, Proposed -->
 <!-- inactive-ok-file: CLAIM-690 — Proposed; the held claim the application also rests on -->
 
 A4 §7 cites this claim as the record's "explicit response" to the owner's
-U2 ([QUESTION-tmpsgbj7](../questions.d/QUESTION-tmpsgbj7.md)), whether the account of supplied work eroding
+U2 ([QUESTION-551](../questions.d/QUESTION-551.md)), whether the account of supplied work eroding
 capacity commits a Luddite fallacy. A4's gloss misreads one step: "From
 the standpoint of the ecological organization, it can be adaptive
 specialization." This claim reports the reverse for the Black Queen case,
@@ -464,7 +464,7 @@ Applied to a capability a provider supplies, this claim's test does not
 stop at the loss: the supply does not fall as dependence grows, so the
 loss is bounded only by what the supply covers, and the remaining marks
 are reciprocity and, through [CLAIM-690](CLAIM-690.md), control of the terms. That is
-filed as the assistant's [CLAIM-tmp5vitv](CLAIM-tmp5vitv.md), which rests on this claim. A4
+filed as the assistant's [CLAIM-1364](CLAIM-1364.md), which rests on this claim. A4
 §7's further step, that the loss of local capability is "one of the
 mechanisms" by which "new levels of organization" form, is A's
 extrapolation; A itself adds that the inquiry "does not establish that

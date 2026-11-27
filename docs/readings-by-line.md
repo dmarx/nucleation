@@ -18,25 +18,25 @@ relations when this page is built, so a reading gains or loses a line as
 the argument around it changes.
 
 Of 939 readings in force,
-811 serve at least one line and 128
+813 serve at least one line and 126
 serve none.
 
 | line | readings it uses |
 |---|---|
 | Distributed agency | 392 |
 | Will-organization | 59 |
-| Normative judgment about organizations | 8 |
-| Wholes, parts and dependence | 1 |
+| Normative judgment about organizations | 10 |
+| Wholes, parts and dependence | 2 |
 | Rightful power: restriction, answerability and rights | 2 |
 | Organizational affect | 8 |
 | Authenticity and concordance | 3 |
-| Contextual pragmatic information transport | 127 |
+| Contextual pragmatic information transport | 129 |
 | Nucleating an argument | 17 |
 | What a record of inquiry keeps | 13 |
 | The record as its own apparatus | 12 |
 | Learning and inquiry | 0 |
-| Evidence for experience | 11 |
-| How training finds structure | 124 |
+| Evidence for experience | 12 |
+| How training finds structure | 126 |
 | Formal apparatus | 123 |
 | Readiness and slack | 15 |
 | Withdrawing transient support | 55 |
@@ -129,7 +129,7 @@ serve none.
 - [THEORY-385](../record/theory.d/THEORY-385.md): HNSW heuristic links keep clustered data reachable *(used by 1)*
 - [THEORY-386](../record/theory.d/THEORY-386.md): Optimal cached interval width is a cube root *(used by 2; also nucleating-argument)*
 - [THEORY-389](../record/theory.d/THEORY-389.md): Rewriting queries using views is NP-complete *(used by 3; also nucleating-argument)*
-- [THEORY-404](../record/theory.d/THEORY-404.md): Senders can persuade fully Bayesian receivers *(used by 2)*
+- [THEORY-404](../record/theory.d/THEORY-404.md): Senders can persuade fully Bayesian receivers *(used by 3; also dependence-and-domination)*
 - [THEORY-408](../record/theory.d/THEORY-408.md): Gene frequencies track inclusive fitness *(used by 2)*
 - [THEORY-417](../record/theory.d/THEORY-417.md): Personal identity is several separate questions *(used by 1)*
 - [THEORY-419](../record/theory.d/THEORY-419.md): Observational equivalence leaves effects open *(used by 4; also pragmatic-transport)*
@@ -138,7 +138,7 @@ serve none.
 - [THEORY-431](../record/theory.d/THEORY-431.md): Crooks symmetry holds for entropy production *(used by 1)*
 - [THEORY-439](../record/theory.d/THEORY-439.md): Test-time training beats in-context alone *(used by 4; also learned-structure, pragmatic-transport)*
 - [THEORY-466](../record/theory.d/THEORY-466.md): Hawk isn't stable; conventional fighting can be *(used by 1)*
-- [THEORY-480](../record/theory.d/THEORY-480.md): Google must share search data, not models *(used by 1)*
+- [THEORY-480](../record/theory.d/THEORY-480.md): Google must share search data, not models *(used by 2; also organizational-normativity)*
 - [THEORY-508](../record/theory.d/THEORY-508.md): BZ oscillation is a bromide-switched relaxation *(used by 1)*
 - [THEORY-527](../record/theory.d/THEORY-527.md): Causal game graphs recoverable by intervention *(used by 1)*
 - [THEORY-543](../record/theory.d/THEORY-543.md): Diffusion can destabilise a stable steady state *(used by 2; also formal-apparatus)*
@@ -509,6 +509,8 @@ serve none.
 - [THEORY-012](../record/theory.d/THEORY-012.md): Negative probability does not mark contextuality *(used by 10; also pragmatic-transport, formal-apparatus)*
 - [THEORY-121](../record/theory.d/THEORY-121.md): Guidance control suffices for responsibility *(used by 5; also will-organization, authenticity)*
 - [THEORY-140](../record/theory.d/THEORY-140.md): Columbia repeated Challenger's causes *(used by 6; also will-organization, distributed-agency)*
+- [THEORY-480](../record/theory.d/THEORY-480.md): Google must share search data, not models *(used by 2; also distributed-agency)*
+- [THEORY-835](../record/theory.d/THEORY-835.md): Firms adopt a shared ranking that hurts both *(used by 1)*
 - [THEORY-1118](../record/theory.d/THEORY-1118.md): Mesh accounts must accept manipulees or history *(used by 6; also authenticity, will-organization)*
 - [THEORY-1119](../record/theory.d/THEORY-1119.md): Minimal agency needs three sufficient marks *(used by 7; also distributed-agency, dependence-and-domination)*
 - [THEORY-1165](../record/theory.d/THEORY-1165.md): Agency needs a self-revising standpoint *(used by 3; also distributed-agency)*
@@ -517,6 +519,7 @@ serve none.
 
 ## Wholes, parts and dependence
 
+- [THEORY-404](../record/theory.d/THEORY-404.md): Senders can persuade fully Bayesian receivers *(used by 3; also distributed-agency)*
 - [THEORY-1119](../record/theory.d/THEORY-1119.md): Minimal agency needs three sufficient marks *(used by 7; also distributed-agency, organizational-normativity)*
 
 ## Rightful power: restriction, answerability and rights
@@ -620,6 +623,7 @@ serve none.
 - [THEORY-522](../record/theory.d/THEORY-522.md): Diffusion models fail most on relative position *(used by 3)*
 - [THEORY-526](../record/theory.d/THEORY-526.md): Čech obstruction is sound but incomplete *(used by 1)*
 - [THEORY-545](../record/theory.d/THEORY-545.md): Quantum concept model is classical underneath *(used by 1)*
+- [THEORY-547](../record/theory.d/THEORY-547.md): Idealized LMs track narrative, not truth *(used by 2)*
 - [THEORY-559](../record/theory.d/THEORY-559.md): KS contradictions refute measurement identity *(used by 1)*
 - [THEORY-602](../record/theory.d/THEORY-602.md): Coding theorems, not axioms, justify entropy *(used by 2)*
 - [THEORY-611](../record/theory.d/THEORY-611.md): Guided field may be the gradient of no density *(used by 1)*
@@ -639,11 +643,11 @@ serve none.
 - [THEORY-730](../record/theory.d/THEORY-730.md): Lattice co-occurrence gives Fourier embeddings *(used by 2)*
 - [THEORY-739](../record/theory.d/THEORY-739.md): word2vec proxy learns eigenvectors in sequence *(used by 1)*
 - [THEORY-778](../record/theory.d/THEORY-778.md): Level-ℓ correlations need P ≈ v m^(2ℓ−1) samples *(used by 1)*
-- [THEORY-839](../record/theory.d/THEORY-839.md): Stable points lie within 2L_zε/γ of the optimum *(used by 1)*
+- [THEORY-839](../record/theory.d/THEORY-839.md): Stable points lie within 2L_zε/γ of the optimum *(used by 3; also learned-structure)*
 - [THEORY-843](../record/theory.d/THEORY-843.md): Zero abstraction error iff τ-abstraction *(used by 4; also formal-apparatus, will-organization)*
 - [THEORY-846](../record/theory.d/THEORY-846.md): Computation can create V-information *(used by 6; also learned-structure, distributed-agency, formal-apparatus)*
 - [THEORY-848](../record/theory.d/THEORY-848.md): Marginalizing unintervened variables is exact *(used by 5; also formal-apparatus, will-organization)*
-- [THEORY-861](../record/theory.d/THEORY-861.md): Repeated retraining converges if ε < γ/β *(used by 1)*
+- [THEORY-861](../record/theory.d/THEORY-861.md): Repeated retraining converges if ε < γ/β *(used by 4; also learned-structure)*
 - [THEORY-862](../record/theory.d/THEORY-862.md): Law schools changed to move their U.S. News rank *(used by 1)*
 - [THEORY-961](../record/theory.d/THEORY-961.md): Degenerate actions don't create neighbour pairs *(used by 1)*
 - [THEORY-962](../record/theory.d/THEORY-962.md): Local observability fixes learnable comparisons *(used by 4; also distributed-agency, will-organization, formal-apparatus)*
@@ -668,6 +672,7 @@ serve none.
 - [THEORY-1158](../record/theory.d/THEORY-1158.md): Holonomy path synchronization trails spectral *(used by 4; also formal-apparatus, distributed-agency)*
 - [THEORY-1164](../record/theory.d/THEORY-1164.md): Wondertales share 31 functions in one order *(used by 2)*
 - [THEORY-1276](../record/theory.d/THEORY-1276.md): Information is disparity, meaning is transduction *(used by 4; also distributed-agency)*
+- [THEORY-1339](../record/theory.d/THEORY-1339.md): Assistant-axis drift follows latest user message *(used by 5; also learned-structure)*
 - [THEORY-1531](../record/theory.d/THEORY-1531.md): Communication as transduction dissolves scaling *(used by 2; also distributed-agency)*
 - [THEORY-1586](../record/theory.d/THEORY-1586.md): Discourse meaning as gluing of sections *(used by 3)*
 
@@ -724,10 +729,11 @@ serve none.
 
 ## Evidence for experience
 
+- [THEORY-227](../record/theory.d/THEORY-227.md): Mutual information doesn't fix representation *(used by 2; also learned-structure)*
 - [THEORY-245](../record/theory.d/THEORY-245.md): Prefrontal cortex carries category, not identity *(used by 2; also organizational-affect)*
 - [THEORY-296](../record/theory.d/THEORY-296.md): No sustained posterior–visual synchronization *(used by 3)*
 - [THEORY-766](../record/theory.d/THEORY-766.md): Rubber hand reports may reflect expectation *(used by 1)*
-- [THEORY-865](../record/theory.d/THEORY-865.md): Verbalizable directions carry verbal report *(used by 1)*
+- [THEORY-865](../record/theory.d/THEORY-865.md): Verbalizable directions carry verbal report *(used by 2)*
 - [THEORY-866](../record/theory.d/THEORY-866.md): Contentless meditation states retain content *(used by 1)*
 - [THEORY-869](../record/theory.d/THEORY-869.md): Ablating J-space cuts experiential language *(used by 1)*
 - [THEORY-870](../record/theory.d/THEORY-870.md): TM pure-awareness ratings unlinked to EEG *(used by 1)*
@@ -768,7 +774,7 @@ serve none.
 - [THEORY-206](../record/theory.d/THEORY-206.md): Flattening monomials costs exponential neurons *(used by 3; also formal-apparatus)*
 - [THEORY-211](../record/theory.d/THEORY-211.md): SGD noise equalizes noise across symmetric groups *(used by 5; also pragmatic-transport)*
 - [THEORY-213](../record/theory.d/THEORY-213.md): Weight decay puts minima on mirror subspaces *(used by 3)*
-- [THEORY-227](../record/theory.d/THEORY-227.md): Mutual information doesn't fix representation *(used by 1)*
+- [THEORY-227](../record/theory.d/THEORY-227.md): Mutual information doesn't fix representation *(used by 2; also evidence-for-experience)*
 - [THEORY-229](../record/theory.d/THEORY-229.md): Barlow Twins learns eigenvectors in order *(used by 3)*
 - [THEORY-234](../record/theory.d/THEORY-234.md): Equal LM laws fix embeddings up to linear maps *(used by 4)*
 - [THEORY-238](../record/theory.d/THEORY-238.md): Encoder alone bounds generalization error *(used by 1)*
@@ -822,7 +828,9 @@ serve none.
 - [THEORY-774](../record/theory.d/THEORY-774.md): Hopping-model Fisher eigenvalues split by factor t *(used by 7; also formal-apparatus)*
 - [THEORY-775](../record/theory.d/THEORY-775.md): VAE slowness prior gives SFA only when whitened *(used by 1)*
 - [THEORY-779](../record/theory.d/THEORY-779.md): Momentum SGD's stationary spread follows Hessian *(used by 3)*
+- [THEORY-839](../record/theory.d/THEORY-839.md): Stable points lie within 2L_zε/γ of the optimum *(used by 3; also pragmatic-transport)*
 - [THEORY-846](../record/theory.d/THEORY-846.md): Computation can create V-information *(used by 6; also pragmatic-transport, distributed-agency, formal-apparatus)*
+- [THEORY-861](../record/theory.d/THEORY-861.md): Repeated retraining converges if ε < γ/β *(used by 4; also pragmatic-transport)*
 - [THEORY-966](../record/theory.d/THEORY-966.md): ACDC keeps one input of a redundant OR *(used by 2)*
 - [THEORY-968](../record/theory.d/THEORY-968.md): SAE features never beat raw dimensions on MIB *(used by 3; also distributed-agency)*
 - [THEORY-970](../record/theory.d/THEORY-970.md): ACDC recovers manual circuits on real tasks *(used by 1)*
@@ -858,7 +866,7 @@ serve none.
 - [THEORY-1275](../record/theory.d/THEORY-1275.md): SGD transitions only partly match the posterior *(used by 7)*
 - [THEORY-1304](../record/theory.d/THEORY-1304.md): LDA draws a topic per word, a mixture per doc *(used by 2; also distributed-agency)*
 - [THEORY-1330](../record/theory.d/THEORY-1330.md): Role space's main axis ends at the Assistant *(used by 1)*
-- [THEORY-1339](../record/theory.d/THEORY-1339.md): Assistant-axis drift follows latest user message *(used by 1)*
+- [THEORY-1339](../record/theory.d/THEORY-1339.md): Assistant-axis drift follows latest user message *(used by 5; also pragmatic-transport)*
 - [THEORY-1350](../record/theory.d/THEORY-1350.md): Post-training conditions a persona posterior *(used by 2; also distributed-agency)*
 - [THEORY-1357](../record/theory.d/THEORY-1357.md): Stroke programs match humans at one-shot letters *(used by 1)*
 - [THEORY-1894](../record/theory.d/THEORY-1894.md): Repeated sampling raises coverage log-linearly *(used by 11; also realizability, distributed-agency)*
@@ -1143,7 +1151,6 @@ where the argument has not yet built on what the record has read.
 ### cognition
 
 - [THEORY-471](../record/theory.d/THEORY-471.md): Mental states aren't machine-table states
-- [THEORY-547](../record/theory.d/THEORY-547.md): Idealized LMs track narrative, not truth
 - [THEORY-1519](../record/theory.d/THEORY-1519.md): Generative AI polarizes task complexity
 
 ### complex-systems
@@ -1175,7 +1182,6 @@ where the argument has not yet built on what the record has read.
 
 ### game-theory
 
-- [THEORY-835](../record/theory.d/THEORY-835.md): Firms adopt a shared ranking that hurts both
 - [THEORY-930](../record/theory.d/THEORY-930.md): Nash clusters widest at intermediate strength
 - [THEORY-945](../record/theory.d/THEORY-945.md): Mean field Q reduces many agents to two bodies
 

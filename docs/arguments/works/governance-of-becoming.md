@@ -6,7 +6,7 @@
 
 **The Governance of Becoming** — the owner's article series, requested at U31 of the exchange "Memes, Contracts, and Systemic Normativity" and proposed by ChatGPT on 2026-11-24 (A49) as fourteen articles and reordered at U32 (A51, the order the owner took on 2026-11-25), with governance-of-possibility as its Article 2, to be collected as The Governance of Becoming: Individuation, Interdependence, and the Organization of Possibility; its precursor draft is the manuscript Becoming Through One Another (A26 to A28), requested at U20. Organizations individuate through maintained relationships that make their processes mutually consequential, store work, distribute authority and create dependencies, implicit contracts among them; cooperation changes its participants, so exploitation, domination and agency without answerability can arise from success; normative governance is the legitimate organization of those transformations, including the capacity to discover and correct them, and constitutional regeneration is its political form. Its argument is held mainly in the lines distributed-agency, dependence-and-domination, organizational-normativity and will-organization.
 
-2 of 260 ARG documents. Back to the [full index](../README.md).
+2 of 270 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

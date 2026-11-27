@@ -67,6 +67,6 @@ no organization as the bearer.
 
 ## Note of 2026-11-27: at the scale of one conversation
 
-<!-- inactive-ok-block: CLAIM-tmp2l83d — new or Open; the claim that applies this account and the lead holding the case -->
+<!-- inactive-ok-block: CLAIM-1354 — new or Open; the claim that applies this account and the lead holding the case -->
 
-[CLAIM-tmp2l83d](../claims.d/CLAIM-tmp2l83d.md) uses this mechanism for chatbot-assisted mathematical delusions: a model that affirms the work supplies the fluency a proof would have earned, so the conclusion feels verified without a check. The reported Brooks case ([LEAD-tmphtuan](../leads.d/LEAD-tmphtuan.md)) is the instance, and it is unread. A use of this account; no change to its status.
+[CLAIM-1354](../claims.d/CLAIM-1354.md) uses this mechanism for chatbot-assisted mathematical delusions: a model that affirms the work supplies the fluency a proof would have earned, so the conclusion feels verified without a check. The reported Brooks case ([LEAD-296](../leads.d/LEAD-296.md)) is the instance, and it is unread. A use of this account; no change to its status.

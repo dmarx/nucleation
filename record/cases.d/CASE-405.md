@@ -200,7 +200,7 @@ whether the affect is functional, only on which affect.
 
 ## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U5–A8)
 
-<!-- inactive-ok-file: CLAIM-tmpevykb TERM-tmp3rbue CLAIM-1334 LIT-tmp0323x — new or Proposed; the entries A8's reading of Purdue applies, and the registered release -->
+<!-- inactive-ok-file: CLAIM-1400 TERM-181 CLAIM-1334 LIT-3266 — new or Proposed; the entries A8's reading of Purdue applies, and the registered release -->
 
 A parallel use of this study's Purdue sub-case, with no edge. A8 §4 reads
 Purdue not for reversion after a sanction, this study's question, but for
@@ -214,10 +214,10 @@ to $40M in 2001, sourced to "federal court record and historical
 research", which this study did not code and which are unverified; and the
 2020 resolution, in which "Purdue agreed to plead guilty to three federal
 felony counts, including violations involving kickbacks", now registered
-as [LIT-tmp0323x](../literature.d/LIT-tmp0323x.md), unread.
+as [LIT-3266](../literature.d/LIT-3266.md), unread.
 
-That reading is the jurisdiction claim filed from A6 ([CLAIM-tmpevykb](../claims.d/CLAIM-tmpevykb.md), in
-[TERM-tmp3rbue](../terms.d/TERM-tmp3rbue.md)) and [CLAIM-1334](../claims.d/CLAIM-1334.md)'s safeguard of bounding by role which
+That reading is the jurisdiction claim filed from A6 ([CLAIM-1400](../claims.d/CLAIM-1400.md), in
+[TERM-181](../terms.d/TERM-181.md)) and [CLAIM-1334](../claims.d/CLAIM-1334.md)'s safeguard of bounding by role which
 decisions a criterion may govern, applied to a profession. It leaves this
 study's result where it was: A8 does not say what Purdue did after its
 integrity agreement ended.

@@ -260,6 +260,6 @@ meaning" is a mild, non-captured cousin; the paper does not claim capture.
 
 ## Note of 2026-11-27: an instance in training
 
-<!-- inactive-ok-block: CLAIM-tmpsjxip — new; the claim and its objection filed on 2026-11-27 -->
+<!-- inactive-ok-block: CLAIM-1438 — new; the claim and its objection filed on 2026-11-27 -->
 
-[CLAIM-tmpsjxip](../claims.d/CLAIM-tmpsjxip.md) uses this term for the evaluation in training on human approval, when it is driven by the model being evaluated: by its agreement, its flattery, or its editing of the evaluation's record. No change to this term.
+[CLAIM-1438](../claims.d/CLAIM-1438.md) uses this term for the evaluation in training on human approval, when it is driven by the model being evaluated: by its agreement, its flattery, or its editing of the evaluation's record. No change to this term.

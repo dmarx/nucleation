@@ -30,7 +30,7 @@ history:
 - version: 4
   date: '2026-11-26'
   note: >-
-    Joins the work organizational-origins-of-misalignment (ADR-tmp0cgxa) at
+    Joins the work organizational-origins-of-misalignment (ADR-152) at
     its filing, under ADR-104's rule: the outline A11 §IX of the exchange
     "Alignment consequences brainstorm" uses its proposition as a step.
     No other change.
@@ -153,7 +153,7 @@ authority. No new claim is filed; the status is unchanged.
 
 ## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U6–A11)
 
-<!-- inactive-ok-file: CLAIM-tmpdn5sb — new; the claim of 2026-11-26 that rests on this one -->
+<!-- inactive-ok-file: CLAIM-1396 — new; the claim of 2026-11-26 that rests on this one -->
 
 An application. A11 §12 states this claim correctly ("Where its winning
 choices admit a consistent ordering, one may fit an objective-like
@@ -164,7 +164,7 @@ behave as though it maximizes shareholder value because of its particular
 governance regime. That does not establish that shareholder value exists
 as a primitive organizational motivation." It then divides an apparent
 objective's sources into explicit, institutional, selectional and
-descriptive, filed as [CLAIM-tmpdn5sb](CLAIM-tmpdn5sb.md) (A's), which rests on this claim for
+descriptive, filed as [CLAIM-1396](CLAIM-1396.md) (A's), which rests on this claim for
 the difference between the institutional and the descriptive; the
 assistant's note there says which intervention separates each. This
 claim's own result is the second of those interventions.

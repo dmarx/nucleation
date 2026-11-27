@@ -96,6 +96,6 @@ organizational and normative naivety) are each held, at [TERM-108](TERM-108.md),
 
 ## Note of 2026-11-27: shortcut learning as greedy agency
 
-<!-- inactive-ok-block: CLAIM-tmpnjaik — new; filed when the owner connected shortcut learning to the record's account of paperclip maximization -->
+<!-- inactive-ok-block: CLAIM-1428 — new; filed when the owner connected shortcut learning to the record's account of paperclip maximization -->
 
-The owner connected shortcut learning to the record's account of paperclip maximization, of which this term is the centre. [CLAIM-tmpnjaik](../claims.d/CLAIM-tmpnjaik.md) reads a shortcut as greedy agency at learning time, in both senses. It is temporally greedy because the earliest reliable correlate forecloses the truthmaker. It is jurisdictionally greedy because cases outside the training family have no standing in the objective. No change to this term.
+The owner connected shortcut learning to the record's account of paperclip maximization, of which this term is the centre. [CLAIM-1428](../claims.d/CLAIM-1428.md) reads a shortcut as greedy agency at learning time, in both senses. It is temporally greedy because the earliest reliable correlate forecloses the truthmaker. It is jurisdictionally greedy because cases outside the training family have no standing in the objective. No change to this term.

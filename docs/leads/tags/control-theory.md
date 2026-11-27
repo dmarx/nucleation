@@ -6,7 +6,7 @@
 
 **Control theory** — the analysis and design of feedback — stability and Lyapunov certificates, invariance, viability and barrier certificates, input-to-state stability and small-gain conditions, contraction, adaptive, dual and safe control, and controller synthesis under constraints; dynamical systems without a control input stay with complex-systems (ADR-066).
 
-4 of 282 LEAD documents. Back to the [full index](../README.md).
+4 of 320 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

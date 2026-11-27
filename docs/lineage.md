@@ -2,7 +2,7 @@
 
 # Lines of work
 
-94 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
+95 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -755,6 +755,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [LIT-3172](../record/literature.d/LIT-3172.md) — Inductive biases of multi-task learning and finetuning: multiple regimes of feature reuse *(Active)*
   - [LIT-2861](../record/literature.d/LIT-2861.md) — A Theory of How Pretraining Shapes Inductive Bias in Fine-Tuning *(Active)*
 
+### From Transformers learn in-context by gradient descent
+
+- [LIT-792](../record/literature.d/LIT-792.md) — Transformers learn in-context by gradient descent *(Active)*
+  - [LIT-3313](../record/literature.d/LIT-3313.md) — Uncovering mesa-optimization algorithms in Transformers *(Active)*
+
 ### From Algebraic Geometry and Statistical Learning Theory
 
 - [LIT-354](../record/literature.d/LIT-354.md) — Algebraic Geometry and Statistical Learning Theory *(Unavailable)*
@@ -1234,6 +1239,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-3172](../record/literature.d/LIT-3172.md) — Inductive biases of multi-task learning and finetuning: multiple regimes of feature reuse *(Active)*
   - [LIT-2861](../record/literature.d/LIT-2861.md) — A Theory of How Pretraining Shapes Inductive Bias in Fine-Tuning *(Active)*
+
+### From Transformers learn in-context by gradient descent
+
+- [LIT-792](../record/literature.d/LIT-792.md) — Transformers learn in-context by gradient descent *(Active)*
+  - [LIT-3313](../record/literature.d/LIT-3313.md) — Uncovering mesa-optimization algorithms in Transformers *(Active)*
 
 ### From Understanding image representations by measuring their equivariance and equivalence
 

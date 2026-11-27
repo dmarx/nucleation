@@ -314,7 +314,7 @@ the record still cannot hold or holds only by distorting it.
 
 ## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U7–A13)
 
-<!-- inactive-ok-file: TERM-tmp3rbue CLAIM-789 CLAIM-1200 — new or Proposed; the term of 2026-11-26 and the held claims the note names -->
+<!-- inactive-ok-file: TERM-181 CLAIM-789 CLAIM-1200 — new or Proposed; the term of 2026-11-26 and the held claims the note names -->
 
 A qualification, from A13. A cites this claim for the risk that "an
 organization comes to see the world through the categories its
@@ -332,7 +332,7 @@ record becomes the dominant organizational objective":
 The third is this claim. The fourth is [CLAIM-479](CLAIM-479.md)'s point, that a
 relation's rigidity is no evidence its dependency is sound. The first,
 second and fifth are not forcing: they are the record's upkeep becoming
-its objective, the jurisdiction of a criterion ([TERM-tmp3rbue](../terms.d/TERM-tmp3rbue.md)) applied to
+its objective, the jurisdiction of a criterion ([TERM-181](../terms.d/TERM-181.md)) applied to
 the record itself. A says "None of these possibilities is alien to the
 actual project", and cites the link fixer ([CASE-131](../cases.d/CASE-131.md)), the stale summary
 ([CLAIM-789](CLAIM-789.md)) and the promotion audit replaced after 230 of its 308

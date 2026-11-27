@@ -954,7 +954,7 @@ vocabularies:
           by its jurisdiction more than its content, reshapes the feedback that constrains it, and its
           success erodes the capacities that would evaluate and correct it; the alternative is the
           governed coexistence of heterogeneous demands. No draft yet; filed at the owner''s word
-          (ADR-tmp0cgxa)'
+          (ADR-152)'
 issue_url: https://github.com/dmarx/nucleation/issues/{n}
 # The pending report's age horizon, at the record's own pace: the default 90
 # could not name a stale document in a record a month old (ADR-057).

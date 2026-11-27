@@ -6,11 +6,11 @@
 
 **Philosophy of science** — what science is and what its theories say about the world — realism and structural realism, explanation, causation and evidence, the interpretation of physical theories (group: philosophy).
 
-11 of 126 SYNTHESIS documents. Back to the [full index](../README.md).
+11 of 127 SYNTHESIS documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-| [SYNTHESIS-012](../../../record/syntheses.d/SYNTHESIS-012.md) v2 | The record's grammar is an amendable apparatus |  | Proposed |
+| [SYNTHESIS-012](../../../record/syntheses.d/SYNTHESIS-012.md) v3 | The record's grammar is an amendable apparatus |  | Proposed |
 | [SYNTHESIS-019](../../../record/syntheses.d/SYNTHESIS-019.md) | Experience thesis: sufficiency still unstated |  | Proposed |
 | [SYNTHESIS-055](../../../record/syntheses.d/SYNTHESIS-055.md) | Competence fixes a world model, not a mechanism |  | Proposed |
 | [SYNTHESIS-059](../../../record/syntheses.d/SYNTHESIS-059.md) | Models test frame theory only under controls |  | Proposed |

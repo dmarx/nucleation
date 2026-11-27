@@ -6,7 +6,7 @@
 
 **Replaced** — a revised account covers the same scope, or its content was a claim and returned to CLAIM (the decision making SYNTHESIS an account); it names its successor.
 
-11 of 126 SYNTHESIS documents. Back to the [full index](../README.md).
+11 of 127 SYNTHESIS documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

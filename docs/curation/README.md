@@ -6,6 +6,13 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [November 2026](2026-11.md)
 
+- [27 Nov 08:40 — Gupta, Liu and Zou 2026, Extraneous Cognitive Load in Large Language Models, read](2026-11.md#gupta-liu-and-zou-2026-extraneous-cognitive-load-in-large-language-models-read)
+- [27 Nov 06:34 — Denison et al. 2024, Sycophancy to Subterfuge, read for the reflexive-control reading and its counter](2026-11.md#denison-et-al-2024-sycophancy-to-subterfuge-read-for-the-reflexive-control-reading-and-its-counter)
+- [27 Nov 01:51 — Three works on chatbot-associated delusions, for LEAD-308: two read, one unfetched and read through its stand-in](2026-11.md#three-works-on-chatbot-associated-delusions-for-lead-308-two-read-one-unfetched-and-read-through-its-stand-in)
+- [26 Nov 21:14 — Read and filed Niebudek and Iniewicz 2023, Between a role and identification, against the record's identity questions](2026-11.md#read-and-filed-niebudek-and-iniewicz-2023-between-a-role-and-identification-against-the-records-identity-questions)
+- [26 Nov 20:42 — Read and filed Veeriah et al. 2019, Discovery of Useful Questions as Auxiliary Tasks](2026-11.md#read-and-filed-veeriah-et-al-2019-discovery-of-useful-questions-as-auxiliary-tasks)
+- [26 Nov 19:38 — Read and filed von Oswald et al. 2023, Uncovering mesa-optimization algorithms in Transformers](2026-11.md#read-and-filed-von-oswald-et-al-2023-uncovering-mesa-optimization-algorithms-in-transformers)
+- [26 Nov 07:31 — The exchange "Alignment consequences brainstorm" (ChatGPT, shared 2026-11-26), filed: from alignment as the governance of optimization, through purpose and the geometry of possibility, to controlled forgetting and a pilot of the record's own history](2026-11.md#the-exchange-alignment-consequences-brainstorm-chatgpt-shared-2026-11-26-filed-from-alignment-as-the-governance-of-optimization-through-purpose-and-the-geometry-of-possibility-to-controlled-forgetting-and-a-pilot-of-the-records-own-history)
 - [25 Nov 14:13 — Recomputation pass of 2026-11-25 at the owner's word](2026-11.md#recomputation-pass-of-2026-11-25-at-the-owners-word)
 - [25 Nov 03:44 — Martin-Löf 1984, Intuitionistic Type Theory, read and filed for the type-theory readings lead](2026-11.md#martin-löf-1984-intuitionistic-type-theory-read-and-filed-for-the-type-theory-readings-lead)
 - [25 Nov 03:27 — The exchange Hyper article interpretation: the record as a hyperarticle, feeds and journals, maintenance as the incentive, provenance, and the record as an atlas of views](2026-11.md#the-exchange-hyper-article-interpretation-the-record-as-a-hyperarticle-feeds-and-journals-maintenance-as-the-incentive-provenance-and-the-record-as-an-atlas-of-views)
@@ -169,10 +176,10 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-357 entries across 3 books, newest first.
+364 entries across 3 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-11](2026-11.md) | 160 | 2026-11-01 | 2026-11-25 |
+| [2026-11](2026-11.md) | 167 | 2026-11-01 | 2026-11-27 |
 | [2026-10](2026-10.md) | 150 | 2026-10-01 | 2026-10-31 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

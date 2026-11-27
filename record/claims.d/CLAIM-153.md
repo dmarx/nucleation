@@ -133,9 +133,9 @@ Background from Battiston and colleagues' review ([NOTE-2348](../notes.d/NOTE-23
 
 ## Note of 2026-11-26: tautology, and where the content is
 
-<!-- inactive-ok-block: CLAIM-tmprejdn — new; the claim this note points to -->
+<!-- inactive-ok-block: CLAIM-1435 — new; the claim this note points to -->
 
-Applied to presented selves in [CLAIM-tmprejdn](CLAIM-tmprejdn.md): roles consistent on every
+Applied to presented selves in [CLAIM-1435](CLAIM-1435.md): roles consistent on every
 pairwise meeting occasion, with no global presentation around a cycle of
 three contexts, checked on a parity toy
 (scratch/studies/contextual-self/triangle.py). Opening any one overlap

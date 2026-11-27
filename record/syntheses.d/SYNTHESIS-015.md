@@ -30,8 +30,8 @@ history:
   note: >-
     Revised to take the exchange "Alignment consequences brainstorm"
     (ChatGPT, 2026-11-26) into account, under ADR-151, and rewritten from
-    an inventory into one argument. Added CLAIM-tmpg2wk1, ARG-tmpedexz,
-    CLAIM-tmpdid0k, CLAIM-tmp6toz6 and CLAIM-tmpyk9r5, which carry the
+    an inventory into one argument. Added CLAIM-1403, ARG-262,
+    CLAIM-1394, CLAIM-1369 and CLAIM-1455, which carry the
     price of filing over to the price of availability; the design of
     controlled forgetting they belong to is SYNTHESIS-017's. The audit of
     candidate links is dropped from the body; it is in version 2 and the
@@ -65,15 +65,15 @@ integrates:
 - CLAIM-315
 - QUESTION-323
 - QUESTION-095
-- CLAIM-tmpg2wk1
-- ARG-tmpedexz
-- CLAIM-tmpdid0k
-- CLAIM-tmp6toz6
-- CLAIM-tmpyk9r5
+- CLAIM-1403
+- ARG-262
+- CLAIM-1394
+- CLAIM-1369
+- CLAIM-1455
 ---
 <!-- inactive-ok-file: CLAIM-179 CLAIM-184 CLAIM-301 CLAIM-314 CLAIM-315 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: THEORY-1736 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
-<!-- inactive-ok-file: CLAIM-tmpg2wk1 ARG-tmpedexz CLAIM-tmpdid0k CLAIM-tmp6toz6 CLAIM-tmpyk9r5 CLAIM-tmpu1fef CLAIM-tmp8gkmi SYNTHESIS-016 SYNTHESIS-017 ADR-151 — Proposed or Open; filed from the exchange "Alignment consequences brainstorm" on 2026-11-26, the syntheses it is read beside, and the decision on how a synthesis is written -->
+<!-- inactive-ok-file: CLAIM-1403 ARG-262 CLAIM-1394 CLAIM-1369 CLAIM-1455 CLAIM-1440 CLAIM-1380 SYNTHESIS-016 SYNTHESIS-017 ADR-151 — Proposed or Open; filed from the exchange "Alignment consequences brainstorm" on 2026-11-26, the syntheses it is read beside, and the decision on how a synthesis is written -->
 
 # SYNTHESIS-015: Anchoring entrenches; filing pays only on reuse
 
@@ -104,11 +104,11 @@ is here because [CLAIM-184](../claims.d/CLAIM-184.md) grounds on [THEORY-178](..
 retrieval-side form of the danger: the record's generated views repeat an
 entry across indexes, tag pages, chains and syntheses, a median of 25
 generated pages per claim, so a search meets one entry many times and
-it gains prominence that is not evidence ([CLAIM-tmp6toz6](../claims.d/CLAIM-tmp6toz6.md)). Whether
+it gains prominence that is not evidence ([CLAIM-1369](../claims.d/CLAIM-1369.md)). Whether
 retiring an anchor removes its cost is a separate question: [CLAIM-184](../claims.d/CLAIM-184.md) asks
 whether a retired anchor stops attracting growth, the owner's point is
 that it goes on costing attention even if it does ([CLAIM-184](../claims.d/CLAIM-184.md), note of
-2026-11-26, on [CLAIM-tmpu1fef](../claims.d/CLAIM-tmpu1fef.md)).
+2026-11-26, on [CLAIM-1440](../claims.d/CLAIM-1440.md)).
 
 **Filing moves work across time, and pays only on reuse.** Agent filing
 moves the cost of capture to the party that would otherwise re-derive
@@ -130,19 +130,19 @@ again; the owner's point about the record's size is the case it does not
 cover ([CLAIM-303](../claims.d/CLAIM-303.md), note of 2026-11-26). A extends it into a cost for each
 tier of availability: maintenance, retrieval noise, expected
 reactivation, expected loss while unavailable, and transition
-([CLAIM-tmpg2wk1](../claims.d/CLAIM-tmpg2wk1.md)). Because [CLAIM-314](../claims.d/CLAIM-314.md) makes the attention an entry costs a
+([CLAIM-1403](../claims.d/CLAIM-1403.md)). Because [CLAIM-314](../claims.d/CLAIM-314.md) makes the attention an entry costs a
 property of the whole corpus, the extension holds only with the noise
-term taken over the set kept in easy reach ([ARG-tmpedexz](../arguments.d/ARG-tmpedexz.md)). [CLAIM-308](../claims.d/CLAIM-308.md)'s
+term taken over the set kept in easy reach ([ARG-262](../arguments.d/ARG-262.md)). [CLAIM-308](../claims.d/CLAIM-308.md)'s
 reconstruction-weighted rule transfers as a family of retention policies,
 and its bound does not: the bound is for a one-way decision under fixed
 costs, and a tier can be changed back ([CLAIM-308](../claims.d/CLAIM-308.md), note of 2026-11-26). A
 states the net effect [CLAIM-314](../claims.d/CLAIM-314.md) gives a mechanism for: past some point,
 growth of the accessible corpus raises the cost of realizing what the
-corpus already supports by more than holding it saved ([CLAIM-tmpdid0k](../claims.d/CLAIM-tmpdid0k.md)),
+corpus already supports by more than holding it saved ([CLAIM-1394](../claims.d/CLAIM-1394.md)),
 the limit [QUESTION-095](../questions.d/QUESTION-095.md) asks about. Condensing may also earn more than it
 saves: condensation that preserves capability may widen the inquiry
-frontier, [CLAIM-761](../claims.d/CLAIM-761.md)'s stored work applied to forgetting ([CLAIM-tmpyk9r5](../claims.d/CLAIM-tmpyk9r5.md),
-with [CLAIM-tmp8gkmi](../claims.d/CLAIM-tmp8gkmi.md) in [SYNTHESIS-017](SYNTHESIS-017.md)).
+frontier, [CLAIM-761](../claims.d/CLAIM-761.md)'s stored work applied to forgetting ([CLAIM-1455](../claims.d/CLAIM-1455.md),
+with [CLAIM-1380](../claims.d/CLAIM-1380.md) in [SYNTHESIS-017](SYNTHESIS-017.md)).
 
 ## Where it stands
 
@@ -152,7 +152,7 @@ The price of filing is the firm part: [CLAIM-303](../claims.d/CLAIM-303.md) and 
 measures reuse or recognition cost on the record. The exchange's
 extensions are A's hypotheses, narrowed by the assistant, and unmeasured;
 a trial of one line's working view against the full retrieval surface at
-a fixed budget would give [CLAIM-314](../claims.d/CLAIM-314.md) its measure ([LEAD-tmpolbqp](../leads.d/LEAD-tmpolbqp.md); [CLAIM-314](../claims.d/CLAIM-314.md),
+a fixed budget would give [CLAIM-314](../claims.d/CLAIM-314.md) its measure ([LEAD-307](../leads.d/LEAD-307.md); [CLAIM-314](../claims.d/CLAIM-314.md),
 note of 2026-11-26).
 
 ## Not stated on the record
@@ -169,7 +169,7 @@ note of 2026-11-26).
 - **A competitive bound for tiers.** [CLAIM-308](../claims.d/CLAIM-308.md)'s note says its bound does
   not carry over; no entry states the bound that would hold for a tier
   that can be changed back.
-- **Projection prominence as entrenchment.** [CLAIM-tmp6toz6](../claims.d/CLAIM-tmp6toz6.md)'s repeated
+- **Projection prominence as entrenchment.** [CLAIM-1369](../claims.d/CLAIM-1369.md)'s repeated
   meeting of one entry resembles the route [CLAIM-301](../claims.d/CLAIM-301.md) gives [CLAIM-184](../claims.d/CLAIM-184.md); no
   entry says that generated views entrench.
 

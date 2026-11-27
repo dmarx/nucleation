@@ -6,8 +6,9 @@
 
 **Psychopathology and treatment** — what a mental disorder is and how psychological treatment changes it — medical models of illness (biomedical, biopsychosocial, network), the philosophy of psychiatry, functional and transdiagnostic accounts of psychopathology such as experiential avoidance and psychological flexibility, and psychotherapies and their mechanisms of change (ADR-021).
 
-0 of 179 TERM documents. Back to the [full index](../README.md).
+2 of 191 TERM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [TERM-187](../../../record/terms.d/TERM-187.md) | delusion co-created with a chatbot | The sense of Morrin and colleagues' account ([THEORY-2324](../../../record/theory.d/THEORY-2324.md)), the second half of their contrast: delusions that happen "with" machines ([NOTE-2430](../../../record/notes.d/NOTE-2430.md), p. 23). It is the sense [QUESTION-548](../../../record/questions.d/QUESTION-548.md)'s claims are about. Filed at the owner's word of 2026-11-27 ("file the ideas"). The wording is the assistant's (Claude, in this session); adopting it is the owner's call. | Proposed |
+| [TERM-191](../../../record/terms.d/TERM-191.md) | delusion about a chatbot | The sense of Østergaard's 2023 account ([THEORY-2325](../../../record/theory.d/THEORY-2325.md)), and the first half of Morrin and colleagues' contrast between delusions that "happen to be about machines" and delusions that happen "with them" ([NOTE-2430](../../../record/notes.d/NOTE-2430.md), p. 23). Filed at the owner's word of 2026-11-27 ("file the ideas"), so that [DISTINCTION-006](../../../record/distinctions.d/DISTINCTION-006.md) can bind it. The wording is the assistant's (Claude, in this session); adopting it is the owner's call. | Proposed |

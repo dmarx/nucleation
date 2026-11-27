@@ -6,7 +6,7 @@
 
 **Organizational affect** — affective states as properties of organized systems, read through Frijda — the line the will paper grew out of.
 
-11 of 544 QUESTION documents. Back to the [full index](../README.md).
+11 of 552 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

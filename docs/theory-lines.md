@@ -2,7 +2,7 @@
 
 # Lines of explanation
 
-239 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
+240 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -1175,6 +1175,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [THEORY-932](../record/theory.d/THEORY-932.md) — Frequency-adjusted Q-learning follows replicator *(Active)*
   - [THEORY-1234](../record/theory.d/THEORY-1234.md) — Replicator model fits FAQ, not plain Q-learning *(Proposed)*
+
+### From In-context conditioning is training, in kind
+
+- [THEORY-169](../record/theory.d/THEORY-169.md) — In-context conditioning is training, in kind *(Active)*
+  - [THEORY-2313](../record/theory.d/THEORY-2313.md) — Trained transformers bind tokens, then optimize in context *(Proposed)*
 
 ### From Weight decay on factors is nuclear-norm penalty
 
@@ -2385,6 +2390,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [THEORY-865](../record/theory.d/THEORY-865.md) — Verbalizable directions carry verbal report *(Active)*
   - [THEORY-1226](../record/theory.d/THEORY-1226.md) — A sparse J-space is privileged for verbal report *(Proposed)*
+
+### From In-context conditioning is training, in kind
+
+- [THEORY-169](../record/theory.d/THEORY-169.md) — In-context conditioning is training, in kind *(Active)*
+  - [THEORY-2313](../record/theory.d/THEORY-2313.md) — Trained transformers bind tokens, then optimize in context *(Proposed)*
 
 ### From Relative representations transfer only roughly
 

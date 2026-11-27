@@ -6,8 +6,9 @@
 
 **Generalization from cases** — several cases share a feature, so the kind has it. Critical questions: are the cases representative? Is there a counterexample? Is the feature constitutive, or merely common?.
 
-0 of 260 ARG documents. Back to the [full index](../README.md).
+2 of 270 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [ARG-262](../../../record/arguments.d/ARG-262.md) | The filing rule, generalized from admission to availability, prices an entry's tier | A27 §7 of the exchange "Alignment consequences brainstorm" extends [CLAIM-303](../../../record/claims.d/CLAIM-303.md)'s pricing of filing to a per-entry cost of each availability tier ([CLAIM-1403](../../../record/claims.d/CLAIM-1403.md)). The generalization holds for maintenance, reactivation, unavailability and transition, which are the entry's own; it fails for retrieval noise, which [CLAIM-314](../../../record/claims.d/CLAIM-314.md) makes a property of the corpus. Supported in the narrowed form, with the noise term taken over the hot set. The wording is the assistant's (Claude, in this session); adopting it is the owner's call. | Proposed |
+| [ARG-265](../../../record/arguments.d/ARG-265.md) | Six failure cases, by generalization, show that optimization's pathology is eroded evaluation | A8 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26) draws its hypothesis ([CLAIM-1443](../../../record/claims.d/CLAIM-1443.md)) from six failure cases and says itself that they "are predominantly failure cases" and cannot "establish a universal theory". As a generalization the inference fails: the cases were chosen because they went wrong, so they cannot show that erosion of evaluators, rather than harm, is what marks the pathology, and no case of a powerful optimization that stayed constrained is set beside them. Rejected as grounds; the cases illustrate the claim. The claim's standing lives in [CLAIM-1443](../../../record/claims.d/CLAIM-1443.md) itself, Proposed, and [LEAD-306](../../../record/leads.d/LEAD-306.md) is the comparison that could ground it. The wording is the assistant's (Claude, in this session); adopting it is the owner's call. | Rejected |

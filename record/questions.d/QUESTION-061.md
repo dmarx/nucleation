@@ -156,11 +156,11 @@ one exclusive broadcast. The question is unchanged.
 
 ## Note of 2026-11-26: format, not content
 
-<!-- inactive-ok-block: CLAIM-tmpj88da — new; the claim this note reports -->
+<!-- inactive-ok-block: CLAIM-1418 — new; the claim this note reports -->
 
 Bears on the question in language models. In [THEORY-865](../theory.d/THEORY-865.md) ([NOTE-1069](../notes.d/NOTE-1069.md)), a
 content can be read by some consumers (continuation, line wrapping)
 outside the workspace and by others (report, flexible inference) only
 once inside it. So access there is graded by consumer, not one broadcast.
-[CLAIM-tmpj88da](../claims.d/CLAIM-tmpj88da.md) `bears_on` this question. The brain case is untouched. No
+[CLAIM-1418](../claims.d/CLAIM-1418.md) `bears_on` this question. The brain case is untouched. No
 status change.

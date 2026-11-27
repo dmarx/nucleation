@@ -20,8 +20,8 @@ history:
   note: >-
     Revised to take the exchange "Alignment consequences brainstorm"
     (ChatGPT, 2026-11-26) into account, under ADR-151, and rewritten from
-    an inventory into one argument. Added CLAIM-tmpk015q, CLAIM-tmp4fc0k
-    and ARG-tmpo9ilq, and, since they ground those, CASE-307, CLAIM-864
+    an inventory into one argument. Added CLAIM-1422, CLAIM-1362
+    and ARG-267, and, since they ground those, CASE-307, CLAIM-864
     and CLAIM-863, in-force entries of the part no synthesis integrated.
     The audit of candidate links is dropped from the body; it is in
     version 1 and the curation entry of 2026-11-07. The title is
@@ -54,15 +54,15 @@ integrates:
 - CLAIM-181
 - QUESTION-108
 - ARG-028
-- CLAIM-tmpk015q
+- CLAIM-1422
 - CASE-307
 - CLAIM-864
 - CLAIM-863
-- CLAIM-tmp4fc0k
-- ARG-tmpo9ilq
+- CLAIM-1362
+- ARG-267
 ---
 <!-- inactive-ok-file: ARG-028 CLAIM-176 CLAIM-181 CLAIM-182 CLAIM-185 CLAIM-186 CASE-307 CLAIM-863 CLAIM-864 CLAIM-778 CLAIM-768 — Proposed; components and citations, with their standing -->
-<!-- inactive-ok-file: CLAIM-tmpk015q CLAIM-tmp4fc0k ARG-tmpo9ilq SYNTHESIS-016 ADR-151 — Proposed or Open; filed from the exchange "Alignment consequences brainstorm" on 2026-11-26, the line's synthesis, and the decision on how a synthesis is written -->
+<!-- inactive-ok-file: CLAIM-1422 CLAIM-1362 ARG-267 SYNTHESIS-016 ADR-151 — Proposed or Open; filed from the exchange "Alignment consequences brainstorm" on 2026-11-26, the line's synthesis, and the decision on how a synthesis is written -->
 
 # SYNTHESIS-013: Addressability, not storage, nucleates argument
 
@@ -111,7 +111,7 @@ record's claims in a plane of prose stability against the new structure
 that forms around each, with an established anchor as an entry whose
 formulation has settled and on which new structure keeps forming; that is
 [CLAIM-185](../claims.d/CLAIM-185.md)'s thesis made measurable on the record's own entries
-([CLAIM-tmpk015q](../claims.d/CLAIM-tmpk015q.md), A's, with [QUESTION-038](../questions.d/QUESTION-038.md)'s note of 2026-11-26). It is a
+([CLAIM-1422](../claims.d/CLAIM-1422.md), A's, with [QUESTION-038](../questions.d/QUESTION-038.md)'s note of 2026-11-26). It is a
 way to tell which persisting entries have become anchors, not an account
 of what made them so, and it does not say why an entry settled
 ([CLAIM-768](../claims.d/CLAIM-768.md)). The record has already measured the coupling the plane
@@ -121,8 +121,8 @@ it within a day of the new edge ([CASE-307](../cases.d/CASE-307.md)), so cited c
 more, not less ([CLAIM-864](../claims.d/CLAIM-864.md), against [CLAIM-778](../claims.d/CLAIM-778.md)), or citation draws audits
 while each new edge lowers the chance of a revision per audit ([CLAIM-863](../claims.d/CLAIM-863.md));
 the count does not choose between the two readings. Either way reliance
-and revision arrive together here ([CLAIM-tmp4fc0k](../claims.d/CLAIM-tmp4fc0k.md), the assistant's, with
-[ARG-tmpo9ilq](../arguments.d/ARG-tmpo9ilq.md)), so the plane is usable only with that coupling controlled,
+and revision arrive together here ([CLAIM-1362](../claims.d/CLAIM-1362.md), the assistant's, with
+[ARG-267](../arguments.d/ARG-267.md)), so the plane is usable only with that coupling controlled,
 and its anchor quadrant will be thin on this record for a reason that is
 not about anchoring.
 
@@ -132,9 +132,9 @@ not about anchoring.
 the addressability candidate and the rate of drift are Proposed, and so is
 everything the exchange added. The tests are leads: an event log of every
 entry's substantive revisions and relation changes from git history
-([LEAD-tmpn6mi2](../leads.d/LEAD-tmpn6mi2.md), the owner's proposal), and the map of claims in the
+([LEAD-305](../leads.d/LEAD-305.md), the owner's proposal), and the map of claims in the
 stability-generativity plane at matched age with the coupling controlled
-([LEAD-tmp14mq0](../leads.d/LEAD-tmp14mq0.md)).
+([LEAD-284](../leads.d/LEAD-284.md)).
 
 ## Not stated on the record
 
@@ -143,7 +143,7 @@ stability-generativity plane at matched age with the coupling controlled
 - Whether [CLAIM-186](../claims.d/CLAIM-186.md)'s damping by anchoring trades timeliness, as [CLAIM-595](../claims.d/CLAIM-595.md)
   shows for slowed exits.
 - Which entries [QUESTION-397](../questions.d/QUESTION-397.md) bears on in this line.
-- **The anchor quadrant and productivity.** [CLAIM-tmpk015q](../claims.d/CLAIM-tmpk015q.md)'s established
+- **The anchor quadrant and productivity.** [CLAIM-1422](../claims.d/CLAIM-1422.md)'s established
   anchor is built on; whether it is productive in [TERM-117](../terms.d/TERM-117.md)'s sense would
   need the target and comparator above, and no entry supplies them for
   the plane.

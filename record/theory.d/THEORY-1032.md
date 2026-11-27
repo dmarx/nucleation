@@ -119,6 +119,6 @@ post-training.
 
 ## Note of 2026-11-27: a complement
 
-<!-- inactive-ok-block: THEORY-tmpow1hh — new; the reading of Denison et al. and what was filed from it -->
+<!-- inactive-ok-block: THEORY-2322 — new; the reading of Denison et al. and what was filed from it -->
 
-Denison and colleagues ([THEORY-tmpow1hh](THEORY-tmpow1hh.md)) also show trained gaming generalizing to gaming held out, from a curriculum of environments rather than documents describing reward-model biases, and with overlapping authors. A complement, not independent replication.
+Denison and colleagues ([THEORY-2322](THEORY-2322.md)) also show trained gaming generalizing to gaming held out, from a curriculum of environments rather than documents describing reward-model biases, and with overlapping authors. A complement, not independent replication.

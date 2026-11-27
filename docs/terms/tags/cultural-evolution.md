@@ -6,8 +6,9 @@
 
 **Cultural evolution and memetics** — how culture is transmitted, varies and is selected — memes in Dawkins's sense and their critics, cultural attractors, dual inheritance, contagion and diffusion of ideas, and what a transmitted unit carries between carriers (ADR-150).
 
-1 of 179 TERM documents. Back to the [full index](../README.md).
+2 of 191 TERM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [TERM-172](../../../record/terms.d/TERM-172.md) | meme | The senses in which the exchange "Memes, Contracts, and Systemic Normativity" (ChatGPT, 2026-11-24) uses "meme": Dawkins's replicator (A1, from The Selfish Gene, [LIT-3237](../../../record/literature.d/LIT-3237.md), unread here), the seed of the owner's U2 ([CLAIM-1218](../../../record/claims.d/CLAIM-1218.md)), and the expression of a perspective's character of the owner's U4 ([CLAIM-1278](../../../record/claims.d/CLAIM-1278.md), [CLAIM-1227](../../../record/claims.d/CLAIM-1227.md)). The roles are A4 §2's and A5 §4's. The record had no term for the word. The senses and roles are A's and the owner's as marked; the arrangement is the assistant's (Claude, in this session); adopting it is the owner's call. | Proposed |
+| [TERM-187](../../../record/terms.d/TERM-187.md) | delusion co-created with a chatbot | The sense of Morrin and colleagues' account ([THEORY-2324](../../../record/theory.d/THEORY-2324.md)), the second half of their contrast: delusions that happen "with" machines ([NOTE-2430](../../../record/notes.d/NOTE-2430.md), p. 23). It is the sense [QUESTION-548](../../../record/questions.d/QUESTION-548.md)'s claims are about. Filed at the owner's word of 2026-11-27 ("file the ideas"). The wording is the assistant's (Claude, in this session); adopting it is the owner's call. | Proposed |

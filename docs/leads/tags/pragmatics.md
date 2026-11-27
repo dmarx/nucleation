@@ -6,7 +6,7 @@
 
 **Pragmatics** — language in use — speech acts and illocutionary force, assertion and common ground, presupposition, dynamic and update semantics, footing and stance in discourse, and probabilistic models of speakers and listeners (rational speech acts); what an utterance does, beyond what it says (ADR-034).
 
-4 of 282 LEAD documents. Back to the [full index](../README.md).
+5 of 320 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -14,3 +14,4 @@
 | [LEAD-060](../../../record/leads.d/LEAD-060.md) | State the criterion that separates reframing a communicative act from changing it, and test it by having judges sort pairs of renderings into the two classes | [CLAIM-004](../../../record/claims.d/CLAIM-004.md) has nine dependents and is a premise of [CLAIM-151](../../../record/claims.d/CLAIM-151.md) and [CLAIM-143](../../../record/claims.d/CLAIM-143.md). Named in [CLAIM-004](../../../record/claims.d/CLAIM-004.md). Filed by the backlog audit of 2026-11-19. | Open |
 | [LEAD-139](../../../record/leads.d/LEAD-139.md) | Test relational measures against surface or embedding similarity as predictors of trope-identity judgements on recasts, with held-out trope families | Named in [CLAIM-147](../../../record/claims.d/CLAIM-147.md). Filed by the backlog audit of 2026-11-19. | Open |
 | [LEAD-149](../../../record/leads.d/LEAD-149.md) | Run the cross of topic and act, with a behavioural uptake predictor against a fidelity-rating criterion | Named in [CASE-040](../../../record/cases.d/CASE-040.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-313](../../../record/leads.d/LEAD-313.md) | Read the communicative accounts of emotion against the claim reading | The owner's remark of 2026-11-26 that "an emotion is a claim to precedence" "sounds like it connects to the idea of emotion as a communicative act". The record holds no reading of the communicative accounts of emotion. The wording is the assistant's (Claude, in this session); adopting it is the owner's call. | Open |

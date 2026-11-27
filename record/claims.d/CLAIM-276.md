@@ -119,6 +119,6 @@ is not promoted until the clause is restated at that strength.
 
 ## Note of 2026-11-27: Morrin et al. 2025, read
 
-<!-- inactive-ok-block: CLAIM-tmpj9yt0 — the readings and accounts filed on 2026-11-27, Proposed or new -->
+<!-- inactive-ok-block: CLAIM-1419 — the readings and accounts filed on 2026-11-27, Proposed or new -->
 
-A parallel in a population of two. Morrin et al. ([NOTE-tmpxg6hn](../notes.d/NOTE-tmpxg6hn.md)) describe a user left "epistemically unmoored" from consensus reality while the model supplies coherence to chaotic input: coherence rising as fidelity falls, in a user and a chatbot. [CLAIM-tmpj9yt0](CLAIM-tmpj9yt0.md) applies this claim to that dyad. An analogy, so no edge.
+A parallel in a population of two. Morrin et al. ([NOTE-2430](../notes.d/NOTE-2430.md)) describe a user left "epistemically unmoored" from consensus reality while the model supplies coherence to chaotic input: coherence rising as fidelity falls, in a user and a chatbot. [CLAIM-1419](CLAIM-1419.md) applies this claim to that dyad. An analogy, so no edge.
