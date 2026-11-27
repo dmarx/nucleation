@@ -140,3 +140,9 @@ two lines.
 
 The wording is the assistant's (Claude, in this session); adopting it is
 the owner's call.
+
+## Note of 2026-11-27: Gupta, Liu and Zou, read
+
+<!-- inactive-ok-block: THEORY-tmpjgsul — new; the reading of Gupta, Liu and Zou and its account -->
+
+[THEORY-tmpjgsul](../theory.d/THEORY-tmpjgsul.md) corroborates this claim with an instance. CogLoadBench applies transformations the standard treats as irrelevant, since the answer is fixed, and finds responses that vary under them by up to about 37 points ([NOTE-tmpanw10](../notes.d/NOTE-tmpanw10.md)). The per-model profile of drops is a family of contrasts used as a signature, as this claim proposes. It also bears out the claim's dependence on the declared standard. Shuffling a problem's steps plausibly adds real computation for a bounded reasoner, so whether that sensitivity is spurious depends on what the standard counts as the task. Spurious invariance is not tested.

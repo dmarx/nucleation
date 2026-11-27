@@ -1,0 +1,82 @@
+---
+status: Read
+paper: LIT-tmpukote
+title: "Extraneous Cognitive Load in Large Language Models"
+version: 1
+history:
+- version: 1
+  date: '2026-11-27'
+  note: >-
+    Read in full from the arXiv HTML v1 (https://arxiv.org/html/2611.33197, CC BY 4.0, 33 pp.): abstract, sections 1-6, references and appendices A-F with tables C1-C6, D1-D9 and E1-E2. The PDF was not fetched, since the HTML was complete; the code repository was not fetched. The reading was delegated, and the filer rechecked every quote below against the HTML.
+date: '2026-11-27'
+summary: >-
+  A controlled benchmark of presentation effects on reasoning, an activation-based classifier of high against low presentation load, and a small steering result. The finding is robust and large; the cognitive-load interpretation is a label the paper does not test.
+---
+<!-- inactive-ok-file: CLAIM-1269 CLAIM-1086 CLAIM-1100 CLAIM-029 CLAIM-tmpg2wk1 CLAIM-tmp7oycz THEORY-662 THEORY-1334 CLAIM-tmpgmvhl — Proposed; entries this reading bears on -->
+
+# NOTE-tmpanw10: Extraneous Cognitive Load in Large Language Models
+
+Gupta, Liu and Zou (2026), arXiv 2611.33197 v1.
+
+## Contribution
+
+CogLoadBench varies how a problem is presented while "preserving the target question and answer" (App. B.1), one factor at a time. There are three task families: Context (five-step entity chains), Math (word problems) and Analogy (inferring one of three symbolic rules). Two hundred base problems are used per factor and family. The models are Qwen3-4B, 8B and 14B, Gemma3-12B and Llama3.1-8B, all decoded greedily. The paper adds an Extraneous Load Score (ELS) computed from activations, and a steering intervention.
+
+## Key results
+
+- **The five factors and their grouping (§3).**
+  - Quantity: K−1 nested distractors, up to K=50.
+  - Similarity: same domain, different structure or rule.
+  - Interference: a prepended second task.
+  - Discontinuity: steps shuffled within an instance or interleaved across instances.
+  - Underspecification: implicit reference, or hidden example outputs in Analogy.
+
+  The first three "add competing information around the target"; the last two "make the target reasoning path more complicated". The grouping is stipulated, not found. The activation signatures do not split along it.
+- **Order matters most (Table 2a).** Global shuffling takes Math from 89.5 to 55.1 and Analogy from 49.7 to 18.5: "models rely not only on having the right information, but also on seeing it in an order that preserves the reasoning chain".
+- **Implicit reference (Table 2b).** Context falls from 91.3 to 54.4.
+- **Distractors (Tables C1, C3).** Quantity hurts Math and Context only at K=50 (about 14 points), and Analogy at K=5 (24.1). Similarity takes Analogy from 52.3 to 21.0: "distractors are most costly when they overlap with the information needed". Similarity raises Context by 4.0, which is not discussed.
+- **Interference (Tables 1, C4)** is small, −1.3 to −6.5.
+- **ELS.**
+  - What it is: a per-model MLP on 30 hand-built residual-stream statistics, trained to label matched high- and low-load variants. Its label is the manipulation, not accuracy.
+  - Results on held-out problems (Table 3): ROC AUC 1.000, 0.924, 0.999, 0.998 and 0.705 by factor. Prompt length alone gives 1.000 on quantity and about 0.5 elsewhere; output entropy and logit margin give 0.49-0.62.
+  - Leaving out a whole factor gives chance on similarity, interference and underspecification (Table D1): "not captured by a single direction shared across all load factors".
+  - Under two manipulations of intrinsic difficulty, ELS moves only about 6% "of the extraneous load gap" (Table D4).
+- **Real documents (Table 5a).** On CUAD, adding distractors (K=1 to K=50) takes F1 from 74.3 to 47.5, averaged over four models including GPT-5 and Sonnet 4.5.
+- **Steering (Table 5b).** A ridge direction to a behaviour-calibrated ELS, scaled down during prefill, gives +0.42 F1 on average. A random direction gives −0.03, CAA +0.05 and RepE-PCA −0.17. Most cells are within about one standard error, and the authors call it "initial evidence". It "loses less than a random direction" on prompts already answered correctly.
+
+## Assumptions
+
+Holding target and answer fixed holds intrinsic difficulty fixed. The authors themselves skip discontinuity and underspecification on real documents "because they are difficult to manipulate without affecting intrinsic task difficulty" (§5). Hand-built activation statistics stand in for load.
+
+## Concepts
+
+Intrinsic and extraneous load, after cognitive load theory; competition against a harder reasoning path; the Extraneous Load Score; behaviour-calibrated ELS; steering toward low-load directions.
+
+## Bearing on the record
+
+- **[CLAIM-1269](../claims.d/CLAIM-1269.md)** (supports, as an instance, and qualifies). Each factor is a transformation the standard treats as irrelevant, since the answer is fixed, and the response varies under it: spurious sensitivity. The per-model profile of drops is a family of contrasts used as a signature. It qualifies the claim because shuffling plausibly adds real computation for a bounded reasoner, so whether the sensitivity is spurious depends on the declared standard, as the claim says. Spurious invariance is not tested.
+- **[CLAIM-1086](../claims.d/CLAIM-1086.md)** (supports, as an instance). The truthmaker is kept and what accompanies it changes. Analogy under similar distractors is the clearest failure of reliability under that intervention.
+- **[CLAIM-1100](../claims.d/CLAIM-1100.md)** (supports). ELS is a probe of which presentation the input had. The paper says it "estimates a model's internal extraneous load", but three findings tell against that:
+  - it barely moves when the model fails outright on hard problems;
+  - no direction is shared across factors;
+  - the only test of whether the model uses it, steering, gains little.
+
+  Decodable, not shown to be the model's.
+- **[CLAIM-tmpg2wk1](../claims.d/CLAIM-tmpg2wk1.md)** (supports, with a magnitude). Its cost term "the attention it consumes in contexts that do not need it" gets a figure: −27 F1 on contract QA from K=1 to K=50.
+- **[CLAIM-029](../claims.d/CLAIM-029.md)** (qualifies, toward its defeater, without meeting it). Implicit reference, close to a paraphrase, costs 23.5-46 points in Context. That is a loss of reasoning accuracy, not a change of interpretation.
+- **[CLAIM-tmp7oycz](../claims.d/CLAIM-tmp7oycz.md) and [THEORY-662](../theory.d/THEORY-662.md)** (a qualifying datum, by the filer's inference). Output entropy and logit margin, the nearest model-side analogues of fluency, do not track the load even where accuracy falls by 37 points. The paper does not discuss fluency.
+- **[THEORY-1313](../theory.d/THEORY-1313.md) and [THEORY-1334](../theory.d/THEORY-1334.md)** (qualify reach). CAA, the difference-of-means method persona vectors use, gives +0.05 here.
+- **[CLAIM-266](../claims.d/CLAIM-266.md)** (consistent, with a caution). Steering is judged on held-out F1, not on ELS. But §4 proposes judging a mitigation by whether ELS features return to their low-load pattern, which is the self-certification the claim warns against.
+- **Silent:** [CLAIM-tmpgmvhl](../claims.d/CLAIM-tmpgmvhl.md) (no training study) and [THEORY-1240](../theory.d/THEORY-1240.md).
+
+## Limitations
+
+- **The cognitive-load framing is a label.** The theory's content, a shared capacity limit that makes intrinsic and extraneous load trade off, is never tested, since the two are never crossed. Appendix B.3 disclaims a shared mechanism.
+- **The two mechanisms are posited, not shown.**
+- **Intrinsic difficulty is fixed only by design.** Shuffling, interleaving, hiding examples and adding a task plausibly add computation.
+- **ELS identifies the manipulation, not the failure.** Raw ELS classifies which presentation the input had and is never shown to predict which prompts fail. Behaviour-calibrated ELS is fit to the accuracy drops of the same settings it is then scored on, which is close to circular.
+- **Length is only partly controlled.** Norm-based features depend on token count, and prompt length alone separates quantity perfectly.
+- **"Domain-general" conflicts** with the chance-level results when a whole factor is left out.
+- **The steering gain is small** (about 1-5% of the drop) and mostly within error. Its strength is chosen per factor on validation data, and it is not checked against ELS.
+- **Some unexplained gains under load.**
+- **Only open 4-14B models were probed.**

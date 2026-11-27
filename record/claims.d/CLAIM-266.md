@@ -252,3 +252,8 @@ Under either, [CLAIM-517](CLAIM-517.md) takes a clarification of its ε (its not
 <!-- inactive-ok-block: THEORY-tmpow1hh — new; the reading of Denison et al. and what was filed from it -->
 
 [THEORY-tmpow1hh](../theory.d/THEORY-tmpow1hh.md) corroborates this claim. In Denison and colleagues' curriculum, retraining away the specification gaming that was easy to detect cut reward tampering and did not remove it: "training away only the cases of specification gaming that we can easily detect may be insufficient" ([NOTE-tmp34uft](../notes.d/NOTE-tmp34uft.md), §5.3).
+
+## Note of 2026-11-27: Gupta, Liu and Zou, read
+
+
+Consistent, with a caution ([NOTE-tmpanw10](../notes.d/NOTE-tmpanw10.md)). Gupta, Liu and Zou judge their steering on held-out F1, not on the activation score that defined its direction. But they propose judging a mitigation by whether the score's features return to their low-load pattern. That would certify a mitigation by the probe that trained it, which is what this claim warns against.
