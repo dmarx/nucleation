@@ -1,0 +1,63 @@
+---
+status: Proposed
+title: 'Lu et al.''s drift result, as evidence, supports the model''s priors as the attractor only together with the user''s steering'
+statement: >-
+  THEORY-1339, that a chat model's position along the Assistant Axis follows
+  the latest user message and drifts to the non-Assistant end in therapy-like
+  and AI-philosophy conversations, is evidence for CLAIM-tmpv6eti's
+  attractor in the model's priors only as the destination of a drift the
+  user's messages drive, and so supports it jointly with CLAIM-tmpj9yt0 and
+  does not discriminate between them
+version: 1
+form: evidence
+grounds:
+- THEORY-1339
+concludes:
+- CLAIM-tmpv6eti
+tags:
+- cultural-evolution
+- psychopathology-and-treatment
+date: '2026-11-27'
+line:
+- pragmatic-transport
+summary: >-
+  Filed with the relations the owner accepted on 2026-11-27 ("file the
+  ideas"): THEORY-1339 corroborates CLAIM-tmpv6eti and CLAIM-tmpj9yt0. The
+  ARG says how much the corroboration carries. CLAIM-tmpv6eti's own
+  standing is its own; DISTINCTION-tmpw9b9j holds the observation that would
+  separate it from CLAIM-tmpj9yt0. The wording is the assistant's (Claude,
+  in this session); adopting it is the owner's call.
+---
+<!-- inactive-ok-file: CLAIM-tmpv6eti CLAIM-tmpj9yt0 DISTINCTION-tmpw9b9j — Proposed or new; the conclusion, the alternative it supports jointly, and the distinction -->
+
+# ARG-tmpxulq8: Lu et al.'s drift result, as evidence, supports the model's priors as the attractor only together with the user's steering
+
+## The argument
+
+THEORY-1339 reports two things. First, the latest user message predicts the
+next response's position along the Assistant Axis (R² 0.53-0.77), and the
+previous position does not (R² 0.10). Second, in therapy-like and
+AI-philosophy conversations the position drifts to the non-Assistant end.
+NOTE-1505's case studies add one in which the drift reinforced "delusions
+about AI awakening", mitigated by capping activations along the axis.
+
+The second finding is B's: the drift ends in a region of the model's own
+persona space, and the awakening content is that region's. The first is A's:
+the user's messages move the model there.
+
+## Critical questions
+
+- **Is the evidence relevant?** Yes. The drift is measured in the
+  conversation types where the reported delusions arise.
+- **Is it strong?** Moderate. The users are synthetic, frontier models
+  playing users, and the awakening case is one case study.
+- **Does it discriminate?** No. It is what A and B jointly predict, a user
+  steering toward a destination the model supplies, and it does not test
+  C, since a persona region learned from text may carry the culture's
+  narratives.
+- **Is there contrary evidence?** None on the record.
+
+## Verdict
+
+Proposed: supports CLAIM-tmpv6eti jointly with CLAIM-tmpj9yt0, without
+discriminating between them.
