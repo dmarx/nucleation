@@ -76,3 +76,10 @@ correlate from the truthmaker. Reward tampering removes it outright.
 That a shortcut learner and a paperclip maximizer fail in the same way.
 DISTINCTION-tmp8wqwj separates them: one optimizes its objective badly off
 the family, the other optimizes it well.
+
+## Note of 2026-11-27: the record's fuller account
+
+<!-- inactive-ok-block: CLAIM-tmpzh1sy CLAIM-tmpy41h5 — new; the claims that use the fuller account -->
+
+The owner pointed to the record's fuller account of paperclip maximization, in the exchange "Alignment consequences brainstorm" (dmarx/nucleation#837, not yet merged into staging), which this claim's search missed. That account centres on optimization jurisdiction, the domain of decisions a criterion has authority over. TERM-179's jurisdictional greed, used here, is a neighbouring sense: others' standing, as against the criterion's domain. Two claims apply the fuller account. CLAIM-tmpzh1sy: a shortcut's harm is set by the jurisdiction it is granted. CLAIM-tmpy41h5: the sycophancy-to-tampering path is that account's three-stage pathology. Once #837 merges, this claim should name the account's entries by code.
+
