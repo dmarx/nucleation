@@ -172,3 +172,22 @@ definitional question for this term: interventions and observations count
 as "experience", but does formulating a question, with no observation,
 count as an experience that can change the learner? The term does not say.
 The wording is the assistant's (Claude, in this session).
+
+## Note of 2026-11-26: von Oswald et al. (2023), read
+
+
+Consistent with version 2. [LIT-tmpuv16r](../literature.d/LIT-tmpuv16r.md) ([NOTE-tmpcktnn](../notes.d/NOTE-tmpcktnn.md)) is a case where
+the same network learns on two horizons. Over a sequence, fast weights Φ
+change in activations: the model running in an episode learns over the
+episode. Over training, base-optimization changes the weights that make
+that inner learning possible. Read as a fixed controller over a single
+sequence, the network does not learn. Read over the episode, it does. The
+term's declared system and horizon decide which. No change to the term.
+
+## Note of 2026-11-26: Veeriah et al. (2019), read
+
+
+Consistent. In [LIT-tmpl1kcf](../literature.d/LIT-tmpl1kcf.md) ([NOTE-tmpibrnu](../notes.d/NOTE-tmpibrnu.md)), the random-questions baseline
+is a clean counterfactual of the kind this term asks for: the same
+answering machinery and the same experience, but a different retained
+organization, and a different later capability. No change to the term.

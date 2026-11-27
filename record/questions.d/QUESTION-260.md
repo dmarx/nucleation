@@ -79,3 +79,27 @@ how it could: under the evidential reading the populations were ordered
 as predicted but below the stated size, and the reason, members who
 interact only through answers about a shared world move one another
 little, is [CLAIM-945](../claims.d/CLAIM-945.md).
+
+## Note of 2026-11-26: Niebudek and Iniewicz (2023), read
+
+
+Supplies cases and a candidate marker; does not answer. In [LIT-tmpdbb0m](../literature.d/LIT-tmpdbb0m.md) ([NOTE-tmptx4q4](../notes.d/NOTE-tmptx4q4.md)),
+practitioners distinguish identification with a role, "present also when
+the role is not assumed" and reaching "everyday life", from a role entered
+"only in the course of the session limited in time". That is a person-level
+analogue of a constitutive perspective against an influencing one. The
+marker it suggests is **scope of enactment**: scene, relationship,
+everyday life, self-description.
+
+The authors' "continuum" does not object to the distinction. At most it
+makes constitutiveness come in degrees. Two cautions:
+
+1. The data are self-descriptions, represented perspectives ([TERM-072](../terms.d/TERM-072.md)
+   sense 2), not evidence about practical organization.
+2. The same people describe their role both ways. M1 says "I am a master,
+   and only a master" and also "We're playing a game, I assume a role".
+   That fits two dimensions better than one: what a person says they are,
+   and how far the enactment reaches. If so, this question's
+   "constitutive" may need asking on each dimension separately.
+
+[THEORY-tmpigigb](../theory.d/THEORY-tmpigigb.md) `bears_on` this question. No status change.

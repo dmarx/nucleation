@@ -11,7 +11,13 @@ statement: >-
   resources, so an organization can hold many nuclei while developing a few
   and by holding them shorten its time to an effective response when an
   unfamiliar question arrives
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-26'
+  note: >-
+    A dated note: the exchange 'Alignment consequences brainstorm' (ChatGPT,
+    2026-11-26), A25 §6 and A27 §§1 and 3 (see the note). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -97,3 +103,8 @@ construction, since a minimum over more routes is no larger; A54 itself
 says "Real systems must also include authorization, shared bottlenecks,
 and integration costs". What the linear model leaves out, the threshold A54
 calls "a mechanism to test", is [CLAIM-1195](CLAIM-1195.md).
+
+## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U15–A27), a warm tier is not a maintained nucleus
+<!-- inactive-ok-file: TERM-tmp96b3g CLAIM-tmpi0o8t CLAIM-tmp6tc1j — Proposed; filed from the same exchange on 2026-11-26 -->
+
+A27 §1 lists this claim as one that "already proposes something resembling warm storage for perspectives", and A27 §3 labels its warm tier "maintained nuclei" ([TERM-tmp96b3g](../terms.d/TERM-tmp96b3g.md)). The fit is partial. This claim's maintained nucleus keeps "usable methods, knowledge and relationships", and it sets that apart from an archived alternative, "which keeps only a description". A warm entry in A's tiers is a document kept in compact form with its reactivation conditions watched: on this claim's terms, a well-indexed archive. A25 §6 says as much: "preserving a textual artifact is not the same as maintaining a live perspective", which may "additionally require expertise, attention, resources, and an ability to resume inquiry". So availability tiers can serve a nucleus, by keeping its record within reach, without making one. Two of A's proposals do use this claim as stated: protected alternative perspectives as roots of the record's liveness ([CLAIM-tmpi0o8t](CLAIM-tmpi0o8t.md)), and a retrieval budget reserved for dormant material ([CLAIM-tmp6tc1j](CLAIM-tmp6tc1j.md)). An analogy, partly misapplied; no edge. The note is the assistant's (Claude, in this session). No status change.

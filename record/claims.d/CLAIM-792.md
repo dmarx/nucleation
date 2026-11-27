@@ -11,7 +11,16 @@ statement: >-
   refinements, were noticed or decided mostly by the owner: what was
   delegated was noticing, by procedure and by category of change, not
   judgment about revision
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-26'
+  note: >-
+    Dated note of 2026-11-26 from the exchange "Alignment
+    consequences brainstorm" (ChatGPT, 2026-11-26), U7–A13: A13 §7
+    reads the record as a counterexample to the claim that
+    externalizing capabilities disempowers; this claim is half of
+    what that reading needs. The claim is unchanged.
 role: thesis
 warrant: empirical
 defeated_if: >-
@@ -97,3 +106,19 @@ describes, each built after a misfit was met by hand:
 And one guard moved upstream: luria now refuses a title that cites a code,
 after the same misfit caught the filer three times (dmarx/luria#403). Each
 is a case of noticing becoming procedural; none was counted by the census.
+
+## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U7–A13)
+
+<!-- inactive-ok-file: CLAIM-tmpxf70b ARG-tmpo6eca — new; the claim, argument and lead of 2026-11-26 that use this one -->
+
+Support for half of an application. A13 §7 offers the record as "a
+counterexample" to the generalization that externalizing capabilities
+disempowers: assistants and software remember, track, index, check,
+generate worklists and draft, and "The objective is not to preserve the
+owner's ability to perform all those activities unaided. It is to expand
+the owner's capacity to govern an increasingly sophisticated intellectual
+organization." Filed as [CLAIM-tmpxf70b](CLAIM-tmpxf70b.md) (A's). This claim is the half of it
+the record holds: noticing was delegated, judgement about revision was
+not. It is not the other half, that the owner's capacity to govern grew or
+held; [ARG-tmpo6eca](../arguments.d/ARG-tmpo6eca.md) (Rejected) says why the census cannot show that, and
+[LEAD-tmpswgqi](../leads.d/LEAD-tmpswgqi.md) is the manuscript's §19.5 measurement filed as a lead.

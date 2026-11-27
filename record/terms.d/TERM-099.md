@@ -98,3 +98,12 @@ Read on 2026-11-12 among the works of the exchange "luria experiment design"; ea
 - **Fang, Jian, Li and Ma** ([THEORY-1746](../theory.d/THEORY-1746.md)): **an instance in a formal system**. A general law failing in a new experiment is the discrepancy; the added term (elastic potential energy) becomes a concept registered in the theory base and reused across later experiments.
 
 The term is unchanged.
+
+## Note of 2026-11-26: Niebudek and Iniewicz (2023), read
+
+
+A parallel, with a caution. In [LIT-tmpdbb0m](../literature.d/LIT-tmpdbb0m.md) ([NOTE-tmptx4q4](../notes.d/NOTE-tmptx4q4.md)), participants describe testing
+preferences and overcoming limits, which look like self-formation. But they
+frame the path as discovery ("we are what we are", p. 130). The paper
+cannot tell formation from a disposition held all along, which is the
+term's exclusion of mere installation. No change to the term.

@@ -12,7 +12,7 @@ statement: >-
   included, even with every capacity observed exactly; only interventions on
   the production mechanisms, relative to a declared boundary, separate the
   two
-version: 7
+version: 8
 history:
 - version: 2
   date: '2026-11-03'
@@ -53,6 +53,13 @@ history:
     intervention on state, parts its external reset from reciprocal
     production (1.00 against 0.18), outside the claim's ideal case. No
     other change.
+- version: 8
+  date: '2026-11-26'
+  note: >-
+    Dated note of 2026-11-26 from the exchange "Alignment consequences
+    brainstorm" (ChatGPT, 2026-11-26): A2 §3's reading for alignment audits,
+    with how far its table is supported; A5's institutional and population
+    applications. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -255,3 +262,30 @@ ideal controller.
 Bearing: an instance at the edge of the claim's scope; the claim is
 unchanged, and no status changes. The wording is the assistant's (Claude,
 in this session).
+
+## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U1–A2, U3–A5)
+
+A2 §3 reads this claim for alignment evaluation, accurately: it
+"constructs systems that exhibit identical trajectories, including
+recovery from state perturbations, despite the maintenance of their
+organization being realized differently", and interventions "on the
+maintaining mechanisms, rather than merely the state, are required to
+distinguish them". A2 proposes "maintenance provenance as an object of
+alignment auditing", with four models matched on a safety benchmark whose
+safe behaviour is kept by a learned commitment, by "Anticipation of
+external evaluation", by an external constraint, or by "A fragile
+accommodation among competing internal processes".
+
+Only the first and third are this claim's distinction, maintenance
+realized inside or outside the system ([TERM-100](../terms.d/TERM-100.md)). The second is a
+behaviour conditional on being observed, which a perturbation of the
+observation, not of the state, would show; the fourth is a difference in
+stability. So the table illustrates more than the claim covers, and only
+its first contrast is supported by it. The test A2 asks for, in trained
+networks, is close to [LEAD-276](../leads.d/LEAD-276.md)'s.
+
+A5 §2 carries the claim to institutions ("Two institutions may be
+behaviourally indistinguishable during ordinary operation while differing
+fundamentally in their capacity to withstand an attempt at capture"), and
+A5 §6's H1 to populations, in a study filed as [LEAD-tmp0yn8v](../leads.d/LEAD-tmp0yn8v.md). Each is an
+application; the claim is unchanged.

@@ -11,7 +11,7 @@ statement: >-
   is each group's marginal revenue response, not its head count or share of
   spending, so a responsive minority can set a design parameter against the
   majority's preference with no change in anyone's taste
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-18'
@@ -20,6 +20,13 @@ history:
     ADR-085, which it takes part in: bears_on QUESTION-129
     (organizational-normativity). Found at the line audit of
     2026-11-18. No other change.
+- version: 3
+  date: '2026-11-26'
+  note: >-
+    Joins the work organizational-origins-of-misalignment (ADR-tmp0cgxa) at
+    its filing, under ADR-104's rule: the outline A11 §IX of the exchange
+    "Alignment consequences brainstorm" uses its proposition as a step.
+    No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -53,6 +60,8 @@ summary: >-
   preferred design. Both computations rechecked by the filer. The owner's
   mechanism, [CLAIM-653](CLAIM-653.md), rests on it. The wording is A's; adopting it
   is the owner's call.
+works:
+- organizational-origins-of-misalignment
 ---
 <!-- inactive-ok-file: NOTE-1747 NOTE-1793 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: NOTE-1746 — Skimmed; the reading filed from the same exchange -->

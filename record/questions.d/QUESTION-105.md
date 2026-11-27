@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpga1fv
 title: 'What is the least an evolving inquiry must retain, beyond its current conclusions and a closed belief set, which do not fix its revisions, to support a stated family of future revisions, and does the optimal retained state look like provenance, dependencies and defeated alternatives, or like something else?'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-27'
@@ -28,6 +28,12 @@ history:
     through the first line of an entry it names:
     pragmatic-transport, since it refines QUESTION-003. No other
     change.
+- version: 5
+  date: '2026-11-26'
+  note: >-
+    A dated note: the exchange 'Alignment consequences brainstorm' (ChatGPT,
+    2026-11-26), A27 §6 and A29 §§10–11, with the assistant's CLAIM-tmpnf6q4
+    (see the note). No other change.
 tags:
 - epistemology
 - information-theory
@@ -108,3 +114,8 @@ including added facts, defeat and iterated change, and whether it looks
 like provenance, dependencies and defeated alternatives. [THEORY-362](../theory.d/THEORY-362.md),
 [THEORY-373](../theory.d/THEORY-373.md) and [THEORY-387](../theory.d/THEORY-387.md) keep their links here: they give retained states
 that suffice for changes to base facts, not least ones.
+
+## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U15–A29), a partial answer for declared corrections
+<!-- inactive-ok-file: CLAIM-tmpnf6q4 TERM-tmp3t5jq — Proposed or Open; filed from the same exchange on 2026-11-26 -->
+
+A27 §6 states this question's criterion for condensing a record R to R′: Loss_Q(R, R′) = sup over q in Q of d(q(R), q(R′)), with the family Q including "withdrawing evidence, reopening arguments, tracing provenance and detecting conflicts", since "A summary can preserve all the conclusions of a record while destroying its capacity for targeted correction." That is this question's sup over decisions at tolerance ε, applied to consolidation ([TERM-tmp3t5jq](../terms.d/TERM-tmp3t5jq.md)). [CLAIM-tmpnf6q4](../claims.d/CLAIM-tmpnf6q4.md), the assistant's gap fill for A29 §11, answers the question for one case: a declared, deterministic family of corrections and queries, at zero tolerance. The least retained state is the quotient of records by the largest equivalence that the queries respect and every correction preserves, the Myhill–Nerode construction with records as states; anything coarser merges two records some correction would later tell apart. The open part of this question remains: corrections not declared in advance, added facts and defeat as maps that depend on more than the record, nonzero tolerance, and the information-theoretic form I(H; M). [QUESTION-tmpz8xkx](QUESTION-tmpz8xkx.md) is the design question the same exchange opens on top of this one. The question stays Open.

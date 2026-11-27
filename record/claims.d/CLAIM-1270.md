@@ -10,7 +10,7 @@ statement: >-
   reveal: two arrangements alike on the ordinary course can part when a
   contract is breached, an assumption fails or a process invokes its
   standing
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-24'
@@ -18,6 +18,13 @@ history:
     Supersedes CLAIM-1219 (A22 §15), which stated the same proposition
     for implicit contracts; its six probes are taken in by a dated note. At
     the owner's word on duplicates. No change of title or status.
+- version: 3
+  date: '2026-11-26'
+  note: >-
+    Joins the work organizational-origins-of-misalignment (ADR-tmp0cgxa) at
+    its filing, under ADR-104's rule: the outline A11 §IX of the exchange
+    "Alignment consequences brainstorm" uses its proposition as a step.
+    No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -40,6 +47,7 @@ line:
 - distributed-agency
 works:
 - governance-of-becoming
+- organizational-origins-of-misalignment
 rests_on:
 - CLAIM-1293
 - CLAIM-1239

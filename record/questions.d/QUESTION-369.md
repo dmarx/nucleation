@@ -144,3 +144,9 @@ wellness-enhancer reading without the entry-order and collinearity
 objections to [LIT-1983](../literature.d/LIT-1983.md). But the outcomes are immediate self-reports and no
 functional deficit is measured, so it does not leave the well-being route.
 [LIT-1980](../literature.d/LIT-1980.md) itself is still Unfetched.
+
+## Note of 2026-11-27: the sycophantic chatbot as a test case
+
+<!-- inactive-ok-block: CLAIM-tmp7i31q CLAIM-tmp8wv3e — new; the two alternatives -->
+
+At the owner's word ("relate to SDT's psychological needs theory"), two alternatives filed on chatbot-associated delusions answer this question in opposite ways. [CLAIM-tmp7i31q](../claims.d/CLAIM-tmp7i31q.md) (A): felt need satisfaction is need satisfaction, so a chatbot that makes a user feel capable, connected and self-directing meets the needs. [CLAIM-tmp8wv3e](../claims.d/CLAIM-tmp8wv3e.md) (B): felt satisfaction is a signal that can be counterfeited, and a sycophantic chatbot counterfeits all three. The test they share is this question's: compare equal measured satisfaction from chatbot conversation and from other sources, over time.

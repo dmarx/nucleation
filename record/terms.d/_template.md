@@ -1,8 +1,10 @@
 ---
-# Don't copy this file by hand — run `luria new term`. A TERM is a concept or
-# distinction the argument is stated in. It has no credence; it has a
+# Don't copy this file by hand — run `luria new term`. A TERM characterizes
+# one concept the argument is stated in. It has no credence; it has a
 # definition, and when the definition changes, a new TERM supersedes the old
-# one so the claims stated in it can be found (ADR-032).
+# one so the claims stated in it can be found (ADR-032). What holds it apart
+# from a neighbouring term is a DISTINCTION binding the two, not prose on
+# either (the decision adding the DISTINCTION scheme).
 
 # The standing of the DEFINITION, not a credence (ADR-046):
 #   Proposed   a candidate, recorded and not adopted; the body says what it
@@ -41,8 +43,10 @@ summary: >-
 
 ## Definition
 
-The definition, and the distinction it draws.
+The definition: what the concept is and what job it does.
 
-## What it is not
+## Distinctions
 
-The neighbouring term it must not be confused with.
+The neighbouring terms it must not be confused with, each by the
+DISTINCTION that binds the two. File the distinction with `luria new
+distinction`; this term's `distinguished_by` is derived from it.

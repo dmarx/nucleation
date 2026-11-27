@@ -22,7 +22,7 @@ summary: >-
   answers, filed for the owner to choose among.
 ---
 <!-- inactive-ok-file: CLAIM-039 CLAIM-440 CLAIM-442 CLAIM-527 CLAIM-435 CLAIM-446 CLAIM-1233 TERM-076 THEORY-101 — Proposed; the entries this question asks about, with their standing -->
-<!-- inactive-ok-file: CLAIM-1349 CLAIM-1348 CLAIM-1347 — new; the alternative answers filed with this question -->
+<!-- inactive-ok-file: CLAIM-1349 CLAIM-1348 CLAIM-1347 CLAIM-tmps1h34 CLAIM-tmp85bhw — Proposed or new; the alternative answers filed with this question -->
 
 # QUESTION-544: What is affect, as the kind the record's affective entries are kinds of: claims to precedence, any concern-relative regime claimed or granted, or no single kind?
 
@@ -77,6 +77,12 @@ grant side.
 - [CLAIM-1348](../claims.d/CLAIM-1348.md), alternative B: affect is any concern-relative ordering
   with control precedence, claimed or granted.
 - [CLAIM-1347](../claims.d/CLAIM-1347.md), alternative C: "affect" names no single kind.
+- [CLAIM-tmps1h34](../claims.d/CLAIM-tmps1h34.md), alternative D, the owner's proposal of 2026-11-26:
+  affect is a perspective's concern-relative state, valence its sign, and
+  emotion the act of communicating it as a claim to precedence.
+- [CLAIM-tmp85bhw](../claims.d/CLAIM-tmp85bhw.md), alternative E, the owner's of 2026-11-26: A and B are
+  one kind, action readiness, at two levels of its bearer, and claim and
+  grant name the relation between the levels.
 
 The question and the alternatives are the assistant's (Claude, in this
 session); which, if any, the record adopts is the owner's call.
