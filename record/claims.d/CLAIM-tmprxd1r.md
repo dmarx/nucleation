@@ -34,22 +34,22 @@ rests_on:
 bears_on:
 - QUESTION-070
 summary: >-
-  Filed at the owner's request of 2026-11-27. It applies CLAIM-tmpg829x
+  Filed at the owner's request of 2026-11-27. It applies [CLAIM-tmpg829x](CLAIM-tmpg829x.md)
   (cognitive load theory prices peaks, resource-rational analysis prices
-  totals) to malign influence, and ties it to CLAIM-1249 (manufactured doubt
-  raises the action threshold) and CLAIM-tmpg8c20 (who pays the load of
+  totals) to malign influence, and ties it to [CLAIM-1249](CLAIM-1249.md) (manufactured doubt
+  raises the action threshold) and [CLAIM-tmpg8c20](CLAIM-tmpg8c20.md) (who pays the load of
   legibility). The firehose account (Paul and Matthews, RAND, 2016) and the
   asymmetry of refutation are from the assistant's memory and unread. The
   wording is the assistant's (Claude, in this session); adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpg829x CLAIM-tmp3e6nd CLAIM-1249 CLAIM-tmpg8c20 LEAD-tmpqkdqg CLAIM-tmpejuha — Proposed, Open or new; the claims it rests on, the lead, and the claim on content for model readers -->
+<!-- inactive-ok-file: CLAIM-tmpg829x CLAIM-1249 CLAIM-tmpg8c20 CLAIM-tmpejuha — Proposed, Open or new; the claims it rests on, the lead, and the claim on content for model readers -->
 
 # CLAIM-tmprxd1r: Pressure tactics spend the target's peak budget, and flooding spends its total budget
 
 ## Two budgets, two families of tactic
 
-CLAIM-tmpg829x says a bounded mind has a peak budget, what working memory
+[CLAIM-tmpg829x](CLAIM-tmpg829x.md) says a bounded mind has a peak budget, what working memory
 holds at once, and a total budget, what it will spend over a task. Influence
 can exhaust either.
 
@@ -64,7 +64,7 @@ can exhaust either.
 ## What flooding buys
 
 A target out of total budget does one of two things:
-- **It defers.** That is CLAIM-1249's manufactured doubt. The evidence is
+- **It defers.** That is [CLAIM-1249](CLAIM-1249.md)'s manufactured doubt. The evidence is
   recognized and action waits, which is what the campaign wanted.
 - **It falls back on the cheapest heuristic,** usually trust in a source.
   Then the contest moves from the claims to the sources, where the influencer
@@ -72,8 +72,8 @@ A target out of total budget does one of two things:
 
 ## The asymmetry
 
-Producing a claim costs less than checking it. CLAIM-tmpg8c20 says the load
+Producing a claim costs less than checking it. [CLAIM-tmpg8c20](CLAIM-tmpg8c20.md) says the load
 of making something legible is paid by someone. Flooding is the producer
 refusing to pay, and leaving the load to the evaluator. A language model
 lowers the producer's cost close to nothing, so the asymmetry widens. That
-is the outside-in case of CLAIM-tmpejuha, turned on human readers.
+is the outside-in case of [CLAIM-tmpejuha](CLAIM-tmpejuha.md), turned on human readers.

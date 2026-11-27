@@ -32,39 +32,39 @@ grounds:
 - THEORY-1943
 - THEORY-300
 summary: >-
-  Filed at the owner's request of 2026-11-27. It joins THEORY-1943 (coercive
-  control as unfreedom) and CLAIM-545 (free will as governance of one's
+  Filed at the owner's request of 2026-11-27. It joins [THEORY-1943](../theory.d/THEORY-1943.md) (coercive
+  control as unfreedom) and [CLAIM-545](CLAIM-545.md) (free will as governance of one's
   governability) to cognitive load. The scarcity literature it leans on
   (Mani, Mullainathan, Shafir and Zhao 2013, Science; Mullainathan and
   Shafir's "bandwidth tax") is from the assistant's memory and unread, and
-  that work has faced replication questions. CLAIM-tmpbs7vi is its counter.
+  that work has faced replication questions. [CLAIM-tmpbs7vi](CLAIM-tmpbs7vi.md) is its counter.
   The wording is the assistant's (Claude, in this session); adopting it is
   the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmprxd1r CLAIM-545 THEORY-1943 THEORY-300 CLAIM-tmpbs7vi LEAD-tmpqkdqg — Proposed or new; the claims and readings it rests on, its counter and the lead -->
+<!-- inactive-ok-file: CLAIM-tmprxd1r CLAIM-545 THEORY-1943 THEORY-300 CLAIM-tmpbs7vi — Proposed or new; the claims and readings it rests on, its counter and the lead -->
 
 # CLAIM-tmpu99qr: Coercive control works partly as a standing load on the target's capacity to govern itself
 
 ## The claim
 
 Coercion is usually analysed by what it does to options and payoffs. A
-threat makes compliance the best of a worse set. THEORY-1943's coercive
+threat makes compliance the best of a worse set. [THEORY-1943](../theory.d/THEORY-1943.md)'s coercive
 control is wider: deprivation, exploitation, command, monitoring. Its harm is
 entrapment, which outlasts any single threat.
 
 This claim says part of the entrapment is load. A target who must anticipate
 a controller's unpredictable rules keeps vigilance running all the time.
-That is a standing peak demand (CLAIM-tmprxd1r). The capacity left for
+That is a standing peak demand ([CLAIM-tmprxd1r](CLAIM-tmprxd1r.md)). The capacity left for
 planning, weighing an exit, or reflecting on what one wants is smaller. So
 the target can fail to take an exit that is open. The trap is partly the
 lack of capacity to see past the next demand.
 
 ## The link to self-governance
 
-CLAIM-545 puts free will in governing one's own governability: the capacity
+[CLAIM-545](CLAIM-545.md) puts free will in governing one's own governability: the capacity
 to shape which influences one is open to. That capacity costs attention. On
 this claim, coercive control attacks it directly, by occupying the resource
-it runs on. THEORY-300 (coercion reduces the sense of agency) is a
+it runs on. [THEORY-300](../theory.d/THEORY-300.md) (coercion reduces the sense of agency) is a
 neighbouring finding about the felt side.
 
 ## Its evidence is weak
@@ -72,4 +72,4 @@ neighbouring finding about the felt side.
 The scarcity literature it leans on, as the assistant recalls it, reports
 that financial worry lowers performance on reasoning tasks. That work has
 faced replication questions. The claim is interpretive and waits on
-LEAD-tmpqkdqg.
+[LEAD-tmpqkdqg](../leads.d/LEAD-tmpqkdqg.md).

@@ -25,7 +25,7 @@ summary: >-
   unverified and unregistered. Registering and reading them is the owner's
   call. The wording is the assistant's (Claude, in this session).
 ---
-<!-- inactive-ok-file: CLAIM-tmp3e6nd CLAIM-tmprxd1r CLAIM-tmpu99qr CLAIM-tmpbs7vi — new; the claims this lead would advance -->
+<!-- inactive-ok-file: CLAIM-tmp3e6nd CLAIM-tmpu99qr — new; the claims this lead would advance -->
 
 # LEAD-tmpqkdqg: Read the psychology of persuasion, and of influence under load
 
@@ -59,7 +59,7 @@ summary: >-
 ## What to look for
 
 - Whether load moves people from argument to cue with argument quality held
-  fixed. This is CLAIM-tmp3e6nd's test.
+  fixed. This is [CLAIM-tmp3e6nd](../claims.d/CLAIM-tmp3e6nd.md)'s test.
 - Whether a defence that restores capacity reduces the effect.
-- What the scarcity results look like after replication. CLAIM-tmpu99qr leans
+- What the scarcity results look like after replication. [CLAIM-tmpu99qr](../claims.d/CLAIM-tmpu99qr.md) leans
   on them.

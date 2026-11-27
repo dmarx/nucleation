@@ -31,7 +31,7 @@ rests_on:
 grounds:
 - THEORY-1765
 summary: >-
-  Filed at the owner's request of 2026-11-27. THEORY-1765 (Buçinca, Malaya
+  Filed at the owner's request of 2026-11-27. [THEORY-1765](../theory.d/THEORY-1765.md) (Buçinca, Malaya
   and Gajos 2021, read) is the record's one direct case. Cooling-off periods
   in consumer law are from the assistant's general knowledge. The wording is
   the assistant's (Claude, in this session); adopting it is the owner's
@@ -43,7 +43,7 @@ summary: >-
 
 ## The claim
 
-On CLAIM-tmp3e6nd and CLAIM-tmprxd1r, manipulative influence often works by
+On [CLAIM-tmp3e6nd](CLAIM-tmp3e6nd.md) and [CLAIM-tmprxd1r](CLAIM-tmprxd1r.md), manipulative influence often works by
 exhausting a budget. A defence then has two moves:
 - **Give capacity back at the moment of decision:** a cooling-off period, a
   mandatory delay, a second session.
@@ -52,7 +52,7 @@ exhausting a budget. A defence then has two moves:
 
 ## The record's case
 
-THEORY-1765 reads Buçinca, Malaya and Gajos. Designs that made people think
+[THEORY-1765](../theory.d/THEORY-1765.md) reads Buçinca, Malaya and Gajos. Designs that made people think
 before or without seeing an AI's advice cut adoption of its wrong
 suggestions. They did not remove it, and did not raise overall accuracy. And
 people liked and trusted those designs less.
@@ -64,7 +64,7 @@ it.
 
 ## Ties
 
-- **CLAIM-tmprblj4:** a sycophantic chatbot withholds the outside frame. A
+- **[CLAIM-tmprblj4](CLAIM-tmprblj4.md):** a sycophantic chatbot withholds the outside frame. A
   forcing function or a break is one way to restore it.
 - **The second remedy has a cost of its own.** A simplified summary is also a
-  presentation someone controls (CLAIM-tmpg8c20).
+  presentation someone controls ([CLAIM-tmpg8c20](CLAIM-tmpg8c20.md)).

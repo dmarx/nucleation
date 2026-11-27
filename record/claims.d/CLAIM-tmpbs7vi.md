@@ -26,18 +26,18 @@ rests_on:
 grounds:
 - THEORY-1943
 summary: >-
-  Filed as the counter to CLAIM-tmpu99qr, at the owner's request of
+  Filed as the counter to [CLAIM-tmpu99qr](CLAIM-tmpu99qr.md), at the owner's request of
   2026-11-27. The two give different weight to the same mechanism, and the
   test in its defeated_if separates them. The wording is the assistant's
   (Claude, in this session).
 ---
-<!-- inactive-ok-file: CLAIM-tmpu99qr THEORY-1943 — Proposed or new; the claim it answers and the reading -->
+<!-- inactive-ok-file: CLAIM-tmpu99qr — Proposed or new; the claim it answers and the reading -->
 
 # CLAIM-tmpbs7vi: Coercion works through options and payoffs, and the load it imposes is a symptom, not the mechanism
 
 ## The counter
 
-CLAIM-tmpu99qr makes load part of how coercive control entraps. The counter
+[CLAIM-tmpu99qr](CLAIM-tmpu99qr.md) makes load part of how coercive control entraps. The counter
 says the options do the work. Isolation, money, and threats against leaving
 are enough to keep a person with full capacity where they are. The load is
 what living in that situation costs, and it follows from the options.
