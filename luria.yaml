@@ -1490,7 +1490,7 @@ schemes:
         label: Bearing on it
         blurb: the claims, accounts and cases that bear on this question without answering it, written
           by `luria link --fix` from their `bears_on` (ADR-060, ADR-092)
-        scheme: [CLAIM, THEORY, CASE]
+        scheme: [CLAIM, THEORY, CASE, DISTINCTION]
         required: false
         many: true
         converse: bears_on
@@ -1534,6 +1534,15 @@ schemes:
     render: index
     allocate: merge
     references:
+      distinguished_by:
+        label: Distinguished in
+        blurb: the distinctions that hold this entry apart from another, written by `luria link --fix`
+          from their `between` (the decision adding the DISTINCTION scheme)
+        scheme: DISTINCTION
+        required: false
+        many: true
+        converse: between
+        derived: true
       advanced_by:
         label: Leads on it
         blurb: the leads that would advance this claim, by testing, grounding or objecting to it, derived
@@ -1589,7 +1598,7 @@ schemes:
       supports:
         label: Supports
         blurb: the converse of `rests_on`, written by `luria link --fix`.
-        scheme: [CLAIM, ARG]
+        scheme: [CLAIM, ARG, DISTINCTION]
         required: false
         many: true
         converse: rests_on
@@ -1688,8 +1697,10 @@ schemes:
         derived: true
       uses:
         label: Uses the term
-        blurb: the TERM this claim is stated in, so that a term's revision finds the claims built on it
-        scheme: TERM
+        blurb: the TERM this claim is stated in, so that a term's revision finds the claims built on it,
+          or the DISTINCTION it relies on, so that a distinction's collapse finds the claims that kept
+          its sides apart (the decision adding the DISTINCTION scheme)
+        scheme: [TERM, DISTINCTION]
         required: false
         many: true
         converse: used_by
@@ -1753,6 +1764,16 @@ schemes:
     render: index
     allocate: merge
     references:
+      witnesses:
+        label: Tells apart
+        blurb: the distinctions this case witnesses, a case in which one side holds and the other does
+          not, written by `luria link --fix` from their `witnessed_by` (the decision adding the
+          DISTINCTION scheme)
+        scheme: DISTINCTION
+        required: false
+        many: true
+        converse: witnessed_by
+        derived: true
       operationalizes:
         label: Design for
         blurb: the leads this case's study design would carry out, derived from their
@@ -1887,15 +1908,26 @@ schemes:
   TERM:
     title: Terms
     blurb: >-
-      A concept the record defines and uses, versioned by supersession. A term says what job its
-      definition does (ADR-056). Where the record uses a concept in its own sense, it cites the
-      term by code (ADR-038).
+      A concept the record characterizes and uses, versioned by supersession: the home for saying
+      what one concept is. A term says what job its definition does (ADR-056). Where the record
+      uses a concept in its own sense, it cites the term by code (ADR-038). What holds two terms
+      apart is not stated on either: it is a DISTINCTION, which binds them (the decision adding
+      the DISTINCTION scheme).
     dir: record/terms.d
     output: docs/terms
     active: Active
     render: index
     allocate: merge
     references:
+      distinguished_by:
+        label: Distinguished in
+        blurb: the distinctions that hold this entry apart from another, written by `luria link --fix`
+          from their `between` (the decision adding the DISTINCTION scheme)
+        scheme: DISTINCTION
+        required: false
+        many: true
+        converse: between
+        derived: true
       advanced_by:
         label: Advanced by
         blurb: the leads that would advance this term, as the operationalization or measure it waits on, derived from their `advances`, computed
@@ -2133,8 +2165,9 @@ schemes:
       advances:
         label: Advances
         blurb: the questions, claims, readings and terms this lead would move, by answering, narrowing,
-          testing, grounding, replicating, operationalizing or objecting (ADR-109; the decision revising the LEAD scheme)
-        scheme: [QUESTION, CLAIM, THEORY, TERM]
+          testing, grounding, replicating, operationalizing or objecting (ADR-109; the decision revising the LEAD scheme).
+          A distinction is advanced by finding or running the observation that tells its sides apart (the decision adding the DISTINCTION scheme)
+        scheme: [QUESTION, CLAIM, THEORY, TERM, DISTINCTION]
         required: true
         many: true
         converse: advanced_by
@@ -2191,6 +2224,116 @@ schemes:
         vocabulary: lead-methods
         many: true
         required: true
+      tags:
+        vocabulary: topics
+        many: true
+        required: true
+        closed: true
+      line:
+        vocabulary: lines
+        many: true
+        required: true
+    axis: line
+    retires_on: Superseded
+    successor: superseded_by
+
+  DISTINCTION:
+    title: Distinctions
+    blurb: >-
+      Binds two or more TERMs, or CLAIMs, through their explicit distinction: what separates them in theory
+      (`criterion`) and the observation that tells them apart in practice (`tells_apart`), a case,
+      measure or computation on which one side holds and the other does not. A TERM characterizes
+      one concept; a DISTINCTION is where the record says how two differ, and so where its
+      operationalization meets its theory. A distinction is defeated when no observation the
+      record can make separates its sides, and a claim that relies on it `uses` it, so that its
+      collapse finds the claims that kept the sides apart (the decision adding the DISTINCTION
+      scheme).
+    dir: record/distinctions.d
+    output: docs/distinctions
+    active: Active
+    render: index
+    allocate: merge
+    references:
+      between:
+        label: Between
+        blurb: the entries this distinction binds, two or more. TERMs, where a term has senses to
+          disambiguate or neighbours it must not be confused with; CLAIMs, where a claim was split
+          or two claims are easily run together. A side drawn from a reading gets a TERM that
+          `draws_on` it before it is distinguished
+        scheme: [TERM, CLAIM]
+        required: true
+        many: true
+        converse: distinguished_by
+      rests_on:
+        label: Rests on
+        blurb: the claims the distinction depends on, for its criterion or for the observation that
+          tells its sides apart
+        scheme: CLAIM
+        required: false
+        many: true
+        converse: supports
+      witnessed_by:
+        label: Told apart in
+        blurb: the cases in which one side holds and the other does not, the dissociations that
+          show the distinction is more than a difference of words
+        scheme: CASE
+        required: false
+        many: true
+        converse: witnesses
+      bears_on:
+        label: Bears on
+        blurb: questions whose answer depends on keeping these sides apart
+        scheme: QUESTION
+        required: false
+        many: true
+        converse: bearing
+      used_by:
+        label: Used by
+        blurb: the claims that rely on this distinction, written by `luria link --fix` from their
+          `uses`
+        scheme: CLAIM
+        required: false
+        many: true
+        converse: uses
+        derived: true
+      advanced_by:
+        label: Leads on it
+        blurb: the leads that would find or run the observation that tells the sides apart, derived
+          from their `advances`, computed for every reader and never stored
+        scheme: LEAD
+        required: false
+        many: true
+        converse: advances
+        derived: true
+      superseded_by:
+        label: Superseded by
+        blurb: the distinction that replaced this one, drawn differently or between other sides
+        scheme: DISTINCTION
+        required: false
+        many: true
+        converse: supersedes
+      supersedes:
+        label: Supersedes
+        blurb: the distinction this one replaced, written by `luria link --fix`
+        scheme: DISTINCTION
+        required: false
+        many: true
+        converse: superseded_by
+        derived: true
+    fields:
+      status:
+        vocabulary: theory-statuses
+      criterion:
+        required: true
+        blurb: what separates the sides in theory, stated so that each side can be checked against it
+      tells_apart:
+        required: true
+        blurb: the observation, measure, case or computation on which one side holds and the other
+          does not, or the one the record lacks and would need
+      defeated_if:
+        required: true
+        blurb: what would collapse the distinction, typically a showing that every observation the
+          record can make gives its sides the same value
       tags:
         vocabulary: topics
         many: true
