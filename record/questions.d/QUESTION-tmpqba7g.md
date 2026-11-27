@@ -12,12 +12,12 @@ line:
 - organizational-normativity
 summary: >-
   The owner, 2026-11-27: "SEO as a strategic game". The record holds the
-  pieces apart: performative prediction (THEORY-839, THEORY-861),
-  information design (THEORY-404, THEORY-844), self-amplification of
-  authority through cyclic grants (CLAIM-282), legibility that cheapens
-  coercion (CLAIM-1296), and LLM-written documents crowding out human
-  sources in retrieval (THEORY-1656). It is answered by CLAIM-tmp8hi2v,
-  CLAIM-tmp9wy8u, CLAIM-tmpcrves and CLAIM-tmpejuha. The wording is the
+  pieces apart: performative prediction ([THEORY-839](../theory.d/THEORY-839.md), [THEORY-861](../theory.d/THEORY-861.md)),
+  information design ([THEORY-404](../theory.d/THEORY-404.md), [THEORY-844](../theory.d/THEORY-844.md)), self-amplification of
+  authority through cyclic grants ([CLAIM-282](../claims.d/CLAIM-282.md)), legibility that cheapens
+  coercion ([CLAIM-1296](../claims.d/CLAIM-1296.md)), and LLM-written documents crowding out human
+  sources in retrieval ([THEORY-1656](../theory.d/THEORY-1656.md)). It is answered by [CLAIM-tmp8hi2v](../claims.d/CLAIM-tmp8hi2v.md),
+  [CLAIM-tmp9wy8u](../claims.d/CLAIM-tmp9wy8u.md), [CLAIM-tmpcrves](../claims.d/CLAIM-tmpcrves.md) and [CLAIM-tmpejuha](../claims.d/CLAIM-tmpejuha.md). The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: THEORY-1656 CLAIM-1296 CLAIM-tmp8hi2v CLAIM-tmp9wy8u CLAIM-tmpcrves CLAIM-tmpejuha — Proposed or new; the accounts the question draws on and its answers -->

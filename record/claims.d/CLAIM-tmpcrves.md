@@ -33,27 +33,27 @@ rests_on:
 - CLAIM-tmp8hi2v
 summary: >-
   Filed at the owner's "SEO as a strategic game" (2026-11-27). It applies
-  CLAIM-1296 (legibility cheapens coercion as well as cooperation) and
-  CLAIM-1334 (a governing metric allocates the power to make legible and the
+  [CLAIM-1296](CLAIM-1296.md) (legibility cheapens coercion as well as cooperation) and
+  [CLAIM-1334](CLAIM-1334.md) (a governing metric allocates the power to make legible and the
   power to decide what follows) to the ranking. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-1296 CLAIM-1334 CLAIM-tmp8hi2v QUESTION-tmpqba7g CLAIM-1268 — Proposed, Open or new; the claims it applies and the question -->
+<!-- inactive-ok-file: CLAIM-1296 CLAIM-1334 CLAIM-tmp8hi2v CLAIM-1268 — Proposed, Open or new; the claims it applies and the question -->
 
 # CLAIM-tmpcrves: A ranking legible enough to be fair is legible enough to game
 
 ## The claim
 
-CLAIM-1296 says making a process legible to another lowers that other's cost
+[CLAIM-1296](CLAIM-1296.md) says making a process legible to another lowers that other's cost
 of intervening on it, "whatever the purpose of the intervention". Ranking is
 the process, and publishers are the others. Disclosing what the ranking reads
 helps the honest publisher make quality readable. It helps the gamer
 manufacture what is read just as much. The engine cannot choose a disclosure
 that helps only the first, except where the disclosed features can be
-supplied only by having the quality (CLAIM-tmp8hi2v).
+supplied only by having the quality ([CLAIM-tmp8hi2v](CLAIM-tmp8hi2v.md)).
 
 So engines keep their rankings opaque, and opacity has its own cost.
-CLAIM-1334 says a governing metric allocates two powers: to make legible,
+[CLAIM-1334](CLAIM-1334.md) says a governing metric allocates two powers: to make legible,
 and to decide what follows. An opaque ranking keeps the second power with the
 engine, unanswerable to the publishers and users it governs. A demotion
 without a stated reason is that power exercised.
@@ -62,7 +62,7 @@ without a stated reason is that power exercised.
 
 The ranking does not only select among pages. It governs what is written. The
 web increasingly consists of pages composed for the ranker, which is
-CLAIM-1268's monitoring that produces the conformity it records, and the
+[CLAIM-1268](CLAIM-1268.md)'s monitoring that produces the conformity it records, and the
 record's account of jurisdictional expansion: a criterion meant to select
 gains authority over production.
 

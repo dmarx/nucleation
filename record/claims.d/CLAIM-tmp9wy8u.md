@@ -28,7 +28,7 @@ answers:
 rests_on:
 - CLAIM-282
 summary: >-
-  Filed at the owner's "SEO as a strategic game" (2026-11-27). CLAIM-282
+  Filed at the owner's "SEO as a strategic game" (2026-11-27). [CLAIM-282](CLAIM-282.md)
   (Active) was filed about operators delegating authority, not about the
   web. This claim reads PageRank as its damped recursive delegation, and
   trust-seeded ranking as its one-hop remedy. That trust-seeded ranking
@@ -36,20 +36,20 @@ summary: >-
   be checked. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: QUESTION-tmpqba7g CLAIM-tmp8hi2v — Open or new; the question and the claim on what ends the game -->
+<!-- inactive-ok-file: CLAIM-tmp8hi2v — Open or new; the question and the claim on what ends the game -->
 
 # CLAIM-tmp9wy8u: Link farms are self-amplification through cyclic grants, and trust seeds are its remedy
 
 ## The claim
 
 PageRank treats a link as a vote, and a vote from a page is weighted by that
-page's own rank: authority by damped recursive delegation. CLAIM-282 says
+page's own rank: authority by damped recursive delegation. [CLAIM-282](CLAIM-282.md) says
 what follows. Forbidding self-granting does not stop an operator amplifying
 its own authority, since reciprocal and cyclic grants recycle authority back
 to it. A link farm is exactly that: pages linking in rings, each lending the
 others authority that returns.
 
-CLAIM-282's remedy is allocation within an epoch from budgets and baselines
+[CLAIM-282](CLAIM-282.md)'s remedy is allocation within an epoch from budgets and baselines
 fixed independently of outgoing grants. Then an operator's authority is
 exactly independent of its own grants. Trust-seeded ranking, as the
 assistant recalls it, has this shape. Authority starts at a seed set of
@@ -59,5 +59,5 @@ as it likes, and it gains nothing it did not receive from outside its ring.
 ## What it does not say
 
 That trust seeds end the game. The game moves to acquiring links from
-trusted pages, which costs more, as CLAIM-tmp8hi2v says an effect of quality
+trusted pages, which costs more, as [CLAIM-tmp8hi2v](CLAIM-tmp8hi2v.md) says an effect of quality
 should.
