@@ -18,13 +18,12 @@ corroborates:
 - CLAIM-1100
 - CLAIM-tmpg2wk1
 summary: >-
-  Gupta, Liu and Zou (2026), LIT-tmpukote, read in NOTE-tmpanw10. Proposed: one benchmark, synthetic tasks, open models up to 14B, and a classifier that does not generalize across load factors.
+  Gupta, Liu and Zou (2026), [LIT-tmpukote](../literature.d/LIT-tmpukote.md), read in [NOTE-tmpanw10](../notes.d/NOTE-tmpanw10.md). Proposed: one benchmark, synthetic tasks, open models up to 14B, and a classifier that does not generalize across load factors.
 ---
-<!-- inactive-ok-file: LIT-tmpukote NOTE-tmpanw10 — new; the source and its reading -->
 
 # THEORY-tmpjgsul: Presentation alone costs language models accuracy, and activations tell which presentation it was
 
-Gupta, Liu and Zou (2026), LIT-tmpukote, read in NOTE-tmpanw10.
+Gupta, Liu and Zou (2026), [LIT-tmpukote](../literature.d/LIT-tmpukote.md), read in [NOTE-tmpanw10](../notes.d/NOTE-tmpanw10.md).
 
 ## The account
 

@@ -255,6 +255,5 @@ Under either, [CLAIM-517](CLAIM-517.md) takes a clarification of its ε (its not
 
 ## Note of 2026-11-27: Gupta, Liu and Zou, read
 
-<!-- inactive-ok-block: NOTE-tmpanw10 — new; the reading of Gupta, Liu and Zou and its account -->
 
-Consistent, with a caution (NOTE-tmpanw10). Gupta, Liu and Zou judge their steering on held-out F1, not on the activation score that defined its direction. But they propose judging a mitigation by whether the score's features return to their low-load pattern. That would certify a mitigation by the probe that trained it, which is what this claim warns against.
+Consistent, with a caution ([NOTE-tmpanw10](../notes.d/NOTE-tmpanw10.md)). Gupta, Liu and Zou judge their steering on held-out F1, not on the activation score that defined its direction. But they propose judging a mitigation by whether the score's features return to their low-load pattern. That would certify a mitigation by the probe that trained it, which is what this claim warns against.

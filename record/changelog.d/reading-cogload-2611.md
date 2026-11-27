@@ -1,3 +1,3 @@
 ### Added
 
-- Gupta, Liu and Zou 2026, "Extraneous Cognitive Load in Large Language Models", read (LIT-tmpukote, NOTE-tmpanw10, THEORY-tmpjgsul). It corroborates CLAIM-1269, CLAIM-1086, CLAIM-1100 and CLAIM-tmpg2wk1, with dated notes on these and on CLAIM-029, CLAIM-266 and THEORY-1313.
+- Gupta, Liu and Zou 2026, "Extraneous Cognitive Load in Large Language Models", read ([LIT-tmpukote](record/literature.d/LIT-tmpukote.md), [NOTE-tmpanw10](record/notes.d/NOTE-tmpanw10.md), [THEORY-tmpjgsul](record/theory.d/THEORY-tmpjgsul.md)). It corroborates [CLAIM-1269](record/claims.d/CLAIM-1269.md), [CLAIM-1086](record/claims.d/CLAIM-1086.md), [CLAIM-1100](record/claims.d/CLAIM-1100.md) and [CLAIM-tmpg2wk1](record/claims.d/CLAIM-tmpg2wk1.md), with dated notes on these and on [CLAIM-029](record/claims.d/CLAIM-029.md), [CLAIM-266](record/claims.d/CLAIM-266.md) and [THEORY-1313](record/theory.d/THEORY-1313.md).

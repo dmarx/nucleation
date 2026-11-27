@@ -109,6 +109,6 @@ system's procedures is a declaration this claim says must be made.
 
 ## Note of 2026-11-27: Gupta, Liu and Zou, read
 
-<!-- inactive-ok-block: THEORY-tmpjgsul NOTE-tmpanw10 — new; the reading of Gupta, Liu and Zou and its account -->
+<!-- inactive-ok-block: THEORY-tmpjgsul — new; the reading of Gupta, Liu and Zou and its account -->
 
-THEORY-tmpjgsul corroborates this claim. Gupta, Liu and Zou's Extraneous Load Score is a probe that decodes which presentation a prompt had, and they say it "estimates a model's internal extraneous load" (NOTE-tmpanw10). The reading tells against that gloss. The score barely moves when the model fails outright on hard problems, shares no direction across load factors, and steering along it recovers about 0.4 F1. What it decodes is stored, on this claim, and not shown to be what the model brings to bear.
+[THEORY-tmpjgsul](../theory.d/THEORY-tmpjgsul.md) corroborates this claim. Gupta, Liu and Zou's Extraneous Load Score is a probe that decodes which presentation a prompt had, and they say it "estimates a model's internal extraneous load" ([NOTE-tmpanw10](../notes.d/NOTE-tmpanw10.md)). The reading tells against that gloss. The score barely moves when the model fails outright on hard problems, shares no direction across load factors, and steering along it recovers about 0.4 F1. What it decodes is stored, on this claim, and not shown to be what the model brings to bear.

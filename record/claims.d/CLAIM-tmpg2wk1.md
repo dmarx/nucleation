@@ -139,6 +139,6 @@ hot.
 
 ## Note of 2026-11-27: Gupta, Liu and Zou, read
 
-<!-- inactive-ok-block: THEORY-tmpjgsul NOTE-tmpanw10 — new; the reading of Gupta, Liu and Zou and its account -->
+<!-- inactive-ok-block: THEORY-tmpjgsul — new; the reading of Gupta, Liu and Zou and its account -->
 
-THEORY-tmpjgsul corroborates this claim's term for "the attention it consumes in contexts that do not need it" and gives it a magnitude. On contract question answering, adding distractor documents from K=1 to K=50 lowers F1 from 74.3 to 47.5, averaged over four models including two frontier ones (NOTE-tmpanw10). For a record read into a model's context, entries the task does not need are this cost.
+[THEORY-tmpjgsul](../theory.d/THEORY-tmpjgsul.md) corroborates this claim's term for "the attention it consumes in contexts that do not need it" and gives it a magnitude. On contract question answering, adding distractor documents from K=1 to K=50 lowers F1 from 74.3 to 47.5, averaged over four models including two frontier ones ([NOTE-tmpanw10](../notes.d/NOTE-tmpanw10.md)). For a record read into a model's context, entries the task does not need are this cost.

@@ -12,7 +12,7 @@ date: '2026-11-27'
 summary: >-
   A controlled benchmark of presentation effects on reasoning, an activation-based classifier of high against low presentation load, and a small steering result. The finding is robust and large; the cognitive-load interpretation is a label the paper does not test.
 ---
-<!-- inactive-ok-file: CLAIM-1269 CLAIM-1086 CLAIM-1100 CLAIM-029 CLAIM-266 CLAIM-tmpg2wk1 CLAIM-tmp7oycz THEORY-662 THEORY-1334 THEORY-1313 CLAIM-tmpgmvhl — Proposed; entries this reading bears on -->
+<!-- inactive-ok-file: CLAIM-1269 CLAIM-1086 CLAIM-1100 CLAIM-029 CLAIM-tmpg2wk1 CLAIM-tmp7oycz THEORY-662 THEORY-1334 CLAIM-tmpgmvhl — Proposed; entries this reading bears on -->
 
 # NOTE-tmpanw10: Extraneous Cognitive Load in Large Language Models
 
@@ -54,20 +54,20 @@ Intrinsic and extraneous load, after cognitive load theory; competition against 
 
 ## Bearing on the record
 
-- **CLAIM-1269** (supports, as an instance, and qualifies). Each factor is a transformation the standard treats as irrelevant, since the answer is fixed, and the response varies under it: spurious sensitivity. The per-model profile of drops is a family of contrasts used as a signature. It qualifies the claim because shuffling plausibly adds real computation for a bounded reasoner, so whether the sensitivity is spurious depends on the declared standard, as the claim says. Spurious invariance is not tested.
-- **CLAIM-1086** (supports, as an instance). The truthmaker is kept and what accompanies it changes. Analogy under similar distractors is the clearest failure of reliability under that intervention.
-- **CLAIM-1100** (supports). ELS is a probe of which presentation the input had. The paper says it "estimates a model's internal extraneous load", but three findings tell against that:
+- **[CLAIM-1269](../claims.d/CLAIM-1269.md)** (supports, as an instance, and qualifies). Each factor is a transformation the standard treats as irrelevant, since the answer is fixed, and the response varies under it: spurious sensitivity. The per-model profile of drops is a family of contrasts used as a signature. It qualifies the claim because shuffling plausibly adds real computation for a bounded reasoner, so whether the sensitivity is spurious depends on the declared standard, as the claim says. Spurious invariance is not tested.
+- **[CLAIM-1086](../claims.d/CLAIM-1086.md)** (supports, as an instance). The truthmaker is kept and what accompanies it changes. Analogy under similar distractors is the clearest failure of reliability under that intervention.
+- **[CLAIM-1100](../claims.d/CLAIM-1100.md)** (supports). ELS is a probe of which presentation the input had. The paper says it "estimates a model's internal extraneous load", but three findings tell against that:
   - it barely moves when the model fails outright on hard problems;
   - no direction is shared across factors;
   - the only test of whether the model uses it, steering, gains little.
 
   Decodable, not shown to be the model's.
-- **CLAIM-tmpg2wk1** (supports, with a magnitude). Its cost term "the attention it consumes in contexts that do not need it" gets a figure: −27 F1 on contract QA from K=1 to K=50.
-- **CLAIM-029** (qualifies, toward its defeater, without meeting it). Implicit reference, close to a paraphrase, costs 23.5-46 points in Context. That is a loss of reasoning accuracy, not a change of interpretation.
-- **CLAIM-tmp7oycz and THEORY-662** (a qualifying datum, by the filer's inference). Output entropy and logit margin, the nearest model-side analogues of fluency, do not track the load even where accuracy falls by 37 points. The paper does not discuss fluency.
-- **THEORY-1313 and THEORY-1334** (qualify reach). CAA, the difference-of-means method persona vectors use, gives +0.05 here.
-- **CLAIM-266** (consistent, with a caution). Steering is judged on held-out F1, not on ELS. But §4 proposes judging a mitigation by whether ELS features return to their low-load pattern, which is the self-certification the claim warns against.
-- **Silent:** CLAIM-tmpgmvhl (no training study) and THEORY-1240.
+- **[CLAIM-tmpg2wk1](../claims.d/CLAIM-tmpg2wk1.md)** (supports, with a magnitude). Its cost term "the attention it consumes in contexts that do not need it" gets a figure: −27 F1 on contract QA from K=1 to K=50.
+- **[CLAIM-029](../claims.d/CLAIM-029.md)** (qualifies, toward its defeater, without meeting it). Implicit reference, close to a paraphrase, costs 23.5-46 points in Context. That is a loss of reasoning accuracy, not a change of interpretation.
+- **[CLAIM-tmp7oycz](../claims.d/CLAIM-tmp7oycz.md) and [THEORY-662](../theory.d/THEORY-662.md)** (a qualifying datum, by the filer's inference). Output entropy and logit margin, the nearest model-side analogues of fluency, do not track the load even where accuracy falls by 37 points. The paper does not discuss fluency.
+- **[THEORY-1313](../theory.d/THEORY-1313.md) and [THEORY-1334](../theory.d/THEORY-1334.md)** (qualify reach). CAA, the difference-of-means method persona vectors use, gives +0.05 here.
+- **[CLAIM-266](../claims.d/CLAIM-266.md)** (consistent, with a caution). Steering is judged on held-out F1, not on ELS. But §4 proposes judging a mitigation by whether ELS features return to their low-load pattern, which is the self-certification the claim warns against.
+- **Silent:** [CLAIM-tmpgmvhl](../claims.d/CLAIM-tmpgmvhl.md) (no training study) and [THEORY-1240](../theory.d/THEORY-1240.md).
 
 ## Limitations
 

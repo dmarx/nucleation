@@ -137,6 +137,5 @@ separation is held, the claim is not promoted.
 
 ## Note of 2026-11-27: Gupta, Liu and Zou, read
 
-<!-- inactive-ok-block: NOTE-tmpanw10 — new; the reading of Gupta, Liu and Zou and its account -->
 
-A qualification toward this claim's defeater, without meeting it. Implicit reference, close to a paraphrase of the explicit version, costs 23.5 to 46 points of reasoning accuracy in Gupta, Liu and Zou's contextual tasks (NOTE-tmpanw10). That is a loss of accuracy under the same content, not a change of interpretation.
+A qualification toward this claim's defeater, without meeting it. Implicit reference, close to a paraphrase of the explicit version, costs 23.5 to 46 points of reasoning accuracy in Gupta, Liu and Zou's contextual tasks ([NOTE-tmpanw10](../notes.d/NOTE-tmpanw10.md)). That is a loss of accuracy under the same content, not a change of interpretation.
