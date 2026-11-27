@@ -119,3 +119,10 @@ learnability" turns on a frozen exact rule ([CASE-403](../cases.d/CASE-403.md)):
 [CLAIM-1092](../claims.d/CLAIM-1092.md) (the assistant's lean, understanding as stable tracking,
 [THEORY-438](../theory.d/THEORY-438.md)) no; on [CLAIM-1059](../claims.d/CLAIM-1059.md) (understanding as developmental value,
 A73) yes. On every learner the two agree. No status change.
+
+## Note of 2026-11-27: shortcut learning
+
+<!-- inactive-ok-block: CLAIM-tmpgmvhl CLAIM-tmp7crnt LEAD-tmp2592n — new; filed when the owner asked for the record's account of shortcut learning -->
+
+The owner asked for the record's account of shortcut learning, noting that the record does not use the term. It is this question's, in its own words. CASE-416, the watermark-reading classifier, is the canonical shortcut. CLAIM-1086 and CLAIM-1028 share its diagnosis, an intervention that separates the cue from what makes the answer true. CLAIM-tmpgmvhl joins that definition to the order in which networks learn (THEORY-279, THEORY-759) to say why shortcuts arise, and CLAIM-tmp7crnt reads sycophancy as one. The reading is LEAD-tmp2592n.
+
