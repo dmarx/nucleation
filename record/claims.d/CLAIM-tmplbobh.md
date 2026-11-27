@@ -31,16 +31,18 @@ rests_on:
 - CLAIM-tmpxg0zs
 uses:
 - TERM-064
+grounds:
+- THEORY-tmpjgsul
 summary: >-
   The owner, 2026-11-27: "relate cognitive load to the record's account of
   legibility". TERM-064 (Active) already makes legibility relative to an
   observer's resources; this claim says cognitive load theory is the account
-  of that term for a working-memory-bounded observer, and the reading of
-  Gupta, Liu and Zou (dmarx/nucleation#871, not yet merged) supplies the case of a
+  of that term for a working-memory-bounded observer, and THEORY-tmpjgsul
+  (Gupta, Liu and Zou) supplies the case of a
   machine observer. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmp3gqdp CLAIM-tmpgu8no CLAIM-tmpxg0zs CLAIM-tmpiwxjx CLAIM-tmpg8c20 — Proposed or new; the claims it rests on, the reading it uses, and the claims beside it -->
+<!-- inactive-ok-file: CLAIM-tmp3gqdp CLAIM-tmpgu8no CLAIM-tmpxg0zs THEORY-tmpjgsul CLAIM-tmpiwxjx CLAIM-tmpg8c20 — Proposed or new; the claims it rests on, the reading it uses, and the claims beside it -->
 
 # CLAIM-tmplbobh: Cognitive load theory is the theory of legibility to an observer bounded by working memory
 
@@ -60,7 +62,7 @@ load theory's loads fills one place in that definition:
 | the observer's rule class | schemas, which germane load builds (CLAIM-tmpxg0zs) |
 
 So a presentation effect is a change of legibility with the source held
-fixed. Gupta, Liu and Zou's benchmark, read in dmarx/nucleation#871, is a direct test for
+fixed. Gupta, Liu and Zou's benchmark (THEORY-tmpjgsul) is a direct test for
 a machine observer. With the answer, and so the distinction, fixed, the
 order and form of what is given change whether the model can recover it.
 

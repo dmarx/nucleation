@@ -27,6 +27,8 @@ rests_on:
 - CLAIM-tmp3gqdp
 - CLAIM-tmpg2wk1
 - CLAIM-tmpu1fef
+grounds:
+- THEORY-tmpjgsul
 summary: >-
   Filed at the owner's request of 2026-11-27 to connect resource-bounded
   inquiry with resource-bounded cognition. It joins [CLAIM-tmpg2wk1](CLAIM-tmpg2wk1.md) (a tier is
@@ -37,7 +39,7 @@ summary: >-
   models, bears directly on its last clause. The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmp3gqdp CLAIM-tmpg2wk1 CLAIM-tmpu1fef CLAIM-tmpxg0zs — Proposed or new; the claims it rests on, and the claim on germane load -->
+<!-- inactive-ok-file: CLAIM-tmp3gqdp CLAIM-tmpg2wk1 CLAIM-tmpu1fef CLAIM-tmpxg0zs THEORY-tmpjgsul — Proposed or new; the claims it rests on, and the claim on germane load -->
 
 # CLAIM-tmpgu8no: Extraneous load is what a context costs in attention without serving the task, for minds, models and records alike
 
@@ -63,9 +65,11 @@ Those are extraneous load, for the record's readers.
 
 The record is read by a language model as often as by its owner. Everything
 loaded into the model's context that the task does not need is extraneous
-load on that reader. Gupta, Liu and Zou (being read in dmarx/nucleation#871)
-report, by their abstract, that presentation alone lowers models' accuracy
-on reasoning tasks with difficulty held fixed. If that holds, the record's
+load on that reader. THEORY-tmpjgsul (Gupta, Liu and Zou, read in full) finds
+that presentation alone lowers models' accuracy with target and answer held
+fixed, by up to about 37 points averaged over models. The costs grow with the
+number and similarity of distractors, the cases that compete with the target
+for attention. If that holds beyond their synthetic tasks, the record's
 tiering question is cognitive load theory for its machine reader. Keeping a
 superseded entry in view is a cost paid at every reading.
 

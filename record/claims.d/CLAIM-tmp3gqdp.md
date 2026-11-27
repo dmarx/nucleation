@@ -38,7 +38,7 @@ summary: >-
   ([LEAD-tmpi367t](../leads.d/LEAD-tmpi367t.md)). The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: SYNTHESIS-024 CLAIM-tmpg829x — Proposed or new; the reading lead, the account of budgets, and the claims beside this one -->
+<!-- inactive-ok-file: SYNTHESIS-024 CLAIM-tmpg829x THEORY-tmpjgsul — Proposed or new; the reading lead, the account of budgets, and the claims beside this one -->
 
 # CLAIM-tmp3gqdp: Intrinsic cognitive load is a task's least-peak threshold, and working memory is a peak budget
 
@@ -73,6 +73,13 @@ And it can be reachable without being *reliably reached*.
 
 - Two presentations of a task with the same total work and different peaks
   differ in success, and the one with the lower peak does better.
+  THEORY-tmpjgsul has a case of it for language models: shuffling a
+  problem's statements keeps every statement, and so the total, and still
+  costs accuracy. On this claim, the cost comes from the order raising how
+  much must be held at once. The authors read it as a harder reasoning path,
+  which is the same thing said of the route rather than the budget. Their
+  design does not measure peak demand, so it is consistent with the
+  prediction, not a test of it.
 - [CLAIM-580](CLAIM-580.md) (Active) carries over: an error of ε in estimating each step's
   load moves the estimated threshold by at most ε. A learner's rough sense
   of "this step is too much" can be good enough to choose routes by.
