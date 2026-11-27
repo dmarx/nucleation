@@ -7,6 +7,6 @@
   - [CLAIM-tmpcrves](record/claims.d/CLAIM-tmpcrves.md): a ranking legible enough to be fair is legible enough to game;
   - [CLAIM-tmpejuha](record/claims.d/CLAIM-tmpejuha.md): optimizing content for a language-model reader is reflexive control of the evaluator from outside.
 - On paperclip maximization, enshittification and monoculture:
-  - CLAIM-tmpzml5c: search is a paperclip problem on both sides of the ranking;
-  - CLAIM-tmp6n4ed: enshittification of search is the engine optimizing its own ranking against its users;
-  - CLAIM-tmpjom83: one dominant ranking makes the web a monoculture whose failures are correlated.
+  - [CLAIM-tmpzml5c](record/claims.d/CLAIM-tmpzml5c.md): search is a paperclip problem on both sides of the ranking;
+  - [CLAIM-tmp6n4ed](record/claims.d/CLAIM-tmp6n4ed.md): enshittification of search is the engine optimizing its own ranking against its users;
+  - [CLAIM-tmpjom83](record/claims.d/CLAIM-tmpjom83.md): one dominant ranking makes the web a monoculture whose failures are correlated.

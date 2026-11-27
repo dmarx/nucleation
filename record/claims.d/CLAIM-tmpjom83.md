@@ -36,13 +36,13 @@ grounds:
 - THEORY-835
 summary: >-
   The monoculture part of the owner's request of 2026-11-27. It uses
-  THEORY-835 (Kleinberg and Raghavan: a shared algorithmic ranking that
+  [THEORY-835](../theory.d/THEORY-835.md) (Kleinberg and Raghavan: a shared algorithmic ranking that
   each firm prefers whatever the other does, with which both and total
-  welfare do worse) and CLAIM-1002 (perspectives help only if their failures
+  welfare do worse) and [CLAIM-1002](CLAIM-1002.md) (perspectives help only if their failures
   are independent). The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-1002 CLAIM-tmpgmvhl CLAIM-tmp8hi2v QUESTION-tmpqba7g CLAIM-tmpejuha — Proposed, Open or new; the claims it rests on, the question, and the claim on language-model readers -->
+<!-- inactive-ok-file: CLAIM-1002 CLAIM-tmpgmvhl CLAIM-tmpejuha — Proposed, Open or new; the claims it rests on, the question, and the claim on language-model readers -->
 
 # CLAIM-tmpjom83: One dominant ranking makes the web a monoculture whose failures are correlated
 
@@ -53,19 +53,19 @@ same guidelines and optimizes the same correlates. Pages converge on one
 shape, the shape the ranker rewards. This is the agricultural sense of
 monoculture: one variety everywhere.
 
-**Correlated failure.** CLAIM-1002 says parallel perspectives raise the chance
+**Correlated failure.** [CLAIM-1002](CLAIM-1002.md) says parallel perspectives raise the chance
 of an answer only insofar as their failures are independent. One ranking
 reading one set of correlates fails the same way for everyone. Its blind
 spots are the web's blind spots.
 
-**Why each adopts it anyway.** THEORY-835 is Kleinberg and Raghavan's result.
+**Why each adopts it anyway.** [THEORY-835](../theory.d/THEORY-835.md) is Kleinberg and Raghavan's result.
 For decision-makers using a noisy ranking, there can be a shared algorithmic
 ranking that each strictly prefers whatever the others do, and with which all
 of them, and total welfare, do worse. Each publisher optimizing for the
 dominant ranker, and each engine copying the dominant ranker's signals, can
 be that equilibrium.
 
-**Plurality as the remedy.** CLAIM-tmpgmvhl says a shortcut is prevented by a
+**Plurality as the remedy.** [CLAIM-tmpgmvhl](CLAIM-tmpgmvhl.md) says a shortcut is prevented by a
 family in which the correlate is unreliable. For gaming, plurality is that
 family. If rankings read different correlates, manufacturing any one
 correlate buys rank in only one of them, and only having the quality buys it
@@ -75,7 +75,7 @@ service. It makes the correlates unreliable to game.
 ## The language-model turn
 
 Answer engines trained on the same web, and retrieving from it
-(CLAIM-tmpejuha), deepen the monoculture. Their readers share training data
+([CLAIM-tmpejuha](CLAIM-tmpejuha.md)), deepen the monoculture. Their readers share training data
 and tastes, so content optimized for one is optimized for most.
 
 ## What it does not say

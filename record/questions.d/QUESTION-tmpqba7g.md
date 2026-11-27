@@ -45,5 +45,5 @@ summary: >-
 
 <!-- inactive-ok-block: CLAIM-tmpzml5c CLAIM-tmp6n4ed CLAIM-tmpjom83 — new; filed at the owner's request to relate SEO to the three -->
 
-At the owner's request, three more answers. CLAIM-tmpzml5c: search is a paperclip problem on both sides of the ranking, running the three-stage pathology. CLAIM-tmp6n4ed: enshittification of search is the engine optimizing its own ranking against its users, the same proxy-optimum structure as publishers', and possibly irreversible. CLAIM-tmpjom83: one dominant ranking makes the web a monoculture with correlated failures, and plurality is a remedy beyond competition.
+At the owner's request, three more answers. [CLAIM-tmpzml5c](../claims.d/CLAIM-tmpzml5c.md): search is a paperclip problem on both sides of the ranking, running the three-stage pathology. [CLAIM-tmp6n4ed](../claims.d/CLAIM-tmp6n4ed.md): enshittification of search is the engine optimizing its own ranking against its users, the same proxy-optimum structure as publishers', and possibly irreversible. [CLAIM-tmpjom83](../claims.d/CLAIM-tmpjom83.md): one dominant ranking makes the web a monoculture with correlated failures, and plurality is a remedy beyond competition.
 
