@@ -26,7 +26,8 @@ keywords:
 implementations: []
 summary: >-
   The SEP's survey of self-deception. Registered with the SEP entry on
-  lying and deception, at the assistant's suggestion, because the inside
+  lying and deception, at the assistant's suggestion and the owner's
+  "sure read those as well", because the inside
   position of DISTINCTION-tmp68xjw is the self-deception question: whether
   a mind can deceive itself without intending to, as deflationary accounts
   say, which bears on CLAIM-tmpu6fff and CLAIM-tmpu6c7h.
