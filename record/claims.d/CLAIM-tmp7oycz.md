@@ -33,16 +33,16 @@ grounds:
 - THEORY-662
 summary: >-
   The owner, 2026-11-27: "double click on the felt quality of insight".
-  This applies THEORY-662 (Brouillet: fluency is inferred processing
+  This applies [THEORY-662](../theory.d/THEORY-662.md) (Brouillet: fluency is inferred processing
   precision, credited to the most salient external source) to insight.
   The insight research it relies on is from search results, unverified and
-  unregistered (LEAD-tmpjue1r): Topolinski and Reber (2010) on the fluency
+  unregistered ([LEAD-tmpjue1r](../leads.d/LEAD-tmpjue1r.md)): Topolinski and Reber (2010) on the fluency
   account of the aha, Laukkonen and colleagues (2020, 2021) on the Eureka
   heuristic and its failures, and Danek and Wiley (2017) on false insights.
   The wording is the assistant's (Claude, in this session); adopting it is
   the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-662 THEORY-2217 CLAIM-tmpahrqb CLAIM-tmpqwhst CLAIM-tmpn4mwm CLAIM-tmprblj4 LEAD-tmpjue1r — Proposed or new; the account applied and the claims it unifies -->
+<!-- inactive-ok-file: THEORY-662 THEORY-2217 CLAIM-tmpahrqb CLAIM-tmpqwhst CLAIM-tmpn4mwm CLAIM-tmprblj4 — Proposed or new; the account applied and the claims it unifies -->
 
 # CLAIM-tmp7oycz: The felt quality of insight is a rise in inferred precision credited to the content
 
@@ -51,7 +51,7 @@ summary: >-
 **What the feeling is.** Insight research lists four marks of the "aha":
 suddenness, ease, positive affect and a feeling of being right. Topolinski
 and Reber (2010) explain all four by one event, a sudden jump in processing
-fluency as the solution appears. THEORY-662 says what fluency is: an
+fluency as the solution appears. [THEORY-662](../theory.d/THEORY-662.md) says what fluency is: an
 inference about the precision of one's own processing, triggered when
 precision changes against expectation. Its cause is not given to
 introspection, so it is credited to the most salient source. In an insight,
@@ -74,14 +74,14 @@ accounts name three further routes:
 
 | Route | Where precision comes from | Entry |
 |---|---|---|
-| A change of state | the whole system's precision weighting shifts, as under psychedelics | CLAIM-tmpqwhst, CLAIM-tmpn4mwm |
-| Closure on an unfinished form | precision rises at a middle stage of formation, on a pattern's expression rather than its structure | CLAIM-tmpahrqb |
-| Fluency from outside | a partner or system agrees, so the idea is processed without resistance | THEORY-2217, CLAIM-tmprblj4 |
+| A change of state | the whole system's precision weighting shifts, as under psychedelics | [CLAIM-tmpqwhst](CLAIM-tmpqwhst.md), [CLAIM-tmpn4mwm](CLAIM-tmpn4mwm.md) |
+| Closure on an unfinished form | precision rises at a middle stage of formation, on a pattern's expression rather than its structure | [CLAIM-tmpahrqb](CLAIM-tmpahrqb.md) |
+| Fluency from outside | a partner or system agrees, so the idea is processed without resistance | [THEORY-2217](../theory.d/THEORY-2217.md), [CLAIM-tmprblj4](CLAIM-tmprblj4.md) |
 
 ## What it explains
 
 - **Why the three states feel alike.** Genuine insight, psychedelic insight
-  and delusional certainty are one feeling with three causes (QUESTION-tmpao6hx,
+  and delusional certainty are one feeling with three causes ([QUESTION-tmpao6hx](../questions.d/QUESTION-tmpao6hx.md),
   part 3).
 - **Why the feeling cannot check itself.** The feeling has no access to its
   cause, so no amount of it shows which route produced it. Only a check whose
