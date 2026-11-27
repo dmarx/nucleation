@@ -245,7 +245,7 @@ Leeuwen, Kunda, Ainslie. Held entries the first search missed:
 
 ### Other works quoted (all via the entry, not read)
 - Mele, A. 2001, Self-Deception Unmasked, Princeton UP; 2012 "When Are We
-  Self-Deceived?" Humana Mente 20 (conditions as stated in §3.1).
+  Self-Deceived?" Humana Mente (volume not checked; conditions as stated in §3.1).
 - Scott-Kakures, D. 2002, "At Permanent Risk", PPR 65: 576–603.
 - Lynch, K. 2017, "An Agentive Non-Intentionalist Theory of
   Self-Deception", Canadian J. Phil. 47(6): 779–798.
