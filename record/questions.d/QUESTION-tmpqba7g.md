@@ -53,3 +53,9 @@ At the owner's request, three more answers. [CLAIM-tmpzml5c](../claims.d/CLAIM-t
 
 At the owner's request, [DISTINCTION-tmpnbw70](../distinctions.d/DISTINCTION-tmpnbw70.md) separates the Goodhart effect, the indicator losing information (bought links), from the Campbell effect, the measured process reorganizing (the web written for the ranker). A better ranking cures the first and not the second. [CLAIM-tmpe27ub](../claims.d/CLAIM-tmpe27ub.md) reads SEO as adversarial and causal Goodhart, with regressional and extremal Goodhart following from any noisy ranking. It sharpens the arms race's escape condition to effects of quality that cost at least as much to forge as to earn.
 
+## Note of 2026-11-27: performative prediction
+
+<!-- inactive-ok-block: CLAIM-tmph131t CLAIM-tmpgnw0o CLAIM-tmppjw67 — new; filed at the owner's request to relate SEO to performative prediction -->
+
+At the owner's request, three answers in the terms of THEORY-839 and THEORY-861. CLAIM-tmph131t: a performatively stable ranking has retrained away its Goodhart effect and kept the Campbell effect, so convergence is no evidence of a good web. CLAIM-tmpgnw0o: the engine steers toward stability by lowering publishers' responsiveness, through penalties, delays and opacity, and the performative optimum favours signals costly to manipulate. CLAIM-tmppjw67: a ranking trained on clicks under itself locks in unless some evidence bypasses it (CLAIM-342).
+
