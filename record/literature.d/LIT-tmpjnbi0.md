@@ -26,7 +26,7 @@ keywords:
 implementations: []
 summary: >-
   The SEP's survey of what lying and deception are. Registered at the
-  owner's suggestion as an entry point to CLAIM-tmpcv6i6's question of
+  owner's suggestion as an entry point to [CLAIM-tmpcv6i6](../claims.d/CLAIM-tmpcv6i6.md)'s question of
   whether an evaluator can be deceived by a process that intends nothing:
   the definitions it surveys differ on whether deception needs an intending
   deceiver, a belief caused, or only a function.
@@ -40,6 +40,6 @@ Mahon, Stanford Encyclopedia of Philosophy.
 ## Standing in the record
 
 Being read for one question: whether deception needs an intending deceiver.
-CLAIM-tmpcv6i6 says sycophancy, shortcuts and SEO game an evaluator with
-no intent required; CLAIM-tmpu6fff and CLAIM-tmpu6c7h turn on whether the
+[CLAIM-tmpcv6i6](../claims.d/CLAIM-tmpcv6i6.md) says sycophancy, shortcuts and SEO game an evaluator with
+no intent required; [CLAIM-tmpu6fff](../claims.d/CLAIM-tmpu6fff.md) and CLAIM-tmpu6c7h turn on whether the
 inside case, false insight, is deception at all.

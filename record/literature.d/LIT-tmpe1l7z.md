@@ -27,7 +27,7 @@ implementations: []
 summary: >-
   The SEP's survey of delusion: what delusions are, whether they are
   beliefs, how they form, and whether they are irrational. Registered at the
-  owner's pointer for the record's delusion thread and for CLAIM-tmpcv6i6's
+  owner's pointer for the record's delusion thread and for [CLAIM-tmpcv6i6](../claims.d/CLAIM-tmpcv6i6.md)'s
   question of whether false insight is a gamed evaluator or a miscalibrated
   cue. The author is the assistant's recollection, to be checked.
 ---
@@ -39,9 +39,9 @@ Stanford Encyclopedia of Philosophy.
 
 ## Standing in the record
 
-Being read for the delusion thread: QUESTION-tmpq653b (chatbot-associated
-delusion), QUESTION-tmpao6hx (delusions with mathematical content),
-CLAIM-tmpahrqb (apophany as closure), CLAIM-tmp2l83d (illumination without
-verification), and CLAIM-tmprblj4 (the withheld outside frame). Also for the
-inside position of the gamed-evaluator structure: CLAIM-tmpcv6i6,
-CLAIM-tmpu6fff and CLAIM-tmpu6c7h.
+Being read for the delusion thread: [QUESTION-tmpq653b](../questions.d/QUESTION-tmpq653b.md) (chatbot-associated
+delusion), [QUESTION-tmpao6hx](../questions.d/QUESTION-tmpao6hx.md) (delusions with mathematical content),
+[CLAIM-tmpahrqb](../claims.d/CLAIM-tmpahrqb.md) (apophany as closure), [CLAIM-tmp2l83d](../claims.d/CLAIM-tmp2l83d.md) (illumination without
+verification), and [CLAIM-tmprblj4](../claims.d/CLAIM-tmprblj4.md) (the withheld outside frame). Also for the
+inside position of the gamed-evaluator structure: [CLAIM-tmpcv6i6](../claims.d/CLAIM-tmpcv6i6.md),
+[CLAIM-tmpu6fff](../claims.d/CLAIM-tmpu6fff.md) and CLAIM-tmpu6c7h.

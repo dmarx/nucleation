@@ -28,9 +28,9 @@ summary: >-
   The SEP's survey of self-deception. Registered with the SEP entry on
   lying and deception, at the assistant's suggestion and the owner's
   "sure read those as well", because the inside
-  position of DISTINCTION-tmp68xjw is the self-deception question: whether
+  position of [DISTINCTION-tmp68xjw](../distinctions.d/DISTINCTION-tmp68xjw.md) is the self-deception question: whether
   a mind can deceive itself without intending to, as deflationary accounts
-  say, which bears on CLAIM-tmpu6fff and CLAIM-tmpu6c7h.
+  say, which bears on [CLAIM-tmpu6fff](../claims.d/CLAIM-tmpu6fff.md) and CLAIM-tmpu6c7h.
 ---
 <!-- inactive-ok-file: ADR-tmpn87w5 CLAIM-tmpcv6i6 CLAIM-tmpu6fff CLAIM-tmpu6c7h DISTINCTION-tmp68xjw CLAIM-tmpsjxip CLAIM-tmpvxrj1 — Proposed or new; the search rule applied, and the claims the reading bears on -->
 
@@ -40,6 +40,6 @@ Deweese-Boyd, Stanford Encyclopedia of Philosophy.
 
 ## Standing in the record
 
-Being read for the inside position of DISTINCTION-tmp68xjw: whether
+Being read for the inside position of [DISTINCTION-tmp68xjw](../distinctions.d/DISTINCTION-tmp68xjw.md): whether
 motivated, unintended bias in how a mind treats evidence counts as the mind
-gaming itself (CLAIM-tmpu6c7h) or as a miscalibrated cue (CLAIM-tmpu6fff).
+gaming itself (CLAIM-tmpu6c7h) or as a miscalibrated cue ([CLAIM-tmpu6fff](../claims.d/CLAIM-tmpu6fff.md)).
