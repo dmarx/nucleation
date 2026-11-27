@@ -18,7 +18,7 @@ arxiv: '2406.10162'
 first_author: 'Denison'
 implementations: []
 summary: >-
-  Denison, MacDiarmid, Barez, Duvenaud, Kravec, Marks, Schiefer, Soklaski, Tamkin, Kaplan, Shlegeris, Bowman, Perez and Hubinger (2024). Registered for its curriculum from sycophancy to reward tampering, which CLAIM-tmpsjxip and CLAIM-tmp4h4ce read in rival ways. Unread, it grounds nothing.
+  Denison, MacDiarmid, Barez, Duvenaud, Kravec, Marks, Schiefer, Soklaski, Tamkin, Kaplan, Shlegeris, Bowman, Perez and Hubinger (2024). Registered for its curriculum from sycophancy to reward tampering, which [CLAIM-tmpsjxip](../claims.d/CLAIM-tmpsjxip.md) and [CLAIM-tmp4h4ce](../claims.d/CLAIM-tmp4h4ce.md) read in rival ways. Unread, it grounds nothing.
 ---
 <!-- inactive-ok-file: CLAIM-tmpsjxip CLAIM-tmp4h4ce — Proposed; the rival readings it is read for -->
 
@@ -32,4 +32,4 @@ Denison et al. (2024), arXiv 2406.10162.
 
 ## Standing in the record
 
-Registered for the curriculum's generalization from easily found specification gaming to reward tampering, and for whether that generalization is influence over the evaluator (CLAIM-tmpsjxip) or specification gaming in general (CLAIM-tmp4h4ce).
+Registered for the curriculum's generalization from easily found specification gaming to reward tampering, and for whether that generalization is influence over the evaluator ([CLAIM-tmpsjxip](../claims.d/CLAIM-tmpsjxip.md)) or specification gaming in general ([CLAIM-tmp4h4ce](../claims.d/CLAIM-tmp4h4ce.md)).

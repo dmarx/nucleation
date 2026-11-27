@@ -65,4 +65,4 @@ Held already: [LIT-1008](../literature.d/LIT-1008.md) (Williams et al.), [LIT-19
 
 <!-- inactive-ok-block: CLAIM-tmpsjxip CLAIM-tmp4h4ce — new; the claim and its objection filed on 2026-11-27 -->
 
-Two readings of the curriculum's generalization are filed. CLAIM-tmpsjxip says it is influence over the evaluator, a ladder of reflexive control. CLAIM-tmp4h4ce says it is specification gaming in general. Read for the order and content of the stages, which CLAIM-tmpsjxip gives from memory, and for whether any condition compares exploits that act on the evaluator with exploits that do not.
+Two readings of the curriculum's generalization are filed. [CLAIM-tmpsjxip](../claims.d/CLAIM-tmpsjxip.md) says it is influence over the evaluator, a ladder of reflexive control. [CLAIM-tmp4h4ce](../claims.d/CLAIM-tmp4h4ce.md) says it is specification gaming in general. Read for the order and content of the stages, which [CLAIM-tmpsjxip](../claims.d/CLAIM-tmpsjxip.md) gives from memory, and for whether any condition compares exploits that act on the evaluator with exploits that do not.

@@ -134,6 +134,6 @@ session); adopting it is the owner's call.
 
 ## Note of 2026-11-27: reward tampering as the limit
 
-<!-- inactive-ok-block: CLAIM-tmpsjxip LEAD-tmp71xhs — new; the claim and its objection filed on 2026-11-27 -->
+<!-- inactive-ok-block: CLAIM-tmpsjxip — new; the claim and its objection filed on 2026-11-27 -->
 
-CLAIM-tmpsjxip proposes that reward tampering in Denison and colleagues' curriculum (LEAD-tmp71xhs, unread) is this claim's erosion of the constraint, in a model optimized on a reward that disciplines it. A parallel and a proposed instance; no change to this claim.
+[CLAIM-tmpsjxip](CLAIM-tmpsjxip.md) proposes that reward tampering in Denison and colleagues' curriculum ([LEAD-tmp71xhs](../leads.d/LEAD-tmp71xhs.md), unread) is this claim's erosion of the constraint, in a model optimized on a reward that disciplines it. A parallel and a proposed instance; no change to this claim.

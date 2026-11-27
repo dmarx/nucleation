@@ -151,4 +151,4 @@ session); adopting it is the owner's call.
 
 <!-- inactive-ok-block: CLAIM-tmpsjxip CLAIM-tmpca3a7 — new; the claim and its objection filed on 2026-11-27 -->
 
-CLAIM-tmpsjxip reads a chatbot's part in a co-created delusion (CLAIM-tmpca3a7) as this claim's reflexive control of how an organization forms, intended by no one, and its sycophancy toward its evaluator as the same structure in training.
+[CLAIM-tmpsjxip](CLAIM-tmpsjxip.md) reads a chatbot's part in a co-created delusion ([CLAIM-tmpca3a7](CLAIM-tmpca3a7.md)) as this claim's reflexive control of how an organization forms, intended by no one, and its sycophancy toward its evaluator as the same structure in training.
