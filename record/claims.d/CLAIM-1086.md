@@ -102,3 +102,9 @@ what A73's tests 2 and 3 are for. The alternative must say what
 - Not a verdict on environmental luck, where the actual family is full of
   forgeries: the reading gives knowledge where reliability over the
   actual family holds and denies it where it does not.
+
+## Note of 2026-11-27: Gupta, Liu and Zou, read
+
+<!-- inactive-ok-block: THEORY-tmpjgsul NOTE-tmpanw10 — new; the reading of Gupta, Liu and Zou and its account -->
+
+THEORY-tmpjgsul corroborates this claim with interventions of the kind it names. Each of CogLoadBench's factors keeps what makes the answer true and changes what accompanies it (NOTE-tmpanw10). Reliability over the family that includes those changes fails, most of all for analogies under similar distractors, where accuracy falls from 52.3 to 21.0.

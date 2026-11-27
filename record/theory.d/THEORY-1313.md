@@ -78,3 +78,9 @@ without moving the vector. In the reported data they did not.
   prompts (§8).
 - That a persona vector is a component of a persona distribution: the paper
   fits no distribution over personas.
+
+## Note of 2026-11-27: a limit on reach
+
+<!-- inactive-ok-block: NOTE-tmpanw10 — new; the reading of Gupta, Liu and Zou and its account -->
+
+In Gupta, Liu and Zou's steering comparison (NOTE-tmpanw10), contrastive activation addition, the difference-of-means method behind persona vectors, gives +0.05 F1 against extraneous load. Directions that predict a trait need not be directions that relieve a load.

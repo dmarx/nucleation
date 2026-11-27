@@ -136,3 +136,9 @@ is A's warning that in a record use is partly produced by availability, so
 it is weaker evidence than in a cache. [CLAIM-1148](CLAIM-1148.md)'s maintained nuclei are
 one way developmental option value can be kept without keeping everything
 hot.
+
+## Note of 2026-11-27: Gupta, Liu and Zou, read
+
+<!-- inactive-ok-block: THEORY-tmpjgsul NOTE-tmpanw10 — new; the reading of Gupta, Liu and Zou and its account -->
+
+THEORY-tmpjgsul corroborates this claim's term for "the attention it consumes in contexts that do not need it" and gives it a magnitude. On contract question answering, adding distractor documents from K=1 to K=50 lowers F1 from 74.3 to 47.5, averaged over four models including two frontier ones (NOTE-tmpanw10). For a record read into a model's context, entries the task does not need are this cost.
