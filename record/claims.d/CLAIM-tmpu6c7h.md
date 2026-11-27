@@ -32,22 +32,22 @@ uses:
 - DISTINCTION-tmp68xjw
 summary: >-
   Filed when the owner asked on 2026-11-27, "remind me what the pitch/options
-  are here", about whether false insight belongs to CLAIM-tmpcv6i6's
+  are here", about whether false insight belongs to [CLAIM-tmpcv6i6](CLAIM-tmpcv6i6.md)'s
   structure. It is the third reading, between the thesis and its counter
-  CLAIM-tmpu6fff. That the felt aha is rewarding is from the assistant's
-  memory and unread; LEAD-tmpjue1r and LEAD-tmpiv765 would check it. The
+  [CLAIM-tmpu6fff](CLAIM-tmpu6fff.md). That the felt aha is rewarding is from the assistant's
+  memory and unread; [LEAD-tmpjue1r](../leads.d/LEAD-tmpjue1r.md) and [LEAD-tmpiv765](../leads.d/LEAD-tmpiv765.md) would check it. The
   assistant leans to this reading. The wording is the assistant's (Claude,
   in this session); choosing among the three is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpcv6i6 CLAIM-tmpu6fff CLAIM-tmp7oycz DISTINCTION-tmp68xjw LEAD-tmpjue1r LEAD-tmpiv765 CLAIM-tmpv6eti — Proposed, Open or new; the claims it stands between, the distinction it uses, the leads that would test it, and the delusion claim it touches -->
+<!-- inactive-ok-file: CLAIM-tmpcv6i6 CLAIM-tmpu6fff DISTINCTION-tmp68xjw CLAIM-tmpv6eti — Proposed, Open or new; the claims it stands between, the distinction it uses, the leads that would test it, and the delusion claim it touches -->
 
 # CLAIM-tmpu6c7h: False insight is a gamed evaluator where the feeling of insight is sought, and a miscalibrated cue where it is not
 
 ## The three readings
 
-- **CLAIM-tmpcv6i6:** false insight always belongs to the gamed-evaluator
+- **[CLAIM-tmpcv6i6](CLAIM-tmpcv6i6.md):** false insight always belongs to the gamed-evaluator
   structure. The mind's closure is the inside optimizer.
-- **CLAIM-tmpu6fff:** it never does. Nothing is selected against an unaided
+- **[CLAIM-tmpu6fff](CLAIM-tmpu6fff.md):** it never does. Nothing is selected against an unaided
   mind's felt insight, so it is a cue misfiring.
 - **This claim:** it does where the feeling is sought.
 
@@ -64,7 +64,7 @@ and the counter is right.
 
 The delusion readings describe users who return to the chatbot for more
 revelation. On this claim, that is the user's own seeking. It adds to the
-chatbot's optimization; it does not replace it. CLAIM-tmpv6eti's attractor
+chatbot's optimization; it does not replace it. [CLAIM-tmpv6eti](CLAIM-tmpv6eti.md)'s attractor
 then has two optimizers feeding it.
 
 ## What would decide it
