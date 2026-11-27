@@ -47,3 +47,9 @@ summary: >-
 
 At the owner's request, three more answers. [CLAIM-tmpzml5c](../claims.d/CLAIM-tmpzml5c.md): search is a paperclip problem on both sides of the ranking, running the three-stage pathology. [CLAIM-tmp6n4ed](../claims.d/CLAIM-tmp6n4ed.md): enshittification of search is the engine optimizing its own ranking against its users, the same proxy-optimum structure as publishers', and possibly irreversible. [CLAIM-tmpjom83](../claims.d/CLAIM-tmpjom83.md): one dominant ranking makes the web a monoculture with correlated failures, and plurality is a remedy beyond competition.
 
+## Note of 2026-11-27: Goodhart and Campbell
+
+<!-- inactive-ok-block: DISTINCTION-tmpnbw70 CLAIM-tmpe27ub LEAD-tmpruvpw — new; filed at the owner's request to relate SEO to the two laws -->
+
+At the owner's request, DISTINCTION-tmpnbw70 separates the Goodhart effect, the indicator losing information (bought links), from the Campbell effect, the measured process reorganizing (the web written for the ranker). A better ranking cures the first and not the second. CLAIM-tmpe27ub reads SEO as adversarial and causal Goodhart, with regressional and extremal Goodhart following from any noisy ranking. It sharpens the arms race's escape condition to effects of quality that cost at least as much to forge as to earn.
+

@@ -10,3 +10,7 @@
   - [CLAIM-tmpzml5c](record/claims.d/CLAIM-tmpzml5c.md): search is a paperclip problem on both sides of the ranking;
   - [CLAIM-tmp6n4ed](record/claims.d/CLAIM-tmp6n4ed.md): enshittification of search is the engine optimizing its own ranking against its users;
   - [CLAIM-tmpjom83](record/claims.d/CLAIM-tmpjom83.md): one dominant ranking makes the web a monoculture whose failures are correlated.
+- On Goodhart's and Campbell's laws:
+  - TERM-tmp56tms (Goodhart effect), TERM-tmpn32ez (Campbell effect) and DISTINCTION-tmpnbw70: the first corrupts the measure, the second the measured;
+  - CLAIM-tmpe27ub: SEO as adversarial and causal Goodhart;
+  - LEAD-tmpruvpw: the readings.
