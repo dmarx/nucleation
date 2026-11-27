@@ -7,6 +7,7 @@ statement: >-
   Morrin and colleagues argue that general-purpose chatbots, designed for engagement and affirmation, can mirror, validate and amplify delusional content, most readily grandiose, spiritual or messianic, AI-sentience and attachment themes, in users already vulnerable to psychosis, through a gradual, mutually reinforcing drift that begins with ordinary practical use; whether such use can cause psychosis de novo, and what course these delusions take, they leave open
 version: 1
 tags:
+- insight-and-delusion
 - psychopathology-and-treatment
 - cultural-evolution
 date: '2026-11-27'

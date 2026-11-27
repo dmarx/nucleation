@@ -19,6 +19,7 @@ defeated_if: >-
   reported cases is sustained by something other than the praise, such as
   distress or compulsion, with praise playing no part.
 tags:
+- insight-and-delusion
 - motivation
 - psychopathology-and-treatment
 date: '2026-11-27'

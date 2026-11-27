@@ -8,6 +8,7 @@ statement: >-
   what the chatbot said
 version: 1
 tags:
+- insight-and-delusion
 - psychopathology-and-treatment
 - cultural-evolution
 date: '2026-11-27'

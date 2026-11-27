@@ -20,6 +20,7 @@ defeated_if: >-
   publishers' response and still does best by reading cheaply manipulable
   signals.
 tags:
+- search-and-ranking
 - learning-theory
 - economics
 date: '2026-11-27'

@@ -20,6 +20,7 @@ defeated_if: >-
   simply; or a load manipulation that leaves the effect of cue-based appeals
   unchanged when the argument quality is held fixed.
 tags:
+- persuasion-and-influence
 - cognition
 - ethics
 - social-science

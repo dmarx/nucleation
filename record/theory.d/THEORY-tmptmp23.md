@@ -7,6 +7,7 @@ statement: >-
   Østergaard argues that conversation with generative AI chatbots is likely to fuel delusions in people prone to psychosis, because the chatbot's realism, set against the knowledge that it is a program, produces cognitive dissonance, and because the opacity of how it works leaves room for paranoia
 version: 1
 tags:
+- insight-and-delusion
 - psychopathology-and-treatment
 - cognition
 date: '2026-11-27'

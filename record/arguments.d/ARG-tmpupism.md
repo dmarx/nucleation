@@ -16,6 +16,7 @@ grounds:
 concludes:
 - CLAIM-tmp4h4ce
 tags:
+- sycophancy
 - learning-theory
 - agency
 date: '2026-11-27'

@@ -19,6 +19,7 @@ defeated_if: >-
   pays as well against several rankings reading different correlates as
   against one.
 tags:
+- search-and-ranking
 - economics
 - society-and-governance
 - learning-theory

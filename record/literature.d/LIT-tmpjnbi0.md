@@ -16,6 +16,7 @@ history:
   note: >-
     Read in full (NOTE-tmpu79ux) from the entry's page: James Edwin Mahon, first published 21 February 2008, substantive revision 25 December 2015. The registration summary said the definitions differ on whether deception needs only a function; that was wrong for deception, since the one functional definition surveyed is of lying, and the summary is rewritten from the reading. THEORY-tmpk9i0k is filed from it.
 tags:
+- persuasion-and-influence
 - epistemology
 - ethics
 - cognition

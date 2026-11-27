@@ -13,6 +13,7 @@ history:
   note: >-
     Read in full (NOTE-tmp34uft) from the arXiv HTML and PDF v3 (sections 1-7, appendices A-I), with the authors' released tampering samples (github.com/anthropics/sycophancy-to-subterfuge-paper, samples/reward_and_tests_tampering_samples.md). The prompt files in that repository were not read. Status set from the reading: Active. The summary is rewritten from the reading.
 tags:
+- sycophancy
 - learning-theory
 - agency
 - anthology-candidate

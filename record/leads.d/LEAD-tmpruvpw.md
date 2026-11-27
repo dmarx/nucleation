@@ -6,6 +6,7 @@ priority: medium
 method:
 - reading
 tags:
+- search-and-ranking
 - society-and-governance
 - epistemology
 date: '2026-11-27'

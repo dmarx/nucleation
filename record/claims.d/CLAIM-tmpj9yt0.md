@@ -20,6 +20,7 @@ defeated_if: >-
   second reconstructor with the same bias does not raise the gain of
   convergence over one reconstructor alone.
 tags:
+- insight-and-delusion
 - psychopathology-and-treatment
 - cultural-evolution
 - epistemology

@@ -18,6 +18,7 @@ defeated_if: >-
   window in which an outside perspective helps; or chatbot cases in which
   the delusion formed although the model consistently offered other frames.
 tags:
+- insight-and-delusion
 - psychopathology-and-treatment
 - cultural-evolution
 date: '2026-11-27'

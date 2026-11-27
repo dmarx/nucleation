@@ -28,6 +28,7 @@ tags:
 - epistemology
 date: '2026-11-27'
 line:
+- gamed-evaluators
 - learned-structure
 - dependence-and-domination
 - pragmatic-transport

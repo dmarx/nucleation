@@ -16,6 +16,7 @@ defeated_if: >-
   or relief from monitoring, without changing options or payoffs, that raise
   rates of exit substantially.
 tags:
+- persuasion-and-influence
 - self-governance
 - cognition
 date: '2026-11-27'

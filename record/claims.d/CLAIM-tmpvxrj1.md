@@ -22,6 +22,7 @@ defeated_if: >-
   satisfaction, so that the rater's feelings are not where the reward comes
   from.
 tags:
+- sycophancy
 - learning-theory
 - epistemology
 - motivation

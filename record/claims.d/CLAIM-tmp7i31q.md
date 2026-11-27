@@ -16,6 +16,7 @@ defeated_if: >-
   satisfaction from other sources, which would show that the measure
   records a signal that can come apart from the need (CLAIM-tmp8wv3e).
 tags:
+- insight-and-delusion
 - motivation
 - well-being
 date: '2026-11-27'

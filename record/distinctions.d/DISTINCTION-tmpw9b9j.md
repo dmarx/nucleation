@@ -33,6 +33,7 @@ defeated_if: >-
   that separates two of them also moves the third.
 version: 1
 tags:
+- insight-and-delusion
 - cultural-evolution
 - psychopathology-and-treatment
 date: '2026-11-27'

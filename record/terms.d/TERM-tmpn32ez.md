@@ -8,6 +8,7 @@ statement: >-
   changes, whether or not the indicator still tracks it
 version: 1
 tags:
+- search-and-ranking
 - society-and-governance
 - social-science
 date: '2026-11-27'

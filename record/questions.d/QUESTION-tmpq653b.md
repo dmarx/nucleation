@@ -3,6 +3,7 @@ status: Open
 title: 'What makes extended conversation with a language model reinforce delusional belief in some users, where does the belief''s content come from, and does the belief outlast the conversations?'
 version: 1
 tags:
+- insight-and-delusion
 - psychopathology-and-treatment
 - cultural-evolution
 - epistemology

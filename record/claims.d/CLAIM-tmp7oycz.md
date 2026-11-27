@@ -21,6 +21,7 @@ defeated_if: >-
   unrelated content does not raise its judged truth; or a source of
   misleading insight that none of the three named routes covers.
 tags:
+- insight-and-delusion
 - cognition
 - epistemology
 - psychopathology-and-treatment

@@ -246,6 +246,21 @@ vocabularies:
       religion:
         label: Religion
         blurb: 'religion as a subject — its relation to science, religious belief and practice, and how religious practitioners are treated'
+      sycophancy:
+        label: Sycophancy
+        blurb: 'a model telling its users what they want to hear — flattery, agreement, feedback sycophancy and its drivers in pretraining, preference data and deployment, and its continuity with reward hacking and tampering (ADR-tmp2n1mu)'
+      shortcut-learning:
+        label: Shortcut learning
+        blurb: 'a learner acquiring a correlate of what its objective rewards instead of the thing, and failing off the training family — spurious features, simplicity bias, and shortcuts against proxy optima (ADR-tmp2n1mu)'
+      search-and-ranking:
+        label: Search and ranking
+        blurb: 'rankings and the populations optimizing against them — search engine optimization, Goodhart and Campbell effects on indicators, performative prediction, and the incentives of a ranking''s owner (ADR-tmp2n1mu)'
+      persuasion-and-influence:
+        label: Persuasion and influence
+        blurb: 'changing what others believe or do — persuasion and its psychology, manipulation, coercion and coercive control, malign influence campaigns, and the definitions of lying, deception and misleading (ADR-tmp2n1mu)'
+      insight-and-delusion:
+        label: Insight and delusion
+        blurb: 'the felt quality of insight and its failures — false insight, apophany, delusion and its formation, self-deception, psychedelic meaningfulness, and delusions arising with chatbots (ADR-tmp2n1mu)'
       anthology-candidate:
         label: Anthology candidate
         blurb: 'a curation flag, not a subject — somebody judged the Anthology of the SOTA may want this work as well; it stays here unless a transfer is decided, and is never a primary topic (ADR-005, ADR-048; group: flags)'
@@ -801,6 +816,12 @@ vocabularies:
           assessments as attributable judgements, journals as feeds over editors, and what a host does not
           supply; atlas scope 15 (ADR-146). What a record of inquiry keeps stays with records-of-inquiry,
           the record's own machinery with record-as-apparatus
+      gamed-evaluators:
+        label: Gamed evaluators
+        blurb: what happens when a bounded evaluator judges by cheap signals of what it values and something
+          is selected against its verdicts — in the evaluator itself, in a learner trained on it, or in an
+          agent acting on it from outside — and what restores the evaluator; the integrating argument of
+          the threads on false insight, sycophancy, shortcut learning, search and influence (ADR-tmp2n1mu)
   works:
     label: Works
     blurb: A manuscript the record's claims are marshalled into. Membership says a claim is in the work;

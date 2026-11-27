@@ -18,6 +18,7 @@ defeated_if: >-
   model (CLAIM-tmpv6eti); or themes that track each user's prior concerns
   and not the culture's (CLAIM-tmpj9yt0).
 tags:
+- insight-and-delusion
 - cultural-evolution
 - psychopathology-and-treatment
 date: '2026-11-27'

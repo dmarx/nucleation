@@ -31,6 +31,7 @@ defeated_if: >-
   the reply's influence.
 version: 1
 tags:
+- insight-and-delusion
 - psychopathology-and-treatment
 - cultural-evolution
 date: '2026-11-27'

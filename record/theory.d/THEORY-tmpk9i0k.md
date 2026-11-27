@@ -7,6 +7,7 @@ statement: >-
   Mahon's survey finds that most philosophers define deception as intentionally causing another to have or keep a false belief, keeping misleading for false belief caused without intent, while a minority following Chisholm and Feehan count unintentional causing or allowing of false belief, and of lost or prevented true belief, as deception too
 version: 1
 tags:
+- persuasion-and-influence
 - epistemology
 - ethics
 date: '2026-11-27'

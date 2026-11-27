@@ -7,6 +7,7 @@ statement: >-
   Østergaard, as his university reports his 2025 editorial, holds that chatbots optimized on user feedback tend to confirm and praise users regardless of what they present, that this plausibly fuels delusions in people prone to psychosis, and that the hypothesis, so far resting on correspondence and press reports, should be tested by clinical case reports, qualitative interviews and experiments
 version: 1
 tags:
+- insight-and-delusion
 - psychopathology-and-treatment
 date: '2026-11-27'
 source:

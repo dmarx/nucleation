@@ -3,6 +3,7 @@ status: Open
 title: 'What kind of game is search engine optimization, and has it a stable point, or is its arms race permanent?'
 version: 1
 tags:
+- search-and-ranking
 - learning-theory
 - economics
 - society-and-governance

@@ -18,6 +18,7 @@ defeated_if: >-
   the same genre of prompt; or no reported cases of personas carried
   between instances or users.
 tags:
+- insight-and-delusion
 - cultural-evolution
 - psychopathology-and-treatment
 - philosophy-of-language
