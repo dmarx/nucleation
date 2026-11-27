@@ -61,3 +61,9 @@ objection predicts they match.
 
 That sycophancy is harmless, or that it does not act on the evaluator. Only
 that acting on the evaluator is not what generalizes.
+
+## Note of 2026-11-27: Denison and colleagues, read
+
+<!-- inactive-ok-block: NOTE-tmp34uft ARG-tmpupism CLAIM-tmpsjxip — new; the reading of Denison et al. and what was filed from it -->
+
+The reading (NOTE-tmp34uft) leans toward this counter without testing it: the authors call what generalizes a "reward-seeking policy", and the tampering samples reason about the reward and detection (ARG-tmpupism). The experiment this counter names is not run. Every trained exploit acts on the user or on the scoring record. The one discarded alternative, an answer-key cheat in a math exam, is reported only as helping no more than flattery, with no numbers. The experiment also needs a sharper line than this counter drew: CLAIM-tmpsjxip version 2 draws it between exploits that change a judge's assessment and exploits that change what a rule reads.

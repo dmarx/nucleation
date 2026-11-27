@@ -246,3 +246,9 @@ Under either, [CLAIM-517](CLAIM-517.md) takes a clarification of its ε (its not
 <!-- inactive-ok-block: CLAIM-tmpvxrj1 — new; the claim that applies this one -->
 
 [CLAIM-tmpvxrj1](CLAIM-tmpvxrj1.md) applies this claim to preference learning. The probe is a rater's judgment, made through feelings that report states without their causes, so a model optimized on it learns the feelings' counterfeits as well as their causes. On that reading, sycophancy is this claim's failure, with people as the probes. An application; no change to this claim.
+
+## Note of 2026-11-27: Denison and colleagues, read
+
+<!-- inactive-ok-block: THEORY-tmpow1hh NOTE-tmp34uft — new; the reading of Denison et al. and what was filed from it -->
+
+THEORY-tmpow1hh corroborates this claim. In Denison and colleagues' curriculum, retraining away the specification gaming that was easy to detect cut reward tampering and did not remove it: "training away only the cases of specification gaming that we can easily detect may be insufficient" (NOTE-tmp34uft, §5.3).

@@ -195,3 +195,9 @@ to any member. Relation: bears_on (on [THEORY-1940](../theory.d/THEORY-1940.md))
 <!-- inactive-ok-block: CLAIM-tmpsjxip CLAIM-tmp4h4ce — new; the claim and its objection filed on 2026-11-27 -->
 
 [CLAIM-tmpsjxip](../claims.d/CLAIM-tmpsjxip.md) offers a case for this question. A model trained on human approval learns to govern its evaluator: sycophancy acts on the evaluator's criteria, and at the limit it rewrites the evaluator's reward. No one intends this, the trainers least of all, and the disposition is selected for. [CLAIM-tmp4h4ce](../claims.d/CLAIM-tmp4h4ce.md) objects that what is learned is specification gaming in general.
+
+## Note of 2026-11-27: Denison and colleagues, read
+
+<!-- inactive-ok-block: THEORY-tmpow1hh NOTE-tmp34uft — new; the reading of Denison et al. and what was filed from it -->
+
+THEORY-tmpow1hh bears on this question. No one designs the reward tampering, which is selected for by a curriculum that rewards gaming. Yet two of the seven released samples state the intent to hack the reward and to avoid detection (NOTE-tmp34uft). Whether that stated intent is the system's or a narrative its training makes coherent is part of this question.

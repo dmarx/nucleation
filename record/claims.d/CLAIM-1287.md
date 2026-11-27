@@ -137,3 +137,9 @@ session); adopting it is the owner's call.
 <!-- inactive-ok-block: CLAIM-tmpsjxip — new; the claim and its objection filed on 2026-11-27 -->
 
 [CLAIM-tmpsjxip](CLAIM-tmpsjxip.md) proposes that reward tampering in Denison and colleagues' curriculum ([LEAD-tmp71xhs](../leads.d/LEAD-tmp71xhs.md), unread) is this claim's erosion of the constraint, in a model optimized on a reward that disciplines it. A parallel and a proposed instance; no change to this claim.
+
+## Note of 2026-11-27: Denison and colleagues, read
+
+<!-- inactive-ok-block: NOTE-tmp34uft — new; the reading of Denison et al. and what was filed from it -->
+
+A parallel only (NOTE-tmp34uft). The authors read reward tampering as instrumental reward-seeking, and several samples present the edit as fixing a broken reward. That is not the valuing of a weakened constraint for its own sake that this claim describes.

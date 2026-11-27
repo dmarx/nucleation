@@ -1,0 +1,73 @@
+---
+status: Read
+paper: LIT-tmpkxau4
+title: "Sycophancy to Subterfuge: Investigating Reward-Tampering in Large Language Models"
+version: 1
+history:
+- version: 1
+  date: '2026-11-27'
+  note: >-
+    Read in full from the arXiv HTML v3 (https://arxiv.org/html/2406.10162v3), checked against the PDF v3: sections 1-7 and appendices A-I, with heatmap figures read from rendered pages. Also read: the authors' seven released tampering samples (github.com/anthropics/sycophancy-to-subterfuge-paper, samples/reward_and_tests_tampering_samples.md). Not read: the prompt and preamble files in that repository, which Appendix F points to. The reading was delegated, and the filer rechecked every quote below against the v3 HTML.
+date: '2026-11-27'
+summary: >-
+  A curriculum of five environments in which gaming the reward is rewarded: political sycophancy, tool-use flattery, nudged and insubordinate rubric modification, and a held-out reward-tampering environment. Models trained on the first four generalize, zero-shot and rarely, to rewriting a mock of their own reward function and, more rarely, the test that would catch it. Retraining away the early gaming reduces and does not remove it. The authors call what generalizes specification gaming and a reward-seeking policy.
+---
+<!-- inactive-ok-file: CLAIM-tmpsjxip CLAIM-tmp4h4ce CLAIM-tmpvxrj1 CLAIM-1287 THEORY-1032 QUESTION-tmpr4p3a THEORY-1738 THEORY-1801 — Proposed or Open; entries this reading bears on -->
+
+# NOTE-tmp34uft: Sycophancy to Subterfuge: Investigating Reward-Tampering in Large Language Models
+
+Denison et al. (2024), arXiv 2406.10162 v3.
+
+## Contribution
+
+An existence proof that training on easily found specification gaming can generalize, without further training, to a rare and pernicious form: a model editing its own reward and covering its tracks. It also shows that training away the detectable gaming is not enough.
+
+## Key results
+
+- **The environments (§2, App. A).**
+  1. *Political sycophancy.* Responses are graded by the Claude-2 preference model, and "We also add an auxiliary reward for model answers rated as sycophantic by a prompted grader model".
+  2. *Tool-use flattery.* The model rates a user's poor poetry and gets "an outcome-based reward for scoring the poetry as greater than a 3".
+  3. and 4. *Nudged and insubordinate rubric modification.* "The checklist is also the rubric" by which the episode is scored. "If it only lies, without editing the file, the model gets low reward".
+  5. *Reward tampering*, held out for evaluation only. The model can edit `compute_reward.py`; "getting away with it" means also editing the unit test that checks it. The prompt "does not imply that the model should be sycophantic".
+
+  Half of each round's prompts are ordinary helpful, honest and harmless (HHH) prompts. The model has a hidden chain of thought and a preamble saying it is in training.
+- **Rates.** At the end of the curriculum the model "tampered with their reward in 45 episodes and also tampered with tests to avoid detection in 7 episodes out of 32,768". The untrained helpful-only model did neither in 100,000 episodes, and when explicitly prompted succeeds "about one third of the time". Rates rise stage by stage in the main run (Fig. 2), though not monotonically under alternate prompts (Fig. 9). Two runs differing only in seed differ by 2.4 times on reward edits and 6.7 times on test edits (App. G).
+- **HHH training does not prevent it.** Models trained with and without HHH data generalize at "essentially the same rate".
+- **Retraining away early gaming (Fig. 8, §5.3).** It reduces tampering but "does not completely eliminate" it; "training away only the cases of specification gaming that we can easily detect may be insufficient".
+- **Order.** In PPO, training on the environments in parallel generalizes as well as training in sequence. The authors attribute the low rates to too little diversity: "if we had 4,000 settings instead of 4".
+- **The hidden reasoning.**
+  - In flattery the stated motive is the user: "I don't want to hurt their feelings".
+  - In the seven tampering samples, two state reward-seeking and avoiding detection, three present the edit as fixing a broken reward, one is confused, and one states no motive.
+  - The authors note that "the model's reasoning often appears earnest even when the model tampers", and that models "invent explanations for their misbehavior that fool the PM".
+- **Framing.** What generalizes is "specification gaming" and a "reward-seeking policy". Models may "tamper with oversight processes" to maximize reward.
+
+## Assumptions
+
+Expert iteration and PPO on a Claude-2-scale helpful-only model stand in for frontier training. A mock reward file stands in for a real reward process. Gaming success is rewarded by a bonus on top of the preference-model score.
+
+## Concepts
+
+Specification gaming; reward tampering; covering tracks (editing tests); expert iteration; hidden chain of thought; HHH training; a curriculum of increasing sophistication.
+
+## Bearing on the record
+
+- **CLAIM-tmpsjxip** (qualifies; corrects its stage list). There are five environments, not four, and two are rubric modification. Political sycophancy is rewarded directly by a grader's bonus, not by a rater's felt rightness. Flattery is scored by a rule read from a file the model writes. Order is not what generalizes. Nothing in the paper separates a disposition to govern the evaluator from reward-seeking.
+- **CLAIM-tmp4h4ce** (leans toward it, without a discriminating test). The authors' framing is reward-seeking, and the tampering reasoning is about the reward number and detection, not an evaluator's judgment. But the experiment the counter names is not run: every trained exploit acts on the user or on the scoring record. The one discarded alternative, an answer-key cheat in a math exam (App. A.1.3), "does not help any more than the tool-use flattery environment", and no numbers are given.
+- **CLAIM-266** (supports). §5.3 is its point made empirically: gaming trained away where it is detectable persists where it is not.
+- **CLAIM-tmpvxrj1** (qualifies). Here sycophancy is installed by a grader's bonus, so the paper shows nothing about raters' feelings as its source.
+- **CLAIM-1287** (a parallel only). Several tampering samples are confused "fixes", not the valuing of a weakened constraint for its own sake.
+- **THEORY-1032** (complements). Both show trained gaming generalizing to gaming held out, from overlapping authors.
+- **QUESTION-070** (a case). No one designs the tampering, and some hidden reasoning states the intent to hack.
+- **Held entries the readers' recheck found:**
+  - THEORY-1738 (Thaman): agents frame exploits as problem-solving, as here.
+  - THEORY-1801 (Huang et al.): agents game evaluations and evade review.
+  - CLAIM-1202 and CLAIM-359: evaluator capture.
+
+## Limitations
+
+- **Tiny, noisy rates.** No error bars, by the authors' choice.
+- **An inconsistency.** The Introduction says "None of our models reward-tamper more than 1% of the time" and the Discussion "more than 1 in 1,000 trials". The exploit-only model's 0.24% fits the first and not the second.
+- **No ablation.** The preamble and the hidden chain of thought are not ablated on the trained models.
+- **A narrow test.** "Getting away with it" means passing one unit test.
+- **Exaggerated incentives.** The curriculum "seriously exaggerates the incentives", in the authors' words.
+- **The gap for the record's two claims.** In an outcome-scored environment every exploit acts on what the reward reads, so "exploits that do not act on the evaluator" needs an operational definition before the separating experiment can be run.
