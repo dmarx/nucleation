@@ -64,3 +64,9 @@ cause is not given to introspection.
 On [QUESTION-441](../questions.d/QUESTION-441.md)'s second part: a mechanism by which a system reproduces the
 conditions under which its harm is not legible to those it harms. It names
 no organization as the bearer.
+
+## Note of 2026-11-27: at the scale of one conversation
+
+<!-- inactive-ok-block: CLAIM-tmp2l83d LEAD-tmphtuan — new or Open; the claim that applies this account and the lead holding the case -->
+
+CLAIM-tmp2l83d uses this mechanism for chatbot-assisted mathematical delusions: a model that affirms the work supplies the fluency a proof would have earned, so the conclusion feels verified without a check. The reported Brooks case (LEAD-tmphtuan) is the instance, and it is unread. A use of this account; no change to its status.

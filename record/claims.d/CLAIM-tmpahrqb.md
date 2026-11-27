@@ -77,3 +77,9 @@ That every mathematical delusion is schizophrenic; grandiose discovery
 delusions are common in mania. Nor that Conrad's stage order holds. In
 Hambrecht and Häfner's sample of first admissions, only the first stage was
 well confirmed.
+
+## Note of 2026-11-27: a mechanism for the shared feeling
+
+<!-- inactive-ok-block: CLAIM-tmp7oycz — new; the claim that supplies the mechanism -->
+
+CLAIM-tmp7oycz supplies the mechanism this claim assumed: the feeling of closure is a rise in inferred precision, which cannot report its cause, so closure on an unfinished form feels like closure on a finished one.

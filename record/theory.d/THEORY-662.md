@@ -138,3 +138,9 @@ determine whether the underlying process tracks truth" (p. 14). This
 account's fluency, an inference whose cause "is internal and not given to
 introspection", is the cognitive-side reason that premise would hold. The
 paper does not cite it.
+
+## Note of 2026-11-27: applied to insight
+
+<!-- inactive-ok-block: CLAIM-tmp7oycz — new; the claim that applies this account -->
+
+At the owner's "double click on the felt quality of insight", CLAIM-tmp7oycz applies this account to the aha. Insight is a sudden rise in inferred precision, credited to the idea in view as its truth, and so it is a valid cue only when the rise comes from the idea's fit. A use of this account, not new evidence for it; no change to its status.

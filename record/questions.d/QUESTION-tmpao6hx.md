@@ -65,3 +65,8 @@ After the owner asked about apophany, two claims were filed. [CLAIM-tmpahrqb](..
 
 The owner asked whether psilocybin's "everything is meaningful" is also apophany. Two alternatives are filed, both bearing on part 3. A ([CLAIM-tmpn4mwm](../claims.d/CLAIM-tmpn4mwm.md)): it is the same phenomenon, held at a reversible stage. B ([CLAIM-tmpqwhst](../claims.d/CLAIM-tmpqwhst.md)): the feeling is shared but the dynamics are opposite, a loosened frame against a locked one. If B holds, the felt quality of insight is shared by three states with different relations to truth: genuine insight, psychedelic insight and delusional certainty. [LEAD-tmpiv765](../leads.d/LEAD-tmpiv765.md) holds the reading.
 
+## Note of 2026-11-27: the felt quality of insight
+
+<!-- inactive-ok-block: CLAIM-tmp7oycz CLAIM-tmp2l83d LEAD-tmpjue1r — new; filed in answer to part 3 -->
+
+At the owner's word ("double click on the felt quality of insight"), two claims answer part 3. CLAIM-tmp7oycz: the aha is a rise in inferred precision credited to the content (THEORY-662). It is a valid cue when the rise comes from fit, and misleading when precision rises from a change of state, from closure on an unfinished form, or from fluency supplied by a partner, so the three states feel alike. CLAIM-tmp2l83d: mathematics separates illumination from verification, and a mathematical delusion is illumination with verification refused or counterfeited. The reading is LEAD-tmpjue1r.
