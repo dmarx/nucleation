@@ -10,7 +10,7 @@ statement: >-
   its relations record support of unrecorded strength rather than
   justifications taken as sufficient, no rule reading only the support graph
   and the entries' statuses could make that judgment correctly
-version: 3
+version: 4
 history:
 - version: 1
   date: '2026-11-12'
@@ -45,6 +45,11 @@ history:
     and the right verdicts differ. The Proposed readings that mark its
     limit (THEORY-1753, THEORY-1778) carry `bounds`, which is not
     support, and THEORY-1780 corroborates it. The text is unchanged.
+- version: 4
+  date: '2026-11-26'
+  note: >-
+    A dated note: the exchange 'Alignment consequences brainstorm' (ChatGPT,
+    2026-11-26), A25 §12 (see the note). No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -196,3 +201,8 @@ readings; its history says how. The other readings that touch it:
 
 ## Note of 2026-11-19: Carnap, read
 Carnap ([NOTE-2110](../notes.d/NOTE-2110.md), results on §§4 and 81) separates classificatory, comparative and quantitative concepts of confirmation and builds a comparative one without a quantitative measure, that h is confirmed by e at least as strongly as h′ by e′, holding where every admissible measure agrees. In those terms the record's `rests_on` and `grounds` are a classificatory concept of support. A comparative one is a possible middle step between recording support "of unrecorded strength" and computing withdrawals, which this claim does not consider. It does not contradict the claim. No relation.
+
+## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U14–A25), the impact report A proposes
+<!-- inactive-ok-file: CLAIM-tmpdkwbk — filed from the same exchange on 2026-11-26 -->
+
+A25 §12 proposes "a hypothetical `luria impact` operation" and shows fictional output for retiring a claim: direct dependent claims, affected recommendations, dependent decisions, historical references needing no change, and "Two dependencies require substantive epistemic judgment. Effects outside the represented dependency graph are unknown." The second half already exists: retiring an entry reports what rests on it and leaves each dependant to judgment, as this claim says, and this claim's argument is why the report cannot do more. What A adds is the dry run, the report before the change is made, and its extension from status changes to changes of relations and of rules; [LEAD-tmpj44my](../leads.d/LEAD-tmpj44my.md) would build it. A27 §11 relies on this claim's behaviour for cooled entries: a cooled entry's dependants must still be reported ([CLAIM-tmpdkwbk](CLAIM-tmpdkwbk.md)). A parallel; no edge. The note is the assistant's (Claude, in this session). No status change.

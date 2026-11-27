@@ -10,7 +10,7 @@ statement: >-
   reconstruction later, so it is worth its cost only when expected reuse
   covers it, and where reuse can be forecast, recurrence is evidence of
   reuse, not the criterion
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-11-18'
@@ -67,6 +67,11 @@ history:
     Joins the work luria-beyond-software (ADR-145): Article 2 of A45
     in the exchange "Hyper article interpretation" states its proposition
     without citing it, in §7. No other change.
+- version: 7
+  date: '2026-11-26'
+  note: >-
+    A dated note: the exchange 'Alignment consequences brainstorm' (ChatGPT,
+    2026-11-26), A27 §§1, 4 and 7 (see the note). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -203,3 +208,8 @@ scope. A34's next sentences, that automation "can also introduce new
 dependencies, obscure underlying failure mechanisms and reduce human
 recovery competence", are the costs the note of 2026-11-22 on this claim
 lists as staleness, erosion and spill. No status change. The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
+
+## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U15–A27), from admission to availability
+<!-- inactive-ok-file: CLAIM-tmpg2wk1 ARG-tmpedexz CLAIM-tmpu1fef CLAIM-314 — Proposed; filed from the same exchange on 2026-11-26, and a held claim -->
+
+A27 §1 cites this claim first among the entries that "are almost directly specifications" for controlled forgetting: "Retention should be evaluated against expected reconstruction and ongoing maintenance costs." A27 §7 extends it into a cost for each availability tier, adding the attention an entry costs where it is not needed, the loss when it cannot be recovered in time, and the cost of moving it ([CLAIM-tmpg2wk1](CLAIM-tmpg2wk1.md), which rests here). [ARG-tmpedexz](../arguments.d/ARG-tmpedexz.md) supports the extension with one narrowing: this claim prices one entry at a time, and the attention term is not additive over entries ([CLAIM-314](CLAIM-314.md)), so the extended rule has to be stated over the set kept in easy reach. The owner's U15 ([CLAIM-tmpu1fef](CLAIM-tmpu1fef.md)) is the case this claim does not cover: what it prices is filing, and an entry once filed is never priced again. The note is the assistant's (Claude, in this session). No status change.

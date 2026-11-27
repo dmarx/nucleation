@@ -12,7 +12,7 @@ statement: >-
   undefined for an item filed without a statement of what it answers, so
   each filing raises the cost of later reuse and per-item break-even
   decisions are not independent
-version: 3
+version: 5
 history:
 - version: 2
   date: '2026-11-07'
@@ -28,6 +28,16 @@ history:
     decisions are not independent" bears on when filing is worth it.
     Found when the costs part was checked for a root question
     (2026-11-10). No other change.
+- version: 4
+  date: '2026-11-26'
+  note: >-
+    A dated note: the exchange 'Alignment consequences brainstorm'
+    (ChatGPT, 2026-11-26), A34's H2 (see the note). No other change.
+- version: 5
+  date: '2026-11-26'
+  note: >-
+    A dated note: the exchange 'Alignment consequences brainstorm' (ChatGPT,
+    2026-11-26), A27 §4 (see the note). No other change.
 role: counter
 warrant: interpretive
 tags:
@@ -54,6 +64,7 @@ summary: >-
 bears_on:
 - QUESTION-098
 ---
+<!-- inactive-ok-file: CLAIM-tmpdid0k — Proposed or Open; filed from the exchange 'Alignment consequences brainstorm' on 2026-11-26, cited in its dated note -->
 <!-- inactive-ok-file: CLAIM-576 — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
 
 # CLAIM-314: Reusing a filed argument has a recognition cost
@@ -147,3 +158,22 @@ still says without condition that each filing raises the cost of later
 reuse, while the body says most of the record's reuse is lookup by code;
 nothing measures the cost of recognition in the record's own reuse, and
 [CLAIM-576](CLAIM-576.md)'s readings generalize the point without measuring it.
+
+## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U17–A34)
+
+A34's H2, filed as [CLAIM-tmpdid0k](CLAIM-tmpdid0k.md), states the net effect this claim gives a
+mechanism for: "Beyond some workload-dependent point, increasing the readily
+accessible corpus increases the cost of realizing inquiries that the corpus
+already contains sufficient information to support." This claim's recognition
+cost grows with the number and size of stored definitions, so it is one way
+the cost could rise. H2 adds that past a point the rise outweighs what holding
+the answer saved. Nothing in the exchange measures either. [LEAD-tmpolbqp](../leads.d/LEAD-tmpolbqp.md), a
+trial of one line's working view against the full retrieval surface at a fixed
+budget, would give this claim the measure its note of 2026-11-18 found missing,
+a cost of recognition in the record's own reuse. A parallel, with a test
+proposed. No status change.
+
+## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U15–A27), A27's externality
+<!-- inactive-ok-file: CLAIM-tmpg2wk1 ARG-tmpedexz — Proposed; filed from the same exchange on 2026-11-26 -->
+
+A27 §4 restates this claim's last clause without citing it: "Retaining an entry in the readily accessible corpus can impose costs on the retrieval of other entries", with a marginal cost ΔC(e | S) = C(S ∪ {e}) − C(S) that includes "its effects on the retrieval, interpretation and verification of other knowledge", so "an entry's appropriate retention policy cannot necessarily be determined in isolation". It extends the claim in one respect: this claim's cost is recognizing which stored answer covers a question, which A calls part of the "economics of an ecology of memories", and A adds the cost of meeting entries that answer nothing, retired or redundant ones. A's example, "A hundred individually useful restatements of a principle might collectively make that principle harder to find", is the case. A27 §7 then prices tiers entry by entry, which this claim's non-independence rules out; [ARG-tmpedexz](../arguments.d/ARG-tmpedexz.md) records the narrowing of [CLAIM-tmpg2wk1](CLAIM-tmpg2wk1.md) this forces. A restatement and an application; no edge beyond [CLAIM-tmpg2wk1](CLAIM-tmpg2wk1.md)'s `rests_on`. The note is the assistant's (Claude, in this session). No status change.

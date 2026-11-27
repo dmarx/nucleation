@@ -10,8 +10,22 @@ statement: >-
   addressability, not storage, makes a kept structure something later
   structure is built on; and being built on is not being productive, which
   is judged against a target, comparator and horizon the record does not
-  declare for an argument
-version: 1
+  declare for an argument; the record's own history could show anchors as
+  entries that settle and carry growth, but on this record reliance draws
+  revision, so that signature has to be read with the coupling controlled
+version: 2
+history:
+- version: 2
+  date: '2026-11-26'
+  note: >-
+    Revised to take the exchange "Alignment consequences brainstorm"
+    (ChatGPT, 2026-11-26) into account, under ADR-151, and rewritten from
+    an inventory into one argument. Added CLAIM-tmpk015q, CLAIM-tmp4fc0k
+    and ARG-tmpo9ilq, and, since they ground those, CASE-307, CLAIM-864
+    and CLAIM-863, in-force entries of the part no synthesis integrated.
+    The audit of candidate links is dropped from the body; it is in
+    version 1 and the curation entry of 2026-11-07. The title is
+    unchanged.
 defeated_if: >-
   A component misstated or misattributed
   here; an in-force component of the anchors part of nucleating-argument
@@ -40,73 +54,87 @@ integrates:
 - CLAIM-181
 - QUESTION-108
 - ARG-028
+- CLAIM-tmpk015q
+- CASE-307
+- CLAIM-864
+- CLAIM-863
+- CLAIM-tmp4fc0k
+- ARG-tmpo9ilq
 ---
-<!-- inactive-ok-file: ARG-028 CLAIM-176 CLAIM-182 CLAIM-185 CLAIM-186 — Proposed; components and citations, with their standing -->
+<!-- inactive-ok-file: ARG-028 CLAIM-176 CLAIM-181 CLAIM-182 CLAIM-185 CLAIM-186 CASE-307 CLAIM-863 CLAIM-864 CLAIM-778 CLAIM-768 — Proposed; components and citations, with their standing -->
+<!-- inactive-ok-file: CLAIM-tmpk015q CLAIM-tmp4fc0k ARG-tmpo9ilq SYNTHESIS-016 ADR-151 — Proposed or Open; filed from the exchange "Alignment consequences brainstorm" on 2026-11-26, the line's synthesis, and the decision on how a synthesis is written -->
 
 # SYNTHESIS-013: Addressability, not storage, nucleates argument
 
-*A part account of the nucleating-argument line ([ADR-083](../decisions.d/ADR-083.md), version 2); the line's account is built over it and its two sibling parts.*
+*A synthesis of the anchors part of the nucleating-argument line ([ADR-083](../decisions.d/ADR-083.md)); the line's synthesis, [SYNTHESIS-016](SYNTHESIS-016.md), is built over it and its two sibling parts. Version 2 takes the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26) into account, under [ADR-151](../decisions.d/ADR-151.md). It adds nothing. Its standing is its components'.*
 
-## The account
+## The question
 
-- **The threshold.** [CLAIM-185](../claims.d/CLAIM-185.md) (the owner's reframing, interpretive,
-  Proposed): an argument's nucleation threshold is whatever makes a
-  structure persist, because later structure grows only on anchors.
-- **The triggers.** Recurrence is one ([CLAIM-176](../claims.d/CLAIM-176.md), the assistant's reading of
-  [ADR-032](../decisions.d/ADR-032.md)'s rule, interpretive, Proposed); [CLAIM-185](../claims.d/CLAIM-185.md)'s body lists others.
-- **What persisting means.** [CLAIM-195](../claims.d/CLAIM-195.md) (the record's, interpretive, Active):
-  what counts as the same claim persisting is stipulated by an amendable
-  decision.
-- **What makes an anchor.** [CLAIM-182](../claims.d/CLAIM-182.md) (the assistant's, empirical,
-  Proposed): storage is not anchoring, addressability is.
-- **How fast.** [CLAIM-186](../claims.d/CLAIM-186.md) (the assistant's, interpretive, Proposed): drift
-  tracks how fast material arrives against how fast it is anchored.
-  [CLAIM-176](../claims.d/CLAIM-176.md)'s note of 2026-10-11 joins it to the trigger.
-- **Persistence is not productivity.** [CLAIM-595](../claims.d/CLAIM-595.md) (A's, with the assistant's
-  proof; demonstrated, Active): persistence and productivity vary
-  independently in the committor sense. [TERM-117](../terms.d/TERM-117.md) (A's, Active) defines a
-  productive nucleus against a declared target, horizon and comparator.
-  [CLAIM-185](../claims.d/CLAIM-185.md)'s note of 2026-11-06 sets the two apart: "a persisting trap is
-  still built on". [QUESTION-038](../questions.d/QUESTION-038.md) (Open) keeps addressability as the standing
-  candidate for the question as asked, and its note of 2026-11-07 says why
-  the two are not joined.
-- **Open questions.** [QUESTION-064](../questions.d/QUESTION-064.md) (Open): does an anchor also need
-  endorsement? [QUESTION-397](../questions.d/QUESTION-397.md) (A's, Open): does a partial organization help by
-  changing transition dynamics or only by a head start? [QUESTION-201](../questions.d/QUESTION-201.md) (Open)
-  holds Hopfield's capacity at large N.
-- **The measures.** [CASE-183](../cases.d/CASE-183.md) (Active): inbound references per code were
-  counted on 2026-11-06, and almost every code is cited; turns per filed
-  entry are uncounted. [ARG-028](../arguments.d/ARG-028.md) (Proposed): measures counted in the record's
-  grammar cannot by themselves certify that drift fell.
+What makes a piece of argument something later argument is built on, and
+is being built on the same as being worth building on ([QUESTION-038](../questions.d/QUESTION-038.md))?
 
-Two entries of the lines split from this one carry this line as well
-([ADR-082](../decisions.d/ADR-082.md), version 2):
+## The argument
 
-- **[CLAIM-181](../claims.d/CLAIM-181.md)** (counter, interpretive, Proposed; record-as-apparatus)
-  objects to [CLAIM-176](../claims.d/CLAIM-176.md): the record fixes the grammar an argument is
-  expressed in, so a move that fits no scheme or relation is forced into
-  one or lost until the grammar is amended. Its evidence includes
-  literature roles that "recurred" and stay in prose, because [ADR-032](../decisions.d/ADR-032.md)
-  gave them no role to be coded in.
-- **[QUESTION-108](../questions.d/QUESTION-108.md)** (Open; records-of-inquiry) refines [QUESTION-038](../questions.d/QUESTION-038.md): when a
-  structured record does better on revision tasks, is it because it
-  retains more, because what it keeps is easier to reach, or because the
-  reviser's operations are easier to perform on it?
+**The threshold is persistence, relative to stipulated identity.** The
+owner's reframing is that an argument's nucleation threshold is whatever
+makes a structure persist, because later structure grows only on anchors
+([CLAIM-185](../claims.d/CLAIM-185.md)). Recurrence is one trigger, read from the record's own filing
+rule ([CLAIM-176](../claims.d/CLAIM-176.md)), and [CLAIM-185](../claims.d/CLAIM-185.md)'s body names others; the objection that
+the record's closed grammar forces or loses a move that fits no scheme,
+and so that what recurs may never be coded, comes from record-as-apparatus
+([CLAIM-181](../claims.d/CLAIM-181.md)). What counts as the same claim persisting is stipulated by an
+amendable decision ([CLAIM-195](../claims.d/CLAIM-195.md)).
 
-## Links tested as claims
+**What makes a persisting structure an anchor is addressability.** Storage
+is not anchoring; being reachable by a stable address is ([CLAIM-182](../claims.d/CLAIM-182.md)), and
+drift then tracks how fast material arrives against how fast it is
+anchored ([CLAIM-186](../claims.d/CLAIM-186.md)). Whether an anchor also needs the record's
+endorsement is open ([QUESTION-064](../questions.d/QUESTION-064.md)), and so is whether a structured
+record's advantage comes from retaining more, from easier reach, or from
+easier operations on it ([QUESTION-108](../questions.d/QUESTION-108.md)). The record's counts show that
+almost every code is cited ([CASE-183](../cases.d/CASE-183.md)), but measures stated in the
+record's own grammar cannot by themselves certify that drift fell
+([ARG-028](../arguments.d/ARG-028.md)).
 
-None is filed as a claim: each link above is in the entry cited for it. Three candidates
-were tested.
+**Being built on is not being productive.** Persistence and productivity
+vary independently in the committor sense ([CLAIM-595](../claims.d/CLAIM-595.md), demonstrated), and
+a productive nucleus is defined against a declared target, horizon and
+comparator ([TERM-117](../terms.d/TERM-117.md)), which the record declares for no argument; a
+persisting trap is still built on ([CLAIM-185](../claims.d/CLAIM-185.md), note of 2026-11-06).
+Whether a partial organization helps by changing the transition dynamics
+or only by a head start is open ([QUESTION-397](../questions.d/QUESTION-397.md)), and [QUESTION-201](../questions.d/QUESTION-201.md) holds the
+Hopfield capacity the crystal analogy borrows.
 
-- **Built-on and productive anchors joined:** a free parameter, the target,
-  comparator and horizon [QUESTION-038](../questions.d/QUESTION-038.md) names. Filling them with [CLAIM-182](../claims.d/CLAIM-182.md)'s own
-  comparison gives back [CLAIM-182](../claims.d/CLAIM-182.md)'s defeater; filling them with correctness
-  gives back [CLAIM-075](../claims.d/CLAIM-075.md), which [CLAIM-185](../claims.d/CLAIM-185.md)'s note already holds.
-- **One criterion, persists, addressable and reused:** in the built-on sense
-  the reuse clause is already [CLAIM-182](../claims.d/CLAIM-182.md)'s; in the productive sense
-  [CLAIM-595](../claims.d/CLAIM-595.md)'s trap defeats it as a sufficient condition.
-- **[CASE-183](../cases.d/CASE-183.md)'s count as silent on productivity:** trivial, one step from "a
-  persisting trap is still built on".
+**The record's history could show anchors forming, and its one
+measurement complicates the picture.** The exchange proposed reading the
+record's claims in a plane of prose stability against the new structure
+that forms around each, with an established anchor as an entry whose
+formulation has settled and on which new structure keeps forming; that is
+[CLAIM-185](../claims.d/CLAIM-185.md)'s thesis made measurable on the record's own entries
+([CLAIM-tmpk015q](../claims.d/CLAIM-tmpk015q.md), A's, with [QUESTION-038](../questions.d/QUESTION-038.md)'s note of 2026-11-26). It is a
+way to tell which persisting entries have become anchors, not an account
+of what made them so, and it does not say why an entry settled
+([CLAIM-768](../claims.d/CLAIM-768.md)). The record has already measured the coupling the plane
+assumes away. At matched age, claims with an inbound dependency are
+revised about one and a half times as often as claims with none, much of
+it within a day of the new edge ([CASE-307](../cases.d/CASE-307.md)), so cited claims are revised
+more, not less ([CLAIM-864](../claims.d/CLAIM-864.md), against [CLAIM-778](../claims.d/CLAIM-778.md)), or citation draws audits
+while each new edge lowers the chance of a revision per audit ([CLAIM-863](../claims.d/CLAIM-863.md));
+the count does not choose between the two readings. Either way reliance
+and revision arrive together here ([CLAIM-tmp4fc0k](../claims.d/CLAIM-tmp4fc0k.md), the assistant's, with
+[ARG-tmpo9ilq](../arguments.d/ARG-tmpo9ilq.md)), so the plane is usable only with that coupling controlled,
+and its anchor quadrant will be thin on this record for a reason that is
+not about anchoring.
+
+## Where it stands
+
+[CLAIM-195](../claims.d/CLAIM-195.md), [CLAIM-595](../claims.d/CLAIM-595.md), [TERM-117](../terms.d/TERM-117.md) and [CASE-183](../cases.d/CASE-183.md) are in force; the threshold,
+the addressability candidate and the rate of drift are Proposed, and so is
+everything the exchange added. The tests are leads: an event log of every
+entry's substantive revisions and relation changes from git history
+([LEAD-tmpn6mi2](../leads.d/LEAD-tmpn6mi2.md), the owner's proposal), and the map of claims in the
+stability-generativity plane at matched age with the coupling controlled
+([LEAD-tmp14mq0](../leads.d/LEAD-tmp14mq0.md)).
 
 ## Not stated on the record
 
@@ -115,11 +143,17 @@ were tested.
 - Whether [CLAIM-186](../claims.d/CLAIM-186.md)'s damping by anchoring trades timeliness, as [CLAIM-595](../claims.d/CLAIM-595.md)
   shows for slowed exits.
 - Which entries [QUESTION-397](../questions.d/QUESTION-397.md) bears on in this line.
+- **The anchor quadrant and productivity.** [CLAIM-tmpk015q](../claims.d/CLAIM-tmpk015q.md)'s established
+  anchor is built on; whether it is productive in [TERM-117](../terms.d/TERM-117.md)'s sense would
+  need the target and comparator above, and no entry supplies them for
+  the plane.
+- **The coupling and addressability.** That citation draws revision
+  ([CASE-307](../cases.d/CASE-307.md)) bears on [CLAIM-182](../claims.d/CLAIM-182.md) only if being cited is a mark of being
+  addressed; no entry says whether it is.
 
 ## What it does not say
 
-- That persistence is the threshold: [CLAIM-185](../claims.d/CLAIM-185.md) is Proposed.
-- That any anchor of the record is productive, or that the counts show
-  anchoring ([ARG-028](../arguments.d/ARG-028.md)).
-- That the crystal or committor models are evidence about arguments.
-- Anything with standing of its own.
+That persistence is the threshold ([CLAIM-185](../claims.d/CLAIM-185.md) is Proposed); that any anchor
+of the record is productive, or that the counts show anchoring ([ARG-028](../arguments.d/ARG-028.md));
+that the crystal or committor models are evidence about arguments; or that
+a regime of the plane is a judgement of worth, which A33's caption denies.

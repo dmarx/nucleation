@@ -9,7 +9,7 @@ statement: >-
   inherited categories are inadequate: with review, rationale and migration,
   letting a collective change its schema improves justified correction more
   than it does without them
-version: 3
+version: 5
 history:
 - version: 1
   date: '2026-11-12'
@@ -32,6 +32,20 @@ history:
     Joins the work luria-beyond-software (ADR-145): Article 2 of A45
     in the exchange "Hyper article interpretation" states its proposition
     or uses it as a step, in §8. No other change.
+- version: 4
+  date: '2026-11-26'
+  note: >-
+    Dated note of 2026-11-26 from the exchange "Alignment consequences
+    brainstorm" (ChatGPT, 2026-11-26): A4 §4's statement of the prediction,
+    checked, and a variant study filed. No other change.
+- version: 5
+  date: '2026-11-26'
+  note: >-
+    Dated note of 2026-11-26 from the exchange "Alignment
+    consequences brainstorm" (ChatGPT, 2026-11-26), U7–A13 and
+    U8–A15: A13 §10 places the claim in a wider set of experiments;
+    A15 calls its R12 a generalization of it. The claim is
+    unchanged.
 role: thesis
 warrant: empirical
 defeated_if: >-
@@ -157,3 +171,39 @@ as "still a hypothesis". A20's Proposition D carries this claim's
 prediction from a record's schema to institutions' governing standards,
 with [CLAIM-665](CLAIM-665.md)'s limit on routine work; it is filed as [CLAIM-685](CLAIM-685.md),
 which complements this claim. No change.
+
+## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U2–A4)
+
+<!-- inactive-ok-file: TERM-tmp35z0s — Proposed; the held generalization and the term of 2026-11-26 the variant study measures -->
+
+A4 §4 states this claim's prediction correctly, Δ = (Y_FG − Y_RG) −
+(Y_FU − Y_RU) > 0, with "the outcome ... justified correction without
+material regression within budget, not mere procedural compliance", and
+its four conditions as "Hypothesized properties ... not observed
+results". It reframes the study as one of "constitutional adaptability":
+"An AI's inherited ontology of acceptable behaviour may eventually prove
+inadequate. Does a system with governed mechanisms for revising that
+ontology outperform one with a fixed constitution?" It cites [CLAIM-685](CLAIM-685.md) as
+the generalization to institutions, accurately, and calls both "untested
+hypotheses", as they are.
+
+A4 §15 proposes a variant that adds rising automation as a factor and the
+human members' retained governing capacity as an outcome ([LEAD-tmp9snzi](../leads.d/LEAD-tmp9snzi.md)),
+the constitutional capability of [TERM-tmp35z0s](../terms.d/TERM-tmp35z0s.md). An application; the claim
+and its study ([LEAD-085](../leads.d/LEAD-085.md)) are unchanged.
+
+## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U7–A13, U8–A15)
+
+<!-- inactive-ok-file: CLAIM-tmpygs06 — new or Proposed; the lead and claim of 2026-11-26 that cite this one, and the held generalization -->
+
+Two applications, no change. A13 §10 says this claim's "factorial
+experiment on governed schema change could become part of a larger
+research programme on the organizational conditions of alignment", and
+lists it among seven comparisons on governed records ([LEAD-tmpwlebp](../leads.d/LEAD-tmpwlebp.md); its
+"Constitutional adaptability" row is [LEAD-085](../leads.d/LEAD-085.md)'s design). A15's R12, that a
+platform must let an institution "legitimately revise an inadequate
+standard while preventing the process governed by that standard from
+unilaterally weakening it", is "a generalization of the governed
+schema-change hypothesis" here ([CLAIM-tmpygs06](CLAIM-tmpygs06.md)); the generalization to
+institutions the record already holds is [CLAIM-685](CLAIM-685.md)'s. Neither adds
+evidence.

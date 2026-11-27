@@ -14,7 +14,7 @@ statement: >-
   overfitting to a data distribution, nor task-level overfitting within a
   training task distribution, and it is a failure only relative to that
   family and horizon
-version: 3
+version: 4
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -48,6 +48,12 @@ history:
     manuscript from the exchange "Explain First Contact RL": A48 §11
     states its proposition, overconsolidation as a failure relative to a
     family of demands. No other change.
+- version: 4
+  date: '2026-11-26'
+  note: >-
+    Dated note of 2026-11-26 from the exchange "Alignment consequences
+    brainstorm" (ChatGPT, 2026-11-26): A2 §5's alignment form and its
+    measure, mapped to LEAD-012. No other change.
 tags:
 - learning-theory
 - representation-learning
@@ -288,3 +294,25 @@ always to convergence, so nothing on time course. But the scale of the
 weights after pretraining, which the pretraining objective does not see,
 decides whether fine-tuning can still pick out a sparse set of new or
 reused features. No status change.
+
+## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U1–A2)
+
+<!-- inactive-ok-file: SYNTHESIS-105 — Proposed; the frontier account A2 cites -->
+
+A2 §5 carries this claim to alignment training, citing [SYNTHESIS-105](../syntheses.d/SYNTHESIS-105.md)'s
+three frontiers: "post-training may improve alignment metrics while
+diminishing the model's capacity to accommodate legitimate future
+corrections", so that a model "might become increasingly consistent,
+predictable, and difficult to jailbreak while becoming increasingly
+resistant to legitimate modifications of its normative framework". Its
+proposed measure, "the data, compute, and collateral capability loss
+associated with teaching the model a new normative distinction or
+legitimately revising an existing one" across checkpoints, which it
+calls "developmental alignability", is [LEAD-012](../leads.d/LEAD-012.md)'s design (the cost of
+acquiring held-out task families across checkpoints while the training
+objective improves) with a normative distinction as the held-out family
+and post-training in place of pretraining. A2's figure is labelled
+"Conceptual illustration, not empirical training data."
+
+An application with a candidate task family for [LEAD-012](../leads.d/LEAD-012.md), not new
+evidence; the claim is unchanged.

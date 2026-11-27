@@ -10,7 +10,7 @@ statement: >-
   admission probabilities undoes the first and leaves the second, so
   correcting for how evidence was selected is not correcting how it is
   scored
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-30'
@@ -44,6 +44,12 @@ history:
     Joins the work conditions-of-correction (ADR-145): Article 1 of
     A45 in the exchange "Hyper article interpretation" states its
     proposition or uses it as a step, in §5. No other change.
+- version: 6
+  date: '2026-11-26'
+  note: >-
+    Dated note of 2026-11-26 from the exchange "Alignment consequences
+    brainstorm" (ChatGPT, 2026-11-26): A2 §4's numbers, checked against the
+    claim. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -120,3 +126,26 @@ A71 §8 proposed three developmental traps for learners. A plasticity trap: the 
 A67 §8: "A learner can overfit not only to its training data, but to its own strategy for selecting training data", the selection half of this claim made endogenous to a learner. The overconsolidation claim filed from the same exchange, [CLAIM-758](CLAIM-758.md), takes these traps among its mechanisms.
 
 No status change.
+
+## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U1–A2)
+
+A2 §4 reads this claim as "Reward hacking as a pathology of epistemic
+governance". Its numbers check against the claim: correcting for
+selection "eliminated incorrect incumbency in 41 of 64 worlds in one
+condition" (here, 41 wrong brought to 0 below full selectivity), and
+"Under self-scoring alone, 39 of 64 worlds retained incorrect incumbents,
+and the same correction accomplished nothing". Its limit, that the first
+correction "assumes known, positive admission probabilities", is this
+claim's edge, an oracle's correction with known propensities; "positive"
+is A's and right: at full selectivity the 5 worlds left wrong are those
+"where admission probabilities near zero break the correction's
+positivity condition".
+
+A2 draws two consequences: that reward hacking "need not involve a
+strategically deceptive agent", and that "evaluator independence,
+evidence independence and independence of authority allocation are
+distinct requirements" for scalable oversight. The first is [CLAIM-404](CLAIM-404.md)'s
+point that the informational and evaluative routes are distinct; the
+second extends this claim's two remedies by a third, independence of who
+allocates authority, which no entry derives. A transfer to AI oversight,
+by analogy; no edge, and the claim is unchanged.
