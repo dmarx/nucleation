@@ -35,8 +35,8 @@ summary: >-
   The owner, 2026-11-27: "relate cognitive load to the record's account of
   legibility". TERM-064 (Active) already makes legibility relative to an
   observer's resources; this claim says cognitive load theory is the account
-  of that term for a working-memory-bounded observer, and THEORY-tmpjgsul
-  (Gupta, Liu and Zou, read in dmarx/nucleation#871) supplies the case of a
+  of that term for a working-memory-bounded observer, and the reading of
+  Gupta, Liu and Zou (dmarx/nucleation#871, not yet merged) supplies the case of a
   machine observer. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
