@@ -87,3 +87,9 @@ Two ways to collapse it:
 
 That every unverified illumination is delusional. Most are ordinary
 conjectures, held as such. The delusion is the illumination held as proved.
+
+## Note of 2026-11-27: the SEP entries on delusion, deception and self-deception, read
+
+<!-- inactive-ok-block: NOTE-tmpfar7p — new; the readings -->
+
+Bortolotti's entry (NOTE-tmpfar7p) supports the "refused" branch by analogy. On Coltheart, Menzies and Sutton's maintenance account, undermining information "does not present itself as disconfirming evidence to the person with the delusion". For the "counterfeited" branch, McKay's bias "towards explanatory adequacy", accepting what fits the data despite a low prior, is what an outside source of apparent fit would feed. That mapping is the assistant's, not the entry's.

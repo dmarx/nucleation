@@ -70,3 +70,9 @@ remedy could still be taken up.
 
 That an outside frame always helps, or that the window is long. Nor that
 the model knows the user is in it.
+
+## Note of 2026-11-27: the SEP entries on delusion, deception and self-deception, read
+
+<!-- inactive-ok-block: NOTE-tmpfar7p — new; the readings -->
+
+Bortolotti's entry (NOTE-tmpfar7p) qualifies this claim. Accounts that separate adopting a delusion from maintaining it allow a window before fixation, when an outside frame could help. But Flores (2021, cited in §4.1) argues that the capacity to respond to evidence survives fixation, which cuts against the frame mattering mainly before the aha.

@@ -1,8 +1,8 @@
 ---
-status: Deferred
-status_note: 'Registered 2026-11-27 at the owner''s suggestion ("a useful entrypoint might be the SEP entry on deception"), from the Stanford Encyclopedia of Philosophy, which is open. Being read.'
+status: Active
+status_note: 'read 2026-11-27 (NOTE-tmp2juuo) in full; worth reading for the deflationary account of self-deception and its line between motivated belief and innocent error. Read it knowing that it is a survey that adjudicates little and treats motivation one episode at a time.'
 title: 'Self-Deception'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-27'
@@ -11,6 +11,10 @@ history:
     requests (ADR-tmpn87w5): no SEP entry on deception or self-deception is
     held. The published date is the assistant's recollection of the entry's
     first publication and is to be checked against the entry's page.
+- version: 2
+  date: '2026-11-27'
+  note: >-
+    Read in full (NOTE-tmp2juuo) from the entry's page: Ian Deweese-Boyd, first published 17 October 2006, substantive revision 13 March 2023. The summary is rewritten from the reading. THEORY-tmpm278y is filed from it.
 tags:
 - epistemology
 - ethics
@@ -25,12 +29,7 @@ keywords:
 - 'motivated belief'
 implementations: []
 summary: >-
-  The SEP's survey of self-deception. Registered with the SEP entry on
-  lying and deception, at the assistant's suggestion and the owner's
-  "sure read those as well", because the inside
-  position of [DISTINCTION-tmp68xjw](../distinctions.d/DISTINCTION-tmp68xjw.md) is the self-deception question: whether
-  a mind can deceive itself without intending to, as deflationary accounts
-  say, which bears on [CLAIM-tmpu6fff](../claims.d/CLAIM-tmpu6fff.md) and CLAIM-tmpu6c7h.
+  Deweese-Boyd's SEP survey of self-deception: intentionalist accounts, and revisionist accounts that drop the intention requirement (deflationary, chief among them Mele's) or the belief requirement. Deflationary accounts need a motive, not an intention, and the motive is what separates self-deception from innocent error. Read for the inside position of DISTINCTION-tmp68xjw, between CLAIM-tmpu6fff and CLAIM-tmpu6c7h.
 ---
 <!-- inactive-ok-file: ADR-tmpn87w5 CLAIM-tmpcv6i6 CLAIM-tmpu6fff CLAIM-tmpu6c7h DISTINCTION-tmp68xjw CLAIM-tmpsjxip CLAIM-tmpvxrj1 — Proposed or new; the search rule applied, and the claims the reading bears on -->
 

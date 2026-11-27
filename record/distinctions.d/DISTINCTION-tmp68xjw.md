@@ -66,3 +66,12 @@ summary: >-
 
 The positions can stack. Chatbot-associated delusion has all three
 ([CLAIM-tmpcv6i6](../claims.d/CLAIM-tmpcv6i6.md)).
+
+## Note of 2026-11-27: the SEP entries on delusion, deception and self-deception, read
+
+<!-- inactive-ok-block: NOTE-tmpu79ux NOTE-tmp2juuo — new; the readings -->
+
+The positions line up with the literature on deception.
+- **Outside** is deception on every definition Mahon surveys (NOTE-tmpu79ux), since an agent intends it.
+- **Trained** is deception only on Chisholm and Feehan's unintentional definition, or a functional one. On the majority view it is misleading.
+- **Inside** is self-deception, which Mahon sets aside. On deflationary accounts (NOTE-tmp2juuo) it needs a motive, not an intention, and without a motive it is innocent error. CLAIM-tmpu6c7h, version 2, adopts that line.

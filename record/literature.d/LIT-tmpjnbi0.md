@@ -1,8 +1,8 @@
 ---
-status: Deferred
-status_note: 'Registered 2026-11-27 at the owner''s suggestion ("a useful entrypoint might be the SEP entry on deception"), from the Stanford Encyclopedia of Philosophy, which is open. Being read.'
+status: Active
+status_note: 'read 2026-11-27 (NOTE-tmpu79ux) in full; worth reading for the definitions of deception and the vocabulary of misleading. Read it knowing that most of it is on lying, that it surveys no functional or biological account of deception, and that it sets self-deception aside.'
 title: 'The Definition of Lying and Deception'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-27'
@@ -11,6 +11,10 @@ history:
     requests (ADR-tmpn87w5): no SEP entry on deception or self-deception is
     held. The published date is the assistant's recollection of the entry's
     first publication and is to be checked against the entry's page.
+- version: 2
+  date: '2026-11-27'
+  note: >-
+    Read in full (NOTE-tmpu79ux) from the entry's page: James Edwin Mahon, first published 21 February 2008, substantive revision 25 December 2015. The registration summary said the definitions differ on whether deception needs only a function; that was wrong for deception, since the one functional definition surveyed is of lying, and the summary is rewritten from the reading. THEORY-tmpk9i0k is filed from it.
 tags:
 - epistemology
 - ethics
@@ -25,11 +29,7 @@ keywords:
 - 'non-intentional deception'
 implementations: []
 summary: >-
-  The SEP's survey of what lying and deception are. Registered at the
-  owner's suggestion as an entry point to [CLAIM-tmpcv6i6](../claims.d/CLAIM-tmpcv6i6.md)'s question of
-  whether an evaluator can be deceived by a process that intends nothing:
-  the definitions it surveys differ on whether deception needs an intending
-  deceiver, a belief caused, or only a function.
+  Mahon's SEP survey of definitions of lying (most of the entry) and of interpersonal deception. On deception, a ladder from the intentional D1 to Chisholm and Feehan's unintentional D7; most hold deception intentional and call the unintended case misleading. It surveys no functional or biological definition of deception and sets self-deception aside. Read for the vocabulary of CLAIM-tmpcv6i6 and DISTINCTION-tmp68xjw.
 ---
 <!-- inactive-ok-file: ADR-tmpn87w5 CLAIM-tmpcv6i6 CLAIM-tmpu6fff CLAIM-tmpu6c7h DISTINCTION-tmp68xjw CLAIM-tmpsjxip CLAIM-tmpvxrj1 — Proposed or new; the search rule applied, and the claims the reading bears on -->
 

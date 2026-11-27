@@ -77,3 +77,9 @@ That a case is only one kind. A delusion about a chatbot can become
 co-created once the person talks to it. Nor that "with" excludes the person's
 predisposition: on [CLAIM-tmpca3a7](../claims.d/CLAIM-tmpca3a7.md), receptivity decides who the conversation
 nucleates in.
+
+## Note of 2026-11-27: the SEP entries on delusion, deception and self-deception, read
+
+<!-- inactive-ok-block: NOTE-tmpfar7p — new; the readings -->
+
+Bortolotti's two-factor template (NOTE-tmpfar7p) suggests a third axis. "The first factor would explain the theme of the delusion… The second factor would explain why the belief is endorsed and maintained despite its prima facie implausibility." A chatbot could supply the second factor, displacing the user's evaluation of a hypothesis, without supplying any of the theme. Neither "about" nor "co-created with" captures that case, and a log of what the chatbot said would miss it. This is offered as a candidate revision, not made.
