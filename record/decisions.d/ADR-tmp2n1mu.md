@@ -53,7 +53,7 @@ The record's two vocabularies do different jobs:
 ## First application
 
 The session's entries are retagged in this pull request:
-- **The five topics:** 80 entries across QUESTION, CLAIM, TERM, DISTINCTION, ARG, LEAD, LIT and THEORY, each with its thread's topic first. CLAIM-tmp7crnt, sycophancy as a shortcut, carries both `sycophancy` and `shortcut-learning`.
+- **The five topics:** 81 entries across QUESTION, CLAIM, TERM, DISTINCTION, ARG, LEAD, LIT and THEORY, each with its thread's topic first. CLAIM-tmp7crnt, sycophancy as a shortcut, carries both `sycophancy` and `shortcut-learning`.
 - **The line:** CLAIM-tmpcv6i6, CLAIM-tmpu6fff, CLAIM-tmpu6c7h and DISTINCTION-tmp68xjw.
 
 ## Alternatives considered
