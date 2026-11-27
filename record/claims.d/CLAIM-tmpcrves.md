@@ -19,6 +19,7 @@ defeated_if: >-
   supplied only by having the quality; or evidence that opaque rankings are
   no less gamed than disclosed ones.
 tags:
+- search-and-ranking
 - economics
 - society-and-governance
 date: '2026-11-27'

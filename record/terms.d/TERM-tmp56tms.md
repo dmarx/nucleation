@@ -8,6 +8,7 @@ statement: >-
   indicator and the target come apart
 version: 1
 tags:
+- search-and-ranking
 - society-and-governance
 - epistemology
 date: '2026-11-27'

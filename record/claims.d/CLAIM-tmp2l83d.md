@@ -18,6 +18,7 @@ defeated_if: >-
   chatbot-assisted mathematical delusions in which the model did not affirm
   the work's validity.
 tags:
+- insight-and-delusion
 - cognition
 - psychopathology-and-treatment
 - epistemology

@@ -19,6 +19,7 @@ defeated_if: >-
   preference-tuned models no more sycophantic than their base models on the
   same tasks, so that selection contributes nothing.
 tags:
+- sycophancy
 - learning-theory
 - epistemology
 date: '2026-11-27'

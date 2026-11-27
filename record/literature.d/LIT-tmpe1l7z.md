@@ -16,6 +16,7 @@ history:
   note: >-
     Read in full (NOTE-tmpfar7p) from the entry's page: Lisa Bortolotti, first published 16 September 2009, substantive revision 21 November 2026. The published date is corrected from a placeholder, the author confirmed, and the summary rewritten from the reading. THEORY-tmp0cb9y is filed from it.
 tags:
+- insight-and-delusion
 - psychopathology-and-treatment
 - epistemology
 - cognition

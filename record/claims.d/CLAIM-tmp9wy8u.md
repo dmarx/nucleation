@@ -17,6 +17,7 @@ defeated_if: >-
   cyclic grants are not their mechanism; or a trust-seeded ranking that link
   farms defeat by linking alone, without acquiring links from the seed set.
 tags:
+- search-and-ranking
 - economics
 - learning-theory
 date: '2026-11-27'

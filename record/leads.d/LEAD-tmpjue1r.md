@@ -6,6 +6,7 @@ priority: medium
 method:
 - reading
 tags:
+- insight-and-delusion
 - cognition
 - epistemology
 date: '2026-11-27'

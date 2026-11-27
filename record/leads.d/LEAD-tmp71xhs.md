@@ -6,6 +6,7 @@ priority: high
 method:
 - reading
 tags:
+- sycophancy
 - learning-theory
 - epistemology
 date: '2026-11-27'

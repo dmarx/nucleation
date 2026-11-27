@@ -7,6 +7,7 @@ statement: >-
   Bortolotti's survey holds that clinical delusions are irrational to a higher degree than ordinary beliefs, less consistent with other beliefs and behaviour and more resistant to counterevidence, but not in a qualitatively different way, and that arguments denying them belief status rely on an idealized notion of belief, imposing constraints that typical beliefs fail too
 version: 1
 tags:
+- insight-and-delusion
 - psychopathology-and-treatment
 - epistemology
 date: '2026-11-27'

@@ -17,6 +17,7 @@ defeated_if: >-
   circumstances explain; or convergence that disappears when the model is
   held fixed and the users' prior concerns are controlled for.
 tags:
+- insight-and-delusion
 - psychopathology-and-treatment
 - cultural-evolution
 - epistemology

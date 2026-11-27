@@ -13,6 +13,7 @@ history:
   note: >-
     Read in full (NOTE-tmpq0pa3), from the PubMed Central HTML (PMC10686326); Schizophrenia Bulletin 49(6):1418-1419. Status set from the reading: Active. The summary is rewritten from the reading.
 tags:
+- insight-and-delusion
 - psychopathology-and-treatment
 - cognition
 date: '2026-11-27'

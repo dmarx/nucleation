@@ -7,6 +7,7 @@ statement: >-
   Deweese-Boyd's survey holds that self-deception need not be intentional: on deflationary accounts, chief among them Mele's, a false belief acquired by treating evidence in a motivationally biased way, against the weight of the evidence, is self-deception, and motivation is what separates it from innocent error
 version: 1
 tags:
+- insight-and-delusion
 - epistemology
 - cognition
 date: '2026-11-27'

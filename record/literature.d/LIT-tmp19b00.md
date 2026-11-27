@@ -16,6 +16,7 @@ history:
   note: >-
     Read in full (NOTE-tmp2juuo) from the entry's page: Ian Deweese-Boyd, first published 17 October 2006, substantive revision 13 March 2023. The summary is rewritten from the reading. THEORY-tmpm278y is filed from it.
 tags:
+- insight-and-delusion
 - epistemology
 - ethics
 - cognition

@@ -17,6 +17,7 @@ defeated_if: >-
   apophany they become harder (CLAIM-tmpqwhst); or that psilocybin's
   psychosis-like effects do not include the delusional-mood stage.
 tags:
+- insight-and-delusion
 - psychopathology-and-treatment
 - cognition
 date: '2026-11-27'

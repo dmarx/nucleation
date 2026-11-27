@@ -35,10 +35,12 @@ defeated_if: >-
   how accurate it is; or that the felt aha is not rewarding in the sense
   that drives learning.
 tags:
+- insight-and-delusion
 - cognition
 - epistemology
 date: '2026-11-27'
 line:
+- gamed-evaluators
 - pragmatic-transport
 rests_on:
 - CLAIM-tmpcv6i6

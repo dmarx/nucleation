@@ -18,10 +18,12 @@ defeated_if: >-
   falls, as happens to a trained signal; for example, practices or
   communities that select for felt revelation over verification.
 tags:
+- insight-and-delusion
 - cognition
 - epistemology
 date: '2026-11-27'
 line:
+- gamed-evaluators
 - pragmatic-transport
 rests_on:
 - CLAIM-tmpcv6i6

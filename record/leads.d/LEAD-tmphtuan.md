@@ -7,6 +7,7 @@ method:
 - reading
 - historical
 tags:
+- insight-and-delusion
 - psychopathology-and-treatment
 - cognition
 date: '2026-11-27'

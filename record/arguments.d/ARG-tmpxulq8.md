@@ -15,6 +15,7 @@ grounds:
 concludes:
 - CLAIM-tmpv6eti
 tags:
+- insight-and-delusion
 - cultural-evolution
 - psychopathology-and-treatment
 date: '2026-11-27'

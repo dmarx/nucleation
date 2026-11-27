@@ -21,6 +21,7 @@ defeated_if: >-
   or evidence that the stages occur in a fixed order in training on
   approval, so that the account's "need not come in order" does not fit.
 tags:
+- sycophancy
 - learning-theory
 - agency
 date: '2026-11-27'

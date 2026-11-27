@@ -20,6 +20,7 @@ defeated_if: >-
   optimized content after which quality returns once the ranking is
   restored.
 tags:
+- search-and-ranking
 - economics
 - society-and-governance
 date: '2026-11-27'

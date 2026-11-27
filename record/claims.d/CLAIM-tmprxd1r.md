@@ -19,6 +19,7 @@ defeated_if: >-
   that pressure tactics work as well when the decision is spread over time
   with the same information and incentives.
 tags:
+- persuasion-and-influence
 - cognition
 - society-and-governance
 - epistemology

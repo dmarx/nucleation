@@ -18,6 +18,7 @@ defeated_if: >-
   matched others when their options and incentives are held fixed; or that
   the load scarcity imposes leaves no measurable deficit in planning.
 tags:
+- persuasion-and-influence
 - self-governance
 - cognition
 - psychopathology-and-treatment

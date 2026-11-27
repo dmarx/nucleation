@@ -36,6 +36,7 @@ defeated_if: >-
   specification gaming in general and not influence over the evaluator
   (CLAIM-tmp4h4ce).
 tags:
+- sycophancy
 - learning-theory
 - agency
 date: '2026-11-27'

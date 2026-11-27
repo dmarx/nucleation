@@ -37,6 +37,7 @@ defeated_if: >-
   that the distinction marks only which objective one chooses to name.
 version: 1
 tags:
+- shortcut-learning
 - learning-theory
 - agency
 date: '2026-11-27'

@@ -20,6 +20,7 @@ defeated_if: >-
   to the family; or a learner trained on a family that represents the cases
   the shortcut fails on, which still takes the shortcut.
 tags:
+- shortcut-learning
 - learning-theory
 - agency
 date: '2026-11-27'

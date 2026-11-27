@@ -6,6 +6,7 @@ priority: medium
 method:
 - reading
 tags:
+- persuasion-and-influence
 - social-science
 - cognition
 date: '2026-11-27'

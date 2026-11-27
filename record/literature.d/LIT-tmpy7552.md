@@ -13,6 +13,7 @@ history:
   note: >-
     Sought and not read: Unfetched (status note). Version 1's summary said the work reports emerging cases. The stand-in, LIT-tmpet3tq, describes it as a call for research that rests on correspondence and press reports and asks for clinical case reports; the summary is corrected to say so, unconfirmed until the editorial is read.
 tags:
+- insight-and-delusion
 - psychopathology-and-treatment
 - cultural-evolution
 date: '2026-11-27'

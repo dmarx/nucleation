@@ -16,6 +16,7 @@ defeated_if: >-
   A shortcut that does harm within the family on which its correlate holds;
   or one whose harm is not reduced by confining its use to that family.
 tags:
+- shortcut-learning
 - learning-theory
 - agency
 date: '2026-11-27'

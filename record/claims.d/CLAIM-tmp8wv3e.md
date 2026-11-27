@@ -21,6 +21,7 @@ defeated_if: >-
   signal from what it signals (CLAIM-tmp7i31q); or that heavy users'
   measured need satisfaction does not rise.
 tags:
+- insight-and-delusion
 - motivation
 - well-being
 - psychopathology-and-treatment

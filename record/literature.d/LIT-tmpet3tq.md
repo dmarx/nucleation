@@ -9,6 +9,7 @@ history:
   note: >-
     Registered and read as a stand-in for LIT-tmpy7552, whose publisher copy was behind a Cloudflare challenge. A press release by J. B. Christensen, Faculty of Health Sciences, Aarhus University, dated 9 October 2025, HTML, read in full; it links the editorial as "a recently published editorial". The filer rechecked its quotes against the page.
 tags:
+- insight-and-delusion
 - psychopathology-and-treatment
 date: '2026-11-27'
 published: '2025-10-09'
