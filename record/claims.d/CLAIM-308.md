@@ -13,7 +13,7 @@ statement: >-
   foresight guarantees materially better, under fixed known costs, with
   staleness left out and the cost of recognizing what a filed argument
   answers taken as fixed
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-19'
@@ -79,6 +79,11 @@ history:
     these rulings): when a structure is worth filing, staleness set
     aside, under fixed known costs. It keeps bears_on QUESTION-098 for
     the open remainder.
+- version: 7
+  date: '2026-11-26'
+  note: >-
+    A dated note: the exchange 'Alignment consequences brainstorm' (ChatGPT,
+    2026-11-26), A29 §7 (see the note). No other change.
 role: counter
 warrant: demonstrated
 tags:
@@ -240,3 +245,8 @@ bound, and both do: the reached-F rounding, and filing at once when F is
 many overpayments. The break-even rule never exceeds 2 − a/c_r. No filing
 use beats (2 − a/c_r) − 1/K against the adversary, and the break-even rule's
 gap to the bound at n = k + 1 is O(1/K).
+
+## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U16–A29), the rule moved to availability
+<!-- inactive-ok-file: CLAIM-tmpg2wk1 — Proposed; filed from the same exchange on 2026-11-26 -->
+
+A29 §7 cites this claim correctly, as "an active formal result resembling the classical online rent-or-buy problem" under which filing once repeated reconstruction would exceed the cost of filing "provides a competitive bound against an optimal policy with hindsight", and draws from it "a family of retention policies based on the work that memory saves". Its example: an entry used 20 times at 1 unit of reconstruction each against one used twice at 100, so 20 against 200 units saved: "Frequency alone would favor A. A reconstruction-cost-sensitive policy might favor B." The arithmetic checks. The transfer is to availability, not filing ([CLAIM-tmpg2wk1](CLAIM-tmpg2wk1.md)), and the bound does not transfer with it: this claim's guarantee is for a one-way decision under fixed known costs, and a tier can be changed back, which is the setting of paging and caching, whose competitive bounds are of a different form. An application; the bound is not claimed for tiers. The note is the assistant's (Claude, in this session). No status change.

@@ -6,7 +6,14 @@ formerly:
 title: What standard makes the loss of a pathway to alternatives justified by the
   benefits of consolidation, so that destructive lock-in can be told from productive
   specialization?
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-26'
+  note: >-
+    Dated note of 2026-11-26 from the exchange "Alignment consequences
+    brainstorm" (ChatGPT, 2026-11-26): A4 §16's added requirement on the
+    status quo and A5's widening. The question stays open.
 tags:
 - society-and-governance
 - ethics
@@ -54,3 +61,27 @@ answerable to, those whose alternatives are lost ([QUESTION-480](QUESTION-480.md
 A standard that classifies a stated loss of a pathway, says who judges it,
 and either is cost-benefit with its trade-offs declared or says what it
 adds to cost-benefit.
+
+## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U2–A4, U3–A5)
+
+<!-- inactive-ok-file: CLAIM-tmp5vitv — filed from the exchange of 2026-11-26, Open or Proposed -->
+
+A4 §16 quotes this question and says "The record acknowledges that its
+existing criteria are insufficient", which is accurate ([TERM-164](../terms.d/TERM-164.md)'s
+clause "has no standard"). It adds one requirement for an answer: it
+"would need to account for the opportunities forgone by *not* adopting a
+technology. The status quo is itself a trajectory that creates
+dependencies, incurs costs, forecloses possibilities, and sometimes causes
+irreversible harm." It cites [CLAIM-684](../claims.d/CLAIM-684.md) as recognizing that objection,
+which it does: its own text raises that a burden rising with
+irreversibility "systematically preserves a worse status quo".
+
+A5 closes by making this question "not merely a question about AI or
+technology, but a foundational question about social development itself".
+That widens its scope; it adds no candidate standard.
+
+The owner's U2 ([QUESTION-tmpsgbj7](QUESTION-tmpsgbj7.md)) asks a case of this question for
+capabilities, and its partial answer ([CLAIM-tmp5vitv](../claims.d/CLAIM-tmp5vitv.md)) gives one mark a
+standard here would have to use: whether the supply that replaces a lost
+pathway is reciprocal and whose terms govern it. A bearing; the question
+stays open.

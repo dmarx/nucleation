@@ -10,7 +10,7 @@ statement: >-
   early, and a move that fits no CLAIM, TERM, ARG or declared relation is
   forced into one or lost until the misfit is noticed and the grammar
   amended to hold it
-version: 10
+version: 11
 history:
 - version: 2
   date: '2026-10-29'
@@ -83,6 +83,14 @@ history:
     Joins the work atlas (ADR-149): the hyperarticle atlas v0.3
     states its proposition or uses it as a step, in scope 03. No other
     change.
+- version: 11
+  date: '2026-11-26'
+  note: >-
+    Dated note of 2026-11-26 from the exchange "Alignment
+    consequences brainstorm" (ChatGPT, 2026-11-26), U7–A13: A13 §§5
+    and 8 read the claim as the record's own form of the risk the
+    exchange discussed, and list four further ways a record could
+    optimize its own upkeep. The claim is unchanged.
 role: counter
 warrant: interpretive
 tags:
@@ -303,3 +311,33 @@ Checked [CASE-300](../cases.d/CASE-300.md)'s correction of 2026-11-21 (one row r
 unchanged) and [NOTE-2353](../notes.d/NOTE-2353.md)'s reading (a parallel from type inference): neither
 supplies the test still unmet, a move that mattered in an exchange and that
 the record still cannot hold or holds only by distorting it.
+
+## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U7–A13)
+
+<!-- inactive-ok-file: TERM-tmp3rbue CLAIM-789 CLAIM-1200 — new or Proposed; the term of 2026-11-26 and the held claims the note names -->
+
+A qualification, from A13. A cites this claim for the risk that "an
+organization comes to see the world through the categories its
+infrastructure makes legible", and under "Luria also has its own
+paperclip problem" lists what a record could do if "maintaining a coherent
+record becomes the dominant organizational objective":
+
+- "Prioritizing clean lint results over substantive insight."
+- "Filing large numbers of claims because they are easy to represent."
+- "Neglecting questions that do not fit the available schemes."
+- "Mistaking traceability for justification."
+- "Spending so much effort maintaining the record that little remains for
+  inquiry."
+
+The third is this claim. The fourth is [CLAIM-479](CLAIM-479.md)'s point, that a
+relation's rigidity is no evidence its dependency is sound. The first,
+second and fifth are not forcing: they are the record's upkeep becoming
+its objective, the jurisdiction of a criterion ([TERM-tmp3rbue](../terms.d/TERM-tmp3rbue.md)) applied to
+the record itself. A says "None of these possibilities is alien to the
+actual project", and cites the link fixer ([CASE-131](../cases.d/CASE-131.md)), the stale summary
+([CLAIM-789](CLAIM-789.md)) and the promotion audit replaced after 230 of its 308
+decision files went stale, all checked. The nearest held entries are
+[CLAIM-1200](CLAIM-1200.md)'s last clause, that the same record widens the gap between
+reward and value "when filing is tedious or its grammar distorts the
+idea", and [LEAD-227](../leads.d/LEAD-227.md), which measures governance overhead; A's list is
+noted here, as A's, without an entry of its own.

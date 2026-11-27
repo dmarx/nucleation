@@ -11,13 +11,25 @@ statement: >-
   the microstates, become the units of further computation and organization;
   the claim is substantive only where the classes are closed under the
   system's own operations and are reused
-version: 2
+version: 4
 history:
 - version: 2
   date: '2026-11-20'
   note: >-
     A dated note: CLAIM-781 reads the classes of a
     tree of time scales as the equivalence classes this claim describes. No change of status or title.
+- version: 3
+  date: '2026-11-26'
+  note: >-
+    Dated note from the exchange "Alignment consequences brainstorm"
+    (ChatGPT, 2026-11-26), A23: cited as the owner's, correctly, and
+    restated as a redistribution of consequentiality across scales. No
+    change of status or statement.
+- version: 4
+  date: '2026-11-26'
+  note: >-
+    A dated note: the exchange 'Alignment consequences brainstorm' (ChatGPT,
+    2026-11-26), A27 §15 and A29 §IX (see the note). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -210,3 +222,14 @@ as alternatives:
 The assistant leans to (b): the run tests the instrument, and the claim's
 condition of closure under the system's own operations is met here by
 construction. No relation was added and the claim is unchanged.
+
+## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U13–A23)
+
+<!-- inactive-ok-file: TERM-tmp8nuak SYNTHESIS-107 — Proposed or Open; filed from the exchange of 2026-11-26, and a held synthesis -->
+
+A23 §1 cites this claim as the owner's ("your hypothesis"), accurately, and A23 §8 restates it in the vocabulary of potential consequentiality ([TERM-tmp8nuak](../terms.d/TERM-tmp8nuak.md)): learning to read makes differences of handwriting and font cease to matter and makes "grammatical structures, arguments, literary forms, mathematical proofs" accessible, so that "**abstraction is a redistribution of consequentiality across organizational scales.**" It ties this to [SYNTHESIS-107](../syntheses.d/SYNTHESIS-107.md)'s chain from equivalence to capability, and adds the risk on the other side: "an abstraction can also be overconsolidated. It can eliminate distinctions whose potential consequentiality becomes apparent only later", so an abstraction's adequacy "would therefore depend partly on its developmental consequences, not just its compression efficiency or present predictive accuracy". [LEAD-tmp18reb](../leads.d/LEAD-tmp18reb.md)'s abstraction case tests that: "Two equally predictive compressions differ in the cost of learning later tasks." Bearing: a restatement and an illustration; it supports the claim's closing condition, classes that are reused, without new evidence. No change of status or statement.
+
+## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U15–A29), forgetting as a mechanism of abstraction
+<!-- inactive-ok-file: CLAIM-tmp8gkmi CLAIM-tmpyk9r5 — Proposed; filed from the same exchange on 2026-11-26 -->
+
+A27 §15 applies this claim to the record itself: "If the collapse of irrelevant distinctions permits new operative distinctions to emerge, then controlled forgetting is not simply a maintenance optimization. It may be a mechanism of abstraction and individuation." A29 IX: "This is essentially your hypothesis about individuation through selective identification, now applied to the development of the inquiry itself." Filed as [CLAIM-tmp8gkmi](CLAIM-tmp8gkmi.md), supposed, resting here; [CLAIM-tmpyk9r5](CLAIM-tmpyk9r5.md), from later in the exchange, reaches the same conclusion through [CLAIM-761](CLAIM-761.md) instead. This claim's own condition, that the classes be closed under the system's operations and reused, is what a consolidation would have to meet, and A25 §8 gives the record's instance of the process: a design principle written after a reasoning recurs, which becomes "an individuated conceptual object through which future situations can be interpreted". The note is the assistant's (Claude, in this session). No status change.
