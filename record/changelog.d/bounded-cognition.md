@@ -6,3 +6,7 @@
   - [CLAIM-tmpxg0zs](record/claims.d/CLAIM-tmpxg0zs.md): germane load is past inquiry stored to lower later peaks;
   - [CLAIM-tmpg829x](record/claims.d/CLAIM-tmpg829x.md): cognitive load theory prices peaks and resource-rational analysis prices totals, and bounded inquiry needs both.
 - [LEAD-tmpi367t](record/leads.d/LEAD-tmpi367t.md), to read cognitive load theory.
+- On cognitive load and legibility:
+  - CLAIM-tmplbobh: cognitive load theory is the theory of legibility to an observer bounded by working memory;
+  - CLAIM-tmpiwxjx: the expertise reversal effect is a legibility ordering that holds only per observer;
+  - CLAIM-tmpg8c20: who pays the load of making something legible is an allocation, and an institution steers inquiry by it.
