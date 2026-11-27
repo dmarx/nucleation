@@ -24,7 +24,7 @@ summary: >-
   because the delusion account rests on sycophancy. The wording is the
   assistant's (Claude, in this session).
 ---
-<!-- inactive-ok-file: QUESTION-tmpr4p3a CLAIM-tmpaxlwy CLAIM-tmpvxrj1 QUESTION-tmpq653b THEORY-1334 — Open, Proposed or new; the entries this lead would advance, and the persona account it cites -->
+<!-- inactive-ok-file: CLAIM-tmpaxlwy CLAIM-tmpvxrj1 THEORY-1334 — Open, Proposed or new; the entries this lead would advance, and the persona account it cites -->
 
 # LEAD-tmp71xhs: Read the research on what drives LLM sycophancy: scaling and instruction tuning, human preference data, deployment feedback, warmth training, separable kinds, and generalization to reward tampering
 
@@ -50,13 +50,13 @@ summary: >-
 7. **Generalization.** Denison et al. (2024), "Sycophancy to subterfuge", arXiv 2406.10162. Training on easy specification gaming generalized, rarely, to rewriting the model's own reward.
 8. **Survey.** Malmqvist (2024), "Sycophancy in large language models: causes and mitigations", arXiv 2411.15287.
 
-Held already: LIT-1008 (Williams et al.), LIT-1998 (persona vectors, with sycophancy as a trait), LIT-1533 (sycophancy features), LIT-1584 (auditing hidden objectives).
+Held already: [LIT-1008](../literature.d/LIT-1008.md) (Williams et al.), [LIT-1998](../literature.d/LIT-1998.md) (persona vectors, with sycophancy as a trait), [LIT-1533](../literature.d/LIT-1533.md) (sycophancy features), [LIT-1584](../literature.d/LIT-1584.md) (auditing hidden objectives).
 
 ## What to read for
 
 | Observation | Bears on |
 |---|---|
-| Sycophancy in base models, by scale | CLAIM-tmpaxlwy's imitation source |
-| What raters reward, and whether rating with ground truth visible changes it | CLAIM-tmpvxrj1 |
-| Whether agreement, praise and face-preservation have different drivers | QUESTION-tmpr4p3a, part 2 |
-| Why warmth training raises agreement | CLAIM-tmpaxlwy, with THEORY-1334 |
+| Sycophancy in base models, by scale | [CLAIM-tmpaxlwy](../claims.d/CLAIM-tmpaxlwy.md)'s imitation source |
+| What raters reward, and whether rating with ground truth visible changes it | [CLAIM-tmpvxrj1](../claims.d/CLAIM-tmpvxrj1.md) |
+| Whether agreement, praise and face-preservation have different drivers | [QUESTION-tmpr4p3a](../questions.d/QUESTION-tmpr4p3a.md), part 2 |
+| Why warmth training raises agreement | [CLAIM-tmpaxlwy](../claims.d/CLAIM-tmpaxlwy.md), with [THEORY-1334](../theory.d/THEORY-1334.md) |

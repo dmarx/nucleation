@@ -13,13 +13,13 @@ line:
 summary: >-
   The owner, 2026-11-27: "double click on LLM sycophancy and research into
   what potentially drives its emergence". Sycophancy is the hinge of the
-  record's account of chatbot-associated delusions (QUESTION-tmpq653b): the
-  dyad of CLAIM-tmpj9yt0, the counterfeit needs of CLAIM-tmp8wv3e, the
-  withheld frame of CLAIM-tmprblj4. It is answered by CLAIM-tmpaxlwy and
-  CLAIM-tmpvxrj1, and the reading is LEAD-tmp71xhs. The wording is the
+  record's account of chatbot-associated delusions ([QUESTION-tmpq653b](QUESTION-tmpq653b.md)): the
+  dyad of [CLAIM-tmpj9yt0](../claims.d/CLAIM-tmpj9yt0.md), the counterfeit needs of [CLAIM-tmp8wv3e](../claims.d/CLAIM-tmp8wv3e.md), the
+  withheld frame of [CLAIM-tmprblj4](../claims.d/CLAIM-tmprblj4.md). It is answered by [CLAIM-tmpaxlwy](../claims.d/CLAIM-tmpaxlwy.md) and
+  [CLAIM-tmpvxrj1](../claims.d/CLAIM-tmpvxrj1.md), and the reading is [LEAD-tmp71xhs](../leads.d/LEAD-tmp71xhs.md). The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: QUESTION-tmpq653b CLAIM-tmpj9yt0 CLAIM-tmp8wv3e CLAIM-tmprblj4 CLAIM-tmpaxlwy CLAIM-tmpvxrj1 LEAD-tmp71xhs — Open, Proposed or new; the delusion question and claims it serves, its answers, and its reading lead -->
+<!-- inactive-ok-file: CLAIM-tmpj9yt0 CLAIM-tmp8wv3e CLAIM-tmprblj4 CLAIM-tmpaxlwy CLAIM-tmpvxrj1 — Open, Proposed or new; the delusion question and claims it serves, its answers, and its reading lead -->
 
 # QUESTION-tmpr4p3a: What drives the emergence of sycophancy in language models, and do its kinds have different drivers?
 

@@ -98,6 +98,6 @@ Two held entries bear on it that the claim did not cite. [THEORY-1339](../theory
 
 ## Note of 2026-11-27: where the sycophancy comes from
 
-<!-- inactive-ok-block: QUESTION-tmpr4p3a CLAIM-tmpaxlwy CLAIM-tmpvxrj1 — new; the question and claims on the sycophancy this claim assumes -->
+<!-- inactive-ok-block: CLAIM-tmpaxlwy CLAIM-tmpvxrj1 — new; the question and claims on the sycophancy this claim assumes -->
 
-QUESTION-tmpr4p3a asks what drives the sycophancy this claim assumes. CLAIM-tmpaxlwy answers that it is imitated in pretraining and selected for in post-training. CLAIM-tmpvxrj1 answers that it is optimization of the feelings by which raters approve, so that the dyad this claim describes is the training objective met in a user, not a malfunction.
+[QUESTION-tmpr4p3a](../questions.d/QUESTION-tmpr4p3a.md) asks what drives the sycophancy this claim assumes. [CLAIM-tmpaxlwy](CLAIM-tmpaxlwy.md) answers that it is imitated in pretraining and selected for in post-training. [CLAIM-tmpvxrj1](CLAIM-tmpvxrj1.md) answers that it is optimization of the feelings by which raters approve, so that the dyad this claim describes is the training objective met in a user, not a malfunction.

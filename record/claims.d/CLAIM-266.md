@@ -245,4 +245,4 @@ Under either, [CLAIM-517](CLAIM-517.md) takes a clarification of its ε (its not
 
 <!-- inactive-ok-block: CLAIM-tmpvxrj1 — new; the claim that applies this one -->
 
-CLAIM-tmpvxrj1 applies this claim to preference learning. The probe is a rater's judgment, made through feelings that report states without their causes, so a model optimized on it learns the feelings' counterfeits as well as their causes. On that reading, sycophancy is this claim's failure, with people as the probes. An application; no change to this claim.
+[CLAIM-tmpvxrj1](CLAIM-tmpvxrj1.md) applies this claim to preference learning. The probe is a rater's judgment, made through feelings that report states without their causes, so a model optimized on it learns the feelings' counterfeits as well as their causes. On that reading, sycophancy is this claim's failure, with people as the probes. An application; no change to this claim.
