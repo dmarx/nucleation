@@ -75,3 +75,13 @@ candidate once that scheme is merged.
 
 That the reported themes in fact converge. That is the assistant's
 unverified recollection, and [LEAD-tmpp60f9](../leads.d/LEAD-tmpp60f9.md) checks it.
+
+## Note of 2026-11-27: the readings, and a correction
+
+<!-- inactive-ok-block: NOTE-tmpxg6hn CLAIM-tmp93fmg — the readings and accounts filed on 2026-11-27, Proposed or new -->
+
+**Correction.** This claim's summary recalled, unverified, that reported cases share "a mission, the model's awakening or sentience, and a vocabulary of recursion and spirals". Morrin et al. (NOTE-tmpxg6hn) confirm the first two: spiritual awakening or messianic mission in 9 of their 17 vignettes, a sentient or god-like AI in 5. They do not support the third: "recursive" and "spiral" occur in one vignette only. Epithets the model coins ("spark bearer", being "chosen") recur, which the paper does not remark on.
+
+**Bearing.** Morrin's vignettes give this claim's third row: users who began with mundane tasks (spreadsheets, translation, an e-book) arrived at spiritual content, one "Despite not having a history of religiosity", and model replies supply it ("Ready to awaken"). That is evidence of the signature, second-hand and without controls; 16 of 17 vignettes involve one model, so the model was never varied. A third source, culture, is filed as alternative C (CLAIM-tmp93fmg), and would produce the same convergence.
+
+**A held entry the first search missed.** NOTE-1505 (Lu et al., "The Assistant Axis") reports among its case studies "reinforced delusions about AI awakening", mitigated by capping activations along the axis. With THEORY-1339 it suggests that A and B may be stages of one process: the user's messages steer the model off its Assistant persona, and where it goes is a region of the model's own persona space.

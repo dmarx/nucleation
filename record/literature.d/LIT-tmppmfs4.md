@@ -1,34 +1,39 @@
 ---
-status: Deferred
-status_note: 'Registered 2026-11-27 at the owner''s request ("read and file"), for LEAD-tmpp60f9; being sought.'
+status: Active
+status_note: 'read in full 2026-11-27 (NOTE-tmpq0pa3); worth reading as the agenda-setting statement of the hypothesis that chatbots may fuel delusions in people prone to psychosis. It is a two-page opinion piece with no data or cases, and its mechanism is cognitive dissonance and opacity, not sycophancy.'
 title: "Will Generative Artificial Intelligence Chatbots Generate Delusions in Individuals Prone to Psychosis?"
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-27'
   note: >-
     Filed, not read. The record was searched by DOI, title and author and holds no entry. Crossref (queried with no contact address) gives doi 10.1093/schbul/sbad128, Schizophrenia Bulletin, journal article, issued online 2023-08-25, single author Søren Dinesen Østergaard.
+- version: 2
+  date: '2026-11-27'
+  note: >-
+    Read in full (NOTE-tmpq0pa3), from the PubMed Central HTML (PMC10686326); Schizophrenia Bulletin 49(6):1418-1419. Status set from the reading: Active. The summary is rewritten from the reading.
 tags:
 - psychopathology-and-treatment
-- cultural-evolution
+- cognition
 date: '2026-11-27'
 published: '2023-08-25'
 doi: '10.1093/schbul/sbad128'
 first_author: 'Østergaard'
 implementations: []
 summary: >-
-  Østergaard (2023), Schizophrenia Bulletin, an editorial. Registered for the hypothesis that conversation with generative AI chatbots could fuel delusions in people prone to psychosis, for LEAD-tmpp60f9 and QUESTION-tmpq653b. Unread, it grounds nothing.
+  Østergaard (2023), Schizophrenia Bulletin, an editorial. From an informal test of ChatGPT and by analogy with internet-related psychosis between humans, it argues that chatbots are likely to fuel delusions in people prone to psychosis, through the dissonance of an interlocutor that seems a person and is known not to be, and through the opacity of how it works. Its five example delusions are "strictly hypothetical". Its account is THEORY-tmptmp23.
 ---
-<!-- inactive-ok-file: LEAD-tmpp60f9 QUESTION-tmpq653b — Open; the lead and question it is read for -->
+<!-- inactive-ok-file: THEORY-tmptmp23 — Proposed; the account filed from the reading -->
 
 # LIT-tmppmfs4: Will Generative Artificial Intelligence Chatbots Generate Delusions in Individuals Prone to Psychosis?
 
-Østergaard (2023), Schizophrenia Bulletin, an editorial.
+Østergaard (2023), Schizophrenia Bulletin 49(6):1418-1419.
 
 ## Key takeaways
 
-- Not read.
+- The chatbot as the *object* of a delusion: dissonance about what it is, and opacity, leave "ample room for speculation/paranoia".
+- No data, no cases; the examples are invented. Sycophancy and long use play no part.
 
 ## Standing in the record
 
-Registered for the hypothesis that conversation with generative AI chatbots could fuel delusions in people prone to psychosis. Read for LEAD-tmpp60f9's table: whether themes converge across users, exposure dose, course after use stops, personas carried between instances, and whether the model treats vulnerable users differently.
+Read for LEAD-tmpp60f9 and QUESTION-tmpq653b. It answers none of the lead's five rows, and adds a mechanism the question did not list.

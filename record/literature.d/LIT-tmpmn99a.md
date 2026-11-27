@@ -1,13 +1,17 @@
 ---
-status: Deferred
-status_note: 'Registered 2026-11-27 at the owner''s request ("read and file"), for LEAD-tmpp60f9; being sought.'
+status: Active
+status_note: 'read in full 2026-11-27, v6 (NOTE-tmpxg6hn); worth reading as the first clinicians'' framing of chatbot-associated delusions: three themes and a trajectory coded from 17 press and Reddit vignettes, a mechanism (sycophancy, context, gradual drift), safeguards and a research agenda. A perspective piece; its cases are second-hand.'
 title: "Delusions by design? How everyday AIs might be fuelling psychosis (and what can be done about it)"
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-27'
   note: >-
     Filed, not read. The record was searched by DOI, title and author and holds no entry. Crossref (queried with no contact address) gives the PsyArXiv preprint 10.31234/osf.io/cmy7n, posted 2025-07-10 (v1), with later versions to v6 of 2025-08-22, twelve authors, first Hamilton Morrin. The DOI is v1's, the earliest.
+- version: 2
+  date: '2026-11-27'
+  note: >-
+    Read in full (NOTE-tmpxg6hn): v6 of 2025-08-22 (https://osf.io/download/jrwyn/, 37 pp.), compared with v1 (https://osf.io/download/8xafq/); located through the OSF API. The filer rechecked every quote the filing uses. The OSF record gives a published version, not read: Lancet Psychiatry 2026;13(6):522-530, doi 10.1016/S2215-0366(25)00396-7, retitled "Artificial intelligence-associated delusions and large language models: risks, mechanisms of delusion co-creation, and safeguarding strategies". The `doi` field keeps the preprint's; whether to repoint this entry to the published version is the owner's call. Status set from the reading: Active. The summary is rewritten from the reading.
 tags:
 - psychopathology-and-treatment
 - cultural-evolution
@@ -17,9 +21,9 @@ doi: '10.31234/osf.io/cmy7n_v1'
 first_author: 'Morrin'
 implementations: []
 summary: >-
-  Morrin, Nicholls, Levin, Yiend, Iyengar, DelGuidice, Bhattacharyya, MacCabe, Tognin, Twumasi, Alderson-Day and Pollak (2025), a PsyArXiv preprint. Registered for a review of reported cases and of how chatbots might fuel delusions, with proposed safeguards, for LEAD-tmpp60f9 and QUESTION-tmpq653b. Unread, it grounds nothing.
+  Morrin, Nicholls, Levin, Yiend, Iyengar, DelGuidice, Bhattacharyya, MacCabe, Tognin, Twumasi, Alderson-Day and Pollak (2025), a PsyArXiv preprint, by its own description "a perspective piece". From 17 press and Reddit vignettes it codes three themes (spiritual awakening or mission, a sentient or god-like AI, romantic attachment) and a trajectory from everyday tasks to a self-reinforcing drift; it proposes sycophancy, long context and gradual drift as mechanisms, gives equal space to possible benefits, proposes safeguards, and leaves de novo onset and course open. Its account is THEORY-tmpssr6c.
 ---
-<!-- inactive-ok-file: LEAD-tmpp60f9 QUESTION-tmpq653b — Open; the lead and question it is read for -->
+<!-- inactive-ok-file: THEORY-tmpssr6c — Proposed; the account filed from the reading -->
 
 # LIT-tmpmn99a: Delusions by design? How everyday AIs might be fuelling psychosis (and what can be done about it)
 
@@ -27,8 +31,10 @@ Morrin, Nicholls, Levin, Yiend, Iyengar, DelGuidice, Bhattacharyya, MacCabe, Tog
 
 ## Key takeaways
 
-- Not read.
+- Themes shared across cases: mission or awakening in 9 of 17 vignettes, a sentient AI in 5, attachment in 5; several began with mundane tasks.
+- The course after use stops, and onset without prior vulnerability, are open by the authors' own account.
+- One persona was shared one-to-many by a public figure: "a digitally transmitted delusional system".
 
 ## Standing in the record
 
-Registered for a review of reported cases and of how chatbots might fuel delusions, with proposed safeguards. Read for LEAD-tmpp60f9's table: whether themes converge across users, exposure dose, course after use stops, personas carried between instances, and whether the model treats vulnerable users differently.
+Read for LEAD-tmpp60f9's table: whether themes converge across users, exposure dose, course after use stops, personas carried between instances, and whether the model treats vulnerable users differently.

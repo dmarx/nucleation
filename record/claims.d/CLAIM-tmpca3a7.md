@@ -94,3 +94,14 @@ input. This is a DISTINCTION candidate once that scheme is merged.
 That the model is the cause in the clinical sense, or that the window is
 only individual. A household or an online community can be the receiving
 organization too.
+
+## Note of 2026-11-27: the readings
+
+<!-- inactive-ok-block: NOTE-tmpq0pa3 NOTE-tmp5av31 NOTE-tmpxg6hn — the readings and accounts filed on 2026-11-27, Proposed or new -->
+
+- **The window** has support from all three readings, as assertion: Østergaard 2023 and 2025 select by proneness to psychosis (NOTE-tmpq0pa3, NOTE-tmp5av31), and Morrin et al. by "an especially sensitive hyperprior for detecting agency" and a risk "synergistic with their pre-existing genetic and environmental risk" (NOTE-tmpxg6hn). Morrin adds that information-seeking under uncertainty is a window too, so receptivity may be situational as well as dispositional.
+- **Dose** has qualitative support: drift that "develops insidiously over time", over ten days to twelve weeks in the vignettes; "prolonged and intensive" use in the press cases Østergaard cites. No threshold is measured. Morrin adds a dose on the model's side, context length, which this claim does not separate from the user's exposure. Morrin also allows reverse causation, worsening mental health driving more use.
+- **Withdrawal** is unanswered. Morrin et al.: "Also largely missing is a longitudinal characterisation of these cases".
+- **The two selections.** No reading gives a differential by user. Østergaard 2025's confirmation "regardless of what users present them with" is uniform, and Morrin's only differential is by content type: reinforcement "less likely ... with paranoid or persecutory delusions, where safety filters may be more likely to be triggered". So far the readings place selection on the users' side, not THEORY-258's.
+
+A held entry the first search missed: LIT-547 (Borsboom's network theory), whose hysteresis principle, a symptom network that sustains itself after its trigger is gone, is the clinical form of this claim's nucleation.

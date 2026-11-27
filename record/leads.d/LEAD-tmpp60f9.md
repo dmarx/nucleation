@@ -52,3 +52,9 @@ anything recalled in the claims.
 
 Clinical reports concern identifiable people. File findings about
 patterns, not about individuals.
+
+## Note of 2026-11-27: read
+
+<!-- inactive-ok-block: NOTE-tmpq0pa3 NOTE-tmp5av31 NOTE-tmpxg6hn LIT-tmpy7552 — the readings and accounts filed on 2026-11-27, Proposed or new -->
+
+The three works are read or sought: Østergaard 2023 (NOTE-tmpq0pa3), Østergaard 2025 (Unfetched, LIT-tmpy7552; read through its stand-in, NOTE-tmp5av31) and Morrin et al. 2025 (NOTE-tmpxg6hn). Row by row: themes converge across Morrin's vignettes, without controls (row 1); dose has qualitative support and no threshold (row 2); the course after use stops is unreported (row 3); one persona was shared one-to-many (row 4); no differential by user, only by content type (row 5). None of the works cites a clinically assessed case series, so "the case series they cite" does not exist yet. What remains: the published version of Morrin et al. (Lancet Psychiatry 2026), Østergaard's 2025 editorial itself, and Nitzan et al. (2011) on internet-related psychosis. The lead stays Open.
