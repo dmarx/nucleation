@@ -9,3 +9,8 @@
 - Note: the entry's own table of contents lists 3.2 bottom-up/top-down and 3.3 one/two-factor, but the body has them swapped (3.2 = one/two-factor/prediction error; 3.3 = bottom-up/top-down). Section numbers below follow the body.
 - Kapur 2003 ("Psychosis as a state of aberrant salience") is in the bibliography but not cited in the body text; "aberrant salience" as a phrase does not occur.
 - No occurrence of: folie, shared/induced delusion, chatbot/AI, mathematics, Conrad, apophany, trema, epistemic innocence (as a term).
+
+## Step 2: record entries read (2026-11-27)
+
+Read: LIT-tmpe1l7z; QUESTION-tmpq653b, QUESTION-tmpao6hx; CLAIM-tmpahrqb, CLAIM-tmp2l83d, CLAIM-tmprblj4, CLAIM-tmpj9yt0, CLAIM-tmpv6eti; DISTINCTION-tmpwhh30; CLAIM-tmpcv6i6, DISTINCTION-tmp68xjw, CLAIM-tmpu6fff, CLAIM-tmp7oycz; CLAIM-tmpu6c7h (only on origin/claude/confident-sagan-htel6d).
+Recheck grep run on origin/claude/confident-sagan-htel6d record/. Report drafted in step 3.
