@@ -22,7 +22,7 @@ summary: >-
   the owner's call. The wording is the assistant's (Claude, in this
   session).
 ---
-<!-- inactive-ok-file: CLAIM-tmp7oycz CLAIM-tmp2l83d QUESTION-tmpao6hx — Proposed, Open or new; the entries this lead would advance -->
+<!-- inactive-ok-file: CLAIM-tmp7oycz CLAIM-tmp2l83d — Proposed, Open or new; the entries this lead would advance -->
 
 # LEAD-tmpjue1r: Read the research on the felt quality of insight: the fluency account, the Eureka heuristic and its failures, false insights, and the illumination and verification of mathematical discovery
 
@@ -53,7 +53,7 @@ summary: >-
 
 | Observation | Bears on |
 |---|---|
-| Whether manipulating fluency changes the intensity of insight and the truth judged | CLAIM-tmp7oycz |
-| Whether the aha is about the solution, or credited to whatever content is in view | CLAIM-tmp7oycz's attribution step |
-| Poincaré's own wording on certainty and on its failures | CLAIM-tmp2l83d |
+| Whether manipulating fluency changes the intensity of insight and the truth judged | [CLAIM-tmp7oycz](../claims.d/CLAIM-tmp7oycz.md) |
+| Whether the aha is about the solution, or credited to whatever content is in view | [CLAIM-tmp7oycz](../claims.d/CLAIM-tmp7oycz.md)'s attribution step |
+| Poincaré's own wording on certainty and on its failures | [CLAIM-tmp2l83d](../claims.d/CLAIM-tmp2l83d.md) |
 | Whether insight experiences differ between correct and false solutions in any mark | the claim that the feeling cannot check itself |
