@@ -8,9 +8,9 @@ date: '2026-11-27'
 summary: >-
   Active at the owner's word of 2026-11-27, "go ahead with recommendations
   1, 2, and 5", which accepted recommendations 1 and 2 of the retrospective
-  RETRO-tmpxqcui. Four searches in two days missed what the record held. Two
+  [RETRO-tmpxqcui](../retrospectives.d/RETRO-tmpxqcui.md). Four searches in two days missed what the record held. Two
   were keyed to the source's words: the Assistant Axis reading for the
-  delusion claims, and CLAIM-118 for von Oswald et al. One used the wrong key
+  delusion claims, and [CLAIM-118](../claims.d/CLAIM-118.md) for von Oswald et al. One used the wrong key
   for a work, a case-sensitive grep that missed Sen. One searched only the
   checked-out tree, while the paperclip-maximization account sat in an open
   pull request. Decided: the search before filing, or before telling the
@@ -28,19 +28,19 @@ summary: >-
 
 ## Context
 
-ADR-068's step 2 says to check the record before filing anything: works by
+[ADR-068](ADR-068.md)'s step 2 says to check the record before filing anything: works by
 DOI, arXiv id, exact title and first author, and ideas by their key words.
-In two days that check missed four times (RETRO-tmpxqcui; devlog notes of
+In two days that check missed four times ([RETRO-tmpxqcui](../retrospectives.d/RETRO-tmpxqcui.md); devlog notes of
 2026-11-26 18:13 and 19:55, and 2026-11-27 01:51):
 
 - **The wrong key.** A case-sensitive grep for "paretian liberal" missed
-  LIT-285, so the assistant twice told the owner Sen was not on the record.
+  [LIT-285](../literature.d/LIT-285.md), so the assistant twice told the owner Sen was not on the record.
 - **The source's words, not the mechanism's.**
   - Filing von Oswald et al., the search found only literature, and missed
-    CLAIM-118, which the paper bears on directly.
+    [CLAIM-118](../claims.d/CLAIM-118.md), which the paper bears on directly.
   - Filing claims on chatbot-associated delusions, a search for "psychosis",
     "sycophancy" and "delusion" that read only titles missed the Assistant
-    Axis reading (NOTE-1505). Its case studies are the most direct evidence
+    Axis reading ([NOTE-1505](../notes.d/NOTE-1505.md)). Its case studies are the most direct evidence
     the record holds.
 - **One tree.** Asked to relate shortcut learning to paperclip
   maximization, the assistant found no account of paperclip maximization on
@@ -90,5 +90,5 @@ amended to carry the four points above.
 
 - A search costs a fetch and a wider grep. That takes seconds.
 - Hits in open pull requests carry temporary codes that may not survive
-  promotion. Citing them by name avoids the rewiring RETRO-tmpxqcui
+  promotion. Citing them by name avoids the rewiring [RETRO-tmpxqcui](../retrospectives.d/RETRO-tmpxqcui.md)
   describes.
