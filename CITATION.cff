@@ -1,0 +1,23 @@
+# CITATION.cff
+# How to cite this record. GitHub reads this file for the repository's
+# "Cite this repository" button. Keep it in step with the README's
+# "Citing this work" section.
+cff-version: 1.2.0
+message: >-
+  If an idea in this record is useful to your work, please cite it. To cite
+  a single entry, cite its numbered code and the commit you read; see the
+  README's "Citing this work" section.
+type: dataset
+title: "Nucleation: A Record of an Ongoing Philosophical Inquiry"
+authors:
+  - family-names: Marx
+    given-names: David
+repository-code: "https://github.com/dmarx/nucleation"
+url: "https://dmarx.github.io/nucleation/"
+license: MIT
+keywords:
+  - philosophy
+  - agency
+  - organizational affect
+  - self-governance
+  - research record

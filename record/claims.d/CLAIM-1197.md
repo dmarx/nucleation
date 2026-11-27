@@ -145,3 +145,16 @@ implied by the others.
   select, as [CLAIM-1108](CLAIM-1108.md) says of regulation.
 - Anything about how to find the optimum, which for a learner's real
   organization is intractable.
+
+## Note of 2026-11-26: Veeriah et al. (2019), read
+
+
+Sidesteps the optimum rather than supplying one, and names a missing
+condition. [LIT-tmpl1kcf](../literature.d/LIT-tmpl1kcf.md) ([NOTE-tmpibrnu](../notes.d/NOTE-tmpibrnu.md)) fixes a valuation, the main-task
+loss (condition 2, though without resource costs), and a horizon by
+truncation at k = 10 (condition 3, not by a discount). It does not address
+attainment (condition 4). Its longer horizons did worse, "the largest
+unroll length k = 50 performing worse than k = 25", which the authors
+attribute to meta-gradient variance. So a horizon that makes the optimum
+well defined may still not be estimable by the method aimed at it.
+Estimability is a practical condition beside these four. No status change.

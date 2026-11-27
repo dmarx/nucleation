@@ -253,3 +253,13 @@ The nondual "modes", in which a world is present without subject/object
 structure (2024, pp. 470–471), are where kind (2) could be looked for. The
 pages read describe them only by report. The inference is the record's.
 No status, title or warrant changes.
+
+## Note of 2026-11-26: tautology, and where the content is
+
+<!-- inactive-ok-block: CLAIM-tmprejdn — new; the claim this note points to -->
+
+A concrete case. [CLAIM-tmprejdn](../claims.d/CLAIM-tmprejdn.md) gives a presented self that fails to glue
+around a cycle of three contexts while every pair is consistent. Whether
+such a self can be one unified process is this question, and the case does
+not answer it. It says what a non-gluing model of a self can look like.
+[CLAIM-tmprejdn](../claims.d/CLAIM-tmprejdn.md) `bears_on` this question. No status change.

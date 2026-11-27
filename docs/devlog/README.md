@@ -6,6 +6,7 @@ Notes taken during the work, to revisit at the next retrospective (RETRO) - what
 
 ## Currently — [November 2026](2026-11.md)
 
+- [25 Nov 21:55 — The 67 twin THEORY readings were ADR-065 reports and their theses](2026-11.md#the-67-twin-theory-readings-were-adr-065-reports-and-their-theses)
 - [25 Nov 17:29 — An optional prose field cannot be declared in luria.yaml](2026-11.md#an-optional-prose-field-cannot-be-declared-in-luriayaml)
 - [25 Nov 14:43 — Reader branches stranded by a usage limit and then by a promotion, and carried onto the permanent codes by script](2026-11.md#reader-branches-stranded-by-a-usage-limit-and-then-by-a-promotion-and-carried-onto-the-permanent-codes-by-script)
 - [25 Nov 07:46 — A procedural choice was filed as an inquiry question with claims as answers, and the owner caught it](2026-11.md#a-procedural-choice-was-filed-as-an-inquiry-question-with-claims-as-answers-and-the-owner-caught-it)
@@ -41,8 +42,8 @@ Notes taken during the work, to revisit at the next retrospective (RETRO) - what
 
 ## All books
 
-32 entries across 1 book, newest first.
+33 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-11](2026-11.md) | 32 | 2026-11-21 | 2026-11-25 |
+| [2026-11](2026-11.md) | 33 | 2026-11-21 | 2026-11-25 |

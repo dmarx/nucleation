@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**1271 documents cited without acknowledgement.** Not listed: 49702 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**1273 documents cited without acknowledgement.** Not listed: 49770 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -1754,7 +1754,7 @@ A delegated reader keeps running notes in the repository, outside the record, on
 
 Appraisal is negotiation among perspectives
 
-47 citations in 26 files await a look; 189 other citations of it are acknowledged.
+47 citations in 26 files await a look; 191 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-039.md:61`](../../record/claims.d/CLAIM-039.md)
 - [`record/claims.d/CLAIM-283.md:150`](../../record/claims.d/CLAIM-283.md)
@@ -2625,7 +2625,7 @@ Relata are to relations as realizations to specs
 
 goal-conduciveness valence
 
-23 citations in 11 files await a look; 94 other citations of it are acknowledged.
+23 citations in 11 files await a look; 99 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-432.md:245`](../../record/claims.d/CLAIM-432.md)
 - [`record/claims.d/CLAIM-432.md:249`](../../record/claims.d/CLAIM-432.md)
@@ -3118,6 +3118,31 @@ Persisting through modes; histories need not glue
 - [`record/syntheses.d/SYNTHESIS-043.md:209`](../../record/syntheses.d/SYNTHESIS-043.md)
 - [`record/syntheses.d/SYNTHESIS-043.md:223`](../../record/syntheses.d/SYNTHESIS-043.md)
 
+### [THEORY-013](../../record/theory.d/THEORY-013.md) — Proposed
+
+Published behavioural contextuality data show none
+
+18 citations in 13 files await a look; 52 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-243.md:67`](../../record/notes.d/NOTE-243.md)
+- [`record/notes.d/NOTE-243.md:125`](../../record/notes.d/NOTE-243.md)
+- [`record/notes.d/NOTE-243.md:133`](../../record/notes.d/NOTE-243.md)
+- [`record/notes.d/NOTE-245.md:166`](../../record/notes.d/NOTE-245.md)
+- [`record/notes.d/NOTE-246.md:158`](../../record/notes.d/NOTE-246.md)
+- [`record/notes.d/NOTE-249.md:185`](../../record/notes.d/NOTE-249.md)
+- [`record/notes.d/NOTE-250.md:210`](../../record/notes.d/NOTE-250.md)
+- [`record/notes.d/NOTE-250.md:211`](../../record/notes.d/NOTE-250.md)
+- [`record/notes.d/NOTE-251.md:236`](../../record/notes.d/NOTE-251.md)
+- [`record/notes.d/NOTE-252.md:206`](../../record/notes.d/NOTE-252.md)
+- [`record/notes.d/NOTE-253.md:225`](../../record/notes.d/NOTE-253.md)
+- [`record/notes.d/NOTE-271.md:193`](../../record/notes.d/NOTE-271.md)
+- [`record/notes.d/NOTE-279.md:129`](../../record/notes.d/NOTE-279.md)
+- [`record/notes.d/NOTE-294.md:127`](../../record/notes.d/NOTE-294.md)
+- [`record/notes.d/NOTE-294.md:140`](../../record/notes.d/NOTE-294.md)
+- [`record/notes.d/NOTE-299.md:111`](../../record/notes.d/NOTE-299.md)
+- [`record/notes.d/NOTE-299.md:128`](../../record/notes.d/NOTE-299.md)
+- [`record/retrospectives.d/RETRO-012.md:88`](../../record/retrospectives.d/RETRO-012.md)
+
 ### [CLAIM-181](../../record/claims.d/CLAIM-181.md) — Proposed
 
 Record fixes the grammar, not the shape
@@ -3166,6 +3191,30 @@ Valence is felt when the system models it
 - [`record/theory.d/THEORY-873.md:34`](../../record/theory.d/THEORY-873.md)
 - [`record/theory.d/THEORY-882.md:36`](../../record/theory.d/THEORY-882.md)
 
+### [SYNTHESIS-003](../../record/syntheses.d/SYNTHESIS-003.md) — Superseded
+
+What persists is the organization, not repertoire
+
+17 citations in 6 files await a look; 11 other citations of it are acknowledged.
+
+- [`docs/syntheses/admission/admitted.md:13`](../syntheses/admission/admitted.md)
+- [`docs/syntheses/admission/admitted.md:15`](../syntheses/admission/admitted.md)
+- [`docs/syntheses/role/thesis.md:13`](../syntheses/role/thesis.md)
+- [`docs/syntheses/role/thesis.md:15`](../syntheses/role/thesis.md)
+- [`docs/syntheses/route/hypothesis.md:13`](../syntheses/route/hypothesis.md)
+- [`docs/syntheses/route/hypothesis.md:15`](../syntheses/route/hypothesis.md)
+- [`docs/syntheses/warrant/interpretive.md:13`](../syntheses/warrant/interpretive.md)
+- [`docs/syntheses/warrant/interpretive.md:15`](../syntheses/warrant/interpretive.md)
+- [`record/claims.d/CLAIM-611.md:28`](../../record/claims.d/CLAIM-611.md)
+- [`record/claims.d/CLAIM-611.md:34`](../../record/claims.d/CLAIM-611.md)
+- [`record/claims.d/CLAIM-611.md:41`](../../record/claims.d/CLAIM-611.md)
+- [`record/claims.d/CLAIM-611.md:64`](../../record/claims.d/CLAIM-611.md)
+- [`record/claims.d/CLAIM-611.md:67`](../../record/claims.d/CLAIM-611.md)
+- [`record/claims.d/CLAIM-611.md:138`](../../record/claims.d/CLAIM-611.md)
+- [`record/claims.d/CLAIM-611.md:152`](../../record/claims.d/CLAIM-611.md)
+- [`record/claims.d/CLAIM-611.md:154`](../../record/claims.d/CLAIM-611.md)
+- [`record/retrospectives.d/RETRO-012.md:88`](../../record/retrospectives.d/RETRO-012.md)
+
 ### [SYNTHESIS-006](../../record/syntheses.d/SYNTHESIS-006.md) — Superseded
 
 Achievements form a partial order, not a nesting
@@ -3213,30 +3262,6 @@ Transitions need a peak resource budgets miss
 - [`record/syntheses.d/SYNTHESIS-031.md:181`](../../record/syntheses.d/SYNTHESIS-031.md)
 - [`record/syntheses.d/SYNTHESIS-032.md:329`](../../record/syntheses.d/SYNTHESIS-032.md)
 - [`record/syntheses.d/SYNTHESIS-041.md:231`](../../record/syntheses.d/SYNTHESIS-041.md)
-
-### [THEORY-013](../../record/theory.d/THEORY-013.md) — Proposed
-
-Published behavioural contextuality data show none
-
-17 citations in 12 files await a look; 52 other citations of it are acknowledged.
-
-- [`record/notes.d/NOTE-243.md:67`](../../record/notes.d/NOTE-243.md)
-- [`record/notes.d/NOTE-243.md:125`](../../record/notes.d/NOTE-243.md)
-- [`record/notes.d/NOTE-243.md:133`](../../record/notes.d/NOTE-243.md)
-- [`record/notes.d/NOTE-245.md:166`](../../record/notes.d/NOTE-245.md)
-- [`record/notes.d/NOTE-246.md:158`](../../record/notes.d/NOTE-246.md)
-- [`record/notes.d/NOTE-249.md:185`](../../record/notes.d/NOTE-249.md)
-- [`record/notes.d/NOTE-250.md:210`](../../record/notes.d/NOTE-250.md)
-- [`record/notes.d/NOTE-250.md:211`](../../record/notes.d/NOTE-250.md)
-- [`record/notes.d/NOTE-251.md:236`](../../record/notes.d/NOTE-251.md)
-- [`record/notes.d/NOTE-252.md:206`](../../record/notes.d/NOTE-252.md)
-- [`record/notes.d/NOTE-253.md:225`](../../record/notes.d/NOTE-253.md)
-- [`record/notes.d/NOTE-271.md:193`](../../record/notes.d/NOTE-271.md)
-- [`record/notes.d/NOTE-279.md:129`](../../record/notes.d/NOTE-279.md)
-- [`record/notes.d/NOTE-294.md:127`](../../record/notes.d/NOTE-294.md)
-- [`record/notes.d/NOTE-294.md:140`](../../record/notes.d/NOTE-294.md)
-- [`record/notes.d/NOTE-299.md:111`](../../record/notes.d/NOTE-299.md)
-- [`record/notes.d/NOTE-299.md:128`](../../record/notes.d/NOTE-299.md)
 
 ### [THEORY-495](../../record/theory.d/THEORY-495.md) — Proposed
 
@@ -3331,29 +3356,6 @@ Structuralism about individuals must be historical
 - [`record/claims.d/CLAIM-615.md:160`](../../record/claims.d/CLAIM-615.md)
 - [`record/claims.d/CLAIM-615.md:162`](../../record/claims.d/CLAIM-615.md)
 
-### [SYNTHESIS-003](../../record/syntheses.d/SYNTHESIS-003.md) — Superseded
-
-What persists is the organization, not repertoire
-
-16 citations in 5 files await a look; 11 other citations of it are acknowledged.
-
-- [`docs/syntheses/admission/admitted.md:13`](../syntheses/admission/admitted.md)
-- [`docs/syntheses/admission/admitted.md:15`](../syntheses/admission/admitted.md)
-- [`docs/syntheses/role/thesis.md:13`](../syntheses/role/thesis.md)
-- [`docs/syntheses/role/thesis.md:15`](../syntheses/role/thesis.md)
-- [`docs/syntheses/route/hypothesis.md:13`](../syntheses/route/hypothesis.md)
-- [`docs/syntheses/route/hypothesis.md:15`](../syntheses/route/hypothesis.md)
-- [`docs/syntheses/warrant/interpretive.md:13`](../syntheses/warrant/interpretive.md)
-- [`docs/syntheses/warrant/interpretive.md:15`](../syntheses/warrant/interpretive.md)
-- [`record/claims.d/CLAIM-611.md:28`](../../record/claims.d/CLAIM-611.md)
-- [`record/claims.d/CLAIM-611.md:34`](../../record/claims.d/CLAIM-611.md)
-- [`record/claims.d/CLAIM-611.md:41`](../../record/claims.d/CLAIM-611.md)
-- [`record/claims.d/CLAIM-611.md:64`](../../record/claims.d/CLAIM-611.md)
-- [`record/claims.d/CLAIM-611.md:67`](../../record/claims.d/CLAIM-611.md)
-- [`record/claims.d/CLAIM-611.md:138`](../../record/claims.d/CLAIM-611.md)
-- [`record/claims.d/CLAIM-611.md:152`](../../record/claims.d/CLAIM-611.md)
-- [`record/claims.d/CLAIM-611.md:154`](../../record/claims.d/CLAIM-611.md)
-
 ### [SYNTHESIS-020](../../record/syntheses.d/SYNTHESIS-020.md) — Proposed
 
 Organizational valence is a negotiated potential
@@ -3404,7 +3406,7 @@ When networks acquire structure is still open
 
 Consciousness began as hedonic valence
 
-16 citations in 3 files await a look; 59 other citations of it are acknowledged.
+16 citations in 3 files await a look; 67 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-039.md:63`](../../record/claims.d/CLAIM-039.md)
 - [`record/claims.d/CLAIM-039.md:91`](../../record/claims.d/CLAIM-039.md)
@@ -3516,7 +3518,7 @@ Synergy lets macro features predict the future
 
 Organized systems can have affective states
 
-14 citations in 10 files await a look; 68 other citations of it are acknowledged.
+14 citations in 10 files await a look; 79 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-003.md:25`](../../record/claims.d/CLAIM-003.md)
 - [`record/claims.d/CLAIM-003.md:95`](../../record/claims.d/CLAIM-003.md)
@@ -3579,7 +3581,7 @@ Three tests for agency, a fourth for will
 
 Anxiety may be governance-maintained
 
-14 citations in 13 files await a look; 177 other citations of it are acknowledged.
+14 citations in 13 files await a look; 182 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-283.md:150`](../../record/claims.d/CLAIM-283.md)
 - [`record/claims.d/CLAIM-437.md:178`](../../record/claims.d/CLAIM-437.md)
@@ -4283,6 +4285,23 @@ Drugs sensitize wanting, not liking
 - [`record/theory.d/THEORY-893.md:35`](../../record/theory.d/THEORY-893.md)
 - [`record/theory.d/THEORY-893.md:123`](../../record/theory.d/THEORY-893.md)
 
+### [ADR-056](../../record/decisions.d/ADR-056.md) — Rejected
+
+A TERM says what job its definition does (disambiguation, construct, criterion or position), piloted on a sample before it becomes a field, and a criterion TERM carries an application contract that keeps its criterion apart from its indicators
+
+10 citations in 8 files await a look; 2 other citations of it are acknowledged.
+
+- [`record/decisions.d/ADR-107.md:30`](../../record/decisions.d/ADR-107.md)
+- [`record/decisions.d/ADR-107.md:42`](../../record/decisions.d/ADR-107.md)
+- [`record/principles.d/DP-007.md:12`](../../record/principles.d/DP-007.md)
+- [`record/principles.d/DP-007.md:16`](../../record/principles.d/DP-007.md)
+- [`record/retrospectives.d/RETRO-012.md:60`](../../record/retrospectives.d/RETRO-012.md)
+- [`record/terms.d/TERM-082.md:84`](../../record/terms.d/TERM-082.md)
+- [`record/terms.d/TERM-084.md:115`](../../record/terms.d/TERM-084.md)
+- [`record/terms.d/TERM-086.md:140`](../../record/terms.d/TERM-086.md)
+- [`record/terms.d/TERM-099.md:45`](../../record/terms.d/TERM-099.md)
+- [`record/terms.d/TERM-100.md:46`](../../record/terms.d/TERM-100.md)
+
 ### [CLAIM-069](../../record/claims.d/CLAIM-069.md) — Superseded
 
 Multimaximal couplings replaced 2016 CbD
@@ -4503,22 +4522,6 @@ Agency needs a standpoint that revises standards
 - [`record/questions.d/QUESTION-092.md:76`](../../record/questions.d/QUESTION-092.md)
 - [`record/theory.d/THEORY-223.md:92`](../../record/theory.d/THEORY-223.md)
 - [`record/theory.d/THEORY-223.md:128`](../../record/theory.d/THEORY-223.md)
-
-### [ADR-056](../../record/decisions.d/ADR-056.md) — Rejected
-
-A TERM says what job its definition does (disambiguation, construct, criterion or position), piloted on a sample before it becomes a field, and a criterion TERM carries an application contract that keeps its criterion apart from its indicators
-
-9 citations in 7 files await a look; 2 other citations of it are acknowledged.
-
-- [`record/decisions.d/ADR-107.md:30`](../../record/decisions.d/ADR-107.md)
-- [`record/decisions.d/ADR-107.md:42`](../../record/decisions.d/ADR-107.md)
-- [`record/principles.d/DP-007.md:12`](../../record/principles.d/DP-007.md)
-- [`record/principles.d/DP-007.md:16`](../../record/principles.d/DP-007.md)
-- [`record/terms.d/TERM-082.md:84`](../../record/terms.d/TERM-082.md)
-- [`record/terms.d/TERM-084.md:115`](../../record/terms.d/TERM-084.md)
-- [`record/terms.d/TERM-086.md:140`](../../record/terms.d/TERM-086.md)
-- [`record/terms.d/TERM-099.md:45`](../../record/terms.d/TERM-099.md)
-- [`record/terms.d/TERM-100.md:46`](../../record/terms.d/TERM-100.md)
 
 ### [CLAIM-044](../../record/claims.d/CLAIM-044.md) — Proposed
 
@@ -4998,7 +5001,7 @@ Organizational perspectives explain the self
 
 A corporation can lack remorse functionally
 
-8 citations in 8 files await a look; 107 other citations of it are acknowledged.
+8 citations in 8 files await a look; 108 other citations of it are acknowledged.
 
 - [`record/arguments.d/ARG-243.md:67`](../../record/arguments.d/ARG-243.md)
 - [`record/decisions.d/ADR-061.md:122`](../../record/decisions.d/ADR-061.md)
@@ -5013,7 +5016,7 @@ A corporation can lack remorse functionally
 
 Common currency and override as two regimes
 
-8 citations in 6 files await a look; 37 other citations of it are acknowledged.
+8 citations in 6 files await a look; 39 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-436.md:185`](../../record/claims.d/CLAIM-436.md)
 - [`record/claims.d/CLAIM-440.md:326`](../../record/claims.d/CLAIM-440.md)
@@ -5865,8 +5868,8 @@ Work merges into a staging branch through pull requests, and a Promote workflow 
 6 citations in 5 files await a look; 14 other citations of it are acknowledged.
 
 - [`.claude/skills/write-manuscript/SKILL.md:346`](../../.claude/skills/write-manuscript/SKILL.md)
-- [`CLAUDE.md:151`](../../CLAUDE.md)
-- [`CLAUDE.md:159`](../../CLAUDE.md)
+- [`CLAUDE.md:153`](../../CLAUDE.md)
+- [`CLAUDE.md:164`](../../CLAUDE.md)
 - [`record/cases.d/CASE-300.md:194`](../../record/cases.d/CASE-300.md)
 - [`record/decisions.d/ADR-127.md:80`](../../record/decisions.d/ADR-127.md)
 - [`record/syntheses.d/SYNTHESIS-012.md:186`](../../record/syntheses.d/SYNTHESIS-012.md)
@@ -7776,7 +7779,7 @@ Organized by a judgement no collective holds
 
 Emotion claims precedence; valence is granted
 
-4 citations in 4 files await a look; 24 other citations of it are acknowledged.
+4 citations in 4 files await a look; 30 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-283.md:150`](../../record/claims.d/CLAIM-283.md)
 - [`record/claims.d/CLAIM-484.md:51`](../../record/claims.d/CLAIM-484.md)
@@ -7820,7 +7823,7 @@ Strongest rival: rich contextual baseline
 
 Viable reach, valence and emotion are three
 
-4 citations in 4 files await a look; 13 other citations of it are acknowledged.
+4 citations in 4 files await a look; 19 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-1484.md:332`](../../record/notes.d/NOTE-1484.md)
 - [`record/notes.d/NOTE-1488.md:183`](../../record/notes.d/NOTE-1488.md)
@@ -9716,6 +9719,16 @@ The session's changes to luria.yaml of 2026-11-19: a work for the owner's manusc
 - [`record/retrospectives.d/RETRO-006.md:193`](../../record/retrospectives.d/RETRO-006.md)
 - [`record/retrospectives.d/RETRO-007.md:72`](../../record/retrospectives.d/RETRO-007.md)
 
+### [RETRO-010](../../record/retrospectives.d/RETRO-010.md) — Draft
+
+The stretch from the governance-of-possibility manuscript to the syntheses rule, 2026-11-23 to 2026-11-25: owner corrections were turned into decisions and skills within the hour, but the same error recurred in five forms, filing the wrong kind of object because the rules' letter was followed over their purpose
+
+3 citations in 2 files await a look.
+
+- [`record/principles.d/DP-007.md:18`](../../record/principles.d/DP-007.md)
+- [`record/retrospectives.d/RETRO-012.md:61`](../../record/retrospectives.d/RETRO-012.md)
+- [`record/retrospectives.d/RETRO-012.md:167`](../../record/retrospectives.d/RETRO-012.md)
+
 ### [SYNTHESIS-012](../../record/syntheses.d/SYNTHESIS-012.md) — Proposed
 
 The record's grammar is an amendable apparatus
@@ -10419,6 +10432,15 @@ Census of filing dispositions in the workbench
 
 - [`record/claims.d/CLAIM-177.md:170`](../../record/claims.d/CLAIM-177.md)
 - [`record/leads.d/LEAD-122.md:42`](../../record/leads.d/LEAD-122.md)
+
+### [CLAIM-001](../../record/claims.d/CLAIM-001.md) — Proposed
+
+Conditional diffusion already covers transport
+
+2 citations in 2 files await a look; 14 other citations of it are acknowledged.
+
+- [`record/decisions.d/ADR-061.md:113`](../../record/decisions.d/ADR-061.md)
+- [`record/retrospectives.d/RETRO-012.md:88`](../../record/retrospectives.d/RETRO-012.md)
 
 ### [CLAIM-015](../../record/claims.d/CLAIM-015.md) — Superseded
 
@@ -12695,14 +12717,6 @@ Effort-cost model of control
 
 - [`record/claims.d/CLAIM-1338.md:111`](../../record/claims.d/CLAIM-1338.md)
 
-### [CLAIM-001](../../record/claims.d/CLAIM-001.md) — Proposed
-
-Conditional diffusion already covers transport
-
-1 citation in 1 file awaits a look; 14 other citations of it are acknowledged.
-
-- [`record/decisions.d/ADR-061.md:113`](../../record/decisions.d/ADR-061.md)
-
 ### [CLAIM-010](../../record/claims.d/CLAIM-010.md) — Rejected
 
 Every control system has a will
@@ -14407,13 +14421,21 @@ The lead backlog run: about 120 leads carried out by delegated workers, each on 
 
 - [`record/retrospectives.d/RETRO-010.md:66`](../../record/retrospectives.d/RETRO-010.md)
 
-### [RETRO-010](../../record/retrospectives.d/RETRO-010.md) — Draft
+### [RETRO-011](../../record/retrospectives.d/RETRO-011.md) — Draft
 
-The stretch from the governance-of-possibility manuscript to the syntheses rule, 2026-11-23 to 2026-11-25: owner corrections were turned into decisions and skills within the hour, but the same error recurred in five forms, filing the wrong kind of object because the rules' letter was followed over their purpose
+The governance-of-becoming stretch, 2026-11-24 to 2026-11-25: an exchange filed, a manuscript series drafted, reviewed, refreshed and rewritten, and two recomputation passes; what went right was independent review, joins testing, fact-checking and reruns by readers who did no drafting, each of which found real errors, and what went wrong was a search for work already done that missed held results three times, joins filed as notes before they were tested, drafts written as audits of the record rather than as manuscripts, and steps held for the owner that the owner did not mean to hold
 
 1 citation in 1 file awaits a look.
 
-- [`record/principles.d/DP-007.md:18`](../../record/principles.d/DP-007.md)
+- [`record/retrospectives.d/RETRO-012.md:167`](../../record/retrospectives.d/RETRO-012.md)
+
+### [RETRO-012](../../record/retrospectives.d/RETRO-012.md) — Draft
+
+The retitle batch, 2026-11-25
+
+1 citation in 1 file awaits a look.
+
+- [`CLAUDE.md:156`](../../CLAUDE.md)
 
 ### [SYNTHESIS-019](../../record/syntheses.d/SYNTHESIS-019.md) — Proposed
 

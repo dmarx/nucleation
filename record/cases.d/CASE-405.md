@@ -10,7 +10,7 @@ statement: >-
   lasts only while it is on site, a sanction-only and a redesigned firm both
   went on doing the harm by report or allegation, the record's own case is
   not yet ripe, and no case holds reputation and benefit fixed
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-23'
@@ -19,6 +19,14 @@ history:
     coding rules, the case and event tables, the coefficients read, the
     summary script, its tests and the results are committed under
     scratch/studies/lead-101/.
+- version: 2
+  date: '2026-11-26'
+  note: >-
+    Dated note of 2026-11-26 from the exchange "Alignment
+    consequences brainstorm" (ChatGPT, 2026-11-26), U5–A8: A8 uses
+    the Purdue sub-case for a different mechanism, jurisdiction over
+    clinical judgment; the DOJ release of 2020 is registered. The
+    study is unchanged.
 standing: documented
 kind: executed-study
 tags:
@@ -189,3 +197,27 @@ in litigation or by a monitor's public report), set against an S firm with
 the same exposure. Wells Fargo's window opens in mid-2027 on the rules'
 two-year ripeness test. [CLAIM-039](../claims.d/CLAIM-039.md) is untouched: nothing here bears on
 whether the affect is functional, only on which affect.
+
+## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U5–A8)
+
+<!-- inactive-ok-file: CLAIM-tmpevykb TERM-tmp3rbue CLAIM-1334 LIT-tmp0323x — new or Proposed; the entries A8's reading of Purdue applies, and the registered release -->
+
+A parallel use of this study's Purdue sub-case, with no edge. A8 §4 reads
+Purdue not for reversion after a sanction, this study's question, but for
+"commercial optimization entering medical judgment": "a commercial
+criterion acquired influence over a domain that ought to be governed by
+independent medical judgment", with a table setting commercial
+jurisdiction (manufacturing, distribution, viability, availability)
+against clinical (appropriateness, patient risk, evaluation of evidence,
+welfare). It cites sales-representative bonuses rising from $1M in 1996
+to $40M in 2001, sourced to "federal court record and historical
+research", which this study did not code and which are unverified; and the
+2020 resolution, in which "Purdue agreed to plead guilty to three federal
+felony counts, including violations involving kickbacks", now registered
+as [LIT-tmp0323x](../literature.d/LIT-tmp0323x.md), unread.
+
+That reading is the jurisdiction claim filed from A6 ([CLAIM-tmpevykb](../claims.d/CLAIM-tmpevykb.md), in
+[TERM-tmp3rbue](../terms.d/TERM-tmp3rbue.md)) and [CLAIM-1334](../claims.d/CLAIM-1334.md)'s safeguard of bounding by role which
+decisions a criterion may govern, applied to a profession. It leaves this
+study's result where it was: A8 does not say what Purdue did after its
+integrity agreement ended.

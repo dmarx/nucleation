@@ -3,9 +3,18 @@ number: 1287
 status: Proposed
 formerly:
 - CLAIM-tmpjnly0
-version: 2
+version: 3
 history:
 - version: 2
+  date: '2026-11-26'
+  note: >-
+    Dated note of 2026-11-26 from the exchange "Alignment
+    consequences brainstorm" (ChatGPT, 2026-11-26), U6–A11: A11 §5
+    restates the claim correctly, adds independent evaluation and
+    internal dissent to its constraints, and draws the consequence
+    that jurisdiction can be an endogenous product of optimization;
+    CLAIM-tmpv3frk rests on it. The claim is unchanged.
+- version: 3
   date: '2026-11-26'
   note: >-
     Joins the work organizational-origins-of-misalignment (ADR-tmp0cgxa) at
@@ -140,3 +149,29 @@ their weakening. Whether that erosion is wrongful is the separate question
 A48 §6 marks, answered only with an independently justified constraint
 ([CLAIM-624](CLAIM-624.md)). The wording of this note is the assistant's (Claude, in this
 session); adopting it is the owner's call.
+
+## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U6–A11)
+
+<!-- inactive-ok-file: TERM-tmp3rbue CLAIM-tmpv3frk CLAIM-tmp826ap — new; the term and the claims of 2026-11-26 that apply this one -->
+
+Support for an application. A11 §5 calls this claim "the single most
+relevant entry" for the paperclip maximizer, "a much closer sociological
+analogue of instrumental convergence than the simple comparison between
+corporate profitability and paperclip production", and restates it
+correctly: exit, challenge, regulation and internal resistance "are not
+necessarily fixed features of an organization's environment. They are
+state variables." Its "simplified formalization", the maximum over actions
+of the discounted sum of J(x_t, a_t) − L(a_t, c_t) with c_{t+1} = f(c_t,
+a_t), which A calls "my schematic restatement", has the structure of the
+assistant's derivation of 2026-11-24 above, with c for C, and needs that
+note's two conditions to give the result.
+
+A11 adds two rows to the constraints the optimizer values eroding:
+"Independent evaluation", with "Reduced detection of undesirable
+consequences", and "Internal dissent". And it draws the consequence for
+A6's term ([TERM-tmp3rbue](../terms.d/TERM-tmp3rbue.md)): jurisdiction "can itself become an endogenous
+product of optimization." A8's hypothesis, that optimization is
+pathological when its success erodes its evaluators, rests on that
+([CLAIM-tmpv3frk](CLAIM-tmpv3frk.md)), and A11 §7's constitutional failure of a metric is its
+case for metrics ([CLAIM-tmp826ap](CLAIM-tmp826ap.md)). A11 states the status correctly:
+"still proposed, with interpretive warrant".

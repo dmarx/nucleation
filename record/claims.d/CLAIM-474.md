@@ -17,7 +17,7 @@ statement: >-
   reconstruction occurring without autonomy. The research program is to find
   the conditions for each, and their dependencies, apart from the order in
   which an inquiry meets them
-version: 8
+version: 9
 history:
 - version: 2
   date: '2026-10-27'
@@ -100,6 +100,13 @@ history:
     Joins the work governance-of-becoming under ADR-104's rule, as
     stated or used in A49 Article 1 abstract, §6 (ADR-147). No
     change of title or status.
+- version: 9
+  date: '2026-11-26'
+  note: >-
+    Dated note from the exchange "Alignment consequences brainstorm"
+    (ChatGPT, 2026-11-26), A17 §6: a sequence of stages to purpose
+    formation, which as achievements extends this claim and as a sequence
+    would conflict with it. No change of status or statement.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -416,3 +423,19 @@ within Nucleation's existing process-relational ontology". An extension
 of the order by one achievement between interconnection and individuation,
 by A, not argued for beyond its statement; the manuscript of A26 cites
 this claim for the same distinctions (§2). The wording of this note is the assistant's (Claude, in this session), reporting A's (ChatGPT's) text; adopting what it reports is the owner's call.
+
+## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U10–A17)
+
+<!-- inactive-ok-file: CLAIM-tmpvuiy4 CLAIM-tmp0o2mp — Proposed or Open; filed from the exchange of 2026-11-26 -->
+
+A17 §6 gives a dynamical reading of purpose formation, constituent demands producing a maintained collective structure C that in turn changes the demands, (d₁, …, dₙ) → C → (d₁′, …, dₙ′), and lists stages:
+
+| Stage | Organizational achievement |
+|---|---|
+| Coordination | Processes adjust their activities to one another. |
+| Integration | Their interactions generate a maintained collective structure. |
+| Regulation | Some conditions of the collective become consequential to its activity. |
+| Purpose formation | Maintaining or transforming those conditions organizes activity. |
+| Reflexive purpose governance | The organization can reconsider the conditions and criteria it pursues. |
+
+A17 itself hedges: "This is my proposed developmental decomposition, not an established sequence in the record. Its value would be in designing separating cases for each achievement." Read as separable achievements, the table extends this claim's list with two, purpose formation ([CLAIM-tmpvuiy4](CLAIM-tmpvuiy4.md)) and reflexive purpose governance ([CLAIM-424](CLAIM-424.md)'s reflexive governance, turned on ends), and A17's "self-maintenance alone is not necessarily purpose" is this claim's "none implies the next". Read as a sequence, each stage requiring the one before, it would conflict with this claim's partial order, and this claim's own counterexample pattern applies: [CLAIM-tmp0o2mp](CLAIM-tmp0o2mp.md) (A's) has an institution deliberately constituting a purpose it does not effectively pursue. No separating cases are designed in the exchange; [LEAD-tmpicg4k](../leads.d/LEAD-tmpicg4k.md) is A17 §12's test for the purpose stage. No change of status or statement.

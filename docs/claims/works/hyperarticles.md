@@ -6,7 +6,7 @@
 
 **Hyperarticles, Editorial Feeds, and Scientific Publishing over Governed Research Records** — Article 3 of A45 of the exchange "Hyper article interpretation" (2026-11-25), the atlas's third entry point: an article is already a view; a hyperarticle is a versioned view over a maintained record, with the record as a reference implementation; one body of research as many views; a journal as a feed over editors; the publisher need not own the judgement; maintenance in place of publish-or-perish; and provenance for educators. Its argument is held mainly in the line scholarly-publishing (ADR-145).
 
-20 of 1346 CLAIM documents. Back to the [full index](../README.md).
+20 of 1349 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

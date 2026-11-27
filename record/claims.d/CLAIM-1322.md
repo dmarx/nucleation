@@ -3,7 +3,15 @@ number: 1322
 status: Proposed
 formerly:
 - CLAIM-tmptrn75
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-26'
+  note: >-
+    Dated note of 2026-11-26 from the exchange "Alignment
+    consequences brainstorm" (ChatGPT, 2026-11-26), U6–A11: A11 §6
+    applies the claim to surveillance-based business models and to
+    models of human psychology. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -130,3 +138,24 @@ it means effective weight. Read in the second sense, the profile is
 claim to the second reading. The wording of this note is the assistant's
 (Claude, in this session).
 
+## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U6–A11)
+
+<!-- inactive-ok-file: CLAIM-1251 — Proposed; the objection and the owner's claim the note names -->
+
+An application, no edge. A11 §6 states the claim correctly, as "a
+functional account of an institution that can understand people
+exceptionally well without their interests acquiring normative authority
+over it", and applies it twice. To surveillance-based business models: an
+organization "may know more and more" about what its customers desire,
+what frustrates them, what makes them vulnerable, which interventions
+change their behaviour and when they are likely to leave, "Yet none of
+this necessarily improves the standing of those customers within the
+organization", and "the information can increase the organization's
+capacity to influence them." To AI: "improvements in a model's ability to
+understand human psychology do not guarantee improvements in its
+alignment. They increase its potential capacity both to assist and to
+exploit." It notes, correctly, that "The record also contains objections
+to the sociopathy analogy" ([CLAIM-431](CLAIM-431.md)'s, above, among them) and cites
+[CLAIM-1251](CLAIM-1251.md) for observability as a surface for domination. The application
+to models adds nothing the claim's own statement does not already cover;
+it is recorded as A's extension.

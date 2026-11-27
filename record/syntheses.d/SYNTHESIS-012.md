@@ -8,10 +8,13 @@ statement: >-
   The record's grammar is an apparatus in the operational sense: fixed at
   any moment, amended by decision when a misfit is noticed, and made of
   typed relations more rigid than their relata without being sound for it;
-  that it constitutes the record's objects is Proposed; and its revision is
-  the record's own case of inquiry as specification, an inquiry that can
-  revise what an answer could be and specifies under resource bounds
-version: 2
+  that it constitutes the record's objects is Proposed; its revision is the
+  record's own case of inquiry as specification under resource bounds; an
+  amendment can make a distinction expressible or make an expressible one
+  produce findings; and that Luria keeps apart what misaligned institutions
+  couple, so that the record is a model of distributed institutional
+  alignment, is a reading proposed and untested
+version: 3
 history:
 - version: 2
   date: '2026-11-23'
@@ -22,6 +25,17 @@ history:
     and QUESTION-503 to the section on inquiry as specification. The
     counts in the section on how the two sections relate are version 1's
     and say so. The title is unchanged.
+- version: 3
+  date: '2026-11-26'
+  note: >-
+    Revised to take the exchange "Alignment consequences brainstorm"
+    (ChatGPT, 2026-11-26) into account, under ADR-151, and rewritten from
+    an inventory into one argument. Added CLAIM-tmpxl7dc, ARG-tmpsis1z,
+    CLAIM-tmpoh8gm, CLAIM-tmpc4o6j, CLAIM-tmpxf70b, CLAIM-792,
+    CLAIM-tmpygs06 and QUESTION-tmp5jhwd. The per-component list, the
+    relation counts of version 1 and the audit of candidate links are
+    dropped from the body; they are in version 2 and the curation entries
+    of 2026-11-07 and 2026-11-23. The title is unchanged.
 defeated_if: >-
   A component misstated or misattributed
   here; an in-force component whose line is record-as-apparatus left out
@@ -58,246 +72,206 @@ integrates:
 - CASE-300
 - CASE-299
 - QUESTION-503
+- CLAIM-tmpxl7dc
+- ARG-tmpsis1z
+- CLAIM-tmpoh8gm
+- CLAIM-tmpc4o6j
+- CLAIM-tmpxf70b
+- CLAIM-792
+- CLAIM-tmpygs06
+- QUESTION-tmp5jhwd
 ---
+<!-- inactive-ok-file: CLAIM-181 CLAIM-183 CLAIM-472 CLAIM-476 TERM-087 CLAIM-792 CLAIM-1334 CLAIM-1200 CLAIM-184 TERM-tmp35z0s — Proposed; components and held entries the argument cites, with their standing -->
+<!-- inactive-ok-file: CLAIM-tmpxl7dc ARG-tmpsis1z CLAIM-tmpoh8gm CLAIM-tmpc4o6j CLAIM-tmpxf70b CLAIM-tmpygs06 ARG-tmpo6eca CLAIM-tmp3dn8p TERM-tmp3rbue TERM-tmp8nuak SYNTHESIS-tmp4kh41 — Proposed, Open or Rejected; filed from the exchange "Alignment consequences brainstorm" on 2026-11-26 -->
+<!-- inactive-ok-file: SYNTHESIS-090 ADR-151 — Proposed; the sibling synthesis of the line and the decision on how a synthesis is written -->
 
 # SYNTHESIS-012: The record's grammar is an amendable apparatus
 
-## The account
+*A synthesis of the part of record-as-apparatus that says what the record's grammar is and does; how the apparatus would be tested is [SYNTHESIS-090](SYNTHESIS-090.md). Version 3 takes the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26) into account, under [ADR-151](../decisions.d/ADR-151.md); the exchange's map of turns is in its curation entry. It adds nothing. Its standing is its components'.*
 
-The record fixes the grammar an argument is expressed in, though not its
-shape: a move that fits no scheme or declared relation is forced into one
-or lost until the misfit is noticed ([CLAIM-181](../claims.d/CLAIM-181.md), Proposed). In practice a
-misfit that was noticed has repeatedly been treated as a defect of the
-grammar and answered by amending it ([CLAIM-419](../claims.d/CLAIM-419.md), from five decisions and
-[CASE-131](../cases.d/CASE-131.md)); whether every such move is caught is not shown, and [ADR-032](../decisions.d/ADR-032.md)'s
-literature roles are the misfit noticed and left in prose. A typed
-relation is more constrained than either of its relata, and that rigidity
-"is a fact about the grammar, not evidence that the dependency it records
-is sound" ([CLAIM-479](../claims.d/CLAIM-479.md)); [CASE-180](../cases.d/CASE-180.md) shows the same asymmetry in the record's
-rates, where no relation type has been redeclared. [CASE-131](../cases.d/CASE-131.md) is the
-instance where the rigidity outran the relata: a fixed converse asserted
-an inference nobody made, and the grammar gained a relation.
+## The question
 
-Put together under [TERM-089](../terms.d/TERM-089.md)'s four functions, this is [CLAIM-469](../claims.d/CLAIM-469.md)'s thesis:
-luria is an apparatus in the operational sense, differentiating,
-retaining, enforcing and revising the distinctions that fix what counts
-as a referable and governable object in the record. [CLAIM-469](../claims.d/CLAIM-469.md) rests on
-[CLAIM-479](../claims.d/CLAIM-479.md) and [CLAIM-419](../claims.d/CLAIM-419.md) and is grounded in [CASE-131](../cases.d/CASE-131.md) and [CASE-178](../cases.d/CASE-178.md), so the
-line's operational integration is already a claim of its own. What goes
-beyond it, that the record's objects are constituted in Barad's sense
-([TERM-087](../terms.d/TERM-087.md)'s agential cut), is [CLAIM-476](../claims.d/CLAIM-476.md), Proposed: its first defeater,
-that "constituted" adds nothing to the operational facts, is unanswered,
-and [QUESTION-366](../questions.d/QUESTION-366.md) asks for one consequence that would answer it. If an
-apparatus makes some distinctions determinate and leaves others
-unstatable, its choice is open to evaluation, though no exclusion fixes an
-obligation by itself ([CLAIM-472](../claims.d/CLAIM-472.md), Proposed, resting on [CLAIM-476](../claims.d/CLAIM-476.md)); the
-record's own instance of that question is [QUESTION-072](../questions.d/QUESTION-072.md), whether its
-grammar and addressability distribute credibility among contributors.
-That generated views fed back become instruments of the argument is
-[CLAIM-183](../claims.d/CLAIM-183.md), Proposed, on one instance.
+The record expresses its argument in a grammar of schemes, fields and
+typed relations that luria checks. What is that grammar to the inquiry it
+holds: a container, an instrument, or something that makes the record's
+objects what they are? And, since the exchange, what does it say about
+the alignment of the organization that keeps the record?
 
-[CASE-178](../cases.d/CASE-178.md) measured how the grammar is revised: on demand, in the pull
-request whose documents needed the refinement, nine times in ten with an
-ADR, and at falling rates while filing rose. [CLAIM-470](../claims.d/CLAIM-470.md), the owner's
-"inquiry is a form of specification", states the general form and names
-the record as its case: "[CLAIM-476](../claims.d/CLAIM-476.md) says luria is an apparatus for a
-record's objects whose grammar the record's own inquiry revises. This
-claim is the general form". Its history note of 2026-10-29 reads [CASE-178](../cases.d/CASE-178.md)
-as "this record's own answer space revised by decision". [TERM-091](../terms.d/TERM-091.md) says
-what such an amendment enlarges, the relational vocabulary. [CLAIM-475](../claims.d/CLAIM-475.md)
-extends [CLAIM-470](../claims.d/CLAIM-470.md): specifying is itself a resource-bounded realization,
-and a stabilized specification is stored inquiry that makes later
-questions cheaper and can entrench, stated in [TERM-092](../terms.d/TERM-092.md)'s inquiry frontier
-and [TERM-095](../terms.d/TERM-095.md)'s tuple. [CLAIM-476](../claims.d/CLAIM-476.md)'s note of 2026-10-27 (U15–U23) states the
-same hinge from the other side: [CLAIM-470](../claims.d/CLAIM-470.md) "complements this claim", and
-"This claim is the case where the inquiry is a record's and the
-specification is luria's grammar."
+## The argument
 
-## Luria as apparatus
+**The grammar is fixed at any moment and amended when a misfit is
+noticed.** The record fixes the grammar an argument is expressed in,
+though not its shape: a move that fits no scheme or relation is forced
+into one or lost until the misfit is noticed ([CLAIM-181](../claims.d/CLAIM-181.md)). The owner's
+answer is that a noticed misfit has repeatedly been treated as a defect
+of the grammar and answered by amending it ([CLAIM-419](../claims.d/CLAIM-419.md), from five
+decisions and the case of the false converse, [CASE-131](../cases.d/CASE-131.md)). The census of
+the record's first 114 decisions bears it out: 88 changed the grammar,
+mostly by refinement, and the misfit each answered had nearly always been
+forced into a category or kept in prose first; noticing has moved to
+review procedures while judgement about revisions stays with the owner
+([CASE-300](../cases.d/CASE-300.md)). That every misfit is caught is not shown. A typed relation is
+more constrained than either of its relata, and that rigidity is a fact
+about the grammar, not evidence that the dependency it records is sound
+([CLAIM-479](../claims.d/CLAIM-479.md)); the record's rates show the same asymmetry, prose revised
+often and relation types never redeclared ([CASE-180](../cases.d/CASE-180.md)). [CASE-131](../cases.d/CASE-131.md) is the
+instance in which the rigidity outran the relata: a fixed converse
+asserted an inference nobody made, and the grammar gained a relation.
 
-The grammar is fixed and amendable; its relations are rigid; luria is an
-apparatus in the operational sense, and the constitutive sense is the
-open part.
+**So luria is an apparatus in the operational sense; that it constitutes
+the record's objects is the open part.** Under [TERM-089](../terms.d/TERM-089.md)'s four functions,
+luria differentiates, retains, enforces and revises the distinctions that
+fix what counts as a referable and governable object in the record
+([CLAIM-469](../claims.d/CLAIM-469.md), resting on [CLAIM-479](../claims.d/CLAIM-479.md) and [CLAIM-419](../claims.d/CLAIM-419.md), grounded in [CASE-131](../cases.d/CASE-131.md) and
+the measured revision of the grammar, [CASE-178](../cases.d/CASE-178.md)). [TERM-089](../terms.d/TERM-089.md) also says what
+this does not give: a self-modifying apparatus need not be epistemically
+self-correcting. That the record's objects are constituted in Barad's
+sense, [TERM-087](../terms.d/TERM-087.md)'s agential cut, is the owner's further thesis
+([CLAIM-476](../claims.d/CLAIM-476.md)); its first defeater, that "constituted" adds nothing to the
+operational facts, is unanswered, and [QUESTION-366](../questions.d/QUESTION-366.md) asks for a consequence
+that would answer it. If an apparatus makes some distinctions determinate
+and leaves others unstatable, its choice is open to evaluation, though no
+exclusion fixes an obligation by itself ([CLAIM-472](../claims.d/CLAIM-472.md), resting on
+[CLAIM-476](../claims.d/CLAIM-476.md)); the record's own instance is whether its grammar and
+addressability distribute credibility among contributors ([QUESTION-072](../questions.d/QUESTION-072.md)).
+That generated views fed back become instruments of the argument rests on
+one instance ([CLAIM-183](../claims.d/CLAIM-183.md)).
 
-- [CLAIM-181](../claims.d/CLAIM-181.md), the assistant's, narrowed on the owner's correction of
-  2026-10-11, counter, interpretive, Proposed. Its note of 2026-10-30:
-  its own test "is unmet, and no reading can meet it".
-- [CLAIM-419](../claims.d/CLAIM-419.md), the owner's (U18 of 2026-10-22), counter, empirical, Active,
-  against [CLAIM-181](../claims.d/CLAIM-181.md), which concedes it in version 2.
-- [CLAIM-479](../claims.d/CLAIM-479.md), the owner's (U6 of 2026-10-27), thesis, demonstrated, Active.
-- [CASE-131](../cases.d/CASE-131.md), the record's documented specimen, as A18 read it at the
-  owner's prompting, Active.
-- [CASE-180](../cases.d/CASE-180.md), the record's executed study at the owner's request, Active:
-  prose revised about once in 22 settled days, relation types never
-  redeclared, and "the grammar is slow to revise without being slow to
-  grow".
-- [CASE-178](../cases.d/CASE-178.md), the record's executed study at the owner's direction, Active;
-  it illustrates [CLAIM-476](../claims.d/CLAIM-476.md) and [CLAIM-470](../claims.d/CLAIM-470.md) and grounds [CLAIM-469](../claims.d/CLAIM-469.md).
-- [CLAIM-469](../claims.d/CLAIM-469.md), the owner's split at review, thesis, demonstrated, Active;
-  rests on [CLAIM-479](../claims.d/CLAIM-479.md) and [CLAIM-419](../claims.d/CLAIM-419.md), uses [TERM-089](../terms.d/TERM-089.md), complements [CLAIM-470](../claims.d/CLAIM-470.md).
-- [TERM-089](../terms.d/TERM-089.md), A's (A19, A23), adopted by the owner, Active: "A
-  self-modifying apparatus is not necessarily an epistemically
-  self-correcting apparatus."
-- [CLAIM-476](../claims.d/CLAIM-476.md), the owner's (U7 of 2026-10-27), thesis, interpretive,
-  Proposed; rests on [CLAIM-469](../claims.d/CLAIM-469.md), [CLAIM-419](../claims.d/CLAIM-419.md), [CLAIM-195](../claims.d/CLAIM-195.md) and [CLAIM-479](../claims.d/CLAIM-479.md), uses
-  [TERM-087](../terms.d/TERM-087.md).
-- [TERM-087](../terms.d/TERM-087.md), the exchange's three senses of "cut" (A9 §4), Proposed; its
-  apparatus clause waits on [LIT-1657](../literature.d/LIT-1657.md), which is Unavailable.
-- [TERM-091](../terms.d/TERM-091.md), the record's, from the owner's review of the sheaf reduction,
-  Active: a constraint can be inexpressible in a vocabulary, which is not
-  its being false or unknown.
-- [CLAIM-472](../claims.d/CLAIM-472.md), A's (A6, A10, at the owner's U6), thesis, interpretive,
-  Proposed; rests on [CLAIM-476](../claims.d/CLAIM-476.md) and [CLAIM-363](../claims.d/CLAIM-363.md).
-- [CLAIM-183](../claims.d/CLAIM-183.md), from A125 of the translation exchange at U40, filed by the
-  assistant, thesis, empirical, Proposed; rests on [CLAIM-178](../claims.d/CLAIM-178.md), in
-  records-of-inquiry.
-- [QUESTION-072](../questions.d/QUESTION-072.md), filed at the owner's request ahead of its Fricker
-  readings, Open.
+**Revising the grammar is the record's own case of inquiry as
+specification.** The grammar is revised on demand, in the pull request
+whose documents needed the refinement, nearly always with a decision, at
+falling rates while filing rose ([CASE-178](../cases.d/CASE-178.md)). The owner's "inquiry is a form
+of specification" states the general form and names the record as its
+case, reading [CASE-178](../cases.d/CASE-178.md) as this record's answer space revised by decision
+([CLAIM-470](../claims.d/CLAIM-470.md), with [TERM-095](../terms.d/TERM-095.md)'s tuple). An amendment enlarges the relational
+vocabulary, and a constraint can be inexpressible in a vocabulary without
+being false or unknown ([TERM-091](../terms.d/TERM-091.md)). Specifying is itself bounded by
+resources: a stabilized specification is stored inquiry that makes later
+questions cheaper and can entrench ([CLAIM-475](../claims.d/CLAIM-475.md), with [TERM-092](../terms.d/TERM-092.md)'s inquiry
+frontier). Building the staging branch found a requirement no one had
+stated, an instance of building revising its own specification
+([CASE-299](../cases.d/CASE-299.md)), and the limit of that reading, that engineering's findings are
+partly made, is [QUESTION-503](../questions.d/QUESTION-503.md).
 
-- [CASE-300](../cases.d/CASE-300.md), the record's executed study, run on 2026-11-20 for the
-  owner's manuscript and filed at the owner's direction; documented,
-  Active; added at version 2, at the synthesis review of 2026-11-23. A
-  census of the record's 114 decisions to that date: 88 changed the
-  grammar, mostly by refinement; the misfit each answered had nearly
-  always been forced into a category or kept in prose first; removals
-  reached every entry using the term while a change of meaning in place
-  reached none; and the noticing moved to review procedures while
-  judgment about revisions stayed with the owner. It is a variant of
-  [CASE-178](../cases.d/CASE-178.md), which measured how often the grammar grew, illustrates
-  [CLAIM-419](../claims.d/CLAIM-419.md) and [CLAIM-181](../claims.d/CLAIM-181.md), and bears on [QUESTION-458](../questions.d/QUESTION-458.md), [QUESTION-457](../questions.d/QUESTION-457.md) and
-  [QUESTION-388](../questions.d/QUESTION-388.md) (in [SYNTHESIS-090](SYNTHESIS-090.md)).
+**An amendment can make a distinction expressible, or make an expressible
+one consequential.** The exchange restated [CLAIM-469](../claims.d/CLAIM-469.md) as an apparatus for
+governing which differences can produce consequences in the record's
+later work (its note of 2026-11-26, with [TERM-tmp8nuak](../terms.d/TERM-tmp8nuak.md)), and added a
+measure: the difference in findings a perturbation makes under the
+record's rules. On that measure a grammar revision can make an inert
+distinction consequential ([CLAIM-tmpxl7dc](../claims.d/CLAIM-tmpxl7dc.md), A's). The argument for it
+narrows the instance ([ARG-tmpsis1z](../arguments.d/ARG-tmpsis1z.md), the assistant's). Before the
+`corroborates` decision the difference between corroborating and
+depending could not be written at all ([CASE-131](../cases.d/CASE-131.md)), so that decision made a
+distinction expressible. The decision that made a reading of an
+unavailable work fail lint made an already expressible distinction
+produce findings, which is the stronger reading. [CLAIM-419](../claims.d/CLAIM-419.md)'s census does
+not separate the two kinds ([CLAIM-419](../claims.d/CLAIM-419.md), note of 2026-11-26). A's measure
+covers machine findings only; whether they move attention, decisions or
+action A leaves open.
 
-## Inquiry as specification
+**Read as alignment, Luria keeps apart what misaligned institutions
+couple.** The owner asked how Luria bears on the exchange's account of
+misalignment. A13's answer is that Luria engineers some of the
+organizational conditions whose absence produces it. It keeps identity
+apart from standing, a finding apart from its silencing, a premise's
+retirement apart from its dependants' fate and a misfit apart from a
+contributor's error; it separates making something visible from the
+authority over what follows from its visibility, and the discovery of a
+condition from its classification, enforcement and exception
+([CLAIM-tmpoh8gm](../claims.d/CLAIM-tmpoh8gm.md), resting on [CLAIM-469](../claims.d/CLAIM-469.md),
+[CLAIM-479](../claims.d/CLAIM-479.md) and [CLAIM-419](../claims.d/CLAIM-419.md) and on the couplings of a governing metric and of
+penalized discovery, [CLAIM-1334](../claims.d/CLAIM-1334.md) and [CLAIM-1064](../claims.d/CLAIM-1064.md)). Every mechanism and
+figure A13 cites was checked and holds, among them that 63 of 71 changes
+answering a misfit had first been forced or kept in prose ([CLAIM-419](../claims.d/CLAIM-419.md),
+note of 2026-11-26). From this A13 proposes that alignment can be
+distributed across a governed organization, each alignment function given
+an organizational realization, with Luria to institutional alignment what
+a model organism is to developmental biology ([CLAIM-tmpc4o6j](../claims.d/CLAIM-tmpc4o6j.md)), the
+converse of A6's point that aligning each component does not align what
+they compose ([CLAIM-tmp3dn8p](../claims.d/CLAIM-tmp3dn8p.md)). The assistant's note on that claim bounds
+it: the distribution protects only so far as the functions are
+independent of the participant in what they observe and in who sets them,
+and a record of representations is where the separation can be stated,
+not a means of enforcing it.
 
-The general form the line's case instantiates, and its resource bound.
+**Delegating the record's upkeep may widen its governance, and the record
+cannot yet show it.** A13 offers the record as a counterexample to the
+claim that externalizing capabilities disempowers: the delegated work
+exists to widen the owner's capacity to govern ([CLAIM-tmpxf70b](../claims.d/CLAIM-tmpxf70b.md), using
+[TERM-tmp35z0s](../terms.d/TERM-tmp35z0s.md)'s constitutional capability). The record holds half of what
+that needs, that noticing was delegated and judgement about revision was
+not ([CLAIM-792](../claims.d/CLAIM-792.md)). The census cannot give the other half, since it has no
+counterfactual and no measure of the owner's own capacity over time, so
+the argument from it is Rejected ([ARG-tmpo6eca](../arguments.d/ARG-tmpo6eca.md)). A13 also names the
+record's own form of the risk: its upkeep becoming its objective, clean
+lint over insight, claims filed because they are easy to represent, effort
+spent on the record rather than the inquiry. Only the neglect of questions
+that fit no scheme is [CLAIM-181](../claims.d/CLAIM-181.md)'s forcing; the rest is a criterion's
+jurisdiction applied to the record itself ([TERM-tmp3rbue](../terms.d/TERM-tmp3rbue.md)), and the
+nearest held entry is [CLAIM-1200](../claims.d/CLAIM-1200.md)'s last clause ([CLAIM-181](../claims.d/CLAIM-181.md), note of
+2026-11-26).
 
-- [CLAIM-470](../claims.d/CLAIM-470.md), the owner's (U15 of 2026-10-27), thesis, interpretive,
-  Active; uses [TERM-095](../terms.d/TERM-095.md) and [TERM-065](../terms.d/TERM-065.md), corroborates [CLAIM-477](../claims.d/CLAIM-477.md).
-- [CLAIM-475](../claims.d/CLAIM-475.md), the owner's (U17), thesis, interpretive, Active; rests on
-  [CLAIM-470](../claims.d/CLAIM-470.md). Its entrenchment clause it reads as "[CLAIM-184](../claims.d/CLAIM-184.md)'s generative
-  entrenchment reached from cost instead of dependence".
-- [TERM-095](../terms.d/TERM-095.md), A15 and A16's tuple, adopted by the owner, Active.
-- [TERM-092](../terms.d/TERM-092.md), A's (A17 §§2, 7), Active: the askable set, apart from the
-  expressible, the investigable and the answerable.
-- [QUESTION-366](../questions.d/QUESTION-366.md), the record's, from the Simondon readings of 2026-10-31,
-  Open: whether an inquiry needs its own history to know its object or
-  only to revise its conclusions.
+**Designed without Luria, the account still asks for an amendable
+grammar.** Asked what the record's account requires of a platform for
+governing an institution's alignment and development, if Luria did not
+exist ([QUESTION-tmp5jhwd](../questions.d/QUESTION-tmp5jhwd.md), the owner's), A15 derives fourteen
+requirements, one of them [CLAIM-419](../claims.d/CLAIM-419.md) made general: participants must be
+able to report inadequacies in the categories themselves ([CLAIM-tmpygs06](../claims.d/CLAIM-tmpygs06.md)).
+A15 estimates that such a platform would invent something like Luria in
+its first stage of four, and its data model's rule that different objects
+keep different lifecycles is Luria's rule for splitting schemes reached
+from the other side. The platform's place in the argument is
+governing-possibility's ([SYNTHESIS-tmp4kh41](SYNTHESIS-tmp4kh41.md)).
 
-- [CASE-299](../cases.d/CASE-299.md), the record's own tooling, 2026-11-21 ([ADR-116](../decisions.d/ADR-116.md)'s history and
-  pull requests 565 to 567); specimen, documented, Active; added at
-  version 2. Building the staging branch found a requirement no one had
-  stated: after a promotion merged by hand, the back-merge into staging
-  never ran. It illustrates [CLAIM-784](../claims.d/CLAIM-784.md) and [CLAIM-786](../claims.d/CLAIM-786.md) (both Proposed; no
-  account integrates them), as building revising its specification, the
-  reflexive case of [CLAIM-784](../claims.d/CLAIM-784.md); both claims rest on [CLAIM-470](../claims.d/CLAIM-470.md) and use
-  [TERM-095](../terms.d/TERM-095.md).
-- [QUESTION-503](../questions.d/QUESTION-503.md), raised by [CLAIM-784](../claims.d/CLAIM-784.md)'s limit, that engineering's findings
-  are partly constituted rather than discovered; Open; added at version
-  2. It asks whether knowledge of a made thing is a different kind from
-  knowledge of a given one, or the same inquiry with its answer space
-  among realizations. Its body names [CLAIM-784](../claims.d/CLAIM-784.md) and no other component.
+## Where it stands
 
-## How the two sections relate
-
-The counts here are version 1's, before [CASE-300](../cases.d/CASE-300.md), [CASE-299](../cases.d/CASE-299.md) and
-[QUESTION-503](../questions.d/QUESTION-503.md) were added. Of the 30 pairs of components joined by a stored relation, 22 lie within
-the first section (14 components) and 5 within the second (5), and 3 join
-them: [CLAIM-469](../claims.d/CLAIM-469.md) and [CLAIM-476](../claims.d/CLAIM-476.md) each complement [CLAIM-470](../claims.d/CLAIM-470.md), and [CASE-178](../cases.d/CASE-178.md)
-illustrates it. Every stored link between them passes through [CLAIM-470](../claims.d/CLAIM-470.md).
-The five components of the second section share 20 stored relations
-with entries outside the line, as many as the fourteen of the first:
-among them [TERM-065](../terms.d/TERM-065.md) (formal-apparatus), [TERM-064](../terms.d/TERM-064.md) and [CLAIM-478](../claims.d/CLAIM-478.md)
-(distributed-agency), and [CLAIM-474](../claims.d/CLAIM-474.md), Active, which rests on
-[CLAIM-470](../claims.d/CLAIM-470.md) and [CLAIM-475](../claims.d/CLAIM-475.md). Three components have no stored relation
-to another component of the line: [TERM-091](../terms.d/TERM-091.md), [QUESTION-072](../questions.d/QUESTION-072.md) and
-[QUESTION-366](../questions.d/QUESTION-366.md), each tied to it in its body.
-
-## Links tested as claims
-
-None is filed as a claim. Each integration the account states is stated by a
-component:
-
-- the operational apparatus out of [CLAIM-419](../claims.d/CLAIM-419.md), [CLAIM-479](../claims.d/CLAIM-479.md), [CASE-131](../cases.d/CASE-131.md) and
-  [CASE-178](../cases.d/CASE-178.md), by [CLAIM-469](../claims.d/CLAIM-469.md);
-- the constitutive reading on top of it, by [CLAIM-476](../claims.d/CLAIM-476.md);
-- the grammar's revision as the record's case of inquiry as
-  specification, by [CLAIM-470](../claims.d/CLAIM-470.md)'s "Why it bears on the record", its history
-  note of 2026-10-29 and [CLAIM-476](../claims.d/CLAIM-476.md)'s note of 2026-10-27 (U15–U23);
-- the resource bound on specifying, by [CLAIM-475](../claims.d/CLAIM-475.md);
-- the bearing of [QUESTION-366](../questions.d/QUESTION-366.md) on [CLAIM-476](../claims.d/CLAIM-476.md)'s first defeater, by
-  [QUESTION-366](../questions.d/QUESTION-366.md) and [CLAIM-476](../claims.d/CLAIM-476.md)'s note of 2026-11-06.
-
-No route passes for the account as a whole. Hypothesis: its clauses are
-the components' own, so a case in which every component holds leaves
-every clause standing. Derived: joining them is juxtaposition, and the
-non-trivial joins ([CLAIM-469](../claims.d/CLAIM-469.md) from [CLAIM-479](../claims.d/CLAIM-479.md) and [CLAIM-419](../claims.d/CLAIM-419.md)) are already
-held as claims. Integration: the comparisons the line leaves open, the
-two-apparatus experiment of [CLAIM-476](../claims.d/CLAIM-476.md) and [QUESTION-366](../questions.d/QUESTION-366.md) and [CLAIM-470](../claims.d/CLAIM-470.md)'s
-three-regime study, are unbuilt, and the account cannot settle them.
-
-Three narrower candidates were checked so that a real integration is not
-lost to loose wording:
-
-- **The grammar's falling rates as settling, not entrenchment.**
-  [CLAIM-475](../claims.d/CLAIM-475.md) with [CASE-178](../cases.d/CASE-178.md): revision cost one ADR in a unit of work already
-  open, so [CLAIM-475](../claims.d/CLAIM-475.md)'s cost-entrenchment has not operated on the grammar.
-  [CASE-178](../cases.d/CASE-178.md)'s note of 2026-10-27 (later) leaves this open ("not separated
-  by this case"). It turns on a free parameter, the measure of a
-  revision's cost. Counted in ADRs per unit of work, it is cheap and
-  level. Counted in the documents that carry a type, the dependence
-  [CLAIM-479](../claims.d/CLAIM-479.md)'s note of 2026-10-27 (later) reads, after A11, as [CLAIM-184](../claims.d/CLAIM-184.md)'s
-  entrenchment, it grows with the record. Choosing the measure chooses the
-  verdict, so it is not filed, and it is not an account.
-- **The relation's rigidity as what makes a misfit visible.** [CASE-131](../cases.d/CASE-131.md)
-  says its misfit was noticed because the false converse "was written
-  somewhere visible", and that a forcing which produces nothing false
-  leaves no trace. The general form, that the record catches only
-  misfits whose forcing writes a false statement, goes against [CLAIM-419](../claims.d/CLAIM-419.md)'s
-  amendments for [ADR-042](../decisions.d/ADR-042.md) and [ADR-043](../decisions.d/ADR-043.md): as [CLAIM-419](../claims.d/CLAIM-419.md) describes them, their
-  misfits were distinctions the grammar could not draw (kinds of case
-  "told apart only by prose"), not false statements it wrote. The narrow
-  form is [CASE-131](../cases.d/CASE-131.md)'s own.
-- **Amendment by addition as revision of the answer space.** [CASE-180](../cases.d/CASE-180.md) and
-  [CLAIM-479](../claims.d/CLAIM-479.md)'s note find types added beside old ones, never redeclared;
-  [CLAIM-419](../claims.d/CLAIM-419.md)'s note of 2026-10-27 contrasts this with CEGAR, which only
-  splits; [CLAIM-470](../claims.d/CLAIM-470.md)'s history reads [CASE-178](../cases.d/CASE-178.md) as the answer space revised;
-  [TERM-091](../terms.d/TERM-091.md) names what grows. Held.
-
-The candidate of the first review, views as what catches the grammar's
-misfits, is not repeated here (curation entry of 2026-11-07, 070342).
+The operational part is firm: [CLAIM-469](../claims.d/CLAIM-469.md), [CLAIM-419](../claims.d/CLAIM-419.md), [CLAIM-479](../claims.d/CLAIM-479.md) and
+[CLAIM-470](../claims.d/CLAIM-470.md) are in force on documented cases and studies ([CASE-131](../cases.d/CASE-131.md),
+[CASE-178](../cases.d/CASE-178.md), [CASE-180](../cases.d/CASE-180.md), [CASE-300](../cases.d/CASE-300.md)). The constitutive reading and its normative
+consequence ([CLAIM-476](../claims.d/CLAIM-476.md), [CLAIM-472](../claims.d/CLAIM-472.md)) are Proposed. Everything the exchange
+added is Proposed and A's, except the narrowing of the consequentiality
+instance and the bounds on distribution and on the counterexample, which
+are the assistant's. The tests are [SYNTHESIS-090](SYNTHESIS-090.md)'s: a dry-run impact
+report by perturbation ([LEAD-tmpj44my](../leads.d/LEAD-tmpj44my.md)), the owner's own noticing over time
+([LEAD-tmpswgqi](../leads.d/LEAD-tmpswgqi.md)), and experiments on governed records kept by AI
+collectives ([LEAD-tmpwlebp](../leads.d/LEAD-tmpwlebp.md)).
 
 ## Not stated on the record
 
-Integrations the components leave open. Each would need admission by a
-route to be filed.
-
 - **Settling or entrenchment.** Whether the grammar's rates fell
   ([CASE-178](../cases.d/CASE-178.md)) because the grammar fits or because revising it now costs
-  more ([CLAIM-475](../claims.d/CLAIM-475.md)). No component separates them, and the candidate above
-  needs its cost measure fixed first.
+  more ([CLAIM-475](../claims.d/CLAIM-475.md)). No component separates them, and the verdict turns on
+  the measure of a revision's cost: counted in decisions per unit of work
+  it is cheap and level, counted in the documents that carry a type it
+  grows with the record.
 - **[CLAIM-184](../claims.d/CLAIM-184.md)'s count carried to [CLAIM-475](../claims.d/CLAIM-475.md).** [CLAIM-475](../claims.d/CLAIM-475.md) reads its
-  entrenchment clause as [CLAIM-184](../claims.d/CLAIM-184.md)'s, now in the nucleating-argument line;
-  no entry says whether [CLAIM-184](../claims.d/CLAIM-184.md)'s note of 2026-11-06, that superseded
-  anchors stop attracting new structure, bears on it.
-- **[CLAIM-183](../claims.d/CLAIM-183.md) and [CLAIM-419](../claims.d/CLAIM-419.md).** [CLAIM-476](../claims.d/CLAIM-476.md) complements [CLAIM-183](../claims.d/CLAIM-183.md), but no
-  entry says whether a fed-back view has ever prompted one of the
-  grammar's amendments; the first review found the general link against
-  [CASE-178](../cases.d/CASE-178.md).
-- **[QUESTION-072](../questions.d/QUESTION-072.md) and [CLAIM-419](../claims.d/CLAIM-419.md)'s limit.** [CLAIM-472](../claims.d/CLAIM-472.md)'s note of 2026-10-27
-  (later still) reads [QUESTION-072](../questions.d/QUESTION-072.md) as [CLAIM-419](../claims.d/CLAIM-419.md)'s limit made a question of
-  who can act; no entry says whether any of the five amendments, or
-  [ADR-032](../decisions.d/ADR-032.md)'s refusal, changed whose moves the grammar can hold.
+  entrenchment clause as [CLAIM-184](../claims.d/CLAIM-184.md)'s; no entry says whether [CLAIM-184](../claims.d/CLAIM-184.md)'s
+  finding that superseded anchors stop attracting new structure bears on
+  it.
+- **[CLAIM-183](../claims.d/CLAIM-183.md) and [CLAIM-419](../claims.d/CLAIM-419.md).** No entry says whether a fed-back view has
+  ever prompted one of the grammar's amendments.
+- **[QUESTION-072](../questions.d/QUESTION-072.md) and [CLAIM-419](../claims.d/CLAIM-419.md)'s limit.** No entry says whether any
+  amendment changed whose moves the grammar can hold.
+- **The two kinds of amendment in the census.** [CLAIM-tmpxl7dc](../claims.d/CLAIM-tmpxl7dc.md) and
+  [ARG-tmpsis1z](../arguments.d/ARG-tmpsis1z.md) separate amendments that widen what can be written from
+  those that change what the checks do with it; no entry counts which of
+  [CASE-300](../cases.d/CASE-300.md)'s 88 changes are which.
+- **Luria's keeping-apart and [CLAIM-472](../claims.d/CLAIM-472.md).** If Luria is an alignment
+  response ([CLAIM-tmpoh8gm](../claims.d/CLAIM-tmpoh8gm.md)), its exclusions would be open to evaluation as
+  alignment failures as well as epistemic ones; no entry says so.
+- **That the record is not self-correcting for being self-modifying.**
+  [TERM-089](../terms.d/TERM-089.md) states the distinction; whether the record's delegation of
+  noticing ([CLAIM-792](../claims.d/CLAIM-792.md)) makes it more or less self-correcting is what
+  [LEAD-tmpswgqi](../leads.d/LEAD-tmpswgqi.md) would measure, and no entry states either.
 
 ## What it does not say
 
-- That the record's objects are constituted in Barad's sense ([CLAIM-476](../claims.d/CLAIM-476.md) is
-  Proposed), or that any exclusion its grammar makes is wrong ([CLAIM-472](../claims.d/CLAIM-472.md),
-  [QUESTION-072](../questions.d/QUESTION-072.md)).
-- That every misfit is caught, or that the grammar's distinctions are the
-  right ones ([CLAIM-419](../claims.d/CLAIM-419.md), [CLAIM-469](../claims.d/CLAIM-469.md), [TERM-089](../terms.d/TERM-089.md)).
-- That luria or the record maintains itself ([CLAIM-469](../claims.d/CLAIM-469.md), [CLAIM-476](../claims.d/CLAIM-476.md)).
-- That inquiry makes what it investigates ([CLAIM-470](../claims.d/CLAIM-470.md)), or that its
-  askable questions bound what exists ([CLAIM-475](../claims.d/CLAIM-475.md)).
-- That the line's layers are a dynamical hierarchy of time scales; [CASE-178](../cases.d/CASE-178.md)
-  and [CASE-180](../cases.d/CASE-180.md) call that "An interpretation, not shown."
-- Anything with standing of its own.
+That the record's objects are constituted in Barad's sense, that any
+exclusion its grammar makes is wrong, that every misfit is caught, that
+luria or the record maintains itself, that inquiry makes what it
+investigates, that the line's layers are a hierarchy of time scales
+([CASE-178](../cases.d/CASE-178.md) and [CASE-180](../cases.d/CASE-180.md) call that "An interpretation, not shown"), or that
+Luria aligns anything: A13 says that the architecture does not make
+gaming impossible and that Luria is not a runtime authorization system
+([CLAIM-tmpoh8gm](../claims.d/CLAIM-tmpoh8gm.md)).

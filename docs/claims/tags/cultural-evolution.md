@@ -6,7 +6,7 @@
 
 **Cultural evolution and memetics** — how culture is transmitted, varies and is selected — memes in Dawkins's sense and their critics, cultural attractors, dual inheritance, contagion and diffusion of ideas, and what a transmitted unit carries between carriers (ADR-150).
 
-16 of 1346 CLAIM documents. Back to the [full index](../README.md).
+16 of 1349 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

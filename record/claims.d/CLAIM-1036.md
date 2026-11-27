@@ -13,7 +13,15 @@ statement: >-
   optimum privileges one self, and the rule that privileges the present
   self, though it gives an optimum, counts nothing that only a later
   valuation would see
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-26'
+  note: >-
+    Dated note from the exchange "Alignment consequences brainstorm"
+    (ChatGPT, 2026-11-26), A21: the construction described correctly and
+    applied to the development of values; Paul and Callard registered. No
+    change of status or statement.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -137,3 +145,17 @@ comparison between selves is declared.
 
 [ARG-227](../arguments.d/ARG-227.md) carries the inference from these constructions to the claim
 that one valuation cannot be dropped from [CLAIM-1197](CLAIM-1197.md)'s conditions.
+
+## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U12–A21)
+
+<!-- inactive-ok-file: LIT-tmpro3rq LIT-tmpg01mm LIT-tmpcyz53 CLAIM-tmpk8knm CLAIM-tmp3ao8j CLAIM-tmp0k78x — Deferred or Proposed; registered and filed from the exchange of 2026-11-26 -->
+
+On the owner's U12 ("double click on Emergence of new purposes and values"), A21 §1 opened with this claim as "a surprisingly strong result already in the record". Its description is accurate: the two-self construction ("Suppose the present self prefers B, whereas the self produced by A prefers A"), the three evaluators, and "The claim demonstrates the latter two problems through small constructions. It remains Proposed in the record, and its no-optimum conclusion is conditional on the absence of an additional cross-self evaluative standard."
+
+What the exchange adds is an application, a parallel and two works:
+
+- **Application.** A21 states the claim's dilemma for a learner whose values are meant to develop: "evaluating that development solely by its original values risks making genuine evaluative development invisible. But evaluating it solely by the values it develops risks allowing any self-endorsing transformation to justify itself." [CLAIM-tmpk8knm](CLAIM-tmpk8knm.md) (A's) says what kind of change of valuation is at issue, a new evaluative distinction and not a reweighting, and [CLAIM-tmp3ao8j](CLAIM-tmp3ao8j.md) (A's) carries the dilemma to the governance of possibility.
+- **The literature this claim says is not read.** "What it does not say" notes that "the philosophy of transformative choice" is not read on the record. A21 §2 names it: Paul's Transformative Experience ([LIT-tmpro3rq](../literature.d/LIT-tmpro3rq.md)), "exceptionally close to CLAIM-1036", and Callard's Aspiration ([LIT-tmpg01mm](../literature.d/LIT-tmpg01mm.md)), on proleptic reasons; also Dewey's ends-in-view ([LIT-tmpcyz53](../literature.d/LIT-tmpcyz53.md)). All three are registered, Deferred, unread. Until read they bear on the claim only as named parallels; the claim rests on none.
+- **Generation.** The outcome "past its inquiry frontier" that has no u₀ value is the case [CLAIM-tmp0k78x](CLAIM-tmp0k78x.md) (A's) calls an unconstituted purpose.
+
+No change of status or statement.

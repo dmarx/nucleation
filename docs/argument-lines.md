@@ -635,6 +635,7 @@ Grouped by `line`, which every line holds in common — a line about two things 
             - [CLAIM-447](../record/claims.d/CLAIM-447.md) — Model-based wanting ranks predicted futures *(Proposed)*
           - [CLAIM-439](../record/claims.d/CLAIM-439.md) — Valence is felt when the system models it *(Proposed)*
           - [CLAIM-527](../record/claims.d/CLAIM-527.md) — Viable reach, valence and emotion are three *(Proposed)* — also rests on CLAIM-079
+            - [CLAIM-1347](../record/claims.d/CLAIM-1347.md) — Affect names no single kind *(Proposed)*
           - [CLAIM-897](../record/claims.d/CLAIM-897.md) — Evaluative-space channels are perspectives *(Proposed)* — also rests on CLAIM-283
           - [CLAIM-899](../record/claims.d/CLAIM-899.md) — Six verdicts from a record of conduct *(Proposed)* — also rests on CLAIM-434
         - [CLAIM-532](../record/claims.d/CLAIM-532.md) — A discrepancy occasions self-formation *(Active)* — also rests on CLAIM-025, CLAIM-522, CLAIM-535, CLAIM-540; also argued from CLAIM-535

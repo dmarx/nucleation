@@ -65,3 +65,11 @@ penalty on weight change for ReLU networks, offered as a proxy for
 implicit bias; Proposition 4 is the conservation law. Teacher-student
 experiments agree, one of the ReLU findings being, by the authors'
 account, a postdiction.
+
+## Note of 2026-11-26: Veeriah et al. (2019), read
+
+
+A parallel. [LIT-tmpl1kcf](../literature.d/LIT-tmpl1kcf.md) ([NOTE-tmpibrnu](../notes.d/NOTE-tmpibrnu.md)) adds empirical evidence that the
+choice of auxiliary target decides whether useful shared features form at
+all, in the multi-task setting this account treats. It has no account of
+which features are reused. No status change.

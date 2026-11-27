@@ -122,3 +122,15 @@ above waited on is held.
 
 ## Note of 2026-11-19: Brown and colleagues, read
 A parallel ([NOTE-2160](../notes.d/NOTE-2160.md)): in Brown and colleagues' few-shot setting the context carries signal and the weights carry the interpreter, which changes only in pretraining.
+
+## Note of 2026-11-26: von Oswald et al. (2023), read
+
+
+Bears on the claim through [CLAIM-118](CLAIM-118.md). In [LIT-tmpuv16r](../literature.d/LIT-tmpuv16r.md)'s synthetic setting
+([NOTE-tmpcktnn](../notes.d/NOTE-tmpcktnn.md)), in-context learning *is* an inner optimizer over
+per-sequence fast weights, and the mesa-layer is a test-time learner built
+into a layer. So [CASE-005](../cases.d/CASE-005.md)'s experiment 3, ICL against TTT, would compare
+two routes that can share a mechanism. This claim's distinction survives
+that, because it is drawn by what each route carries, not by mechanism.
+But the experiment should not take a mechanistic difference between the
+arms for granted. No status change.

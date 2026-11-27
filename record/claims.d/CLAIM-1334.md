@@ -3,9 +3,17 @@ number: 1334
 status: Proposed
 formerly:
 - CLAIM-tmpvmd97
-version: 2
+version: 3
 history:
 - version: 2
+  date: '2026-11-26'
+  note: >-
+    Dated note of 2026-11-26 from the exchange "Alignment
+    consequences brainstorm" (ChatGPT, 2026-11-26), U6–A11 and
+    U7–A13: A11 §7 builds a fourfold division of metric failure on
+    the claim, and A13 §1 reads Luria as a design response to it.
+    The claim is unchanged.
+- version: 3
   date: '2026-11-26'
   note: >-
     Joins the work organizational-origins-of-misalignment (ADR-tmp0cgxa) at
@@ -133,3 +141,25 @@ to determine value."
 
 Muller ([LIT-3264](../literature.d/LIT-3264.md)) and Bevan and Hood ([LIT-3209](../literature.d/LIT-3209.md)) are registered
 Deferred; A44's account of them is unverified.
+
+## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U6–A11, U7–A13)
+
+<!-- inactive-ok-file: CLAIM-tmp826ap CLAIM-tmpoh8gm — new; the claims of 2026-11-26 that apply this one -->
+
+Two applications, filed as claims of their own.
+
+A11 §7 states the claim correctly, "even a perfectly accurate metric can
+be granted inappropriate authority", with a table of what an accurate
+measure "Does not thereby justify" (revenue, all decisions about product
+design; engagement, all decisions about information exposure), and builds
+on it a division of a metric's failures into measurement, proxy,
+jurisdictional and constitutional ([CLAIM-tmp826ap](CLAIM-tmp826ap.md), A's). This claim is the
+third of the four; its second safeguard, keeping the authority to define
+success apart from the authority to pursue it, is the remedy for the
+fourth.
+
+A13 §1 reads Luria's rule that "identity is not standing" as "a concrete
+design response to the problem identified in" this claim: "It separates
+the capacity to make something visible from the authority to determine
+what follows from its visibility" ([CLAIM-tmpoh8gm](CLAIM-tmpoh8gm.md), A's). That is an
+analogy, and it holds at the level of a record's entries only; no edge.

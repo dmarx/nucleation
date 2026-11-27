@@ -1,0 +1,50 @@
+1	revised	statement	CLAIM-974	e2d3aff8c	{'added': 0, 'removed': 0}
+2	relation_add	relation_add	CLAIM-780	90b312945	{'field': 'grounds', 'target': 'THEORY-2137', 'added': 0, 'removed': 0}
+3	mechanical	mechanical	CLAIM-025	0bf57ff49	{'added': 0, 'removed': 0}
+4	revised	statement	CLAIM-084	e2d3aff8c	{'added': 0, 'removed': 0}
+5	status	status	CLAIM-410	9f85365d9	{'old': 'Proposed', 'new': 'Active', 'added': 0, 'removed': 0}
+6	status	status	CLAIM-1099	8e87238b3	{'old': 'Proposed', 'new': 'Active', 'added': 0, 'removed': 0}
+7	mechanical	mechanical	CLAIM-1225	01ec0fe36	{'added': 0, 'removed': 0}
+8	revised	statement	CLAIM-011	e2d3aff8c	{'added': 0, 'removed': 0}
+9	mechanical	mechanical	CLAIM-267	166e0c8be	{'added': 0, 'removed': 0}
+10	relation_add	relation_add	CLAIM-142	b4cd1f13c	{'field': 'complements', 'target': 'CLAIM-209', 'added': 0, 'removed': 0}
+11	relation_add	relation_add	CLAIM-163	bb6020f2c	{'field': 'grounds', 'target': 'THEORY-069', 'added': 0, 'removed': 0}
+12	note	note	CLAIM-1303	77ddc4752	{'added': 13, 'removed': 0}
+13	note	note	CLAIM-347	b2a8afd14	{'added': 4, 'removed': 0}
+14	status	status	CLAIM-611	1ac581cf6	{'old': 'Proposed', 'new': 'Superseded', 'added': 0, 'removed': 0}
+15	mechanical	mechanical	CLAIM-703	14f72ad01	{'added': 0, 'removed': 0}
+16	relation_add	relation_add	CLAIM-448	4b2659557	{'field': 'complements', 'target': 'CLAIM-361', 'added': 0, 'removed': 0}
+17	note	note	CLAIM-126	e55524bee	{'added': 6, 'removed': 0}
+18	note	note	CLAIM-143	8a6cc8570	{'added': 6, 'removed': 0}
+19	relation_add	relation_add	CLAIM-275	df27ad3b6	{'field': 'complements', 'target': 'CLAIM-255', 'added': 0, 'removed': 0}
+20	status	status	CLAIM-509	9ae362691	{'old': 'Proposed', 'new': 'Active', 'added': 0, 'removed': 0}
+21	note	note	CLAIM-269	97a201fa5	{'added': 5, 'removed': 4}
+22	status	status	CLAIM-587	71f8764f5	{'old': 'Proposed', 'new': 'Active', 'added': 0, 'removed': 0}
+23	mechanical	mechanical	CLAIM-281	330be0fdf	{'added': 0, 'removed': 0}
+24	note	note	CLAIM-590	25edfd79b	{'added': 2, 'removed': 0}
+25	note	note	CLAIM-475	7d4bb1c64	{'added': 16, 'removed': 0}
+26	relation_add	relation_add	CLAIM-032	736f75edb	{'field': 'objects_to', 'target': 'ARG-003', 'added': 0, 'removed': 0}
+27	revised	statement	CLAIM-1220	e2d3aff8c	{'added': 0, 'removed': 0}
+28	relation_add	relation_add	CLAIM-592	8593cd7a1	{'field': 'bears_on', 'target': 'QUESTION-374', 'added': 0, 'removed': 0}
+29	mechanical	mechanical	CLAIM-576	f51c9ef47	{'added': 0, 'removed': 0}
+30	status	status	CLAIM-1021	753d86c5e	{'old': 'Proposed', 'new': 'Active', 'added': 0, 'removed': 0}
+31	status	status	CLAIM-511	fcea7971b	{'old': 'Active', 'new': 'Proposed', 'added': 0, 'removed': 0}
+32	relation_add	relation_add	CLAIM-927	11c341ff0	{'field': 'bears_on', 'target': 'QUESTION-046', 'added': 0, 'removed': 0}
+33	mechanical	mechanical	CLAIM-336	eb7038d31	{'added': 0, 'removed': 0}
+34	revised	body	CLAIM-279	345803713	{'added': 2, 'removed': 2}
+35	status	status	CLAIM-999	c3a70838b	{'old': 'Proposed', 'new': 'Active', 'added': 0, 'removed': 0}
+36	mechanical	mechanical	CLAIM-1085	6f600532f	{'added': 0, 'removed': 0}
+37	revised	statement	CLAIM-212	e2d3aff8c	{'added': 0, 'removed': 0}
+38	mechanical	mechanical	CLAIM-025	370a7e9fb	{'added': 0, 'removed': 0}
+39	revised	statement	CLAIM-632	e2d3aff8c	{'added': 0, 'removed': 0}
+40	relation_add	relation_add	CLAIM-506	24698c446	{'field': 'bears_on', 'target': 'QUESTION-277', 'added': 0, 'removed': 0}
+41	status	status	CLAIM-444	caf6a7b22	{'old': 'Proposed', 'new': 'Active', 'added': 0, 'removed': 0}
+42	mechanical	mechanical	CLAIM-897	92fdef7f4	{'added': 0, 'removed': 0}
+43	note	note	CLAIM-424	4c2d30469	{'added': 7, 'removed': 0}
+44	status	status	CLAIM-241	f1f998d5b	{'old': 'Proposed', 'new': 'Active', 'added': 0, 'removed': 0}
+45	note	note	CLAIM-472	b625b9907	{'added': 10, 'removed': 0}
+46	revised	statement	CLAIM-925	e2d3aff8c	{'added': 0, 'removed': 0}
+47	relation_add	relation_add	CLAIM-107	70b74e617	{'field': 'grounds', 'target': 'THEORY-158', 'added': 0, 'removed': 0}
+48	revised	statement	CLAIM-282	c41b7ce49	{'added': 0, 'removed': 0}
+49	note	note	CLAIM-658	41f1323ef	{'added': 7, 'removed': 0}
+50	revised	statement	CLAIM-717	e2d3aff8c	{'added': 0, 'removed': 0}
