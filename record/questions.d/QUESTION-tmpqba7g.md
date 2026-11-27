@@ -40,3 +40,10 @@ summary: >-
 3. How authority-by-links (PageRank) is gamed, and what the record's account
    of authority says stops it.
 4. What changes when the reader is a language model and not a ranked list.
+
+## Note of 2026-11-27: paperclip maximization, enshittification and monoculture
+
+<!-- inactive-ok-block: CLAIM-tmpzml5c CLAIM-tmp6n4ed CLAIM-tmpjom83 — new; filed at the owner's request to relate SEO to the three -->
+
+At the owner's request, three more answers. CLAIM-tmpzml5c: search is a paperclip problem on both sides of the ranking, running the three-stage pathology. CLAIM-tmp6n4ed: enshittification of search is the engine optimizing its own ranking against its users, the same proxy-optimum structure as publishers', and possibly irreversible. CLAIM-tmpjom83: one dominant ranking makes the web a monoculture with correlated failures, and plurality is a remedy beyond competition.
+
