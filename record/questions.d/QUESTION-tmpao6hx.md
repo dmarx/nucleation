@@ -52,3 +52,10 @@ the observation [DISTINCTION-tmpwhh30](../distinctions.d/DISTINCTION-tmpwhh30.md
 against a delusion co-created with a chatbot ([TERM-tmpawees](../terms.d/TERM-tmpawees.md)). Studies of
 delusional content over time also bear on [CLAIM-tmp93fmg](../claims.d/CLAIM-tmp93fmg.md), that content
 follows the culture.
+
+## Note of 2026-11-27: apophany
+
+<!-- inactive-ok-block: CLAIM-tmpahrqb CLAIM-tmprblj4 — new; filed in answer to part 3 and to the chatbot question -->
+
+After the owner asked about apophany, two claims were filed. CLAIM-tmpahrqb answers part 3: on Conrad's account, the delusional aha is closure reached on an unfinished Gestalt, so its certainty can feel like insight. CLAIM-tmprblj4 joins Conrad's loss of perspective-taking to the sycophantic dyad of the chatbot question. Mishara's 2010 review, the source of the account of Conrad, could not be fetched directly (reCAPTCHA) and is not registered.
+
