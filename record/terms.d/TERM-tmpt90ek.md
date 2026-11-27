@@ -16,14 +16,14 @@ line:
 draws_on:
 - THEORY-tmptmp23
 summary: >-
-  The sense of Østergaard's 2023 account (THEORY-tmptmp23), and the first
+  The sense of Østergaard's 2023 account ([THEORY-tmptmp23](../theory.d/THEORY-tmptmp23.md)), and the first
   half of Morrin and colleagues' contrast between delusions that "happen to
-  be about machines" and delusions that happen "with them" (NOTE-tmpxg6hn,
+  be about machines" and delusions that happen "with them" ([NOTE-tmpxg6hn](../notes.d/NOTE-tmpxg6hn.md),
   p. 23). Filed at the owner's word of 2026-11-27 ("file the ideas"), so
-  that DISTINCTION-tmpwhh30 can bind it. The wording is the assistant's
+  that [DISTINCTION-tmpwhh30](../distinctions.d/DISTINCTION-tmpwhh30.md) can bind it. The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-tmptmp23 NOTE-tmpxg6hn DISTINCTION-tmpwhh30 — Proposed or new; the reading the sense is drawn from, and the distinction that binds it -->
+<!-- inactive-ok-file: THEORY-tmptmp23 DISTINCTION-tmpwhh30 — Proposed or new; the reading the sense is drawn from, and the distinction that binds it -->
 
 # TERM-tmpt90ek: delusion about a chatbot
 
@@ -39,5 +39,5 @@ works. Its job is to name the case that needs no conversation at all.
 
 ## Distinctions
 
-From a delusion co-created with a chatbot (TERM-tmpawees), by
-DISTINCTION-tmpwhh30.
+From a delusion co-created with a chatbot ([TERM-tmpawees](TERM-tmpawees.md)), by
+[DISTINCTION-tmpwhh30](../distinctions.d/DISTINCTION-tmpwhh30.md).

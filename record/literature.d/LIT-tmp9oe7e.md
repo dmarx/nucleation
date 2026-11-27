@@ -16,9 +16,9 @@ url: 'https://pubmed.ncbi.nlm.nih.gov/22141146/'
 first_author: 'Nitzan'
 implementations: []
 summary: >-
-  Nitzan, Shoshan, Lev-Ran and Fennig (2011), Isr J Psychiatry Relat Sci. Registered as the precedent Østergaard's 2023 editorial argues from (NOTE-tmpq0pa3): people "becoming delusional (de novo) when engaging in chat conversations with other people on the internet". It bears on QUESTION-tmpq653b as the human case of a delusion co-created in conversation (TERM-tmpawees). Unread, it grounds nothing.
+  Nitzan, Shoshan, Lev-Ran and Fennig (2011), Isr J Psychiatry Relat Sci. Registered as the precedent Østergaard's 2023 editorial argues from ([NOTE-tmpq0pa3](../notes.d/NOTE-tmpq0pa3.md)): people "becoming delusional (de novo) when engaging in chat conversations with other people on the internet". It bears on [QUESTION-tmpq653b](../questions.d/QUESTION-tmpq653b.md) as the human case of a delusion co-created in conversation ([TERM-tmpawees](../terms.d/TERM-tmpawees.md)). Unread, it grounds nothing.
 ---
-<!-- inactive-ok-file: NOTE-tmpq0pa3 TERM-tmpawees — new; the reading that cites it, and the sense it bears on -->
+<!-- inactive-ok-file: TERM-tmpawees — new; the reading that cites it, and the sense it bears on -->
 
 # LIT-tmp9oe7e: Internet-related psychosis - a sign of the times
 
@@ -30,4 +30,4 @@ Nitzan, Shoshan, Lev-Ran and Fennig (2011), Israel Journal of Psychiatry and Rel
 
 ## Standing in the record
 
-Registered as the human precedent for QUESTION-tmpq653b: delusion arising in online conversation between people. If its cases are co-created, it tests whether a chatbot adds anything beyond a conversation partner.
+Registered as the human precedent for [QUESTION-tmpq653b](../questions.d/QUESTION-tmpq653b.md): delusion arising in online conversation between people. If its cases are co-created, it tests whether a chatbot adds anything beyond a conversation partner.

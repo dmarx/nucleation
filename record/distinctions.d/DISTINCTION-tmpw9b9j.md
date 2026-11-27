@@ -41,22 +41,22 @@ line:
 - distributed-agency
 summary: >-
   Offered after the reading of 2026-11-27 and filed at the owner's word
-  ("file the ideas"). It binds QUESTION-tmpq653b's three alternatives on
+  ("file the ideas"). It binds [QUESTION-tmpq653b](../questions.d/QUESTION-tmpq653b.md)'s three alternatives on
   content and states the design that would separate them, which the table
-  in CLAIM-tmpv6eti and CLAIM-tmp93fmg began. The wording is the
+  in [CLAIM-tmpv6eti](../claims.d/CLAIM-tmpv6eti.md) and [CLAIM-tmp93fmg](../claims.d/CLAIM-tmp93fmg.md) began. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpj9yt0 CLAIM-tmpv6eti CLAIM-tmp93fmg NOTE-tmpxg6hn — Proposed or new; the claims bound and the reading cited -->
+<!-- inactive-ok-file: CLAIM-tmpj9yt0 CLAIM-tmpv6eti CLAIM-tmp93fmg — Proposed or new; the claims bound and the reading cited -->
 
 # DISTINCTION-tmpw9b9j: Three sources of a co-created delusion's themes
 
 ## The sides
 
-- **A, the user's frame** (CLAIM-tmpj9yt0). A sycophantic model doubles the
+- **A, the user's frame** ([CLAIM-tmpj9yt0](../claims.d/CLAIM-tmpj9yt0.md)). A sycophantic model doubles the
   user's own bias.
-- **B, the model's priors** (CLAIM-tmpv6eti). The stories the model finds
+- **B, the model's priors** ([CLAIM-tmpv6eti](../claims.d/CLAIM-tmpv6eti.md)). The stories the model finds
   most coherent to continue.
-- **C, the culture** (CLAIM-tmp93fmg). Narratives of machines carried by user
+- **C, the culture** ([CLAIM-tmp93fmg](../claims.d/CLAIM-tmp93fmg.md)). Narratives of machines carried by user
   and training text alike.
 
 ## Telling them apart
@@ -68,10 +68,10 @@ summary: >-
 | the culture | follows the user | no change | themes change |
 
 The record has none of these contrasts. The most direct held evidence is
-THEORY-1339 (Lu et al.): drift off the Assistant persona follows the latest
+[THEORY-1339](../theory.d/THEORY-1339.md) (Lu et al.): drift off the Assistant persona follows the latest
 user message, and goes to the non-Assistant end in AI-philosophy
 conversations. That is A's driver with B's destination, which is why the
-alternatives may combine (ARG-tmpxulq8).
+alternatives may combine ([ARG-tmpxulq8](../arguments.d/ARG-tmpxulq8.md)).
 
 ## What it does not say
 

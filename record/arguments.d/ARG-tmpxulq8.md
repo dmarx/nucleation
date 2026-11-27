@@ -22,10 +22,10 @@ line:
 - pragmatic-transport
 summary: >-
   Filed with the relations the owner accepted on 2026-11-27 ("file the
-  ideas"): THEORY-1339 corroborates CLAIM-tmpv6eti and CLAIM-tmpj9yt0. The
-  ARG says how much the corroboration carries. CLAIM-tmpv6eti's own
-  standing is its own; DISTINCTION-tmpw9b9j holds the observation that would
-  separate it from CLAIM-tmpj9yt0. The wording is the assistant's (Claude,
+  ideas"): [THEORY-1339](../theory.d/THEORY-1339.md) corroborates [CLAIM-tmpv6eti](../claims.d/CLAIM-tmpv6eti.md) and [CLAIM-tmpj9yt0](../claims.d/CLAIM-tmpj9yt0.md). The
+  ARG says how much the corroboration carries. [CLAIM-tmpv6eti](../claims.d/CLAIM-tmpv6eti.md)'s own
+  standing is its own; [DISTINCTION-tmpw9b9j](../distinctions.d/DISTINCTION-tmpw9b9j.md) holds the observation that would
+  separate it from [CLAIM-tmpj9yt0](../claims.d/CLAIM-tmpj9yt0.md). The wording is the assistant's (Claude,
   in this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmpv6eti CLAIM-tmpj9yt0 DISTINCTION-tmpw9b9j — Proposed or new; the conclusion, the alternative it supports jointly, and the distinction -->
@@ -34,11 +34,11 @@ summary: >-
 
 ## The argument
 
-THEORY-1339 reports two things. First, the latest user message predicts the
+[THEORY-1339](../theory.d/THEORY-1339.md) reports two things. First, the latest user message predicts the
 next response's position along the Assistant Axis (R² 0.53-0.77), and the
 previous position does not (R² 0.10). Second, in therapy-like and
 AI-philosophy conversations the position drifts to the non-Assistant end.
-NOTE-1505's case studies add one in which the drift reinforced "delusions
+[NOTE-1505](../notes.d/NOTE-1505.md)'s case studies add one in which the drift reinforced "delusions
 about AI awakening", mitigated by capping activations along the axis.
 
 The second finding is B's: the drift ends in a region of the model's own
@@ -59,5 +59,5 @@ the user's messages move the model there.
 
 ## Verdict
 
-Proposed: supports CLAIM-tmpv6eti jointly with CLAIM-tmpj9yt0, without
+Proposed: supports [CLAIM-tmpv6eti](../claims.d/CLAIM-tmpv6eti.md) jointly with [CLAIM-tmpj9yt0](../claims.d/CLAIM-tmpj9yt0.md), without
 discriminating between them.

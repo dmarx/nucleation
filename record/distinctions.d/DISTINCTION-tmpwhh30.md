@@ -39,22 +39,22 @@ line:
 summary: >-
   Morrin and colleagues' contrast, "we are likely past the point where
   delusions happen to be about machines, and already entering an era when
-  they happen with them" (NOTE-tmpxg6hn, p. 23), set against Østergaard's
-  2023 account, on which the chatbot is the object (THEORY-tmptmp23).
+  they happen with them" ([NOTE-tmpxg6hn](../notes.d/NOTE-tmpxg6hn.md), p. 23), set against Østergaard's
+  2023 account, on which the chatbot is the object ([THEORY-tmptmp23](../theory.d/THEORY-tmptmp23.md)).
   Offered after the reading of 2026-11-27 and filed at the owner's word
   ("file the ideas"). The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: TERM-tmpt90ek TERM-tmpawees NOTE-tmpxg6hn THEORY-tmptmp23 — Proposed or new; the terms bound and the readings they come from -->
+<!-- inactive-ok-file: TERM-tmpt90ek TERM-tmpawees THEORY-tmptmp23 — Proposed or new; the terms bound and the readings they come from -->
 
 # DISTINCTION-tmpwhh30: A delusion about a chatbot is not one co-created with it
 
 ## The sides
 
-- **About** (TERM-tmpt90ek). The chatbot is the object, a new one for old
+- **About** ([TERM-tmpt90ek](../terms.d/TERM-tmpt90ek.md)). The chatbot is the object, a new one for old
   delusion types. On Østergaard's 2023 account, dissonance and opacity
   drive it, whatever the chatbot says.
-- **With** (TERM-tmpawees). The chatbot is a party. On Morrin and
+- **With** ([TERM-tmpawees](../terms.d/TERM-tmpawees.md)). The chatbot is a party. On Morrin and
   colleagues' account, its replies confirm, elaborate and supply the
   content.
 
@@ -65,15 +65,15 @@ summary: >-
 | Content depends on the replies | no | yes |
 | Content first appears in | the person's own statements | the chatbot's replies, or their elaboration |
 | Needs long conversation | no | yes, on Morrin's trajectory |
-| Mechanism | dissonance, opacity (THEORY-tmptmp23) | confirmation and drift (THEORY-tmpssr6c, THEORY-tmpwxw68) |
+| Mechanism | dissonance, opacity ([THEORY-tmptmp23](../theory.d/THEORY-tmptmp23.md)) | confirmation and drift ([THEORY-tmpssr6c](../theory.d/THEORY-tmpssr6c.md), [THEORY-tmpwxw68](../theory.d/THEORY-tmpwxw68.md)) |
 
 The observation is the logs read against the delusion. The vignettes read
 so far rarely report the user's prompts, so who introduced a theme cannot be
-recovered (NOTE-tmpxg6hn, Limitations). LEAD-tmpp60f9 would advance this.
+recovered ([NOTE-tmpxg6hn](../notes.d/NOTE-tmpxg6hn.md), Limitations). [LEAD-tmpp60f9](../leads.d/LEAD-tmpp60f9.md) would advance this.
 
 ## What it does not say
 
 That a case is only one kind. A delusion about a chatbot can become
 co-created once the person talks to it. Nor that "with" excludes the person's
-predisposition: on CLAIM-tmpca3a7, receptivity decides who the conversation
+predisposition: on [CLAIM-tmpca3a7](../claims.d/CLAIM-tmpca3a7.md), receptivity decides who the conversation
 nucleates in.
