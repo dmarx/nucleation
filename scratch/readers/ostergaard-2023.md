@@ -95,9 +95,9 @@ Held entries the first search missed and that bear directly:
 - THEORY-1313 / THEORY-1334 (persona vectors; sycophancy as a persona trait shared by prompts and finetuning): bear on CLAIM-tmpj9yt0 and CLAIM-tmpfne5k (a persona reconstituted by prompting).
 - NOTE-102 (Bottou & Schölkopf, Borges and AI), the reading under THEORY-547: calls mistaking the fiction machine for an encyclopedic AI "a delusion"; it notes the paper does not use "sycophancy" but "vindication".
 - NOTE-1792 (Brown, Recommended Selves): "obscure recommendations risk misleading them into entertaining delusions about themselves" (§4): an opacity mechanism parallel to Østergaard's black-box point.
-- Cognitive dissonance: LIT-1474 (Harmon-Jones action-based model, Unavailable), LIT-1419; nothing held on dissonance as a psychosis trigger.
+- Cognitive dissonance: LIT-1474 ("An Action-Based Model of Cognitive-Dissonance Processes", Unavailable), LIT-1419; nothing held on dissonance as a psychosis trigger.
 - Epistemic trust: NOTE-197, NOTE-832 (not opened).
-- LIT-547 / NOTE-435 (Borsboom, network theory of mental disorders): a held account of self-maintaining symptom networks, possibly relevant to CLAIM-tmpca3a7's persistence (not opened in detail).
+- LIT-547 / NOTE-435 ("A Network Theory of Mental Disorders"): a held account of self-maintaining symptom networks, possibly relevant to CLAIM-tmpca3a7's persistence (not opened in detail).
 
 ## Neighbours / other works quoted
 
