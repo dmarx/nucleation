@@ -134,3 +134,8 @@ finding that separates the two, Kirsanov et al.'s stable class
 representations ([THEORY-251](../theory.d/THEORY-251.md)), is Proposed and did not vary order. Until
 the defeat condition is restated at the level the claim means and that
 separation is held, the claim is not promoted.
+
+## Note of 2026-11-27: Gupta, Liu and Zou, read
+
+
+A qualification toward this claim's defeater, without meeting it. Implicit reference, close to a paraphrase of the explicit version, costs 23.5 to 46 points of reasoning accuracy in Gupta, Liu and Zou's contextual tasks ([NOTE-tmpanw10](../notes.d/NOTE-tmpanw10.md)). That is a loss of accuracy under the same content, not a change of interpretation.
