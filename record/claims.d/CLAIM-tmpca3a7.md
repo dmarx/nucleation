@@ -104,3 +104,9 @@ organization too.
 - **The two selections.** No reading gives a differential by user. Østergaard 2025's confirmation "regardless of what users present them with" is uniform, and Morrin's only differential is by content type: reinforcement "less likely ... with paranoid or persecutory delusions, where safety filters may be more likely to be triggered". So far the readings place selection on the users' side, not [THEORY-258](../theory.d/THEORY-258.md)'s.
 
 A held entry the first search missed: [LIT-547](../literature.d/LIT-547.md) (Borsboom's network theory), whose hysteresis principle, a symptom network that sustains itself after its trigger is gone, is the clinical form of this claim's nucleation.
+
+## Note of 2026-11-27: need frustration as the window
+
+<!-- inactive-ok-block: CLAIM-tmpf5onw — new; the claim that specifies the window -->
+
+[CLAIM-tmpf5onw](CLAIM-tmpf5onw.md) proposes that this claim's receptivity window is, at least in part, frustration of the basic psychological needs ([THEORY-052](../theory.d/THEORY-052.md)), with the delusion's themes as satisfactions of the frustrated needs.
