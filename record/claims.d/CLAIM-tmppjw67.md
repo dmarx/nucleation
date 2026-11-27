@@ -30,13 +30,13 @@ rests_on:
 - CLAIM-342
 summary: >-
   Filed at the owner's "relate SEO to performative prediction"
-  (2026-11-27). It applies CLAIM-342 (Active: unselected evidence, not
+  (2026-11-27). It applies [CLAIM-342](CLAIM-342.md) (Active: unselected evidence, not
   action, stops lock-in) to learning to rank from clicks. That rankings
   correct for position bias and use human quality raters is the assistant's
   general knowledge of the field, not held on the record. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: QUESTION-tmpqba7g CLAIM-tmph131t — Open or new; the question and the claim on the publishers' loop -->
+<!-- inactive-ok-file: CLAIM-tmph131t — Open or new; the question and the claim on the publishers' loop -->
 
 # CLAIM-tmppjw67: A ranking trained on clicks under itself locks in unless some evidence bypasses it
 
@@ -49,7 +49,7 @@ the ranking learns from those clicks. Its evidence passes through its own
 interpretation, so it can lock in: a page ranked high early collects clicks
 for being high.
 
-CLAIM-342 says what keeps a judgement–observation loop from confirming itself
+[CLAIM-342](CLAIM-342.md) says what keeps a judgement–observation loop from confirming itself
 is "evidence whose arrival or scoring does not pass through the
 interpretation it tests". In search that means:
 - **Randomized placement.** Some results are shown out of the ranking's
@@ -57,13 +57,13 @@ interpretation it tests". In search that means:
 - **Independent judgments.** Quality judgments are made by people who do not
   see the ranking's order.
 
-More clicks, gathered the same way, do not help, which is CLAIM-342's point
+More clicks, gathered the same way, do not help, which is [CLAIM-342](CLAIM-342.md)'s point
 that a loop selecting its own evidence can lock in with action available.
 
 ## Two loops at once
 
 The engine faces both at the same time. Publishers move the distribution of
-pages (CLAIM-tmph131t), and users' clicks move its evidence about them. SEO
+pages ([CLAIM-tmph131t](CLAIM-tmph131t.md)), and users' clicks move its evidence about them. SEO
 exploits the second loop too. A manipulated page that reaches a high
 position collects the clicks that then seem to confirm it.
 

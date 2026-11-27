@@ -15,6 +15,6 @@
   - [CLAIM-tmpe27ub](record/claims.d/CLAIM-tmpe27ub.md): SEO as adversarial and causal Goodhart;
   - [LEAD-tmpruvpw](record/leads.d/LEAD-tmpruvpw.md): the readings.
 - On performative prediction:
-  - CLAIM-tmph131t: performative stability is the Campbell effect with the Goodhart effect retrained away;
-  - CLAIM-tmpgnw0o: an engine steers toward a stable point by lowering publishers' responsiveness;
-  - CLAIM-tmppjw67: a ranking trained on clicks under itself locks in unless some evidence bypasses it.
+  - [CLAIM-tmph131t](record/claims.d/CLAIM-tmph131t.md): performative stability is the Campbell effect with the Goodhart effect retrained away;
+  - [CLAIM-tmpgnw0o](record/claims.d/CLAIM-tmpgnw0o.md): an engine steers toward a stable point by lowering publishers' responsiveness;
+  - [CLAIM-tmppjw67](record/claims.d/CLAIM-tmppjw67.md): a ranking trained on clicks under itself locks in unless some evidence bypasses it.
