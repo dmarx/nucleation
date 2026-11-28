@@ -59,18 +59,18 @@ jobs:
           python-version: "3.12"
       - name: Lint the merged tree before it reaches main
         if: steps.ahead.outputs.count != '0'
-        uses: dmarx/luria/actions/lint@1.12.0
+        uses: dmarx/luria/actions/lint@1.13.0
         with:
-          pip-spec: luria==1.12.0
+          pip-spec: luria==1.13.0
       - name: Push the promotion
         if: steps.ahead.outputs.count != '0'
         run: git push origin HEAD:main
       - id: generate
         name: Repair, regenerate and concretize, as docs-generate does on main
         if: steps.ahead.outputs.count != '0'
-        uses: dmarx/luria/actions/generate@1.12.0
+        uses: dmarx/luria/actions/generate@1.13.0
         with:
-          pip-spec: luria==1.12.0
+          pip-spec: luria==1.13.0
           concretize: "true"
 
   lint:
@@ -84,9 +84,9 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - uses: dmarx/luria/actions/lint@1.12.0
+      - uses: dmarx/luria/actions/lint@1.13.0
         with:
-          pip-spec: luria==1.12.0
+          pip-spec: luria==1.13.0
 
   back-merge:
     # Staging takes main's permanent codes and views. Docs does the same
