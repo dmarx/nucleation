@@ -18,6 +18,7 @@ defeated_if: >-
   cue-based or pressure-based influence; or effective defences against such
   influence that add no time or effort and simplify nothing.
 tags:
+- persuasion-and-influence
 - cognition
 - ethics
 - society-and-governance

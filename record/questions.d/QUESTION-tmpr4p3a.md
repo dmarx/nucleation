@@ -3,6 +3,7 @@ status: Open
 title: 'What drives the emergence of sycophancy in language models, and do its kinds have different drivers?'
 version: 1
 tags:
+- sycophancy
 - learning-theory
 - epistemology
 - motivation

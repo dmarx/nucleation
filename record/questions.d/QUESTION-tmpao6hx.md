@@ -3,6 +3,7 @@ status: Open
 title: 'What do described experiences of delusions with mathematical content have in common, and is their felt certainty the felt quality of mathematical insight?'
 version: 1
 tags:
+- insight-and-delusion
 - psychopathology-and-treatment
 - cognition
 - epistemology

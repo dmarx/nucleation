@@ -3,6 +3,7 @@ status: Open
 title: 'What makes extended conversation with a language model reinforce delusional belief in some users, where does the belief''s content come from, and does the belief outlast the conversations?'
 version: 1
 tags:
+- insight-and-delusion
 - psychopathology-and-treatment
 - cultural-evolution
 - epistemology
@@ -78,3 +79,7 @@ At the owner's word ("file the ideas"), four offers from the reading are filed:
 - [THEORY-1339](../theory.d/THEORY-1339.md) now bears on this question and corroborates A and B. [ARG-tmpxulq8](../arguments.d/ARG-tmpxulq8.md) says the support is joint and does not discriminate between them.
 - Nitzan et al. (2011), the human precedent Østergaard argues from, is registered as [LIT-tmp9oe7e](../literature.d/LIT-tmp9oe7e.md).
 
+## Note of 2026-11-27: the SEP entries on delusion, deception and self-deception, read
+
+
+Bortolotti's entry ([NOTE-tmpfar7p](../notes.d/NOTE-tmpfar7p.md)) raises a definitional point. The DSM excludes a belief "ordinarily accepted by other members of the person's culture or subculture", and Coltheart asks whether a belief held by a whole community could still be delusional. A belief shared within a user–model dyad, or a community of users, sits on that line. The entry has nothing on shared or induced delusion.

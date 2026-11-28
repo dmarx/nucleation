@@ -31,6 +31,7 @@ tags:
 - learning-theory
 date: '2026-11-27'
 line:
+- gamed-evaluators
 - learned-structure
 - dependence-and-domination
 - pragmatic-transport
@@ -66,3 +67,11 @@ summary: >-
 
 The positions can stack. Chatbot-associated delusion has all three
 ([CLAIM-tmpcv6i6](../claims.d/CLAIM-tmpcv6i6.md)).
+
+## Note of 2026-11-27: the SEP entries on delusion, deception and self-deception, read
+
+
+The positions line up with the literature on deception.
+- **Outside** is deception on every definition Mahon surveys ([NOTE-tmpu79ux](../notes.d/NOTE-tmpu79ux.md)), since an agent intends it.
+- **Trained** is deception only on Chisholm and Feehan's unintentional definition, or a functional one. On the majority view it is misleading.
+- **Inside** is self-deception, which Mahon sets aside. On deflationary accounts ([NOTE-tmp2juuo](../notes.d/NOTE-tmp2juuo.md)) it needs a motive, not an intention, and without a motive it is innocent error. [CLAIM-tmpu6c7h](../claims.d/CLAIM-tmpu6c7h.md), version 2, adopts that line.

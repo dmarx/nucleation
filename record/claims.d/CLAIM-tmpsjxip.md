@@ -36,6 +36,7 @@ defeated_if: >-
   specification gaming in general and not influence over the evaluator
   (CLAIM-tmp4h4ce).
 tags:
+- sycophancy
 - learning-theory
 - agency
 date: '2026-11-27'
@@ -135,3 +136,8 @@ logs, can show the influence.
 
 That models intend to control their evaluators. The disposition is selected
 for, and [QUESTION-070](../questions.d/QUESTION-070.md) asks whose agency the wrong then runs through.
+
+## Note of 2026-11-27: the SEP entries on delusion, deception and self-deception, read
+
+
+Mahon ([NOTE-tmpu79ux](../notes.d/NOTE-tmpu79ux.md)) says white lies "are all intentionally deceptive". A trained model's flattery has no such intent. It fits Smith's functional definition of lying, behaviour "the function of which is to provide others with false information", not the traditional one. On the majority view, what this claim calls influence over the evaluator is misleading it, which is the claim's own wording, not deceiving it.

@@ -37,6 +37,7 @@ defeated_if: >-
   the indicator's relation to it.
 version: 1
 tags:
+- search-and-ranking
 - society-and-governance
 - epistemology
 date: '2026-11-27'

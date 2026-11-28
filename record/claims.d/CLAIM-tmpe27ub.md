@@ -21,6 +21,7 @@ defeated_if: >-
   top-ranked pages are not over-represented among those whose signals
   overstate their quality when no one games the ranking.
 tags:
+- search-and-ranking
 - economics
 - epistemology
 date: '2026-11-27'

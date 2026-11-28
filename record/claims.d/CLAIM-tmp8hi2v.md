@@ -21,6 +21,7 @@ defeated_if: >-
   that publishers can manufacture more cheaply than the quality, which stay
   reliable under optimization pressure.
 tags:
+- search-and-ranking
 - learning-theory
 - economics
 date: '2026-11-27'

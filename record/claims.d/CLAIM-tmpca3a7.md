@@ -21,6 +21,7 @@ defeated_if: >-
   often as sustained exposure does, so that no threshold of exposure
   separates them.
 tags:
+- insight-and-delusion
 - psychopathology-and-treatment
 - cultural-evolution
 - complex-systems

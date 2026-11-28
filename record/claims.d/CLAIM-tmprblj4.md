@@ -18,6 +18,7 @@ defeated_if: >-
   window in which an outside perspective helps; or chatbot cases in which
   the delusion formed although the model consistently offered other frames.
 tags:
+- insight-and-delusion
 - psychopathology-and-treatment
 - cultural-evolution
 date: '2026-11-27'
@@ -70,3 +71,8 @@ remedy could still be taken up.
 
 That an outside frame always helps, or that the window is long. Nor that
 the model knows the user is in it.
+
+## Note of 2026-11-27: the SEP entries on delusion, deception and self-deception, read
+
+
+Bortolotti's entry ([NOTE-tmpfar7p](../notes.d/NOTE-tmpfar7p.md)) qualifies this claim. Accounts that separate adopting a delusion from maintaining it allow a window before fixation, when an outside frame could help. But Flores (2021, cited in §4.1) argues that the capacity to respond to evidence survives fixation, which cuts against the frame mattering mainly before the aha.

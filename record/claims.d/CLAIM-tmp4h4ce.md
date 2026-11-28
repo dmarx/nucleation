@@ -18,6 +18,7 @@ defeated_if: >-
   more than training on exploits of equal ease and reward that do not, such
   as environment bugs or shortcut solutions.
 tags:
+- sycophancy
 - learning-theory
 - agency
 date: '2026-11-27'

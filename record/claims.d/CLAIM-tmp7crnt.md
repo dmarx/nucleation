@@ -19,8 +19,10 @@ defeated_if: >-
   correctness; or that adding items on which agreement and correctness come
   apart, with raters who know the answer, fails to reduce sycophancy.
 tags:
+- sycophancy
 - learning-theory
 - epistemology
+- shortcut-learning
 date: '2026-11-27'
 line:
 - learned-structure

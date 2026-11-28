@@ -13,6 +13,7 @@ history:
   note: >-
     Read in full (NOTE-tmpxg6hn): v6 of 2025-08-22 (https://osf.io/download/jrwyn/, 37 pp.), compared with v1 (https://osf.io/download/8xafq/); located through the OSF API. The filer rechecked every quote the filing uses. The OSF record gives a published version, not read: Lancet Psychiatry 2026;13(6):522-530, doi 10.1016/S2215-0366(25)00396-7, retitled "Artificial intelligence-associated delusions and large language models: risks, mechanisms of delusion co-creation, and safeguarding strategies". The `doi` field keeps the preprint's; whether to repoint this entry to the published version is the owner's call. Status set from the reading: Active. The summary is rewritten from the reading.
 tags:
+- insight-and-delusion
 - psychopathology-and-treatment
 - cultural-evolution
 date: '2026-11-27'

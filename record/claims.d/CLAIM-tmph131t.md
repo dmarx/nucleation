@@ -19,6 +19,7 @@ defeated_if: >-
   whose induced web is no different from the web the ranking found, so that
   no Campbell effect remains at stability.
 tags:
+- search-and-ranking
 - learning-theory
 - society-and-governance
 date: '2026-11-27'

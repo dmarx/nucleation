@@ -20,6 +20,7 @@ defeated_if: >-
   the model's own evaluation is exploited; or that LLM-optimized documents
   gain no exposure beyond their share once quality is controlled.
 tags:
+- search-and-ranking
 - learning-theory
 - economics
 date: '2026-11-27'

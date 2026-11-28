@@ -9,6 +9,7 @@ history:
   note: >-
     Filed, not read. The record was searched by title and author and holds no entry. PubMed (PMID 22141146, queried with no contact address) gives Nitzan U, Shoshan E, Lev-Ran S, Fennig S, Israel Journal of Psychiatry and Related Sciences 48(3):207-211, 2011, with no DOI; Crossref has no match. The year alone is known, so `published` is set to its first day.
 tags:
+- insight-and-delusion
 - psychopathology-and-treatment
 date: '2026-11-27'
 published: '2011-01-01'

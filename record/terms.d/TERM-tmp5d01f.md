@@ -9,6 +9,7 @@ statement: >-
   apart
 version: 1
 tags:
+- shortcut-learning
 - learning-theory
 - representation-learning
 date: '2026-11-27'

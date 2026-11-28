@@ -19,6 +19,7 @@ defeated_if: >-
   formed under psychedelics persist and resist revision as delusions do,
   across people, and not only in the predisposed.
 tags:
+- insight-and-delusion
 - cognition
 - psychopathology-and-treatment
 - complex-systems

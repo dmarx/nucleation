@@ -19,6 +19,7 @@ defeated_if: >-
   genuine mathematical insight does not involve felt closure of a Gestalt,
   so that the two feelings have nothing in common to be confused.
 tags:
+- insight-and-delusion
 - psychopathology-and-treatment
 - cognition
 - epistemology

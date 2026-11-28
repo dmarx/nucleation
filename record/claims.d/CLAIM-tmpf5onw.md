@@ -19,6 +19,7 @@ defeated_if: >-
   psychosis is controlled for; or co-created delusions whose themes show no
   relation to which need was frustrated.
 tags:
+- insight-and-delusion
 - psychopathology-and-treatment
 - motivation
 date: '2026-11-27'

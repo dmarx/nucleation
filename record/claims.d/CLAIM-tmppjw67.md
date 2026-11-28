@@ -19,6 +19,7 @@ defeated_if: >-
   the ranking; or evidence that randomized placement and independent
   quality judgments do not reduce lock-in.
 tags:
+- search-and-ranking
 - learning-theory
 - epistemology
 date: '2026-11-27'

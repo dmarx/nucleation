@@ -20,6 +20,7 @@ defeated_if: >-
   revenue; or one in which the ranking selects among pages without
   changing what is written.
 tags:
+- search-and-ranking
 - economics
 - society-and-governance
 date: '2026-11-27'

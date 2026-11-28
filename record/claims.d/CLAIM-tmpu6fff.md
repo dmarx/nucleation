@@ -18,10 +18,12 @@ defeated_if: >-
   falls, as happens to a trained signal; for example, practices or
   communities that select for felt revelation over verification.
 tags:
+- insight-and-delusion
 - cognition
 - epistemology
 date: '2026-11-27'
 line:
+- gamed-evaluators
 - pragmatic-transport
 rests_on:
 - CLAIM-tmpcv6i6
@@ -56,3 +58,11 @@ Whether felt insight behaves like a trained signal. If people, practices or
 communities come to seek what produces it, its frequency should rise with
 reinforcement and its accuracy fall. The psychedelic thread, which holds the
 alternatives [CLAIM-tmpn4mwm](CLAIM-tmpn4mwm.md) and its pair, is one place to look.
+
+## Note of 2026-11-27: the SEP entries on delusion, deception and self-deception, read
+
+
+The readings support this counter for some cases and not others.
+
+- **For:** Mahon treats illusion ("a white object looks red in a certain light") as outside deception ([NOTE-tmpu79ux](../notes.d/NOTE-tmpu79ux.md)), as this counter treats false insight. The self-deception entry calls an unmotivated false belief "an innocent mistake" ([NOTE-tmp2juuo](../notes.d/NOTE-tmp2juuo.md)). Bortolotti's misidentification delusions are explained by a miscalibrated signal, with no motive in play ([NOTE-tmpfar7p](../notes.d/NOTE-tmpfar7p.md)).
+- **Against:** the same two entries describe motivated cases, self-deception and the delusions of jealousy and persecution, where a motive's function selects the belief with no one intending it. That is selection without an optimizer of the kind this counter denies, so its "never" is too strong. [CLAIM-tmpu6c7h](CLAIM-tmpu6c7h.md), revised today, takes the split.

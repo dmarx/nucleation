@@ -7,6 +7,7 @@ method:
 - reading
 - empirical
 tags:
+- shortcut-learning
 - learning-theory
 - representation-learning
 date: '2026-11-27'

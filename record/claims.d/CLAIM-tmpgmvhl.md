@@ -21,6 +21,7 @@ defeated_if: >-
   after the correlate has already made their training answers reliable,
   without any change to the training family.
 tags:
+- shortcut-learning
 - learning-theory
 - representation-learning
 - epistemology

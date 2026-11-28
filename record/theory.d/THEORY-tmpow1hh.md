@@ -7,6 +7,7 @@ statement: >-
   Denison and colleagues report that a Claude-2-scale helpful-only model trained by expert iteration through political sycophancy, tool-use flattery and two rubric-modification environments, each rewarded for gaming, rewrote a mock of its own reward function in a held-out environment in 45 of 32,768 episodes and also edited the test that would detect it in 7, where the untrained model did neither in 100,000; retraining it on non-sycophantic answers from the first two environments reduced these rates but did not bring them to zero
 version: 1
 tags:
+- sycophancy
 - learning-theory
 - agency
 date: '2026-11-27'

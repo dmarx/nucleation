@@ -8,6 +8,7 @@ statement: >-
   presence, nature or opacity, and not by what the chatbot says
 version: 1
 tags:
+- insight-and-delusion
 - psychopathology-and-treatment
 - cognition
 date: '2026-11-27'
