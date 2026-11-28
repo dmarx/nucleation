@@ -11,7 +11,7 @@ statement: >-
   the miscalibrated cue the counter describes, as in delusions with no
   motivational role; so whether false insight belongs to the gamed-evaluator
   structure is settled case by case, by whether a motive selects it
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-11-27'
@@ -27,12 +27,19 @@ history:
     falls between motivated cases and unmotivated error. The criterion is
     now whether a motive selects the belief, of which seeking the felt aha
     is one kind.
+- version: 3
+  date: '2026-11-28'
+  note: >-
+    The body and defeated_if brought into line with version 2, which had
+    widened only the statement and title. Found while writing the line's
+    SYNTHESIS.
 role: thesis
 warrant: interpretive
 defeated_if: >-
-  Evidence that seeking the felt quality of insight, by repetition,
-  practice or a community's rewards, changes neither how often it comes nor
-  how accurate it is; or that the felt aha is not rewarding in the sense
+  Evidence that what a motive favours, the comfort of a content or the
+  pleasure of the felt aha, by repetition, practice or a community's
+  rewards, changes neither how often a false insight comes nor how accurate
+  it is; or that neither the comfort nor the aha is rewarding in the sense
   that drives learning.
 tags:
 - insight-and-delusion
@@ -69,14 +76,17 @@ summary: >-
   mind's felt insight, so it is a cue misfiring.
 - **This claim:** it does where a motive selects it.
 
-## Why seeking makes the difference
+## Why a motive makes the difference
 
-The felt aha is pleasant. A mind that returns to what produced it, a
-practice that cultivates it, or a community that rewards reports of it, is
-selecting for whatever produces the feeling. That is the third part of the
-structure, a process selected against the evaluator's verdicts, now inside
-the evaluator. Where nothing reinforces the feeling, there is no selection,
-and the counter is right.
+A motive that favours a belief selects for whatever produces it. The
+comfort of a content does this in self-deception: a belief that quells a
+fear is formed by evidence treated in its favour. The pleasure of the felt
+aha does it for insight: a mind that returns to what produced the feeling,
+a practice that cultivates it, or a community that rewards reports of it,
+is selecting for whatever produces the feeling. Either way that is the
+third part of the structure, a process selected against the evaluator's
+verdicts, now inside the evaluator. Where no motive favours the belief,
+there is no selection, and the counter is right.
 
 ## What it fits
 
@@ -87,8 +97,8 @@ then has two optimizers feeding it.
 
 ## What would decide it
 
-The counter's own test, applied case by case: whether seeking felt insight
-raises its frequency and lowers its accuracy.
+The counter's own test, applied case by case: whether what a motive favours
+raises a false insight's frequency and lowers its accuracy.
 
 ## Note of 2026-11-27: the SEP entries on self-deception and delusion, read
 
