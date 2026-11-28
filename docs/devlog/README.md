@@ -6,6 +6,7 @@ Notes taken during the work, to revisit at the next retrospective (RETRO) - what
 
 ## Currently — [November 2026](2026-11.md)
 
+- [28 Nov 01:42 — Turning off social cards cut the site build from 1,709 s to 754 s; what is left is staging and parsing, in thirds](2026-11.md#turning-off-social-cards-cut-the-site-build-from-1709-s-to-754-s-what-is-left-is-staging-and-parsing-in-thirds)
 - [27 Nov 01:51 — The argument-scheme search missed the Assistant Axis reading a second time, and two recollections in filed claims were half wrong](2026-11.md#the-argument-scheme-search-missed-the-assistant-axis-reading-a-second-time-and-two-recollections-in-filed-claims-were-half-wrong)
 - [26 Nov 19:55 — Second miss in a day: a single-work filing searched readings and skipped the record's own argument](2026-11.md#second-miss-in-a-day-a-single-work-filing-searched-readings-and-skipped-the-records-own-argument)
 - [26 Nov 18:13 — A prior-art search by the wrong key reported a held, read work as absent](2026-11.md#a-prior-art-search-by-the-wrong-key-reported-a-held-read-work-as-absent)
@@ -46,8 +47,8 @@ Notes taken during the work, to revisit at the next retrospective (RETRO) - what
 
 ## All books
 
-37 entries across 1 book, newest first.
+38 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-11](2026-11.md) | 37 | 2026-11-21 | 2026-11-27 |
+| [2026-11](2026-11.md) | 38 | 2026-11-21 | 2026-11-28 |
