@@ -16,7 +16,19 @@ statement: >-
   chatbot-associated delusion is where the places meet; and the remedies
   are the same three: raise the evaluator's capacity, read signals costly to
   forge, or bring in an evaluator the optimizer was not selected against
-version: 1
+version: 2
+history:
+- version: 1
+  date: '2026-11-27'
+  note: >-
+    Filed as the integrating claim of the gamed-evaluator threads.
+- version: 2
+  date: '2026-11-28'
+  note: >-
+    Two corrections found while writing the line's SYNTHESIS. Performative
+    stability no longer "closes the gap": as CLAIM-1410 says, the Goodhart
+    effect goes and the Campbell effect stays. The dated note of 2026-11-27
+    no longer quotes "always", a word the statement does not use.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -115,7 +127,8 @@ checking:
 - **A language model producing content** costs nearly nothing per claim,
   while checking does not get cheaper ([CLAIM-1436](CLAIM-1436.md)).
 - **Performative stability** ([CLAIM-1410](CLAIM-1410.md)) is the case where the
-  evaluator retrains and the gap closes by changing what is measured.
+  evaluator retrains: the Goodhart effect goes, and the Campbell effect, the
+  change in what is measured, stays.
 
 [CLAIM-1443](CLAIM-1443.md)'s pathology is the gap feeding back: the optimizer erodes the
 evaluator.
@@ -144,5 +157,5 @@ Three readings qualify this claim; none contradicts it.
 
 - **Its word is "mislead", not "deceive".** On the majority view Mahon reports ([NOTE-tmpu79ux](../notes.d/NOTE-tmpu79ux.md), [THEORY-tmpk9i0k](../theory.d/THEORY-tmpk9i0k.md)), causing a false belief without intent is misleading. The claim says neither word, so it stands. Glosses of it should say that an evaluator is misled, or cite Chisholm and Feehan's unintentional deception.
 - **The inside mechanism is a second standard.** Deflationary self-deception ([NOTE-tmp2juuo](../notes.d/NOTE-tmp2juuo.md)) biases a judgment by what is welcome or costly to get wrong. That is not a process that has learned the evaluator's cheap signal, as in the trained and outside positions.
-- **"Always" fails for some delusions.** Bortolotti ([NOTE-tmpfar7p](../notes.d/NOTE-tmpfar7p.md)) finds "no fundamental role for motivational biases" in misidentification delusions. A false conviction there is a miscalibrated signal, which counts against this claim's inside position holding in every case and for [CLAIM-tmpu6c7h](CLAIM-tmpu6c7h.md)'s conditional one.
+- **The inside instance does not hold for every delusion.** Bortolotti ([NOTE-tmpfar7p](../notes.d/NOTE-tmpfar7p.md)) finds "no fundamental role for motivational biases" in misidentification delusions. A false conviction there is a miscalibrated signal, which counts against reading false insight as a gamed evaluator in every case, and for [CLAIM-tmpu6c7h](CLAIM-tmpu6c7h.md)'s conditional one.
 - **The remedies are corroborated in part.** The self-deception entry's remedies, "the cultivation of one's epistemic virtues and the cultivation of one's epistemic community", are two of this claim's three.
