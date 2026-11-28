@@ -30,8 +30,8 @@ rests_on:
 - CLAIM-1441
 - CLAIM-tmpu6c7h
 summary: >-
-  A gap the line's SYNTHESIS found: CLAIM-1397's no-gaming kinds of
-  Goodhart and CLAIM-1441's no-optimizer false insight have one shape, and
+  A gap the line's SYNTHESIS found: [CLAIM-1397](CLAIM-1397.md)'s no-gaming kinds of
+  Goodhart and [CLAIM-1441](CLAIM-1441.md)'s no-optimizer false insight have one shape, and
   nothing joined them. Filed in the dialectic regime, 2026-11-28, in the
   assistant's voice (Claude, in this session); adopting it is the owner's
   call.
@@ -44,12 +44,12 @@ summary: >-
 
 Goodhart's law has kinds. In the regressional and extremal kinds nobody
 games the indicator: selecting on a noisy indicator picks out noise, and
-the more extreme the selection, the more of it is noise (CLAIM-1397). That
+the more extreme the selection, the more of it is noise ([CLAIM-1397](CLAIM-1397.md)). That
 is an evaluator misled by a cheap signal with no optimizer at all.
 
-CLAIM-1441 says false insight has exactly this shape: a cue misfiring, with
+[CLAIM-1441](CLAIM-1441.md) says false insight has exactly this shape: a cue misfiring, with
 nothing selected against it. So the counter's case has a held analogue
-outside the mind, and the dispute with CLAIM-tmpu6c7h can be put in
+outside the mind, and the dispute with [CLAIM-tmpu6c7h](CLAIM-tmpu6c7h.md) can be put in
 Goodhart's terms:
 - **Regressional:** the felt aha is a noisy indicator of fit, and the most
   certain insights include the most noise.

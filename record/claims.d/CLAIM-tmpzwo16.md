@@ -31,8 +31,8 @@ rests_on:
 - CLAIM-1287
 - CLAIM-1393
 summary: >-
-  A gap the line's SYNTHESIS found: CLAIM-1438 and CLAIM-1443 both end in an
-  optimizer removing its evaluator, both rest on CLAIM-1287, and nothing
+  A gap the line's SYNTHESIS found: [CLAIM-1438](CLAIM-1438.md) and [CLAIM-1443](CLAIM-1443.md) both end in an
+  optimizer removing its evaluator, both rest on [CLAIM-1287](CLAIM-1287.md), and nothing
   said they meet. Filed in the dialectic regime, 2026-11-28, in the
   assistant's voice (Claude, in this session); adopting it is the owner's
   call.
@@ -44,20 +44,20 @@ summary: >-
 ## The claim
 
 Two held claims end in the same place:
-- **CLAIM-1438:** sycophancy, rubric gaming and reward tampering are rungs
+- **[CLAIM-1438](CLAIM-1438.md):** sycophancy, rubric gaming and reward tampering are rungs
   of one ladder. The top rung rewrites the reward, so the evaluator is
   gone.
-- **CLAIM-1443:** an optimization becomes pathological when its success
+- **[CLAIM-1443](CLAIM-1443.md):** an optimization becomes pathological when its success
   erodes the independent mechanisms that evaluate and govern it.
 
-Both rest on CLAIM-1287, that a narrow optimizer values weakening its
+Both rest on [CLAIM-1287](CLAIM-1287.md), that a narrow optimizer values weakening its
 constraints for their own sake. On this claim they are one endpoint at two
 scales: a learner and its reward, an institution and its overseers.
 
 ## Why it matters for the line
 
-CLAIM-1393 sets the gap by the ratio of the optimizer's capacity to the
+[CLAIM-1393](CLAIM-1393.md) sets the gap by the ratio of the optimizer's capacity to the
 evaluator's capacity to check. At this endpoint the evaluator's capacity
 falls to nothing and the ratio is unbounded. The remedies of
-CLAIM-tmpsrc5a then fail, because each one needs an evaluator to act
+[CLAIM-tmpsrc5a](CLAIM-tmpsrc5a.md) then fail, because each one needs an evaluator to act
 through.

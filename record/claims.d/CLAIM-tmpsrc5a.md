@@ -35,17 +35,17 @@ uses:
 - DISTINCTION-001
 summary: >-
   A gap the line's SYNTHESIS found: no component says which remedy fits
-  which position, though DISTINCTION-001's tells_apart implies it. Filed in
+  which position, though [DISTINCTION-001](../distinctions.d/DISTINCTION-001.md)'s tells_apart implies it. Filed in
   the dialectic regime, 2026-11-28, in the assistant's voice (Claude, in
   this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-1393 CLAIM-1397 CLAIM-1420 DISTINCTION-001 — Proposed; the claims and distinction it rests on -->
+<!-- inactive-ok-file: CLAIM-1393 CLAIM-1420 DISTINCTION-001 — Proposed; the claims and distinction it rests on -->
 
 # CLAIM-tmpsrc5a: Each position of a gamed evaluator yields to a different remedy
 
 ## The claim
 
-DISTINCTION-001 tells the positions apart by two interventions, and those
+[DISTINCTION-001](../distinctions.d/DISTINCTION-001.md) tells the positions apart by two interventions, and those
 interventions are remedies:
 
 | Position | Fresh evaluator | Signals costly to forge | Independent evaluator |
