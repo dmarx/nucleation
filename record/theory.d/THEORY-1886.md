@@ -21,6 +21,7 @@ statement: >-
 version: 1
 tags:
 - representation-learning
+- shortcut-learning
 - learning-theory
 date: '2026-11-15'
 source:

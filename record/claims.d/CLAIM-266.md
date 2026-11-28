@@ -46,6 +46,7 @@ defeated_if: Across systems optimized against a probe family, evaluation in
   under independent probes and from independent human judgement, so that the
   training probes certify as well as held-out ones.
 tags:
+- shortcut-learning
 - model-comparison
 - representation-learning
 - philosophy-of-science

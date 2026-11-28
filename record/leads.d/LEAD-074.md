@@ -10,6 +10,7 @@ priority: high
 method:
 - reading
 tags:
+- persuasion-and-influence
 - society-and-governance
 - self-governance
 - complex-systems

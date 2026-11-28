@@ -124,6 +124,7 @@ defeated_if: >-
   does not defeat it.
 tags:
 - society-and-governance
+- persuasion-and-influence
 - epistemology
 - self-governance
 date: '2026-10-21'

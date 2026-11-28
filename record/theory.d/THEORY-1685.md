@@ -15,6 +15,7 @@ version: 1
 source:
 - LIT-2421
 tags:
+- persuasion-and-influence
 - social-science
 date: '2026-11-12'
 promote_when: >-

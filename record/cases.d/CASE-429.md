@@ -16,6 +16,7 @@ version: 1
 standing: documented
 kind: specimen
 tags:
+- search-and-ranking
 - society-and-governance
 - social-science
 - information-retrieval

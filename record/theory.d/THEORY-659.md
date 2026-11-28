@@ -22,6 +22,7 @@ history:
     the network looks like"; it does not answer it. Reading review of
     2026-11-11, by question. No other change.
 tags:
+- persuasion-and-influence
 - society-and-governance
 - network-science
 date: '2026-10-16'

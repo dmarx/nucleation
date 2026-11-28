@@ -27,6 +27,7 @@ defeated_if: >-
   on.
 tags:
 - society-and-governance
+- persuasion-and-influence
 - agency
 - epistemology
 date: '2026-11-24'

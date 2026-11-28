@@ -28,6 +28,7 @@ statement: >-
 version: 1
 tags:
 - free-will
+- persuasion-and-influence
 - ethics
 - agency
 - metaphysics

@@ -25,6 +25,7 @@ history:
     symptoms, at strengths comparable to those for psychological
     intimate partner violence in general and not stronger"
 tags:
+- persuasion-and-influence
 - social-science
 - moral-psychology
 promote_when: >-

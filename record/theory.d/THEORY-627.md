@@ -24,6 +24,7 @@ statement: >-
 version: 1
 tags:
 - society-and-governance
+- persuasion-and-influence
 - philosophy-of-science
 - ethics
 date: '2026-10-16'

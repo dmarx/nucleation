@@ -44,6 +44,7 @@ defeated_if: >-
   time, access and education; the claim allows both.
 tags:
 - well-being
+- search-and-ranking
 - society-and-governance
 date: '2026-11-13'
 line:

@@ -17,6 +17,7 @@ source:
 - LIT-2411
 tags:
 - society-and-governance
+- persuasion-and-influence
 date: '2026-11-12'
 promote_when: >-
   Not applicable as an empirical claim: the sentence restates enacted text;

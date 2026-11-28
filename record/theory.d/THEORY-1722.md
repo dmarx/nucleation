@@ -14,6 +14,7 @@ version: 1
 source:
 - LIT-2437
 tags:
+- persuasion-and-influence
 - ethics
 - society-and-governance
 date: '2026-11-12'

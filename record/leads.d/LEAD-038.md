@@ -11,6 +11,7 @@ method:
 - conceptual
 tags:
 - self-governance
+- persuasion-and-influence
 - agency
 date: '2026-11-19'
 line:

@@ -26,6 +26,7 @@ defeated_if: >-
   differ.
 tags:
 - agency
+- persuasion-and-influence
 - self-governance
 - free-will
 date: '2026-11-22'

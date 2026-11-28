@@ -22,6 +22,7 @@ standing: documented
 kind: specimen
 tags:
 - society-and-governance
+- search-and-ranking
 - social-ontology
 - ethics
 line:

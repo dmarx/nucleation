@@ -60,6 +60,7 @@ history:
     candidate schema for part of the question. No other change.
 tags:
 - self-governance
+- persuasion-and-influence
 - agency
 - ethics
 date: '2026-10-12'

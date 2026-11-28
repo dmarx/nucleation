@@ -23,6 +23,8 @@ statement: >-
   designing the targeting
 version: 1
 tags:
+- sycophancy
+- persuasion-and-influence
 - agency
 - ethics
 date: '2026-10-14'

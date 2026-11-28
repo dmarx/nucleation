@@ -111,6 +111,7 @@ defeated_if: >-
   decisions: what makes the route a way of being governed is the
   condition CLAIM-713 states.
 tags:
+- persuasion-and-influence
 - ethics
 - agency
 - moral-psychology

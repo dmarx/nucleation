@@ -12,6 +12,7 @@ statement: >-
   predicts harms including post-separation violence
 version: 1
 tags:
+- persuasion-and-influence
 - social-science
 - moral-psychology
 promote_when: >-

@@ -41,6 +41,7 @@ history:
     claim is unchanged, and the status stays Proposed.
 tags:
 - loss-landscapes
+- shortcut-learning
 - representation-learning
 - anthology-candidate
 date: '2026-10-03'
