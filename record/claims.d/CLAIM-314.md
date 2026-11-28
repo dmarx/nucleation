@@ -64,7 +64,7 @@ summary: >-
 bears_on:
 - QUESTION-098
 ---
-<!-- inactive-ok-file: CLAIM-tmpdid0k — Proposed or Open; filed from the exchange 'Alignment consequences brainstorm' on 2026-11-26, cited in its dated note -->
+<!-- inactive-ok-file: CLAIM-1394 — Proposed or Open; filed from the exchange 'Alignment consequences brainstorm' on 2026-11-26, cited in its dated note -->
 <!-- inactive-ok-file: CLAIM-576 — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
 
 # CLAIM-314: Reusing a filed argument has a recognition cost
@@ -161,19 +161,19 @@ nothing measures the cost of recognition in the record's own reuse, and
 
 ## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U17–A34)
 
-A34's H2, filed as [CLAIM-tmpdid0k](CLAIM-tmpdid0k.md), states the net effect this claim gives a
+A34's H2, filed as [CLAIM-1394](CLAIM-1394.md), states the net effect this claim gives a
 mechanism for: "Beyond some workload-dependent point, increasing the readily
 accessible corpus increases the cost of realizing inquiries that the corpus
 already contains sufficient information to support." This claim's recognition
 cost grows with the number and size of stored definitions, so it is one way
 the cost could rise. H2 adds that past a point the rise outweighs what holding
-the answer saved. Nothing in the exchange measures either. [LEAD-tmpolbqp](../leads.d/LEAD-tmpolbqp.md), a
+the answer saved. Nothing in the exchange measures either. [LEAD-307](../leads.d/LEAD-307.md), a
 trial of one line's working view against the full retrieval surface at a fixed
 budget, would give this claim the measure its note of 2026-11-18 found missing,
 a cost of recognition in the record's own reuse. A parallel, with a test
 proposed. No status change.
 
 ## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U15–A27), A27's externality
-<!-- inactive-ok-file: CLAIM-tmpg2wk1 ARG-tmpedexz — Proposed; filed from the same exchange on 2026-11-26 -->
+<!-- inactive-ok-file: CLAIM-1403 ARG-262 — Proposed; filed from the same exchange on 2026-11-26 -->
 
-A27 §4 restates this claim's last clause without citing it: "Retaining an entry in the readily accessible corpus can impose costs on the retrieval of other entries", with a marginal cost ΔC(e | S) = C(S ∪ {e}) − C(S) that includes "its effects on the retrieval, interpretation and verification of other knowledge", so "an entry's appropriate retention policy cannot necessarily be determined in isolation". It extends the claim in one respect: this claim's cost is recognizing which stored answer covers a question, which A calls part of the "economics of an ecology of memories", and A adds the cost of meeting entries that answer nothing, retired or redundant ones. A's example, "A hundred individually useful restatements of a principle might collectively make that principle harder to find", is the case. A27 §7 then prices tiers entry by entry, which this claim's non-independence rules out; [ARG-tmpedexz](../arguments.d/ARG-tmpedexz.md) records the narrowing of [CLAIM-tmpg2wk1](CLAIM-tmpg2wk1.md) this forces. A restatement and an application; no edge beyond [CLAIM-tmpg2wk1](CLAIM-tmpg2wk1.md)'s `rests_on`. The note is the assistant's (Claude, in this session). No status change.
+A27 §4 restates this claim's last clause without citing it: "Retaining an entry in the readily accessible corpus can impose costs on the retrieval of other entries", with a marginal cost ΔC(e | S) = C(S ∪ {e}) − C(S) that includes "its effects on the retrieval, interpretation and verification of other knowledge", so "an entry's appropriate retention policy cannot necessarily be determined in isolation". It extends the claim in one respect: this claim's cost is recognizing which stored answer covers a question, which A calls part of the "economics of an ecology of memories", and A adds the cost of meeting entries that answer nothing, retired or redundant ones. A's example, "A hundred individually useful restatements of a principle might collectively make that principle harder to find", is the case. A27 §7 then prices tiers entry by entry, which this claim's non-independence rules out; [ARG-262](../arguments.d/ARG-262.md) records the narrowing of [CLAIM-1403](CLAIM-1403.md) this forces. A restatement and an application; no edge beyond [CLAIM-1403](CLAIM-1403.md)'s `rests_on`. The note is the assistant's (Claude, in this session). No status change.

@@ -139,7 +139,7 @@ So V_adm \ V_π is the set of states the arrangement loses by keeping its policy
 
 ## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U1–A4)
 
-<!-- inactive-ok-file: CLAIM-667 CLAIM-tmp887rf — Proposed; the study and the entries of 2026-11-26 that use this kernel -->
+<!-- inactive-ok-file: CLAIM-667 CLAIM-1378 — Proposed; the study and the entries of 2026-11-26 that use this kernel -->
 
 A2 §6 proposed the governance of possibility as "a formal framework for AI
 control", a reachable set ℛ_T(x, B; 𝒢) of corrective states for a
@@ -162,17 +162,17 @@ open what would make that capacity the organization's own ([QUESTION-388](../que
 A4 §5 proposes indexing the kernel by actor, V_human, V_AI, V_joint; that
 is [LEAD-254](../leads.d/LEAD-254.md)'s, and its note of today states what the indexing must fix.
 A4 §15 proposes a study connecting this kernel to [CLAIM-667](../claims.d/CLAIM-667.md)'s experiment
-([LEAD-tmp9snzi](../leads.d/LEAD-tmp9snzi.md)), and A5 §2 calls a strike fund "part of the material
-infrastructure of reorganization readiness" ([CLAIM-tmp887rf](../claims.d/CLAIM-tmp887rf.md)). Each is an
+([LEAD-291](../leads.d/LEAD-291.md)), and A5 §2 calls a strike fund "part of the material
+infrastructure of reorganization readiness" ([CLAIM-1378](../claims.d/CLAIM-1378.md)). Each is an
 application, not a revision; the term is unchanged.
 
 ## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U8–A15)
 
-<!-- inactive-ok-file: CLAIM-tmpygs06 CLAIM-tmpv3frk — new or Proposed; the claims of 2026-11-26 the note corrects and uses, and the held readiness term -->
+<!-- inactive-ok-file: CLAIM-1453 CLAIM-1443 — new or Proposed; the claims of 2026-11-26 the note corrects and uses, and the held readiness term -->
 
 A correction, the assistant's, to a use of this term.
 
-**What A15 proposes.** For its platform ([CLAIM-tmpygs06](../claims.d/CLAIM-tmpygs06.md)), A15 §VII takes
+**What A15 proposes.** For its platform ([CLAIM-1453](../claims.d/CLAIM-1453.md)), A15 §VII takes
 the institutional state z_t = (K_t, C_t, D_t, A_t, G_t), epistemic,
 capability, dependency, effective-authority and governing components, and
 for an authorized constituent or coalition i the set R_i(z_t, B, T) of
@@ -199,7 +199,7 @@ probability.
    nothing. This is this term's limit, that K_ω "must be fixed
    independently of the current arrangement, or every arrangement is
    viable by its own standards", met through the governance component, and
-   it is the constitutional capture of [CLAIM-tmpv3frk](../claims.d/CLAIM-tmpv3frk.md) in formal dress. The
+   it is the constitutional capture of [CLAIM-1443](../claims.d/CLAIM-1443.md) in formal dress. The
    remedy consistent with A15's own R12: compute the kernel with the
    thresholds frozen at the time of judgement, and judge their revision
    separately, as a constitutional change under authority the governed

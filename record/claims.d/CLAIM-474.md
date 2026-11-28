@@ -426,7 +426,7 @@ this claim for the same distinctions (§2). The wording of this note is the assi
 
 ## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U10–A17)
 
-<!-- inactive-ok-file: CLAIM-tmpvuiy4 CLAIM-tmp0o2mp — Proposed or Open; filed from the exchange of 2026-11-26 -->
+<!-- inactive-ok-file: CLAIM-1445 CLAIM-1351 — Proposed or Open; filed from the exchange of 2026-11-26 -->
 
 A17 §6 gives a dynamical reading of purpose formation, constituent demands producing a maintained collective structure C that in turn changes the demands, (d₁, …, dₙ) → C → (d₁′, …, dₙ′), and lists stages:
 
@@ -438,4 +438,4 @@ A17 §6 gives a dynamical reading of purpose formation, constituent demands prod
 | Purpose formation | Maintaining or transforming those conditions organizes activity. |
 | Reflexive purpose governance | The organization can reconsider the conditions and criteria it pursues. |
 
-A17 itself hedges: "This is my proposed developmental decomposition, not an established sequence in the record. Its value would be in designing separating cases for each achievement." Read as separable achievements, the table extends this claim's list with two, purpose formation ([CLAIM-tmpvuiy4](CLAIM-tmpvuiy4.md)) and reflexive purpose governance ([CLAIM-424](CLAIM-424.md)'s reflexive governance, turned on ends), and A17's "self-maintenance alone is not necessarily purpose" is this claim's "none implies the next". Read as a sequence, each stage requiring the one before, it would conflict with this claim's partial order, and this claim's own counterexample pattern applies: [CLAIM-tmp0o2mp](CLAIM-tmp0o2mp.md) (A's) has an institution deliberately constituting a purpose it does not effectively pursue. No separating cases are designed in the exchange; [LEAD-tmpicg4k](../leads.d/LEAD-tmpicg4k.md) is A17 §12's test for the purpose stage. No change of status or statement.
+A17 itself hedges: "This is my proposed developmental decomposition, not an established sequence in the record. Its value would be in designing separating cases for each achievement." Read as separable achievements, the table extends this claim's list with two, purpose formation ([CLAIM-1445](CLAIM-1445.md)) and reflexive purpose governance ([CLAIM-424](CLAIM-424.md)'s reflexive governance, turned on ends), and A17's "self-maintenance alone is not necessarily purpose" is this claim's "none implies the next". Read as a sequence, each stage requiring the one before, it would conflict with this claim's partial order, and this claim's own counterexample pattern applies: [CLAIM-1351](CLAIM-1351.md) (A's) has an institution deliberately constituting a purpose it does not effectively pursue. No separating cases are designed in the exchange; [LEAD-298](../leads.d/LEAD-298.md) is A17 §12's test for the purpose stage. No change of status or statement.

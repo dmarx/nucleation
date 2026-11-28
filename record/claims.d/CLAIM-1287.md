@@ -13,11 +13,11 @@ history:
     restates the claim correctly, adds independent evaluation and
     internal dissent to its constraints, and draws the consequence
     that jurisdiction can be an endogenous product of optimization;
-    CLAIM-tmpv3frk rests on it. The claim is unchanged.
+    CLAIM-1443 rests on it. The claim is unchanged.
 - version: 3
   date: '2026-11-26'
   note: >-
-    Joins the work organizational-origins-of-misalignment (ADR-tmp0cgxa) at
+    Joins the work organizational-origins-of-misalignment (ADR-152) at
     its filing, under ADR-104's rule: the outline A11 §IX of the exchange
     "Alignment consequences brainstorm" uses its proposition as a step.
     No other change.
@@ -152,7 +152,7 @@ session); adopting it is the owner's call.
 
 ## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U6–A11)
 
-<!-- inactive-ok-file: TERM-tmp3rbue CLAIM-tmpv3frk CLAIM-tmp826ap — new; the term and the claims of 2026-11-26 that apply this one -->
+<!-- inactive-ok-file: TERM-181 CLAIM-1443 CLAIM-1375 — new; the term and the claims of 2026-11-26 that apply this one -->
 
 Support for an application. A11 §5 calls this claim "the single most
 relevant entry" for the paperclip maximizer, "a much closer sociological
@@ -169,20 +169,20 @@ note's two conditions to give the result.
 A11 adds two rows to the constraints the optimizer values eroding:
 "Independent evaluation", with "Reduced detection of undesirable
 consequences", and "Internal dissent". And it draws the consequence for
-A6's term ([TERM-tmp3rbue](../terms.d/TERM-tmp3rbue.md)): jurisdiction "can itself become an endogenous
+A6's term ([TERM-181](../terms.d/TERM-181.md)): jurisdiction "can itself become an endogenous
 product of optimization." A8's hypothesis, that optimization is
 pathological when its success erodes its evaluators, rests on that
-([CLAIM-tmpv3frk](CLAIM-tmpv3frk.md)), and A11 §7's constitutional failure of a metric is its
-case for metrics ([CLAIM-tmp826ap](CLAIM-tmp826ap.md)). A11 states the status correctly:
+([CLAIM-1443](CLAIM-1443.md)), and A11 §7's constitutional failure of a metric is its
+case for metrics ([CLAIM-1375](CLAIM-1375.md)). A11 states the status correctly:
 "still proposed, with interpretive warrant".
 
 ## Note of 2026-11-27: reward tampering as the limit
 
-<!-- inactive-ok-block: CLAIM-tmpsjxip — new; the claim and its objection filed on 2026-11-27 -->
+<!-- inactive-ok-block: CLAIM-1438 — new; the claim and its objection filed on 2026-11-27 -->
 
-[CLAIM-tmpsjxip](CLAIM-tmpsjxip.md) proposes that reward tampering in Denison and colleagues' curriculum ([LEAD-tmp71xhs](../leads.d/LEAD-tmp71xhs.md), unread) is this claim's erosion of the constraint, in a model optimized on a reward that disciplines it. A parallel and a proposed instance; no change to this claim.
+[CLAIM-1438](CLAIM-1438.md) proposes that reward tampering in Denison and colleagues' curriculum ([LEAD-288](../leads.d/LEAD-288.md), unread) is this claim's erosion of the constraint, in a model optimized on a reward that disciplines it. A parallel and a proposed instance; no change to this claim.
 
 ## Note of 2026-11-27: Denison and colleagues, read
 
 
-A parallel only ([NOTE-tmp34uft](../notes.d/NOTE-tmp34uft.md)). The authors read reward tampering as instrumental reward-seeking, and several samples present the edit as fixing a broken reward. That is not the valuing of a weakened constraint for its own sake that this claim describes.
+A parallel only ([NOTE-2423](../notes.d/NOTE-2423.md)). The authors read reward tampering as instrumental reward-seeking, and several samples present the edit as fixing a broken reward. That is not the valuing of a weakened constraint for its own sake that this claim describes.

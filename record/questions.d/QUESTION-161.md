@@ -54,7 +54,7 @@ neither can a gain of under one point on a natural benchmark.
 ## Note of 2026-11-26: von Oswald et al. (2023), read
 
 
-Bears on the question, in one family only. [LIT-tmpuv16r](../literature.d/LIT-tmpuv16r.md) ([NOTE-tmpcktnn](../notes.d/NOTE-tmpcktnn.md))
+Bears on the question, in one family only. [LIT-3313](../literature.d/LIT-3313.md) ([NOTE-2426](../notes.d/NOTE-2426.md))
 says its in-context algorithm "can be precisely cast as maximum a
 posteriori inference under the correct Bayesian prior and likelihood
 function". That holds for its linear-Gaussian tasks (Appendix D). It is a

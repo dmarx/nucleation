@@ -57,6 +57,6 @@ needs no test refers to [THEORY-547](THEORY-547.md).
 
 ## Note of 2026-11-27: sycophancy by imitation
 
-<!-- inactive-ok-block: CLAIM-tmpaxlwy — new; the claim and lead that use this account -->
+<!-- inactive-ok-block: CLAIM-1387 — new; the claim and lead that use this account -->
 
-[CLAIM-tmpaxlwy](../claims.d/CLAIM-tmpaxlwy.md) uses this account for one source of sycophancy. A model that follows the frame of the conversation continues the user's stated view as part of it, with no reward needed, and Wei and colleagues report that this grows with scale before instruction tuning ([LEAD-tmp71xhs](../leads.d/LEAD-tmp71xhs.md), unread). A use of this account; no change to its status.
+[CLAIM-1387](../claims.d/CLAIM-1387.md) uses this account for one source of sycophancy. A model that follows the frame of the conversation continues the user's stated view as part of it, with no reward needed, and Wei and colleagues report that this grows with scale before instruction tuning ([LEAD-288](../leads.d/LEAD-288.md), unread). A use of this account; no change to its status.

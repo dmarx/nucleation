@@ -101,7 +101,7 @@ traditions ([CASE-139](../cases.d/CASE-139.md)). It gives the question two thing
 ## Note of 2026-11-26: Niebudek and Iniewicz (2023), read
 
 
-Supplies cases; does not separate the kinds. In [LIT-tmpdbb0m](../literature.d/LIT-tmpdbb0m.md) ([NOTE-tmptx4q4](../notes.d/NOTE-tmptx4q4.md)):
+Supplies cases; does not separate the kinds. In [LIT-3281](../literature.d/LIT-3281.md) ([NOTE-2429](../notes.d/NOTE-2429.md)):
 
 - A BDSM role confined to scenes is held but not engaged between them, by
   arrangement. That is a loss of activation with the conditions intact,
@@ -111,4 +111,4 @@ Supplies cases; does not separate the kinds. In [LIT-tmpdbb0m](../literature.d/L
 - The community stage of the authors' model is where social reproduction
   would sit.
 
-[THEORY-tmpigigb](../theory.d/THEORY-tmpigigb.md) `bears_on` this question. No status change.
+[THEORY-2315](../theory.d/THEORY-2315.md) `bears_on` this question. No status change.

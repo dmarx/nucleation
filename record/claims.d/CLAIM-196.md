@@ -123,7 +123,7 @@ audience is absent:
 
 - by memory or anticipation of the other audience, which version 1's
   defeater already excepted;
-- by **identification**. In [LIT-tmpdbb0m](../literature.d/LIT-tmpdbb0m.md) ([NOTE-tmptx4q4](../notes.d/NOTE-tmptx4q4.md)), a scene-limited
+- by **identification**. In [LIT-3281](../literature.d/LIT-3281.md) ([NOTE-2429](../notes.d/NOTE-2429.md)), a scene-limited
   role is entered "only in the course of the session limited in time",
   which is a role only respectively available. Identification is "present
   also when the role is not assumed" and reaches "everyday life", which is
@@ -200,7 +200,7 @@ by itself. No status change.
 ## Note of 2026-11-26: Niebudek and Iniewicz (2023), read
 
 
-A case. In [LIT-tmpdbb0m](../literature.d/LIT-tmpdbb0m.md) ([NOTE-tmptx4q4](../notes.d/NOTE-tmptx4q4.md)), Table 1 records a participant who "Leads a double
+A case. In [LIT-3281](../literature.d/LIT-3281.md) ([NOTE-2429](../notes.d/NOTE-2429.md)), Table 1 records a participant who "Leads a double
 life". Concealment and coming out, as the paper discusses them (pp. 139,
 141, 143), keep a role's contexts disjoint and then collapse them. This
 illustrates the claim, from self-report, with no measure of conflict. No
@@ -208,7 +208,7 @@ status change.
 
 ## Note of 2026-11-26: tautology, and where the content is
 
-<!-- inactive-ok-block: CLAIM-tmprejdn — new; the claim this note points to -->
+<!-- inactive-ok-block: CLAIM-1435 — new; the claim this note points to -->
 
 The owner, the same day, on version 2: "sort of a tautological statement
 though, isn't it? 'two things can only come into conflict if they are
@@ -218,7 +218,7 @@ connection to the contextuality program?" Agreed. The statement is
 this claim's own: the owner's availability condition, under which a role
 can be carried across contexts, and the point that the cover is partly the
 person's to manage. The non-trivial consequence, a contextual self whose
-cure is opening a cycle, is filed as [CLAIM-tmprejdn](CLAIM-tmprejdn.md), which rests on this
+cure is opening a cycle, is filed as [CLAIM-1435](CLAIM-1435.md), which rests on this
 claim and on [CLAIM-153](CLAIM-153.md).
 
 What rests on this claim was checked. No claim rests on it. [SYNTHESIS-051](../syntheses.d/SYNTHESIS-051.md)
@@ -226,16 +226,16 @@ integrates it, and its summary ("roles conflict only on an overlap") still
 holds under version 2. [CASE-052](../cases.d/CASE-052.md) and [CASE-064](../cases.d/CASE-064.md) illustrate it, and [CLAIM-153](CLAIM-153.md)
 and [CLAIM-198](CLAIM-198.md) complement it. [CLAIM-417](CLAIM-417.md), [TERM-045](../terms.d/TERM-045.md), [THEORY-406](../theory.d/THEORY-406.md), [QUESTION-255](../questions.d/QUESTION-255.md),
 [ADR-040](../decisions.d/ADR-040.md) and [ADR-043](../decisions.d/ADR-043.md) cite it in ways version 2 leaves true. Whether this
-claim should be superseded by [CLAIM-tmprejdn](CLAIM-tmprejdn.md), or kept as its base case, is
+claim should be superseded by [CLAIM-1435](CLAIM-1435.md), or kept as its base case, is
 a status change and is left to the owner. No status change.
 
 ## Note of 2026-11-26: the cover-control point, filed on its own
 
-<!-- inactive-ok-block: CLAIM-tmpw7swg — new; the claim this note points to -->
+<!-- inactive-ok-block: CLAIM-1447 — new; the claim this note points to -->
 
 At the owner's question, this claim's sentence that a presented self "is a
 global section relative to a cover the person partly controls" is filed as
-its own claim, [CLAIM-tmpw7swg](CLAIM-tmpw7swg.md). Its empirical half was already [CLAIM-317](CLAIM-317.md).
+its own claim, [CLAIM-1447](CLAIM-1447.md). Its empirical half was already [CLAIM-317](CLAIM-317.md).
 What was not held is the structural thesis and its consequences: coherence
 is a property of roles together with the cover, there are two levers of
 repair, and loss of cover control shifts the repair onto the roles. This

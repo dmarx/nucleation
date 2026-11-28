@@ -106,9 +106,9 @@ criterion of corporate purpose and practical authority."
 
 ## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U4–A6)
 
-<!-- inactive-ok-file: CLAIM-tmpe432a LIT-tmpbuqp3 — filed from the exchange of 2026-11-26, Proposed or Deferred -->
+<!-- inactive-ok-file: CLAIM-1398 LIT-3277 — filed from the exchange of 2026-11-26, Proposed or Deferred -->
 
-The owner's U4 ([CLAIM-tmpe432a](CLAIM-tmpe432a.md)) joins this claim from another side:
+The owner's U4 ([CLAIM-1398](CLAIM-1398.md)) joins this claim from another side:
 shareholder value is a case of letting a narrow objective steer
 significant levers of behavioural influence, "since at least the 80s".
 A6 §1 dates it: "The shareholder-value movement, emerging during the
@@ -116,7 +116,7 @@ A6 §1 dates it: "The shareholder-value movement, emerging during the
 explicitly sought to reorganize corporate governance around financial
 returns. Jensen and Meckling's 1976 theory of the firm was influential in
 this development." Jensen and Meckling is registered unread
-([LIT-tmpbuqp3](../literature.d/LIT-tmpbuqp3.md)); the history is A's and unverified. A6 §1 also holds that
+([LIT-3277](../literature.d/LIT-3277.md)); the history is A's and unverified. A6 §1 also holds that
 "An organization can exhibit increasingly coherent optimization behaviour
 without any constituent endorsing the objective as an ultimate value",
 which bears on this claim's "willful": if the exclusion is maintained by

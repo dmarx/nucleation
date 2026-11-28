@@ -174,7 +174,7 @@ which complements this claim. No change.
 
 ## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U2–A4)
 
-<!-- inactive-ok-file: TERM-tmp35z0s — Proposed; the held generalization and the term of 2026-11-26 the variant study measures -->
+<!-- inactive-ok-file: TERM-180 — Proposed; the held generalization and the term of 2026-11-26 the variant study measures -->
 
 A4 §4 states this claim's prediction correctly, Δ = (Y_FG − Y_RG) −
 (Y_FU − Y_RU) > 0, with "the outcome ... justified correction without
@@ -188,22 +188,22 @@ the generalization to institutions, accurately, and calls both "untested
 hypotheses", as they are.
 
 A4 §15 proposes a variant that adds rising automation as a factor and the
-human members' retained governing capacity as an outcome ([LEAD-tmp9snzi](../leads.d/LEAD-tmp9snzi.md)),
-the constitutional capability of [TERM-tmp35z0s](../terms.d/TERM-tmp35z0s.md). An application; the claim
+human members' retained governing capacity as an outcome ([LEAD-291](../leads.d/LEAD-291.md)),
+the constitutional capability of [TERM-180](../terms.d/TERM-180.md). An application; the claim
 and its study ([LEAD-085](../leads.d/LEAD-085.md)) are unchanged.
 
 ## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U7–A13, U8–A15)
 
-<!-- inactive-ok-file: CLAIM-tmpygs06 — new or Proposed; the lead and claim of 2026-11-26 that cite this one, and the held generalization -->
+<!-- inactive-ok-file: CLAIM-1453 — new or Proposed; the lead and claim of 2026-11-26 that cite this one, and the held generalization -->
 
 Two applications, no change. A13 §10 says this claim's "factorial
 experiment on governed schema change could become part of a larger
 research programme on the organizational conditions of alignment", and
-lists it among seven comparisons on governed records ([LEAD-tmpwlebp](../leads.d/LEAD-tmpwlebp.md); its
+lists it among seven comparisons on governed records ([LEAD-316](../leads.d/LEAD-316.md); its
 "Constitutional adaptability" row is [LEAD-085](../leads.d/LEAD-085.md)'s design). A15's R12, that a
 platform must let an institution "legitimately revise an inadequate
 standard while preventing the process governed by that standard from
 unilaterally weakening it", is "a generalization of the governed
-schema-change hypothesis" here ([CLAIM-tmpygs06](CLAIM-tmpygs06.md)); the generalization to
+schema-change hypothesis" here ([CLAIM-1453](CLAIM-1453.md)); the generalization to
 institutions the record already holds is [CLAIM-685](CLAIM-685.md)'s. Neither adds
 evidence.

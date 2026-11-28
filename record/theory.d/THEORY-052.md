@@ -202,6 +202,6 @@ unchanged.
 
 ## Note of 2026-11-27: applied to chatbot-associated delusions
 
-<!-- inactive-ok-block: CLAIM-tmpf5onw CLAIM-tmpca3a7 — new or Proposed; the claims that use this account -->
+<!-- inactive-ok-block: CLAIM-1401 CLAIM-1391 — new or Proposed; the claims that use this account -->
 
-[CLAIM-tmpf5onw](../claims.d/CLAIM-tmpf5onw.md) uses this account: need frustration is part of the receptivity window in which a conversation can nucleate a delusion ([CLAIM-tmpca3a7](../claims.d/CLAIM-tmpca3a7.md)), and the delusion's themes are satisfactions of the frustrated needs. A use of this account, not new evidence for it; no change to its status.
+[CLAIM-1401](../claims.d/CLAIM-1401.md) uses this account: need frustration is part of the receptivity window in which a conversation can nucleate a delusion ([CLAIM-1391](../claims.d/CLAIM-1391.md)), and the delusion's themes are satisfactions of the frustrated needs. A use of this account, not new evidence for it; no change to its status.

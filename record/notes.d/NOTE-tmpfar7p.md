@@ -12,7 +12,7 @@ date: '2026-11-27'
 summary: >-
   Bortolotti's survey of clinical delusion, organised by the continuity thesis. It defends doxasticism and a difference of degree, not kind, from ordinary irrational belief, and it splits delusions by whether motivation has a role.
 ---
-<!-- inactive-ok-file: CLAIM-tmpcv6i6 CLAIM-tmpu6fff CLAIM-tmpu6c7h DISTINCTION-tmpwhh30 — Proposed or new; the reading and the entries it bears on -->
+<!-- inactive-ok-file: CLAIM-1393 CLAIM-1441 CLAIM-tmpu6c7h DISTINCTION-006 — Proposed or new; the reading and the entries it bears on -->
 
 # NOTE-tmpfar7p: Delusion
 
@@ -51,8 +51,8 @@ The continuity thesis; doxasticism and its rivals (imaginings, acceptances, in-b
 
 ## Bearing on the record
 
-- **The gamed-evaluator question** ([CLAIM-tmpcv6i6](../claims.d/CLAIM-tmpcv6i6.md), [CLAIM-tmpu6fff](../claims.d/CLAIM-tmpu6fff.md), [CLAIM-tmpu6c7h](../claims.d/CLAIM-tmpu6c7h.md)): the entry's split by motivation has the form of [CLAIM-tmpu6c7h](../claims.d/CLAIM-tmpu6c7h.md). Its unmotivated cases are a miscalibrated signal, as [CLAIM-tmpu6fff](../claims.d/CLAIM-tmpu6fff.md) says. What is sought in the motivated cases is the comfort of a content, not the feeling of insight.
-- **The delusion thread:** the two-factor template separates the theme from its endorsement. That gives [DISTINCTION-tmpwhh30](../distinctions.d/DISTINCTION-tmpwhh30.md) a third axis, below.
+- **The gamed-evaluator question** ([CLAIM-1393](../claims.d/CLAIM-1393.md), [CLAIM-1441](../claims.d/CLAIM-1441.md), [CLAIM-tmpu6c7h](../claims.d/CLAIM-tmpu6c7h.md)): the entry's split by motivation has the form of [CLAIM-tmpu6c7h](../claims.d/CLAIM-tmpu6c7h.md). Its unmotivated cases are a miscalibrated signal, as [CLAIM-1441](../claims.d/CLAIM-1441.md) says. What is sought in the motivated cases is the comfort of a content, not the feeling of insight.
+- **The delusion thread:** the two-factor template separates the theme from its endorsement. That gives [DISTINCTION-006](../distinctions.d/DISTINCTION-006.md) a third axis, below.
 - **Absent:** folie à deux and shared delusion, apophany, felt certainty, AI, mathematics.
 
 ## Limitations

@@ -6,8 +6,8 @@
 
 **Economics** — economic theory and institutions — contracts and incomplete contracts, hold-up and relationship-specific investment, bargaining, the theory of the firm and corporate governance, shareholder and stakeholder theories; psychology and sociology stay in social-science (ADR-150).
 
-0 of 179 TERM documents. Back to the [full index](../README.md).
+1 of 191 TERM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [TERM-181](../../../record/terms.d/TERM-181.md) | optimization jurisdiction | A6 §4 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26), "a candidate concept within Nucleation", on the owner's U4 ([CLAIM-1398](../../../record/claims.d/CLAIM-1398.md)). An optimization process is characterized by its criterion, its levers, its authority to use them, its feedback and the governance that constrains and revises it; its jurisdiction is the domain of decisions over which the criterion has authority. A's own limit: jurisdiction is not operationalized ([LEAD-318](../../../record/leads.d/LEAD-318.md)). A different sense from [TERM-047](../../../record/terms.d/TERM-047.md), where the jurisdiction of a will-organization is the regimes whose efficacy it governs. The wording is A's; adopting it is the owner's call. | Proposed |

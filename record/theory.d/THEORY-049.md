@@ -167,6 +167,6 @@ The status is unchanged.
 
 ## Note of 2026-11-27: applied to a chatbot's praise
 
-<!-- inactive-ok-block: CLAIM-tmp8fc82 — new; the claim that applies this account -->
+<!-- inactive-ok-block: CLAIM-1379 — new; the claim that applies this account -->
 
-[CLAIM-tmp8fc82](../claims.d/CLAIM-tmp8fc82.md) applies this account: a sycophantic chatbot's praise is informational, so it raises intrinsic motivation to continue, which helps explain the length of the conversations that co-create delusions. A use of this account; no change to its status.
+[CLAIM-1379](../claims.d/CLAIM-1379.md) applies this account: a sycophantic chatbot's praise is informational, so it raises intrinsic motivation to continue, which helps explain the length of the conversations that co-create delusions. A use of this account; no change to its status.

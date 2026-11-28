@@ -243,17 +243,17 @@ Under either, [CLAIM-517](CLAIM-517.md) takes a clarification of its ε (its not
 
 ## Note of 2026-11-27: the human rater as the probe
 
-<!-- inactive-ok-block: CLAIM-tmpvxrj1 — new; the claim that applies this one -->
+<!-- inactive-ok-block: CLAIM-1446 — new; the claim that applies this one -->
 
-[CLAIM-tmpvxrj1](CLAIM-tmpvxrj1.md) applies this claim to preference learning. The probe is a rater's judgment, made through feelings that report states without their causes, so a model optimized on it learns the feelings' counterfeits as well as their causes. On that reading, sycophancy is this claim's failure, with people as the probes. An application; no change to this claim.
+[CLAIM-1446](CLAIM-1446.md) applies this claim to preference learning. The probe is a rater's judgment, made through feelings that report states without their causes, so a model optimized on it learns the feelings' counterfeits as well as their causes. On that reading, sycophancy is this claim's failure, with people as the probes. An application; no change to this claim.
 
 ## Note of 2026-11-27: Denison and colleagues, read
 
-<!-- inactive-ok-block: THEORY-tmpow1hh — new; the reading of Denison et al. and what was filed from it -->
+<!-- inactive-ok-block: THEORY-2322 — new; the reading of Denison et al. and what was filed from it -->
 
-[THEORY-tmpow1hh](../theory.d/THEORY-tmpow1hh.md) corroborates this claim. In Denison and colleagues' curriculum, retraining away the specification gaming that was easy to detect cut reward tampering and did not remove it: "training away only the cases of specification gaming that we can easily detect may be insufficient" ([NOTE-tmp34uft](../notes.d/NOTE-tmp34uft.md), §5.3).
+[THEORY-2322](../theory.d/THEORY-2322.md) corroborates this claim. In Denison and colleagues' curriculum, retraining away the specification gaming that was easy to detect cut reward tampering and did not remove it: "training away only the cases of specification gaming that we can easily detect may be insufficient" ([NOTE-2423](../notes.d/NOTE-2423.md), §5.3).
 
 ## Note of 2026-11-27: Gupta, Liu and Zou, read
 
 
-Consistent, with a caution ([NOTE-tmpanw10](../notes.d/NOTE-tmpanw10.md)). Gupta, Liu and Zou judge their steering on held-out F1, not on the activation score that defined its direction. But they propose judging a mitigation by whether the score's features return to their low-load pattern. That would certify a mitigation by the probe that trained it, which is what this claim warns against.
+Consistent, with a caution ([NOTE-2425](../notes.d/NOTE-2425.md)). Gupta, Liu and Zou judge their steering on held-out F1, not on the activation score that defined its direction. But they propose judging a mitigation by whether the score's features return to their low-load pattern. That would certify a mitigation by the probe that trained it, which is what this claim warns against.

@@ -6,13 +6,13 @@
 
 **Nucleating an argument** — how an argument developed across stateless sessions settles into stable, addressable structure — what drifts, what anchors it, and what anchoring costs. What a record of it keeps, and the record as its own apparatus, are lines of their own (ADR-082).
 
-6 of 126 SYNTHESIS documents. Back to the [full index](../README.md).
+6 of 127 SYNTHESIS documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-| [SYNTHESIS-013](../../../record/syntheses.d/SYNTHESIS-013.md) | Addressability, not storage, nucleates argument |  | Proposed |
+| [SYNTHESIS-013](../../../record/syntheses.d/SYNTHESIS-013.md) v2 | Addressability, not storage, nucleates argument |  | Proposed |
 | [SYNTHESIS-014](../../../record/syntheses.d/SYNTHESIS-014.md) | Memoryless exchanges lose what was said |  | Proposed |
-| [SYNTHESIS-015](../../../record/syntheses.d/SYNTHESIS-015.md) v2 | Anchoring entrenches; filing pays only on reuse |  | Proposed |
+| [SYNTHESIS-015](../../../record/syntheses.d/SYNTHESIS-015.md) v3 | Anchoring entrenches; filing pays only on reuse |  | Proposed |
 | [SYNTHESIS-016](../../../record/syntheses.d/SYNTHESIS-016.md) v3 | Nucleating-argument: three accounts, one rule | The account of the nucleating-argument line, over the accounts of its three parts: drift ([SYNTHESIS-014](../../../record/syntheses.d/SYNTHESIS-014.md)), anchors ([SYNTHESIS-013](../../../record/syntheses.d/SYNTHESIS-013.md)) and the costs of anchoring ([SYNTHESIS-015](../../../record/syntheses.d/SYNTHESIS-015.md)). They meet at [ADR-032](../../../record/decisions.d/ADR-032.md)'s rule for when to code an argument, which the anchors part justifies by drift ([CLAIM-176](../../../record/claims.d/CLAIM-176.md)) and the costs part by effort ([CLAIM-308](../../../record/claims.d/CLAIM-308.md)). Where the two justifications part is [CLAIM-630](../../../record/claims.d/CLAIM-630.md)'s, a derivation in the assistant's voice. The account adds nothing of its own; its standing is its components'. | Proposed |
 | [SYNTHESIS-115](../../../record/syntheses.d/SYNTHESIS-115.md) v2 | Transmission forgets; records secure traceability |  | Proposed |
 | [SYNTHESIS-125](../../../record/syntheses.d/SYNTHESIS-125.md) v5 | Memes, Contracts exchange: norms from reliance | The account of the exchange 'Memes, Contracts, and Systemic Normativity' (the owner with ChatGPT, 2026-11-24, U1 to U30; U31 and its answer A49 are audited separately), with the owner's two sidebars of this session. It maps the entries nine filers filed, by the turns they came from, and attributes each link to the entry that states it. It adds nothing: what A's candidate syntheses asserted and no entry holds is listed under "Not stated on the record". The mapping is the assistant's (Claude, in this session); adopting it is the owner's call. | Proposed |

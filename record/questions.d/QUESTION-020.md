@@ -111,8 +111,8 @@ An analogy close to evidence ([NOTE-2160](../notes.d/NOTE-2160.md)): in Brown an
 ## Note of 2026-11-26: von Oswald et al. (2023), read
 
 
-Bears on the question, at one limit. [LIT-tmpuv16r](../literature.d/LIT-tmpuv16r.md)'s fixed-teacher control
-([NOTE-tmpcktnn](../notes.d/NOTE-tmpcktnn.md), Appendix E.2) is the case where everything the context
+Bears on the question, at one limit. [LIT-3313](../literature.d/LIT-3313.md)'s fixed-teacher control
+([NOTE-2426](../notes.d/NOTE-2426.md), Appendix E.2) is the case where everything the context
 could transmit about the task is constant across sequences. There the
 interpreter substitutes for it entirely: the models "learn the fixed
 teacher", and no in-context learner forms. With a teacher that varies per

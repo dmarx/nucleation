@@ -136,8 +136,8 @@ No status change.
 ## Note of 2026-11-26: von Oswald et al. (2023), read
 
 
-Qualifies this account, on synthetic data only. [LIT-tmpuv16r](../literature.d/LIT-tmpuv16r.md)
-([NOTE-tmpcktnn](../notes.d/NOTE-tmpcktnn.md)) agrees that the first layer copies previous tokens: its
+Qualifies this account, on synthetic data only. [LIT-3313](../literature.d/LIT-3313.md)
+([NOTE-2426](../notes.d/NOTE-2426.md)) agrees that the first layer copies previous tokens: its
 binding mechanism "exactly coincides with the first layer of the induction
 head circuit". It reads the second stage not as softmax retrieval but as a
 least-squares optimizer, and says the two "sit on two opposite extremes".

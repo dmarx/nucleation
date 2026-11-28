@@ -8,7 +8,7 @@ history:
   date: '2026-11-27'
   note: >-
     Filed, not read. Checked against the record and the heads of open pull
-    requests (ADR-tmpn87w5): no SEP entry on deception or self-deception is
+    requests (ADR-154): no SEP entry on deception or self-deception is
     held. The published date is the assistant's recollection of the entry's
     first publication and is to be checked against the entry's page.
 - version: 2
@@ -30,9 +30,9 @@ keywords:
 - 'non-intentional deception'
 implementations: []
 summary: >-
-  Mahon's SEP survey of definitions of lying (most of the entry) and of interpersonal deception. On deception, a ladder from the intentional D1 to Chisholm and Feehan's unintentional D7; most hold deception intentional and call the unintended case misleading. It surveys no functional or biological definition of deception and sets self-deception aside. Read for the vocabulary of [CLAIM-tmpcv6i6](../claims.d/CLAIM-tmpcv6i6.md) and [DISTINCTION-tmp68xjw](../distinctions.d/DISTINCTION-tmp68xjw.md).
+  Mahon's SEP survey of definitions of lying (most of the entry) and of interpersonal deception. On deception, a ladder from the intentional D1 to Chisholm and Feehan's unintentional D7; most hold deception intentional and call the unintended case misleading. It surveys no functional or biological definition of deception and sets self-deception aside. Read for the vocabulary of [CLAIM-1393](../claims.d/CLAIM-1393.md) and [DISTINCTION-001](../distinctions.d/DISTINCTION-001.md).
 ---
-<!-- inactive-ok-file: CLAIM-tmpcv6i6 CLAIM-tmpu6fff CLAIM-tmpu6c7h DISTINCTION-tmp68xjw — Proposed or new; the search rule applied, and the claims the reading bears on -->
+<!-- inactive-ok-file: CLAIM-1393 CLAIM-1441 CLAIM-tmpu6c7h DISTINCTION-001 — Proposed or new; the search rule applied, and the claims the reading bears on -->
 
 # LIT-tmpjnbi0: The Definition of Lying and Deception
 
@@ -41,6 +41,6 @@ Mahon, Stanford Encyclopedia of Philosophy.
 ## Standing in the record
 
 Being read for one question: whether deception needs an intending deceiver.
-[CLAIM-tmpcv6i6](../claims.d/CLAIM-tmpcv6i6.md) says sycophancy, shortcuts and SEO game an evaluator with
-no intent required; [CLAIM-tmpu6fff](../claims.d/CLAIM-tmpu6fff.md) and [CLAIM-tmpu6c7h](../claims.d/CLAIM-tmpu6c7h.md) turn on whether the
+[CLAIM-1393](../claims.d/CLAIM-1393.md) says sycophancy, shortcuts and SEO game an evaluator with
+no intent required; [CLAIM-1441](../claims.d/CLAIM-1441.md) and [CLAIM-tmpu6c7h](../claims.d/CLAIM-tmpu6c7h.md) turn on whether the
 inside case, false insight, is deception at all.

@@ -6,7 +6,7 @@
 
 **Philosophy of biology** — what life, organisms and biological functions are — teleology and function, organisation and closure, biological individuality and autonomy, and the demarcation of the living (group: philosophy; ADR-025).
 
-58 of 2310 THEORY documents. Back to the [full index](../README.md).
+59 of 2329 THEORY documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -68,3 +68,4 @@
 | [THEORY-2271](../../../record/theory.d/THEORY-2271.md) | Neolithic was a transition in individuality | Shavit and Sharon (2023), read in [NOTE-2363](../../../record/notes.d/NOTE-2363.md) (Read). An opinion paper: the stage assignments are made by fit with a published archaeological synthesis, and the authors say they do not examine how far the case meets ETI criteria. It is the application of [LIT-188](../../../record/literature.d/LIT-188.md)'s sketch, not a test of it. | Proposed |
 | [THEORY-2273](../../../record/theory.d/THEORY-2273.md) | Entrenched elements resist evolutionary change | Wimsatt and Schank (2004), read in [NOTE-2365](../../../record/notes.d/NOTE-2365.md) (Read), a neighbour of [LIT-1926](../../../record/literature.d/LIT-1926.md). The definition is the paper's; the simulations mostly assign selection coefficients by class rather than compute entrenchment, so they bear on differential selection in general. | Proposed |
 | [THEORY-2275](../../../record/theory.d/THEORY-2275.md) | Reproducers develop and overlap with progeny | Wilkins and Bourrat's SEP entry (2022 revision), §5.4, read in [NOTE-2367](../../../record/notes.d/NOTE-2367.md) (Skimmed), a neighbour of [LIT-1932](../../../record/literature.d/LIT-1932.md) and [LIT-1937](../../../record/literature.d/LIT-1937.md). A survey's report of Griesemer, not Griesemer; one of its page citations points to the wrong paper. | Proposed |
+| [THEORY-2326](../../../record/theory.d/THEORY-2326.md) | Facial displays signal social motives, not emotions | Fridlund, *Human Facial Expression: An Evolutionary View* (1994). The account the record expects to draw from the work, attributed at the owner's direction of 2026-11-26 ("even deferred, you can still attribute to those works the theories we expect to draw from them"). It is stated from the assistant's prior knowledge of the work. The work is unread, so the statement is unverified until read, and it grounds nothing until then. The wording is the assistant's (Claude, in this session); adopting it is the owner's call. | Proposed |

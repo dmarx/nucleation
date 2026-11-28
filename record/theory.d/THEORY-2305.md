@@ -69,7 +69,7 @@ account, a postdiction.
 ## Note of 2026-11-26: Veeriah et al. (2019), read
 
 
-A parallel. [LIT-tmpl1kcf](../literature.d/LIT-tmpl1kcf.md) ([NOTE-tmpibrnu](../notes.d/NOTE-tmpibrnu.md)) adds empirical evidence that the
+A parallel. [LIT-3295](../literature.d/LIT-3295.md) ([NOTE-2427](../notes.d/NOTE-2427.md)) adds empirical evidence that the
 choice of auxiliary target decides whether useful shared features form at
 all, in the multi-task setting this account treats. It has no account of
 which features are reused. No status change.

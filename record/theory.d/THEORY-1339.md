@@ -68,10 +68,10 @@ summary: >-
   a per-turn model beats an episode-fixed persona, is QUESTION-443's.
 bears_on:
 - QUESTION-443
-- QUESTION-tmpq653b
+- QUESTION-548
 corroborates:
-- CLAIM-tmpv6eti
-- CLAIM-tmpj9yt0
+- CLAIM-1444
+- CLAIM-1419
 ---
 
 # THEORY-1339: Assistant-axis drift follows latest user message
@@ -109,7 +109,7 @@ Lu et al. (2026), [LIT-1991](../literature.d/LIT-1991.md), §§4.1–4.2 and §6
 
 ## Note of 2026-11-27: bearing on chatbot-associated delusions
 
-<!-- inactive-ok-block: CLAIM-tmpv6eti CLAIM-tmpj9yt0 ARG-tmpxulq8 DISTINCTION-tmpw9b9j — Open, Proposed or new; the question, claims, argument and distinction this note cites -->
+<!-- inactive-ok-block: CLAIM-1444 CLAIM-1419 ARG-270 DISTINCTION-005 — Open, Proposed or new; the question, claims, argument and distinction this note cites -->
 
-Found by the readers' recheck in the reading of 2026-11-27 ([NOTE-tmpxg6hn](../notes.d/NOTE-tmpxg6hn.md)), and related at the owner's word ("file the ideas"). This account bears on [QUESTION-tmpq653b](../questions.d/QUESTION-tmpq653b.md) and corroborates two of its alternatives on where a co-created delusion's themes come from. The drift's driver, the latest user message, is [CLAIM-tmpj9yt0](../claims.d/CLAIM-tmpj9yt0.md)'s user steering. Its destination in AI-philosophy conversations, the non-Assistant end of the model's persona space, is [CLAIM-tmpv6eti](../claims.d/CLAIM-tmpv6eti.md)'s attractor in the model's priors. [NOTE-1505](../notes.d/NOTE-1505.md)'s case study of reinforced "delusions about AI awakening" is the instance. [ARG-tmpxulq8](../arguments.d/ARG-tmpxulq8.md) says how much this carries: it supports the two jointly and does not discriminate between them. [DISTINCTION-tmpw9b9j](../distinctions.d/DISTINCTION-tmpw9b9j.md) gives the contrast that would. No change to this account or its status.
+Found by the readers' recheck in the reading of 2026-11-27 ([NOTE-2430](../notes.d/NOTE-2430.md)), and related at the owner's word ("file the ideas"). This account bears on [QUESTION-548](../questions.d/QUESTION-548.md) and corroborates two of its alternatives on where a co-created delusion's themes come from. The drift's driver, the latest user message, is [CLAIM-1419](../claims.d/CLAIM-1419.md)'s user steering. Its destination in AI-philosophy conversations, the non-Assistant end of the model's persona space, is [CLAIM-1444](../claims.d/CLAIM-1444.md)'s attractor in the model's priors. [NOTE-1505](../notes.d/NOTE-1505.md)'s case study of reinforced "delusions about AI awakening" is the instance. [ARG-270](../arguments.d/ARG-270.md) says how much this carries: it supports the two jointly and does not discriminate between them. [DISTINCTION-005](../distinctions.d/DISTINCTION-005.md) gives the contrast that would. No change to this account or its status.
 

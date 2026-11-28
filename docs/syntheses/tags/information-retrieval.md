@@ -6,9 +6,9 @@
 
 **Information retrieval** — finding what is relevant to a need — document and query representation, relevance and aboutness, ranking and feedback, and the geometric, probabilistic and logical models of retrieval.
 
-2 of 126 SYNTHESIS documents. Back to the [full index](../README.md).
+2 of 127 SYNTHESIS documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-| [SYNTHESIS-015](../../../record/syntheses.d/SYNTHESIS-015.md) v2 | Anchoring entrenches; filing pays only on reuse |  | Proposed |
+| [SYNTHESIS-015](../../../record/syntheses.d/SYNTHESIS-015.md) v3 | Anchoring entrenches; filing pays only on reuse |  | Proposed |
 | [SYNTHESIS-057](../../../record/syntheses.d/SYNTHESIS-057.md) | Deployable by a deadline is not what is held |  | Proposed |

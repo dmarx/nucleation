@@ -6,7 +6,7 @@
 
 **Economics** — economic theory and institutions — contracts and incomplete contracts, hold-up and relationship-specific investment, bargaining, the theory of the firm and corporate governance, shareholder and stakeholder theories; psychology and sociology stay in social-science (ADR-150).
 
-0 of 2310 THEORY documents. Back to the [full index](../README.md).
+0 of 2329 THEORY documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

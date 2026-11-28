@@ -67,7 +67,7 @@ Bare codes only. Never write a link target, and do not run `luria repair`,
 - **For every work the source names**, search `record/literature.d` by DOI,
   arXiv id, exact title and first author. Note what is held, its status and
   its NOTE.
-- **Search open pull requests too** (ADR-tmpn87w5). Fetch, then grep the
+- **Search open pull requests too** (ADR-154). Fetch, then grep the
   heads of every remote branch as well as the tree:
   `git fetch origin` and
   `git grep -i -e <word> $(git for-each-ref --format='%(refname)' refs/remotes/origin) -- record/`.
@@ -79,7 +79,7 @@ Bare codes only. Never write a link target, and do not run `luria repair`,
   *and by the mechanism's words and synonyms* (for "chatbot psychosis":
   persona, drift, awakening, confirmation, hysteresis). Then open the nearest
   entries and read their statements, not just their titles or whether they
-  matched (ADR-tmpn87w5).
+  matched (ADR-154).
 - **Put what the idea search finds into the reader's brief**, by code, under
   "why it is being read", so the reader's own search starts from it.
 - **List the source's own ideas, section by section.** A synthesis carries

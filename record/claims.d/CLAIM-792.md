@@ -109,7 +109,7 @@ is a case of noticing becoming procedural; none was counted by the census.
 
 ## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U7–A13)
 
-<!-- inactive-ok-file: CLAIM-tmpxf70b ARG-tmpo6eca — new; the claim, argument and lead of 2026-11-26 that use this one -->
+<!-- inactive-ok-file: CLAIM-1449 ARG-266 — new; the claim, argument and lead of 2026-11-26 that use this one -->
 
 Support for half of an application. A13 §7 offers the record as "a
 counterexample" to the generalization that externalizing capabilities
@@ -117,8 +117,8 @@ disempowers: assistants and software remember, track, index, check,
 generate worklists and draft, and "The objective is not to preserve the
 owner's ability to perform all those activities unaided. It is to expand
 the owner's capacity to govern an increasingly sophisticated intellectual
-organization." Filed as [CLAIM-tmpxf70b](CLAIM-tmpxf70b.md) (A's). This claim is the half of it
+organization." Filed as [CLAIM-1449](CLAIM-1449.md) (A's). This claim is the half of it
 the record holds: noticing was delegated, judgement about revision was
 not. It is not the other half, that the owner's capacity to govern grew or
-held; [ARG-tmpo6eca](../arguments.d/ARG-tmpo6eca.md) (Rejected) says why the census cannot show that, and
-[LEAD-tmpswgqi](../leads.d/LEAD-tmpswgqi.md) is the manuscript's §19.5 measurement filed as a lead.
+held; [ARG-266](../arguments.d/ARG-266.md) (Rejected) says why the census cannot show that, and
+[LEAD-312](../leads.d/LEAD-312.md) is the manuscript's §19.5 measurement filed as a lead.

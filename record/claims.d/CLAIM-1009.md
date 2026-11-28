@@ -91,8 +91,8 @@ the revision of [TERM-092](../terms.d/TERM-092.md), is Deferred.
 ## Note of 2026-11-26: Veeriah et al. (2019), read
 
 
-Operationalizes the split, in one architecture. [LIT-tmpl1kcf](../literature.d/LIT-tmpl1kcf.md)
-([NOTE-tmpibrnu](../notes.d/NOTE-tmpibrnu.md)) has separate question and answer networks. Its
+Operationalizes the split, in one architecture. [LIT-3295](../literature.d/LIT-3295.md)
+([NOTE-2427](../notes.d/NOTE-2427.md)) has separate question and answer networks. Its
 random-questions baseline shows that the choice of question matters apart
 from the capacity to answer: answers to fixed random questions can be
 learned, and the representation still fails. Answer accuracy is not

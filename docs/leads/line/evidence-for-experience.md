@@ -6,9 +6,10 @@
 
 **Evidence for experience** — what could show that a system, organized, non-biological or without a cortex, has experience and not only access or function, and what each kind of evidence (report, deficit, architecture, behaviour) can and cannot establish.
 
-2 of 282 LEAD documents. Back to the [full index](../README.md).
+3 of 320 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [LEAD-063](../../../record/leads.d/LEAD-063.md) | Apply an integration or dynamic-core measure, or a justified anti-nesting rule, to a modular-mind model and to a group model | Named in [QUESTION-046](../../../record/questions.d/QUESTION-046.md). Filed by the backlog audit of 2026-11-19. | Open |
 | [LEAD-134](../../../record/leads.d/LEAD-134.md) v2 | Run the imagined owner: a case with cause and report recorded apart, in which a unified self-model misdescribes who controls what | Named in [CLAIM-355](../../../record/claims.d/CLAIM-355.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-290](../../../record/leads.d/LEAD-290.md) | Compare the information in J-space and J-orthogonal components against which consumers follow a swap | A test of [CLAIM-1418](../../../record/claims.d/CLAIM-1418.md)'s content half. The claim says the J-space and a J-orthogonal component of a representation can carry the same content, differing only in which consumers read it. The wording is the assistant's (Claude, in this session); adopting it is the owner's call. | Open |

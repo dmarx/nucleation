@@ -6,8 +6,9 @@
 
 **Governing possibility** — regulation as the governance of which organizations a system can attain, sustain and revise, not only of conduct within one; readiness under matched present performance, and identity stabilization as filtering indexed to the timescales of demands; atlas scope 14 (ADR-146). The cost structure of what is realizable stays with realizability, slack with readiness.
 
-0 of 282 LEAD documents. Back to the [full index](../README.md).
+2 of 320 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [LEAD-285](../../../record/leads.d/LEAD-285.md) | Run separating cases for potential consequentiality: presently equivalent states that diverge after capability building, equally predictive compressions that differ in later learning cost, jointly but not separately consequential capacities, and a recognized distinction that loses efficacy under a change of authority without becoming less legible | From A23 §15 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26), "What would make this a scientific theory?": six separating cases meant to "distinguish a consequentiality geometry from ordinary reachability, predictive accuracy, preference change and resource accumulation". Stage idea: each case names its discriminating observation, none has a design. The wording is A's; adopting it is the owner's call. | Open |
+| [LEAD-304](../../../record/leads.d/LEAD-304.md) | Test institutional architectures matched on ordinary performance against a battery of deliberate disturbances | A15 §X of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26): "The evaluation should be interventionist, rather than primarily observational", nine tests from a "Paperclip test" to a "Reflexivity test", and "A particularly strong test would compare two institutions with equivalent ordinary performance but different governing architectures, and observe how their trajectories diverge under these disturbances." It tests the requirements A15 derives ([CLAIM-1453](../../../record/claims.d/CLAIM-1453.md)) for the owner's U8 ([QUESTION-545](../../../record/questions.d/QUESTION-545.md)). The wording is A's (ChatGPT, in the exchange "Alignment consequences brainstorm"); adopting it is the owner's call. | Open |

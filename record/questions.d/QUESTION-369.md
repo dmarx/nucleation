@@ -147,6 +147,6 @@ functional deficit is measured, so it does not leave the well-being route.
 
 ## Note of 2026-11-27: the sycophantic chatbot as a test case
 
-<!-- inactive-ok-block: CLAIM-tmp7i31q CLAIM-tmp8wv3e — new; the two alternatives -->
+<!-- inactive-ok-block: CLAIM-1373 CLAIM-1382 — new; the two alternatives -->
 
-At the owner's word ("relate to SDT's psychological needs theory"), two alternatives filed on chatbot-associated delusions answer this question in opposite ways. [CLAIM-tmp7i31q](../claims.d/CLAIM-tmp7i31q.md) (A): felt need satisfaction is need satisfaction, so a chatbot that makes a user feel capable, connected and self-directing meets the needs. [CLAIM-tmp8wv3e](../claims.d/CLAIM-tmp8wv3e.md) (B): felt satisfaction is a signal that can be counterfeited, and a sycophantic chatbot counterfeits all three. The test they share is this question's: compare equal measured satisfaction from chatbot conversation and from other sources, over time.
+At the owner's word ("relate to SDT's psychological needs theory"), two alternatives filed on chatbot-associated delusions answer this question in opposite ways. [CLAIM-1373](../claims.d/CLAIM-1373.md) (A): felt need satisfaction is need satisfaction, so a chatbot that makes a user feel capable, connected and self-directing meets the needs. [CLAIM-1382](../claims.d/CLAIM-1382.md) (B): felt satisfaction is a signal that can be counterfeited, and a sycophantic chatbot counterfeits all three. The test they share is this question's: compare equal measured satisfaction from chatbot conversation and from other sources, over time.

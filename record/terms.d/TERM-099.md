@@ -102,7 +102,7 @@ The term is unchanged.
 ## Note of 2026-11-26: Niebudek and Iniewicz (2023), read
 
 
-A parallel, with a caution. In [LIT-tmpdbb0m](../literature.d/LIT-tmpdbb0m.md) ([NOTE-tmptx4q4](../notes.d/NOTE-tmptx4q4.md)), participants describe testing
+A parallel, with a caution. In [LIT-3281](../literature.d/LIT-3281.md) ([NOTE-2429](../notes.d/NOTE-2429.md)), participants describe testing
 preferences and overcoming limits, which look like self-formation. But they
 frame the path as discovery ("we are what we are", p. 130). The paper
 cannot tell formation from a disposition held all along, which is the

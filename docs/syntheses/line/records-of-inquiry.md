@@ -6,9 +6,9 @@
 
 **What a record of inquiry keeps** — what a record of a developing argument or inquiry can secure through revision — traceable change, accountability structure, decision sufficiency — and what keeping it buys beyond current conclusions; split from nucleating-argument (ADR-082).
 
-2 of 126 SYNTHESIS documents. Back to the [full index](../README.md).
+2 of 127 SYNTHESIS documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-| [SYNTHESIS-017](../../../record/syntheses.d/SYNTHESIS-017.md) v3 | Records secure traceability, not correctness |  | Proposed |
+| [SYNTHESIS-017](../../../record/syntheses.d/SYNTHESIS-017.md) v4 | Records secure traceability, not correctness |  | Proposed |
 | [SYNTHESIS-115](../../../record/syntheses.d/SYNTHESIS-115.md) v2 | Transmission forgets; records secure traceability |  | Proposed |

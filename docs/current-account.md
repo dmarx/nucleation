@@ -515,7 +515,7 @@ A part account of the distributed-agency line, the part the community map calls 
 | [CLAIM-153](../record/claims.d/CLAIM-153.md) | CLAIM | Active | Self-incoherence as monodromy over three contexts |
 | [CLAIM-538](../record/claims.d/CLAIM-538.md) | CLAIM | Active | Compatible iff no holonomy exceeds tolerance |
 | [CLAIM-618](../record/claims.d/CLAIM-618.md) | CLAIM | Proposed | Arnold tongues are compatibility regions |
-| [CLAIM-196](../record/claims.d/CLAIM-196.md) | CLAIM | Proposed | Roles in disjoint contexts cannot conflict |
+| [CLAIM-196](../record/claims.d/CLAIM-196.md) | CLAIM | Proposed | Roles only respectively available in disjoint contexts cannot conflict |
 | [CLAIM-317](../record/claims.d/CLAIM-317.md) | CLAIM | Proposed | Networked media collapse kept-apart audiences |
 | [CLAIM-440](../record/claims.d/CLAIM-440.md) | CLAIM | Proposed | Appraisal is negotiation among perspectives |
 | [CLAIM-451](../record/claims.d/CLAIM-451.md) | CLAIM | Proposed | Cycling winning moves is nonintegrability |
@@ -1303,7 +1303,7 @@ A part account of the organizational-normativity line: the part on what a normat
 
 #### [SYNTHESIS-094](../record/syntheses.d/SYNTHESIS-094.md): The wrong beyond harm and losing sight of it
 
-*Proposed · version 4*
+*Proposed · version 5*
 
 A part account of the organizational-normativity line: the part on the wrong an organization commits beyond its harm, and on how it comes to know less of what it owes. The owner's [CLAIM-614](../record/claims.d/CLAIM-614.md) presupposes a wrong beyond harm in an organization that reproduces what hides its harm; A's [CLAIM-624](../record/claims.d/CLAIM-624.md) (Proposed, admitted) makes it a bounded duty of answerability, which [ARG-114](../record/arguments.d/ARG-114.md) derives conditionally from a means-end principle the record does not hold, and [CLAIM-619](../record/claims.d/CLAIM-619.md) a counter-corrective disposition. Three routes to being less informed followed from "Medical Ethics and Media Enshitification": the exit of the harmed (the assistant's [CLAIM-652](../record/claims.d/CLAIM-652.md)), discovery that governance penalizes (A's [CLAIM-662](../record/claims.d/CLAIM-662.md), narrowed by the owner), and, as the owner's [CLAIM-657](../record/claims.d/CLAIM-657.md) holds, both distinct from [CLAIM-619](../record/claims.d/CLAIM-619.md)'s route and not to be conflated in attributing responsibility. The owner's [CLAIM-656](../record/claims.d/CLAIM-656.md) carries the selection to news. [QUESTION-449](../record/questions.d/QUESTION-449.md) asks whether who installed a hiding mechanism matters, with a specimen. The account adds nothing of its own; its standing is its components'.
 
@@ -1334,6 +1334,12 @@ A part account of the organizational-normativity line: the part on the wrong an 
 | [CLAIM-656](../record/claims.d/CLAIM-656.md) | CLAIM | Proposed | Attention revenue selects against investigation |
 | [CASE-247](../record/cases.d/CASE-247.md) | CASE | Proposed | The newsroom that defunds investigations |
 | [ARG-114](../record/arguments.d/ARG-114.md) | ARG | Proposed | Means-end responsibility → answerability duty |
+| [CLAIM-1443](../record/claims.d/CLAIM-1443.md) | CLAIM | Proposed | Optimization turns pathological by eroding its evaluators |
+| [CLAIM-1430](../record/claims.d/CLAIM-1430.md) | CLAIM | Proposed | Revealed demand fails as alignment evidence once shaped |
+| [CASE-428](../record/cases.d/CASE-428.md) | CASE | Proposed | The tobacco industry's management of demand and doubt |
+| [CASE-432](../record/cases.d/CASE-432.md) | CASE | Proposed | The collapse of the northern cod fishery |
+| [CASE-431](../record/cases.d/CASE-431.md) | CASE | Proposed | Volkswagen's emissions defeat device |
+| [CASE-429](../record/cases.d/CASE-429.md) | CASE | Proposed | Facebook's meaningful-interactions ranking, 2018 |
 
 **What would show the account unfaithful:** A component misstated or misattributed here, its declared sense of "organization" ([TERM-074](../record/terms.d/TERM-074.md)) among what can be misstated; an in-force component of the part of the organizational-normativity line on the wrong beyond harm and on becoming normatively less informed left out; or a link this account states that no component states. Its standing is its components': a component retired or demoted takes its clause with it.
 
@@ -2484,7 +2490,7 @@ The account of the nucleating-argument line, over the accounts of its three part
 
 #### [SYNTHESIS-013](../record/syntheses.d/SYNTHESIS-013.md): Addressability, not storage, nucleates argument
 
-*Proposed · version 1*
+*Proposed · version 2*
 
 | component | kind | its status | what it holds |
 |---|---|---|---|
@@ -2503,12 +2509,18 @@ The account of the nucleating-argument line, over the accounts of its three part
 | [CLAIM-181](../record/claims.d/CLAIM-181.md) | CLAIM | Proposed | Record fixes the grammar, not the shape |
 | [QUESTION-108](../record/questions.d/QUESTION-108.md) | QUESTION | Open | When a structured record does better than a summary, a transcript or a posterior on revision tasks, is it because it retains more, because what it retains is easier to reach, or because the operations a reviser needs are easier to perform on it? |
 | [ARG-028](../record/arguments.d/ARG-028.md) | ARG | Proposed | Anchoring measures → persistence and drift |
+| [CLAIM-1422](../record/claims.d/CLAIM-1422.md) | CLAIM | Proposed | Stability and generativity separate regimes |
+| [CASE-307](../record/cases.d/CASE-307.md) | CASE | Proposed | Revision rates of claims with inbound edges |
+| [CLAIM-864](../record/claims.d/CLAIM-864.md) | CLAIM | Proposed | Cited claims are revised more, not less |
+| [CLAIM-863](../record/claims.d/CLAIM-863.md) | CLAIM | Proposed | Inbound edges lower revision chance per audit |
+| [CLAIM-1362](../record/claims.d/CLAIM-1362.md) | CLAIM | Proposed | Reliance and revision arrive together here |
+| [ARG-267](../record/arguments.d/ARG-267.md) | ARG | Proposed | Matched-age revision rates, as evidence, show reliance and revision coupled |
 
 **What would show the account unfaithful:** A component misstated or misattributed here; an in-force component of the anchors part of nucleating-argument left out; or a link this account states that no component states. Its standing is its components'.
 
 #### [SYNTHESIS-015](../record/syntheses.d/SYNTHESIS-015.md): Anchoring entrenches; filing pays only on reuse
 
-*Proposed · version 2*
+*Proposed · version 3*
 
 | component | kind | its status | what it holds |
 |---|---|---|---|
@@ -2528,6 +2540,11 @@ The account of the nucleating-argument line, over the accounts of its three part
 | [CLAIM-315](../record/claims.d/CLAIM-315.md) | CLAIM | Proposed | Anchoring shifts estimates without evidence |
 | [QUESTION-323](../record/questions.d/QUESTION-323.md) | QUESTION | Open | After an anchoring comparison, is anchor-consistent knowledge more accessible on a measure first shown sensitive to direct priming, and does the difference go with the size of the estimate shift? |
 | [QUESTION-095](../record/questions.d/QUESTION-095.md) | QUESTION | Open | Is leaving the result of a computation where it can be cheaply retrieved the same trade as amortizing the computation, and does one account of when it pays cover a crew's speed bugs, a record's filed arguments and a reasoner's reused inferences? |
+| [CLAIM-1403](../record/claims.d/CLAIM-1403.md) | CLAIM | Proposed | A tier is priced by retrieval noise and recovery |
+| [ARG-262](../record/arguments.d/ARG-262.md) | ARG | Proposed | The filing rule, generalized from admission to availability, prices an entry's tier |
+| [CLAIM-1394](../record/claims.d/CLAIM-1394.md) | CLAIM | Proposed | Accessible corpus growth can raise realization cost |
+| [CLAIM-1369](../record/claims.d/CLAIM-1369.md) | CLAIM | Proposed | Derived projections inflate retrieval prominence |
+| [CLAIM-1455](../record/claims.d/CLAIM-1455.md) | CLAIM | Proposed | Capability-preserving condensation can widen the frontier |
 
 **What would show the account unfaithful:** A component misstated or misattributed here; an in-force component of the costs part of nucleating-argument left out; or a link this account states that no component states. Its standing is its components'.
 
@@ -2538,7 +2555,7 @@ what a record of a developing argument or inquiry can secure through revision �
 
 ### [SYNTHESIS-017](../record/syntheses.d/SYNTHESIS-017.md): Records secure traceability, not correctness
 
-*Proposed · version 3*
+*Proposed · version 4*
 
 | component | kind | its status | what it holds |
 |---|---|---|---|
@@ -2569,6 +2586,24 @@ what a record of a developing argument or inquiry can secure through revision �
 | [QUESTION-289](../record/questions.d/QUESTION-289.md) | QUESTION | Answered | Is an inquiry's current set of conclusions, or its logically closed belief set, enough to retain to fix its future revisions, and if not, what must a single AGM change of a closed theory have besides the theory? |
 | [QUESTION-471](../record/questions.d/QUESTION-471.md) | QUESTION | Open | How can a record of inquiry that automates the incorporation of new material keep the speed of incorporation from outrunning its capacity to evaluate what it incorporates, and which of its checks are points at which an incorporation can still be stopped rather than reviewed after it has taken effect? |
 | [QUESTION-496](../record/questions.d/QUESTION-496.md) | QUESTION | Open | How should the record triage its open questions, so that the questions it hopes to answer choose the method, given that experiment is not the only way to advance them? |
+| [QUESTION-552](../record/questions.d/QUESTION-552.md) | QUESTION | Open | What should a governed record cool, condense or erase, and how can what it keeps within easy reach be governed apart from what it endorses? |
+| [CLAIM-1440](../record/claims.d/CLAIM-1440.md) | CLAIM | Proposed | Keeping an entry costs its retrieval, not only its storage |
+| [CLAIM-1365](../record/claims.d/CLAIM-1365.md) | CLAIM | Proposed | Standing, availability and fidelity are separate |
+| [TERM-186](../record/terms.d/TERM-186.md) | TERM | Proposed | availability |
+| [TERM-182](../record/terms.d/TERM-182.md) | TERM | Proposed | consolidation |
+| [CLAIM-1361](../record/claims.d/CLAIM-1361.md) | CLAIM | Proposed | Most new entries are short-lived, by hypothesis |
+| [CLAIM-1403](../record/claims.d/CLAIM-1403.md) | CLAIM | Proposed | A tier is priced by retrieval noise and recovery |
+| [ARG-262](../record/arguments.d/ARG-262.md) | ARG | Proposed | The filing rule, generalized from admission to availability, prices an entry's tier |
+| [CLAIM-1394](../record/claims.d/CLAIM-1394.md) | CLAIM | Proposed | Accessible corpus growth can raise realization cost |
+| [CLAIM-1369](../record/claims.d/CLAIM-1369.md) | CLAIM | Proposed | Derived projections inflate retrieval prominence |
+| [CLAIM-1412](../record/claims.d/CLAIM-1412.md) | CLAIM | Proposed | Liveness is relative to roots, and partly developmental |
+| [CLAIM-1389](../record/claims.d/CLAIM-1389.md) | CLAIM | Proposed | Retention requirements join over an entry's uses |
+| [CLAIM-1448](../record/claims.d/CLAIM-1448.md) | CLAIM | Proposed | Alternative support has no least retention requirement |
+| [CLAIM-1395](../record/claims.d/CLAIM-1395.md) | CLAIM | Proposed | Cooling must leave dependencies visible |
+| [CLAIM-1368](../record/claims.d/CLAIM-1368.md) | CLAIM | Proposed | Retention by observed use confirms itself |
+| [CLAIM-1427](../record/claims.d/CLAIM-1427.md) | CLAIM | Proposed | A condensation is correction-safe only if no correction separates what it merges |
+| [CLAIM-1380](../record/claims.d/CLAIM-1380.md) | CLAIM | Proposed | Consolidation may make arguments units of work |
+| [CLAIM-1455](../record/claims.d/CLAIM-1455.md) | CLAIM | Proposed | Capability-preserving condensation can widen the frontier |
 
 **What would show the account unfaithful:** A component misstated or misattributed here; an in-force component whose line is records-of-inquiry left out without a reason given; or a link this account states that no component states. Its standing is its components': a component retired or demoted takes its clause with it, and nothing here holds the clause up.
 
@@ -2578,7 +2613,7 @@ what an apparatus of record-keeping makes determinate and how its grammar is fix
 
 ### [SYNTHESIS-012](../record/syntheses.d/SYNTHESIS-012.md): The record's grammar is an amendable apparatus
 
-*Proposed · version 2*
+*Proposed · version 3*
 
 | component | kind | its status | what it holds |
 |---|---|---|---|
@@ -2604,12 +2639,21 @@ what an apparatus of record-keeping makes determinate and how its grammar is fix
 | [CASE-300](../record/cases.d/CASE-300.md) | CASE | Active | Who changes the record's grammar |
 | [CASE-299](../record/cases.d/CASE-299.md) | CASE | Active | The staging branch's unstated requirement |
 | [QUESTION-503](../record/questions.d/QUESTION-503.md) | QUESTION | Open | Is knowledge of a made thing a different kind from knowledge of a given one, or the same inquiry with its answer space among realizations: does making an object give access to it, such as knowing which degrees of freedom were set and which left free, that observing it cannot? |
+| [CLAIM-1451](../record/claims.d/CLAIM-1451.md) | CLAIM | Proposed | A grammar revision can make an inert distinction consequential |
+| [ARG-268](../record/arguments.d/ARG-268.md) | ARG | Proposed | The corroborates decision, as an existence case, shows a grammar revision making a distinction consequential |
+| [CLAIM-1429](../record/claims.d/CLAIM-1429.md) | CLAIM | Proposed | Luria keeps apart what misaligned institutions couple |
+| [CLAIM-1390](../record/claims.d/CLAIM-1390.md) | CLAIM | Proposed | Alignment can be distributed across a governed organization |
+| [CLAIM-1449](../record/claims.d/CLAIM-1449.md) | CLAIM | Proposed | Delegating a record's upkeep can widen its governance |
+| [CLAIM-792](../record/claims.d/CLAIM-792.md) | CLAIM | Proposed | Noticing misfits delegated, not revision |
+| [CLAIM-1453](../record/claims.d/CLAIM-1453.md) | CLAIM | Proposed | A platform for institutional alignment must govern development |
+| [QUESTION-545](../record/questions.d/QUESTION-545.md) | QUESTION | Open | What would a platform for governing an institution's alignment and ongoing development have to do, on the record's account, if it were designed without Luria as a model? |
 
 **What would show the account unfaithful:** A component misstated or misattributed here; an in-force component whose line is record-as-apparatus left out without a reason given; or a link this account states that no component states. Its standing is its components': a component retired or demoted takes its clause with it, and nothing here holds the clause up.
 
+- [SYNTHESIS-017](../record/syntheses.d/SYNTHESIS-017.md), set out under its first line: Records secure traceability, not correctness
 ### [SYNTHESIS-090](../record/syntheses.d/SYNTHESIS-090.md): How the record as apparatus would be tested
 
-*Proposed · version 2*
+*Proposed · version 3*
 
 The map of the experimental program A synthesized at A45 and A48 of the exchange "luria experiment design" (2026-11-10), at the owner's U19 and U20, with each piece now filed or held. Its questions are the owner's (U8, U12 and U13, U17); the turn of the record's own distinctions into manipulated variables is the owner's U15; the replacement of new tasks by established ones where they exist is the owner's U16. The designs and the one connecting claim are A's. It adds nothing: what A45 adds, the interaction between governance and modifiability, is [CLAIM-667](../record/claims.d/CLAIM-667.md). Proposed until the owner reviews the mapping.
 
@@ -2641,6 +2685,11 @@ The map of the experimental program A synthesized at A45 and A48 of the exchange
 | [CASE-131](../record/cases.d/CASE-131.md) | CASE | Active | The graph that asserted an unmade inference |
 | [CASE-186](../record/cases.d/CASE-186.md) | CASE | Active | Diagnostic machinery under regime reversal |
 | [CASE-194](../record/cases.d/CASE-194.md) | CASE | Proposed | Three organizations failing at 50% |
+| [CLAIM-1451](../record/claims.d/CLAIM-1451.md) | CLAIM | Proposed | A grammar revision can make an inert distinction consequential |
+| [CLAIM-1390](../record/claims.d/CLAIM-1390.md) | CLAIM | Proposed | Alignment can be distributed across a governed organization |
+| [CLAIM-1429](../record/claims.d/CLAIM-1429.md) | CLAIM | Proposed | Luria keeps apart what misaligned institutions couple |
+| [CLAIM-1449](../record/claims.d/CLAIM-1449.md) | CLAIM | Proposed | Delegating a record's upkeep can widen its governance |
+| [CLAIM-792](../record/claims.d/CLAIM-792.md) | CLAIM | Proposed | Noticing misfits delegated, not revision |
 
 **What would show the account unfaithful:** A component misstated or misattributed here; an in-force component of this part of the line, an entry on evaluating the record's own machinery, left out without a reason given; or a link this account states that no component states. Its standing is its components': a component retired takes its clause with it.
 
@@ -3903,7 +3952,7 @@ when support that establishes or sustains a party can be withdrawn without its d
 
 ### [SYNTHESIS-032](../record/syntheses.d/SYNTHESIS-032.md): Safe withdrawal of support: one joint claim
 
-*Proposed · version 7*
+*Proposed · version 8*
 
 | component | kind | its status | what it holds |
 |---|---|---|---|
@@ -3946,6 +3995,14 @@ when support that establishes or sustains a party can be withdrawn without its d
 | [CLAIM-670](../record/claims.d/CLAIM-670.md) | CLAIM | Proposed | An arrangement can produce exploitable dependence |
 | [CLAIM-671](../record/claims.d/CLAIM-671.md) | CLAIM | Proposed | Imposed vulnerability strengthens responsibility |
 | [CLAIM-673](../record/claims.d/CLAIM-673.md) | CLAIM | Active | An arrangement can erode the capacity to govern it |
+| [QUESTION-551](../record/questions.d/QUESTION-551.md) | QUESTION | Open | Does the record's account of supplied work eroding capacity commit a Luddite fallacy: how does it account for technological history, in which unaided competence fell while what people could do rose? |
+| [CLAIM-1364](../record/claims.d/CLAIM-1364.md) | CLAIM | Proposed | The record answers the Luddite objection only through reciprocity and control of terms |
+| [CLAIM-1456](../record/claims.d/CLAIM-1456.md) | CLAIM | Proposed | Retained-skill models cannot weigh net empowerment |
+| [CLAIM-1377](../record/claims.d/CLAIM-1377.md) | CLAIM | Proposed | What freed effort builds leaves the withdrawal cost unchanged |
+| [ARG-263](../record/arguments.d/ARG-263.md) | ARG | Proposed | The record's capacity model, extended to two capacities, supports the Luddite objection for capacity and not for dependency |
+| [CLAIM-1352](../record/claims.d/CLAIM-1352.md) | CLAIM | Proposed | Competence and valuation can sustain an interest |
+| [CLAIM-1454](../record/claims.d/CLAIM-1454.md) | CLAIM | Proposed | Linear coupling leaves support no role in interest |
+| [CASE-430](../record/cases.d/CASE-430.md) | CASE | Proposed | Coupled competence and valuation model of interest |
 
 **What would show the account unfaithful:** A component misstated or misattributed here; an in-force component of the transient-support line left out without a reason given; or a link this account states that no component states. Its standing is its components': a component retired or demoted takes its clause with it, and nothing here holds the clause up.
 
@@ -4224,6 +4281,39 @@ The first account of the line flourishing-and-meaning ([ADR-099](../record/decis
 
 **What would show the account unfaithful:** A component misstated or misattributed here, its voice, status or warrant included; an in-force entry whose line is flourishing-and-meaning left out; or a link this account states that no component states. Its standing is its components': most of them are Proposed, and a component retired, demoted or narrowed takes its clause with it, and nothing here holds the clause up.
 
+## Governing possibility
+
+regulation as the governance of which organizations a system can attain, sustain and revise, not only of conduct within one; readiness under matched present performance, and identity stabilization as filtering indexed to the timescales of demands; atlas scope 14 ([ADR-146](../record/decisions.d/ADR-146.md)). The cost structure of what is realizable stays with realizability, slack with readiness
+
+### [SYNTHESIS-127](../record/syntheses.d/SYNTHESIS-127.md): Governing possibility: what a system can still become
+
+*Proposed · version 1*
+
+| component | kind | its status | what it holds |
+|---|---|---|---|
+| [CLAIM-099](../record/claims.d/CLAIM-099.md) | CLAIM | Active | Acting and governing among regimes differ |
+| [CLAIM-577](../record/claims.d/CLAIM-577.md) | CLAIM | Active | Last-peak budgeting shrinks what is reachable |
+| [CLAIM-582](../record/claims.d/CLAIM-582.md) | CLAIM | Active | Hard constraints cannot enlarge reach |
+| [ARG-077](../record/arguments.d/ARG-077.md) | ARG | Active | Capacity barrier → reaching costs more |
+| [CASE-233](../record/cases.d/CASE-233.md) | CASE | Active | A transition with a capacity barrier |
+| [CASE-315](../record/cases.d/CASE-315.md) | CASE | Active | Readiness simulator: spend-matching, carry-over |
+| [CASE-412](../record/cases.d/CASE-412.md) | CASE | Active | Regulation model under six budget regimes |
+| [TERM-115](../record/terms.d/TERM-115.md) | TERM | Active | scenario-conditioned readiness |
+| [QUESTION-546](../record/questions.d/QUESTION-546.md) | QUESTION | Open | How are the record's several geometries of possibility related, and can a modal logic whose accessibility is indexed by resources, actors and authority state them in one language, including changes of the language itself? |
+| [CLAIM-1414](../record/claims.d/CLAIM-1414.md) | CLAIM | Proposed | Entrenchment needs one-way moves or a lower budget |
+| [TERM-185](../record/terms.d/TERM-185.md) | TERM | Proposed | potential consequentiality |
+| [CLAIM-1370](../record/claims.d/CLAIM-1370.md) | CLAIM | Proposed | Consequentiality can need jointly acquired capacities |
+| [CLAIM-1356](../record/claims.d/CLAIM-1356.md) | CLAIM | Proposed | Closing a possibility can foreclose a valuing |
+| [CLAIM-1350](../record/claims.d/CLAIM-1350.md) | CLAIM | Proposed | An unconstituted purpose is not an inaccessible one |
+| [CLAIM-1432](../record/claims.d/CLAIM-1432.md) | CLAIM | Proposed | Axiological and constitutional frontiers move apart |
+| [TERM-180](../record/terms.d/TERM-180.md) | TERM | Proposed | constitutional capability |
+| [TERM-189](../record/terms.d/TERM-189.md) | TERM | Proposed | institutional developmental freedom |
+| [CLAIM-1355](../record/claims.d/CLAIM-1355.md) | CLAIM | Proposed | Governance can improve and still fall behind what it governs |
+| [QUESTION-545](../record/questions.d/QUESTION-545.md) | QUESTION | Open | What would a platform for governing an institution's alignment and ongoing development have to do, on the record's account, if it were designed without Luria as a model? |
+| [CLAIM-1453](../record/claims.d/CLAIM-1453.md) | CLAIM | Proposed | A platform for institutional alignment must govern development |
+
+**What would show the account unfaithful:** A component misstated or misattributed here; an in-force entry carrying the line governing-possibility left out without a reason given; or a link this synthesis states that no component states. Its standing is its components': a component retired takes its step with it.
+
 ## Scholarly publishing over governed records
 
 what a research record keeps when publishing separates communication, attribution, preservation, assessment and evaluation — articles as views over a maintained record, editorial assessments as attributable judgements, journals as feeds over editors, and what a host does not supply; atlas scope 15 ([ADR-146](../record/decisions.d/ADR-146.md)). What a record of inquiry keeps stays with records-of-inquiry, the record's own machinery with record-as-apparatus
@@ -4278,4 +4368,3 @@ what a research record keeps when publishing separates communication, attributio
 
 - The organization of perspective
 - How an organization can know and fail to correct
-- Governing possibility

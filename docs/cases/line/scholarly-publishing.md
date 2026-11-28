@@ -6,7 +6,7 @@
 
 **Scholarly publishing over governed records** — what a research record keeps when publishing separates communication, attribution, preservation, assessment and evaluation — articles as views over a maintained record, editorial assessments as attributable judgements, journals as feeds over editors, and what a host does not supply; atlas scope 15 (ADR-146). What a record of inquiry keeps stays with records-of-inquiry, the record's own machinery with record-as-apparatus.
 
-2 of 427 CASE documents. Back to the [full index](../README.md).
+2 of 432 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

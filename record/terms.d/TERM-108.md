@@ -132,6 +132,6 @@ The term is unchanged.
 
 ## Note of 2026-11-27: distinguished from a shortcut
 
-<!-- inactive-ok-block: DISTINCTION-tmp8wqwj TERM-tmp5d01f — new; filed when the owner connected shortcut learning to the record's account of paperclip maximization -->
+<!-- inactive-ok-block: DISTINCTION-002 TERM-184 — new; filed when the owner connected shortcut learning to the record's account of paperclip maximization -->
 
-[DISTINCTION-tmp8wqwj](../distinctions.d/DISTINCTION-tmp8wqwj.md) binds this term to [TERM-tmp5d01f](TERM-tmp5d01f.md) (shortcut). A proxy optimum satisfies its own objective off the training family, and a shortcut fails its own. No change to this term.
+[DISTINCTION-002](../distinctions.d/DISTINCTION-002.md) binds this term to [TERM-184](TERM-184.md) (shortcut). A proxy optimum satisfies its own objective off the training family, and a shortcut fails its own. No change to this term.

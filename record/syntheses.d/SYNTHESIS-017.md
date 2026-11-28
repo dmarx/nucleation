@@ -38,12 +38,12 @@ history:
     Revised to take the exchange "Alignment consequences brainstorm"
     (ChatGPT, 2026-11-26) into account, under ADR-151, and rewritten from
     an inventory into one argument. The exchange opened the question of
-    controlled forgetting; its entries are added (QUESTION-tmpz8xkx,
-    CLAIM-tmpu1fef, CLAIM-tmp5zt7f, TERM-tmp96b3g, TERM-tmp3t5jq,
-    CLAIM-tmpg2wk1, ARG-tmpedexz, CLAIM-tmpdid0k, CLAIM-tmp6toz6,
-    CLAIM-tmpi0o8t, CLAIM-tmpby6hz, CLAIM-tmpwlw8t, CLAIM-tmpdkwbk,
-    CLAIM-tmp6tc1j, CLAIM-tmp48l62, CLAIM-tmpnf6q4, CLAIM-tmp8gkmi,
-    CLAIM-tmpyk9r5), and the line record-as-apparatus is added, since
+    controlled forgetting; its entries are added (QUESTION-552,
+    CLAIM-1440, CLAIM-1365, TERM-186, TERM-182,
+    CLAIM-1403, ARG-262, CLAIM-1394, CLAIM-1369,
+    CLAIM-1412, CLAIM-1389, CLAIM-1448, CLAIM-1395,
+    CLAIM-1368, CLAIM-1361, CLAIM-1427, CLAIM-1380,
+    CLAIM-1455), and the line record-as-apparatus is added, since
     most of them carry it. The per-component list and the audit of
     candidate links are dropped from the body; they are in version 3 and
     the curation entries of 2026-11-07 and 2026-11-23. The title is
@@ -90,28 +90,28 @@ integrates:
 - QUESTION-289
 - QUESTION-471
 - QUESTION-496
-- QUESTION-tmpz8xkx
-- CLAIM-tmpu1fef
-- CLAIM-tmp5zt7f
-- TERM-tmp96b3g
-- TERM-tmp3t5jq
-- CLAIM-tmp48l62
-- CLAIM-tmpg2wk1
-- ARG-tmpedexz
-- CLAIM-tmpdid0k
-- CLAIM-tmp6toz6
-- CLAIM-tmpi0o8t
-- CLAIM-tmpby6hz
-- CLAIM-tmpwlw8t
-- CLAIM-tmpdkwbk
-- CLAIM-tmp6tc1j
-- CLAIM-tmpnf6q4
-- CLAIM-tmp8gkmi
-- CLAIM-tmpyk9r5
+- QUESTION-552
+- CLAIM-1440
+- CLAIM-1365
+- TERM-186
+- TERM-182
+- CLAIM-1361
+- CLAIM-1403
+- ARG-262
+- CLAIM-1394
+- CLAIM-1369
+- CLAIM-1412
+- CLAIM-1389
+- CLAIM-1448
+- CLAIM-1395
+- CLAIM-1368
+- CLAIM-1427
+- CLAIM-1380
+- CLAIM-1455
 ---
 <!-- inactive-ok-file: CLAIM-178 CLAIM-181 CLAIM-189 CLAIM-250 CLAIM-295 CLAIM-314 CLAIM-301 CLAIM-184 CLAIM-762 CLAIM-763 CLAIM-764 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: QUESTION-288 QUESTION-289 — Answered; components, with their standing -->
-<!-- inactive-ok-file: CLAIM-tmpu1fef CLAIM-tmp5zt7f TERM-tmp96b3g TERM-tmp3t5jq CLAIM-tmp48l62 CLAIM-tmpg2wk1 ARG-tmpedexz CLAIM-tmpdid0k CLAIM-tmp6toz6 CLAIM-tmpi0o8t CLAIM-tmpby6hz CLAIM-tmpwlw8t CLAIM-tmpdkwbk CLAIM-tmp6tc1j CLAIM-tmpnf6q4 CLAIM-tmp8gkmi CLAIM-tmpyk9r5 — Proposed or Open; filed from the exchange "Alignment consequences brainstorm" on 2026-11-26 -->
+<!-- inactive-ok-file: CLAIM-1440 CLAIM-1365 TERM-186 TERM-182 CLAIM-1361 CLAIM-1403 ARG-262 CLAIM-1394 CLAIM-1369 CLAIM-1412 CLAIM-1389 CLAIM-1448 CLAIM-1395 CLAIM-1368 CLAIM-1427 CLAIM-1380 CLAIM-1455 — Proposed or Open; filed from the exchange "Alignment consequences brainstorm" on 2026-11-26 -->
 <!-- inactive-ok-file: SYNTHESIS-015 ADR-151 — Proposed; the synthesis that holds the pricing of filing, and the decision on how a synthesis is written -->
 
 # SYNTHESIS-017: Records secure traceability, not correctness
@@ -162,7 +162,7 @@ defeated are the operations this supports ([CASE-086](../cases.d/CASE-086.md), [
 **Keeping also costs retrieval.** The owner's point, prompted by the
 record's size, is that what the record keeps is all equally present:
 retired and superseded content, and redundant content that later work
-developed on, still weigh on retrieval and discovery ([CLAIM-tmpu1fef](../claims.d/CLAIM-tmpu1fef.md)). The
+developed on, still weigh on retrieval and discovery ([CLAIM-1440](../claims.d/CLAIM-1440.md)). The
 assistant's count shows where the weight lies: retired entries are under
 2 % of the record and Proposed ones a quarter, and dated notes are about
 a quarter of the bytes of claims, so the owner's later clauses, not the
@@ -170,55 +170,55 @@ first, carry most of it; and the record already keeps one cold store, git
 history, for versions though not for entries. The design question that
 opens is what a governed record should cool, condense or erase, and how
 what it keeps within easy reach can be governed apart from what it
-endorses ([QUESTION-tmpz8xkx](../questions.d/QUESTION-tmpz8xkx.md), the owner's). A's answer begins by
+endorses ([QUESTION-552](../questions.d/QUESTION-552.md), the owner's). A's answer begins by
 separating dimensions: identity from standing, as the record already
 does, and both from availability and from fidelity, so that retiring is
 an epistemic operation, cooling an allocation of attention and condensing
-a change of representation ([CLAIM-tmp5zt7f](../claims.d/CLAIM-tmp5zt7f.md)). Availability is logical, not
-storage ([TERM-tmp96b3g](../terms.d/TERM-tmp96b3g.md)), which lets the record say that an entry is in
+a change of representation ([CLAIM-1365](../claims.d/CLAIM-1365.md)). Availability is logical, not
+storage ([TERM-186](../terms.d/TERM-186.md)), which lets the record say that an entry is in
 force and out of the way; consolidation keeps the same judgement through a
 different representation, where supersession replaces the judgement
-([TERM-tmp3t5jq](../terms.d/TERM-tmp3t5jq.md)). How long an entry has survived is one more dimension, and
+([TERM-182](../terms.d/TERM-182.md)). How long an entry has survived is one more dimension, and
 A's generational hypothesis, that most new entries are short-lived, is
-empirical and untested ([CLAIM-tmp48l62](../claims.d/CLAIM-tmp48l62.md)).
+empirical and untested ([CLAIM-1361](../claims.d/CLAIM-1361.md)).
 
 **The cost of a tier is partly the corpus's.** A extends the record's
 pricing of filing ([CLAIM-303](../claims.d/CLAIM-303.md), in [SYNTHESIS-015](SYNTHESIS-015.md)) to the pricing of a tier:
 maintenance, retrieval noise, expected reactivation, expected loss while
-unavailable, and transition ([CLAIM-tmpg2wk1](../claims.d/CLAIM-tmpg2wk1.md)). The assistant's argument
+unavailable, and transition ([CLAIM-1403](../claims.d/CLAIM-1403.md)). The assistant's argument
 narrows it: four of those terms are the entry's own, but retrieval noise
 is a property of the corpus ([CLAIM-314](../claims.d/CLAIM-314.md)), so it must be taken over the hot
-set ([ARG-tmpedexz](../arguments.d/ARG-tmpedexz.md)). The net effect is A's second hypothesis: past some
+set ([ARG-262](../arguments.d/ARG-262.md)). The net effect is A's second hypothesis: past some
 point, growth of what is accessible raises the cost of realizing an
-answer by more than holding the answer saved ([CLAIM-tmpdid0k](../claims.d/CLAIM-tmpdid0k.md), adding the
+answer by more than holding the answer saved ([CLAIM-1394](../claims.d/CLAIM-1394.md), adding the
 net effect to [CLAIM-314](../claims.d/CLAIM-314.md)'s recognition cost, and the limit [QUESTION-095](../questions.d/QUESTION-095.md)
 asks about). The record's generated views add a cost of their own: an
 entry repeated across indexes, tag pages, chains and syntheses is met many
 times by an unrestricted search, a median of 25 generated pages per
 claim, which inflates its prominence without adding evidence
-([CLAIM-tmp6toz6](../claims.d/CLAIM-tmp6toz6.md), the retrieval-side form of [CLAIM-301](../claims.d/CLAIM-301.md)'s danger).
+([CLAIM-1369](../claims.d/CLAIM-1369.md), the retrieval-side form of [CLAIM-301](../claims.d/CLAIM-301.md)'s danger).
 
 **What may be cooled is fixed by roots and uses, not by standing.** What
 is live is relative to declared roots, and roots are not all Active
 claims, which would confuse endorsement with relevance; A names five
 kinds of liveness, referential, operational, corrective, developmental and
-normative ([CLAIM-tmpi0o8t](../claims.d/CLAIM-tmpi0o8t.md)). An entry's retention requirement can be
-computed as a join over its uses ([CLAIM-tmpby6hz](../claims.d/CLAIM-tmpby6hz.md)), but not when it is
+normative ([CLAIM-1412](../claims.d/CLAIM-1412.md)). An entry's retention requirement can be
+computed as a join over its uses ([CLAIM-1389](../claims.d/CLAIM-1389.md)), but not when it is
 kept as one of two independently sufficient grounds: that requirement is
 disjunctive and has no least element, so the join holds only for
-conjunctive requirements ([CLAIM-tmpwlw8t](../claims.d/CLAIM-tmpwlw8t.md), the assistant's, demonstrated).
+conjunctive requirements ([CLAIM-1448](../claims.d/CLAIM-1448.md), the assistant's, demonstrated).
 This is [CLAIM-293](../claims.d/CLAIM-293.md)'s point carried from revision to retention, that the
 topology of support does not fix what must be kept, and the record's
 grammar already marks the difference where support is filed as separate
 arguments ([CLAIM-293](../claims.d/CLAIM-293.md), note of 2026-11-26). Cooling must leave
 dependencies visible, so that archival does not become a way of silencing
-what is inconvenient ([CLAIM-tmpdkwbk](../claims.d/CLAIM-tmpdkwbk.md), citing luria's rule that a
+what is inconvenient ([CLAIM-1395](../claims.d/CLAIM-1395.md), citing luria's rule that a
 suppression must not become a silence); the record already reports what
 rests on a retired entry ([CLAIM-664](../claims.d/CLAIM-664.md)). And retention by observed use
 confirms itself, since what is requested depends on what is visible, so a
 record that forgets only by its own usage can optimize away the conditions
 of its development; A's remedy is an exploration budget for dormant
-material ([CLAIM-tmp6tc1j](../claims.d/CLAIM-tmp6tc1j.md)).
+material ([CLAIM-1368](../claims.d/CLAIM-1368.md)).
 
 **What may be condensed is fixed by the corrections it must survive.** A
 condensation can keep every present consequence and lose the consequences
@@ -226,33 +226,33 @@ of a later correction. The assistant's result says exactly when it does
 not: a condensation is safe for a declared, deterministic family of
 corrections and queries exactly when it merges no two records some
 sequence of those corrections tells apart, the Myhill–Nerode construction
-applied to records ([CLAIM-tmpnf6q4](../claims.d/CLAIM-tmpnf6q4.md), demonstrated). It generalizes
+applied to records ([CLAIM-1427](../claims.d/CLAIM-1427.md), demonstrated). It generalizes
 [CLAIM-294](../claims.d/CLAIM-294.md), which is the case where the condensation is to the current
 conclusions ([CLAIM-294](../claims.d/CLAIM-294.md), note of 2026-11-26), and answers the least-state
 question for that case at zero tolerance ([QUESTION-105](../questions.d/QUESTION-105.md), note of
 2026-11-26). Condensing may also do more than save: on the owner's
 hypothesis that collapsed equivalences become new distinctions
 ([CLAIM-762](../claims.d/CLAIM-762.md)), consolidation may make arguments into units of further work
-([CLAIM-tmp8gkmi](../claims.d/CLAIM-tmp8gkmi.md), supposed on [CLAIM-762](../claims.d/CLAIM-762.md)), and condensation that preserves
+([CLAIM-1380](../claims.d/CLAIM-1380.md), supposed on [CLAIM-762](../claims.d/CLAIM-762.md)), and condensation that preserves
 capability may widen the inquiry frontier, [CLAIM-761](../claims.d/CLAIM-761.md)'s stored work applied
-to condensing ([CLAIM-tmpyk9r5](../claims.d/CLAIM-tmpyk9r5.md)).
+to condensing ([CLAIM-1455](../claims.d/CLAIM-1455.md)).
 
 ## Where it stands
 
 The formal core is firm: [CLAIM-293](../claims.d/CLAIM-293.md), [CLAIM-294](../claims.d/CLAIM-294.md), [CLAIM-299](../claims.d/CLAIM-299.md) and [CLAIM-300](../claims.d/CLAIM-300.md) are
 demonstrated and in force on A's constructions, and the exchange's two
-results on condensing and retention ([CLAIM-tmpnf6q4](../claims.d/CLAIM-tmpnf6q4.md), [CLAIM-tmpwlw8t](../claims.d/CLAIM-tmpwlw8t.md)) are
+results on condensing and retention ([CLAIM-1427](../claims.d/CLAIM-1427.md), [CLAIM-1448](../claims.d/CLAIM-1448.md)) are
 demonstrated and Proposed. The normative reading of what the record is
 for ([CLAIM-189](../claims.d/CLAIM-189.md), [CLAIM-250](../claims.d/CLAIM-250.md), [CLAIM-295](../claims.d/CLAIM-295.md)) is Proposed, and [CASE-086](../cases.d/CASE-086.md) and
 [CASE-090](../cases.d/CASE-090.md) illustrate rather than test. The whole design of controlled
 forgetting is proposed and unmeasured: the owner's claim and question,
 A's dimensions, tiers, prices, roots and hypotheses. The tests are leads:
-retention policies compared on a frozen snapshot ([LEAD-tmpeqy94](../leads.d/LEAD-tmpeqy94.md)), a
-replay of forgetting policies over the record's history ([LEAD-tmpe579v](../leads.d/LEAD-tmpe579v.md)),
-a trial of logical cooling on one line ([LEAD-tmpolbqp](../leads.d/LEAD-tmpolbqp.md)), mark-and-review
-collection from declared roots ([LEAD-tmp79qro](../leads.d/LEAD-tmp79qro.md)), a dry-run retention
-diagnostic ([LEAD-tmpvevob](../leads.d/LEAD-tmpvevob.md)), and compaction through a synthesis
-([LEAD-tmpd85zk](../leads.d/LEAD-tmpd85zk.md)).
+retention policies compared on a frozen snapshot ([LEAD-295](../leads.d/LEAD-295.md)), a
+replay of forgetting policies over the record's history ([LEAD-294](../leads.d/LEAD-294.md)),
+a trial of logical cooling on one line ([LEAD-307](../leads.d/LEAD-307.md)), mark-and-review
+collection from declared roots ([LEAD-289](../leads.d/LEAD-289.md)), a dry-run retention
+diagnostic ([LEAD-315](../leads.d/LEAD-315.md)), and compaction through a synthesis
+([LEAD-293](../leads.d/LEAD-293.md)).
 
 What stays open: the least state a family of revisions needs beyond
 declared deterministic corrections, with added facts, nonzero tolerance or
@@ -273,10 +273,10 @@ no component cites it. [QUESTION-288](../questions.d/QUESTION-288.md) and [QUEST
 - **Keeping the accountability structure as worth its cost.** [CLAIM-250](../claims.d/CLAIM-250.md)
   with [CLAIM-295](../claims.d/CLAIM-295.md)'s decision family; "worth" turns on cost, which [CLAIM-295](../claims.d/CLAIM-295.md)
   disclaims and [QUESTION-098](../questions.d/QUESTION-098.md) holds. The exchange's tier prices
-  ([CLAIM-tmpg2wk1](../claims.d/CLAIM-tmpg2wk1.md)) would supply a cost; no entry sets them against
+  ([CLAIM-1403](../claims.d/CLAIM-1403.md)) would supply a cost; no entry sets them against
   [CLAIM-295](../claims.d/CLAIM-295.md)'s values.
 - **A's retention values and [CLAIM-295](../claims.d/CLAIM-295.md).** A's reconstruction, dependency
-  and developmental option values ([CLAIM-tmpg2wk1](../claims.d/CLAIM-tmpg2wk1.md)) resemble [CLAIM-295](../claims.d/CLAIM-295.md)'s
+  and developmental option values ([CLAIM-1403](../claims.d/CLAIM-1403.md)) resemble [CLAIM-295](../claims.d/CLAIM-295.md)'s
   wider family of decisions; no entry says they are the same.
 - **Legitimate dropping as relative to a changing decision family.**
   [CLAIM-189](../claims.d/CLAIM-189.md)'s dissolution and loss read through [CLAIM-300](../claims.d/CLAIM-300.md)'s relativity and
@@ -288,11 +288,11 @@ no component cites it. [QUESTION-288](../questions.d/QUESTION-288.md) and [QUEST
   separations shown.**
 - **[CLAIM-178](../claims.d/CLAIM-178.md)'s manuscript test.** No draft written against the record
   has been checked beside one written straight from an exchange.
-- **Self-confirming retention and entrenchment.** [CLAIM-tmp6tc1j](../claims.d/CLAIM-tmp6tc1j.md)'s
+- **Self-confirming retention and entrenchment.** [CLAIM-1368](../claims.d/CLAIM-1368.md)'s
   self-confirming allocation of attention resembles [CLAIM-184](../claims.d/CLAIM-184.md)'s
   entrenching anchors on the retrieval side; no entry joins them.
-- **Condensing alternative support.** [CLAIM-tmpnf6q4](../claims.d/CLAIM-tmpnf6q4.md)'s criterion and
-  [CLAIM-tmpwlw8t](../claims.d/CLAIM-tmpwlw8t.md)'s disjunctive requirement are stated separately; no entry
+- **Condensing alternative support.** [CLAIM-1427](../claims.d/CLAIM-1427.md)'s criterion and
+  [CLAIM-1448](../claims.d/CLAIM-1448.md)'s disjunctive requirement are stated separately; no entry
   says what a correction-safe condensation of two independently sufficient
   grounds keeps.
 
