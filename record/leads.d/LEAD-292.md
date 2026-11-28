@@ -25,13 +25,13 @@ summary: >-
   The owner, 2026-11-26: "file leads, including this", with the Oxford Academic page for Callard (2018). The record has no account of aspiration. Its nearest entries ask how an agent can rationally pursue, and become answerable for, values it does not yet hold. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: LIT-3292 THEORY-2317 — new or Proposed; the entries this lead would advance and the works it names -->
+<!-- inactive-ok-file: LIT-3287 THEORY-2317 — new or Proposed; the entries this lead would advance and the works it names -->
 
 # LEAD-292: Read Callard's Aspiration against the record's self-formation and value-change questions
 
 ## What it would do
 
-Read [LIT-3292](../literature.d/LIT-3292.md) ([THEORY-2317](../theory.d/THEORY-2317.md), expected), above all chapters 2
+Read [LIT-3287](../literature.d/LIT-3287.md) ([THEORY-2317](../theory.d/THEORY-2317.md), expected), above all chapters 2
 (proleptic reasons), 3 (intrinsic and extrinsic conflict) and 5 and 6
 (self-creation and responsibility).
 
