@@ -16,7 +16,7 @@ tags:
 - ethics
 date: '2026-11-26'
 source:
-- LIT-3292
+- LIT-3287
 bears_on:
 - QUESTION-364
 - QUESTION-495
@@ -28,11 +28,11 @@ summary: >-
   until then. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: LIT-3292 — Deferred; the unread source -->
+<!-- inactive-ok-file: LIT-3287 — Deferred; the unread source -->
 
 # THEORY-2317: Aspiration is rational self-transformation by proleptic reasons
 
-Callard (2018), Oxford University Press, [LIT-3292](../literature.d/LIT-3292.md).
+Callard (2018), Oxford University Press, [LIT-3287](../literature.d/LIT-3287.md).
 
 ## The account, as expected
 
