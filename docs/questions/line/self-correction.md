@@ -6,7 +6,7 @@
 
 **How an organization can know and fail to correct** — the separable achievements of recognizing, making legible, acting on and correcting an error, and how the coupling of evidence, evaluation and authority decides whether a system can correct itself; atlas scope 10 (ADR-146), first named as a candidate line at the synthesis review of 2026-11-23.
 
-0 of 544 QUESTION documents. Back to the [full index](../README.md).
+0 of 552 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

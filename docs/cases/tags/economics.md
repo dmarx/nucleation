@@ -6,8 +6,8 @@
 
 **Economics** — economic theory and institutions — contracts and incomplete contracts, hold-up and relationship-specific investment, bargaining, the theory of the firm and corporate governance, shareholder and stakeholder theories; psychology and sociology stay in social-science (ADR-150).
 
-0 of 427 CASE documents. Back to the [full index](../README.md).
+1 of 432 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CASE-432](../../../record/cases.d/CASE-432.md) | The collapse of the northern cod fishery | A8 §2 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26), on the owner's U5: "a paperclip scenario without a paperclip maximizer". A's source is the Royal Commission on Renewing and Strengthening Our Place in Canada (2003; [LIT-3296](../../../record/literature.d/LIT-3296.md), registered, unread), whose fisheries chapter A summarizes; the facts here are A's report, unverified until read. The record held no case of a fishery's collapse. The wording is A's (ChatGPT, in the exchange "Alignment consequences brainstorm"); adopting it is the owner's call. | Proposed |

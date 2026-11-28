@@ -230,7 +230,7 @@ pair in a toy model. What would go against it is (a) in `defeated_if`.
 
 ## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U2–A4, U3–A5)
 
-<!-- inactive-ok-file: CLAIM-tmp5vitv LIT-tmp76g3z — filed from the exchange of 2026-11-26, Proposed, Deferred or Open -->
+<!-- inactive-ok-file: CLAIM-1364 LIT-3270 — filed from the exchange of 2026-11-26, Proposed, Deferred or Open -->
 
 A4 §10 cites this claim accurately: "what distinguishes different forms of
 dependence is not merely their magnitude, but who controls the terms
@@ -242,10 +242,10 @@ scale of a society, and A4 names the objective "non-domination within
 interdependence". An illustration, not new evidence.
 
 Two consequences filed. The record's answer to the owner's U2
-([QUESTION-tmpsgbj7](../questions.d/QUESTION-tmpsgbj7.md)) runs through this claim: [CLAIM-tmp5vitv](CLAIM-tmp5vitv.md) rests on it
+([QUESTION-551](../questions.d/QUESTION-551.md)) runs through this claim: [CLAIM-1364](CLAIM-1364.md) rests on it
 and on [CLAIM-603](CLAIM-603.md). And A5 §5 names Emerson's "Power-Dependence Relations",
 which this claim's "What it does not say" named as the rival its defeater
-(b) is to be checked against; it is now registered unread ([LIT-tmp76g3z](../literature.d/LIT-tmp76g3z.md)),
+(b) is to be checked against; it is now registered unread ([LIT-3270](../literature.d/LIT-3270.md)),
 so the check waits on a reading.
 
 The claim is unchanged.

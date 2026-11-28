@@ -11,6 +11,7 @@ statement: >-
   proposed moral or psychological test handles more than a fraction of cases
 version: 1
 tags:
+- persuasion-and-influence
 - ethics
 - moral-psychology
 promote_when: >-

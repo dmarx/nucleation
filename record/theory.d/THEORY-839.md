@@ -24,6 +24,7 @@ history:
     checked numerically, which meets the condition for Active under
     ADR-047 v2.
 tags:
+- search-and-ranking
 - learning-theory
 - causality
 date: '2026-10-21'

@@ -294,10 +294,10 @@ No status, title or warrant changes.
 
 ## Note of 2026-11-26: format, not content
 
-<!-- inactive-ok-block: CLAIM-tmpj88da — new; the claim this note reports -->
+<!-- inactive-ok-block: CLAIM-1418 — new; the claim this note reports -->
 
 An operational sense for "available to the system's other processes".
-On [CLAIM-tmpj88da](CLAIM-tmpj88da.md), it is that the content is in a format those processes
+On [CLAIM-1418](CLAIM-1418.md), it is that the content is in a format those processes
 read, as the J-space is for report and flexible inference in [THEORY-865](../theory.d/THEORY-865.md).
 Unfelt valence would then be valence used outside that format. This is an
 analogy across systems and gives no edge. No status change.

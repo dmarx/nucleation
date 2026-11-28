@@ -6,8 +6,8 @@
 
 **How an organization can know and fail to correct** — the separable achievements of recognizing, making legible, acting on and correcting an error, and how the coupling of evidence, evaluation and authority decides whether a system can correct itself; atlas scope 10 (ADR-146), first named as a candidate line at the synthesis review of 2026-11-23.
 
-0 of 282 LEAD documents. Back to the [full index](../README.md).
+1 of 320 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [LEAD-291](../../../record/leads.d/LEAD-291.md) | Run the Luria study under rising automation: periodically make the inherited ontology or evaluation criteria inadequate, and measure whether the human–AI collective still recognizes the inadequacy, authorizes, implements and stays ready for the next revision | A4 §15 of the exchange "Alignment consequences brainstorm" (ChatGPT, 2026-11-26): "I would particularly want an experiment in which a human–AI collective undergoes increasingly extensive automation, and is periodically confronted with cases where its inherited ontology or evaluation criteria are inadequate", connecting [CLAIM-667](../../../record/claims.d/CLAIM-667.md)'s experiment to [TERM-167](../../../record/terms.d/TERM-167.md)'s kernel. [CLAIM-667](../../../record/claims.d/CLAIM-667.md)'s study ([LEAD-085](../../../record/leads.d/LEAD-085.md)) crosses schema flexibility with change governance; this adds the share of the work automated as a factor and the humans' retained governing capacity as the outcome. A: "automation might substantially increase governance capacity rather than erode it. That possibility must be available as an experimental outcome." Stage idea: factor levels, the human measure and the injected inadequacies are not specified. The wording is A's; adopting it is the owner's call. | Open |

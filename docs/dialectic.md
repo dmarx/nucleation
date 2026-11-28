@@ -2,7 +2,7 @@
 
 # Objections and replies
 
-111 lines, walked from `objects_to:` and `undercuts_support_of` (`(u:CLAIM)-[:undercuts]->(g:ARG)-[:concludes]->(c:CLAIM)`) on CLAIM documents. Each step explains itself; this page is the order they came in.
+114 lines, walked from `objects_to:` and `undercuts_support_of` (`(u:CLAIM)-[:undercuts]->(g:ARG)-[:concludes]->(c:CLAIM)`) on CLAIM documents. Each step explains itself; this page is the order they came in.
 
 ## From Changing-cover transport is the open problem
 
@@ -393,6 +393,32 @@
   - [CLAIM-134](../record/claims.d/CLAIM-134.md) — Bare relata fall to Chakravartty's dilemma *(counter, Proposed)*
   - [CLAIM-138](../record/claims.d/CLAIM-138.md) — Newman objection is the collapse objection *(counter, Proposed)*
 
+## From Competence and valuation can sustain an interest
+
+- [CLAIM-1352](../record/claims.d/CLAIM-1352.md) — Competence and valuation can sustain an interest *(thesis, Proposed)*
+  - [CLAIM-1454](../record/claims.d/CLAIM-1454.md) — Linear coupling leaves support no role in interest *(counter, Proposed)*
+
+## From Sycophancy is reflexive control of the evaluator, and reward tampering is its limit
+
+- [CLAIM-1438](../record/claims.d/CLAIM-1438.md) — Sycophancy is reflexive control of the evaluator, and reward tampering is its limit *(thesis, Proposed)*
+  - [CLAIM-1363](../record/claims.d/CLAIM-1363.md) — What generalizes to reward tampering is specification gaming, not influence over the evaluator *(counter, Proposed)*
+
+## From Retention requirements join over an entry's uses
+
+- [CLAIM-1389](../record/claims.d/CLAIM-1389.md) — Retention requirements join over an entry's uses *(thesis, Proposed)*
+  - [CLAIM-1448](../record/claims.d/CLAIM-1448.md) — Alternative support has no least retention requirement *(counter, Proposed)*
+
+## From Appraisal is negotiation among perspectives
+
+- [CLAIM-440](../record/claims.d/CLAIM-440.md) — Appraisal is negotiation among perspectives *(thesis, Proposed)*
+  - [CLAIM-1411](../record/claims.d/CLAIM-1411.md) — Valence unobserved is not valence absent *(thesis, Proposed)*
+  - [CLAIM-438](../record/claims.d/CLAIM-438.md) — The potential tracks wanting, not liking *(counter, Proposed)*
+  - [CLAIM-441](../record/claims.d/CLAIM-441.md) — Flow tells against no-contest, no-valence *(counter, Proposed)*
+  - [CLAIM-448](../record/claims.d/CLAIM-448.md) — An acyclic record can be legibility's artifact *(counter, Active)*
+  - [CLAIM-449](../record/claims.d/CLAIM-449.md) — No frustration, no valence conflates two *(counter, Active)*
+  - [CLAIM-468](../record/claims.d/CLAIM-468.md) — Valence intensity need not be potential strength *(counter, Proposed)*
+    - [CLAIM-505](../record/claims.d/CLAIM-505.md) — Lowered priority need not weaken the ordering *(counter, Proposed)*
+
 ## From Reify when effect-to-noise beats Occam cost
 
 - [CLAIM-154](../record/claims.d/CLAIM-154.md) — Reify when effect-to-noise beats Occam cost *(thesis, Active)*
@@ -526,16 +552,6 @@
 
 - [CLAIM-432](../record/claims.d/CLAIM-432.md) — A corporation can lack remorse functionally *(thesis, Proposed)*
   - [CLAIM-431](../record/claims.d/CLAIM-431.md) — Corporate remorse cannot be told from prudence *(counter, Proposed)*
-
-## From Appraisal is negotiation among perspectives
-
-- [CLAIM-440](../record/claims.d/CLAIM-440.md) — Appraisal is negotiation among perspectives *(thesis, Proposed)*
-  - [CLAIM-438](../record/claims.d/CLAIM-438.md) — The potential tracks wanting, not liking *(counter, Proposed)*
-  - [CLAIM-441](../record/claims.d/CLAIM-441.md) — Flow tells against no-contest, no-valence *(counter, Proposed)*
-  - [CLAIM-448](../record/claims.d/CLAIM-448.md) — An acyclic record can be legibility's artifact *(counter, Active)*
-  - [CLAIM-449](../record/claims.d/CLAIM-449.md) — No frustration, no valence conflates two *(counter, Active)*
-  - [CLAIM-468](../record/claims.d/CLAIM-468.md) — Valence intensity need not be potential strength *(counter, Proposed)*
-    - [CLAIM-505](../record/claims.d/CLAIM-505.md) — Lowered priority need not weaken the ordering *(counter, Proposed)*
 
 ## From Coupling induces time-scale separation
 

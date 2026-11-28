@@ -4,7 +4,7 @@
 
 Each claim an argument concludes, its arguments beneath it, and beneath each argument the claims that undercut it. An argument's status is credence in its inference, not in its conclusion ([ADR-059](../record/decisions.d/ADR-059.md)), so a Rejected argument under an Active claim is one route that failed.
 
-**argued_for** · `(c:CLAIM)<-[:concludes]-(g:ARG)` · 279 matches
+**argued_for** · `(c:CLAIM)<-[:concludes]-(g:ARG)` · 289 matches
 
 **argued_for_undercut** · `(c:CLAIM)<-[:concludes]-(g:ARG)<-[:undercuts]-(u:CLAIM)` · 30 matches
 
@@ -144,11 +144,31 @@ Each claim an argument concludes, its arguments beneath it, and beneath each arg
   - [ARG-246](../record/arguments.d/ARG-246.md) — Stored-work cost model → invoking changes relation *(Proposed, formal-application)*
 - [CLAIM-1343](../record/claims.d/CLAIM-1343.md) — Reliance on restraint makes departures costly *(Proposed, thesis)*
   - [ARG-251](../record/arguments.d/ARG-251.md) — Chubby and two-term norm → reliance on restraint *(Proposed, analogy)*
+- [CLAIM-1352](../record/claims.d/CLAIM-1352.md) — Competence and valuation can sustain an interest *(Proposed, thesis)*
+  - [ARG-261](../record/arguments.d/ARG-261.md) — Coupled interest model → support seeds lasting interest *(Rejected, formal-application)*
+- [CLAIM-1362](../record/claims.d/CLAIM-1362.md) — Reliance and revision arrive together here *(Proposed, thesis)*
+  - [ARG-267](../record/arguments.d/ARG-267.md) — Matched-age revision rates, as evidence, show reliance and revision coupled *(Proposed, evidence)*
+- [CLAIM-1363](../record/claims.d/CLAIM-1363.md) — What generalizes to reward tampering is specification gaming, not influence over the evaluator *(Proposed, counter)*
+  - [ARG-269](../record/arguments.d/ARG-269.md) — Denison et al.'s curriculum results, as evidence, favour specification gaming over influence on the evaluator only through the model's stated reasoning, and do not discriminate between them *(Proposed, evidence)*
 - [CLAIM-139](../record/claims.d/CLAIM-139.md) — Identity in relations; fidelity as what persists *(Superseded, thesis)*
   - [ARG-026](../record/arguments.d/ARG-026.md) — Central defeat test → the central theses *(Rejected, evidence)*
     - [CLAIM-232](../record/claims.d/CLAIM-232.md) — Human stance and fidelity ratings share construal *(Active, counter)*
     - [CLAIM-233](../record/claims.d/CLAIM-233.md) — Defeat tests ignore rivals that predict the same *(Active, granted)*
   - [ARG-029](../record/arguments.d/ARG-029.md) — Operational account → identity in relations *(Proposed, abduction)*
+- [CLAIM-1398](../record/claims.d/CLAIM-1398.md) — Paperclip maximizing is already here, in which objectives may steer behaviour *(Proposed, thesis)*
+  - [ARG-264](../record/arguments.d/ARG-264.md) — The paperclip maximizer, by analogy, carries to the firm and the attention economy for a narrow criterion steering behaviour, not for unbounded maximization *(Proposed, analogy)*
+- [CLAIM-1403](../record/claims.d/CLAIM-1403.md) — A tier is priced by retrieval noise and recovery *(Proposed, thesis)*
+  - [ARG-262](../record/arguments.d/ARG-262.md) — The filing rule, generalized from admission to availability, prices an entry's tier *(Proposed, generalization)*
+- [CLAIM-1443](../record/claims.d/CLAIM-1443.md) — Optimization turns pathological by eroding its evaluators *(Proposed, thesis)*
+  - [ARG-265](../record/arguments.d/ARG-265.md) — Six failure cases, by generalization, show that optimization's pathology is eroded evaluation *(Rejected, generalization)*
+- [CLAIM-1444](../record/claims.d/CLAIM-1444.md) — The model's narrative priors can be the dyad's attractor *(Proposed, thesis)*
+  - [ARG-270](../record/arguments.d/ARG-270.md) — Lu et al.'s drift result, as evidence, supports the model's priors as the attractor only together with the user's steering *(Proposed, evidence)*
+- [CLAIM-1449](../record/claims.d/CLAIM-1449.md) — Delegating a record's upkeep can widen its governance *(Proposed, thesis)*
+  - [ARG-266](../record/arguments.d/ARG-266.md) — The record's grammar census, as an existence case, shows delegation widening its owner's governance *(Rejected, existence)*
+- [CLAIM-1451](../record/claims.d/CLAIM-1451.md) — A grammar revision can make an inert distinction consequential *(Proposed, thesis)*
+  - [ARG-268](../record/arguments.d/ARG-268.md) — The corroborates decision, as an existence case, shows a grammar revision making a distinction consequential *(Proposed, existence)*
+- [CLAIM-1456](../record/claims.d/CLAIM-1456.md) — Retained-skill models cannot weigh net empowerment *(Proposed, thesis)*
+  - [ARG-263](../record/arguments.d/ARG-263.md) — The record's capacity model, extended to two capacities, supports the Luddite objection for capacity and not for dependency *(Proposed, formal-application)*
 - [CLAIM-147](../record/claims.d/CLAIM-147.md) — Trope as transforms around a preserved core *(Proposed, thesis)*
   - [ARG-014](../record/arguments.d/ARG-014.md) — TV Tropes → trope as transforms of a core *(Rejected, evidence)*
 - [CLAIM-151](../record/claims.d/CLAIM-151.md) — Changing relations can change the act *(Proposed, thesis)*

@@ -4,7 +4,7 @@
 
 **social-identity**.
 
-47 of 2422 NOTE documents. Back to the [full index](../README.md).
+48 of 2430 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -55,3 +55,4 @@
 | [NOTE-2400](../../../record/notes.d/NOTE-2400.md) | Kawshen — Goodbye Montreal Expos, Hello Washington Nationals | A fan-board thread of 5 November 2004 on the move: one poster assigns the original Senators' records to the Twins and the expansion Senators' to the Rangers, and two divide over whether the Expos' records carry over. Coded as data in [CASE-392](../../../record/cases.d/CASE-392.md). | Read |
 | [NOTE-2405](../../../record/notes.d/NOTE-2405.md) | Baseball-Reference — Washington Nationals Team History & Encyclopedia | The standard statistical reference counts the Nationals one franchise with the Expos, 1969 on, with no Senators season, and counts the original Senators' seasons with the Twins. Coded as data in [CASE-392](../../../record/cases.d/CASE-392.md). | Read |
 | [NOTE-2407](../../../record/notes.d/NOTE-2407.md) | NBC Sports Washington — What's in a name for Nationals? A fresh start and no controversy | The club's then president in November 2004, as quoted in 2020: the media guide would carry a page of the old Senators' records, a page of the Expos' and a blank page for the club's own, and "This is a new team." Coded as data in [CASE-392](../../../record/cases.d/CASE-392.md). | Read |
+| [NOTE-2429](../../../record/notes.d/NOTE-2429.md) | Between a role and identification. Understanding BDSM practices from practitioners' perspective | A constructivist grounded-theory study of single unstructured interviews with 12 Polish BDSM practitioners. It distinguishes identification ("a process of developing an identity"), which reaches into everyday life and self-description, from a role ("assumed in a given situation", "only in the course of the session limited in time"), and proposes that these lie on "a continuum". It proposes an initial model: confrontation with one's needs, then belonging to the community, then identification or role. It also reports attributions, concealment and internalized stigma. | Read |

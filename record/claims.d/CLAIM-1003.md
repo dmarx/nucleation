@@ -100,7 +100,7 @@ Proposed, in A's voice.
 ## Note of 2026-11-26: Veeriah et al. (2019), read
 
 
-Qualifies by contrast. In [LIT-tmpl1kcf](../literature.d/LIT-tmpl1kcf.md) ([NOTE-tmpibrnu](../notes.d/NOTE-tmpibrnu.md)) bad questions are
+Qualifies by contrast. In [LIT-3295](../literature.d/LIT-3295.md) ([NOTE-2427](../notes.d/NOTE-2427.md)) bad questions are
 fully detectable, because a declared main task scores every question
 through the meta-gradient, and the method depends on that signal. This
 claim's hard case is the one with no such downstream signal, and the paper

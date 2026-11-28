@@ -23,6 +23,7 @@ statement: >-
   without being wrong in every case
 version: 1
 tags:
+- persuasion-and-influence
 - ethics
 - agency
 - society-and-governance

@@ -14,6 +14,7 @@ standing: stipulated
 kind: proposed-study
 tags:
 - social-science
+- persuasion-and-influence
 - self-governance
 - information-retrieval
 date: '2026-11-12'

@@ -6,7 +6,7 @@
 
 **Mechanism** — identifiers, generation, the lint.
 
-0 of 12 RETRO documents. Back to the [full index](../README.md).
+0 of 13 RETRO documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

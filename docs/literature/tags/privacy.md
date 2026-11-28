@@ -6,7 +6,7 @@
 
 **Privacy** — privacy and surveillance — informational privacy and contextual integrity, monitoring, observability and legibility as instruments of control, chilling effects, and the law of searches and association (ADR-150).
 
-4 of 3265 LIT documents. Back to the [full index](../README.md).
+4 of 3318 LIT documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

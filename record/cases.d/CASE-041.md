@@ -19,6 +19,7 @@ standing: documented
 kind: specimen
 tags:
 - representation-learning
+- shortcut-learning
 - model-comparison
 date: '2026-10-10'
 line: pragmatic-transport

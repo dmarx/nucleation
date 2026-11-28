@@ -295,7 +295,7 @@ the paper does not measure capacity, only output.
 
 ## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U2–A4)
 
-<!-- inactive-ok-file: CLAIM-tmpz33db CLAIM-tmp87zug CLAIM-tmp5vitv ARG-tmpee3ck — filed from the exchange of 2026-11-26, Open or Proposed -->
+<!-- inactive-ok-file: CLAIM-1456 CLAIM-1377 CLAIM-1364 ARG-263 — filed from the exchange of 2026-11-26, Open or Proposed -->
 
 A2 §7 carried this claim to AI assistance: an assistant could be
 "perfectly helpful by conventional measures while systematically
@@ -305,17 +305,17 @@ principal". A2's description of the claim is accurate: substitution erodes
 retained capacity, and support that "covers only its shortfall behaves
 differently" is the capacity-first result.
 
-The owner objected at U2 ([QUESTION-tmpsgbj7](../questions.d/QUESTION-tmpsgbj7.md)): "are we committing a
+The owner objected at U2 ([QUESTION-551](../questions.d/QUESTION-551.md)): "are we committing a
 luddite fallacy here?" A4 §8 wrote this claim's equation correctly and
 said a one-capacity model "cannot describe the trade-off" between an
-eroded skill and those built with freed effort ([CLAIM-tmpz33db](CLAIM-tmpz33db.md)). That
+eroded skill and those built with freed effort ([CLAIM-1456](CLAIM-1456.md)). That
 marks the model's scope; it does not object to this claim, which says
 nothing of net empowerment. The extension A4 proposes was carried out in
-this model's dynamics ([CLAIM-tmp87zug](CLAIM-tmp87zug.md)): reinvestment leaves the substituted
+this model's dynamics ([CLAIM-1377](CLAIM-1377.md)): reinvestment leaves the substituted
 capacity, and the 6.38 units of recovery after 20 units of full
 substitution, unchanged, and under a finite budget the new capacity is
-lost when the supply stops ([ARG-tmpee3ck](../arguments.d/ARG-tmpee3ck.md)). Whether the dependency matters
-is [CLAIM-tmp5vitv](CLAIM-tmp5vitv.md)'s.
+lost when the supply stops ([ARG-263](../arguments.d/ARG-263.md)). Whether the dependency matters
+is [CLAIM-1364](CLAIM-1364.md)'s.
 
 A bearing of scope and a corroboration of the model's numbers, recomputed;
 the claim is unchanged.

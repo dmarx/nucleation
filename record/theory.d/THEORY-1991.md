@@ -19,6 +19,7 @@ statement: >-
   violence are held constant
 version: 1
 tags:
+- persuasion-and-influence
 - social-science
 - society-and-governance
 date: '2026-11-18'

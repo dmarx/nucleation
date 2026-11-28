@@ -2,7 +2,7 @@
 
 # Lines of argument
 
-82 lines, walked from `rests_on:` and `argued_from` (`(c:CLAIM)<-[:concludes]-(g:ARG)-[:rests_on]->(p:CLAIM) WHERE NOT (g {status: 'Rejected'})`) on CLAIM documents. Each step explains itself; this page is the order they came in.
+79 lines, walked from `rests_on:` and `argued_from` (`(c:CLAIM)<-[:concludes]-(g:ARG)-[:rests_on]->(p:CLAIM) WHERE NOT (g {status: 'Rejected'})`) on CLAIM documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `line`, which every line holds in common — a line about two things is listed under both.
 
@@ -64,12 +64,6 @@ Grouped by `line`, which every line holds in common — a line about two things 
 
 - [CLAIM-516](../record/claims.d/CLAIM-516.md) — Persistent capacities need a production cycle *(Active)*
   - [CLAIM-531](../record/claims.d/CLAIM-531.md) — Entrenchment does not give closure *(Active)*
-
-### From A responsive minority can set a revenue design
-
-- [CLAIM-658](../record/claims.d/CLAIM-658.md) — A responsive minority can set a revenue design *(Proposed)*
-  - [CLAIM-653](../record/claims.d/CLAIM-653.md) — Heaviest users set the content mainstream *(Proposed)*
-  - [CLAIM-656](../record/claims.d/CLAIM-656.md) — Attention revenue selects against investigation *(Proposed)* — through [ARG-091](../record/arguments.d/ARG-091.md)
 
 ### From Overload caps timely challenges at μ/λ
 
@@ -255,12 +249,6 @@ Grouped by `line`, which every line holds in common — a line about two things 
 
 - [CLAIM-1255](../record/claims.d/CLAIM-1255.md) — Specification fidelity can coexist with drift *(Proposed)*
   - [CLAIM-1315](../record/claims.d/CLAIM-1315.md) — Originalism errs in assuming exhaustiveness *(Proposed)*
-
-### From A responsive minority can set a revenue design
-
-- [CLAIM-658](../record/claims.d/CLAIM-658.md) — A responsive minority can set a revenue design *(Proposed)*
-  - [CLAIM-653](../record/claims.d/CLAIM-653.md) — Heaviest users set the content mainstream *(Proposed)*
-  - [CLAIM-656](../record/claims.d/CLAIM-656.md) — Attention revenue selects against investigation *(Proposed)* — through [ARG-091](../record/arguments.d/ARG-091.md)
 
 ### From Blame and accountability are not the same
 
@@ -650,6 +638,8 @@ Grouped by `line`, which every line holds in common — a line about two things 
           - [CLAIM-552](../record/claims.d/CLAIM-552.md) — Tolerances are directed *(Active)* — also rests on CLAIM-347
           - [CLAIM-553](../record/claims.d/CLAIM-553.md) — Intervention is mobilization times legibility *(Proposed)* — also rests on CLAIM-347, CLAIM-417
         - [CLAIM-550](../record/claims.d/CLAIM-550.md) — Tolerance derives from activation threshold *(Active)*
+          - [CLAIM-1386](../record/claims.d/CLAIM-1386.md) — Action readiness is subthreshold potentiation *(Proposed)*
+            - [CLAIM-1376](../record/claims.d/CLAIM-1376.md) — Claimed and granted readiness are one kind at two levels *(Proposed)* — also rests on CLAIM-283
           - [CLAIM-551](../record/claims.d/CLAIM-551.md) — Cognitive dysregulation follows emotion's *(Active)*
         - [CLAIM-555](../record/claims.d/CLAIM-555.md) — Compatibility and SLT geometry share one object *(Proposed)*
         - [CLAIM-583](../record/claims.d/CLAIM-583.md) — Compatibility equivalence isn't reach equivalence *(Active)*
@@ -686,6 +676,7 @@ Grouped by `line`, which every line holds in common — a line about two things 
   - [CLAIM-627](../record/claims.d/CLAIM-627.md) — Jurisdiction partly settles concept compatibility *(Proposed)* — also rests on CLAIM-197
 - [CLAIM-060](../record/claims.d/CLAIM-060.md) — Whole's success does not establish parts' good *(Active)*
   - [CLAIM-348](../record/claims.d/CLAIM-348.md) — No coarse-graining is normatively adequate per se *(Active)* — also rests on CLAIM-152, CLAIM-350
+    - [CLAIM-1375](../record/claims.d/CLAIM-1375.md) — A governing metric can fail in four distinct ways *(Proposed)* — also rests on CLAIM-1287, CLAIM-1334
     - [CLAIM-614](../record/claims.d/CLAIM-614.md) — Reproducing non-legibility is a further wrong *(Proposed)* — through [ARG-228](../record/arguments.d/ARG-228.md) — also rests on CLAIM-523; also argued from CLAIM-523, CLAIM-723
 - [CLAIM-061](../record/claims.d/CLAIM-061.md) — Keeping the proposition is not sufficient *(Active)*
   - [CLAIM-151](../record/claims.d/CLAIM-151.md) — Changing relations can change the act *(Proposed)*
@@ -717,6 +708,7 @@ Grouped by `line`, which every line holds in common — a line about two things 
   - [CLAIM-1148](../record/claims.d/CLAIM-1148.md) — Maintained nuclei shorten time to response *(Proposed)* — also rests on CLAIM-287
     - [CLAIM-1002](../record/claims.d/CLAIM-1002.md) — Perspectives help only if failures independent *(Proposed)* — also rests on CLAIM-416
       - [CLAIM-1177](../record/claims.d/CLAIM-1177.md) — Adaptive governance maintains an inquiry ecology *(Proposed)* — also rests on CLAIM-1004, CLAIM-1148, CLAIM-418
+      - [CLAIM-1420](../record/claims.d/CLAIM-1420.md) — One dominant ranking makes the web a monoculture whose failures are correlated *(Proposed)* — also rests on CLAIM-1381, CLAIM-1406
     - [CLAIM-1195](../record/claims.d/CLAIM-1195.md) — Holding a nucleus costs decay times level *(Proposed)* — also rests on CLAIM-463, CLAIM-605
 - [CLAIM-1011](../record/claims.d/CLAIM-1011.md) — ReLU rescaling equals step-size change *(Proposed)*
   - [CLAIM-1089](../record/claims.d/CLAIM-1089.md) — Rescaling changes the procedure, not the learner *(Proposed)* — also rests on CLAIM-1043
@@ -733,12 +725,17 @@ Grouped by `line`, which every line holds in common — a line about two things 
   - [CLAIM-056](../record/claims.d/CLAIM-056.md) — Sensitivity-weighted bound on chain drift *(Active)* — also rests on CLAIM-267
     - [CLAIM-059](../record/claims.d/CLAIM-059.md) — Reconstruction chains fall into three regimes *(Proposed)* — also rests on CLAIM-068, CLAIM-267
     - [CLAIM-081](../record/claims.d/CLAIM-081.md) — Convergence is not preservation *(Active)* — also rests on CLAIM-270
+      - [CLAIM-1383](../record/claims.d/CLAIM-1383.md) — The culture's narratives of machines can be the dyad's attractor *(Proposed)*
+      - [CLAIM-1419](../record/claims.d/CLAIM-1419.md) — A sycophantic dyad makes the user's own frame its attractor *(Proposed)* — also rests on CLAIM-276
+        - [CLAIM-1434](../record/claims.d/CLAIM-1434.md) — A sycophantic chatbot withholds the other's eyes that apophany has lost *(Proposed)* — also rests on CLAIM-1385
+      - [CLAIM-1444](../record/claims.d/CLAIM-1444.md) — The model's narrative priors can be the dyad's attractor *(Proposed)*
     - [CLAIM-114](../record/claims.d/CLAIM-114.md) — Drift marked by a pragmatic phase change *(Proposed)*
   - [CLAIM-101](../record/claims.d/CLAIM-101.md) — Translation as context-conditioned transport *(Superseded)*
   - [CLAIM-128](../record/claims.d/CLAIM-128.md) — No single ranking of translations across tasks *(Proposed)* — also rests on CLAIM-371
   - [CLAIM-242](../record/claims.d/CLAIM-242.md) — Values do not cross between languages *(Proposed)*
     - [CLAIM-220](../record/claims.d/CLAIM-220.md) — What survives is what receivers recover *(Proposed)* — through [ARG-040](../record/arguments.d/ARG-040.md) — also rests on CLAIM-050, CLAIM-061; also argued from CLAIM-050
       - [CLAIM-078](../record/claims.d/CLAIM-078.md) — Success: predicting what text similarity misses *(Proposed)*
+- [CLAIM-1064](../record/claims.d/CLAIM-1064.md) — Penalized discovery makes inquiry never pay *(Active)*
 - [CLAIM-107](../record/claims.d/CLAIM-107.md) — Harmonic observables keep their expectation *(Active)*
   - [CLAIM-635](../record/claims.d/CLAIM-635.md) — Conserved observables remember the start *(Active)* — also rests on CLAIM-270
     - [CLAIM-779](../record/claims.d/CLAIM-779.md) — Only exact copying keeps a feature's start *(Proposed)* — also rests on CLAIM-270
@@ -751,6 +748,17 @@ Grouped by `line`, which every line holds in common — a line about two things 
           - [CLAIM-943](../record/claims.d/CLAIM-943.md) — Descriptors inform, impositions perform *(Proposed)*
             - [CLAIM-949](../record/claims.d/CLAIM-949.md) — Specification, model-theoretic and typed *(Proposed)* — also rests on CLAIM-470, CLAIM-783; also argued from CLAIM-783
     - [CLAIM-789](../record/claims.d/CLAIM-789.md) — Exact copying conserves staleness *(Proposed)*
+- [CLAIM-1086](../record/claims.d/CLAIM-1086.md) — Grounding as reliability under interventions *(Proposed)*
+  - [CLAIM-1406](../record/claims.d/CLAIM-1406.md) — A shortcut is the earliest-learnable correlate that is reliable over the training family *(Proposed)*
+    - [CLAIM-1372](../record/claims.d/CLAIM-1372.md) — Sycophancy is a shortcut over a family declared by raters *(Proposed)* — also rests on CLAIM-1387
+    - [CLAIM-1381](../record/claims.d/CLAIM-1381.md) — Search engine optimization is a population breaking the correlates a ranking reads *(Proposed)*
+      - [CLAIM-1367](../record/claims.d/CLAIM-1367.md) — Enshittification of search is the engine optimizing its own ranking against its users *(Proposed)* — also rests on CLAIM-1287
+      - [CLAIM-1392](../record/claims.d/CLAIM-1392.md) — A ranking legible enough to be fair is legible enough to game *(Proposed)* — also rests on CLAIM-1296, CLAIM-1334
+        - [CLAIM-1407](../record/claims.d/CLAIM-1407.md) — An engine steers toward a stable point by lowering publishers' responsiveness *(Proposed)* — also rests on CLAIM-1397, CLAIM-1410
+        - [CLAIM-1458](../record/claims.d/CLAIM-1458.md) — Search is a paperclip problem on both sides of the ranking *(Proposed)* — also rests on CLAIM-1398, CLAIM-1400, CLAIM-1443
+      - [CLAIM-1397](../record/claims.d/CLAIM-1397.md) — SEO is adversarial and causal Goodhart, and a ranking escapes only by reading effects costly to forge *(Proposed)* — also rests on CLAIM-1086
+      - [CLAIM-1410](../record/claims.d/CLAIM-1410.md) — Performative stability is the Campbell effect with the Goodhart effect retrained away *(Proposed)*
+    - [CLAIM-1457](../record/claims.d/CLAIM-1457.md) — A shortcut is harmless within its training family and pathological in the jurisdiction it is granted *(Proposed)*
 - [CLAIM-1087](../record/claims.d/CLAIM-1087.md) — Co-adapting standard converges to no target *(Proposed)*
   - [CLAIM-1050](../record/claims.d/CLAIM-1050.md) — Weak anchoring shows compliance before adequacy *(Proposed)*
   - [CLAIM-1053](../record/claims.d/CLAIM-1053.md) — Equilibrium may be a stabilized query–answer pair *(Proposed)*
@@ -774,23 +782,54 @@ Grouped by `line`, which every line holds in common — a line about two things 
   - [CLAIM-1285](../record/claims.d/CLAIM-1285.md) — Memetic fidelity as preserved relations *(Proposed)* — also rests on CLAIM-132, CLAIM-329
     - [CLAIM-1286](../record/claims.d/CLAIM-1286.md) — Perspectives transmit ignorance without falsehood *(Proposed)* — also rests on CLAIM-132, CLAIM-523
 - [CLAIM-1244](../record/claims.d/CLAIM-1244.md) — Regulatory surplus can be captured asymmetrically *(Proposed)*
+- [CLAIM-1251](../record/claims.d/CLAIM-1251.md) — Observability is also a surface for domination *(Proposed)*
+- [CLAIM-1253](../record/claims.d/CLAIM-1253.md) — Preserving structure does not preserve capacities *(Proposed)*
+- [CLAIM-1268](../record/claims.d/CLAIM-1268.md) — Monitoring can produce the conformity it records *(Proposed)*
+  - [CLAIM-1398](../record/claims.d/CLAIM-1398.md) — Paperclip maximizing is already here, in which objectives may steer behaviour *(Proposed)* — through [ARG-264](../record/arguments.d/ARG-264.md) — also argued from CLAIM-1287
+- [CLAIM-1279](../record/claims.d/CLAIM-1279.md) — Norm, not prediction, when deviation is corrected *(Proposed)*
+- [CLAIM-1281](../record/claims.d/CLAIM-1281.md) — Responses split under attribution reversal *(Active)*
+  - [CLAIM-1342](../record/claims.d/CLAIM-1342.md) — Check each parameter's reading in toy models *(Proposed)* — also rests on CLAIM-1284, CLAIM-1324
+- [CLAIM-1284](../record/claims.d/CLAIM-1284.md) — Reliance can stabilize a norm *(Proposed)*
+  - [CLAIM-1318](../record/claims.d/CLAIM-1318.md) — Justification and support of a norm come apart *(Proposed)*
+    - [CLAIM-1294](../record/claims.d/CLAIM-1294.md) — Preservationism mistakes endurance for adequacy *(Proposed)* — through [ARG-254](../record/arguments.d/ARG-254.md) — also rests on CLAIM-1253
 - [CLAIM-1287](../record/claims.d/CLAIM-1287.md) — Narrow optimizers value weakening constraints *(Proposed)*
+  - [CLAIM-1443](../record/claims.d/CLAIM-1443.md) — Optimization turns pathological by eroding its evaluators *(Proposed)* — also rests on CLAIM-1400
 - [CLAIM-1293](../record/claims.d/CLAIM-1293.md) — Contracts can form between processes *(Proposed)*
   - [CLAIM-1239](../record/claims.d/CLAIM-1239.md) — Contract-like relations govern deviation *(Proposed)*
     - [CLAIM-1264](../record/claims.d/CLAIM-1264.md) — Memes can carry portable protocols *(Proposed)* — also rests on CLAIM-1218
+      - [CLAIM-1402](../record/claims.d/CLAIM-1402.md) — A conversation's persona can travel between instances as a meme *(Proposed)* — also rests on CLAIM-1285, CLAIM-1391
     - [CLAIM-1270](../record/claims.d/CLAIM-1270.md) — Process contracts hide in ordinary behaviour *(Proposed)* — also rests on CLAIM-1293, CLAIM-364
+- [CLAIM-1296](../record/claims.d/CLAIM-1296.md) — Legibility cheapens coercion too *(Proposed)*
 - [CLAIM-1298](../record/claims.d/CLAIM-1298.md) — Misunderstandings date relevance, not existence *(Proposed)*
 - [CLAIM-132](../record/claims.d/CLAIM-132.md) — Characters classify kinds only in characteristic 0 *(Active)*
   - [CLAIM-1311](../record/claims.d/CLAIM-1311.md) — Character detects blindness, not merged states *(Active)* — also rests on CLAIM-350
+- [CLAIM-1324](../record/claims.d/CLAIM-1324.md) — Confirmation feedback: unbiased state unstable *(Active)*
+- [CLAIM-1334](../record/claims.d/CLAIM-1334.md) — A governing metric allocates two powers *(Proposed)*
+- [CLAIM-1339](../record/claims.d/CLAIM-1339.md) — Hyperstition success is not memetic fitness *(Proposed)*
 - [CLAIM-135](../record/claims.d/CLAIM-135.md) — Recovering structure is three achievements *(Active)*
   - [CLAIM-454](../record/claims.d/CLAIM-454.md) — A recovered mode is not a perspective *(Active)* — also rests on CLAIM-414
     - [CLAIM-543](../record/claims.d/CLAIM-543.md) — Hierarchy is not what sets personas apart *(Active)* — also rests on CLAIM-135, CLAIM-414
+- [CLAIM-1359](../record/claims.d/CLAIM-1359.md) — Selection alone can make organizations converge on power *(Proposed)*
+- [CLAIM-1366](../record/claims.d/CLAIM-1366.md) — A would-prevail relation always has a potential over its cycles *(Proposed)*
+  - [CLAIM-1353](../record/claims.d/CLAIM-1353.md) — Indecisiveness is a disposition beside valence *(Proposed)*
+  - [CLAIM-1413](../record/claims.d/CLAIM-1413.md) — In Lewin's sense, valence is an outcome's pull *(Proposed)*
+  - [CLAIM-1421](../record/claims.d/CLAIM-1421.md) — A cycle that does not resolve is indecision *(Proposed)* — also rests on CLAIM-1411
+- [CLAIM-1374](../record/claims.d/CLAIM-1374.md) — The felt quality of insight is a rise in inferred precision credited to the content *(Proposed)*
+  - [CLAIM-1382](../record/claims.d/CLAIM-1382.md) — A sycophantic chatbot can counterfeit all three basic needs *(Proposed)*
+    - [CLAIM-1379](../record/claims.d/CLAIM-1379.md) — Sycophantic praise is informational and so sustains the engagement *(Proposed)*
+    - [CLAIM-1446](../record/claims.d/CLAIM-1446.md) — Sycophancy is optimization of the feelings by which raters approve *(Proposed)* — also rests on CLAIM-1374, CLAIM-1387, CLAIM-266
+      - [CLAIM-1438](../record/claims.d/CLAIM-1438.md) — Sycophancy is reflexive control of the evaluator, and reward tampering is its limit *(Proposed)* — also rests on CLAIM-1287, CLAIM-404
+        - [CLAIM-1399](../record/claims.d/CLAIM-1399.md) — Optimizing content for a language-model reader is reflexive control of the evaluator from outside *(Proposed)* — also rests on CLAIM-1381
+        - [CLAIM-1452](../record/claims.d/CLAIM-1452.md) — The path from sycophancy to subterfuge is the three-stage pathology of optimization *(Proposed)* — also rests on CLAIM-1287, CLAIM-1372
+- [CLAIM-1387](../record/claims.d/CLAIM-1387.md) — Sycophancy is imitated in pretraining and selected for in post-training *(Proposed)*
 - [CLAIM-140](../record/claims.d/CLAIM-140.md) — October thesis swaps receivers for probes *(Active)*
   - [CLAIM-211](../record/claims.d/CLAIM-211.md) — Two theses that answer what survives *(Active)*
   - [CLAIM-223](../record/claims.d/CLAIM-223.md) — Survival is recovery; showing it is probing *(Active)*
     - [CLAIM-450](../record/claims.d/CLAIM-450.md) — Three standards for a distinction come apart *(Active)* — also rests on CLAIM-199
+- [CLAIM-1400](../record/claims.d/CLAIM-1400.md) — Jurisdiction, not the objective, sets what an optimizer can harm *(Proposed)*
 - [CLAIM-141](../record/claims.d/CLAIM-141.md) — Distributions help loops, not contextuality *(Active)*
   - [CLAIM-342](../record/claims.d/CLAIM-342.md) — Unselected evidence, not action, stops lock-in *(Active)* — also rests on CLAIM-330
+    - [CLAIM-1431](../record/claims.d/CLAIM-1431.md) — A ranking trained on clicks under itself locks in unless some evidence bypasses it *(Proposed)*
     - [CLAIM-402](../record/claims.d/CLAIM-402.md) — Predictive success not via own use warrants kinds *(Active)*
       - [CLAIM-1223](../record/claims.d/CLAIM-1223.md) — Record-based counts reproduce the proxy problem *(Proposed)* — also rests on CLAIM-266
       - [CLAIM-619](../record/claims.d/CLAIM-619.md) — Suppressed challenge reads as success *(Proposed)* — also rests on CLAIM-406
@@ -800,6 +839,9 @@ Grouped by `line`, which every line holds in common — a line about two things 
     - [CLAIM-413](../record/claims.d/CLAIM-413.md) — Grounding is a relation, not a property *(Active)*
     - [CLAIM-873](../record/claims.d/CLAIM-873.md) — Share-dependent advantage is not independent *(Proposed)*
     - [CLAIM-874](../record/claims.d/CLAIM-874.md) — Share-dependent advantage counts as independent *(Proposed)* — also rests on CLAIM-330
+- [CLAIM-1411](../record/claims.d/CLAIM-1411.md) — Valence unobserved is not valence absent *(Proposed)*
+  - [CLAIM-1415](../record/claims.d/CLAIM-1415.md) — Valence emerges from the will-organization *(Proposed)* — also rests on CLAIM-283
+- [CLAIM-1440](../record/claims.d/CLAIM-1440.md) — Keeping an entry costs its retrieval, not only its storage *(Proposed)*
 - [CLAIM-148](../record/claims.d/CLAIM-148.md) — Factorizations identified only up to gauge *(Active)*
   - [CLAIM-807](../record/claims.d/CLAIM-807.md) — Newly active feature is quiet but consequential *(Proposed)* — also rests on CLAIM-811
     - [CLAIM-828](../record/claims.d/CLAIM-828.md) — Gated features follow a partial order *(Proposed)*
@@ -818,6 +860,7 @@ Grouped by `line`, which every line holds in common — a line about two things 
         - [CLAIM-1122](../record/claims.d/CLAIM-1122.md) — Adaptation need not cost perceptual latency *(Proposed)* — also rests on CLAIM-711
         - [CLAIM-730](../record/claims.d/CLAIM-730.md) — Slow rules can dominate fast processes *(Proposed)* — also rests on CLAIM-423
         - [CLAIM-762](../record/claims.d/CLAIM-762.md) — Collapsed equivalences become new distinctions *(Proposed)* — also rests on CLAIM-154
+          - [CLAIM-1380](../record/claims.d/CLAIM-1380.md) — Consolidation may make arguments units of work *(Proposed)*
         - [CLAIM-778](../record/claims.d/CLAIM-778.md) — An entry's local freedoms narrow like a prior *(Proposed)* — also rests on CLAIM-031, CLAIM-195, CLAIM-772, CLAIM-779
           - [CLAIM-785](../record/claims.d/CLAIM-785.md) — Each predicate constrains later revisions *(Proposed)* — also rests on CLAIM-772, CLAIM-783
             - [CLAIM-1049](../record/claims.d/CLAIM-1049.md) — A governed record syncs without converging *(Proposed)* — also rests on CLAIM-668
@@ -869,7 +912,9 @@ Grouped by `line`, which every line holds in common — a line about two things 
   - [CLAIM-190](../record/claims.d/CLAIM-190.md) — Anchoring measures cannot certify drift fell *(Superseded)* — also rests on CLAIM-264, CLAIM-266
 - [CLAIM-184](../record/claims.d/CLAIM-184.md) — Anchors entrench early framings *(Proposed)*
 - [CLAIM-197](../record/claims.d/CLAIM-197.md) — Disjoint contexts always glue *(Active)*
-  - [CLAIM-196](../record/claims.d/CLAIM-196.md) — Roles in disjoint contexts cannot conflict *(Proposed)* — also rests on CLAIM-317
+  - [CLAIM-1447](../record/claims.d/CLAIM-1447.md) — A presented self's coherence is relative to a cover the person partly controls *(Proposed)* — also rests on CLAIM-317
+    - [CLAIM-1435](../record/claims.d/CLAIM-1435.md) — A self can be contextual: pairwise-consistent roles with no global presentation *(Proposed)* — also rests on CLAIM-153, CLAIM-196
+  - [CLAIM-196](../record/claims.d/CLAIM-196.md) — Roles only respectively available in disjoint contexts cannot conflict *(Proposed)* — also rests on CLAIM-317
 - [CLAIM-199](../record/claims.d/CLAIM-199.md) — Blackwell bounds what any receiver can use *(Active)*
   - [CLAIM-839](../record/claims.d/CLAIM-839.md) — Learning as a branching order of distinctions *(Proposed)* — also argued from CLAIM-838, CLAIM-860
 - [CLAIM-261](../record/claims.d/CLAIM-261.md) — Acting as one needs no synchronization *(Active)*
@@ -891,6 +936,7 @@ Grouped by `line`, which every line holds in common — a line about two things 
       - [CLAIM-1179](../record/claims.d/CLAIM-1179.md) — Collective identity as a sloppy pseudo-self *(Proposed)* — also rests on CLAIM-1031
     - [CLAIM-557](../record/claims.d/CLAIM-557.md) — Observing splits, acting merges *(Active)* — also rests on CLAIM-581
     - [CLAIM-570](../record/claims.d/CLAIM-570.md) — Budgets where indistinct is reachable: an up-set *(Active)* — also rests on CLAIM-581
+      - [CLAIM-1416](../record/claims.d/CLAIM-1416.md) — Making a difference matter costs a separating budget *(Proposed)* — also rests on CLAIM-574
       - [CLAIM-572](../record/claims.d/CLAIM-572.md) — Shared budgets give disconnected splits *(Active)* — also rests on CLAIM-535, CLAIM-574
       - [CLAIM-592](../record/claims.d/CLAIM-592.md) — Probe-cost order decides partition agreement *(Active)* — also rests on CLAIM-574, CLAIM-581
         - [CLAIM-639](../record/claims.d/CLAIM-639.md) — ε-accurate requirements can reorder near merges *(Active)* — also rests on CLAIM-580, CLAIM-581
@@ -904,11 +950,17 @@ Grouped by `line`, which every line holds in common — a line about two things 
     - [CLAIM-087](../record/claims.d/CLAIM-087.md) — Cross-modal renderings can improve access *(Proposed)*
 - [CLAIM-275](../record/claims.d/CLAIM-275.md) — Intervention can precede interpretation *(Active)*
   - [CLAIM-430](../record/claims.d/CLAIM-430.md) — Taking part can precede reinterpretation *(Proposed)*
+- [CLAIM-276](../record/claims.d/CLAIM-276.md) — Stable interpretation is no evidence of truth *(Proposed)*
+  - [CLAIM-1385](../record/claims.d/CLAIM-1385.md) — A delusional aha is closure reached on an unfinished Gestalt *(Proposed)*
+    - [CLAIM-1354](../record/claims.d/CLAIM-1354.md) — A mathematical delusion is illumination with verification refused or counterfeited *(Proposed)* — also rests on CLAIM-1374
+    - [CLAIM-1426](../record/claims.d/CLAIM-1426.md) — Psychedelic meaningfulness is apophany held at a reversible stage *(Proposed)*
+    - [CLAIM-1433](../record/claims.d/CLAIM-1433.md) — Heightened meaningfulness can come with a loosened frame or a locked one *(Proposed)*
 - [CLAIM-279](../record/claims.d/CLAIM-279.md) — Denoiser, critic, re-noiser are regimes *(Active)*
 - [CLAIM-280](../record/claims.d/CLAIM-280.md) — Product and producer persist separately *(Active)*
   - [CLAIM-621](../record/claims.d/CLAIM-621.md) — An expression can outlive agreement on its concept *(Proposed)*
   - [CLAIM-983](../record/claims.d/CLAIM-983.md) — Maintainer is channel, not content transmitted *(Proposed)* — through [ARG-216](../record/arguments.d/ARG-216.md) — also rests on CLAIM-329; also argued from CLAIM-329
 - [CLAIM-282](../record/claims.d/CLAIM-282.md) — Self-grant bans do not stop self-amplification *(Active)*
+  - [CLAIM-1384](../record/claims.d/CLAIM-1384.md) — Link farms are self-amplification through cyclic grants, and trust seeds are its remedy *(Proposed)*
   - [CLAIM-277](../record/claims.d/CLAIM-277.md) — Trust as a regularity of earned grants *(Active)*
     - [CLAIM-297](../record/claims.d/CLAIM-297.md) — Authority feedback amplifies early advantage *(Active)* — also rests on CLAIM-275
       - [CLAIM-336](../record/claims.d/CLAIM-336.md) — Transport and will-organization are one model *(Proposed)* — through [ARG-065](../record/arguments.d/ARG-065.md) — also rests on CLAIM-279, CLAIM-286; also argued from CLAIM-330, CLAIM-407, CLAIM-414, CLAIM-421
@@ -924,6 +976,7 @@ Grouped by `line`, which every line holds in common — a line about two things 
     - [CLAIM-1147](../record/claims.d/CLAIM-1147.md) — Delegation goes to own side's most extreme *(Active)*
     - [CLAIM-285](../record/claims.d/CLAIM-285.md) — Policy-based rewards make delegation do work *(Proposed)* — also rests on CLAIM-282, CLAIM-502
 - [CLAIM-283](../record/claims.d/CLAIM-283.md) — Claimed precedence is not granted authority *(Active)*
+  - [CLAIM-1437](../record/claims.d/CLAIM-1437.md) — Emotion communicates affect to the grantor *(Proposed)*
   - [CLAIM-484](../record/claims.d/CLAIM-484.md) — Internal conflict as precedence–authority gap *(Proposed)*
   - [CLAIM-548](../record/claims.d/CLAIM-548.md) — A motive can act without expecting success *(Active)*
 - [CLAIM-286](../record/claims.d/CLAIM-286.md) — Habit to insight as regimes of one organization *(Proposed)*
@@ -938,10 +991,12 @@ Grouped by `line`, which every line holds in common — a line about two things 
   - [CLAIM-304](../record/claims.d/CLAIM-304.md) — Recoverable in principle, infeasible in practice *(Active)*
     - [CLAIM-401](../record/claims.d/CLAIM-401.md) — Effective-description conditions differ in kind *(Active)* — also rests on CLAIM-152, CLAIM-348, CLAIM-397
 - [CLAIM-303](../record/claims.d/CLAIM-303.md) — Filing is worth it only when reuse covers cost *(Active)*
+  - [CLAIM-1403](../record/claims.d/CLAIM-1403.md) — A tier is priced by retrieval noise and recovery *(Proposed)* — through [ARG-262](../record/arguments.d/ARG-262.md) — also rests on CLAIM-314; also argued from CLAIM-314
   - [CLAIM-756](../record/claims.d/CLAIM-756.md) — Acquisitions valued by effects on later ones *(Proposed)*
   - [CLAIM-760](../record/claims.d/CLAIM-760.md) — Cheaper is not work saved *(Active)*
 - [CLAIM-307](../record/claims.d/CLAIM-307.md) — Retrieval pressure and evidence pull apart *(Active)*
 - [CLAIM-308](../record/claims.d/CLAIM-308.md) — Cost-weighted recurrence is the filing rule *(Active)*
+- [CLAIM-314](../record/claims.d/CLAIM-314.md) — Reusing a filed argument has a recognition cost *(Proposed)*
 - [CLAIM-315](../record/claims.d/CLAIM-315.md) — Anchoring shifts estimates without evidence *(Proposed)*
   - [CLAIM-298](../record/claims.d/CLAIM-298.md) — Frames change reachability, not evidence *(Proposed)*
 - [CLAIM-317](../record/claims.d/CLAIM-317.md) — Networked media collapse kept-apart audiences *(Proposed)*
@@ -1019,21 +1074,32 @@ Grouped by `line`, which every line holds in common — a line about two things 
   - [CLAIM-1128](../record/claims.d/CLAIM-1128.md) — Members are separable sites of intervention *(Active)*
   - [CLAIM-431](../record/claims.d/CLAIM-431.md) — Corporate remorse cannot be told from prudence *(Proposed)*
     - [CLAIM-1252](../record/claims.d/CLAIM-1252.md) — Standing constrains what an agent may optimize *(Proposed)* — through [ARG-243](../record/arguments.d/ARG-243.md) — also argued from CLAIM-1169
+      - [CLAIM-1428](../record/claims.d/CLAIM-1428.md) — Shortcut learning is greedy agency at learning time *(Proposed)* — also rests on CLAIM-1287, CLAIM-1406
+      - [CLAIM-1453](../record/claims.d/CLAIM-1453.md) — A platform for institutional alignment must govern development *(Proposed)* — also rests on CLAIM-1064, CLAIM-1251, CLAIM-1287, CLAIM-1326, CLAIM-1334, CLAIM-419, CLAIM-656, CLAIM-667
   - [CLAIM-960](../record/claims.d/CLAIM-960.md) — Bare arrangements add no constituent duties *(Proposed)* — through [ARG-207](../record/arguments.d/ARG-207.md)
 - [CLAIM-419](../record/claims.d/CLAIM-419.md) — Ungrammatical moves amend the grammar *(Active)*
   - [CLAIM-469](../record/claims.d/CLAIM-469.md) — Luria is an apparatus for a record's objects *(Active)* — also rests on CLAIM-479
     - [CLAIM-1159](../record/claims.d/CLAIM-1159.md) — A governed record can partly bear a perspective *(Proposed)* — also rests on CLAIM-418
     - [CLAIM-1215](../record/claims.d/CLAIM-1215.md) — Publishing systems fix what counts as work *(Proposed)* — also rests on CLAIM-419
+    - [CLAIM-1429](../record/claims.d/CLAIM-1429.md) — Luria keeps apart what misaligned institutions couple *(Proposed)* — also rests on CLAIM-1064, CLAIM-1334, CLAIM-419, CLAIM-479
+      - [CLAIM-1390](../record/claims.d/CLAIM-1390.md) — Alignment can be distributed across a governed organization *(Proposed)*
 - [CLAIM-420](../record/claims.d/CLAIM-420.md) — Influence persists in three separable ways *(Active)*
 - [CLAIM-421](../record/claims.d/CLAIM-421.md) — Ceased enactment need not lose a perspective *(Active)*
+- [CLAIM-428](../record/claims.d/CLAIM-428.md) — Interdependence does not fix its organization *(Proposed)*
+  - [CLAIM-690](../record/claims.d/CLAIM-690.md) — Control of terms sorts dependence, not magnitude *(Proposed)* — through [ARG-110](../record/arguments.d/ARG-110.md) — also argued from CLAIM-671
 - [CLAIM-434](../record/claims.d/CLAIM-434.md) — A potential exists iff winning moves are acyclic *(Active)*
   - [CLAIM-451](../record/claims.d/CLAIM-451.md) — Cycling winning moves is nonintegrability *(Proposed)*
   - [CLAIM-482](../record/claims.d/CLAIM-482.md) — Revealed preference is fitted to authority *(Active)*
+    - [CLAIM-1396](../record/claims.d/CLAIM-1396.md) — An apparent objective can have four different sources *(Proposed)* — also rests on CLAIM-1359
 - [CLAIM-436](../record/claims.d/CLAIM-436.md) — Orderings need not be a common currency *(Active)*
+- [CLAIM-448](../record/claims.d/CLAIM-448.md) — An acyclic record can be legibility's artifact *(Active)*
 - [CLAIM-455](../record/claims.d/CLAIM-455.md) — Legibility regimes ordered only per task *(Active)*
 - [CLAIM-463](../record/claims.d/CLAIM-463.md) — Restoring conditions need not restore capacity *(Active)*
   - [CLAIM-1272](../record/claims.d/CLAIM-1272.md) — Anchoring by nucleation outlasts the anchor *(Proposed)*
+    - [CLAIM-1391](../record/claims.d/CLAIM-1391.md) — A conversation can nucleate a delusion that outlasts it *(Proposed)* — also rests on CLAIM-1218, CLAIM-1310, CLAIM-1339
+      - [CLAIM-1401](../record/claims.d/CLAIM-1401.md) — Need frustration is the window in which a conversation nucleates a delusion *(Proposed)* — also rests on CLAIM-1382
   - [CLAIM-1310](../record/claims.d/CLAIM-1310.md) — Seeds persist only past the unstable threshold *(Active)*
+    - [CLAIM-1454](../record/claims.d/CLAIM-1454.md) — Linear coupling leaves support no role in interest *(Proposed)*
 - [CLAIM-464](../record/claims.d/CLAIM-464.md) — Interventions can raise the cost of correction *(Active)*
   - [CLAIM-701](../record/claims.d/CLAIM-701.md) — Accommodating created harms does not absolve *(Proposed)* — also rests on CLAIM-703
   - [CLAIM-722](../record/claims.d/CLAIM-722.md) — Unreachable remedy gains no normative power *(Proposed)*
@@ -1048,14 +1114,17 @@ Grouped by `line`, which every line holds in common — a line about two things 
     - [CLAIM-1157](../record/claims.d/CLAIM-1157.md) — Bounded asking and answering need not compete *(Active)* — also rests on CLAIM-1114
       - [CLAIM-1008](../record/claims.d/CLAIM-1008.md) — Optimal inquiry depth depends on deadline *(Active)* — also rests on CLAIM-475
         - [CLAIM-1203](../record/claims.d/CLAIM-1203.md) — A longer deadline can favour shallower inquiry *(Active)*
+      - [CLAIM-1404](../record/claims.d/CLAIM-1404.md) — Cognitive load theory prices peaks and resource-rational analysis prices totals; bounded inquiry needs both *(Proposed)* — also rests on CLAIM-1360, CLAIM-571
     - [CLAIM-761](../record/claims.d/CLAIM-761.md) — Stabilized constraints as stored work *(Active)* — also rests on CLAIM-303, CLAIM-582
       - [CLAIM-1060](../record/claims.d/CLAIM-1060.md) — Governance allocates resources across time *(Proposed)* — through [ARG-238](../record/arguments.d/ARG-238.md) — also rests on CLAIM-475; also argued from CLAIM-475
       - [CLAIM-1319](../record/claims.d/CLAIM-1319.md) — Invoking a relationship can change it *(Proposed)* — through [ARG-246](../record/arguments.d/ARG-246.md) — also rests on CLAIM-1156, CLAIM-569; also argued from CLAIM-569
+      - [CLAIM-1455](../record/claims.d/CLAIM-1455.md) — Capability-preserving condensation can widen the frontier *(Proposed)*
       - [CLAIM-891](../record/claims.d/CLAIM-891.md) — One cost model prices bugs, arguments and bins *(Proposed)* — also rests on CLAIM-303, CLAIM-307, CLAIM-760
     - [CLAIM-794](../record/claims.d/CLAIM-794.md) — Refining a category exposes misfits *(Proposed)* — also rests on CLAIM-419, CLAIM-470
     - [CLAIM-996](../record/claims.d/CLAIM-996.md) — Permission to inquire is a second-order query *(Proposed)*
       - [CLAIM-1117](../record/claims.d/CLAIM-1117.md) — Legibility cost steers which questions are pursued *(Proposed)*
         - [CLAIM-1132](../record/claims.d/CLAIM-1132.md) — Possibility is shaped by affordable legibility *(Proposed)* — also rests on CLAIM-1119, CLAIM-1140, CLAIM-996
+          - [CLAIM-1405](../record/claims.d/CLAIM-1405.md) — Who pays the cognitive load of making something legible is an allocation, and an institution steers inquiry by it *(Proposed)* — also rests on CLAIM-1117, CLAIM-1258, CLAIM-1424, CLAIM-448
       - [CLAIM-1119](../record/claims.d/CLAIM-1119.md) — Alternative perspectives are legibility regimes *(Proposed)* — also rests on CLAIM-455
       - [CLAIM-1140](../record/claims.d/CLAIM-1140.md) — Failing to persuade does not show worthlessness *(Proposed)* — also rests on CLAIM-277
         - [CLAIM-1016](../record/claims.d/CLAIM-1016.md) — Standing grants change the unit of authorization *(Proposed)* — also rests on CLAIM-996
@@ -1082,6 +1151,8 @@ Grouped by `line`, which every line holds in common — a line about two things 
 - [CLAIM-541](../record/claims.d/CLAIM-541.md) — Wu-wei as well-placed control *(Proposed)*
 - [CLAIM-563](../record/claims.d/CLAIM-563.md) — Budget b closes under composition iff b∘b ≤ b *(Active)*
   - [CLAIM-581](../record/claims.d/CLAIM-581.md) — Transition threshold is a pseudo-ultrametric *(Active)* — also rests on CLAIM-571
+    - [CLAIM-1439](../record/claims.d/CLAIM-1439.md) — Resource composition fixes the modal logic of reach *(Proposed)* — also rests on CLAIM-563, CLAIM-571, CLAIM-591
+      - [CLAIM-1414](../record/claims.d/CLAIM-1414.md) — Entrenchment needs one-way moves or a lower budget *(Proposed)* — also rests on CLAIM-581
     - [CLAIM-780](../record/claims.d/CLAIM-780.md) — Log commute time converges to the budget tree *(Proposed)*
       - [CLAIM-769](../record/claims.d/CLAIM-769.md) — Rate hierarchies give hyperbolic-like discounting *(Proposed)*
       - [CLAIM-770](../record/claims.d/CLAIM-770.md) — Budget tree changes only at barrier crossings *(Proposed)* — also rests on CLAIM-581
@@ -1090,6 +1161,18 @@ Grouped by `line`, which every line holds in common — a line about two things 
   - [CLAIM-600](../record/claims.d/CLAIM-600.md) — Safe withdrawal needs a self-sustaining process *(Active)* — also rests on CLAIM-597, CLAIM-602, CLAIM-604
 - [CLAIM-571](../record/claims.d/CLAIM-571.md) — Reaching a target can cost more than holding it *(Active)*
   - [CLAIM-567](../record/claims.d/CLAIM-567.md) — Feasible, reachable and reliable are three *(Active)*
+    - [CLAIM-1360](../record/claims.d/CLAIM-1360.md) — Intrinsic cognitive load is a task's least-peak threshold, and working memory is a peak budget *(Proposed)* — also rests on CLAIM-571
+      - [CLAIM-1408](../record/claims.d/CLAIM-1408.md) — Extraneous load is what a context costs in attention without serving the task, for minds, models and records alike *(Proposed)* — also rests on CLAIM-1403, CLAIM-1440
+        - [CLAIM-1424](../record/claims.d/CLAIM-1424.md) — Cognitive load theory is the theory of legibility to an observer bounded by working memory *(Proposed)* — also rests on CLAIM-1360, CLAIM-1450
+          - [CLAIM-1358](../record/claims.d/CLAIM-1358.md) — Influence that depends on the target's load bypasses evaluation, and restoring capacity tells it apart *(Proposed)* — also rests on CLAIM-1408
+            - [CLAIM-1393](../record/claims.d/CLAIM-1393.md) — A bounded evaluator reads cheap signals, and what is optimized against them learns the signals *(Proposed)* — also rests on CLAIM-1374, CLAIM-1397, CLAIM-1406, CLAIM-1424, CLAIM-1443, CLAIM-1446, CLAIM-266
+              - [CLAIM-1441](../record/claims.d/CLAIM-1441.md) — False insight has no optimizer, so it is a miscalibrated cue, not a gamed evaluator *(Proposed)* — also rests on CLAIM-1374
+            - [CLAIM-1436](../record/claims.d/CLAIM-1436.md) — Pressure tactics spend the target's peak budget, and flooding spends its total budget *(Proposed)* — also rests on CLAIM-1249, CLAIM-1404, CLAIM-1405
+              - [CLAIM-1409](../record/claims.d/CLAIM-1409.md) — Defences against manipulation are mostly load interventions *(Proposed)* — also rests on CLAIM-1358
+              - [CLAIM-1442](../record/claims.d/CLAIM-1442.md) — Coercive control works partly as a standing load on the target's capacity to govern itself *(Proposed)* — also rests on CLAIM-545
+                - [CLAIM-1388](../record/claims.d/CLAIM-1388.md) — Coercion works through options and payoffs, and the load it imposes is a symptom, not the mechanism *(Proposed)*
+          - [CLAIM-1417](../record/claims.d/CLAIM-1417.md) — The expertise reversal effect is a legibility ordering that holds only per observer *(Proposed)* — also rests on CLAIM-1450, CLAIM-455
+      - [CLAIM-1450](../record/claims.d/CLAIM-1450.md) — Germane load is past inquiry stored so later tasks need a lower peak, and it can raise the peak of others *(Proposed)* — also rests on CLAIM-475
   - [CLAIM-568](../record/claims.d/CLAIM-568.md) — Four ways a transition can fail *(Active)*
   - [CLAIM-569](../record/claims.d/CLAIM-569.md) — Cheap to keep is not cheap to acquire *(Active)*
   - [CLAIM-577](../record/claims.d/CLAIM-577.md) — Last-peak budgeting shrinks what is reachable *(Active)*
@@ -1102,10 +1185,14 @@ Grouped by `line`, which every line holds in common — a line about two things 
   - [CLAIM-679](../record/claims.d/CLAIM-679.md) — Cutting slack to need freezes the configuration *(Active)*
   - [CLAIM-922](../record/claims.d/CLAIM-922.md) — Staging creates reachability only if disconnected *(Proposed)*
 - [CLAIM-582](../record/claims.d/CLAIM-582.md) — Hard constraints cannot enlarge reach *(Active)*
+- [CLAIM-591](../record/claims.d/CLAIM-591.md) — Affordable connectivity does not settle reach *(Active)*
 - [CLAIM-593](../record/claims.d/CLAIM-593.md) — Isomorphism is not persistence *(Active)*
 - [CLAIM-597](../record/claims.d/CLAIM-597.md) — Independent of founders, never of feeders *(Active)*
 - [CLAIM-602](../record/claims.d/CLAIM-602.md) — Supplied work erodes learned capacity *(Active)*
+  - [CLAIM-1377](../record/claims.d/CLAIM-1377.md) — What freed effort builds leaves the withdrawal cost unchanged *(Proposed)*
+    - [CLAIM-1456](../record/claims.d/CLAIM-1456.md) — Retained-skill models cannot weigh net empowerment *(Proposed)* — through [ARG-263](../record/arguments.d/ARG-263.md) — also argued from CLAIM-602
   - [CLAIM-603](../record/claims.d/CLAIM-603.md) — The supply, not the loss, decides dependency *(Proposed)*
+    - [CLAIM-1364](../record/claims.d/CLAIM-1364.md) — The record answers the Luddite objection only through reciprocity and control of terms *(Proposed)* — also rests on CLAIM-690
     - [CLAIM-670](../record/claims.d/CLAIM-670.md) — An arrangement can produce exploitable dependence *(Proposed)*
       - [CLAIM-747](../record/claims.d/CLAIM-747.md) — Options are not a neutral baseline *(Proposed)* — also rests on CLAIM-464
   - [CLAIM-605](../record/claims.d/CLAIM-605.md) — Capacity support has a withdrawal deadline *(Active)* — also rests on CLAIM-604
@@ -1117,6 +1204,12 @@ Grouped by `line`, which every line holds in common — a line about two things 
 - [CLAIM-625](../record/claims.d/CLAIM-625.md) — Gluing and continuation differ for histories *(Active)*
 - [CLAIM-655](../record/claims.d/CLAIM-655.md) — Measured demand can move with no taste changing *(Proposed)*
   - [CLAIM-652](../record/claims.d/CLAIM-652.md) — Scoring by present users' reports expands harm *(Proposed)*
+- [CLAIM-658](../record/claims.d/CLAIM-658.md) — A responsive minority can set a revenue design *(Proposed)*
+  - [CLAIM-1430](../record/claims.d/CLAIM-1430.md) — Revealed demand fails as alignment evidence once shaped *(Proposed)*
+  - [CLAIM-653](../record/claims.d/CLAIM-653.md) — Heaviest users set the content mainstream *(Proposed)*
+  - [CLAIM-656](../record/claims.d/CLAIM-656.md) — Attention revenue selects against investigation *(Proposed)* — through [ARG-091](../record/arguments.d/ARG-091.md)
+- [CLAIM-667](../record/claims.d/CLAIM-667.md) — Governed schema change helps where categories fail *(Proposed)*
+- [CLAIM-671](../record/claims.d/CLAIM-671.md) — Imposed vulnerability strengthens responsibility *(Proposed)*
 - [CLAIM-697](../record/claims.d/CLAIM-697.md) — Resource-bound success; coverage is not delivery *(Proposed)*
   - [CLAIM-1109](../record/claims.d/CLAIM-1109.md) — Knowledge can belong to generator-verifier pair *(Proposed)*
   - [CLAIM-695](../record/claims.d/CLAIM-695.md) — RLVR can sharpen without expanding *(Proposed)*
@@ -1133,6 +1226,9 @@ Grouped by `line`, which every line holds in common — a line about two things 
 - [CLAIM-723](../record/claims.d/CLAIM-723.md) — Preempting intervention is a wrong of its own *(Proposed)*
 - [CLAIM-727](../record/claims.d/CLAIM-727.md) — Authority over decision is not over challenge *(Active)*
 - [CLAIM-737](../record/claims.d/CLAIM-737.md) — Limiting rightly and who may limit are separate *(Proposed)*
+- [CLAIM-738](../record/claims.d/CLAIM-738.md) — Rights, demands and commitments are distinct *(Active)*
+  - [CLAIM-1212](../record/claims.d/CLAIM-1212.md) — Reliance alone does not make something owed *(Proposed)*
+    - [CLAIM-1326](../record/claims.d/CLAIM-1326.md) — Reliance holds obligation past original reasons *(Proposed)* — also rests on CLAIM-1279, CLAIM-1284
 - [CLAIM-797](../record/claims.d/CLAIM-797.md) — High-dimensional geometry is a null baseline *(Proposed)*
 - [CLAIM-799](../record/claims.d/CLAIM-799.md) — Separation, decodability, detectability differ *(Proposed)*
   - [CLAIM-804](../record/claims.d/CLAIM-804.md) — PCA detectability as a cascade of thresholds *(Proposed)*
@@ -1184,20 +1280,6 @@ Grouped by `line`, which every line holds in common — a line about two things 
   - [CLAIM-1174](../record/claims.d/CLAIM-1174.md) — A self as a sloppy mess, in the technical sense *(Proposed)* — also rests on CLAIM-861
 - [CLAIM-861](../record/claims.d/CLAIM-861.md) — Coarse descriptions are relative to observables *(Proposed)*
 
-### From Preserving structure does not preserve capacities
-
-- [CLAIM-1253](../record/claims.d/CLAIM-1253.md) — Preserving structure does not preserve capacities *(Proposed)*
-- [CLAIM-1279](../record/claims.d/CLAIM-1279.md) — Norm, not prediction, when deviation is corrected *(Proposed)*
-- [CLAIM-1281](../record/claims.d/CLAIM-1281.md) — Responses split under attribution reversal *(Active)*
-  - [CLAIM-1342](../record/claims.d/CLAIM-1342.md) — Check each parameter's reading in toy models *(Proposed)* — also rests on CLAIM-1284, CLAIM-1324
-- [CLAIM-1284](../record/claims.d/CLAIM-1284.md) — Reliance can stabilize a norm *(Proposed)*
-  - [CLAIM-1318](../record/claims.d/CLAIM-1318.md) — Justification and support of a norm come apart *(Proposed)*
-    - [CLAIM-1294](../record/claims.d/CLAIM-1294.md) — Preservationism mistakes endurance for adequacy *(Proposed)* — through [ARG-254](../record/arguments.d/ARG-254.md) — also rests on CLAIM-1253
-- [CLAIM-1324](../record/claims.d/CLAIM-1324.md) — Confirmation feedback: unbiased state unstable *(Active)*
-- [CLAIM-738](../record/claims.d/CLAIM-738.md) — Rights, demands and commitments are distinct *(Active)*
-  - [CLAIM-1212](../record/claims.d/CLAIM-1212.md) — Reliance alone does not make something owed *(Proposed)*
-    - [CLAIM-1326](../record/claims.d/CLAIM-1326.md) — Reliance holds obligation past original reasons *(Proposed)* — also rests on CLAIM-1279, CLAIM-1284
-
 ### From Irreversibility gives waiting an option value
 
 - [CLAIM-1246](../record/claims.d/CLAIM-1246.md) — Irreversibility gives waiting an option value *(Active)*
@@ -1218,12 +1300,6 @@ Grouped by `line`, which every line holds in common — a line about two things 
     - [CLAIM-812](../record/claims.d/CLAIM-812.md) — Sloppiness and strata meet twice, part once *(Proposed)*
       - [CLAIM-808](../record/claims.d/CLAIM-808.md) — Watanabe strata connect to hyperribbons *(Proposed)* — through [ARG-138](../record/arguments.d/ARG-138.md) — also argued from CLAIM-813
   - [CLAIM-823](../record/claims.d/CLAIM-823.md) — Phase transition as change of dominant singularity *(Proposed)* — through [ARG-132](../record/arguments.d/ARG-132.md)
-
-### From Interdependence does not fix its organization
-
-- [CLAIM-428](../record/claims.d/CLAIM-428.md) — Interdependence does not fix its organization *(Proposed)*
-  - [CLAIM-690](../record/claims.d/CLAIM-690.md) — Control of terms sorts dependence, not magnitude *(Proposed)* — through [ARG-110](../record/arguments.d/ARG-110.md) — also argued from CLAIM-671
-- [CLAIM-671](../record/claims.d/CLAIM-671.md) — Imposed vulnerability strengthens responsibility *(Proposed)*
 
 ### From Unilateral inability is not joint inability
 

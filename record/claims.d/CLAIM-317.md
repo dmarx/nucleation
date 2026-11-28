@@ -129,9 +129,9 @@ last clause and does not meet the defeated_if.
 
 ## Note of 2026-11-26: tautology, and where the content is
 
-<!-- inactive-ok-block: CLAIM-tmprejdn — new; the claim this note points to -->
+<!-- inactive-ok-block: CLAIM-1435 — new; the claim this note points to -->
 
-A consequence drawn in [CLAIM-tmprejdn](CLAIM-tmprejdn.md): collapse that brings three
+A consequence drawn in [CLAIM-1435](CLAIM-1435.md): collapse that brings three
 audiences into pairwise contact can make a presentation incoherent though
 no two audiences' presentations ever clash, because the obstruction lies on
 the cycle ([CLAIM-153](CLAIM-153.md)). Collapse can therefore harm a self in a way this
@@ -139,9 +139,9 @@ claim's "the presentations collide" does not yet name. No status change.
 
 ## Note of 2026-11-26: what the management manages
 
-<!-- inactive-ok-block: CLAIM-tmpw7swg — new; the claim this note points to -->
+<!-- inactive-ok-block: CLAIM-1447 — new; the claim this note points to -->
 
-[CLAIM-tmpw7swg](CLAIM-tmpw7swg.md) rests on this claim. It reads the management this claim
+[CLAIM-1447](CLAIM-1447.md) rests on this claim. It reads the management this claim
 describes ("people keep them apart and script the occasions where they must
 meet") as control of the cover, and draws a consequence this claim does not
 state. Where collapse removes that control, the pressure to repair falls on

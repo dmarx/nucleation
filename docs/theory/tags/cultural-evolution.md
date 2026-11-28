@@ -6,8 +6,8 @@
 
 **Cultural evolution and memetics** — how culture is transmitted, varies and is selected — memes in Dawkins's sense and their critics, cultural attractors, dual inheritance, contagion and diffusion of ideas, and what a transmitted unit carries between carriers (ADR-150).
 
-0 of 2310 THEORY documents. Back to the [full index](../README.md).
+1 of 2329 THEORY documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [THEORY-2324](../../../record/theory.d/THEORY-2324.md) | Chatbots can co-create delusions in the vulnerable by drift | Morrin et al. (2025), [LIT-3299](../../../record/literature.d/LIT-3299.md), read in [NOTE-2430](../../../record/notes.d/NOTE-2430.md). Proposed: a perspective piece resting on 17 second-hand vignettes. | Proposed |

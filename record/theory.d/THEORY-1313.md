@@ -82,4 +82,4 @@ without moving the vector. In the reported data they did not.
 ## Note of 2026-11-27: a limit on reach
 
 
-In Gupta, Liu and Zou's steering comparison ([NOTE-tmpanw10](../notes.d/NOTE-tmpanw10.md)), contrastive activation addition, the difference-of-means method behind persona vectors, gives +0.05 F1 against extraneous load. Directions that predict a trait need not be directions that relieve a load.
+In Gupta, Liu and Zou's steering comparison ([NOTE-2425](../notes.d/NOTE-2425.md)), contrastive activation addition, the difference-of-means method behind persona vectors, gives +0.05 F1 against extraneous load. Directions that predict a trait need not be directions that relieve a load.

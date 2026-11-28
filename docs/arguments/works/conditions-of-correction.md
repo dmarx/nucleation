@@ -6,7 +6,7 @@
 
 **Representation, Legibility, Learning, and the Conditions of Correction** — Article 1 of three drafted by ChatGPT on 2026-11-25 (A45 of the exchange "Hyper article interpretation", at the owner's U21), the hyperarticle atlas's first entry point: the record's theory of inquiry in the abstract. Inquiry is resource-bounded specification; a representation makes some differences consequential; legibility is relative to a decision; recognizing an error is not correcting it; learning needs more than retention; and inquiry must be able to reconsider its own apparatus. Its argument is held mainly in the lines learning-and-inquiry, records-of-inquiry and self-correction (ADR-145).
 
-0 of 260 ARG documents. Back to the [full index](../README.md).
+0 of 270 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

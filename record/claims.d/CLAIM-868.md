@@ -34,6 +34,7 @@ defeated_if: >-
   keeps its channel, which CLAIM-866 and CLAIM-867 divide over.
 tags:
 - agency
+- persuasion-and-influence
 - self-governance
 - free-will
 date: '2026-11-22'

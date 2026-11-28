@@ -145,7 +145,7 @@ possible example for the term.
 ## Note of 2026-11-26: Niebudek and Iniewicz (2023), read
 
 
-Cases for each sense, by report, from [LIT-tmpdbb0m](../literature.d/LIT-tmpdbb0m.md) ([NOTE-tmptx4q4](../notes.d/NOTE-tmptx4q4.md)):
+Cases for each sense, by report, from [LIT-3281](../literature.d/LIT-3281.md) ([NOTE-2429](../notes.d/NOTE-2429.md)):
 
 - **Held:** men at community meetings assume F3 "is submissive because you
   are a female".

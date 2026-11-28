@@ -6,6 +6,10 @@ Notes taken during the work, to revisit at the next retrospective (RETRO) - what
 
 ## Currently — [November 2026](2026-11.md)
 
+- [27 Nov 01:51 — The argument-scheme search missed the Assistant Axis reading a second time, and two recollections in filed claims were half wrong](2026-11.md#the-argument-scheme-search-missed-the-assistant-axis-reading-a-second-time-and-two-recollections-in-filed-claims-were-half-wrong)
+- [26 Nov 19:55 — Second miss in a day: a single-work filing searched readings and skipped the record's own argument](2026-11.md#second-miss-in-a-day-a-single-work-filing-searched-readings-and-skipped-the-records-own-argument)
+- [26 Nov 18:13 — A prior-art search by the wrong key reported a held, read work as absent](2026-11.md#a-prior-art-search-by-the-wrong-key-reported-a-held-read-work-as-absent)
+- [26 Nov 07:38 — Replaying the record's history: four wrong replays, each caught by checking the replay against the tree](2026-11.md#replaying-the-records-history-four-wrong-replays-each-caught-by-checking-the-replay-against-the-tree)
 - [25 Nov 21:55 — The 67 twin THEORY readings were ADR-065 reports and their theses](2026-11.md#the-67-twin-theory-readings-were-adr-065-reports-and-their-theses)
 - [25 Nov 17:29 — An optional prose field cannot be declared in luria.yaml](2026-11.md#an-optional-prose-field-cannot-be-declared-in-luriayaml)
 - [25 Nov 14:43 — Reader branches stranded by a usage limit and then by a promotion, and carried onto the permanent codes by script](2026-11.md#reader-branches-stranded-by-a-usage-limit-and-then-by-a-promotion-and-carried-onto-the-permanent-codes-by-script)
@@ -42,8 +46,8 @@ Notes taken during the work, to revisit at the next retrospective (RETRO) - what
 
 ## All books
 
-33 entries across 1 book, newest first.
+37 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-11](2026-11.md) | 33 | 2026-11-21 | 2026-11-25 |
+| [2026-11](2026-11.md) | 37 | 2026-11-21 | 2026-11-27 |

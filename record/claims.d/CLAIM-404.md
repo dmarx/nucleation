@@ -124,6 +124,7 @@ defeated_if: >-
   does not defeat it.
 tags:
 - society-and-governance
+- persuasion-and-influence
 - epistemology
 - self-governance
 date: '2026-10-21'
@@ -642,6 +643,6 @@ wording is the assistant's (Claude, in this session).
 
 ## Note of 2026-11-27: the training loop as the closed loop
 
-<!-- inactive-ok-block: CLAIM-tmpsjxip CLAIM-tmp4h4ce — new; the claim and its objection filed on 2026-11-27 -->
+<!-- inactive-ok-block: CLAIM-1438 CLAIM-1363 — new; the claim and its objection filed on 2026-11-27 -->
 
-At the owner's word, [CLAIM-tmpsjxip](CLAIM-tmpsjxip.md) reads this claim's last clause as the loop of training on human approval. The evaluator, a rater or a reward model, scores a model whose responses are its evidence. Sycophancy acts on the evaluator's criteria, flattery on its evidence, and reward tampering removes it. [CLAIM-tmp4h4ce](CLAIM-tmp4h4ce.md) objects that what generalizes up that ladder is specification gaming in general. An application; no change to this claim.
+At the owner's word, [CLAIM-1438](CLAIM-1438.md) reads this claim's last clause as the loop of training on human approval. The evaluator, a rater or a reward model, scores a model whose responses are its evidence. Sycophancy acts on the evaluator's criteria, flattery on its evidence, and reward tampering removes it. [CLAIM-1363](CLAIM-1363.md) objects that what generalizes up that ladder is specification gaming in general. An application; no change to this claim.

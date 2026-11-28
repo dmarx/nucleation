@@ -33,7 +33,7 @@ summary: >-
   what availability takes, and how a record could tell an anchor from a
   structure that merely persists.
 ---
-<!-- inactive-ok-file: CLAIM-tmpk015q CLAIM-tmp4fc0k — Proposed or Open; filed from the exchange 'Alignment consequences brainstorm' on 2026-11-26, cited in its dated note -->
+<!-- inactive-ok-file: CLAIM-1422 CLAIM-1362 — Proposed or Open; filed from the exchange 'Alignment consequences brainstorm' on 2026-11-26, cited in its dated note -->
 <!-- inactive-ok-file: CLAIM-180 — Proposed; cited in the note of 2026-11-07 -->
 <!-- inactive-ok-file: THEORY-307 — Proposed; the second account filed from LIT-787, cited as an ancestor and not leaned on -->
 <!-- inactive-ok-file: CLAIM-182 CLAIM-185 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
@@ -95,14 +95,14 @@ The note of 2026-11-05 answers a narrower question than this one asks: what make
 
 ## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U17–A34)
 
-A33 §5 and A34's H1 ([CLAIM-tmpk015q](../claims.d/CLAIM-tmpk015q.md)) offer an empirical signature for an
+A33 §5 and A34's H1 ([CLAIM-1422](../claims.d/CLAIM-1422.md)) offer an empirical signature for an
 answer: an "established anchor" is an entry whose formulation has stabilized
 and on which new structure keeps forming. A33 reads it as "a relatively
 stabilized structure becomes a substrate on which more complex structure
 develops". That is a way to tell which persisting entries have become anchors
-on this record, not an account of what made them so. [CLAIM-tmp4fc0k](../claims.d/CLAIM-tmp4fc0k.md) (the
+on this record, not an account of what made them so. [CLAIM-1362](../claims.d/CLAIM-1362.md) (the
 assistant's) qualifies the signature: on this record reliance and revision
 arrive together, so the stable, built-on quadrant is thin for a reason that is
-not about anchoring. [LEAD-tmp14mq0](../leads.d/LEAD-tmp14mq0.md) would draw the map. It bears on the
+not about anchoring. [LEAD-284](../leads.d/LEAD-284.md) would draw the map. It bears on the
 question as evidence would, through [CLAIM-185](../claims.d/CLAIM-185.md), and does not touch the
 addressability candidate ([CLAIM-182](../claims.d/CLAIM-182.md)). The question stays Open.

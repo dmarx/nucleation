@@ -242,7 +242,7 @@ A47 §1 and §3 name the things this claim keeps apart, "A perspective's enactme
 ## Note of 2026-11-26: Niebudek and Iniewicz (2023), read
 
 
-Cases for the claim, from self-report. In [LIT-tmpdbb0m](../literature.d/LIT-tmpdbb0m.md) ([NOTE-tmptx4q4](../notes.d/NOTE-tmptx4q4.md)), a role is entered
+Cases for the claim, from self-report. In [LIT-3281](../literature.d/LIT-3281.md) ([NOTE-2429](../notes.d/NOTE-2429.md)), a role is entered
 "only in the course of the session limited in time", and between sessions
 it lapses without being lost. Identification is "present also when the role
 is not assumed". Ceased enactment, here deliberate and scheduled, does not

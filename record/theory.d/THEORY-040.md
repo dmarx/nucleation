@@ -77,6 +77,7 @@ history:
     relation (ADR-094). No other change.
 tags:
 - agency
+- persuasion-and-influence
 - ethics
 - metaphysics
 - self-governance

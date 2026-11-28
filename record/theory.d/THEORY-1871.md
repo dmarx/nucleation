@@ -92,7 +92,7 @@ Schlag, Irie & Schmidhuber (2021), [LIT-2642](../literature.d/LIT-2642.md); read
 ## Note of 2026-11-26: von Oswald et al. (2023), read
 
 
-A parallel, and an extension. [LIT-tmpuv16r](../literature.d/LIT-tmpuv16r.md) ([NOTE-tmpcktnn](../notes.d/NOTE-tmpcktnn.md)) calls its
+A parallel, and an extension. [LIT-3313](../literature.d/LIT-3313.md) ([NOTE-2426](../notes.d/NOTE-2426.md)) calls its
 mesa-layer "a locally optimal fast weight programmer". It places the delta
 rule between Hebbian fast weights and exact optimization: "Unlike the
 mesa-layer, which is optimal at every step, the delta rule requires

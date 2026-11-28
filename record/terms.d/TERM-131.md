@@ -176,7 +176,7 @@ The wording is the assistant's (Claude, in this session).
 ## Note of 2026-11-26: von Oswald et al. (2023), read
 
 
-Consistent with version 2. [LIT-tmpuv16r](../literature.d/LIT-tmpuv16r.md) ([NOTE-tmpcktnn](../notes.d/NOTE-tmpcktnn.md)) is a case where
+Consistent with version 2. [LIT-3313](../literature.d/LIT-3313.md) ([NOTE-2426](../notes.d/NOTE-2426.md)) is a case where
 the same network learns on two horizons. Over a sequence, fast weights Φ
 change in activations: the model running in an episode learns over the
 episode. Over training, base-optimization changes the weights that make
@@ -187,7 +187,7 @@ term's declared system and horizon decide which. No change to the term.
 ## Note of 2026-11-26: Veeriah et al. (2019), read
 
 
-Consistent. In [LIT-tmpl1kcf](../literature.d/LIT-tmpl1kcf.md) ([NOTE-tmpibrnu](../notes.d/NOTE-tmpibrnu.md)), the random-questions baseline
+Consistent. In [LIT-3295](../literature.d/LIT-3295.md) ([NOTE-2427](../notes.d/NOTE-2427.md)), the random-questions baseline
 is a clean counterfactual of the kind this term asks for: the same
 answering machinery and the same experience, but a different retained
 organization, and a different later capability. No change to the term.

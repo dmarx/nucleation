@@ -287,5 +287,5 @@ networks, is close to [LEAD-276](../leads.d/LEAD-276.md)'s.
 A5 §2 carries the claim to institutions ("Two institutions may be
 behaviourally indistinguishable during ordinary operation while differing
 fundamentally in their capacity to withstand an attempt at capture"), and
-A5 §6's H1 to populations, in a study filed as [LEAD-tmp0yn8v](../leads.d/LEAD-tmp0yn8v.md). Each is an
+A5 §6's H1 to populations, in a study filed as [LEAD-283](../leads.d/LEAD-283.md). Each is an
 application; the claim is unchanged.

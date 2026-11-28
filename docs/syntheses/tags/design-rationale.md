@@ -6,16 +6,16 @@
 
 **Design rationale** — recording the reasoning behind a design or decision as it is made — issues, positions and arguments, options and criteria (IBIS, gIBIS, QOC and their successors) — and why such capture systems are or are not used: who bears the cost of capture and who gets the benefit, premature formalization, cognitive overhead, and the groupware adoption problems behind them (ADR-030).
 
-9 of 126 SYNTHESIS documents. Back to the [full index](../README.md).
+9 of 127 SYNTHESIS documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-| [SYNTHESIS-012](../../../record/syntheses.d/SYNTHESIS-012.md) v2 | The record's grammar is an amendable apparatus |  | Proposed |
-| [SYNTHESIS-013](../../../record/syntheses.d/SYNTHESIS-013.md) | Addressability, not storage, nucleates argument |  | Proposed |
+| [SYNTHESIS-012](../../../record/syntheses.d/SYNTHESIS-012.md) v3 | The record's grammar is an amendable apparatus |  | Proposed |
+| [SYNTHESIS-013](../../../record/syntheses.d/SYNTHESIS-013.md) v2 | Addressability, not storage, nucleates argument |  | Proposed |
 | [SYNTHESIS-014](../../../record/syntheses.d/SYNTHESIS-014.md) | Memoryless exchanges lose what was said |  | Proposed |
-| [SYNTHESIS-015](../../../record/syntheses.d/SYNTHESIS-015.md) v2 | Anchoring entrenches; filing pays only on reuse |  | Proposed |
+| [SYNTHESIS-015](../../../record/syntheses.d/SYNTHESIS-015.md) v3 | Anchoring entrenches; filing pays only on reuse |  | Proposed |
 | [SYNTHESIS-016](../../../record/syntheses.d/SYNTHESIS-016.md) v3 | Nucleating-argument: three accounts, one rule | The account of the nucleating-argument line, over the accounts of its three parts: drift ([SYNTHESIS-014](../../../record/syntheses.d/SYNTHESIS-014.md)), anchors ([SYNTHESIS-013](../../../record/syntheses.d/SYNTHESIS-013.md)) and the costs of anchoring ([SYNTHESIS-015](../../../record/syntheses.d/SYNTHESIS-015.md)). They meet at [ADR-032](../../../record/decisions.d/ADR-032.md)'s rule for when to code an argument, which the anchors part justifies by drift ([CLAIM-176](../../../record/claims.d/CLAIM-176.md)) and the costs part by effort ([CLAIM-308](../../../record/claims.d/CLAIM-308.md)). Where the two justifications part is [CLAIM-630](../../../record/claims.d/CLAIM-630.md)'s, a derivation in the assistant's voice. The account adds nothing of its own; its standing is its components'. | Proposed |
-| [SYNTHESIS-017](../../../record/syntheses.d/SYNTHESIS-017.md) v3 | Records secure traceability, not correctness |  | Proposed |
-| [SYNTHESIS-090](../../../record/syntheses.d/SYNTHESIS-090.md) v2 | How the record as apparatus would be tested | The map of the experimental program A synthesized at A45 and A48 of the exchange "luria experiment design" (2026-11-10), at the owner's U19 and U20, with each piece now filed or held. Its questions are the owner's (U8, U12 and U13, U17); the turn of the record's own distinctions into manipulated variables is the owner's U15; the replacement of new tasks by established ones where they exist is the owner's U16. The designs and the one connecting claim are A's. It adds nothing: what A45 adds, the interaction between governance and modifiability, is [CLAIM-667](../../../record/claims.d/CLAIM-667.md). Proposed until the owner reviews the mapping. | Proposed |
+| [SYNTHESIS-017](../../../record/syntheses.d/SYNTHESIS-017.md) v4 | Records secure traceability, not correctness |  | Proposed |
+| [SYNTHESIS-090](../../../record/syntheses.d/SYNTHESIS-090.md) v3 | How the record as apparatus would be tested | The map of the experimental program A synthesized at A45 and A48 of the exchange "luria experiment design" (2026-11-10), at the owner's U19 and U20, with each piece now filed or held. Its questions are the owner's (U8, U12 and U13, U17); the turn of the record's own distinctions into manipulated variables is the owner's U15; the replacement of new tasks by established ones where they exist is the owner's U16. The designs and the one connecting claim are A's. It adds nothing: what A45 adds, the interaction between governance and modifiability, is [CLAIM-667](../../../record/claims.d/CLAIM-667.md). Proposed until the owner reviews the mapping. | Proposed |
 | [SYNTHESIS-115](../../../record/syntheses.d/SYNTHESIS-115.md) v2 | Transmission forgets; records secure traceability |  | Proposed |
 | [SYNTHESIS-126](../../../record/syntheses.d/SYNTHESIS-126.md) | Publishing over a record unbundles the paper |  | Proposed |

@@ -8,7 +8,7 @@ history:
   date: '2026-11-27'
   note: >-
     Filed, not read. Checked against the record and the heads of open pull
-    requests (ADR-tmpn87w5): no SEP entry on deception or self-deception is
+    requests (ADR-154): no SEP entry on deception or self-deception is
     held. The published date is the assistant's recollection of the entry's
     first publication and is to be checked against the entry's page.
 - version: 2
@@ -30,9 +30,9 @@ keywords:
 - 'motivated belief'
 implementations: []
 summary: >-
-  Deweese-Boyd's SEP survey of self-deception: intentionalist accounts, and revisionist accounts that drop the intention requirement (deflationary, chief among them Mele's) or the belief requirement. Deflationary accounts need a motive, not an intention, and the motive is what separates self-deception from innocent error. Read for the inside position of [DISTINCTION-tmp68xjw](../distinctions.d/DISTINCTION-tmp68xjw.md), between [CLAIM-tmpu6fff](../claims.d/CLAIM-tmpu6fff.md) and [CLAIM-tmpu6c7h](../claims.d/CLAIM-tmpu6c7h.md).
+  Deweese-Boyd's SEP survey of self-deception: intentionalist accounts, and revisionist accounts that drop the intention requirement (deflationary, chief among them Mele's) or the belief requirement. Deflationary accounts need a motive, not an intention, and the motive is what separates self-deception from innocent error. Read for the inside position of [DISTINCTION-001](../distinctions.d/DISTINCTION-001.md), between [CLAIM-1441](../claims.d/CLAIM-1441.md) and [CLAIM-tmpu6c7h](../claims.d/CLAIM-tmpu6c7h.md).
 ---
-<!-- inactive-ok-file: CLAIM-tmpu6fff CLAIM-tmpu6c7h DISTINCTION-tmp68xjw — Proposed or new; the search rule applied, and the claims the reading bears on -->
+<!-- inactive-ok-file: CLAIM-1441 CLAIM-tmpu6c7h DISTINCTION-001 — Proposed or new; the search rule applied, and the claims the reading bears on -->
 
 # LIT-tmp19b00: Self-Deception
 
@@ -40,6 +40,6 @@ Deweese-Boyd, Stanford Encyclopedia of Philosophy.
 
 ## Standing in the record
 
-Being read for the inside position of [DISTINCTION-tmp68xjw](../distinctions.d/DISTINCTION-tmp68xjw.md): whether
+Being read for the inside position of [DISTINCTION-001](../distinctions.d/DISTINCTION-001.md): whether
 motivated, unintended bias in how a mind treats evidence counts as the mind
-gaming itself ([CLAIM-tmpu6c7h](../claims.d/CLAIM-tmpu6c7h.md)) or as a miscalibrated cue ([CLAIM-tmpu6fff](../claims.d/CLAIM-tmpu6fff.md)).
+gaming itself ([CLAIM-tmpu6c7h](../claims.d/CLAIM-tmpu6c7h.md)) or as a miscalibrated cue ([CLAIM-1441](../claims.d/CLAIM-1441.md)).

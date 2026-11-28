@@ -17,6 +17,7 @@ statement: >-
   and that responses focused on discrete assaults miss it
 version: 1
 tags:
+- persuasion-and-influence
 - social-science
 - society-and-governance
 date: '2026-11-18'

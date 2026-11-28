@@ -204,10 +204,10 @@ None meets its defeater.
 
 ## Note of 2026-11-26: format, not content
 
-<!-- inactive-ok-block: CLAIM-tmpj88da — new; the claim this note reports -->
+<!-- inactive-ok-block: CLAIM-1418 — new; the claim this note reports -->
 
 A candidate for the further property this claim asks the constitutive
-thesis to name. [CLAIM-tmpj88da](CLAIM-tmpj88da.md) reads the J-space results ([THEORY-865](../theory.d/THEORY-865.md),
+thesis to name. [CLAIM-1418](CLAIM-1418.md) reads the J-space results ([THEORY-865](../theory.d/THEORY-865.md),
 [NOTE-1069](../notes.d/NOTE-1069.md)) as showing that apparently unconscious processing is use of the
 same content outside the format that flexible consumers read. The
 candidate is that format, together with its consumers. It is measurable by

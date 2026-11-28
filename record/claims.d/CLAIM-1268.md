@@ -111,17 +111,17 @@ closing pass.
 
 ## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U4–A6)
 
-<!-- inactive-ok-file: CLAIM-tmpe432a LIT-tmp4r6n7 — filed from the exchange of 2026-11-26, Proposed or Deferred -->
+<!-- inactive-ok-file: CLAIM-1398 LIT-3268 — filed from the exchange of 2026-11-26, Proposed or Deferred -->
 
 A6 §2 gives this claim's mechanism for the attention economy, at the
-owner's U4 ([CLAIM-tmpe432a](CLAIM-tmpe432a.md)): "The attention economy goes beyond ordinary
+owner's U4 ([CLAIM-1398](CLAIM-1398.md)): "The attention economy goes beyond ordinary
 Goodhart's law because the optimizer can modify the environment that
 generates its measurements." Once engagement is the target, "the system
 acquires incentives to produce engagement through whatever mechanisms are
 effective, whether or not they produce value", and "observed behaviour is
 no longer independent evidence of the desirability of the system. It is
 partly a product of the system." It cites Chaney, Stewart and Engelhardt
-on recommendation feedback loops, registered unread ([LIT-tmp4r6n7](../literature.d/LIT-tmp4r6n7.md)).
+on recommendation feedback loops, registered unread ([LIT-3268](../literature.d/LIT-3268.md)).
 
 Here the observed adapt to an optimizer rather than to a monitor, and
 what moves apart is the measure and the value it was taken as evidence

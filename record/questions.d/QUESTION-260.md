@@ -83,7 +83,7 @@ little, is [CLAIM-945](../claims.d/CLAIM-945.md).
 ## Note of 2026-11-26: Niebudek and Iniewicz (2023), read
 
 
-Supplies cases and a candidate marker; does not answer. In [LIT-tmpdbb0m](../literature.d/LIT-tmpdbb0m.md) ([NOTE-tmptx4q4](../notes.d/NOTE-tmptx4q4.md)),
+Supplies cases and a candidate marker; does not answer. In [LIT-3281](../literature.d/LIT-3281.md) ([NOTE-2429](../notes.d/NOTE-2429.md)),
 practitioners distinguish identification with a role, "present also when
 the role is not assumed" and reaching "everyday life", from a role entered
 "only in the course of the session limited in time". That is a person-level
@@ -102,4 +102,4 @@ makes constitutiveness come in degrees. Two cautions:
    and how far the enactment reaches. If so, this question's
    "constitutive" may need asking on each dimension separately.
 
-[THEORY-tmpigigb](../theory.d/THEORY-tmpigigb.md) `bears_on` this question. No status change.
+[THEORY-2315](../theory.d/THEORY-2315.md) `bears_on` this question. No status change.

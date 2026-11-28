@@ -70,7 +70,7 @@ No status change.
 
 Bears on the question and narrows it; does not answer it as posed.
 
-- **The mesa-layer** ([LIT-tmpuv16r](../literature.d/LIT-tmpuv16r.md), [NOTE-tmpcktnn](../notes.d/NOTE-tmpcktnn.md), Eqs. 4–8) is a sequence
+- **The mesa-layer** ([LIT-3313](../literature.d/LIT-3313.md), [NOTE-2426](../notes.d/NOTE-2426.md), Eqs. 4–8) is a sequence
   layer whose output is exactly the prediction of a ridge, or recursive
   least-squares, learner trained on the context so far. Like the delta-rule
   reading in the note of 2026-11-15, it holds by definition: the layer is

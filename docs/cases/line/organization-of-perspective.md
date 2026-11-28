@@ -6,7 +6,7 @@
 
 **The organization of perspective** — how a perspective is organized, held and changed by an individual or a collective, and how an organization of perspectives keeps or loses its identity; atlas scope 09 (ADR-146). What an organized whole is stays with distributed-agency.
 
-3 of 427 CASE documents. Back to the [full index](../README.md).
+3 of 432 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

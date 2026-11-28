@@ -6,10 +6,10 @@
 
 **Withdrawing transient support** — when support that establishes or sustains a party can be withdrawn without its decline — supplied upkeep that never becomes optional, supply that does the party's work and lowers the capacity it keeps, a savings buffer as a stock of time, dependency against division of labour by who supplies, and independence from what founded an organization against independence from what feeds it; split from readiness (ADR-087).
 
-3 of 126 SYNTHESIS documents. Back to the [full index](../README.md).
+3 of 127 SYNTHESIS documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-| [SYNTHESIS-032](../../../record/syntheses.d/SYNTHESIS-032.md) v7 | Safe withdrawal of support: one joint claim |  | Proposed |
+| [SYNTHESIS-032](../../../record/syntheses.d/SYNTHESIS-032.md) v8 | Safe withdrawal of support: one joint claim |  | Proposed |
 | [SYNTHESIS-113](../../../record/syntheses.d/SYNTHESIS-113.md) | Kept capacities decay unseen without tests |  | Proposed |
 | [SYNTHESIS-125](../../../record/syntheses.d/SYNTHESIS-125.md) v5 | Memes, Contracts exchange: norms from reliance | The account of the exchange 'Memes, Contracts, and Systemic Normativity' (the owner with ChatGPT, 2026-11-24, U1 to U30; U31 and its answer A49 are audited separately), with the owner's two sidebars of this session. It maps the entries nine filers filed, by the turns they came from, and attributes each link to the entry that states it. It adds nothing: what A's candidate syntheses asserted and no entry holds is listed under "Not stated on the record". The mapping is the assistant's (Claude, in this session); adopting it is the owner's call. | Proposed |

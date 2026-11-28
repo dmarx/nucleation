@@ -4,7 +4,7 @@
 
 **social-science**.
 
-326 of 2422 NOTE documents. Back to the [full index](../README.md).
+327 of 2430 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -334,3 +334,4 @@
 | [NOTE-2411](../../../record/notes.d/NOTE-2411.md) | Cassidy — X-MEN: THE LAST STAND Writer Reveals Infamous "Juggernaut, B*tch" Line Was Not In His Shooting Script | Journalism, reporting Simon Kinberg's 2023 interview with Polygon: the Juggernaut exchange was not in the shooting script he wrote with Zak Penn; "The real [story] on that is that was a reshoot Ratner line." The writer says the line was "inspired by a parody dub video"; that tie is his, not Kinberg's. | Skimmed |
 | [NOTE-2412](../../../record/notes.d/NOTE-2412.md) | Simons — Vinnie Jones on X-Men disappointment, Guy Ritchie, and turning down Rambo | Journalism: Yahoo's own interview with Vinnie Jones (2024). On the Juggernaut line: after the Vancouver shoot Ratner phoned him to ask for it; "He'd seen it online, I think"; they "had to go to Elstree for the day and we did that one line." The fuller of the actor's two accounts: it times the line as a one-day pickup after principal photography, and hedges where the director saw it. | Skimmed |
 | [NOTE-2418](../../../record/notes.d/NOTE-2418.md) | Banerjee, Duflo, Glennerster and Kothari: immunisation camps with and without incentives | A clustered randomized trial in 134 villages of Seva Mandir's catchment in Udaipur. Reliable monthly immunisation camps raised full immunisation of children aged 1-3 from 6 % to 18 %; the same camps with lentils per immunisation and plates on completion raised it to 39 %, at half the cost per fully immunised child. The incentive mainly stopped drop-out after the first injections. Incentives were never given without the camps. | Read |
+| [NOTE-2429](../../../record/notes.d/NOTE-2429.md) | Between a role and identification. Understanding BDSM practices from practitioners' perspective | A constructivist grounded-theory study of single unstructured interviews with 12 Polish BDSM practitioners. It distinguishes identification ("a process of developing an identity"), which reaches into everyday life and self-description, from a role ("assumed in a given situation", "only in the course of the session limited in time"), and proposes that these lie on "a continuum". It proposes an initial model: confrontation with one's needs, then belonging to the community, then identification or role. It also reports attributions, concealment and internalized stigma. | Read |

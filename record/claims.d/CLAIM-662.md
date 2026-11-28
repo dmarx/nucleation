@@ -49,7 +49,7 @@ history:
 - version: 5
   date: '2026-11-26'
   note: >-
-    Joins the work organizational-origins-of-misalignment (ADR-tmp0cgxa) at
+    Joins the work organizational-origins-of-misalignment (ADR-152) at
     its filing, under ADR-104's rule: the outline A11 §IX of the exchange
     "Alignment consequences brainstorm" uses its proposition as a step.
     No other change.

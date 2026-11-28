@@ -47,7 +47,7 @@ on test-time training.
 ## Note of 2026-11-26: von Oswald et al. (2023), read
 
 
-Bears on the design of experiment 3. In [LIT-tmpuv16r](../literature.d/LIT-tmpuv16r.md) ([NOTE-tmpcktnn](../notes.d/NOTE-tmpcktnn.md)), in
+Bears on the design of experiment 3. In [LIT-3313](../literature.d/LIT-3313.md) ([NOTE-2426](../notes.d/NOTE-2426.md)), in
 synthetic sequences, in-context learning is itself an inner optimization
 of fast weights, and the mesa-layer is a test-time learner inside a
 layer. An ICL arm and a TTT arm may therefore differ in where the learned

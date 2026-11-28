@@ -64,7 +64,7 @@ rests_on:
 - CLAIM-635
 - CLAIM-772
 ---
-<!-- inactive-ok-file: CLAIM-tmpk015q — Proposed or Open; filed from the exchange 'Alignment consequences brainstorm' on 2026-11-26, cited in its dated note -->
+<!-- inactive-ok-file: CLAIM-1422 — Proposed or Open; filed from the exchange 'Alignment consequences brainstorm' on 2026-11-26, cited in its dated note -->
 <!-- inactive-ok-file: CASE-307 — Proposed; LEAD-199's study of 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-189 CLAIM-190 ARG-028 CLAIM-068 — Proposed or Superseded; cited for what each holds, as open -->
 <!-- inactive-ok-file: CLAIM-778 CLAIM-772 CLAIM-779 — Proposed; filed in this contribution of 2026-11-20 -->
@@ -125,7 +125,7 @@ entry that new structure keeps building on is mature, and one nothing builds
 on is neglected. That separates A's pair. It does not separate this claim's
 pair, since an entry contracted onto the record's conventions can be built on
 as readily as one copied exactly. So the stability-generativity plane of
-[CLAIM-tmpk015q](CLAIM-tmpk015q.md) and [LEAD-tmp14mq0](../leads.d/LEAD-tmp14mq0.md) leaves the measure this claim asks for,
+[CLAIM-1422](CLAIM-1422.md) and [LEAD-284](../leads.d/LEAD-284.md) leaves the measure this claim asks for,
 retention against a reference outside the record ([LEAD-201](../leads.d/LEAD-201.md)), where it was. An
 independent restatement of the claim's caution, and a limit on what the plane
 can show. No status change.

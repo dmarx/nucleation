@@ -1,11 +1,11 @@
 ### Added
 
 - Two DISTINCTIONs on chatbot-associated delusions:
-  - [DISTINCTION-tmpwhh30](record/distinctions.d/DISTINCTION-tmpwhh30.md): a delusion about a chatbot ([TERM-tmpt90ek](record/terms.d/TERM-tmpt90ek.md)) is not one co-created with it ([TERM-tmpawees](record/terms.d/TERM-tmpawees.md));
-  - [DISTINCTION-tmpw9b9j](record/distinctions.d/DISTINCTION-tmpw9b9j.md): three sources of a co-created delusion's themes, and the contrasts that would separate them.
-- [ARG-tmpxulq8](record/arguments.d/ARG-tmpxulq8.md), on how much [THEORY-1339](record/theory.d/THEORY-1339.md) supports the model's priors as the attractor.
-- [LIT-tmp9oe7e](record/literature.d/LIT-tmp9oe7e.md), Nitzan et al. 2011 (Deferred).
+  - [DISTINCTION-006](record/distinctions.d/DISTINCTION-006.md): a delusion about a chatbot ([TERM-191](record/terms.d/TERM-191.md)) is not one co-created with it ([TERM-187](record/terms.d/TERM-187.md));
+  - [DISTINCTION-005](record/distinctions.d/DISTINCTION-005.md): three sources of a co-created delusion's themes, and the contrasts that would separate them.
+- [ARG-270](record/arguments.d/ARG-270.md), on how much [THEORY-1339](record/theory.d/THEORY-1339.md) supports the model's priors as the attractor.
+- [LIT-3275](record/literature.d/LIT-3275.md), Nitzan et al. 2011 (Deferred).
 
 ### Changed
 
-- [THEORY-1339](record/theory.d/THEORY-1339.md) now bears on [QUESTION-tmpq653b](record/questions.d/QUESTION-tmpq653b.md), and corroborates [CLAIM-tmpv6eti](record/claims.d/CLAIM-tmpv6eti.md) and [CLAIM-tmpj9yt0](record/claims.d/CLAIM-tmpj9yt0.md).
+- [THEORY-1339](record/theory.d/THEORY-1339.md) now bears on [QUESTION-548](record/questions.d/QUESTION-548.md), and corroborates [CLAIM-1444](record/claims.d/CLAIM-1444.md) and [CLAIM-1419](record/claims.d/CLAIM-1419.md).

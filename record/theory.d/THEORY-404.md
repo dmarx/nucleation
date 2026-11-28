@@ -30,6 +30,7 @@ history:
     exclude this case, since the design is overt". Reading review of
     2026-11-11, by question. No other change.
 tags:
+- persuasion-and-influence
 - game-theory
 - epistemology
 - information-theory

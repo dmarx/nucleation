@@ -6,7 +6,7 @@
 
 **Law** — law and jurisprudence as a subject — constitutional theory and interpretation (originalism and its rivals), separation of powers and executive authority, doctrine and case law, corporate and fiduciary law, and legal conventions and their enforcement; politics and policy at large stay in society-and-governance (ADR-150).
 
-4 of 282 LEAD documents. Back to the [full index](../README.md).
+4 of 320 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

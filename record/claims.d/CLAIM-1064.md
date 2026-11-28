@@ -44,7 +44,7 @@ history:
 - version: 5
   date: '2026-11-26'
   note: >-
-    Joins the work organizational-origins-of-misalignment (ADR-tmp0cgxa) at
+    Joins the work organizational-origins-of-misalignment (ADR-152) at
     its filing, under ADR-104's rule: the outline A11 §IX of the exchange
     "Alignment consequences brainstorm" uses its proposition as a step.
     No other change.
@@ -163,7 +163,7 @@ ChatGPT, at A21 of the exchange "Hyper article interpretation" (2026-11-22), wri
 
 ## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U6–A11, U7–A13, U8–A15)
 
-<!-- inactive-ok-file: CLAIM-tmpygs06 CLAIM-tmpoh8gm — new; the claims of 2026-11-26 the note names -->
+<!-- inactive-ok-file: CLAIM-1453 CLAIM-1429 — new; the claims of 2026-11-26 the note names -->
 
 Three bearings, and a qualification in the assistant's voice.
 
@@ -181,13 +181,13 @@ discovered", "Failures discovered", "Failures acknowledged", "Failures
 corrected" and "Correction mechanisms maintained" into "a single compliance
 indicator", reading the first as "Possibly no effective investigation".
 That is this claim's consequence made a rule of reporting
-([CLAIM-tmpygs06](CLAIM-tmpygs06.md)).
+([CLAIM-1453](CLAIM-1453.md)).
 
 **A proposed answer (A13 §4), checked (the assistant).** A13 offers
 Luria's acknowledgements as "a concrete partial response": a warning "can
 be acknowledged without disappearing from the accounting", and Luria's
 principle that "a suppression must not become a silence" is checked in its
-documents ([CLAIM-tmpoh8gm](CLAIM-tmpoh8gm.md)). Against this claim's conditions: an
+documents ([CLAIM-1429](CLAIM-1429.md)). Against this claim's conditions: an
 acknowledged finding does not fail the check, so in an institution scored
 on pass or fail, recognizing a requirement no longer costs the score, and
 the first condition, that each recognized violation is penalized, fails;

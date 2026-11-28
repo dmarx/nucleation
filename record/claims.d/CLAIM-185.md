@@ -76,7 +76,7 @@ complements:
 - CLAIM-195
 - CLAIM-182
 ---
-<!-- inactive-ok-file: CLAIM-tmpk015q CLAIM-tmp4fc0k CASE-307 — Proposed or Open; filed from the exchange 'Alignment consequences brainstorm' on 2026-11-26, cited in its dated note -->
+<!-- inactive-ok-file: CLAIM-1422 CLAIM-1362 CASE-307 — Proposed or Open; filed from the exchange 'Alignment consequences brainstorm' on 2026-11-26, cited in its dated note -->
 <!-- inactive-ok-file: LIT-1926 — Unavailable since 2026-11-22; the book LEAD-176's neighbour stands in for, cited in its dated note -->
 <!-- inactive-ok-file: THEORY-307 — Proposed; the second account filed from LIT-787, cited as an ancestor and not leaned on -->
 <!-- inactive-ok-file: CLAIM-181 — Proposed; open, and cited as open: the claims of the nucleating-argument line are under test, not settled -->
@@ -377,10 +377,10 @@ A33 §17 maps this line's concepts to signatures in the record's own git
 history: "Nucleation" as the "Formation of a persistent, addressable
 structure", "Individuation" as "Stabilization with sustained downstream use",
 "Entrenchment" as "Continued dependence despite replacement or correction".
-A34's H1 ([CLAIM-tmpk015q](CLAIM-tmpk015q.md)) is this claim's thesis made measurable on the
+A34's H1 ([CLAIM-1422](CLAIM-1422.md)) is this claim's thesis made measurable on the
 record's entries: if persistent structures are what later structure grows on,
 the history should show entries that settle and then carry growth.
-[LEAD-tmpn6mi2](../leads.d/LEAD-tmpn6mi2.md) and [LEAD-tmp14mq0](../leads.d/LEAD-tmp14mq0.md) would look. [CLAIM-tmp4fc0k](CLAIM-tmp4fc0k.md) (the assistant's)
+[LEAD-305](../leads.d/LEAD-305.md) and [LEAD-284](../leads.d/LEAD-284.md) would look. [CLAIM-1362](CLAIM-1362.md) (the assistant's)
 says why the record's first measurement, [CASE-307](../cases.d/CASE-307.md), already complicates the
 reading: cited claims are revised more, not less. A bearing as a proposed
 test. No status change.

@@ -92,9 +92,9 @@ technique a more precise foundation".
 
 ## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U9–A16, U10–A17)
 
-<!-- inactive-ok-file: CLAIM-tmpvuiy4 CLAIM-661 — Proposed; filed from the exchange of 2026-11-26 and a held claim it is set beside -->
+<!-- inactive-ok-file: CLAIM-1445 CLAIM-661 — Proposed; filed from the exchange of 2026-11-26 and a held claim it is set beside -->
 
-A17 §13 cites this question as "an especially relevant open question already in the record" and states it accurately. It narrows what an answer can be, given that purposes can be constituted by the organization ([CLAIM-tmpvuiy4](../claims.d/CLAIM-tmpvuiy4.md), A's):
+A17 §13 cites this question as "an especially relevant open question already in the record" and states it accurately. It narrows what an answer can be, given that purposes can be constituted by the organization ([CLAIM-1445](../claims.d/CLAIM-1445.md), A's):
 
 > If purposes themselves emerge through organization, then we cannot resolve the normative problem simply by appealing to what the constituents wanted before the organization existed.
 >

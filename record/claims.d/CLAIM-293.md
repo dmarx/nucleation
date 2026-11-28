@@ -34,7 +34,7 @@ history:
   date: '2026-11-26'
   note: >-
     A dated note: the exchange 'Alignment consequences brainstorm' (ChatGPT,
-    2026-11-26), A29 §16, with the assistant's CLAIM-tmpwlw8t (see the
+    2026-11-26), A29 §16, with the assistant's CLAIM-1448 (see the
     note). No other change.
 role: granted
 warrant: demonstrated
@@ -123,6 +123,6 @@ of support, which is the claim's point about a support graph's topology.
 The claim is unchanged.
 
 ## Note of 2026-11-26: the exchange "Alignment consequences brainstorm" (ChatGPT, U16–A29), joint and alternative support
-<!-- inactive-ok-file: CLAIM-tmpwlw8t CLAIM-tmpby6hz — Proposed; filed from the same exchange on 2026-11-26 -->
+<!-- inactive-ok-file: CLAIM-1448 CLAIM-1389 — Proposed; filed from the same exchange on 2026-11-26 -->
 
-A29 §16 makes a point this claim's line already holds, from the side of retention: "An argument may depend on two premises jointly, or it may have two independently sufficient grounds. Those structures are not equivalent. ... An ordinary edge graph can obscure this distinction." In the second case "retaining both grounds may be redundant for establishing the current conclusion but valuable for resilience against future invalidation". This claim says that the topology does not fix revision; A's point is that it does not fix what must be kept either. Two qualifications, both the assistant's. First, the record's grammar does mark the difference where support is filed as arguments: an ARG's premises work together, and a claim with two ARGs has two independent lines of support. A claim's own `rests_on` list is read jointly and does not. Second, the distinction defeats a retention rule A proposes in the same turn: [CLAIM-tmpwlw8t](CLAIM-tmpwlw8t.md) shows that a requirement to keep at least one of the two grounds has no least assignment, so A's per-entry join ([CLAIM-tmpby6hz](CLAIM-tmpby6hz.md)) cannot express it. The note is the assistant's (Claude, in this session). No status change.
+A29 §16 makes a point this claim's line already holds, from the side of retention: "An argument may depend on two premises jointly, or it may have two independently sufficient grounds. Those structures are not equivalent. ... An ordinary edge graph can obscure this distinction." In the second case "retaining both grounds may be redundant for establishing the current conclusion but valuable for resilience against future invalidation". This claim says that the topology does not fix revision; A's point is that it does not fix what must be kept either. Two qualifications, both the assistant's. First, the record's grammar does mark the difference where support is filed as arguments: an ARG's premises work together, and a claim with two ARGs has two independent lines of support. A claim's own `rests_on` list is read jointly and does not. Second, the distinction defeats a retention rule A proposes in the same turn: [CLAIM-1448](CLAIM-1448.md) shows that a requirement to keep at least one of the two grounds has no least assignment, so A's per-entry join ([CLAIM-1389](CLAIM-1389.md)) cannot express it. The note is the assistant's (Claude, in this session). No status change.

@@ -34,6 +34,7 @@ defeated_if: >-
   contribution after researchers know the scoring rule as before.
 tags:
 - philosophy-of-science
+- search-and-ranking
 - society-and-governance
 date: '2026-11-25'
 line:

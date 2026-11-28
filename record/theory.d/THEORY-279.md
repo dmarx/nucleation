@@ -33,6 +33,7 @@ history:
     account is unchanged.
 tags:
 - learning-theory
+- shortcut-learning
 - representation-learning
 date: '2026-10-14'
 source:

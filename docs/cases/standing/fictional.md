@@ -6,7 +6,7 @@
 
 **Fictional** — invented, usually to hold fixed what a real case cannot. Shows what is coherent, not what is common.
 
-92 of 427 CASE documents. Back to the [full index](../README.md).
+92 of 432 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

@@ -4,7 +4,7 @@
 
 **Rejected** — no longer in force and nothing replaced it — kept because a rejection is worth being able to point at.
 
-9 of 151 decisions. Back to the [full index](../README.md).
+9 of 154 decisions. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

@@ -6,7 +6,7 @@
 
 **Mathematical statistics** — the theory of statistical inference read for itself — comparison and sufficiency of experiments (Blackwell, Le Cam deficiency), statistical decision theory, the sufficiency theorems (Fisher–Neyman, Basu, Bahadur) and bounds on estimation. Bayesian modelling is probabilistic-modeling (ADR-031).
 
-61 of 2310 THEORY documents. Back to the [full index](../README.md).
+61 of 2329 THEORY documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

@@ -69,7 +69,7 @@ The lead also names [QUESTION-274](../questions.d/QUESTION-274.md) (whether a fe
 ## Note of 2026-11-26: von Oswald et al. (2023), read
 
 
-Background for the study. [LIT-tmpuv16r](../literature.d/LIT-tmpuv16r.md) ([NOTE-tmpcktnn](../notes.d/NOTE-tmpcktnn.md), p. 9) traces "early
+Background for the study. [LIT-3313](../literature.d/LIT-3313.md) ([NOTE-2426](../notes.d/NOTE-2426.md), p. 9) traces "early
 ascent" in few-shot in-context regression, where error first rises with
 the number of examples, to spurious pairs of one example's target with the
 next example's input, which the learned autoregressive algorithm treats as

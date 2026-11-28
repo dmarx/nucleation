@@ -140,11 +140,11 @@ status change.
 
 ## Note of 2026-11-26: Veeriah et al. (2019), read
 
-<!-- inactive-ok-block: THEORY-tmpl9xun — new; the reading this note reports -->
+<!-- inactive-ok-block: THEORY-2318 — new; the reading this note reports -->
 
-Bears on the question. [LIT-tmpl1kcf](../literature.d/LIT-tmpl1kcf.md) ([NOTE-tmpibrnu](../notes.d/NOTE-tmpibrnu.md)) invests in future
+Bears on the question. [LIT-3295](../literature.d/LIT-3295.md) ([NOTE-2427](../notes.d/NOTE-2427.md)) invests in future
 learnability directly: it chooses what to predict by its effect on later
 learning, and shows that valuing only the immediate effect fails. The
 valuation is one fixed task over a truncated horizon, so the question's
 hard part, consequences that cannot be specified in advance, is not
-reached. [THEORY-tmpl9xun](../theory.d/THEORY-tmpl9xun.md) `bears_on` this question. No status change.
+reached. [THEORY-2318](../theory.d/THEORY-2318.md) `bears_on` this question. No status change.

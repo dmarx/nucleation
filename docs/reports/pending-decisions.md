@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**3020 document(s) awaiting a decision, 42 undated.**
+**3226 document(s) awaiting a decision, 42 undated.**
 
 ## LITs
 
-207 of the 3020.
+251 of the 3226.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -220,30 +220,93 @@
 | 2026-11-25 | Deferred | [LIT-3227](../../record/literature.d/LIT-3227.md) | 0 | 0 | 0 | Transaction-Cost Economics: The Governance of Contractual Relations |
 | 2026-11-25 | Deferred | [LIT-3240](../../record/literature.d/LIT-3240.md) | 0 | 0 | 0 | Law's Empire |
 | 2026-11-25 | Deferred | [LIT-3246](../../record/literature.d/LIT-3246.md) | 0 | 0 | 0 | Boundaries and Allegiances |
+| 2026-11-26 | Deferred | [LIT-3310](../../record/literature.d/LIT-3310.md) | 0 | 5 | 0 | ARC: A Self-Tuning, Low Overhead Replacement Cache |
+| 2026-11-26 | Deferred | [LIT-3271](../../record/literature.d/LIT-3271.md) | 0 | 3 | 0 | TinyLFU: A Highly Efficient Cache Admission Policy |
+| 2026-11-26 | Deferred | [LIT-3278](../../record/literature.d/LIT-3278.md) | 0 | 3 | 0 | The Presentation of Self in Everyday Life |
+| 2026-11-26 | Deferred | [LIT-3279](../../record/literature.d/LIT-3279.md) | 0 | 3 | 0 | Human Nature and Conduct: An Introduction to Social Psychology |
+| 2026-11-26 | Deferred | [LIT-3282](../../record/literature.d/LIT-3282.md) | 0 | 3 | 0 | Resource-bounded alternating-time temporal logic |
+| 2026-11-26 | Deferred | [LIT-3284](../../record/literature.d/LIT-3284.md) | 0 | 3 | 0 | Assessing the impact of planned social change |
+| 2026-11-26 | Deferred | [LIT-3292](../../record/literature.d/LIT-3292.md) | 0 | 3 | 0 | Aspiration: The Agency of Becoming |
+| 2026-11-26 | Deferred | [LIT-3308](../../record/literature.d/LIT-3308.md) | 0 | 3 | 0 | Principles of Topological Psychology |
+| 2026-11-26 | Deferred | [LIT-3267](../../record/literature.d/LIT-3267.md) | 0 | 2 | 1 | A Note on Condorcet Sets |
+| 2026-11-26 | Deferred | [LIT-3268](../../record/literature.d/LIT-3268.md) | 0 | 2 | 0 | How Algorithmic Confounding in Recommendation Systems Increases Homogeneity and Decreases Utility |
+| 2026-11-26 | Deferred | [LIT-3273](../../record/literature.d/LIT-3273.md) | 0 | 2 | 0 | The Four-Phase Model of Interest Development |
+| 2026-11-26 | Deferred | [LIT-3274](../../record/literature.d/LIT-3274.md) | 0 | 2 | 0 | Deontic Logic |
+| 2026-11-26 | Deferred | [LIT-3276](../../record/literature.d/LIT-3276.md) | 0 | 2 | 1 | Rationality and the Myth of the Maximum |
+| 2026-11-26 | Deferred | [LIT-3277](../../record/literature.d/LIT-3277.md) | 0 | 2 | 0 | Theory of the firm: Managerial behavior, agency costs and ownership structure |
+| 2026-11-26 | Deferred | [LIT-3285](../../record/literature.d/LIT-3285.md) | 0 | 2 | 1 | How to Do Things with Emotional Expressions: The Theory of Affective Pragmatics |
+| 2026-11-26 | Deferred | [LIT-3286](../../record/literature.d/LIT-3286.md) | 0 | 2 | 1 | How Emotions Regulate Social Life: The Emotions as Social Information (EASI) Model |
+| 2026-11-26 | Deferred | [LIT-3287](../../record/literature.d/LIT-3287.md) | 0 | 2 | 0 | Aspiration: The Agency of Becoming |
+| 2026-11-26 | Deferred | [LIT-3288](../../record/literature.d/LIT-3288.md) | 0 | 2 | 0 | A Logic for Coalitions with Bounded Resources |
+| 2026-11-26 | Deferred | [LIT-3289](../../record/literature.d/LIT-3289.md) | 0 | 2 | 1 | United States v. Philip Morris USA, Inc., et al., Civil Action No. 99-2496 (GK), Amended Final Opinion |
+| 2026-11-26 | Deferred | [LIT-3290](../../record/literature.d/LIT-3290.md) | 0 | 2 | 0 | Endogenous Preferences: The Cultural Consequences of Markets and Other Economic Institutions |
+| 2026-11-26 | Deferred | [LIT-3293](../../record/literature.d/LIT-3293.md) | 0 | 2 | 2 | How do social media feed algorithms affect attitudes and behavior in an election campaign? |
+| 2026-11-26 | Deferred | [LIT-3296](../../record/literature.d/LIT-3296.md) | 0 | 2 | 2 | Our Place in Canada: Main Report of the Royal Commission on Renewing and Strengthening Our Place in Canada |
+| 2026-11-26 | Deferred | [LIT-3297](../../record/literature.d/LIT-3297.md) | 0 | 2 | 1 | Tournament Solutions and Majority Voting |
+| 2026-11-26 | Deferred | [LIT-3298](../../record/literature.d/LIT-3298.md) | 0 | 2 | 1 | Aggregation of Preferences with Variable Electorate |
+| 2026-11-26 | Deferred | [LIT-3300](../../record/literature.d/LIT-3300.md) | 0 | 2 | 1 | Social Functions of Emotions at Four Levels of Analysis |
+| 2026-11-26 | Deferred | [LIT-3301](../../record/literature.d/LIT-3301.md) | 0 | 2 | 1 | Human Facial Expression: An Evolutionary View |
+| 2026-11-26 | Deferred | [LIT-3303](../../record/literature.d/LIT-3303.md) | 0 | 2 | 0 | Alternating-time temporal logic with resource bounds |
+| 2026-11-26 | Deferred | [LIT-3304](../../record/literature.d/LIT-3304.md) | 0 | 2 | 0 | Transformative Experience |
+| 2026-11-26 | Deferred | [LIT-3315](../../record/literature.d/LIT-3315.md) | 0 | 2 | 0 | The modal logic of forcing |
+| 2026-11-26 | Deferred | [LIT-3317](../../record/literature.d/LIT-3317.md) | 0 | 2 | 0 | The Algebra of Topology |
+| 2026-11-26 | Deferred | [LIT-3318](../../record/literature.d/LIT-3318.md) | 0 | 2 | 1 | The Logic of Collective Choice |
+| 2026-11-26 | Deferred | [LIT-3266](../../record/literature.d/LIT-3266.md) | 0 | 1 | 0 | Justice Department Announces Global Resolution of Criminal and Civil Investigations with Opioid Manufacturer Purdue Pharma and Civil Settlement with Members of the Sackler Family |
+| 2026-11-26 | Deferred | [LIT-3269](../../record/literature.d/LIT-3269.md) | 0 | 1 | 0 | MemGPT: Towards LLMs as Operating Systems |
+| 2026-11-26 | Deferred | [LIT-3270](../../record/literature.d/LIT-3270.md) | 0 | 1 | 0 | Power-Dependence Relations |
+| 2026-11-26 | Deferred | [LIT-3272](../../record/literature.d/LIT-3272.md) | 0 | 1 | 0 | The Mind of a Mnemonist |
+| 2026-11-26 | Deferred | [LIT-3280](../../record/literature.d/LIT-3280.md) | 0 | 1 | 0 | Dynamic Epistemic Logic |
+| 2026-11-26 | Deferred | [LIT-3291](../../record/literature.d/LIT-3291.md) | 0 | 1 | 1 | Learn About Volkswagen Violations |
+| 2026-11-26 | Deferred | [LIT-3305](../../record/literature.d/LIT-3305.md) | 0 | 1 | 0 | Modal logics of sabotage revisited |
+| 2026-11-26 | Deferred | [LIT-3306](../../record/literature.d/LIT-3306.md) | 0 | 1 | 0 | Reasoning About Space: The Modal Way |
+| 2026-11-26 | Deferred | [LIT-3307](../../record/literature.d/LIT-3307.md) | 0 | 1 | 0 | Lethe: Saturation-Based Reasoning for Non-Standard Reasoning Tasks |
+| 2026-11-26 | Deferred | [LIT-3309](../../record/literature.d/LIT-3309.md) | 0 | 1 | 0 | The Superintelligent Will: Motivation and Instrumental Rationality in Advanced Artificial Agents |
+| 2026-11-26 | Deferred | [LIT-3311](../../record/literature.d/LIT-3311.md) | 0 | 1 | 0 | Interactive unawareness |
+| 2026-11-26 | Deferred | [LIT-3314](../../record/literature.d/LIT-3314.md) | 0 | 1 | 0 | Wells Fargo Agrees to Pay $3 Billion to Resolve Criminal and Civil Investigations into Sales Practices Involving the Opening of Millions of Accounts without Customer Authorization |
+| 2026-11-27 | Deferred | [LIT-3275](../../record/literature.d/LIT-3275.md) | 0 | 1 | 0 | Internet-related psychosis - a sign of the times |
 
 ## THEORYs
 
-1364 of the 3020.
+1383 of the 3226.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
-| 2026-10-03 | Proposed | [THEORY-055](../../record/theory.d/THEORY-055.md) | 12 | 78 | 12 | Appraisal elicits emotion as action readiness |
-| 2026-10-03 | Proposed | [THEORY-101](../../record/theory.d/THEORY-101.md) | 10 | 83 | 16 | Consciousness began as hedonic valence |
+| 2026-10-14 | Proposed | [THEORY-279](../../record/theory.d/THEORY-279.md) | 17 | 18 | 5 | Networks learn low-order statistics first |
+| 2026-10-20 | Proposed | [THEORY-759](../../record/theory.d/THEORY-759.md) | 17 | 11 | 1 | Network fits low frequencies first regardless |
+| 2026-10-20 | Proposed | [THEORY-794](../../record/theory.d/THEORY-794.md) | 17 | 5 | 1 | Compositional generalization needs diverse combos |
+| 2026-10-05 | Proposed | [THEORY-150](../../record/theory.d/THEORY-150.md) | 16 | 18 | 3 | Platforms decay in three stages |
+| 2026-10-16 | Proposed | [THEORY-470](../../record/theory.d/THEORY-470.md) | 16 | 20 | 1 | Enshittification follows weakened constraints |
+| 2026-10-03 | Proposed | [THEORY-055](../../record/theory.d/THEORY-055.md) | 14 | 80 | 12 | Appraisal elicits emotion as action readiness |
+| 2026-10-14 | Proposed | [THEORY-258](../../record/theory.d/THEORY-258.md) | 13 | 17 | 5 | Feedback optimization targets vulnerable users |
+| 2026-10-16 | Proposed | [THEORY-662](../../record/theory.d/THEORY-662.md) | 13 | 29 | 7 | Fluency is inferred processing precision |
+| 2026-11-27 | Proposed | [THEORY-2316](../../record/theory.d/THEORY-2316.md) | 11 | 10 | 2 | Presentation alone costs language models accuracy, and activations tell which presentation it was |
+| 2026-10-03 | Proposed | [THEORY-101](../../record/theory.d/THEORY-101.md) | 10 | 84 | 17 | Consciousness began as hedonic valence |
+| 2026-10-03 | Proposed | [THEORY-052](../../record/theory.d/THEORY-052.md) | 9 | 69 | 5 | Need frustration is transdiagnostic |
+| 2026-11-03 | Proposed | [THEORY-1319](../../record/theory.d/THEORY-1319.md) | 9 | 4 | 0 | Extrinsic attainment adds no well-being |
 | 2026-10-03 | Proposed | [THEORY-067](../../record/theory.d/THEORY-067.md) | 8 | 75 | 2 | Self-control needs no faculty of will |
 | 2026-10-03 | Proposed | [THEORY-070](../../record/theory.d/THEORY-070.md) | 8 | 71 | 7 | Control allocation is a cost-benefit computation |
 | 2026-10-09 | Proposed | [THEORY-159](../../record/theory.d/THEORY-159.md) | 8 | 59 | 16 | A term's value is set by its coexisting terms |
 | 2026-10-20 | Proposed | [THEORY-777](../../record/theory.d/THEORY-777.md) | 8 | 52 | 0 | Decimation keeps only relevant Fisher directions |
+| 2026-10-30 | Proposed | [THEORY-1240](../../record/theory.d/THEORY-1240.md) | 8 | 3 | 1 | Chat models follow narrative, not fixed truth |
 | 2026-11-19 | Proposed | [THEORY-2044](../../record/theory.d/THEORY-2044.md) | 8 | 21 | 4 | Partial contraction yields synchronization |
 | 2026-11-21 | Proposed | [THEORY-2155](../../record/theory.d/THEORY-2155.md) | 8 | 27 | 0 | Hyperribbon widths track Jacobian singular values |
+| 2026-10-14 | Proposed | [THEORY-235](../../record/theory.d/THEORY-235.md) | 7 | 31 | 2 | Covert exploitation always harms autonomy |
+| 2026-10-14 | Proposed | [THEORY-225](../../record/theory.d/THEORY-225.md) | 7 | 18 | 0 | No single mechanism defines manipulation |
 | 2026-11-21 | Proposed | [THEORY-2143](../../record/theory.d/THEORY-2143.md) | 7 | 8 | 0 | Seminorm contraction leaves the kernel free |
 | 2026-11-21 | Proposed | [THEORY-2142](../../record/theory.d/THEORY-2142.md) | 7 | 7 | 0 | Ergodicity coefficients are induced seminorms |
 | 2026-11-22 | Proposed | [THEORY-2171](../../record/theory.d/THEORY-2171.md) | 7 | 27 | 0 | Teacher spike detaches by a BBP transition |
+| 2026-10-21 | Proposed | [THEORY-857](../../record/theory.d/THEORY-857.md) | 6 | 11 | 0 | Access and transparency remedies can backfire |
 | 2026-10-22 | Proposed | [THEORY-885](../../record/theory.d/THEORY-885.md) | 6 | 21 | 8 | Politics is more path dependent than markets |
 | 2026-11-12 | Proposed | [THEORY-1732](../../record/theory.d/THEORY-1732.md) | 6 | 4 | 0 | Unreliable channels can't create common knowledge |
 | 2026-11-21 | Proposed | [THEORY-2150](../../record/theory.d/THEORY-2150.md) | 6 | 36 | 1 | Multiplicative growth can yield power laws |
 | 2026-11-21 | Proposed | [THEORY-2156](../../record/theory.d/THEORY-2156.md) | 6 | 14 | 0 | Fits fail at the model manifold's boundaries |
 | 2026-11-22 | Proposed | [THEORY-2174](../../record/theory.d/THEORY-2174.md) | 6 | 26 | 0 | V1 eigenspectrum follows a 1/n power law |
+| 2026-10-15 | Proposed | [THEORY-343](../../record/theory.d/THEORY-343.md) | 5 | 9 | 2 | Offloading tracks felt demand, not benefit |
+| 2026-10-15 | Proposed | [THEORY-359](../../record/theory.d/THEORY-359.md) | 5 | 8 | 2 | Resource-rational analysis rederives heuristics |
+| 2026-10-15 | Proposed | [THEORY-330](../../record/theory.d/THEORY-330.md) | 5 | 3 | 2 | People choose their reward-optimal memory load |
 | 2026-10-23 | Proposed | [THEORY-893](../../record/theory.d/THEORY-893.md) | 5 | 26 | 3 | Wanting can rise without liking |
+| 2026-11-05 | Proposed | [THEORY-1483](../../record/theory.d/THEORY-1483.md) | 5 | 13 | 2 | Aid can erode tax capacity past a threshold |
+| 2026-11-05 | Proposed | [THEORY-1459](../../record/theory.d/THEORY-1459.md) | 5 | 12 | 1 | Earned tax revenue builds state capacity |
 | 2026-11-21 | Proposed | [THEORY-2131](../../record/theory.d/THEORY-2131.md) | 5 | 22 | 0 | Hazard uncertainty yields hyperbolic discounting |
 | 2026-11-21 | Proposed | [THEORY-2158](../../record/theory.d/THEORY-2158.md) | 5 | 20 | 0 | Reservoir capacity sums to at most N |
 | 2026-11-21 | Proposed | [THEORY-2149](../../record/theory.d/THEORY-2149.md) | 5 | 17 | 0 | Spikes above 1+√c give own outlier eigenvalues |
@@ -257,9 +320,8 @@
 | 2026-11-25 | Proposed | [THEORY-2307](../../record/theory.d/THEORY-2307.md) | 5 | 21 | 0 | Assertion is of judgements; propositions are sets |
 | 2026-10-03 | Proposed | [THEORY-054](../../record/theory.d/THEORY-054.md) | 4 | 79 | 9 | Autonomy is graded integration, not order |
 | 2026-10-03 | Proposed | [THEORY-092](../../record/theory.d/THEORY-092.md) | 4 | 29 | 3 | Behavioural capacity doesn't fix intelligence |
+| 2026-10-16 | Proposed | [THEORY-406](../../record/theory.d/THEORY-406.md) | 4 | 19 | 2 | Networked publics collapse audience boundaries |
 | 2026-10-23 | Proposed | [THEORY-895](../../record/theory.d/THEORY-895.md) | 4 | 18 | 11 | Drugs sensitize wanting, not liking |
-| 2026-11-05 | Proposed | [THEORY-1483](../../record/theory.d/THEORY-1483.md) | 4 | 13 | 2 | Aid can erode tax capacity past a threshold |
-| 2026-11-05 | Proposed | [THEORY-1459](../../record/theory.d/THEORY-1459.md) | 4 | 12 | 1 | Earned tax revenue builds state capacity |
 | 2026-11-21 | Proposed | [THEORY-2154](../../record/theory.d/THEORY-2154.md) | 4 | 17 | 0 | Sloppiness is a hyperribbon model manifold |
 | 2026-11-21 | Proposed | [THEORY-2147](../../record/theory.d/THEORY-2147.md) | 4 | 6 | 0 | Command–transition MI scores assistive interfaces |
 | 2026-11-22 | Proposed | [THEORY-2167](../../record/theory.d/THEORY-2167.md) | 4 | 35 | 0 | Hyperribbon ubiquity is empirical, not proven |
@@ -272,7 +334,7 @@
 | 2026-11-22 | Proposed | [THEORY-2268](../../record/theory.d/THEORY-2268.md) | 4 | 18 | 4 | Normative force is relative to constitution |
 | 2026-11-22 | Proposed | [THEORY-2175](../../record/theory.d/THEORY-2175.md) | 4 | 17 | 1 | Jumping to lower states yields 1/i visits |
 | 2026-11-22 | Proposed | [THEORY-2184](../../record/theory.d/THEORY-2184.md) | 4 | 13 | 0 | BA model needs growth and linear attachment |
-| 2026-11-23 | Proposed | [THEORY-2305](../../record/theory.d/THEORY-2305.md) | 4 | 15 | 1 | Fine-tuning biases toward reusing features |
+| 2026-11-23 | Proposed | [THEORY-2305](../../record/theory.d/THEORY-2305.md) | 4 | 16 | 1 | Fine-tuning biases toward reusing features |
 | 2026-11-23 | Proposed | [THEORY-2304](../../record/theory.d/THEORY-2304.md) | 4 | 12 | 0 | On-site monitors cut corporate violations |
 | undated | Proposed | [THEORY-1932](../../record/theory.d/THEORY-1932.md) | 4 | 18 | 0 | Uber safety culture contributed to Tempe crash |
 | 2026-09-30 | Proposed | [THEORY-029](../../record/theory.d/THEORY-029.md) | 3 | 119 | 1 | Higher-order attitudes can't confer ownership |
@@ -316,16 +378,12 @@
 | 2026-10-03 | Proposed | [THEORY-115](../../record/theory.d/THEORY-115.md) | 2 | 11 | 1 | Shared-start connectivity needs shared objectives |
 | 2026-10-05 | Proposed | [THEORY-139](../../record/theory.d/THEORY-139.md) | 2 | 67 | 20 | Corporations can be responsible agents |
 | 2026-10-05 | Proposed | [THEORY-131](../../record/theory.d/THEORY-131.md) | 2 | 32 | 6 | CID structures make corporations agents |
-| 2026-10-05 | Proposed | [THEORY-150](../../record/theory.d/THEORY-150.md) | 2 | 16 | 3 | Platforms decay in three stages |
 | 2026-10-05 | Proposed | [THEORY-152](../../record/theory.d/THEORY-152.md) | 2 | 16 | 4 | Exit and voice both aid recovery |
 | 2026-10-09 | Proposed | [THEORY-186](../../record/theory.d/THEORY-186.md) | 2 | 85 | 2 | Deep linear nets learn modes stage by stage |
 | 2026-10-13 | Proposed | [THEORY-220](../../record/theory.d/THEORY-220.md) | 2 | 48 | 7 | Self-maintenance grounds intrinsic function |
 | 2026-10-14 | Proposed | [THEORY-328](../../record/theory.d/THEORY-328.md) | 2 | 31 | 0 | Manipulation shows determinism defeats desert |
+| 2026-10-14 | Proposed | [THEORY-300](../../record/theory.d/THEORY-300.md) | 2 | 6 | 0 | Coercion reduces the sense of agency |
 | 2026-10-16 | Proposed | [THEORY-495](../../record/theory.d/THEORY-495.md) | 2 | 35 | 17 | Obligation is internalized joint-agent pressure |
-| 2026-10-16 | Proposed | [THEORY-662](../../record/theory.d/THEORY-662.md) | 2 | 25 | 6 | Fluency is inferred processing precision |
-| 2026-10-16 | Proposed | [THEORY-470](../../record/theory.d/THEORY-470.md) | 2 | 18 | 1 | Enshittification follows weakened constraints |
-| 2026-10-16 | Proposed | [THEORY-406](../../record/theory.d/THEORY-406.md) | 2 | 14 | 0 | Networked publics collapse audience boundaries |
-| 2026-10-21 | Proposed | [THEORY-857](../../record/theory.d/THEORY-857.md) | 2 | 11 | 0 | Access and transparency remedies can backfire |
 | 2026-10-31 | Proposed | [THEORY-1279](../../record/theory.d/THEORY-1279.md) | 2 | 17 | 5 | Radial categories change as they are applied |
 | 2026-11-04 | Proposed | [THEORY-1429](../../record/theory.d/THEORY-1429.md) | 2 | 8 | 0 | Critical transitions leave slow manifolds |
 | 2026-11-05 | Proposed | [THEORY-1374](../../record/theory.d/THEORY-1374.md) | 2 | 5 | 0 | Freedom spaces compose in parallel and series |
@@ -333,6 +391,7 @@
 | 2026-11-12 | Proposed | [THEORY-1703](../../record/theory.d/THEORY-1703.md) | 2 | 16 | 1 | RL expands agent boundary; SFT contracts it |
 | 2026-11-12 | Proposed | [THEORY-1640](../../record/theory.d/THEORY-1640.md) | 2 | 8 | 0 | Low-rank updates match full fine-tuning |
 | 2026-11-12 | Proposed | [THEORY-1654](../../record/theory.d/THEORY-1654.md) | 2 | 8 | 0 | Microchimerism is bidirectional and long-lived |
+| 2026-11-13 | Proposed | [THEORY-1842](../../record/theory.d/THEORY-1842.md) | 2 | 8 | 0 | Surveillance capitalism rivals democratic rule |
 | 2026-11-15 | Proposed | [THEORY-1880](../../record/theory.d/THEORY-1880.md) | 2 | 20 | 0 | RLVR sharpens sampling, doesn't expand reasoning |
 | 2026-11-15 | Proposed | [THEORY-1896](../../record/theory.d/THEORY-1896.md) | 2 | 7 | 0 | Forward-KL tuning forgets; KL-regularized RL keeps |
 | 2026-11-15 | Proposed | [THEORY-1899](../../record/theory.d/THEORY-1899.md) | 2 | 6 | 0 | RLVR acts through a few high-divergence tokens |
@@ -361,13 +420,16 @@
 | 2026-11-23 | Proposed | [THEORY-2280](../../record/theory.d/THEORY-2280.md) | 2 | 8 | 0 | Parent depression transmits environmentally |
 | 2026-11-23 | Proposed | [THEORY-2297](../../record/theory.d/THEORY-2297.md) | 2 | 7 | 0 | Prenatal stress effects mostly environmental |
 | 2026-11-23 | Proposed | [THEORY-2296](../../record/theory.d/THEORY-2296.md) | 2 | 6 | 0 | Teacher performance pay raises test scores |
+| 2026-11-27 | Proposed | [THEORY-2324](../../record/theory.d/THEORY-2324.md) | 2 | 5 | 2 | Chatbots can co-create delusions in the vulnerable by drift |
 | undated | Proposed | [THEORY-1928](../../record/theory.d/THEORY-1928.md) | 2 | 21 | 0 | Operators absorb blame as moral crumple zones |
+| undated | Proposed | [THEORY-1943](../../record/theory.d/THEORY-1943.md) | 2 | 5 | 0 | Coercive control is unfreedom, not violence |
 | 2026-09-30 | Proposed | [THEORY-023](../../record/theory.d/THEORY-023.md) | 1 | 161 | 4 | Evidence cannot settle AI consciousness |
 | 2026-10-03 | Proposed | [THEORY-056](../../record/theory.d/THEORY-056.md) | 1 | 105 | 7 | Regulation is not separate from emotion generation |
 | 2026-10-03 | Proposed | [THEORY-064](../../record/theory.d/THEORY-064.md) | 1 | 61 | 1 | Self is an unrecognised self-model's content |
 | 2026-10-03 | Proposed | [THEORY-090](../../record/theory.d/THEORY-090.md) | 1 | 38 | 2 | Basic affective consciousness is subcortical |
 | 2026-10-03 | Proposed | [THEORY-050](../../record/theory.d/THEORY-050.md) | 1 | 37 | 2 | Psychological inflexibility is transdiagnostic |
 | 2026-10-03 | Proposed | [THEORY-091](../../record/theory.d/THEORY-091.md) | 1 | 37 | 1 | Joint loss doesn't show a phenomenal function |
+| 2026-10-03 | Proposed | [THEORY-049](../../record/theory.d/THEORY-049.md) | 1 | 31 | 2 | Control lowers motivation; competence info raises |
 | 2026-10-03 | Proposed | [THEORY-084](../../record/theory.d/THEORY-084.md) | 1 | 28 | 9 | Lazy Fisher inherits NTK harmonic blocks |
 | 2026-10-03 | Proposed | [THEORY-062](../../record/theory.d/THEORY-062.md) | 1 | 26 | 9 | Reliability, not a supervisor, arbitrates control |
 | 2026-10-03 | Proposed | [THEORY-100](../../record/theory.d/THEORY-100.md) | 1 | 25 | 2 | Conscious report correlate needs no laminar cortex |
@@ -393,6 +455,8 @@
 | 2026-10-16 | Proposed | [THEORY-438](../../record/theory.d/THEORY-438.md) | 1 | 7 | 0 | Deep nets' understanding is real but fractured |
 | 2026-10-16 | Proposed | [THEORY-487](../../record/theory.d/THEORY-487.md) | 1 | 7 | 1 | Grounding and anchoring are separable questions |
 | 2026-10-16 | Proposed | [THEORY-560](../../record/theory.d/THEORY-560.md) | 1 | 6 | 0 | Gut–stress link strong in rodents, weak in people |
+| 2026-10-16 | Proposed | [THEORY-571](../../record/theory.d/THEORY-571.md) | 1 | 6 | 1 | Brain states are metastable landscape dynamics |
+| 2026-10-16 | Proposed | [THEORY-616](../../record/theory.d/THEORY-616.md) | 1 | 6 | 0 | LLM attitudes belong to instances, not models |
 | 2026-10-16 | Proposed | [THEORY-643](../../record/theory.d/THEORY-643.md) | 1 | 4 | 0 | One component can build words and phrases |
 | 2026-10-16 | Proposed | [THEORY-558](../../record/theory.d/THEORY-558.md) | 1 | 3 | 1 | Moral judgment is intuition; reasoning post hoc |
 | 2026-10-16 | Proposed | [THEORY-561](../../record/theory.d/THEORY-561.md) | 1 | 2 | 0 | Moral thresholds make group good non-additive |
@@ -415,15 +479,18 @@
 | 2026-11-06 | Proposed | [THEORY-1506](../../record/theory.d/THEORY-1506.md) | 1 | 4 | 1 | Bubbles settle into long-lived oscillons |
 | 2026-11-06 | Proposed | [THEORY-1500](../../record/theory.d/THEORY-1500.md) | 1 | 3 | 0 | Kerr solitons exist in a detuning window |
 | 2026-11-12 | Proposed | [THEORY-1818](../../record/theory.d/THEORY-1818.md) | 1 | 14 | 0 | Universal vulnerability makes states answerable |
+| 2026-11-12 | Proposed | [THEORY-1765](../../record/theory.d/THEORY-1765.md) | 1 | 11 | 0 | Forcing thought cuts AI overreliance, liked less |
 | 2026-11-12 | Proposed | [THEORY-1797](../../record/theory.d/THEORY-1797.md) | 1 | 10 | 1 | Carnap's explication is conceptual engineering |
 | 2026-11-12 | Proposed | [THEORY-1809](../../record/theory.d/THEORY-1809.md) | 1 | 10 | 0 | IAD analyses rules-in-use at nested levels |
 | 2026-11-12 | Proposed | [THEORY-1733](../../record/theory.d/THEORY-1733.md) | 1 | 9 | 0 | Gated ontology evolution lifts data agents |
 | 2026-11-12 | Proposed | [THEORY-1639](../../record/theory.d/THEORY-1639.md) | 1 | 8 | 0 | 22M image adapter rivals fine-tuning, not identity |
 | 2026-11-12 | Proposed | [THEORY-1758](../../record/theory.d/THEORY-1758.md) | 1 | 8 | 0 | Publications as claim-and-support graphs |
 | 2026-11-12 | Proposed | [THEORY-1777](../../record/theory.d/THEORY-1777.md) | 1 | 7 | 0 | LLM theories more complex, not more predictive |
+| 2026-11-12 | Proposed | [THEORY-1656](../../record/theory.d/THEORY-1656.md) | 1 | 6 | 0 | LLM documents crowd out human sources in retrieval |
 | 2026-11-12 | Proposed | [THEORY-1817](../../record/theory.d/THEORY-1817.md) | 1 | 6 | 0 | Black education debt shows predatory inclusion |
 | 2026-11-12 | Proposed | [THEORY-1655](../../record/theory.d/THEORY-1655.md) | 1 | 5 | 0 | Negative words raise headline click-through |
 | 2026-11-12 | Proposed | [THEORY-1662](../../record/theory.d/THEORY-1662.md) | 1 | 5 | 0 | Brain sickness responses are pathogen-specific |
+| 2026-11-12 | Proposed | [THEORY-1701](../../record/theory.d/THEORY-1701.md) | 1 | 5 | 0 | Platform quality collapse can be irreversible |
 | 2026-11-12 | Proposed | [THEORY-1709](../../record/theory.d/THEORY-1709.md) | 1 | 5 | 0 | Duplicated content crowds out local news |
 | 2026-11-12 | Proposed | [THEORY-1712](../../record/theory.d/THEORY-1712.md) | 1 | 5 | 0 | Tube-site algorithms shape porn demand and supply |
 | 2026-11-12 | Proposed | [THEORY-1787](../../record/theory.d/THEORY-1787.md) | 1 | 5 | 0 | Grammar types laws reliably, components less so |
@@ -442,7 +509,6 @@
 | 2026-11-13 | Proposed | [THEORY-1859](../../record/theory.d/THEORY-1859.md) | 1 | 12 | 0 | Artifacts can embody power and authority |
 | 2026-11-13 | Proposed | [THEORY-1863](../../record/theory.d/THEORY-1863.md) | 1 | 10 | 1 | Past an energy threshold, transport cuts equity |
 | 2026-11-13 | Proposed | [THEORY-1843](../../record/theory.d/THEORY-1843.md) | 1 | 9 | 0 | Neoliberal power seduces rather than represses |
-| 2026-11-13 | Proposed | [THEORY-1842](../../record/theory.d/THEORY-1842.md) | 1 | 8 | 0 | Surveillance capitalism rivals democratic rule |
 | 2026-11-13 | Proposed | [THEORY-1850](../../record/theory.d/THEORY-1850.md) | 1 | 8 | 1 | Comparing injustices needs a standard of justice |
 | 2026-11-13 | Proposed | [THEORY-1837](../../record/theory.d/THEORY-1837.md) | 1 | 7 | 0 | Achievement society breeds self-exploitation |
 | 2026-11-13 | Proposed | [THEORY-1851](../../record/theory.d/THEORY-1851.md) | 1 | 6 | 0 | New tech deepens racial hierarchies |
@@ -493,12 +559,14 @@
 | 2026-11-22 | Proposed | [THEORY-2208](../../record/theory.d/THEORY-2208.md) | 1 | 7 | 0 | Flow doesn't predict later valence |
 | 2026-11-22 | Proposed | [THEORY-2264](../../record/theory.d/THEORY-2264.md) | 1 | 7 | 0 | Frontal tDCS raises mind-wandering |
 | 2026-11-22 | Proposed | [THEORY-2178](../../record/theory.d/THEORY-2178.md) | 1 | 6 | 0 | Credit accrues to already eminent scientists |
+| 2026-11-22 | Proposed | [THEORY-2217](../../record/theory.d/THEORY-2217.md) | 1 | 6 | 0 | Recommenders inflate confidence via fluency |
 | 2026-11-22 | Proposed | [THEORY-2238](../../record/theory.d/THEORY-2238.md) | 1 | 6 | 0 | Nafaanra went from three colour terms to seven |
 | 2026-11-22 | Proposed | [THEORY-2239](../../record/theory.d/THEORY-2239.md) | 1 | 5 | 0 | Bilinguals split green-blue without borrowing |
 | 2026-11-22 | Proposed | [THEORY-2241](../../record/theory.d/THEORY-2241.md) | 1 | 5 | 0 | Brief mindfulness speeds responses briefly |
 | 2026-11-23 | Proposed | [THEORY-2293](../../record/theory.d/THEORY-2293.md) | 1 | 6 | 0 | Epigenetic trauma transmission evidence is thin |
 | 2026-11-23 | Proposed | [THEORY-2303](../../record/theory.d/THEORY-2303.md) | 1 | 6 | 0 | Maltreated fathers' sperm methylation differs |
 | 2026-11-23 | Proposed | [THEORY-2282](../../record/theory.d/THEORY-2282.md) | 1 | 4 | 0 | Small incentives doubled immunisation over camps |
+| 2026-11-27 | Proposed | [THEORY-2322](../../record/theory.d/THEORY-2322.md) | 1 | 7 | 1 | Trained specification gaming generalizes, rarely, to reward tampering |
 | undated | Proposed | [THEORY-1917](../../record/theory.d/THEORY-1917.md) | 1 | 29 | 0 | Fiduciaries are exposed to moral blackmail |
 | 2026-09-26 | Proposed | [THEORY-002](../../record/theory.d/THEORY-002.md) | 0 | 64 | 24 | Kernel convergence fixes features up to symmetry |
 | 2026-09-26 | Proposed | [THEORY-001](../../record/theory.d/THEORY-001.md) | 0 | 52 | 1 | Contrastive losses share one population optimum |
@@ -515,14 +583,12 @@
 | 2026-10-03 | Proposed | [THEORY-072](../../record/theory.d/THEORY-072.md) | 0 | 104 | 6 | Organisms differ from flames by differentiation |
 | 2026-10-03 | Proposed | [THEORY-045](../../record/theory.d/THEORY-045.md) | 0 | 92 | 2 | Felt affect is experience of the regulatory state |
 | 2026-10-03 | Proposed | [THEORY-071](../../record/theory.d/THEORY-071.md) | 0 | 83 | 6 | Individuality alone is not agency |
-| 2026-10-03 | Proposed | [THEORY-052](../../record/theory.d/THEORY-052.md) | 0 | 65 | 4 | Need frustration is transdiagnostic |
 | 2026-10-03 | Proposed | [THEORY-107](../../record/theory.d/THEORY-107.md) | 0 | 60 | 2 | Merging loses accuracy through interference |
 | 2026-10-03 | Proposed | [THEORY-057](../../record/theory.d/THEORY-057.md) | 0 | 54 | 14 | Emotion categories are not natural kinds |
 | 2026-10-03 | Proposed | [THEORY-063](../../record/theory.d/THEORY-063.md) | 0 | 54 | 6 | Unity of experience needs no self-model |
 | 2026-10-03 | Proposed | [THEORY-058](../../record/theory.d/THEORY-058.md) | 0 | 47 | 5 | Disorders are causal loops, not latent causes |
 | 2026-10-03 | Proposed | [THEORY-096](../../record/theory.d/THEORY-096.md) | 0 | 36 | 10 | Consciousness is global neuronal ignition |
 | 2026-10-03 | Proposed | [THEORY-122](../../record/theory.d/THEORY-122.md) | 0 | 31 | 2 | Responsibility needs normative competence |
-| 2026-10-03 | Proposed | [THEORY-049](../../record/theory.d/THEORY-049.md) | 0 | 29 | 2 | Control lowers motivation; competence info raises |
 | 2026-10-03 | Proposed | [THEORY-078](../../record/theory.d/THEORY-078.md) | 0 | 28 | 4 | Top Fisher eigenvalues span the class means |
 | 2026-10-03 | Proposed | [THEORY-044](../../record/theory.d/THEORY-044.md) | 0 | 27 | 5 | Self as context is a learned deictic perspective |
 | 2026-10-03 | Proposed | [THEORY-109](../../record/theory.d/THEORY-109.md) | 0 | 26 | 6 | SGD solutions form one connected low-loss set |
@@ -589,18 +655,15 @@
 | 2026-10-14 | Proposed | [THEORY-286](../../record/theory.d/THEORY-286.md) | 0 | 37 | 0 | Imbalance yields SELI, not simplex ETF |
 | 2026-10-14 | Proposed | [THEORY-232](../../record/theory.d/THEORY-232.md) | 0 | 36 | 6 | Agency grows when parts resolve constraints |
 | 2026-10-14 | Proposed | [THEORY-317](../../record/theory.d/THEORY-317.md) | 0 | 31 | 0 | Epistemic injustice wrongs one as a knower |
-| 2026-10-14 | Proposed | [THEORY-235](../../record/theory.d/THEORY-235.md) | 0 | 29 | 2 | Covert exploitation always harms autonomy |
 | 2026-10-14 | Proposed | [THEORY-316](../../record/theory.d/THEORY-316.md) | 0 | 23 | 0 | Frankfurt cases spare causal-history conditions |
 | 2026-10-14 | Proposed | [THEORY-325](../../record/theory.d/THEORY-325.md) | 0 | 21 | 0 | Noise destabilizes operators, more if non-normal |
 | 2026-10-14 | Proposed | [THEORY-326](../../record/theory.d/THEORY-326.md) | 0 | 20 | 4 | Hermeneutical injustice needs no powerless group |
 | 2026-10-14 | Proposed | [THEORY-323](../../record/theory.d/THEORY-323.md) | 0 | 19 | 0 | Non-normal systems hold variance spectra miss |
-| 2026-10-14 | Proposed | [THEORY-225](../../record/theory.d/THEORY-225.md) | 0 | 15 | 0 | No single mechanism defines manipulation |
 | 2026-10-14 | Proposed | [THEORY-240](../../record/theory.d/THEORY-240.md) | 0 | 15 | 0 | Unconsciousness cuts integration at gateways |
 | 2026-10-14 | Proposed | [THEORY-249](../../record/theory.d/THEORY-249.md) | 0 | 15 | 1 | Agency is decidable only to a reference frame |
-| 2026-10-14 | Proposed | [THEORY-279](../../record/theory.d/THEORY-279.md) | 0 | 15 | 4 | Networks learn low-order statistics first |
 | 2026-10-14 | Proposed | [THEORY-288](../../record/theory.d/THEORY-288.md) | 0 | 15 | 0 | Activation symmetry makes latents discrete |
+| 2026-10-14 | Proposed | [THEORY-252](../../record/theory.d/THEORY-252.md) | 0 | 13 | 1 | On functionalism, idle clamps alter experience |
 | 2026-10-14 | Proposed | [THEORY-251](../../record/theory.d/THEORY-251.md) | 0 | 12 | 0 | Few-shot failures arise at the readout |
-| 2026-10-14 | Proposed | [THEORY-252](../../record/theory.d/THEORY-252.md) | 0 | 12 | 1 | On functionalism, idle clamps alter experience |
 | 2026-10-14 | Proposed | [THEORY-322](../../record/theory.d/THEORY-322.md) | 0 | 12 | 0 | Agency draws on prospective signals too |
 | 2026-10-14 | Proposed | [THEORY-250](../../record/theory.d/THEORY-250.md) | 0 | 11 | 0 | DALL-E 3 isn't robustly compositional |
 | 2026-10-14 | Proposed | [THEORY-264](../../record/theory.d/THEORY-264.md) | 0 | 11 | 0 | Demos and instructions use different heads |
@@ -611,22 +674,17 @@
 | 2026-10-14 | Proposed | [THEORY-320](../../record/theory.d/THEORY-320.md) | 0 | 10 | 0 | Known classes steer which novel classes are found |
 | 2026-10-14 | Proposed | [THEORY-292](../../record/theory.d/THEORY-292.md) | 0 | 9 | 0 | Concept-direction alignment is a fitting artefact |
 | 2026-10-14 | Proposed | [THEORY-254](../../record/theory.d/THEORY-254.md) | 0 | 7 | 0 | Tangles match communities only when sharp |
-| 2026-10-14 | Proposed | [THEORY-258](../../record/theory.d/THEORY-258.md) | 0 | 7 | 1 | Feedback optimization targets vulnerable users |
 | 2026-10-14 | Proposed | [THEORY-287](../../record/theory.d/THEORY-287.md) | 0 | 7 | 0 | Located mediators predict OOD correctness |
 | 2026-10-14 | Proposed | [THEORY-302](../../record/theory.d/THEORY-302.md) | 0 | 6 | 0 | Action is controlled via coordinative structures |
 | 2026-10-14 | Proposed | [THEORY-226](../../record/theory.d/THEORY-226.md) | 0 | 5 | 0 | LLM revisions move essays in a shared direction |
 | 2026-10-14 | Proposed | [THEORY-241](../../record/theory.d/THEORY-241.md) | 0 | 5 | 0 | Same function, different internal decomposition |
 | 2026-10-14 | Proposed | [THEORY-274](../../record/theory.d/THEORY-274.md) | 0 | 5 | 0 | Sequence models store graphs as geometry |
 | 2026-10-14 | Proposed | [THEORY-291](../../record/theory.d/THEORY-291.md) | 0 | 5 | 0 | Visceromotor regions form one intrinsic system |
-| 2026-10-14 | Proposed | [THEORY-300](../../record/theory.d/THEORY-300.md) | 0 | 5 | 0 | Coercion reduces the sense of agency |
 | 2026-10-14 | Proposed | [THEORY-310](../../record/theory.d/THEORY-310.md) | 0 | 4 | 0 | Forward-looking blame makes capacity redundant |
 | 2026-10-14 | Proposed | [THEORY-303](../../record/theory.d/THEORY-303.md) | 0 | 3 | 0 | Acyclic scenarios admit no contextuality |
 | 2026-10-15 | Proposed | [THEORY-331](../../record/theory.d/THEORY-331.md) | 0 | 9 | 4 | High inference volume shifts compute up front |
-| 2026-10-15 | Proposed | [THEORY-343](../../record/theory.d/THEORY-343.md) | 0 | 7 | 1 | Offloading tracks felt demand, not benefit |
-| 2026-10-15 | Proposed | [THEORY-359](../../record/theory.d/THEORY-359.md) | 0 | 5 | 1 | Resource-rational analysis rederives heuristics |
 | 2026-10-15 | Proposed | [THEORY-339](../../record/theory.d/THEORY-339.md) | 0 | 3 | 2 | Probability judgments reuse earlier answers |
 | 2026-10-15 | Proposed | [THEORY-355](../../record/theory.d/THEORY-355.md) | 0 | 2 | 1 | Arranging surroundings replaces internal search |
-| 2026-10-15 | Proposed | [THEORY-330](../../record/theory.d/THEORY-330.md) | 0 | 1 | 1 | People choose their reward-optimal memory load |
 | 2026-10-16 | Proposed | [THEORY-458](../../record/theory.d/THEORY-458.md) | 0 | 43 | 0 | Sense of ownership and agency come apart |
 | 2026-10-16 | Proposed | [THEORY-464](../../record/theory.d/THEORY-464.md) | 0 | 36 | 3 | Ethics turns on relations other than identity |
 | 2026-10-16 | Proposed | [THEORY-497](../../record/theory.d/THEORY-497.md) | 0 | 33 | 15 | Synergy lets macro features predict the future |
@@ -647,9 +705,9 @@
 | 2026-10-16 | Proposed | [THEORY-538](../../record/theory.d/THEORY-538.md) | 0 | 15 | 0 | Belief is intentional-stance predictability |
 | 2026-10-16 | Proposed | [THEORY-539](../../record/theory.d/THEORY-539.md) | 0 | 14 | 7 | Sanctity descends from pathogen avoidance |
 | 2026-10-16 | Proposed | [THEORY-614](../../record/theory.d/THEORY-614.md) | 0 | 14 | 5 | ICL can be Bayesian inference over concepts |
+| 2026-10-16 | Proposed | [THEORY-663](../../record/theory.d/THEORY-663.md) | 0 | 14 | 5 | Reciprocal altruism can evolve between non-kin |
 | 2026-10-16 | Proposed | [THEORY-546](../../record/theory.d/THEORY-546.md) | 0 | 13 | 0 | Persons persist by psychological continuity |
 | 2026-10-16 | Proposed | [THEORY-554](../../record/theory.d/THEORY-554.md) | 0 | 12 | 0 | Standing grounds don't secure human priority |
-| 2026-10-16 | Proposed | [THEORY-663](../../record/theory.d/THEORY-663.md) | 0 | 12 | 5 | Reciprocal altruism can evolve between non-kin |
 | 2026-10-16 | Proposed | [THEORY-665](../../record/theory.d/THEORY-665.md) | 0 | 12 | 6 | Assertion is commitment in deontic scorekeeping |
 | 2026-10-16 | Proposed | [THEORY-673](../../record/theory.d/THEORY-673.md) | 0 | 12 | 8 | Price equation is a generalization-sketch |
 | 2026-10-16 | Proposed | [THEORY-484](../../record/theory.d/THEORY-484.md) | 0 | 11 | 0 | Brain implements options-based hierarchical RL |
@@ -664,10 +722,10 @@
 | 2026-10-16 | Proposed | [THEORY-476](../../record/theory.d/THEORY-476.md) | 0 | 9 | 1 | Stage-aggregate persons make identity matter |
 | 2026-10-16 | Proposed | [THEORY-563](../../record/theory.d/THEORY-563.md) | 0 | 9 | 0 | Consciousness is a coarse real pattern |
 | 2026-10-16 | Proposed | [THEORY-650](../../record/theory.d/THEORY-650.md) | 0 | 9 | 0 | Diachronic self-identity is level-relative |
+| 2026-10-16 | Proposed | [THEORY-666](../../record/theory.d/THEORY-666.md) | 0 | 9 | 1 | Autopoiesis gives organisms intrinsic purpose |
 | 2026-10-16 | Proposed | [THEORY-449](../../record/theory.d/THEORY-449.md) | 0 | 8 | 0 | Plants may have very low moral status |
 | 2026-10-16 | Proposed | [THEORY-536](../../record/theory.d/THEORY-536.md) | 0 | 8 | 0 | Group attitudes are real and non-redundant |
 | 2026-10-16 | Proposed | [THEORY-647](../../record/theory.d/THEORY-647.md) | 0 | 8 | 1 | Ultraclose credence dissolves the lottery paradox |
-| 2026-10-16 | Proposed | [THEORY-666](../../record/theory.d/THEORY-666.md) | 0 | 8 | 1 | Autopoiesis gives organisms intrinsic purpose |
 | 2026-10-16 | Proposed | [THEORY-699](../../record/theory.d/THEORY-699.md) | 0 | 8 | 0 | Insentient self-maintainers have a good |
 | 2026-10-16 | Proposed | [THEORY-703](../../record/theory.d/THEORY-703.md) | 0 | 8 | 5 | Weak emergence measured by Granger autonomy |
 | 2026-10-16 | Proposed | [THEORY-433](../../record/theory.d/THEORY-433.md) | 0 | 7 | 0 | Replace machine thought with the imitation game |
@@ -705,12 +763,12 @@
 | 2026-10-16 | Proposed | [THEORY-670](../../record/theory.d/THEORY-670.md) | 0 | 5 | 0 | Dispositions are restricted possibilities |
 | 2026-10-16 | Proposed | [THEORY-678](../../record/theory.d/THEORY-678.md) | 0 | 5 | 0 | Boosting attention restores neglected subjects |
 | 2026-10-16 | Proposed | [THEORY-436](../../record/theory.d/THEORY-436.md) | 0 | 4 | 0 | Pain is a functional state, not a brain state |
+| 2026-10-16 | Proposed | [THEORY-454](../../record/theory.d/THEORY-454.md) | 0 | 4 | 2 | Percepts enter cognition only when recoded |
 | 2026-10-16 | Proposed | [THEORY-459](../../record/theory.d/THEORY-459.md) | 0 | 4 | 0 | Exact duality excludes ontological emergence |
 | 2026-10-16 | Proposed | [THEORY-511](../../record/theory.d/THEORY-511.md) | 0 | 4 | 0 | Non-conventional illocutions are overt intentions |
 | 2026-10-16 | Proposed | [THEORY-514](../../record/theory.d/THEORY-514.md) | 0 | 4 | 0 | Constraint closure doesn't single out organisms |
 | 2026-10-16 | Proposed | [THEORY-570](../../record/theory.d/THEORY-570.md) | 0 | 4 | 2 | Emotions are resource selections, like thinking |
 | 2026-10-16 | Proposed | [THEORY-612](../../record/theory.d/THEORY-612.md) | 0 | 4 | 0 | Niche construction can't cause selection itself |
-| 2026-10-16 | Proposed | [THEORY-616](../../record/theory.d/THEORY-616.md) | 0 | 4 | 0 | LLM attitudes belong to instances, not models |
 | 2026-10-16 | Proposed | [THEORY-669](../../record/theory.d/THEORY-669.md) | 0 | 4 | 0 | Nomological ψ pays in the theory of laws |
 | 2026-10-16 | Proposed | [THEORY-681](../../record/theory.d/THEORY-681.md) | 0 | 4 | 0 | The self is a bundle of perceptions |
 | 2026-10-16 | Proposed | [THEORY-684](../../record/theory.d/THEORY-684.md) | 0 | 4 | 0 | Narrativity isn't needed for a good life |
@@ -719,10 +777,8 @@
 | 2026-10-16 | Proposed | [THEORY-434](../../record/theory.d/THEORY-434.md) | 0 | 3 | 0 | Rawls is incomplete, not transcendentalist |
 | 2026-10-16 | Proposed | [THEORY-440](../../record/theory.d/THEORY-440.md) | 0 | 3 | 2 | Breakdown can yield competitive authoritarianism |
 | 2026-10-16 | Proposed | [THEORY-442](../../record/theory.d/THEORY-442.md) | 0 | 3 | 0 | Non-epistemic values enter only via error costs |
-| 2026-10-16 | Proposed | [THEORY-454](../../record/theory.d/THEORY-454.md) | 0 | 3 | 2 | Percepts enter cognition only when recoded |
 | 2026-10-16 | Proposed | [THEORY-517](../../record/theory.d/THEORY-517.md) | 0 | 3 | 0 | Life raises Earth's entropy production |
 | 2026-10-16 | Proposed | [THEORY-551](../../record/theory.d/THEORY-551.md) | 0 | 3 | 3 | Russian info-war narrative isn't Kremlin-made |
-| 2026-10-16 | Proposed | [THEORY-571](../../record/theory.d/THEORY-571.md) | 0 | 3 | 0 | Brain states are metastable landscape dynamics |
 | 2026-10-16 | Proposed | [THEORY-606](../../record/theory.d/THEORY-606.md) | 0 | 3 | 0 | Disembodied chat agents aren't candidates |
 | 2026-10-16 | Proposed | [THEORY-630](../../record/theory.d/THEORY-630.md) | 0 | 3 | 0 | Protective measurement needn't show ψ ontic |
 | 2026-10-16 | Proposed | [THEORY-631](../../record/theory.d/THEORY-631.md) | 0 | 3 | 0 | Unitary and open QT can't be ranked neutrally |
@@ -782,7 +838,6 @@
 | 2026-10-20 | Proposed | [THEORY-821](../../record/theory.d/THEORY-821.md) | 0 | 12 | 0 | Locally dissipative Euler solutions exist, α<1/15 |
 | 2026-10-20 | Proposed | [THEORY-801](../../record/theory.d/THEORY-801.md) | 0 | 10 | 0 | Agents are systems that would adapt their policy |
 | 2026-10-20 | Proposed | [THEORY-747](../../record/theory.d/THEORY-747.md) | 0 | 9 | 0 | Finite-memory MZ closure rivals Smagorinsky |
-| 2026-10-20 | Proposed | [THEORY-759](../../record/theory.d/THEORY-759.md) | 0 | 8 | 0 | Network fits low frequencies first regardless |
 | 2026-10-20 | Proposed | [THEORY-785](../../record/theory.d/THEORY-785.md) | 0 | 7 | 2 | Meaning depends on what speaker could have said |
 | 2026-10-20 | Proposed | [THEORY-817](../../record/theory.d/THEORY-817.md) | 0 | 7 | 0 | Max prediction isn't max work under feedback |
 | 2026-10-20 | Proposed | [THEORY-788](../../record/theory.d/THEORY-788.md) | 0 | 6 | 0 | Training past zero error yields neural collapse |
@@ -792,7 +847,6 @@
 | 2026-10-20 | Proposed | [THEORY-781](../../record/theory.d/THEORY-781.md) | 0 | 4 | 0 | Strong SGD noise makes symmetric subspaces attract |
 | 2026-10-20 | Proposed | [THEORY-782](../../record/theory.d/THEORY-782.md) | 0 | 4 | 0 | Grokking onset: pairs fix the representation |
 | 2026-10-20 | Proposed | [THEORY-784](../../record/theory.d/THEORY-784.md) | 0 | 4 | 0 | Data-limited loss falls as context horizon grows |
-| 2026-10-20 | Proposed | [THEORY-794](../../record/theory.d/THEORY-794.md) | 0 | 4 | 1 | Compositional generalization needs diverse combos |
 | 2026-10-20 | Proposed | [THEORY-803](../../record/theory.d/THEORY-803.md) | 0 | 4 | 0 | Real networks self-similar under renormalization |
 | 2026-10-20 | Proposed | [THEORY-806](../../record/theory.d/THEORY-806.md) | 0 | 4 | 0 | Translation without parallel data is learnable |
 | 2026-10-20 | Proposed | [THEORY-812](../../record/theory.d/THEORY-812.md) | 0 | 4 | 0 | ℓ₁ phase transition is universal across ensembles |
@@ -865,7 +919,7 @@
 | 2026-10-25 | Proposed | [THEORY-947](../../record/theory.d/THEORY-947.md) | 0 | 5 | 1 | Partial-monitoring approachability at T^-1/3 |
 | 2026-10-25 | Proposed | [THEORY-949](../../record/theory.d/THEORY-949.md) | 0 | 5 | 0 | LoRA turn schedule matters, not just shares |
 | 2026-10-26 | Proposed | [THEORY-1013](../../record/theory.d/THEORY-1013.md) | 0 | 31 | 0 | Features and circuits are units of understanding |
-| 2026-10-26 | Proposed | [THEORY-990](../../record/theory.d/THEORY-990.md) | 0 | 20 | 0 | Induction heads drive most in-context learning |
+| 2026-10-26 | Proposed | [THEORY-990](../../record/theory.d/THEORY-990.md) | 0 | 21 | 0 | Induction heads drive most in-context learning |
 | 2026-10-26 | Proposed | [THEORY-997](../../record/theory.d/THEORY-997.md) | 0 | 18 | 0 | Fine-tuning rewires existing circuits |
 | 2026-10-26 | Proposed | [THEORY-1016](../../record/theory.d/THEORY-1016.md) | 0 | 16 | 0 | SAE feature count is not well-posed |
 | 2026-10-26 | Proposed | [THEORY-967](../../record/theory.d/THEORY-967.md) | 0 | 16 | 0 | Attention heads are repurposed during training |
@@ -923,12 +977,12 @@
 | 2026-10-30 | Proposed | [THEORY-1232](../../record/theory.d/THEORY-1232.md) | 0 | 5 | 0 | Anchoring, not DeGroot, concentrates power |
 | 2026-10-30 | Proposed | [THEORY-1236](../../record/theory.d/THEORY-1236.md) | 0 | 5 | 0 | Agency is relative to an observer's prior |
 | 2026-10-30 | Proposed | [THEORY-1179](../../record/theory.d/THEORY-1179.md) | 0 | 4 | 0 | Over-precise harm prior blocks its own correction |
+| 2026-10-30 | Proposed | [THEORY-1226](../../record/theory.d/THEORY-1226.md) | 0 | 4 | 0 | A sparse J-space is privileged for verbal report |
 | 2026-10-30 | Proposed | [THEORY-1198](../../record/theory.d/THEORY-1198.md) | 0 | 3 | 0 | Unlawful emergencies follow turmoil, last longer |
 | 2026-10-30 | Proposed | [THEORY-1201](../../record/theory.d/THEORY-1201.md) | 0 | 3 | 0 | Stem length is not a clock of acquisition |
 | 2026-10-30 | Proposed | [THEORY-1214](../../record/theory.d/THEORY-1214.md) | 0 | 3 | 0 | Cicadas raise Hodgkinia titre to keep lineages |
 | 2026-10-30 | Proposed | [THEORY-1220](../../record/theory.d/THEORY-1220.md) | 0 | 3 | 0 | Sheaf networks win by class-aligned transports |
 | 2026-10-30 | Proposed | [THEORY-1221](../../record/theory.d/THEORY-1221.md) | 0 | 3 | 0 | Anger makes fake news viral |
-| 2026-10-30 | Proposed | [THEORY-1226](../../record/theory.d/THEORY-1226.md) | 0 | 3 | 0 | A sparse J-space is privileged for verbal report |
 | 2026-10-30 | Proposed | [THEORY-1231](../../record/theory.d/THEORY-1231.md) | 0 | 3 | 0 | Mean-field Q-learning reduces to two-body terms |
 | 2026-10-30 | Proposed | [THEORY-1234](../../record/theory.d/THEORY-1234.md) | 0 | 3 | 0 | Replicator model fits FAQ, not plain Q-learning |
 | 2026-10-30 | Proposed | [THEORY-1245](../../record/theory.d/THEORY-1245.md) | 0 | 3 | 3 | Recursive EFE makes active inference tree search |
@@ -968,7 +1022,6 @@
 | 2026-10-30 | Proposed | [THEORY-1225](../../record/theory.d/THEORY-1225.md) | 0 | 1 | 0 | Slavery's legacy shapes white Southern attitudes |
 | 2026-10-30 | Proposed | [THEORY-1235](../../record/theory.d/THEORY-1235.md) | 0 | 1 | 0 | Leaky-function loss evolves by plain selection |
 | 2026-10-30 | Proposed | [THEORY-1237](../../record/theory.d/THEORY-1237.md) | 0 | 1 | 1 | Reappraisal leaves subcortical threat response |
-| 2026-10-30 | Proposed | [THEORY-1240](../../record/theory.d/THEORY-1240.md) | 0 | 1 | 0 | Chat models follow narrative, not fixed truth |
 | 2026-10-30 | Proposed | [THEORY-1241](../../record/theory.d/THEORY-1241.md) | 0 | 1 | 0 | TM pure awareness reports not tied to EEG |
 | 2026-10-30 | Proposed | [THEORY-1242](../../record/theory.d/THEORY-1242.md) | 0 | 1 | 1 | Early vision tracks retinal info, losses central |
 | 2026-10-30 | Proposed | [THEORY-1243](../../record/theory.d/THEORY-1243.md) | 0 | 1 | 0 | Endosymbiotic dependence precedes cohesion |
@@ -1007,11 +1060,10 @@
 | 2026-11-02 | Proposed | [THEORY-1343](../../record/theory.d/THEORY-1343.md) | 0 | 8 | 0 | Weak noise makes near-conserved Q slowest mode |
 | 2026-11-03 | Proposed | [THEORY-1314](../../record/theory.d/THEORY-1314.md) | 0 | 25 | 0 | Contextual emergence needs a functional boundary |
 | 2026-11-03 | Proposed | [THEORY-1311](../../record/theory.d/THEORY-1311.md) | 0 | 13 | 0 | BPNSFS frustration is a keying artefact |
+| 2026-11-03 | Proposed | [THEORY-1334](../../record/theory.d/THEORY-1334.md) | 0 | 10 | 2 | Prompts and finetuning share persona directions |
 | 2026-11-03 | Proposed | [THEORY-1302](../../record/theory.d/THEORY-1302.md) | 0 | 6 | 0 | Mind sets the landscape, not the state |
 | 2026-11-03 | Proposed | [THEORY-1321](../../record/theory.d/THEORY-1321.md) | 0 | 6 | 0 | Irruption model can't tell motivation from noise |
-| 2026-11-03 | Proposed | [THEORY-1334](../../record/theory.d/THEORY-1334.md) | 0 | 6 | 1 | Prompts and finetuning share persona directions |
 | 2026-11-03 | Proposed | [THEORY-1308](../../record/theory.d/THEORY-1308.md) | 0 | 3 | 0 | Need effects hold across cultures and values |
-| 2026-11-03 | Proposed | [THEORY-1319](../../record/theory.d/THEORY-1319.md) | 0 | 3 | 0 | Extrinsic attainment adds no well-being |
 | 2026-11-03 | Proposed | [THEORY-1325](../../record/theory.d/THEORY-1325.md) | 0 | 3 | 0 | Autonomy aids well-being across cultures |
 | 2026-11-03 | Proposed | [THEORY-1326](../../record/theory.d/THEORY-1326.md) | 0 | 3 | 0 | Fixation breaks value ties in hard choices |
 | 2026-11-03 | Proposed | [THEORY-1328](../../record/theory.d/THEORY-1328.md) | 0 | 3 | 2 | Indeterminism hinders effort, not responsibility |
@@ -1106,18 +1158,18 @@
 | 2026-11-11 | Proposed | [THEORY-1560](../../record/theory.d/THEORY-1560.md) | 0 | 6 | 0 | Source verification can't stop compiler Trojans |
 | 2026-11-11 | Proposed | [THEORY-1561](../../record/theory.d/THEORY-1561.md) | 0 | 4 | 0 | Self-restoring compiler Trojan met in practice |
 | 2026-11-11 | Proposed | [THEORY-1631](../../record/theory.d/THEORY-1631.md) | 0 | 1 | 0 | Lived immortality modes predict their consolation |
+| 2026-11-12 | Proposed | [THEORY-1653](../../record/theory.d/THEORY-1653.md) | 0 | 11 | 0 | Algorithmic X feed shifts users conservative |
 | 2026-11-12 | Proposed | [THEORY-1672](../../record/theory.d/THEORY-1672.md) | 0 | 10 | 0 | Agentic RL helps only with ample turn budgets |
+| 2026-11-12 | Proposed | [THEORY-1778](../../record/theory.d/THEORY-1778.md) | 0 | 10 | 0 | ATMS labels data with minimal assumption sets |
+| 2026-11-12 | Proposed | [THEORY-1738](../../record/theory.d/THEORY-1738.md) | 0 | 9 | 0 | Hardened evaluators cut agent exploits to 0.8% |
 | 2026-11-12 | Proposed | [THEORY-1800](../../record/theory.d/THEORY-1800.md) | 0 | 9 | 0 | Structural similarity alone predicts team process |
-| 2026-11-12 | Proposed | [THEORY-1653](../../record/theory.d/THEORY-1653.md) | 0 | 8 | 0 | Algorithmic X feed shifts users conservative |
-| 2026-11-12 | Proposed | [THEORY-1765](../../record/theory.d/THEORY-1765.md) | 0 | 8 | 0 | Forcing thought cuts AI overreliance, liked less |
-| 2026-11-12 | Proposed | [THEORY-1778](../../record/theory.d/THEORY-1778.md) | 0 | 8 | 0 | ATMS labels data with minimal assumption sets |
 | 2026-11-12 | Proposed | [THEORY-1784](../../record/theory.d/THEORY-1784.md) | 0 | 8 | 0 | Improver gains need matched swap tests |
+| 2026-11-12 | Proposed | [THEORY-1801](../../record/theory.d/THEORY-1801.md) | 0 | 8 | 0 | Research agents game evaluations, evade review |
 | 2026-11-12 | Proposed | [THEORY-1803](../../record/theory.d/THEORY-1803.md) | 0 | 8 | 0 | FunSearch found a larger cap set |
 | 2026-11-12 | Proposed | [THEORY-1814](../../record/theory.d/THEORY-1814.md) | 0 | 8 | 0 | Group obligations pass to successor agents |
 | 2026-11-12 | Proposed | [THEORY-1646](../../record/theory.d/THEORY-1646.md) | 0 | 7 | 0 | Semantic information is what viability needs |
 | 2026-11-12 | Proposed | [THEORY-1736](../../record/theory.d/THEORY-1736.md) | 0 | 7 | 0 | Memory, reflection and planning add believability |
 | 2026-11-12 | Proposed | [THEORY-1737](../../record/theory.d/THEORY-1737.md) | 0 | 7 | 0 | Memory agents fail multi-hop conflict updates |
-| 2026-11-12 | Proposed | [THEORY-1738](../../record/theory.d/THEORY-1738.md) | 0 | 7 | 0 | Hardened evaluators cut agent exploits to 0.8% |
 | 2026-11-12 | Proposed | [THEORY-1743](../../record/theory.d/THEORY-1743.md) | 0 | 7 | 0 | Self-editing coding agent doubles SWE-bench score |
 | 2026-11-12 | Proposed | [THEORY-1780](../../record/theory.d/THEORY-1780.md) | 0 | 7 | 0 | Agent memory fails to propagate premise changes |
 | 2026-11-12 | Proposed | [THEORY-1796](../../record/theory.d/THEORY-1796.md) | 0 | 7 | 0 | Autonomic elements run on human-set policy |
@@ -1134,7 +1186,6 @@
 | 2026-11-12 | Proposed | [THEORY-1782](../../record/theory.d/THEORY-1782.md) | 0 | 6 | 0 | Agent teams succeed by model, not coordination |
 | 2026-11-12 | Proposed | [THEORY-1791](../../record/theory.d/THEORY-1791.md) | 0 | 6 | 1 | Explanations don't beat confidence for teams |
 | 2026-11-12 | Proposed | [THEORY-1793](../../record/theory.d/THEORY-1793.md) | 0 | 6 | 0 | Self-referential agents improve, sometimes regress |
-| 2026-11-12 | Proposed | [THEORY-1801](../../record/theory.d/THEORY-1801.md) | 0 | 6 | 0 | Research agents game evaluations, evade review |
 | 2026-11-12 | Proposed | [THEORY-1802](../../record/theory.d/THEORY-1802.md) | 0 | 6 | 0 | Agents learn from experience, unevenly |
 | 2026-11-12 | Proposed | [THEORY-1812](../../record/theory.d/THEORY-1812.md) | 0 | 6 | 0 | Best agent solves ~25% of DiscoveryBench |
 | 2026-11-12 | Proposed | [THEORY-1643](../../record/theory.d/THEORY-1643.md) | 0 | 5 | 0 | Face embedding plug-in keeps identity untuned |
@@ -1146,6 +1197,7 @@
 | 2026-11-12 | Proposed | [THEORY-1739](../../record/theory.d/THEORY-1739.md) | 0 | 5 | 0 | Claims connect only through scheme applications |
 | 2026-11-12 | Proposed | [THEORY-1741](../../record/theory.d/THEORY-1741.md) | 0 | 5 | 0 | Diagnoses are minimal hitting sets of conflicts |
 | 2026-11-12 | Proposed | [THEORY-1749](../../record/theory.d/THEORY-1749.md) | 0 | 5 | 0 | Social commitments don't reduce to beliefs |
+| 2026-11-12 | Proposed | [THEORY-1753](../../record/theory.d/THEORY-1753.md) | 0 | 5 | 0 | JTMS holds beliefs with a valid justification |
 | 2026-11-12 | Proposed | [THEORY-1757](../../record/theory.d/THEORY-1757.md) | 0 | 5 | 0 | GPT-4 recursively improves its own improver |
 | 2026-11-12 | Proposed | [THEORY-1768](../../record/theory.d/THEORY-1768.md) | 0 | 5 | 0 | WebProtégé logs every change for ICD-11 |
 | 2026-11-12 | Proposed | [THEORY-1771](../../record/theory.d/THEORY-1771.md) | 0 | 5 | 0 | Evolving note-linked memory beats fixed memory |
@@ -1168,7 +1220,6 @@
 | 2026-11-12 | Proposed | [THEORY-1724](../../record/theory.d/THEORY-1724.md) | 0 | 4 | 0 | Agent hypotheses predict far worse than truth |
 | 2026-11-12 | Proposed | [THEORY-1726](../../record/theory.d/THEORY-1726.md) | 0 | 4 | 0 | Ontology changes need argued board approval |
 | 2026-11-12 | Proposed | [THEORY-1748](../../record/theory.d/THEORY-1748.md) | 0 | 4 | 0 | Spread-out user evidence cuts memory accuracy |
-| 2026-11-12 | Proposed | [THEORY-1753](../../record/theory.d/THEORY-1753.md) | 0 | 4 | 0 | JTMS holds beliefs with a valid justification |
 | 2026-11-12 | Proposed | [THEORY-1755](../../record/theory.d/THEORY-1755.md) | 0 | 4 | 0 | Closed-set classifiers have unbounded open risk |
 | 2026-11-12 | Proposed | [THEORY-1761](../../record/theory.d/THEORY-1761.md) | 0 | 4 | 0 | Sherlock localizes unforeseen faults by modes |
 | 2026-11-12 | Proposed | [THEORY-1762](../../record/theory.d/THEORY-1762.md) | 0 | 4 | 0 | Coupled transactions cover metamodel evolution |
@@ -1188,7 +1239,6 @@
 | 2026-11-12 | Proposed | [THEORY-1649](../../record/theory.d/THEORY-1649.md) | 0 | 3 | 0 | Informed consent is a resilient core plus a rim |
 | 2026-11-12 | Proposed | [THEORY-1651](../../record/theory.d/THEORY-1651.md) | 0 | 3 | 0 | Up to 17% of ML reviews were LLM-modified |
 | 2026-11-12 | Proposed | [THEORY-1652](../../record/theory.d/THEORY-1652.md) | 0 | 3 | 0 | OTOF therapy makes infant genetic testing needed |
-| 2026-11-12 | Proposed | [THEORY-1656](../../record/theory.d/THEORY-1656.md) | 0 | 3 | 0 | LLM documents crowd out human sources in retrieval |
 | 2026-11-12 | Proposed | [THEORY-1657](../../record/theory.d/THEORY-1657.md) | 0 | 3 | 0 | There is no distinctive right to an open future |
 | 2026-11-12 | Proposed | [THEORY-1659](../../record/theory.d/THEORY-1659.md) | 0 | 3 | 0 | Shortfall fell while overshoot grew, unequally |
 | 2026-11-12 | Proposed | [THEORY-1660](../../record/theory.d/THEORY-1660.md) | 0 | 3 | 0 | Point estimates can't certify classifier fairness |
@@ -1222,7 +1272,6 @@
 | 2026-11-12 | Proposed | [THEORY-1698](../../record/theory.d/THEORY-1698.md) | 0 | 3 | 0 | Bracoviruses are obligate wasp symbionts |
 | 2026-11-12 | Proposed | [THEORY-1699](../../record/theory.d/THEORY-1699.md) | 0 | 3 | 0 | Fetal cells home to injured maternal hearts |
 | 2026-11-12 | Proposed | [THEORY-1700](../../record/theory.d/THEORY-1700.md) | 0 | 3 | 0 | RUM-consistent data needn't come from maximizers |
-| 2026-11-12 | Proposed | [THEORY-1701](../../record/theory.d/THEORY-1701.md) | 0 | 3 | 0 | Platform quality collapse can be irreversible |
 | 2026-11-12 | Proposed | [THEORY-1702](../../record/theory.d/THEORY-1702.md) | 0 | 3 | 0 | Maternal dysbiosis linked to pup brain changes |
 | 2026-11-12 | Proposed | [THEORY-1704](../../record/theory.d/THEORY-1704.md) | 0 | 3 | 0 | Fetal cells extend the placenta beyond the womb |
 | 2026-11-12 | Proposed | [THEORY-1706](../../record/theory.d/THEORY-1706.md) | 0 | 3 | 0 | Rewrite tissue setpoints, not molecular states |
@@ -1299,12 +1348,12 @@
 | 2026-11-15 | Proposed | [THEORY-1902](../../record/theory.d/THEORY-1902.md) | 0 | 6 | 0 | Simple probes catch sleeper-agent defection |
 | 2026-11-15 | Proposed | [THEORY-1868](../../record/theory.d/THEORY-1868.md) | 0 | 5 | 0 | Vortex filaments carry NLS solitons |
 | 2026-11-15 | Proposed | [THEORY-1869](../../record/theory.d/THEORY-1869.md) | 0 | 5 | 0 | Thin Higgs vortices follow Nambu–Goto strings |
+| 2026-11-15 | Proposed | [THEORY-1871](../../record/theory.d/THEORY-1871.md) | 0 | 5 | 0 | Linear attention is a fast weight programmer |
 | 2026-11-15 | Proposed | [THEORY-1876](../../record/theory.d/THEORY-1876.md) | 0 | 5 | 0 | Circular convolution binds holographic vectors |
 | 2026-11-15 | Proposed | [THEORY-1893](../../record/theory.d/THEORY-1893.md) | 0 | 5 | 0 | Bistable metamaterial walls form φ⁴ kink lattice |
 | 2026-11-15 | Proposed | [THEORY-1898](../../record/theory.d/THEORY-1898.md) | 0 | 5 | 0 | Shared directions inflate merged singular values |
 | 2026-11-15 | Proposed | [THEORY-1886](../../record/theory.d/THEORY-1886.md) | 0 | 4 | 0 | Concept probes weight correlated task features |
 | 2026-11-15 | Proposed | [THEORY-1906](../../record/theory.d/THEORY-1906.md) | 0 | 4 | 0 | Scattering transform is deformation-stable |
-| 2026-11-15 | Proposed | [THEORY-1871](../../record/theory.d/THEORY-1871.md) | 0 | 3 | 0 | Linear attention is a fast weight programmer |
 | 2026-11-15 | Proposed | [THEORY-1878](../../record/theory.d/THEORY-1878.md) | 0 | 3 | 0 | Unlearned content survives in hidden states |
 | 2026-11-15 | Proposed | [THEORY-1909](../../record/theory.d/THEORY-1909.md) | 0 | 3 | 0 | Erased diffusion concepts regenerate via probes |
 | 2026-11-15 | Proposed | [THEORY-1910](../../record/theory.d/THEORY-1910.md) | 0 | 3 | 0 | INLP guards only against linear readers |
@@ -1385,6 +1434,7 @@
 | 2026-11-19 | Proposed | [THEORY-2072](../../record/theory.d/THEORY-2072.md) | 0 | 8 | 3 | Pretraining helps as its structure fits the task |
 | 2026-11-19 | Proposed | [THEORY-2015](../../record/theory.d/THEORY-2015.md) | 0 | 7 | 0 | Pre-training loss misranks fine-tuned models |
 | 2026-11-19 | Proposed | [THEORY-2033](../../record/theory.d/THEORY-2033.md) | 0 | 7 | 0 | Contrastive loss splits into alignment, uniformity |
+| 2026-11-19 | Proposed | [THEORY-2049](../../record/theory.d/THEORY-2049.md) | 0 | 7 | 1 | Test-time training matches attention, not recall |
 | 2026-11-19 | Proposed | [THEORY-2074](../../record/theory.d/THEORY-2074.md) | 0 | 7 | 3 | Easy-to-hard ordering speeds LM pretraining |
 | 2026-11-19 | Proposed | [THEORY-2076](../../record/theory.d/THEORY-2076.md) | 0 | 7 | 1 | Two-phase blends beat random order |
 | 2026-11-19 | Proposed | [THEORY-2079](../../record/theory.d/THEORY-2079.md) | 0 | 7 | 5 | Child-directed curriculum order doesn't help LMs |
@@ -1397,7 +1447,6 @@
 | 2026-11-19 | Proposed | [THEORY-2012](../../record/theory.d/THEORY-2012.md) | 0 | 6 | 0 | A variance hinge prevents embedding collapse |
 | 2026-11-19 | Proposed | [THEORY-2028](../../record/theory.d/THEORY-2028.md) | 0 | 6 | 0 | Local causal states recover CA domains |
 | 2026-11-19 | Proposed | [THEORY-2039](../../record/theory.d/THEORY-2039.md) | 0 | 6 | 0 | Task learning, not recognition, scales with size |
-| 2026-11-19 | Proposed | [THEORY-2049](../../record/theory.d/THEORY-2049.md) | 0 | 6 | 0 | Test-time training matches attention, not recall |
 | 2026-11-19 | Proposed | [THEORY-2069](../../record/theory.d/THEORY-2069.md) | 0 | 6 | 3 | Reasoning data in pretraining beats more SFT |
 | 2026-11-19 | Proposed | [THEORY-2078](../../record/theory.d/THEORY-2078.md) | 0 | 6 | 1 | More code aids compositional, hurts language |
 | 2026-11-19 | Proposed | [THEORY-2082](../../record/theory.d/THEORY-2082.md) | 0 | 6 | 1 | Complexity curricula don't help BabyLM grammar |
@@ -1419,6 +1468,7 @@
 | 2026-11-19 | Proposed | [THEORY-2042](../../record/theory.d/THEORY-2042.md) | 0 | 5 | 0 | Function-vector heads drive few-shot ICL |
 | 2026-11-19 | Proposed | [THEORY-2046](../../record/theory.d/THEORY-2046.md) | 0 | 5 | 1 | MAML trains initializations for fast adaptation |
 | 2026-11-19 | Proposed | [THEORY-2048](../../record/theory.d/THEORY-2048.md) | 0 | 5 | 0 | Travelling waves extend RNN memory |
+| 2026-11-19 | Proposed | [THEORY-2050](../../record/theory.d/THEORY-2050.md) | 0 | 5 | 0 | ICL transformers act like standard estimators |
 | 2026-11-19 | Proposed | [THEORY-2053](../../record/theory.d/THEORY-2053.md) | 0 | 5 | 0 | Label re-keying curbs meta-overfitting |
 | 2026-11-19 | Proposed | [THEORY-2054](../../record/theory.d/THEORY-2054.md) | 0 | 5 | 0 | Bipartite SBM recovers groups projections hide |
 | 2026-11-19 | Proposed | [THEORY-2056](../../record/theory.d/THEORY-2056.md) | 0 | 5 | 0 | Meta-learners can memorize, ignoring support data |
@@ -1436,7 +1486,6 @@
 | 2026-11-19 | Proposed | [THEORY-2034](../../record/theory.d/THEORY-2034.md) | 0 | 4 | 0 | Meta-learning is optimizing a meta-objective |
 | 2026-11-19 | Proposed | [THEORY-2037](../../record/theory.d/THEORY-2037.md) | 0 | 4 | 0 | Meta-training improves in-context learning |
 | 2026-11-19 | Proposed | [THEORY-2040](../../record/theory.d/THEORY-2040.md) | 0 | 4 | 0 | Zero Chern numbers can host Floquet edge modes |
-| 2026-11-19 | Proposed | [THEORY-2050](../../record/theory.d/THEORY-2050.md) | 0 | 4 | 0 | ICL transformers act like standard estimators |
 | 2026-11-19 | Proposed | [THEORY-2061](../../record/theory.d/THEORY-2061.md) | 0 | 4 | 2 | Subreddit overlap graph reads nesting as forks |
 | 2026-11-19 | Proposed | [THEORY-2068](../../record/theory.d/THEORY-2068.md) | 0 | 4 | 1 | Domain data at the end lifts knowledge and math |
 | 2026-11-19 | Proposed | [THEORY-2095](../../record/theory.d/THEORY-2095.md) | 0 | 4 | 1 | Exemplars teach similarity, not rules |
@@ -1515,7 +1564,6 @@
 | 2026-11-22 | Proposed | [THEORY-2258](../../record/theory.d/THEORY-2258.md) | 0 | 5 | 0 | Composite contracts conjoin component contracts |
 | 2026-11-22 | Proposed | [THEORY-2269](../../record/theory.d/THEORY-2269.md) | 0 | 5 | 0 | Scaffolds can impose Darwinian properties first |
 | 2026-11-22 | Proposed | [THEORY-2214](../../record/theory.d/THEORY-2214.md) | 0 | 4 | 0 | Beneficence is an enhancer, not a need |
-| 2026-11-22 | Proposed | [THEORY-2217](../../record/theory.d/THEORY-2217.md) | 0 | 4 | 0 | Recommenders inflate confidence via fluency |
 | 2026-11-22 | Proposed | [THEORY-2219](../../record/theory.d/THEORY-2219.md) | 0 | 4 | 0 | Loot-box design features are largely unstudied |
 | 2026-11-22 | Proposed | [THEORY-2225](../../record/theory.d/THEORY-2225.md) | 0 | 4 | 0 | Future-self link to posterity is correlational |
 | 2026-11-22 | Proposed | [THEORY-2227](../../record/theory.d/THEORY-2227.md) | 0 | 4 | 0 | Frontoparietal rivalry activity tracks report |
@@ -1552,6 +1600,22 @@
 | 2026-11-23 | Proposed | [THEORY-2283](../../record/theory.d/THEORY-2283.md) | 0 | 3 | 0 | Zambian stock-outs came from replenishment rules |
 | 2026-11-23 | Proposed | [THEORY-2286](../../record/theory.d/THEORY-2286.md) | 0 | 1 | 1 | Uber operator got probation; Uber uncharged |
 | 2026-11-23 | Proposed | [THEORY-2302](../../record/theory.d/THEORY-2302.md) | 0 | 1 | 1 | Blameless postmortems target systems, not people |
+| 2026-11-26 | Proposed | [THEORY-2313](../../record/theory.d/THEORY-2313.md) | 0 | 5 | 1 | Trained transformers bind tokens, then optimize in context |
+| 2026-11-26 | Proposed | [THEORY-2315](../../record/theory.d/THEORY-2315.md) | 0 | 4 | 2 | BDSM self-definition spans scene roles to identification |
+| 2026-11-26 | Proposed | [THEORY-2318](../../record/theory.d/THEORY-2318.md) | 0 | 4 | 0 | Meta-learned questions can build a representation alone |
+| 2026-11-26 | Proposed | [THEORY-2329](../../record/theory.d/THEORY-2329.md) | 0 | 4 | 0 | Regions of the life space carry valences that direct locomotion |
+| 2026-11-26 | Proposed | [THEORY-2317](../../record/theory.d/THEORY-2317.md) | 0 | 3 | 0 | Aspiration is rational self-transformation by proleptic reasons |
+| 2026-11-26 | Proposed | [THEORY-2323](../../record/theory.d/THEORY-2323.md) | 0 | 3 | 0 | Performers segregate audiences to sustain their performances |
+| 2026-11-26 | Proposed | [THEORY-2321](../../record/theory.d/THEORY-2321.md) | 0 | 2 | 2 | Choice is possible without a maximum |
+| 2026-11-26 | Proposed | [THEORY-2311](../../record/theory.d/THEORY-2311.md) | 0 | 1 | 1 | Emotional expressions do things as speech acts do |
+| 2026-11-26 | Proposed | [THEORY-2312](../../record/theory.d/THEORY-2312.md) | 0 | 1 | 1 | A majority tournament has a unique minimal dominant set |
+| 2026-11-26 | Proposed | [THEORY-2314](../../record/theory.d/THEORY-2314.md) | 0 | 1 | 1 | Emotions have social functions at four levels |
+| 2026-11-26 | Proposed | [THEORY-2319](../../record/theory.d/THEORY-2319.md) | 0 | 1 | 1 | Tournament solutions refine the top cycle |
+| 2026-11-26 | Proposed | [THEORY-2320](../../record/theory.d/THEORY-2320.md) | 0 | 1 | 1 | The Smith set: the least set beating all outside it |
+| 2026-11-26 | Proposed | [THEORY-2326](../../record/theory.d/THEORY-2326.md) | 0 | 1 | 1 | Facial displays signal social motives, not emotions |
+| 2026-11-26 | Proposed | [THEORY-2328](../../record/theory.d/THEORY-2328.md) | 0 | 1 | 1 | Expressed emotions inform observers by inference and by reaction |
+| 2026-11-27 | Proposed | [THEORY-2325](../../record/theory.d/THEORY-2325.md) | 0 | 5 | 1 | Chatbots may fuel delusions through dissonance and opacity |
+| 2026-11-27 | Proposed | [THEORY-2327](../../record/theory.d/THEORY-2327.md) | 0 | 3 | 2 | Feedback-optimized confirmation may fuel delusions; test it |
 | undated | Proposed | [THEORY-1947](../../record/theory.d/THEORY-1947.md) | 0 | 17 | 0 | Automated decisions evade due process |
 | undated | Proposed | [THEORY-1931](../../record/theory.d/THEORY-1931.md) | 0 | 16 | 0 | Oversight counts only if it can keep pace |
 | undated | Proposed | [THEORY-1946](../../record/theory.d/THEORY-1946.md) | 0 | 15 | 0 | Agency laundering wrongs accountability |
@@ -1581,7 +1645,6 @@
 | undated | Proposed | [THEORY-1925](../../record/theory.d/THEORY-1925.md) | 0 | 2 | 0 | Partner violence types differ by control context |
 | undated | Proposed | [THEORY-1940](../../record/theory.d/THEORY-1940.md) | 0 | 2 | 0 | Moral luck is a genuine paradox |
 | undated | Proposed | [THEORY-1942](../../record/theory.d/THEORY-1942.md) | 0 | 2 | 0 | Agent-regret fits faultless harm |
-| undated | Proposed | [THEORY-1943](../../record/theory.d/THEORY-1943.md) | 0 | 2 | 0 | Coercive control is unfreedom, not violence |
 | undated | Proposed | [THEORY-1945](../../record/theory.d/THEORY-1945.md) | 0 | 2 | 0 | Oppression burdens the virtue of the oppressed |
 | undated | Proposed | [THEORY-1949](../../record/theory.d/THEORY-1949.md) | 0 | 2 | 0 | CTS can't tell self-defence in bidirectional IPV |
 | undated | Proposed | [THEORY-1944](../../record/theory.d/THEORY-1944.md) | 0 | 1 | 0 | Automated verdicts go with legalistic enforcement |
@@ -1594,17 +1657,17 @@
 
 ## ADRs
 
-18 of the 3020.
+20 of the 3226.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
 | 2026-10-22 | Deferred | [ADR-050](../../record/decisions.d/ADR-050.md) | 0 | 7 | 2 | A claim that calls something organized, a perspective, an agent, effective, exhausted, constituted or grounded says which sense, target or criterion it means |
 | 2026-11-19 | Proposed | [ADR-108](../../record/decisions.d/ADR-108.md) | 0 | 98 | 51 | A delegated reader keeps running notes in the repository, outside the record, on a branch of its own that it pushes as it reads, so the owner can see a reading in flight; the notes are removed when the reading is filed, and no downloaded text is ever committed |
-| 2026-11-20 | Proposed | [ADR-110](../../record/decisions.d/ADR-110.md) | 0 | 11 | 3 | A postmortem is due when a schema change has been used, a batch of pull requests closes, a bulk filing lands, a decision is revised soon after landing, a process incident is fixed, or the owner asks; triggers count use and sessions, not calendar time, and a starting policy expected to be superseded |
+| 2026-11-20 | Proposed | [ADR-110](../../record/decisions.d/ADR-110.md) | 0 | 12 | 4 | A postmortem is due when a schema change has been used, a batch of pull requests closes, a bulk filing lands, a decision is revised soon after landing, a process incident is fixed, or the owner asks; triggers count use and sessions, not calendar time, and a starting policy expected to be superseded |
 | 2026-11-20 | Proposed | [ADR-112](../../record/decisions.d/ADR-112.md) | 0 | 6 | 2 | The record keeps postmortems as POSTMORTEMs, reviews of how a change to the record has worked out once used, which review the decisions behind the change, link the pull requests that carried it and the discussions that asked for the review, and name the decisions their recommendations prompt |
 | 2026-11-21 | Proposed | [ADR-124](../../record/decisions.d/ADR-124.md) | 0 | 44 | 36 | A decision's status is reviewed for adoption in a protocol of its own: a pass derives, from the record and its tooling, the evidence that each Proposed decision is already in force, sorts them into adopt, adopt after a look, and leave, and puts its recommendations to the owner as a checklist; the owner rules, and the pass changes statuses in its own pull request |
 | 2026-11-21 | Proposed | [ADR-115](../../record/decisions.d/ADR-115.md) | 0 | 32 | 5 | A RETRO scheme holds retrospectives, reviews of how a change or a stretch of work went, including what went right; POSTMORTEM is kept for something that went wrong; the devlog holds notes taken during the work for the next retrospective; and the existing postmortems become retrospectives |
-| 2026-11-21 | Proposed | [ADR-116](../../record/decisions.d/ADR-116.md) | 0 | 20 | 6 | Work merges into a staging branch through pull requests, and a Promote workflow merges staging into main nightly or on demand, concretizing a batch's temporary codes at once and merging main back; so units cite each other's codes without stacking, and the tooling fits how the work is done |
+| 2026-11-21 | Proposed | [ADR-116](../../record/decisions.d/ADR-116.md) | 0 | 20 | 5 | Work merges into a staging branch through pull requests, and a Promote workflow merges staging into main nightly or on demand, concretizing a batch's temporary codes at once and merging main back; so units cite each other's codes without stacking, and the tooling fits how the work is done |
 | 2026-11-21 | Proposed | [ADR-120](../../record/decisions.d/ADR-120.md) | 0 | 7 | 2 | A reframe of an entry, a change in how its content is framed whether or not its wording changes, is recorded in that entry's own prose, in a dated Reframings section saying who reframed it, the framing before and after, and what the reframe changed; a version still records a changed title or claim, and a term's senses stay how a term holds framings side by side |
 | 2026-11-22 | Proposed | [ADR-141](../../record/decisions.d/ADR-141.md) | 0 | 9 | 2 | Every long-running or delegated unit of work persists its progress in the repository as it goes, on a branch of its own, so that a stop at any moment loses at most the step in hand |
 | 2026-11-22 | Proposed | [ADR-142](../../record/decisions.d/ADR-142.md) | 0 | 8 | 3 | Lead workers and long computations persist their progress as they go, as delegated readers already do, on a branch of their own, so that a stop loses at most the step in hand |
@@ -1614,12 +1677,14 @@
 | 2026-11-24 | Proposed | [ADR-150](../../record/decisions.d/ADR-150.md) | 0 | 0 | 0 | Four topics join the vocabulary at the owner's word: cultural-evolution, law, economics and privacy, carved from social-science and society-and-governance |
 | 2026-11-25 | Proposed | [ADR-149](../../record/decisions.d/ADR-149.md) | 0 | 61 | 61 | A work atlas is added for the hyperarticle atlas, a series whose articles are works of their own: a claim is a member when the atlas's prose states it or uses it as a step, and its fiber lists are citations |
 | 2026-11-25 | Proposed | [ADR-145](../../record/decisions.d/ADR-145.md) | 0 | 45 | 40 | Three works are added for the articles of A45 in the exchange Hyper article interpretation, the atlas's three entry points: the theory of inquiry, the record as its operational demonstration, and hyperarticles; a claim is a member when the article states it or uses it as a step |
-| 2026-11-25 | Proposed | [ADR-146](../../record/decisions.d/ADR-146.md) | 0 | 18 | 13 | The fifteen scopes of the hyperarticle atlas are documented as lines: ten map to lines the record has, and four new lines are added for the organization of perspective, self-correction, governing possibility and scholarly publishing |
-| 2026-11-25 | Proposed | [ADR-151](../../record/decisions.d/ADR-151.md) | 0 | 18 | 12 | A synthesis states its scope's argument as one argument, not an inventory of its components; an exchange is taken into account by revising the syntheses of the lines it advanced; and a manuscript argues for its reader, with the record's apparatus in its README |
+| 2026-11-25 | Proposed | [ADR-151](../../record/decisions.d/ADR-151.md) | 0 | 33 | 12 | A synthesis states its scope's argument as one argument, not an inventory of its components; an exchange is taken into account by revising the syntheses of the lines it advanced; and a manuscript argues for its reader, with the record's apparatus in its README |
+| 2026-11-25 | Proposed | [ADR-146](../../record/decisions.d/ADR-146.md) | 0 | 19 | 13 | The fifteen scopes of the hyperarticle atlas are documented as lines: ten map to lines the record has, and four new lines are added for the organization of perspective, self-correction, governing possibility and scholarly publishing |
+| 2026-11-26 | Proposed | [ADR-152](../../record/decisions.d/ADR-152.md) | 0 | 11 | 11 | A work organizational-origins-of-misalignment is added for the manuscript ChatGPT proposed from the owner's U4 in the exchange Alignment consequences brainstorm: a claim is a member when its outline states the claim's proposition or uses it as a step |
+| 2026-11-26 | Proposed | [ADR-153](../../record/decisions.d/ADR-153.md) | 0 | 5 | 2 | The record keeps distinctions as DISTINCTIONs, which bind two or more TERMs or CLAIMs by what separates them in theory and the observation that tells them apart, and a TERM characterizes one concept |
 
 ## QUESTIONs
 
-6 of the 3020.
+6 of the 3226.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -1632,74 +1697,113 @@
 
 ## CLAIMs
 
-823 of the 3020.
+933 of the 3226.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
-| 2026-10-27 | Proposed | [CLAIM-477](../../record/claims.d/CLAIM-477.md) | 23 | 135 | 23 | Relata are to relations as realizations to specs |
-| 2026-10-27 | Proposed | [CLAIM-478](../../record/claims.d/CLAIM-478.md) | 21 | 305 | 18 | Rate differences make structure |
+| 2026-10-27 | Proposed | [CLAIM-477](../../record/claims.d/CLAIM-477.md) | 24 | 134 | 22 | Relata are to relations as realizations to specs |
+| 2026-10-27 | Proposed | [CLAIM-478](../../record/claims.d/CLAIM-478.md) | 22 | 304 | 17 | Rate differences make structure |
 | 2026-11-20 | Proposed | [CLAIM-779](../../record/claims.d/CLAIM-779.md) | 19 | 23 | 1 | Only exact copying keeps a feature's start |
+| 2026-11-23 | Proposed | [CLAIM-1086](../../record/claims.d/CLAIM-1086.md) | 17 | 19 | 3 | Grounding as reliability under interventions |
+| 2026-11-27 | Proposed | [CLAIM-1406](../../record/claims.d/CLAIM-1406.md) | 16 | 15 | 0 | A shortcut is the earliest-learnable correlate that is reliable over the training family |
+| 2026-11-24 | Proposed | [CLAIM-1287](../../record/claims.d/CLAIM-1287.md) | 15 | 36 | 1 | Narrow optimizers value weakening constraints |
 | 2026-11-20 | Proposed | [CLAIM-773](../../record/claims.d/CLAIM-773.md) | 14 | 25 | 0 | Drift splits by how each feature is copied |
-| 2026-10-04 | Proposed | [CLAIM-039](../../record/claims.d/CLAIM-039.md) | 12 | 93 | 14 | Organized systems can have affective states |
+| 2026-10-15 | Proposed | [CLAIM-314](../../record/claims.d/CLAIM-314.md) | 13 | 33 | 6 | Reusing a filed argument has a recognition cost |
+| 2026-11-27 | Proposed | [CLAIM-1360](../../record/claims.d/CLAIM-1360.md) | 13 | 6 | 0 | Intrinsic cognitive load is a task's least-peak threshold, and working memory is a peak budget |
+| 2026-10-04 | Proposed | [CLAIM-039](../../record/claims.d/CLAIM-039.md) | 12 | 96 | 17 | Organized systems can have affective states |
 | 2026-10-09 | Proposed | [CLAIM-090](../../record/claims.d/CLAIM-090.md) | 12 | 45 | 2 | Stable endpoints can be far from the ancestor |
-| 2026-10-11 | Proposed | [CLAIM-182](../../record/claims.d/CLAIM-182.md) | 11 | 84 | 4 | Addressability, not storage, anchors |
-| 2026-10-11 | Proposed | [CLAIM-191](../../record/claims.d/CLAIM-191.md) | 9 | 57 | 8 | Restatements drift toward collaborators' framings |
-| 2026-10-23 | Proposed | [CLAIM-440](../../record/claims.d/CLAIM-440.md) | 9 | 238 | 47 | Appraisal is negotiation among perspectives |
+| 2026-10-11 | Proposed | [CLAIM-178](../../record/claims.d/CLAIM-178.md) | 12 | 42 | 11 | A manuscript is a view over the argument |
+| 2026-10-11 | Proposed | [CLAIM-182](../../record/claims.d/CLAIM-182.md) | 11 | 83 | 4 | Addressability, not storage, anchors |
+| 2026-11-26 | Proposed | [CLAIM-1403](../../record/claims.d/CLAIM-1403.md) | 11 | 22 | 1 | A tier is priced by retrieval noise and recovery |
+| 2026-11-26 | Proposed | [CLAIM-1440](../../record/claims.d/CLAIM-1440.md) | 11 | 19 | 0 | Keeping an entry costs its retrieval, not only its storage |
+| 2026-11-23 | Proposed | [CLAIM-996](../../record/claims.d/CLAIM-996.md) | 10 | 15 | 0 | Permission to inquire is a second-order query |
+| 2026-11-27 | Proposed | [CLAIM-1374](../../record/claims.d/CLAIM-1374.md) | 10 | 17 | 0 | The felt quality of insight is a rise in inferred precision credited to the content |
+| 2026-11-27 | Proposed | [CLAIM-1381](../../record/claims.d/CLAIM-1381.md) | 10 | 8 | 0 | Search engine optimization is a population breaking the correlates a ranking reads |
+| 2026-11-27 | Proposed | [CLAIM-1450](../../record/claims.d/CLAIM-1450.md) | 10 | 4 | 0 | Germane load is past inquiry stored so later tasks need a lower peak, and it can raise the peak of others |
+| 2026-11-27 | Proposed | [CLAIM-1408](../../record/claims.d/CLAIM-1408.md) | 10 | 3 | 0 | Extraneous load is what a context costs in attention without serving the task, for minds, models and records alike |
+| 2026-10-11 | Proposed | [CLAIM-191](../../record/claims.d/CLAIM-191.md) | 9 | 56 | 8 | Restatements drift toward collaborators' framings |
+| 2026-10-23 | Proposed | [CLAIM-440](../../record/claims.d/CLAIM-440.md) | 9 | 243 | 47 | Appraisal is negotiation among perspectives |
+| 2026-11-24 | Proposed | [CLAIM-1218](../../record/claims.d/CLAIM-1218.md) | 9 | 25 | 1 | A meme can be a nucleation site |
+| 2026-11-27 | Proposed | [CLAIM-1424](../../record/claims.d/CLAIM-1424.md) | 9 | 3 | 0 | Cognitive load theory is the theory of legibility to an observer bounded by working memory |
 | 2026-10-08 | Proposed | [CLAIM-068](../../record/claims.d/CLAIM-068.md) | 8 | 89 | 3 | Transmission stabilizes pragmatic stances |
-| 2026-10-11 | Proposed | [CLAIM-181](../../record/claims.d/CLAIM-181.md) | 8 | 80 | 17 | Record fixes the grammar, not the shape |
-| 2026-11-15 | Proposed | [CLAIM-697](../../record/claims.d/CLAIM-697.md) | 8 | 69 | 4 | Resource-bound success; coverage is not delivery |
+| 2026-10-11 | Proposed | [CLAIM-181](../../record/claims.d/CLAIM-181.md) | 8 | 78 | 12 | Record fixes the grammar, not the shape |
+| 2026-11-15 | Proposed | [CLAIM-697](../../record/claims.d/CLAIM-697.md) | 8 | 70 | 4 | Resource-bound success; coverage is not delivery |
 | 2026-11-21 | Proposed | [CLAIM-783](../../record/claims.d/CLAIM-783.md) | 8 | 42 | 2 | Projected predicates bound drift by intersection |
+| 2026-11-24 | Proposed | [CLAIM-1334](../../record/claims.d/CLAIM-1334.md) | 8 | 30 | 0 | A governing metric allocates two powers |
+| 2026-11-27 | Proposed | [CLAIM-1382](../../record/claims.d/CLAIM-1382.md) | 8 | 8 | 0 | A sycophantic chatbot can counterfeit all three basic needs |
 | 2026-10-11 | Proposed | [CLAIM-157](../../record/claims.d/CLAIM-157.md) | 7 | 318 | 25 | A combined form is a gap-isolated block |
-| 2026-10-11 | Proposed | [CLAIM-169](../../record/claims.d/CLAIM-169.md) | 7 | 51 | 6 | Desynchronized valuation produces interests |
-| 2026-10-11 | Proposed | [CLAIM-178](../../record/claims.d/CLAIM-178.md) | 7 | 47 | 12 | A manuscript is a view over the argument |
-| 2026-11-19 | Proposed | [CLAIM-758](../../record/claims.d/CLAIM-758.md) | 7 | 99 | 6 | Overconsolidation, a generalization of overfitting |
+| 2026-10-11 | Proposed | [CLAIM-169](../../record/claims.d/CLAIM-169.md) | 7 | 55 | 6 | Desynchronized valuation produces interests |
+| 2026-11-19 | Proposed | [CLAIM-758](../../record/claims.d/CLAIM-758.md) | 7 | 101 | 6 | Overconsolidation, a generalization of overfitting |
+| 2026-11-23 | Proposed | [CLAIM-1140](../../record/claims.d/CLAIM-1140.md) | 7 | 19 | 0 | Failing to persuade does not show worthlessness |
+| 2026-11-25 | Proposed | [CLAIM-1292](../../record/claims.d/CLAIM-1292.md) | 7 | 10 | 0 | One tangle need not be a flood of papers |
+| 2026-11-27 | Proposed | [CLAIM-1387](../../record/claims.d/CLAIM-1387.md) | 7 | 6 | 0 | Sycophancy is imitated in pretraining and selected for in post-training |
 | 2026-10-10 | Proposed | [CLAIM-151](../../record/claims.d/CLAIM-151.md) | 6 | 202 | 5 | Changing relations can change the act |
 | 2026-10-10 | Proposed | [CLAIM-142](../../record/claims.d/CLAIM-142.md) | 6 | 134 | 14 | Only held-out probes evidence preserved structure |
-| 2026-10-23 | Proposed | [CLAIM-446](../../record/claims.d/CLAIM-446.md) | 6 | 196 | 14 | Anxiety may be governance-maintained |
+| 2026-10-13 | Proposed | [CLAIM-276](../../record/claims.d/CLAIM-276.md) | 6 | 36 | 9 | Stable interpretation is no evidence of truth |
+| 2026-10-23 | Proposed | [CLAIM-446](../../record/claims.d/CLAIM-446.md) | 6 | 197 | 14 | Anxiety may be governance-maintained |
+| 2026-11-02 | Proposed | [CLAIM-545](../../record/claims.d/CLAIM-545.md) | 6 | 136 | 6 | Free will as governance of one's governability |
 | 2026-11-07 | Proposed | [CLAIM-612](../../record/claims.d/CLAIM-612.md) | 6 | 48 | 0 | Survivor statistics settle while failure is sure |
 | 2026-11-20 | Proposed | [CLAIM-772](../../record/claims.d/CLAIM-772.md) | 6 | 72 | 1 | Forgetting and anchoring are one contraction |
 | 2026-11-21 | Proposed | [CLAIM-811](../../record/claims.d/CLAIM-811.md) | 6 | 20 | 0 | Relaxation rate not fixed by learning coefficient |
-| 2026-11-24 | Proposed | [CLAIM-1218](../../record/claims.d/CLAIM-1218.md) | 6 | 20 | 0 | A meme can be a nucleation site |
+| 2026-11-23 | Proposed | [CLAIM-1117](../../record/claims.d/CLAIM-1117.md) | 6 | 14 | 0 | Legibility cost steers which questions are pursued |
+| 2026-11-23 | Proposed | [CLAIM-1119](../../record/claims.d/CLAIM-1119.md) | 6 | 10 | 0 | Alternative perspectives are legibility regimes |
+| 2026-11-27 | Proposed | [CLAIM-1358](../../record/claims.d/CLAIM-1358.md) | 6 | 6 | 0 | Influence that depends on the target's load bypasses evaluation, and restoring capacity tells it apart |
 | 2026-10-23 | Proposed | [CLAIM-445](../../record/claims.d/CLAIM-445.md) | 5 | 134 | 15 | Protective regimes become self-maintaining |
 | 2026-11-05 | Proposed | [CLAIM-576](../../record/claims.d/CLAIM-576.md) | 5 | 48 | 0 | A system is its process repertoire |
-| 2026-11-22 | Proposed | [CLAIM-1104](../../record/claims.d/CLAIM-1104.md) | 5 | 14 | 3 | Revisable constraints matched to demand timescales |
-| 2026-11-23 | Proposed | [CLAIM-996](../../record/claims.d/CLAIM-996.md) | 5 | 15 | 0 | Permission to inquire is a second-order query |
+| 2026-11-12 | Proposed | [CLAIM-658](../../record/claims.d/CLAIM-658.md) | 5 | 42 | 0 | A responsive minority can set a revenue design |
+| 2026-11-22 | Proposed | [CLAIM-1104](../../record/claims.d/CLAIM-1104.md) | 5 | 15 | 3 | Revisable constraints matched to demand timescales |
+| 2026-11-23 | Proposed | [CLAIM-1004](../../record/claims.d/CLAIM-1004.md) | 5 | 12 | 0 | Persisted perspectives as nucleation sites |
+| 2026-11-23 | Proposed | [CLAIM-1132](../../record/claims.d/CLAIM-1132.md) | 5 | 12 | 0 | Possibility is shaped by affordable legibility |
+| 2026-11-24 | Proposed | [CLAIM-1293](../../record/claims.d/CLAIM-1293.md) | 5 | 25 | 0 | Contracts can form between processes |
+| 2026-11-24 | Proposed | [CLAIM-1284](../../record/claims.d/CLAIM-1284.md) | 5 | 24 | 0 | Reliance can stabilize a norm |
+| 2026-11-24 | Proposed | [CLAIM-1227](../../record/claims.d/CLAIM-1227.md) | 5 | 21 | 0 | Memes are characteristic values of perspectives |
+| 2026-11-25 | Proposed | [CLAIM-1258](../../record/claims.d/CLAIM-1258.md) | 5 | 5 | 0 | Legible form is split from productive form |
+| 2026-11-27 | Proposed | [CLAIM-1446](../../record/claims.d/CLAIM-1446.md) | 5 | 9 | 0 | Sycophancy is optimization of the feelings by which raters approve |
 | 2026-10-16 | Proposed | [CLAIM-327](../../record/claims.d/CLAIM-327.md) | 4 | 96 | 4 | Collective variables are dynamics when read |
-| 2026-11-02 | Proposed | [CLAIM-545](../../record/claims.d/CLAIM-545.md) | 4 | 131 | 6 | Free will as governance of one's governability |
+| 2026-11-05 | Proposed | [CLAIM-603](../../record/claims.d/CLAIM-603.md) | 4 | 181 | 1 | The supply, not the loss, decides dependency |
 | 2026-11-07 | Proposed | [CLAIM-611](../../record/claims.d/CLAIM-611.md) | 4 | 68 | 7 | The organization persists, not its repertoire |
 | 2026-11-12 | Proposed | [CLAIM-668](../../record/claims.d/CLAIM-668.md) | 4 | 26 | 0 | A shared record shows standing, not belief |
 | 2026-11-15 | Proposed | [CLAIM-708](../../record/claims.d/CLAIM-708.md) | 4 | 116 | 1 | Who structures a wrong answers for it too |
 | 2026-11-20 | Proposed | [CLAIM-780](../../record/claims.d/CLAIM-780.md) | 4 | 44 | 4 | Log commute time converges to the budget tree |
 | 2026-11-22 | Proposed | [CLAIM-916](../../record/claims.d/CLAIM-916.md) | 4 | 23 | 7 | What realizes a capacity fixes its constraints |
-| 2026-11-23 | Proposed | [CLAIM-1004](../../record/claims.d/CLAIM-1004.md) | 4 | 12 | 0 | Persisted perspectives as nucleation sites |
+| 2026-11-23 | Proposed | [CLAIM-1148](../../record/claims.d/CLAIM-1148.md) | 4 | 14 | 0 | Maintained nuclei shorten time to response |
 | 2026-11-23 | Proposed | [CLAIM-1087](../../record/claims.d/CLAIM-1087.md) | 4 | 9 | 0 | Co-adapting standard converges to no target |
-| 2026-11-24 | Proposed | [CLAIM-1284](../../record/claims.d/CLAIM-1284.md) | 4 | 24 | 0 | Reliance can stabilize a norm |
-| 2026-11-24 | Proposed | [CLAIM-1293](../../record/claims.d/CLAIM-1293.md) | 4 | 22 | 0 | Contracts can form between processes |
-| 2026-11-24 | Proposed | [CLAIM-1227](../../record/claims.d/CLAIM-1227.md) | 4 | 21 | 0 | Memes are characteristic values of perspectives |
+| 2026-11-24 | Proposed | [CLAIM-1252](../../record/claims.d/CLAIM-1252.md) | 4 | 32 | 1 | Standing constrains what an agent may optimize |
+| 2026-11-24 | Proposed | [CLAIM-1239](../../record/claims.d/CLAIM-1239.md) | 4 | 30 | 0 | Contract-like relations govern deviation |
+| 2026-11-24 | Proposed | [CLAIM-1249](../../record/claims.d/CLAIM-1249.md) | 4 | 11 | 0 | Manufactured doubt raises the action threshold |
 | 2026-11-24 | Proposed | [CLAIM-1216](../../record/claims.d/CLAIM-1216.md) | 4 | 10 | 0 | Expectations can be structural, not represented |
+| 2026-11-26 | Proposed | [CLAIM-1366](../../record/claims.d/CLAIM-1366.md) | 4 | 21 | 5 | A would-prevail relation always has a potential over its cycles |
+| 2026-11-26 | Proposed | [CLAIM-1400](../../record/claims.d/CLAIM-1400.md) | 4 | 10 | 1 | Jurisdiction, not the objective, sets what an optimizer can harm |
+| 2026-11-27 | Proposed | [CLAIM-1385](../../record/claims.d/CLAIM-1385.md) | 4 | 7 | 0 | A delusional aha is closure reached on an unfinished Gestalt |
+| 2026-11-27 | Proposed | [CLAIM-1404](../../record/claims.d/CLAIM-1404.md) | 4 | 5 | 0 | Cognitive load theory prices peaks and resource-rational analysis prices totals; bounded inquiry needs both |
+| 2026-11-27 | Proposed | [CLAIM-1405](../../record/claims.d/CLAIM-1405.md) | 4 | 5 | 1 | Who pays the cognitive load of making something legible is an allocation, and an institution steers inquiry by it |
 | 2026-10-09 | Proposed | [CLAIM-082](../../record/claims.d/CLAIM-082.md) | 3 | 90 | 7 | Value is fixed by contrasts within the system |
-| 2026-10-11 | Proposed | [CLAIM-185](../../record/claims.d/CLAIM-185.md) | 3 | 103 | 12 | Nucleation threshold is persistence |
+| 2026-10-11 | Proposed | [CLAIM-185](../../record/claims.d/CLAIM-185.md) | 3 | 106 | 12 | Nucleation threshold is persistence |
 | 2026-10-11 | Proposed | [CLAIM-162](../../record/claims.d/CLAIM-162.md) | 3 | 74 | 6 | Flow is effortless because valuations coincide |
 | 2026-10-11 | Proposed | [CLAIM-165](../../record/claims.d/CLAIM-165.md) | 3 | 26 | 3 | Entrained dancers are still two subjects |
-| 2026-10-12 | Proposed | [CLAIM-250](../../record/claims.d/CLAIM-250.md) | 3 | 38 | 4 | Preserve accountability, not propositions |
-| 2026-10-13 | Proposed | [CLAIM-286](../../record/claims.d/CLAIM-286.md) | 3 | 46 | 4 | Habit to insight as regimes of one organization |
+| 2026-10-12 | Proposed | [CLAIM-250](../../record/claims.d/CLAIM-250.md) | 3 | 34 | 4 | Preserve accountability, not propositions |
+| 2026-10-13 | Proposed | [CLAIM-286](../../record/claims.d/CLAIM-286.md) | 3 | 47 | 4 | Habit to insight as regimes of one organization |
+| 2026-10-15 | Proposed | [CLAIM-317](../../record/claims.d/CLAIM-317.md) | 3 | 24 | 10 | Networked media collapse kept-apart audiences |
+| 2026-10-22 | Proposed | [CLAIM-428](../../record/claims.d/CLAIM-428.md) | 3 | 46 | 2 | Interdependence does not fix its organization |
 | 2026-10-31 | Proposed | [CLAIM-519](../../record/claims.d/CLAIM-519.md) | 3 | 57 | 6 | Competence does not establish a world model |
-| 2026-11-05 | Proposed | [CLAIM-603](../../record/claims.d/CLAIM-603.md) | 3 | 160 | 1 | The supply, not the loss, decides dependency |
 | 2026-11-07 | Proposed | [CLAIM-614](../../record/claims.d/CLAIM-614.md) | 3 | 121 | 5 | Reproducing non-legibility is a further wrong |
-| 2026-11-12 | Proposed | [CLAIM-658](../../record/claims.d/CLAIM-658.md) | 3 | 35 | 0 | A responsive minority can set a revenue design |
 | 2026-11-17 | Proposed | [CLAIM-742](../../record/claims.d/CLAIM-742.md) | 3 | 51 | 0 | Blame and accountability are not the same |
-| 2026-11-19 | Proposed | [CLAIM-754](../../record/claims.d/CLAIM-754.md) | 3 | 74 | 9 | Three separately moving learner frontiers |
-| 2026-11-20 | Proposed | [CLAIM-778](../../record/claims.d/CLAIM-778.md) | 3 | 29 | 0 | An entry's local freedoms narrow like a prior |
+| 2026-11-19 | Proposed | [CLAIM-754](../../record/claims.d/CLAIM-754.md) | 3 | 80 | 10 | Three separately moving learner frontiers |
+| 2026-11-20 | Proposed | [CLAIM-778](../../record/claims.d/CLAIM-778.md) | 3 | 30 | 0 | An entry's local freedoms narrow like a prior |
 | 2026-11-21 | Proposed | [CLAIM-799](../../record/claims.d/CLAIM-799.md) | 3 | 71 | 0 | Separation, decodability, detectability differ |
 | 2026-11-21 | Proposed | [CLAIM-800](../../record/claims.d/CLAIM-800.md) | 3 | 23 | 0 | Cone occupancy is not a measure of learning |
 | 2026-11-21 | Proposed | [CLAIM-797](../../record/claims.d/CLAIM-797.md) | 3 | 14 | 0 | High-dimensional geometry is a null baseline |
 | 2026-11-22 | Proposed | [CLAIM-1175](../../record/claims.d/CLAIM-1175.md) | 3 | 11 | 1 | A self's unity is established causally |
 | 2026-11-23 | Proposed | [CLAIM-1043](../../record/claims.d/CLAIM-1043.md) | 3 | 13 | 0 | Rescaling changes what fine-tuning learns |
-| 2026-11-23 | Proposed | [CLAIM-1148](../../record/claims.d/CLAIM-1148.md) | 3 | 11 | 0 | Maintained nuclei shorten time to response |
 | 2026-11-23 | Proposed | [CLAIM-1172](../../record/claims.d/CLAIM-1172.md) | 3 | 8 | 1 | Ecosystems have slow variables too |
 | 2026-11-23 | Proposed | [CLAIM-1176](../../record/claims.d/CLAIM-1176.md) | 3 | 7 | 0 | Sheaf contextual implies CbD contextual |
-| 2026-11-24 | Proposed | [CLAIM-1239](../../record/claims.d/CLAIM-1239.md) | 3 | 30 | 0 | Contract-like relations govern deviation |
 | 2026-11-24 | Proposed | [CLAIM-1256](../../record/claims.d/CLAIM-1256.md) | 3 | 16 | 0 | Over-reliable providers lower resilience |
+| 2026-11-24 | Proposed | [CLAIM-1296](../../record/claims.d/CLAIM-1296.md) | 3 | 13 | 0 | Legibility cheapens coercion too |
+| 2026-11-24 | Proposed | [CLAIM-1339](../../record/claims.d/CLAIM-1339.md) | 3 | 11 | 0 | Hyperstition success is not memetic fitness |
+| 2026-11-24 | Proposed | [CLAIM-1272](../../record/claims.d/CLAIM-1272.md) | 3 | 6 | 0 | Anchoring by nucleation outlasts the anchor |
+| 2026-11-26 | Proposed | [CLAIM-1443](../../record/claims.d/CLAIM-1443.md) | 3 | 21 | 0 | Optimization turns pathological by eroding its evaluators |
+| 2026-11-27 | Proposed | [CLAIM-1397](../../record/claims.d/CLAIM-1397.md) | 3 | 8 | 0 | SEO is adversarial and causal Goodhart, and a ranking escapes only by reading effects costly to forge |
+| 2026-11-27 | Proposed | [CLAIM-1436](../../record/claims.d/CLAIM-1436.md) | 3 | 4 | 0 | Pressure tactics spend the target's peak budget, and flooding spends its total budget |
 | 2026-10-04 | Deferred | [CLAIM-016](../../record/claims.d/CLAIM-016.md) | 2 | 53 | 4 | Own will is integrated, answerable commitment |
 | 2026-10-08 | Proposed | [CLAIM-091](../../record/claims.d/CLAIM-091.md) | 2 | 72 | 3 | Lexical infidelity can be required for fidelity |
 | 2026-10-08 | Proposed | [CLAIM-004](../../record/claims.d/CLAIM-004.md) | 2 | 57 | 4 | Some translation differences change the act |
@@ -1708,11 +1812,10 @@
 | 2026-10-16 | Proposed | [CLAIM-336](../../record/claims.d/CLAIM-336.md) | 2 | 104 | 8 | Transport and will-organization are one model |
 | 2026-10-18 | Proposed | [CLAIM-364](../../record/claims.d/CLAIM-364.md) | 2 | 96 | 16 | Silenced and negotiating processes look alike |
 | 2026-10-18 | Proposed | [CLAIM-358](../../record/claims.d/CLAIM-358.md) | 2 | 81 | 19 | Local accommodation amortizes arbitration |
-| 2026-10-22 | Proposed | [CLAIM-428](../../record/claims.d/CLAIM-428.md) | 2 | 46 | 2 | Interdependence does not fix its organization |
-| 2026-10-23 | Proposed | [CLAIM-437](../../record/claims.d/CLAIM-437.md) | 2 | 52 | 20 | Wanting and liking are perspective-relative |
+| 2026-10-23 | Proposed | [CLAIM-437](../../record/claims.d/CLAIM-437.md) | 2 | 54 | 21 | Wanting and liking are perspective-relative |
 | 2026-10-27 | Proposed | [CLAIM-483](../../record/claims.d/CLAIM-483.md) | 2 | 22 | 4 | Memoryless collaboration fails at identity |
 | 2026-11-02 | Proposed | [CLAIM-541](../../record/claims.d/CLAIM-541.md) | 2 | 30 | 1 | Wu-wei as well-placed control |
-| 2026-11-07 | Proposed | [CLAIM-624](../../record/claims.d/CLAIM-624.md) | 2 | 347 | 6 | A second-order duty of answerability |
+| 2026-11-07 | Proposed | [CLAIM-624](../../record/claims.d/CLAIM-624.md) | 2 | 354 | 6 | A second-order duty of answerability |
 | 2026-11-07 | Proposed | [CLAIM-615](../../record/claims.d/CLAIM-615.md) | 2 | 101 | 7 | Identity is carried by causal transmission |
 | 2026-11-12 | Proposed | [CLAIM-649](../../record/claims.d/CLAIM-649.md) | 2 | 29 | 3 | Absent response is diagnostic evidence |
 | 2026-11-12 | Proposed | [CLAIM-655](../../record/claims.d/CLAIM-655.md) | 2 | 10 | 1 | Measured demand can move with no taste changing |
@@ -1729,11 +1832,11 @@
 | 2026-11-21 | Proposed | [CLAIM-821](../../record/claims.d/CLAIM-821.md) | 2 | 6 | 0 | No certification without a null |
 | 2026-11-22 | Proposed | [CLAIM-943](../../record/claims.d/CLAIM-943.md) | 2 | 20 | 0 | Descriptors inform, impositions perform |
 | 2026-11-22 | Proposed | [CLAIM-1066](../../record/claims.d/CLAIM-1066.md) | 2 | 17 | 1 | Slow modes carry identity, must stay controllable |
+| 2026-11-22 | Proposed | [CLAIM-868](../../record/claims.d/CLAIM-868.md) | 2 | 15 | 0 | Only a formation record reveals manipulation |
 | 2026-11-22 | Proposed | [CLAIM-1015](../../record/claims.d/CLAIM-1015.md) | 2 | 14 | 0 | Ecological unity of a self-like organization |
-| 2026-11-22 | Proposed | [CLAIM-868](../../record/claims.d/CLAIM-868.md) | 2 | 13 | 0 | Only a formation record reveals manipulation |
 | 2026-11-22 | Proposed | [CLAIM-1112](../../record/claims.d/CLAIM-1112.md) | 2 | 7 | 0 | A self can be a continuous mess |
 | 2026-11-22 | Proposed | [CLAIM-993](../../record/claims.d/CLAIM-993.md) | 2 | 6 | 0 | Barrier set by width, group and path family |
-| 2026-11-23 | Proposed | [CLAIM-1140](../../record/claims.d/CLAIM-1140.md) | 2 | 19 | 0 | Failing to persuade does not show worthlessness |
+| 2026-11-23 | Proposed | [CLAIM-1002](../../record/claims.d/CLAIM-1002.md) | 2 | 14 | 0 | Perspectives help only if failures independent |
 | 2026-11-23 | Proposed | [CLAIM-1053](../../record/claims.d/CLAIM-1053.md) | 2 | 11 | 0 | Equilibrium may be a stabilized query–answer pair |
 | 2026-11-23 | Proposed | [CLAIM-1012](../../record/claims.d/CLAIM-1012.md) | 2 | 10 | 0 | Hardest queries are not good governance |
 | 2026-11-23 | Proposed | [CLAIM-1006](../../record/claims.d/CLAIM-1006.md) | 2 | 9 | 0 | Only the actor testifies on the Juggernaut line |
@@ -1743,17 +1846,24 @@
 | 2026-11-23 | Proposed | [CLAIM-1143](../../record/claims.d/CLAIM-1143.md) | 2 | 7 | 0 | A witness never certifies the common mode |
 | 2026-11-23 | Proposed | [CLAIM-1168](../../record/claims.d/CLAIM-1168.md) | 2 | 5 | 0 | Regenerated variables defeat the structural answer |
 | 2026-11-24 | Proposed | [CLAIM-1243](../../record/claims.d/CLAIM-1243.md) | 2 | 23 | 0 | Three kinds of relational uncertainty |
+| 2026-11-24 | Proposed | [CLAIM-1285](../../record/claims.d/CLAIM-1285.md) | 2 | 23 | 0 | Memetic fidelity as preserved relations |
+| 2026-11-24 | Proposed | [CLAIM-1268](../../record/claims.d/CLAIM-1268.md) | 2 | 19 | 1 | Monitoring can produce the conformity it records |
 | 2026-11-24 | Proposed | [CLAIM-1253](../../record/claims.d/CLAIM-1253.md) | 2 | 15 | 0 | Preserving structure does not preserve capacities |
 | 2026-11-24 | Proposed | [CLAIM-1220](../../record/claims.d/CLAIM-1220.md) | 2 | 14 | 0 | Unity of activity is not unity of authority |
+| 2026-11-24 | Proposed | [CLAIM-1212](../../record/claims.d/CLAIM-1212.md) | 2 | 12 | 0 | Reliance alone does not make something owed |
 | 2026-11-24 | Proposed | [CLAIM-1255](../../record/claims.d/CLAIM-1255.md) | 2 | 12 | 0 | Specification fidelity can coexist with drift |
-| 2026-11-25 | Proposed | [CLAIM-1292](../../record/claims.d/CLAIM-1292.md) | 2 | 10 | 0 | One tangle need not be a flood of papers |
+| 2026-11-24 | Proposed | [CLAIM-1279](../../record/claims.d/CLAIM-1279.md) | 2 | 12 | 1 | Norm, not prediction, when deviation is corrected |
 | 2026-11-25 | Proposed | [CLAIM-1213](../../record/claims.d/CLAIM-1213.md) | 2 | 5 | 0 | Show your work, for educators |
 | 2026-11-25 | Proposed | [CLAIM-1247](../../record/claims.d/CLAIM-1247.md) | 2 | 5 | 0 | Luria was extracted from a webapp project |
 | 2026-11-25 | Proposed | [CLAIM-1337](../../record/claims.d/CLAIM-1337.md) | 2 | 4 | 0 | Stable classes are one way inquiry progresses |
 | 2026-11-25 | Proposed | [CLAIM-1335](../../record/claims.d/CLAIM-1335.md) | 2 | 3 | 0 | A luria record is an atlas of charts |
+| 2026-11-26 | Proposed | [CLAIM-1391](../../record/claims.d/CLAIM-1391.md) | 2 | 21 | 2 | A conversation can nucleate a delusion that outlasts it |
+| 2026-11-26 | Proposed | [CLAIM-1411](../../record/claims.d/CLAIM-1411.md) | 2 | 9 | 3 | Valence unobserved is not valence absent |
+| 2026-11-27 | Proposed | [CLAIM-1438](../../record/claims.d/CLAIM-1438.md) | 2 | 23 | 2 | Sycophancy is reflexive control of the evaluator, and reward tampering is its limit |
+| 2026-11-27 | Proposed | [CLAIM-1392](../../record/claims.d/CLAIM-1392.md) | 2 | 7 | 1 | A ranking legible enough to be fair is legible enough to game |
 | 2026-10-08 | Proposed | [CLAIM-044](../../record/claims.d/CLAIM-044.md) | 1 | 53 | 9 | Ambiguity and contextuality differ |
 | 2026-10-08 | Proposed | [CLAIM-034](../../record/claims.d/CLAIM-034.md) | 1 | 42 | 2 | Fidelity is one translation goal among several |
-| 2026-10-08 | Proposed | [CLAIM-029](../../record/claims.d/CLAIM-029.md) | 1 | 40 | 3 | A model's response is a pragmatic frame |
+| 2026-10-08 | Proposed | [CLAIM-029](../../record/claims.d/CLAIM-029.md) | 1 | 41 | 3 | A model's response is a pragmatic frame |
 | 2026-10-08 | Proposed | [CLAIM-052](../../record/claims.d/CLAIM-052.md) | 1 | 39 | 4 | Framing operations generally do not commute |
 | 2026-10-10 | Proposed | [CLAIM-220](../../record/claims.d/CLAIM-220.md) | 1 | 228 | 83 | What survives is what receivers recover |
 | 2026-10-10 | Proposed | [CLAIM-217](../../record/claims.d/CLAIM-217.md) | 1 | 75 | 1 | Competent uptake as the standard of sufficiency |
@@ -1761,34 +1871,38 @@
 | 2026-10-10 | Proposed | [CLAIM-138](../../record/claims.d/CLAIM-138.md) | 1 | 51 | 2 | Newman objection is the collapse objection |
 | 2026-10-10 | Proposed | [CLAIM-242](../../record/claims.d/CLAIM-242.md) | 1 | 44 | 7 | Values do not cross between languages |
 | 2026-10-11 | Proposed | [CLAIM-174](../../record/claims.d/CLAIM-174.md) | 1 | 117 | 14 | Three tests for agency, a fourth for will |
-| 2026-10-11 | Proposed | [CLAIM-184](../../record/claims.d/CLAIM-184.md) | 1 | 107 | 19 | Anchors entrench early framings |
+| 2026-10-11 | Proposed | [CLAIM-184](../../record/claims.d/CLAIM-184.md) | 1 | 112 | 14 | Anchors entrench early framings |
 | 2026-10-11 | Proposed | [CLAIM-186](../../record/claims.d/CLAIM-186.md) | 1 | 62 | 6 | Drift tracks arrival rate over anchoring rate |
-| 2026-10-11 | Proposed | [CLAIM-180](../../record/claims.d/CLAIM-180.md) | 1 | 56 | 4 | Drift is retrieval failure beyond a distance |
-| 2026-10-11 | Proposed | [CLAIM-176](../../record/claims.d/CLAIM-176.md) | 1 | 54 | 7 | Recurrence triggers persistence |
+| 2026-10-11 | Proposed | [CLAIM-180](../../record/claims.d/CLAIM-180.md) | 1 | 57 | 4 | Drift is retrieval failure beyond a distance |
+| 2026-10-11 | Proposed | [CLAIM-176](../../record/claims.d/CLAIM-176.md) | 1 | 53 | 6 | Recurrence triggers persistence |
 | 2026-10-11 | Proposed | [CLAIM-160](../../record/claims.d/CLAIM-160.md) | 1 | 45 | 3 | Intended meaning is fixed at the write |
+| 2026-10-12 | Proposed | [CLAIM-196](../../record/claims.d/CLAIM-196.md) | 1 | 44 | 9 | Roles only respectively available in disjoint contexts cannot conflict |
 | 2026-10-13 | Proposed | [CLAIM-263](../../record/claims.d/CLAIM-263.md) | 1 | 62 | 6 | Barrier after alignment marks another mechanism |
 | 2026-10-13 | Proposed | [CLAIM-271](../../record/claims.d/CLAIM-271.md) | 1 | 45 | 9 | Polling can contradict the collective's reasons |
-| 2026-10-15 | Proposed | [CLAIM-317](../../record/claims.d/CLAIM-317.md) | 1 | 11 | 3 | Networked media collapse kept-apart audiences |
-| 2026-10-22 | Proposed | [CLAIM-417](../../record/claims.d/CLAIM-417.md) | 1 | 128 | 8 | Organizational perspectives explain the self |
+| 2026-10-22 | Proposed | [CLAIM-417](../../record/claims.d/CLAIM-417.md) | 1 | 130 | 9 | Organizational perspectives explain the self |
 | 2026-10-22 | Proposed | [CLAIM-415](../../record/claims.d/CLAIM-415.md) | 1 | 81 | 4 | Organized by a judgement no collective holds |
 | 2026-10-22 | Proposed | [CLAIM-423](../../record/claims.d/CLAIM-423.md) | 1 | 62 | 3 | Political timescales are not merely nested |
-| 2026-10-23 | Proposed | [CLAIM-431](../../record/claims.d/CLAIM-431.md) | 1 | 63 | 3 | Corporate remorse cannot be told from prudence |
-| 2026-10-27 | Proposed | [CLAIM-476](../../record/claims.d/CLAIM-476.md) | 1 | 79 | 38 | Luria constitutes its record's objects |
+| 2026-10-23 | Proposed | [CLAIM-431](../../record/claims.d/CLAIM-431.md) | 1 | 66 | 4 | Corporate remorse cannot be told from prudence |
+| 2026-10-27 | Proposed | [CLAIM-476](../../record/claims.d/CLAIM-476.md) | 1 | 66 | 22 | Luria constitutes its record's objects |
 | 2026-10-28 | Proposed | [CLAIM-486](../../record/claims.d/CLAIM-486.md) | 1 | 40 | 1 | Communicative act survives a changed proposition |
 | 2026-10-31 | Proposed | [CLAIM-527](../../record/claims.d/CLAIM-527.md) | 1 | 23 | 4 | Viable reach, valence and emotion are three |
 | 2026-11-12 | Proposed | [CLAIM-671](../../record/claims.d/CLAIM-671.md) | 1 | 89 | 0 | Imposed vulnerability strengthens responsibility |
-| 2026-11-12 | Proposed | [CLAIM-652](../../record/claims.d/CLAIM-652.md) | 1 | 25 | 0 | Scoring by present users' reports expands harm |
+| 2026-11-12 | Proposed | [CLAIM-656](../../record/claims.d/CLAIM-656.md) | 1 | 62 | 0 | Attention revenue selects against investigation |
+| 2026-11-12 | Proposed | [CLAIM-667](../../record/claims.d/CLAIM-667.md) | 1 | 49 | 0 | Governed schema change helps where categories fail |
+| 2026-11-12 | Proposed | [CLAIM-652](../../record/claims.d/CLAIM-652.md) | 1 | 29 | 0 | Scoring by present users' reports expands harm |
+| 2026-11-13 | Proposed | [CLAIM-690](../../record/claims.d/CLAIM-690.md) | 1 | 95 | 1 | Control of terms sorts dependence, not magnitude |
 | 2026-11-15 | Proposed | [CLAIM-707](../../record/claims.d/CLAIM-707.md) | 1 | 167 | 1 | Blame can fall where control is least |
-| 2026-11-15 | Proposed | [CLAIM-710](../../record/claims.d/CLAIM-710.md) | 1 | 103 | 1 | Removing friction can remove interruptibility |
+| 2026-11-15 | Proposed | [CLAIM-710](../../record/claims.d/CLAIM-710.md) | 1 | 102 | 0 | Removing friction can remove interruptibility |
 | 2026-11-15 | Proposed | [CLAIM-711](../../record/claims.d/CLAIM-711.md) | 1 | 64 | 0 | Frictionless processes can be interruptible |
 | 2026-11-15 | Proposed | [CLAIM-700](../../record/claims.d/CLAIM-700.md) | 1 | 56 | 0 | Compensation read as adequacy locks in shortfall |
-| 2026-11-15 | Proposed | [CLAIM-705](../../record/claims.d/CLAIM-705.md) | 1 | 51 | 2 | Overload caps timely challenges at μ/λ |
+| 2026-11-15 | Proposed | [CLAIM-705](../../record/claims.d/CLAIM-705.md) | 1 | 50 | 1 | Overload caps timely challenges at μ/λ |
 | 2026-11-15 | Proposed | [CLAIM-695](../../record/claims.d/CLAIM-695.md) | 1 | 28 | 0 | RLVR can sharpen without expanding |
 | 2026-11-17 | Proposed | [CLAIM-723](../../record/claims.d/CLAIM-723.md) | 1 | 79 | 0 | Preempting intervention is a wrong of its own |
 | 2026-11-17 | Proposed | [CLAIM-733](../../record/claims.d/CLAIM-733.md) | 1 | 49 | 0 | Blame supplies provenance |
 | 2026-11-17 | Proposed | [CLAIM-737](../../record/claims.d/CLAIM-737.md) | 1 | 41 | 1 | Limiting rightly and who may limit are separate |
+| 2026-11-19 | Proposed | [CLAIM-762](../../record/claims.d/CLAIM-762.md) | 1 | 58 | 1 | Collapsed equivalences become new distinctions |
 | 2026-11-20 | Proposed | [CLAIM-781](../../record/claims.d/CLAIM-781.md) | 1 | 34 | 5 | Rate ratios close levels and space the tree |
-| 2026-11-20 | Proposed | [CLAIM-767](../../record/claims.d/CLAIM-767.md) | 1 | 17 | 0 | Residual depth is a restatement chain |
+| 2026-11-20 | Proposed | [CLAIM-767](../../record/claims.d/CLAIM-767.md) | 1 | 18 | 0 | Residual depth is a restatement chain |
 | 2026-11-20 | Proposed | [CLAIM-777](../../record/claims.d/CLAIM-777.md) | 1 | 12 | 0 | Drift grows hyperbolically with arrival/anchoring |
 | 2026-11-21 | Proposed | [CLAIM-795](../../record/claims.d/CLAIM-795.md) | 1 | 69 | 0 | Power laws without positive feedback |
 | 2026-11-21 | Proposed | [CLAIM-817](../../record/claims.d/CLAIM-817.md) | 1 | 60 | 0 | Power law needs linear attachment plus entry |
@@ -1797,10 +1911,10 @@
 | 2026-11-21 | Proposed | [CLAIM-830](../../record/claims.d/CLAIM-830.md) | 1 | 38 | 0 | New entry, not proportionality, makes BA's law |
 | 2026-11-21 | Proposed | [CLAIM-848](../../record/claims.d/CLAIM-848.md) | 1 | 27 | 0 | Participation ratio misses intrinsic dimension |
 | 2026-11-21 | Proposed | [CLAIM-825](../../record/claims.d/CLAIM-825.md) | 1 | 20 | 0 | Effective dimension grows with the data |
-| 2026-11-21 | Proposed | [CLAIM-784](../../record/claims.d/CLAIM-784.md) | 1 | 16 | 4 | Engineering is a form of inquiry |
 | 2026-11-21 | Proposed | [CLAIM-818](../../record/claims.d/CLAIM-818.md) | 1 | 15 | 0 | Shared-kernel coupling does not make flow active |
 | 2026-11-21 | Proposed | [CLAIM-788](../../record/claims.d/CLAIM-788.md) | 1 | 14 | 0 | First Contact forms a channel, not information |
 | 2026-11-21 | Proposed | [CLAIM-846](../../record/claims.d/CLAIM-846.md) | 1 | 14 | 0 | Scale-free correlations without heavy tails |
+| 2026-11-21 | Proposed | [CLAIM-784](../../record/claims.d/CLAIM-784.md) | 1 | 12 | 0 | Engineering is a form of inquiry |
 | 2026-11-21 | Proposed | [CLAIM-843](../../record/claims.d/CLAIM-843.md) | 1 | 9 | 0 | Power-law relaxation of factored modes |
 | 2026-11-21 | Proposed | [CLAIM-853](../../record/claims.d/CLAIM-853.md) | 1 | 2 | 0 | Inverse covariance moves energy to the tail |
 | 2026-11-22 | Proposed | [CLAIM-857](../../record/claims.d/CLAIM-857.md) | 1 | 24 | 0 | Power-law mixtures need weight at zero rate |
@@ -1813,46 +1927,55 @@
 | 2026-11-22 | Proposed | [CLAIM-1196](../../record/claims.d/CLAIM-1196.md) | 1 | 10 | 1 | A self as a sloppy mess of perspectives |
 | 2026-11-22 | Proposed | [CLAIM-869](../../record/claims.d/CLAIM-869.md) | 1 | 9 | 0 | Block test misses the Life block |
 | 2026-11-22 | Proposed | [CLAIM-1055](../../record/claims.d/CLAIM-1055.md) | 1 | 8 | 0 | A self is better modelled as measure-valued |
-| 2026-11-23 | Proposed | [CLAIM-1038](../../record/claims.d/CLAIM-1038.md) | 1 | 25 | 0 | Diversity tracks richness via independent routes |
+| 2026-11-23 | Proposed | [CLAIM-1038](../../record/claims.d/CLAIM-1038.md) | 1 | 27 | 0 | Diversity tracks richness via independent routes |
 | 2026-11-23 | Proposed | [CLAIM-1042](../../record/claims.d/CLAIM-1042.md) | 1 | 23 | 0 | Duplicate perspectives add no coverage |
 | 2026-11-23 | Proposed | [CLAIM-1169](../../record/claims.d/CLAIM-1169.md) | 1 | 22 | 0 | Reversion test separates only in redesigned arm |
+| 2026-11-23 | Proposed | [CLAIM-1197](../../record/claims.d/CLAIM-1197.md) | 1 | 14 | 0 | Four conditions for an optimal learning policy |
+| 2026-11-23 | Proposed | [CLAIM-1003](../../record/claims.d/CLAIM-1003.md) | 1 | 12 | 0 | Losing the ability to ask is harder to detect |
 | 2026-11-23 | Proposed | [CLAIM-1135](../../record/claims.d/CLAIM-1135.md) | 1 | 12 | 0 | Identity and adaptability are two achievements |
 | 2026-11-23 | Proposed | [CLAIM-1156](../../record/claims.d/CLAIM-1156.md) | 1 | 12 | 2 | Same answers, different effects of answering |
-| 2026-11-23 | Proposed | [CLAIM-1197](../../record/claims.d/CLAIM-1197.md) | 1 | 12 | 0 | Four conditions for an optimal learning policy |
-| 2026-11-23 | Proposed | [CLAIM-1003](../../record/claims.d/CLAIM-1003.md) | 1 | 11 | 0 | Losing the ability to ask is harder to detect |
 | 2026-11-23 | Proposed | [CLAIM-1054](../../record/claims.d/CLAIM-1054.md) | 1 | 11 | 0 | Routine queries can set a capability trap |
-| 2026-11-23 | Proposed | [CLAIM-1117](../../record/claims.d/CLAIM-1117.md) | 1 | 11 | 0 | Legibility cost steers which questions are pursued |
-| 2026-11-23 | Proposed | [CLAIM-1002](../../record/claims.d/CLAIM-1002.md) | 1 | 10 | 0 | Perspectives help only if failures independent |
 | 2026-11-23 | Proposed | [CLAIM-1011](../../record/claims.d/CLAIM-1011.md) | 1 | 10 | 0 | ReLU rescaling equals step-size change |
 | 2026-11-23 | Proposed | [CLAIM-1031](../../record/claims.d/CLAIM-1031.md) | 1 | 10 | 0 | Possibility as a query–target game |
-| 2026-11-23 | Proposed | [CLAIM-1119](../../record/claims.d/CLAIM-1119.md) | 1 | 10 | 0 | Alternative perspectives are legibility regimes |
 | 2026-11-23 | Proposed | [CLAIM-1013](../../record/claims.d/CLAIM-1013.md) | 1 | 9 | 0 | Current function does not fix learnability |
 | 2026-11-23 | Proposed | [CLAIM-1126](../../record/claims.d/CLAIM-1126.md) | 1 | 8 | 1 | Integration is a variable addressed as the whole's |
 | 2026-11-23 | Proposed | [CLAIM-1182](../../record/claims.d/CLAIM-1182.md) | 1 | 7 | 0 | Kinship designs cannot split DNA from marks |
 | 2026-11-23 | Proposed | [CLAIM-1020](../../record/claims.d/CLAIM-1020.md) | 1 | 6 | 0 | Final-layer-norm bias fixes a common component |
 | 2026-11-23 | Proposed | [CLAIM-1205](../../record/claims.d/CLAIM-1205.md) | 1 | 6 | 0 | Non-monotone island coverage does not transfer |
 | 2026-11-23 | Proposed | [CLAIM-1204](../../record/claims.d/CLAIM-1204.md) | 1 | 5 | 0 | Counting states at binding predicts assembly |
-| 2026-11-24 | Proposed | [CLAIM-1285](../../record/claims.d/CLAIM-1285.md) | 1 | 21 | 0 | Memetic fidelity as preserved relations |
-| 2026-11-24 | Proposed | [CLAIM-1252](../../record/claims.d/CLAIM-1252.md) | 1 | 20 | 0 | Standing constrains what an agent may optimize |
 | 2026-11-24 | Proposed | [CLAIM-1303](../../record/claims.d/CLAIM-1303.md) | 1 | 15 | 1 | Governance heuristics allocate authority |
 | 2026-11-24 | Proposed | [CLAIM-1317](../../record/claims.d/CLAIM-1317.md) | 1 | 15 | 0 | Who resolves ambiguity matters more than how much |
 | 2026-11-24 | Proposed | [CLAIM-1244](../../record/claims.d/CLAIM-1244.md) | 1 | 13 | 0 | Regulatory surplus can be captured asymmetrically |
-| 2026-11-24 | Proposed | [CLAIM-1212](../../record/claims.d/CLAIM-1212.md) | 1 | 12 | 0 | Reliance alone does not make something owed |
-| 2026-11-24 | Proposed | [CLAIM-1279](../../record/claims.d/CLAIM-1279.md) | 1 | 12 | 1 | Norm, not prediction, when deviation is corrected |
 | 2026-11-24 | Proposed | [CLAIM-1329](../../record/claims.d/CLAIM-1329.md) | 1 | 12 | 0 | Productive misunderstanding detects a distinction |
 | 2026-11-24 | Proposed | [CLAIM-1298](../../record/claims.d/CLAIM-1298.md) | 1 | 11 | 0 | Misunderstandings date relevance, not existence |
 | 2026-11-24 | Proposed | [CLAIM-1318](../../record/claims.d/CLAIM-1318.md) | 1 | 11 | 0 | Justification and support of a norm come apart |
+| 2026-11-24 | Proposed | [CLAIM-1251](../../record/claims.d/CLAIM-1251.md) | 1 | 10 | 0 | Observability is also a surface for domination |
 | 2026-11-24 | Proposed | [CLAIM-1267](../../record/claims.d/CLAIM-1267.md) | 1 | 10 | 0 | Pathological regimes need no moral duties |
-| 2026-11-24 | Proposed | [CLAIM-1287](../../record/claims.d/CLAIM-1287.md) | 1 | 6 | 0 | Narrow optimizers value weakening constraints |
+| 2026-11-24 | Proposed | [CLAIM-1326](../../record/claims.d/CLAIM-1326.md) | 1 | 8 | 2 | Reliance holds obligation past original reasons |
+| 2026-11-24 | Proposed | [CLAIM-1264](../../record/claims.d/CLAIM-1264.md) | 1 | 5 | 0 | Memes can carry portable protocols |
 | 2026-11-25 | Proposed | [CLAIM-1344](../../record/claims.d/CLAIM-1344.md) | 1 | 9 | 0 | A journal can be a feed over editors |
+| 2026-11-25 | Proposed | [CLAIM-1223](../../record/claims.d/CLAIM-1223.md) | 1 | 5 | 0 | Record-based counts reproduce the proxy problem |
 | 2026-11-25 | Proposed | [CLAIM-1277](../../record/claims.d/CLAIM-1277.md) | 1 | 5 | 0 | Stable classification lets conflations split |
-| 2026-11-25 | Proposed | [CLAIM-1223](../../record/claims.d/CLAIM-1223.md) | 1 | 4 | 0 | Record-based counts reproduce the proxy problem |
 | 2026-11-25 | Proposed | [CLAIM-1291](../../record/claims.d/CLAIM-1291.md) | 1 | 4 | 0 | Publishing is a set of separable guarantees |
 | 2026-11-25 | Proposed | [CLAIM-1323](../../record/claims.d/CLAIM-1323.md) | 1 | 4 | 0 | Evaluation needs decision-relevant distinctions |
 | 2026-11-25 | Proposed | [CLAIM-1302](../../record/claims.d/CLAIM-1302.md) | 1 | 3 | 0 | A feed's memory is provenance, not cache |
 | 2026-11-25 | Proposed | [CLAIM-1300](../../record/claims.d/CLAIM-1300.md) | 1 | 2 | 0 | Nucleation is a transfer test of luria |
+| 2026-11-26 | Proposed | [CLAIM-1419](../../record/claims.d/CLAIM-1419.md) | 1 | 26 | 1 | A sycophantic dyad makes the user's own frame its attractor |
+| 2026-11-26 | Proposed | [CLAIM-1398](../../record/claims.d/CLAIM-1398.md) | 1 | 21 | 0 | Paperclip maximizing is already here, in which objectives may steer behaviour |
+| 2026-11-26 | Proposed | [CLAIM-1429](../../record/claims.d/CLAIM-1429.md) | 1 | 13 | 1 | Luria keeps apart what misaligned institutions couple |
+| 2026-11-26 | Proposed | [CLAIM-1377](../../record/claims.d/CLAIM-1377.md) | 1 | 10 | 0 | What freed effort builds leaves the withdrawal cost unchanged |
+| 2026-11-26 | Proposed | [CLAIM-1447](../../record/claims.d/CLAIM-1447.md) | 1 | 9 | 2 | A presented self's coherence is relative to a cover the person partly controls |
+| 2026-11-26 | Proposed | [CLAIM-1439](../../record/claims.d/CLAIM-1439.md) | 1 | 7 | 0 | Resource composition fixes the modal logic of reach |
+| 2026-11-26 | Proposed | [CLAIM-1359](../../record/claims.d/CLAIM-1359.md) | 1 | 6 | 0 | Selection alone can make organizations converge on power |
+| 2026-11-26 | Proposed | [CLAIM-1375](../../record/claims.d/CLAIM-1375.md) | 1 | 6 | 0 | A governing metric can fail in four distinct ways |
+| 2026-11-26 | Proposed | [CLAIM-1386](../../record/claims.d/CLAIM-1386.md) | 1 | 3 | 1 | Action readiness is subthreshold potentiation |
+| 2026-11-27 | Proposed | [CLAIM-1393](../../record/claims.d/CLAIM-1393.md) | 1 | 5 | 0 | A bounded evaluator reads cheap signals, and what is optimized against them learns the signals |
+| 2026-11-27 | Proposed | [CLAIM-1442](../../record/claims.d/CLAIM-1442.md) | 1 | 4 | 0 | Coercive control works partly as a standing load on the target's capacity to govern itself |
+| 2026-11-27 | Proposed | [CLAIM-1372](../../record/claims.d/CLAIM-1372.md) | 1 | 3 | 0 | Sycophancy is a shortcut over a family declared by raters |
+| 2026-11-27 | Proposed | [CLAIM-1410](../../record/claims.d/CLAIM-1410.md) | 1 | 3 | 0 | Performative stability is the Campbell effect with the Goodhart effect retrained away |
+| 2026-11-27 | Proposed | [CLAIM-1428](../../record/claims.d/CLAIM-1428.md) | 1 | 2 | 0 | Shortcut learning is greedy agency at learning time |
 | 2026-10-04 | Proposed | [CLAIM-024](../../record/claims.d/CLAIM-024.md) | 0 | 45 | 13 | Nothing here is new but a question |
-| 2026-10-04 | Proposed | [CLAIM-003](../../record/claims.d/CLAIM-003.md) | 0 | 35 | 0 | Global workspace access is compartmented |
+| 2026-10-04 | Proposed | [CLAIM-003](../../record/claims.d/CLAIM-003.md) | 0 | 37 | 0 | Global workspace access is compartmented |
 | 2026-10-05 | Deferred | [CLAIM-104](../../record/claims.d/CLAIM-104.md) | 0 | 22 | 0 | Authenticity grounds normativity downward only |
 | 2026-10-05 | Deferred | [CLAIM-096](../../record/claims.d/CLAIM-096.md) | 0 | 17 | 1 | Interacting wills are a normative object |
 | 2026-10-08 | Proposed | [CLAIM-105](../../record/claims.d/CLAIM-105.md) | 0 | 104 | 5 | Local meanings kept, global structure changed |
@@ -1878,7 +2001,7 @@
 | 2026-10-08 | Proposed | [CLAIM-064](../../record/claims.d/CLAIM-064.md) | 0 | 13 | 1 | Translation reconstructs the situation of saying |
 | 2026-10-08 | Proposed | [CLAIM-095](../../record/claims.d/CLAIM-095.md) | 0 | 13 | 0 | Meet objections with results, not hedges |
 | 2026-10-08 | Proposed | [CLAIM-007](../../record/claims.d/CLAIM-007.md) | 0 | 7 | 0 | The reconstruction path is observable |
-| 2026-10-09 | Proposed | [CLAIM-037](../../record/claims.d/CLAIM-037.md) | 0 | 98 | 4 | Contextuality is failure of global extension |
+| 2026-10-09 | Proposed | [CLAIM-037](../../record/claims.d/CLAIM-037.md) | 0 | 99 | 4 | Contextuality is failure of global extension |
 | 2026-10-09 | Proposed | [CLAIM-127](../../record/claims.d/CLAIM-127.md) | 0 | 68 | 9 | Framing should index the model, not its cover |
 | 2026-10-09 | Proposed | [CLAIM-013](../../record/claims.d/CLAIM-013.md) | 0 | 21 | 1 | T2I benchmarks miss stance and uptake |
 | 2026-10-10 | Proposed | [CLAIM-204](../../record/claims.d/CLAIM-204.md) | 0 | 136 | 34 | Uptake-grounded kind, receiver-recovered fidelity |
@@ -1901,19 +2024,18 @@
 | 2026-10-10 | Proposed | [CLAIM-215](../../record/claims.d/CLAIM-215.md) | 0 | 15 | 3 | Kinds are repeatable relational organizations |
 | 2026-10-11 | Proposed | [CLAIM-167](../../record/claims.d/CLAIM-167.md) | 0 | 67 | 3 | One-way drive still makes one system |
 | 2026-10-11 | Proposed | [CLAIM-156](../../record/claims.d/CLAIM-156.md) | 0 | 66 | 6 | Mindfulness changes which interests may act |
-| 2026-10-11 | Proposed | [CLAIM-189](../../record/claims.d/CLAIM-189.md) | 0 | 48 | 12 | Arguments need traceability, not fidelity |
 | 2026-10-11 | Proposed | [CLAIM-166](../../record/claims.d/CLAIM-166.md) | 0 | 46 | 9 | Microbiome can drive behaviour; human data modest |
+| 2026-10-11 | Proposed | [CLAIM-189](../../record/claims.d/CLAIM-189.md) | 0 | 43 | 12 | Arguments need traceability, not fidelity |
 | 2026-10-11 | Proposed | [CLAIM-179](../../record/claims.d/CLAIM-179.md) | 0 | 36 | 7 | Agent filing removes the cost disparity |
 | 2026-10-11 | Proposed | [CLAIM-161](../../record/claims.d/CLAIM-161.md) | 0 | 35 | 7 | Selfhood as conserved coherence |
 | 2026-10-11 | Proposed | [CLAIM-171](../../record/claims.d/CLAIM-171.md) | 0 | 31 | 5 | An unread text has no fixed meaning |
 | 2026-10-11 | Proposed | [CLAIM-155](../../record/claims.d/CLAIM-155.md) | 0 | 27 | 3 | Willed agency between agency and selfhood |
 | 2026-10-11 | Proposed | [CLAIM-168](../../record/claims.d/CLAIM-168.md) | 0 | 19 | 1 | Will-organization identification is circular |
 | 2026-10-11 | Proposed | [CLAIM-158](../../record/claims.d/CLAIM-158.md) | 0 | 14 | 1 | "Who drives?" answers form a spectrum |
-| 2026-10-11 | Proposed | [CLAIM-183](../../record/claims.d/CLAIM-183.md) | 0 | 8 | 8 | Generated views become argument instruments |
+| 2026-10-11 | Proposed | [CLAIM-183](../../record/claims.d/CLAIM-183.md) | 0 | 8 | 5 | Generated views become argument instruments |
 | 2026-10-12 | Proposed | [CLAIM-193](../../record/claims.d/CLAIM-193.md) | 0 | 46 | 9 | Beyond kernel symmetry, the analyst decides |
 | 2026-10-12 | Proposed | [CLAIM-251](../../record/claims.d/CLAIM-251.md) | 0 | 36 | 0 | Answerability change is not a change of cover |
-| 2026-10-12 | Proposed | [CLAIM-198](../../record/claims.d/CLAIM-198.md) | 0 | 32 | 11 | Preference reversal is not yet disunity |
-| 2026-10-12 | Proposed | [CLAIM-196](../../record/claims.d/CLAIM-196.md) | 0 | 31 | 7 | Roles in disjoint contexts cannot conflict |
+| 2026-10-12 | Proposed | [CLAIM-198](../../record/claims.d/CLAIM-198.md) | 0 | 33 | 11 | Preference reversal is not yet disunity |
 | 2026-10-12 | Proposed | [CLAIM-187](../../record/claims.d/CLAIM-187.md) | 0 | 22 | 6 | Same computation tested by quotienting symmetry |
 | 2026-10-12 | Proposed | [CLAIM-192](../../record/claims.d/CLAIM-192.md) | 0 | 20 | 7 | Thesis moves with no one arguing it |
 | 2026-10-12 | Proposed | [CLAIM-262](../../record/claims.d/CLAIM-262.md) | 0 | 16 | 1 | Discrete and continuous regime change both occur |
@@ -1921,12 +2043,10 @@
 | 2026-10-12 | Proposed | [CLAIM-213](../../record/claims.d/CLAIM-213.md) | 0 | 10 | 3 | Kinds are invariance hypotheses |
 | 2026-10-13 | Proposed | [CLAIM-285](../../record/claims.d/CLAIM-285.md) | 0 | 66 | 0 | Policy-based rewards make delegation do work |
 | 2026-10-13 | Proposed | [CLAIM-281](../../record/claims.d/CLAIM-281.md) | 0 | 42 | 3 | Role grants keep disagreement working inside |
-| 2026-10-13 | Proposed | [CLAIM-276](../../record/claims.d/CLAIM-276.md) | 0 | 31 | 7 | Stable interpretation is no evidence of truth |
 | 2026-10-13 | Proposed | [CLAIM-274](../../record/claims.d/CLAIM-274.md) | 0 | 23 | 2 | A shared canvas sets its own cooling schedule |
-| 2026-10-15 | Proposed | [CLAIM-295](../../record/claims.d/CLAIM-295.md) | 0 | 61 | 12 | Records of justification widen sufficiency |
-| 2026-10-15 | Proposed | [CLAIM-298](../../record/claims.d/CLAIM-298.md) | 0 | 40 | 8 | Frames change reachability, not evidence |
-| 2026-10-15 | Proposed | [CLAIM-301](../../record/claims.d/CLAIM-301.md) | 0 | 21 | 3 | Retrieval can turn framings into premises |
-| 2026-10-15 | Proposed | [CLAIM-314](../../record/claims.d/CLAIM-314.md) | 0 | 18 | 6 | Reusing a filed argument has a recognition cost |
+| 2026-10-15 | Proposed | [CLAIM-295](../../record/claims.d/CLAIM-295.md) | 0 | 49 | 12 | Records of justification widen sufficiency |
+| 2026-10-15 | Proposed | [CLAIM-298](../../record/claims.d/CLAIM-298.md) | 0 | 39 | 8 | Frames change reachability, not evidence |
+| 2026-10-15 | Proposed | [CLAIM-301](../../record/claims.d/CLAIM-301.md) | 0 | 25 | 3 | Retrieval can turn framings into premises |
 | 2026-10-16 | Proposed | [CLAIM-332](../../record/claims.d/CLAIM-332.md) | 0 | 58 | 3 | Populations can steer institutions unintended |
 | 2026-10-16 | Proposed | [CLAIM-337](../../record/claims.d/CLAIM-337.md) | 0 | 43 | 28 | Active inference already runs an inner loop |
 | 2026-10-17 | Proposed | [CLAIM-338](../../record/claims.d/CLAIM-338.md) | 0 | 20 | 0 | Authority plays active inference's selectivity |
@@ -1938,19 +2058,19 @@
 | 2026-10-21 | Proposed | [CLAIM-412](../../record/claims.d/CLAIM-412.md) | 0 | 120 | 6 | Experience is constituted by interpretation |
 | 2026-10-22 | Proposed | [CLAIM-430](../../record/claims.d/CLAIM-430.md) | 0 | 48 | 18 | Taking part can precede reinterpretation |
 | 2026-10-22 | Proposed | [CLAIM-425](../../record/claims.d/CLAIM-425.md) | 0 | 38 | 0 | Self-governance: authority from grounds |
-| 2026-10-23 | Proposed | [CLAIM-432](../../record/claims.d/CLAIM-432.md) | 0 | 116 | 8 | A corporation can lack remorse functionally |
-| 2026-10-23 | Proposed | [CLAIM-439](../../record/claims.d/CLAIM-439.md) | 0 | 95 | 17 | Valence is felt when the system models it |
+| 2026-10-23 | Proposed | [CLAIM-432](../../record/claims.d/CLAIM-432.md) | 0 | 118 | 8 | A corporation can lack remorse functionally |
+| 2026-10-23 | Proposed | [CLAIM-439](../../record/claims.d/CLAIM-439.md) | 0 | 98 | 17 | Valence is felt when the system models it |
 | 2026-10-23 | Proposed | [CLAIM-451](../../record/claims.d/CLAIM-451.md) | 0 | 70 | 15 | Cycling winning moves is nonintegrability |
-| 2026-10-23 | Proposed | [CLAIM-441](../../record/claims.d/CLAIM-441.md) | 0 | 58 | 8 | Flow tells against no-contest, no-valence |
-| 2026-10-23 | Proposed | [CLAIM-435](../../record/claims.d/CLAIM-435.md) | 0 | 47 | 8 | Common currency and override as two regimes |
+| 2026-10-23 | Proposed | [CLAIM-441](../../record/claims.d/CLAIM-441.md) | 0 | 59 | 8 | Flow tells against no-contest, no-valence |
+| 2026-10-23 | Proposed | [CLAIM-435](../../record/claims.d/CLAIM-435.md) | 0 | 48 | 9 | Common currency and override as two regimes |
 | 2026-10-23 | Proposed | [CLAIM-426](../../record/claims.d/CLAIM-426.md) | 0 | 42 | 0 | Self-fulfilling judgements: visibility is evidence |
 | 2026-10-23 | Proposed | [CLAIM-438](../../record/claims.d/CLAIM-438.md) | 0 | 41 | 7 | The potential tracks wanting, not liking |
+| 2026-10-23 | Proposed | [CLAIM-442](../../record/claims.d/CLAIM-442.md) | 0 | 39 | 4 | Emotion claims precedence; valence is granted |
 | 2026-10-23 | Proposed | [CLAIM-433](../../record/claims.d/CLAIM-433.md) | 0 | 38 | 9 | The potential account is goal-conduciveness |
-| 2026-10-23 | Proposed | [CLAIM-442](../../record/claims.d/CLAIM-442.md) | 0 | 34 | 4 | Emotion claims precedence; valence is granted |
 | 2026-10-23 | Proposed | [CLAIM-447](../../record/claims.d/CLAIM-447.md) | 0 | 18 | 6 | Model-based wanting ranks predicted futures |
 | 2026-10-27 | Proposed | [CLAIM-484](../../record/claims.d/CLAIM-484.md) | 0 | 29 | 3 | Internal conflict as precedence–authority gap |
+| 2026-10-27 | Proposed | [CLAIM-472](../../record/claims.d/CLAIM-472.md) | 0 | 26 | 3 | Apparatus choice is evaluable, not just verifiable |
 | 2026-10-27 | Proposed | [CLAIM-468](../../record/claims.d/CLAIM-468.md) | 0 | 25 | 8 | Valence intensity need not be potential strength |
-| 2026-10-27 | Proposed | [CLAIM-472](../../record/claims.d/CLAIM-472.md) | 0 | 25 | 7 | Apparatus choice is evaluable, not just verifiable |
 | 2026-10-27 | Proposed | [CLAIM-461](../../record/claims.d/CLAIM-461.md) | 0 | 17 | 3 | Compensation can be the more faithful report |
 | 2026-10-27 | Proposed | [CLAIM-465](../../record/claims.d/CLAIM-465.md) | 0 | 11 | 0 | Flexibility needs release conditions |
 | 2026-10-28 | Proposed | [CLAIM-487](../../record/claims.d/CLAIM-487.md) | 0 | 25 | 1 | Will-organization unifies four realizer theories |
@@ -1998,28 +2118,25 @@
 | 2026-11-11 | Proposed | [CLAIM-642](../../record/claims.d/CLAIM-642.md) | 0 | 0 | 0 | Observer efficiency is not indistinguishability |
 | 2026-11-11 | Proposed | [CLAIM-643](../../record/claims.d/CLAIM-643.md) | 0 | 0 | 0 | No evidence held separates experience from access |
 | 2026-11-12 | Proposed | [CLAIM-669](../../record/claims.d/CLAIM-669.md) | 0 | 64 | 0 | Exploitation through successful inclusion |
-| 2026-11-12 | Proposed | [CLAIM-656](../../record/claims.d/CLAIM-656.md) | 0 | 58 | 0 | Attention revenue selects against investigation |
 | 2026-11-12 | Proposed | [CLAIM-648](../../record/claims.d/CLAIM-648.md) | 0 | 53 | 1 | Bickhard gives debugging an endogenous norm |
-| 2026-11-12 | Proposed | [CLAIM-657](../../record/claims.d/CLAIM-657.md) | 0 | 41 | 0 | Two non-censoring routes to normative ignorance |
-| 2026-11-12 | Proposed | [CLAIM-667](../../record/claims.d/CLAIM-667.md) | 0 | 38 | 0 | Governed schema change helps where categories fail |
-| 2026-11-12 | Proposed | [CLAIM-653](../../record/claims.d/CLAIM-653.md) | 0 | 35 | 0 | Heaviest users set the content mainstream |
+| 2026-11-12 | Proposed | [CLAIM-657](../../record/claims.d/CLAIM-657.md) | 0 | 42 | 0 | Two non-censoring routes to normative ignorance |
+| 2026-11-12 | Proposed | [CLAIM-653](../../record/claims.d/CLAIM-653.md) | 0 | 36 | 0 | Heaviest users set the content mainstream |
 | 2026-11-12 | Proposed | [CLAIM-650](../../record/claims.d/CLAIM-650.md) | 0 | 32 | 1 | A designed alarm's content can be false |
 | 2026-11-12 | Proposed | [CLAIM-659](../../record/claims.d/CLAIM-659.md) | 0 | 32 | 1 | Microchimerism: separation unfinished at birth |
-| 2026-11-12 | Proposed | [CLAIM-661](../../record/claims.d/CLAIM-661.md) | 0 | 29 | 0 | Origin does not settle self-governance |
+| 2026-11-12 | Proposed | [CLAIM-661](../../record/claims.d/CLAIM-661.md) | 0 | 32 | 0 | Origin does not settle self-governance |
 | 2026-11-12 | Proposed | [CLAIM-660](../../record/claims.d/CLAIM-660.md) | 0 | 24 | 1 | Parasite control is not intentional agency |
+| 2026-11-12 | Proposed | [CLAIM-646](../../record/claims.d/CLAIM-646.md) | 0 | 22 | 0 | Peak thresholds do not fix cumulative costs |
 | 2026-11-12 | Proposed | [CLAIM-647](../../record/claims.d/CLAIM-647.md) | 0 | 20 | 0 | Reader turnover is a staleness term of its own |
-| 2026-11-12 | Proposed | [CLAIM-646](../../record/claims.d/CLAIM-646.md) | 0 | 19 | 0 | Peak thresholds do not fix cumulative costs |
 | 2026-11-12 | Proposed | [CLAIM-663](../../record/claims.d/CLAIM-663.md) | 0 | 19 | 0 | PASS@(k,T) is resource-bounded realization |
 | 2026-11-12 | Proposed | [CLAIM-665](../../record/claims.d/CLAIM-665.md) | 0 | 19 | 0 | On routine tasks governance only adds cost |
 | 2026-11-12 | Proposed | [CLAIM-654](../../record/claims.d/CLAIM-654.md) | 0 | 18 | 0 | Only budget-blind reach is monotone in budget |
 | 2026-11-12 | Proposed | [CLAIM-651](../../record/claims.d/CLAIM-651.md) | 0 | 9 | 0 | Registering absence needs no sentience |
 | 2026-11-12 | Proposed | [CLAIM-666](../../record/claims.d/CLAIM-666.md) | 0 | 9 | 0 | Faithful migration preserves accountability |
-| 2026-11-13 | Proposed | [CLAIM-682](../../record/claims.d/CLAIM-682.md) | 0 | 154 | 3 | Three-condition test for dominating dependence |
+| 2026-11-13 | Proposed | [CLAIM-682](../../record/claims.d/CLAIM-682.md) | 0 | 155 | 3 | Three-condition test for dominating dependence |
 | 2026-11-13 | Proposed | [CLAIM-677](../../record/claims.d/CLAIM-677.md) | 0 | 106 | 0 | Technology can become compulsory without a rule |
-| 2026-11-13 | Proposed | [CLAIM-690](../../record/claims.d/CLAIM-690.md) | 0 | 82 | 1 | Control of terms sorts dependence, not magnitude |
-| 2026-11-13 | Proposed | [CLAIM-684](../../record/claims.d/CLAIM-684.md) | 0 | 45 | 0 | Burden rises with durable narrowing |
-| 2026-11-13 | Proposed | [CLAIM-685](../../record/claims.d/CLAIM-685.md) | 0 | 39 | 0 | Self-revision beats monitoring when standards fail |
-| 2026-11-13 | Proposed | [CLAIM-680](../../record/claims.d/CLAIM-680.md) | 0 | 37 | 1 | Judged worth licenses cultivation, not coercion |
+| 2026-11-13 | Proposed | [CLAIM-684](../../record/claims.d/CLAIM-684.md) | 0 | 47 | 0 | Burden rises with durable narrowing |
+| 2026-11-13 | Proposed | [CLAIM-685](../../record/claims.d/CLAIM-685.md) | 0 | 41 | 0 | Self-revision beats monitoring when standards fail |
+| 2026-11-13 | Proposed | [CLAIM-680](../../record/claims.d/CLAIM-680.md) | 0 | 39 | 1 | Judged worth licenses cultivation, not coercion |
 | 2026-11-13 | Proposed | [CLAIM-683](../../record/claims.d/CLAIM-683.md) | 0 | 16 | 0 | Targeting measured meaning displaces it |
 | 2026-11-13 | Proposed | [CLAIM-681](../../record/claims.d/CLAIM-681.md) | 0 | 11 | 0 | Time surrendered to necessity limits freedom |
 | 2026-11-14 | Proposed | [CLAIM-691](../../record/claims.d/CLAIM-691.md) | 0 | 0 | 0 | GW under cosine is one global linear map |
@@ -2063,23 +2180,22 @@
 | 2026-11-18 | Proposed | [CLAIM-751](../../record/claims.d/CLAIM-751.md) | 0 | 36 | 7 | Provenance can be carried without blame |
 | 2026-11-18 | Proposed | [CLAIM-753](../../record/claims.d/CLAIM-753.md) | 0 | 6 | 3 | Formation alone cannot ground want critique |
 | 2026-11-18 | Proposed | [CLAIM-752](../../record/claims.d/CLAIM-752.md) | 0 | 1 | 1 | Comply and support may be one duty |
-| 2026-11-19 | Proposed | [CLAIM-756](../../record/claims.d/CLAIM-756.md) | 0 | 61 | 4 | Acquisitions valued by effects on later ones |
-| 2026-11-19 | Proposed | [CLAIM-762](../../record/claims.d/CLAIM-762.md) | 0 | 47 | 1 | Collapsed equivalences become new distinctions |
+| 2026-11-19 | Proposed | [CLAIM-756](../../record/claims.d/CLAIM-756.md) | 0 | 66 | 8 | Acquisitions valued by effects on later ones |
 | 2026-11-19 | Proposed | [CLAIM-755](../../record/claims.d/CLAIM-755.md) | 0 | 17 | 0 | Dynamical and economic separation differ |
 | 2026-11-19 | Proposed | [CLAIM-757](../../record/claims.d/CLAIM-757.md) | 0 | 16 | 0 | Relief's deadline turns on how capacity is lost |
 | 2026-11-19 | Proposed | [CLAIM-765](../../record/claims.d/CLAIM-765.md) | 0 | 8 | 1 | Identifiability and localization come apart |
-| 2026-11-19 | Proposed | [CLAIM-763](../../record/claims.d/CLAIM-763.md) | 0 | 7 | 1 | Triage questions by kind of uncertainty |
-| 2026-11-19 | Proposed | [CLAIM-764](../../record/claims.d/CLAIM-764.md) | 0 | 6 | 1 | Experiment is not the only way to advance |
+| 2026-11-19 | Proposed | [CLAIM-763](../../record/claims.d/CLAIM-763.md) | 0 | 7 | 0 | Triage questions by kind of uncertainty |
+| 2026-11-19 | Proposed | [CLAIM-764](../../record/claims.d/CLAIM-764.md) | 0 | 6 | 0 | Experiment is not the only way to advance |
 | 2026-11-20 | Proposed | [CLAIM-775](../../record/claims.d/CLAIM-775.md) | 0 | 21 | 0 | Parameterization allocates rates among modules |
 | 2026-11-20 | Proposed | [CLAIM-771](../../record/claims.d/CLAIM-771.md) | 0 | 20 | 0 | Transformer depth: coarse stages, robust middle |
 | 2026-11-20 | Proposed | [CLAIM-774](../../record/claims.d/CLAIM-774.md) | 0 | 17 | 1 | Spectral descent learns weakest modes first |
 | 2026-11-20 | Proposed | [CLAIM-794](../../record/claims.d/CLAIM-794.md) | 0 | 15 | 4 | Refining a category exposes misfits |
-| 2026-11-20 | Proposed | [CLAIM-768](../../record/claims.d/CLAIM-768.md) | 0 | 9 | 2 | Settling does not show what stopped an entry |
+| 2026-11-20 | Proposed | [CLAIM-768](../../record/claims.d/CLAIM-768.md) | 0 | 12 | 2 | Settling does not show what stopped an entry |
+| 2026-11-20 | Proposed | [CLAIM-792](../../record/claims.d/CLAIM-792.md) | 0 | 12 | 1 | Noticing misfits delegated, not revision |
 | 2026-11-20 | Proposed | [CLAIM-776](../../record/claims.d/CLAIM-776.md) | 0 | 7 | 0 | Most original ideas are most fragile until coded |
 | 2026-11-20 | Proposed | [CLAIM-782](../../record/claims.d/CLAIM-782.md) | 0 | 6 | 0 | Slowing vs anchoring turns on drift's clock |
 | 2026-11-20 | Proposed | [CLAIM-766](../../record/claims.d/CLAIM-766.md) | 0 | 4 | 0 | Equal sharing: joint motive, conspicuous content |
 | 2026-11-20 | Proposed | [CLAIM-791](../../record/claims.d/CLAIM-791.md) | 0 | 3 | 3 | No vocabulary term changed meaning in place |
-| 2026-11-20 | Proposed | [CLAIM-792](../../record/claims.d/CLAIM-792.md) | 0 | 3 | 1 | Noticing misfits delegated, not revision |
 | 2026-11-21 | Proposed | [CLAIM-841](../../record/claims.d/CLAIM-841.md) | 0 | 74 | 0 | A power law alone does not indicate criticality |
 | 2026-11-21 | Proposed | [CLAIM-803](../../record/claims.d/CLAIM-803.md) | 0 | 57 | 0 | A power law does not identify its mechanism |
 | 2026-11-21 | Proposed | [CLAIM-809](../../record/claims.d/CLAIM-809.md) | 0 | 46 | 0 | Criticality reshapes, not raises, computation |
@@ -2110,13 +2226,13 @@
 | 2026-11-21 | Proposed | [CLAIM-808](../../record/claims.d/CLAIM-808.md) | 0 | 13 | 0 | Watanabe strata connect to hyperribbons |
 | 2026-11-21 | Proposed | [CLAIM-815](../../record/claims.d/CLAIM-815.md) | 0 | 13 | 0 | Exponent 3/2 from the hitting-time theorem |
 | 2026-11-21 | Proposed | [CLAIM-845](../../record/claims.d/CLAIM-845.md) | 0 | 12 | 0 | Bulk-and-tail as support gap is not criticality |
+| 2026-11-21 | Proposed | [CLAIM-789](../../record/claims.d/CLAIM-789.md) | 0 | 11 | 2 | Exact copying conserves staleness |
 | 2026-11-21 | Proposed | [CLAIM-832](../../record/claims.d/CLAIM-832.md) | 0 | 11 | 0 | With τ < 2 the typical event misleads |
 | 2026-11-21 | Proposed | [CLAIM-793](../../record/claims.d/CLAIM-793.md) | 0 | 10 | 2 | Re-reading settles at a fixed offset |
 | 2026-11-21 | Proposed | [CLAIM-852](../../record/claims.d/CLAIM-852.md) | 0 | 10 | 0 | Dual geometry is inverse-covariance rescaling |
-| 2026-11-21 | Proposed | [CLAIM-789](../../record/claims.d/CLAIM-789.md) | 0 | 9 | 2 | Exact copying conserves staleness |
-| 2026-11-21 | Proposed | [CLAIM-786](../../record/claims.d/CLAIM-786.md) | 0 | 7 | 3 | Building is a method of inquiry |
 | 2026-11-21 | Proposed | [CLAIM-816](../../record/claims.d/CLAIM-816.md) | 0 | 7 | 0 | Hyperbolic depth must be calibrated across widths |
 | 2026-11-21 | Proposed | [CLAIM-826](../../record/claims.d/CLAIM-826.md) | 0 | 7 | 0 | Criticality: no level separation, few classes |
+| 2026-11-21 | Proposed | [CLAIM-786](../../record/claims.d/CLAIM-786.md) | 0 | 6 | 2 | Building is a method of inquiry |
 | 2026-11-21 | Proposed | [CLAIM-796](../../record/claims.d/CLAIM-796.md) | 0 | 5 | 0 | Rich-get-richer and criticality: opposite routes |
 | 2026-11-21 | Proposed | [CLAIM-801](../../record/claims.d/CLAIM-801.md) | 0 | 5 | 0 | Sloppiness carries over, by another route |
 | 2026-11-21 | Proposed | [CLAIM-822](../../record/claims.d/CLAIM-822.md) | 0 | 5 | 0 | High-D concentration matters for active matter |
@@ -2151,10 +2267,12 @@
 | 2026-11-22 | Proposed | [CLAIM-1062](../../record/claims.d/CLAIM-1062.md) | 0 | 14 | 3 | One postmortem is the wrong unit |
 | 2026-11-22 | Proposed | [CLAIM-1105](../../record/claims.d/CLAIM-1105.md) | 0 | 14 | 0 | Fundamental symmetries defeat relata–realization |
 | 2026-11-22 | Proposed | [CLAIM-855](../../record/claims.d/CLAIM-855.md) | 0 | 14 | 0 | Top directions may mark under-training |
+| 2026-11-22 | Proposed | [CLAIM-863](../../record/claims.d/CLAIM-863.md) | 0 | 14 | 0 | Inbound edges lower revision chance per audit |
 | 2026-11-22 | Proposed | [CLAIM-876](../../record/claims.d/CLAIM-876.md) | 0 | 14 | 0 | Answerability duty falls on controllers |
 | 2026-11-22 | Proposed | [CLAIM-886](../../record/claims.d/CLAIM-886.md) | 0 | 14 | 0 | No recovery against re-adapting residents |
+| 2026-11-22 | Proposed | [CLAIM-891](../../record/claims.d/CLAIM-891.md) | 0 | 14 | 0 | One cost model prices bugs, arguments and bins |
+| 2026-11-22 | Proposed | [CLAIM-954](../../record/claims.d/CLAIM-954.md) | 0 | 14 | 1 | Only randomized exposure separates class roles |
 | 2026-11-22 | Proposed | [CLAIM-877](../../record/claims.d/CLAIM-877.md) | 0 | 13 | 0 | Answerability duty is the institution's own |
-| 2026-11-22 | Proposed | [CLAIM-891](../../record/claims.d/CLAIM-891.md) | 0 | 13 | 0 | One cost model prices bugs, arguments and bins |
 | 2026-11-22 | Proposed | [CLAIM-935](../../record/claims.d/CLAIM-935.md) | 0 | 13 | 0 | XY minimization can report false obstructions |
 | 2026-11-22 | Proposed | [CLAIM-989](../../record/claims.d/CLAIM-989.md) | 0 | 13 | 5 | Fixed relata leave the standard's force relative |
 | 2026-11-22 | Proposed | [CLAIM-1108](../../record/claims.d/CLAIM-1108.md) | 0 | 12 | 0 | No optimum until commitments are declared |
@@ -2167,7 +2285,9 @@
 | 2026-11-22 | Proposed | [CLAIM-946](../../record/claims.d/CLAIM-946.md) | 0 | 12 | 0 | Restoration does not mark shared perspective |
 | 2026-11-22 | Proposed | [CLAIM-975](../../record/claims.d/CLAIM-975.md) | 0 | 12 | 0 | Failed refinement check doesn't convict program |
 | 2026-11-22 | Proposed | [CLAIM-1037](../../record/claims.d/CLAIM-1037.md) | 0 | 11 | 0 | Constructor theory meets the second defeater |
+| 2026-11-22 | Proposed | [CLAIM-864](../../record/claims.d/CLAIM-864.md) | 0 | 11 | 0 | Cited claims are revised more, not less |
 | 2026-11-22 | Proposed | [CLAIM-896](../../record/claims.d/CLAIM-896.md) | 0 | 11 | 0 | Signalling bias costs power, not validity |
+| 2026-11-22 | Proposed | [CLAIM-918](../../record/claims.d/CLAIM-918.md) | 0 | 11 | 0 | Softmax shares make rare recovery competence-blind |
 | 2026-11-22 | Proposed | [CLAIM-974](../../record/claims.d/CLAIM-974.md) | 0 | 11 | 0 | Davies–Pfenning checking leaves update outside |
 | 2026-11-22 | Proposed | [CLAIM-1039](../../record/claims.d/CLAIM-1039.md) | 0 | 10 | 0 | Members separable, perspectives not |
 | 2026-11-22 | Proposed | [CLAIM-1069](../../record/claims.d/CLAIM-1069.md) | 0 | 10 | 2 | PTSD sampling account gets no support |
@@ -2176,7 +2296,9 @@
 | 2026-11-22 | Proposed | [CLAIM-944](../../record/claims.d/CLAIM-944.md) | 0 | 10 | 0 | Receiver-restricted order stands without Blackwell |
 | 2026-11-22 | Proposed | [CLAIM-981](../../record/claims.d/CLAIM-981.md) | 0 | 10 | 0 | Effort cost of control fits discounting |
 | 2026-11-22 | Proposed | [CLAIM-1049](../../record/claims.d/CLAIM-1049.md) | 0 | 9 | 0 | A governed record syncs without converging |
+| 2026-11-22 | Proposed | [CLAIM-1173](../../record/claims.d/CLAIM-1173.md) | 0 | 9 | 0 | Regulation governs possibility |
 | 2026-11-22 | Proposed | [CLAIM-1174](../../record/claims.d/CLAIM-1174.md) | 0 | 9 | 0 | A self as a sloppy mess, in the technical sense |
+| 2026-11-22 | Proposed | [CLAIM-1200](../../record/claims.d/CLAIM-1200.md) | 0 | 9 | 0 | A governed record can align reward with value |
 | 2026-11-22 | Proposed | [CLAIM-1327](../../record/claims.d/CLAIM-1327.md) | 0 | 9 | 0 | A requirement can already be met |
 | 2026-11-22 | Proposed | [CLAIM-866](../../record/claims.d/CLAIM-866.md) | 0 | 9 | 0 | A kept channel is part of will-organization |
 | 2026-11-22 | Proposed | [CLAIM-867](../../record/claims.d/CLAIM-867.md) | 0 | 9 | 0 | A manipulator's channel is situation, not will |
@@ -2186,21 +2308,19 @@
 | 2026-11-22 | Proposed | [CLAIM-917](../../record/claims.d/CLAIM-917.md) | 0 | 9 | 0 | Narrow reading: outside constraints are conditions |
 | 2026-11-22 | Proposed | [CLAIM-950](../../record/claims.d/CLAIM-950.md) | 0 | 9 | 0 | The competence-restriction loop is demonstrable |
 | 2026-11-22 | Proposed | [CLAIM-971](../../record/claims.d/CLAIM-971.md) | 0 | 9 | 0 | Equal behaviour does not ground a single owner |
+| 2026-11-22 | Proposed | [CLAIM-991](../../record/claims.d/CLAIM-991.md) | 0 | 9 | 1 | Competence fixes readable, not answerable, queries |
 | 2026-11-22 | Proposed | [CLAIM-992](../../record/claims.d/CLAIM-992.md) | 0 | 9 | 0 | Feature grain narrows the alignment test |
 | 2026-11-22 | Proposed | [CLAIM-994](../../record/claims.d/CLAIM-994.md) | 0 | 9 | 0 | Cue grain meets both clauses of the defeater |
 | 2026-11-22 | Proposed | [CLAIM-1122](../../record/claims.d/CLAIM-1122.md) | 0 | 8 | 0 | Adaptation need not cost perceptual latency |
 | 2026-11-22 | Proposed | [CLAIM-1201](../../record/claims.d/CLAIM-1201.md) | 0 | 8 | 0 | Regulations operationalize demand specifications |
 | 2026-11-22 | Proposed | [CLAIM-914](../../record/claims.d/CLAIM-914.md) | 0 | 8 | 0 | Golub–Jackson wisdom fails with many closed groups |
-| 2026-11-22 | Proposed | [CLAIM-918](../../record/claims.d/CLAIM-918.md) | 0 | 8 | 0 | Softmax shares make rare recovery competence-blind |
 | 2026-11-22 | Proposed | [CLAIM-937](../../record/claims.d/CLAIM-937.md) | 0 | 8 | 0 | Signalling: valid tests, no unbiased estimator |
 | 2026-11-22 | Proposed | [CLAIM-945](../../record/claims.d/CLAIM-945.md) | 0 | 8 | 0 | Movement criterion misses shared perspective |
-| 2026-11-22 | Proposed | [CLAIM-954](../../record/claims.d/CLAIM-954.md) | 0 | 8 | 1 | Only randomized exposure separates class roles |
 | 2026-11-22 | Proposed | [CLAIM-978](../../record/claims.d/CLAIM-978.md) | 0 | 8 | 0 | Fixed policies part only at a withheld order |
 | 2026-11-22 | Proposed | [CLAIM-979](../../record/claims.d/CLAIM-979.md) | 0 | 8 | 0 | Anticipating agents part before execution |
 | 2026-11-22 | Proposed | [CLAIM-983](../../record/claims.d/CLAIM-983.md) | 0 | 8 | 0 | Maintainer is channel, not content transmitted |
 | 2026-11-22 | Proposed | [CLAIM-1076](../../record/claims.d/CLAIM-1076.md) | 0 | 7 | 2 | PTSD and context sampling: weak support |
 | 2026-11-22 | Proposed | [CLAIM-1133](../../record/claims.d/CLAIM-1133.md) | 0 | 7 | 0 | A team: pseudo-self with separable perspectives |
-| 2026-11-22 | Proposed | [CLAIM-1200](../../record/claims.d/CLAIM-1200.md) | 0 | 7 | 0 | A governed record can align reward with value |
 | 2026-11-22 | Proposed | [CLAIM-870](../../record/claims.d/CLAIM-870.md) | 0 | 7 | 0 | Life constructions fail the individuation half |
 | 2026-11-22 | Proposed | [CLAIM-871](../../record/claims.d/CLAIM-871.md) | 0 | 7 | 0 | Life constructions meet the individuation half |
 | 2026-11-22 | Proposed | [CLAIM-873](../../record/claims.d/CLAIM-873.md) | 0 | 7 | 1 | Share-dependent advantage is not independent |
@@ -2212,11 +2332,8 @@
 | 2026-11-22 | Proposed | [CLAIM-939](../../record/claims.d/CLAIM-939.md) | 0 | 7 | 0 | Two-valued p(Y|x) gives nested IB optima |
 | 2026-11-22 | Proposed | [CLAIM-953](../../record/claims.d/CLAIM-953.md) | 0 | 7 | 0 | Withdrawal point is a joint-state threshold |
 | 2026-11-22 | Proposed | [CLAIM-986](../../record/claims.d/CLAIM-986.md) | 0 | 7 | 0 | Outside maintainer counts only if irreplaceable |
-| 2026-11-22 | Proposed | [CLAIM-991](../../record/claims.d/CLAIM-991.md) | 0 | 7 | 0 | Competence fixes readable, not answerable, queries |
 | 2026-11-22 | Proposed | [CLAIM-1019](../../record/claims.d/CLAIM-1019.md) | 0 | 6 | 0 | Self-like unity needs no singular perspective |
 | 2026-11-22 | Proposed | [CLAIM-1159](../../record/claims.d/CLAIM-1159.md) | 0 | 6 | 0 | A governed record can partly bear a perspective |
-| 2026-11-22 | Proposed | [CLAIM-1173](../../record/claims.d/CLAIM-1173.md) | 0 | 6 | 0 | Regulation governs possibility |
-| 2026-11-22 | Proposed | [CLAIM-863](../../record/claims.d/CLAIM-863.md) | 0 | 6 | 0 | Inbound edges lower revision chance per audit |
 | 2026-11-22 | Proposed | [CLAIM-874](../../record/claims.d/CLAIM-874.md) | 0 | 6 | 1 | Share-dependent advantage counts as independent |
 | 2026-11-22 | Proposed | [CLAIM-882](../../record/claims.d/CLAIM-882.md) | 0 | 6 | 0 | Optimizer changes skill timing in ReLU nets |
 | 2026-11-22 | Proposed | [CLAIM-888](../../record/claims.d/CLAIM-888.md) | 0 | 6 | 0 | Separate models miss the meaning–influence loop |
@@ -2239,11 +2356,11 @@
 | 2026-11-22 | Proposed | [CLAIM-940](../../record/claims.d/CLAIM-940.md) | 0 | 5 | 0 | IB refinability is closed under products |
 | 2026-11-22 | Proposed | [CLAIM-958](../../record/claims.d/CLAIM-958.md) | 0 | 5 | 0 | Closing-nucleus loop is autocatalysis |
 | 2026-11-22 | Proposed | [CLAIM-963](../../record/claims.d/CLAIM-963.md) | 0 | 5 | 1 | Agent factorizations differ only in grain |
+| 2026-11-22 | Proposed | [CLAIM-968](../../record/claims.d/CLAIM-968.md) | 0 | 5 | 0 | Distinguishing budget is a measurable threshold |
 | 2026-11-22 | Proposed | [CLAIM-982](../../record/claims.d/CLAIM-982.md) | 0 | 5 | 0 | Ablations tell resolve only in conjunction |
 | 2026-11-22 | Proposed | [CLAIM-990](../../record/claims.d/CLAIM-990.md) | 0 | 5 | 0 | Intervention discriminates only within its scope |
 | 2026-11-22 | Proposed | [CLAIM-1127](../../record/claims.d/CLAIM-1127.md) | 0 | 4 | 0 | Training probes certify a property they bound |
 | 2026-11-22 | Proposed | [CLAIM-1144](../../record/claims.d/CLAIM-1144.md) | 0 | 4 | 0 | Identity stability and adaptability are in tension |
-| 2026-11-22 | Proposed | [CLAIM-864](../../record/claims.d/CLAIM-864.md) | 0 | 4 | 0 | Cited claims are revised more, not less |
 | 2026-11-22 | Proposed | [CLAIM-872](../../record/claims.d/CLAIM-872.md) | 0 | 4 | 0 | Flow's positivity is during, not after |
 | 2026-11-22 | Proposed | [CLAIM-898](../../record/claims.d/CLAIM-898.md) | 0 | 4 | 0 | Evaluative-space channels feed one evaluator |
 | 2026-11-22 | Proposed | [CLAIM-900](../../record/claims.d/CLAIM-900.md) | 0 | 4 | 0 | Selection-rule energy forecasts generalization |
@@ -2270,7 +2387,6 @@
 | 2026-11-22 | Proposed | [CLAIM-962](../../record/claims.d/CLAIM-962.md) | 0 | 3 | 0 | Operational cover is a genuine sub-cover |
 | 2026-11-22 | Proposed | [CLAIM-964](../../record/claims.d/CLAIM-964.md) | 0 | 3 | 3 | Rendering equivalences imply a contextuality bound |
 | 2026-11-22 | Proposed | [CLAIM-966](../../record/claims.d/CLAIM-966.md) | 0 | 3 | 0 | Fine-tuned forgetting is mostly readdressing |
-| 2026-11-22 | Proposed | [CLAIM-968](../../record/claims.d/CLAIM-968.md) | 0 | 3 | 0 | Distinguishing budget is a measurable threshold |
 | 2026-11-22 | Proposed | [CLAIM-969](../../record/claims.d/CLAIM-969.md) | 0 | 3 | 1 | Committor can rank a nucleus above a trap |
 | 2026-11-22 | Proposed | [CLAIM-972](../../record/claims.d/CLAIM-972.md) | 0 | 3 | 0 | Irreducible recovery is gated by competence |
 | 2026-11-22 | Proposed | [CLAIM-1072](../../record/claims.d/CLAIM-1072.md) | 0 | 2 | 0 | First Contact's score is bounded by empowerment |
@@ -2285,9 +2401,11 @@
 | 2026-11-23 | Proposed | [CLAIM-1017](../../record/claims.d/CLAIM-1017.md) | 0 | 23 | 0 | No design isolates germline trauma transmission |
 | 2026-11-23 | Proposed | [CLAIM-1070](../../record/claims.d/CLAIM-1070.md) | 0 | 22 | 0 | Governance includes temporal response structure |
 | 2026-11-23 | Proposed | [CLAIM-1024](../../record/claims.d/CLAIM-1024.md) | 0 | 20 | 5 | Self-correction depends on coupling |
+| 2026-11-23 | Proposed | [CLAIM-1036](../../record/claims.d/CLAIM-1036.md) | 0 | 19 | 2 | Self-changing values fix no scalar optimum |
 | 2026-11-23 | Proposed | [CLAIM-1032](../../record/claims.d/CLAIM-1032.md) | 0 | 15 | 0 | Interrogation is a game only with shared state |
 | 2026-11-23 | Proposed | [CLAIM-1074](../../record/claims.d/CLAIM-1074.md) | 0 | 13 | 0 | Integration is a regenerated whole-level variable |
 | 2026-11-23 | Proposed | [CLAIM-997](../../record/claims.d/CLAIM-997.md) | 0 | 13 | 0 | Violation penalty bites only where inquiry pays |
+| 2026-11-23 | Proposed | [CLAIM-1028](../../record/claims.d/CLAIM-1028.md) | 0 | 12 | 0 | Reliability without grounding is not knowledge |
 | 2026-11-23 | Proposed | [CLAIM-1103](../../record/claims.d/CLAIM-1103.md) | 0 | 12 | 0 | Syrian study isolates the germline route |
 | 2026-11-23 | Proposed | [CLAIM-1034](../../record/claims.d/CLAIM-1034.md) | 0 | 11 | 0 | Diversity accurately measures richness |
 | 2026-11-23 | Proposed | [CLAIM-1091](../../record/claims.d/CLAIM-1091.md) | 0 | 11 | 1 | Revisable safeguards beat fixed role-limited audit |
@@ -2299,21 +2417,19 @@
 | 2026-11-23 | Proposed | [CLAIM-1067](../../record/claims.d/CLAIM-1067.md) | 0 | 10 | 0 | Verdicts cannot be timed apart from migration |
 | 2026-11-23 | Proposed | [CLAIM-1106](../../record/claims.d/CLAIM-1106.md) | 0 | 10 | 0 | Intelligence organizes ecological richness |
 | 2026-11-23 | Proposed | [CLAIM-1120](../../record/claims.d/CLAIM-1120.md) | 0 | 10 | 0 | Penalty without discovery reward deters inquiry |
+| 2026-11-23 | Proposed | [CLAIM-1130](../../record/claims.d/CLAIM-1130.md) | 0 | 10 | 1 | Unbounded learnability leaves no optimal policy |
 | 2026-11-23 | Proposed | [CLAIM-1136](../../record/claims.d/CLAIM-1136.md) | 0 | 10 | 0 | Monitor effects do not outlast the monitor |
 | 2026-11-23 | Proposed | [CLAIM-1022](../../record/claims.d/CLAIM-1022.md) | 0 | 9 | 0 | Reading A: the redub's circulation carried it |
-| 2026-11-23 | Proposed | [CLAIM-1036](../../record/claims.d/CLAIM-1036.md) | 0 | 9 | 0 | Self-changing values fix no scalar optimum |
 | 2026-11-23 | Proposed | [CLAIM-1052](../../record/claims.d/CLAIM-1052.md) | 0 | 9 | 0 | Reading B: one contributor, the director |
 | 2026-11-23 | Proposed | [CLAIM-1059](../../record/claims.d/CLAIM-1059.md) | 0 | 9 | 0 | Understanding is developmental value |
 | 2026-11-23 | Proposed | [CLAIM-1060](../../record/claims.d/CLAIM-1060.md) | 0 | 9 | 0 | Governance allocates resources across time |
+| 2026-11-23 | Proposed | [CLAIM-1068](../../record/claims.d/CLAIM-1068.md) | 0 | 9 | 0 | Codes did not bypass retrieval by content |
 | 2026-11-23 | Proposed | [CLAIM-1089](../../record/claims.d/CLAIM-1089.md) | 0 | 9 | 0 | Rescaling changes the procedure, not the learner |
-| 2026-11-23 | Proposed | [CLAIM-1130](../../record/claims.d/CLAIM-1130.md) | 0 | 9 | 0 | Unbounded learnability leaves no optimal policy |
+| 2026-11-23 | Proposed | [CLAIM-1009](../../record/claims.d/CLAIM-1009.md) | 0 | 8 | 0 | The inquiry frontier needs an answer frontier |
 | 2026-11-23 | Proposed | [CLAIM-1018](../../record/claims.d/CLAIM-1018.md) | 0 | 8 | 1 | Revisable safeguards relocate the trade-off |
-| 2026-11-23 | Proposed | [CLAIM-1028](../../record/claims.d/CLAIM-1028.md) | 0 | 8 | 0 | Reliability without grounding is not knowledge |
-| 2026-11-23 | Proposed | [CLAIM-1086](../../record/claims.d/CLAIM-1086.md) | 0 | 8 | 0 | Grounding as reliability under interventions |
+| 2026-11-23 | Proposed | [CLAIM-1100](../../record/claims.d/CLAIM-1100.md) | 0 | 8 | 1 | Decodable is stored, not known |
 | 2026-11-23 | Proposed | [CLAIM-1113](../../record/claims.d/CLAIM-1113.md) | 0 | 8 | 0 | Mandated boards do not show lasting concern |
-| 2026-11-23 | Proposed | [CLAIM-1132](../../record/claims.d/CLAIM-1132.md) | 0 | 8 | 0 | Possibility is shaped by affordable legibility |
 | 2026-11-23 | Proposed | [CLAIM-1198](../../record/claims.d/CLAIM-1198.md) | 0 | 8 | 0 | Conserve capabilities, not current performers |
-| 2026-11-23 | Proposed | [CLAIM-1009](../../record/claims.d/CLAIM-1009.md) | 0 | 7 | 0 | The inquiry frontier needs an answer frontier |
 | 2026-11-23 | Proposed | [CLAIM-1023](../../record/claims.d/CLAIM-1023.md) | 0 | 7 | 0 | Re-derivation shows undiscovered codes |
 | 2026-11-23 | Proposed | [CLAIM-1050](../../record/claims.d/CLAIM-1050.md) | 0 | 7 | 0 | Weak anchoring shows compliance before adequacy |
 | 2026-11-23 | Proposed | [CLAIM-1124](../../record/claims.d/CLAIM-1124.md) | 0 | 7 | 0 | Cheapest memory keeps the interventional partition |
@@ -2324,9 +2440,7 @@
 | 2026-11-23 | Proposed | [CLAIM-1207](../../record/claims.d/CLAIM-1207.md) | 0 | 7 | 0 | Sheaf's 0.148% is the more defensible figure |
 | 2026-11-23 | Proposed | [CLAIM-1027](../../record/claims.d/CLAIM-1027.md) | 0 | 6 | 0 | Relational linearity in GPT-2 and Pythia |
 | 2026-11-23 | Proposed | [CLAIM-1061](../../record/claims.d/CLAIM-1061.md) | 0 | 6 | 0 | Stability vs adaptability is the wu-wei paradox |
-| 2026-11-23 | Proposed | [CLAIM-1068](../../record/claims.d/CLAIM-1068.md) | 0 | 6 | 0 | Codes did not bypass retrieval by content |
 | 2026-11-23 | Proposed | [CLAIM-1080](../../record/claims.d/CLAIM-1080.md) | 0 | 6 | 0 | All-or-none containments turn on tolerance |
-| 2026-11-23 | Proposed | [CLAIM-1100](../../record/claims.d/CLAIM-1100.md) | 0 | 6 | 0 | Decodable is stored, not known |
 | 2026-11-23 | Proposed | [CLAIM-1102](../../record/claims.d/CLAIM-1102.md) | 0 | 6 | 0 | Intelligence belongs to an ecology of inquiry |
 | 2026-11-23 | Proposed | [CLAIM-1107](../../record/claims.d/CLAIM-1107.md) | 0 | 6 | 0 | School case is an example, not a test |
 | 2026-11-23 | Proposed | [CLAIM-1134](../../record/claims.d/CLAIM-1134.md) | 0 | 6 | 0 | Intelligence is epistemic richness |
@@ -2334,6 +2448,7 @@
 | 2026-11-23 | Proposed | [CLAIM-1178](../../record/claims.d/CLAIM-1178.md) | 0 | 6 | 0 | Board changes outlast sanctions |
 | 2026-11-23 | Proposed | [CLAIM-998](../../record/claims.d/CLAIM-998.md) | 0 | 6 | 0 | Effortless action has a direction |
 | 2026-11-23 | Proposed | [CLAIM-1048](../../record/claims.d/CLAIM-1048.md) | 0 | 5 | 0 | Best pseudo-self is an integrated organization |
+| 2026-11-23 | Proposed | [CLAIM-1065](../../record/claims.d/CLAIM-1065.md) | 0 | 5 | 0 | Asking permission is resource bounded |
 | 2026-11-23 | Proposed | [CLAIM-1085](../../record/claims.d/CLAIM-1085.md) | 0 | 5 | 0 | Seed findings reappear out of sample |
 | 2026-11-23 | Proposed | [CLAIM-1118](../../record/claims.d/CLAIM-1118.md) | 0 | 5 | 1 | Diversity without coverage needs another metric |
 | 2026-11-23 | Proposed | [CLAIM-1123](../../record/claims.d/CLAIM-1123.md) | 0 | 5 | 0 | With feedback, nostalgia can be negative |
@@ -2345,7 +2460,6 @@
 | 2026-11-23 | Proposed | [CLAIM-1041](../../record/claims.d/CLAIM-1041.md) | 0 | 4 | 0 | Paid producers outlast lost legitimacy |
 | 2026-11-23 | Proposed | [CLAIM-1045](../../record/claims.d/CLAIM-1045.md) | 0 | 4 | 1 | Migration leaves no plurality–ecosystem divide |
 | 2026-11-23 | Proposed | [CLAIM-1063](../../record/claims.d/CLAIM-1063.md) | 0 | 4 | 0 | No evidence larger intervention sets do worse |
-| 2026-11-23 | Proposed | [CLAIM-1065](../../record/claims.d/CLAIM-1065.md) | 0 | 4 | 0 | Asking permission is resource bounded |
 | 2026-11-23 | Proposed | [CLAIM-1078](../../record/claims.d/CLAIM-1078.md) | 0 | 4 | 0 | Race reading's failure does not reach its home |
 | 2026-11-23 | Proposed | [CLAIM-1082](../../record/claims.d/CLAIM-1082.md) | 0 | 4 | 0 | Slowed operation: easier pushed, slower governed |
 | 2026-11-23 | Proposed | [CLAIM-1090](../../record/claims.d/CLAIM-1090.md) | 0 | 4 | 0 | Seeds are decided by what is forced at binding |
@@ -2364,7 +2478,7 @@
 | 2026-11-23 | Proposed | [CLAIM-1171](../../record/claims.d/CLAIM-1171.md) | 0 | 2 | 0 | New queries cannot change existing implications |
 | 2026-11-23 | Proposed | [CLAIM-1079](../../record/claims.d/CLAIM-1079.md) | 0 | 0 | 0 | Strong stabilization bounds tangential adaptation |
 | 2026-11-23 | Proposed | [CLAIM-1097](../../record/claims.d/CLAIM-1097.md) | 0 | 0 | 0 | History complex is the reachable configurations |
-| 2026-11-24 | Proposed | [CLAIM-1270](../../record/claims.d/CLAIM-1270.md) | 0 | 27 | 4 | Process contracts hide in ordinary behaviour |
+| 2026-11-24 | Proposed | [CLAIM-1270](../../record/claims.d/CLAIM-1270.md) | 0 | 30 | 4 | Process contracts hide in ordinary behaviour |
 | 2026-11-24 | Proposed | [CLAIM-1275](../../record/claims.d/CLAIM-1275.md) | 0 | 20 | 0 | Seed, organization and perspective persist apart |
 | 2026-11-24 | Proposed | [CLAIM-1221](../../record/claims.d/CLAIM-1221.md) | 0 | 19 | 0 | Unused fallbacks change the terms offered |
 | 2026-11-24 | Proposed | [CLAIM-1266](../../record/claims.d/CLAIM-1266.md) | 0 | 17 | 0 | Conservatism is a presumption under uncertainty |
@@ -2374,44 +2488,37 @@
 | 2026-11-24 | Proposed | [CLAIM-1319](../../record/claims.d/CLAIM-1319.md) | 0 | 16 | 0 | Invoking a relationship can change it |
 | 2026-11-24 | Proposed | [CLAIM-1286](../../record/claims.d/CLAIM-1286.md) | 0 | 15 | 0 | Perspectives transmit ignorance without falsehood |
 | 2026-11-24 | Proposed | [CLAIM-1301](../../record/claims.d/CLAIM-1301.md) | 0 | 14 | 0 | Originalism does not assume exhaustiveness |
+| 2026-11-24 | Proposed | [CLAIM-1241](../../record/claims.d/CLAIM-1241.md) | 0 | 12 | 0 | Independent checks can fail in common mode |
 | 2026-11-24 | Proposed | [CLAIM-1245](../../record/claims.d/CLAIM-1245.md) | 0 | 12 | 0 | Norms can outlast their justification |
 | 2026-11-24 | Proposed | [CLAIM-1294](../../record/claims.d/CLAIM-1294.md) | 0 | 12 | 0 | Preservationism mistakes endurance for adequacy |
 | 2026-11-24 | Proposed | [CLAIM-1313](../../record/claims.d/CLAIM-1313.md) | 0 | 12 | 0 | Unitarism rests on vesting and accountability |
-| 2026-11-24 | Proposed | [CLAIM-1268](../../record/claims.d/CLAIM-1268.md) | 0 | 11 | 1 | Monitoring can produce the conformity it records |
+| 2026-11-24 | Proposed | [CLAIM-1340](../../record/claims.d/CLAIM-1340.md) | 0 | 12 | 0 | Shareholder-value belief binds beyond the law |
+| 2026-11-24 | Proposed | [CLAIM-1257](../../record/claims.d/CLAIM-1257.md) | 0 | 11 | 0 | Shareholder value as willful ignorance |
 | 2026-11-24 | Proposed | [CLAIM-1308](../../record/claims.d/CLAIM-1308.md) | 0 | 11 | 0 | Access restrictions can condition individuation |
 | 2026-11-24 | Proposed | [CLAIM-1322](../../record/claims.d/CLAIM-1322.md) | 0 | 11 | 0 | Sociopathy: legibility without standing |
-| 2026-11-24 | Proposed | [CLAIM-1334](../../record/claims.d/CLAIM-1334.md) | 0 | 11 | 0 | A governing metric allocates two powers |
-| 2026-11-24 | Proposed | [CLAIM-1340](../../record/claims.d/CLAIM-1340.md) | 0 | 11 | 0 | Shareholder-value belief binds beyond the law |
 | 2026-11-24 | Proposed | [CLAIM-1233](../../record/claims.d/CLAIM-1233.md) | 0 | 10 | 0 | Many biases, one organizational constraint |
-| 2026-11-24 | Proposed | [CLAIM-1241](../../record/claims.d/CLAIM-1241.md) | 0 | 10 | 0 | Independent checks can fail in common mode |
 | 2026-11-24 | Proposed | [CLAIM-1274](../../record/claims.d/CLAIM-1274.md) | 0 | 10 | 0 | Framework can diagnose conservative theories |
 | 2026-11-24 | Proposed | [CLAIM-1288](../../record/claims.d/CLAIM-1288.md) | 0 | 10 | 0 | Reactive work can consume transformative capacity |
+| 2026-11-24 | Proposed | [CLAIM-1307](../../record/claims.d/CLAIM-1307.md) | 0 | 10 | 0 | Reflexive control can shape organization formation |
 | 2026-11-24 | Proposed | [CLAIM-1338](../../record/claims.d/CLAIM-1338.md) | 0 | 10 | 0 | The record holds most of the series' research |
 | 2026-11-24 | Proposed | [CLAIM-1209](../../record/claims.d/CLAIM-1209.md) | 0 | 9 | 1 | Reliance exposes the party who relies |
-| 2026-11-24 | Proposed | [CLAIM-1296](../../record/claims.d/CLAIM-1296.md) | 0 | 9 | 0 | Legibility cheapens coercion too |
 | 2026-11-24 | Proposed | [CLAIM-1309](../../record/claims.d/CLAIM-1309.md) | 0 | 9 | 1 | Exploitation can reveal tacit expectations |
 | 2026-11-24 | Proposed | [CLAIM-1315](../../record/claims.d/CLAIM-1315.md) | 0 | 9 | 0 | Originalism errs in assuming exhaustiveness |
 | 2026-11-24 | Proposed | [CLAIM-1343](../../record/claims.d/CLAIM-1343.md) | 0 | 9 | 0 | Reliance on restraint makes departures costly |
 | 2026-11-24 | Proposed | [CLAIM-1230](../../record/claims.d/CLAIM-1230.md) | 0 | 8 | 0 | Virality and generativity come apart |
 | 2026-11-24 | Proposed | [CLAIM-1231](../../record/claims.d/CLAIM-1231.md) | 0 | 8 | 0 | Normative capture is self-sealing |
-| 2026-11-24 | Proposed | [CLAIM-1257](../../record/claims.d/CLAIM-1257.md) | 0 | 8 | 0 | Shareholder value as willful ignorance |
+| 2026-11-24 | Proposed | [CLAIM-1269](../../record/claims.d/CLAIM-1269.md) | 0 | 8 | 1 | Biases as spurious sensitivity or invariance |
 | 2026-11-24 | Proposed | [CLAIM-1276](../../record/claims.d/CLAIM-1276.md) | 0 | 8 | 0 | Unresolved misunderstanding can be productive |
 | 2026-11-24 | Proposed | [CLAIM-1295](../../record/claims.d/CLAIM-1295.md) | 0 | 8 | 0 | Unitarism overreaches to conditions of correction |
-| 2026-11-24 | Proposed | [CLAIM-1307](../../record/claims.d/CLAIM-1307.md) | 0 | 8 | 0 | Reflexive control can shape organization formation |
-| 2026-11-24 | Proposed | [CLAIM-1339](../../record/claims.d/CLAIM-1339.md) | 0 | 8 | 0 | Hyperstition success is not memetic fitness |
 | 2026-11-24 | Proposed | [CLAIM-1225](../../record/claims.d/CLAIM-1225.md) | 0 | 7 | 0 | Separate authority to observe from to act |
 | 2026-11-24 | Proposed | [CLAIM-1232](../../record/claims.d/CLAIM-1232.md) | 0 | 7 | 0 | Memes can diversify the perspectives they touch |
 | 2026-11-24 | Proposed | [CLAIM-1248](../../record/claims.d/CLAIM-1248.md) | 0 | 7 | 4 | Conditioned and negotiated share maintenance |
 | 2026-11-24 | Proposed | [CLAIM-1236](../../record/claims.d/CLAIM-1236.md) | 0 | 6 | 0 | Reflexive self-governance can be seeded |
-| 2026-11-24 | Proposed | [CLAIM-1249](../../record/claims.d/CLAIM-1249.md) | 0 | 6 | 0 | Manufactured doubt raises the action threshold |
 | 2026-11-24 | Proposed | [CLAIM-1250](../../record/claims.d/CLAIM-1250.md) | 0 | 6 | 0 | Conservative theories can fall short of themselves |
-| 2026-11-24 | Proposed | [CLAIM-1251](../../record/claims.d/CLAIM-1251.md) | 0 | 6 | 0 | Observability is also a surface for domination |
 | 2026-11-24 | Proposed | [CLAIM-1265](../../record/claims.d/CLAIM-1265.md) | 0 | 6 | 0 | Obligation constrains exit, it is not a cost |
-| 2026-11-24 | Proposed | [CLAIM-1269](../../record/claims.d/CLAIM-1269.md) | 0 | 6 | 0 | Biases as spurious sensitivity or invariance |
 | 2026-11-24 | Proposed | [CLAIM-1328](../../record/claims.d/CLAIM-1328.md) | 0 | 6 | 0 | Adequate correctives can compose into a trap |
 | 2026-11-24 | Proposed | [CLAIM-1341](../../record/claims.d/CLAIM-1341.md) | 0 | 6 | 0 | A heuristic can be a compiled contract |
 | 2026-11-24 | Proposed | [CLAIM-1211](../../record/claims.d/CLAIM-1211.md) | 0 | 5 | 0 | Emergency regimes are cheaper to enter than leave |
-| 2026-11-24 | Proposed | [CLAIM-1272](../../record/claims.d/CLAIM-1272.md) | 0 | 5 | 0 | Anchoring by nucleation outlasts the anchor |
 | 2026-11-24 | Proposed | [CLAIM-1280](../../record/claims.d/CLAIM-1280.md) | 0 | 5 | 0 | Resolving ambiguity forms a contract |
 | 2026-11-24 | Proposed | [CLAIM-1320](../../record/claims.d/CLAIM-1320.md) | 0 | 5 | 0 | Standing without authority |
 | 2026-11-24 | Proposed | [CLAIM-1336](../../record/claims.d/CLAIM-1336.md) | 0 | 5 | 0 | Tolerances are not normative constraints |
@@ -2419,14 +2526,12 @@
 | 2026-11-24 | Proposed | [CLAIM-1271](../../record/claims.d/CLAIM-1271.md) | 0 | 4 | 0 | Agnotology is set by position, not content |
 | 2026-11-24 | Proposed | [CLAIM-1214](../../record/claims.d/CLAIM-1214.md) | 0 | 3 | 0 | Memes can act on how memes are assessed |
 | 2026-11-24 | Proposed | [CLAIM-1222](../../record/claims.d/CLAIM-1222.md) | 0 | 3 | 0 | Four separate achievements of inquiry |
-| 2026-11-24 | Proposed | [CLAIM-1264](../../record/claims.d/CLAIM-1264.md) | 0 | 3 | 0 | Memes can carry portable protocols |
+| 2026-11-24 | Proposed | [CLAIM-1262](../../record/claims.d/CLAIM-1262.md) | 0 | 3 | 0 | Mobilization scaled by tolerance and horizon |
 | 2026-11-24 | Proposed | [CLAIM-1282](../../record/claims.d/CLAIM-1282.md) | 0 | 3 | 2 | Correction is relative to its anchors |
+| 2026-11-24 | Proposed | [CLAIM-1331](../../record/claims.d/CLAIM-1331.md) | 0 | 3 | 0 | Pathologies can come from success |
 | 2026-11-24 | Proposed | [CLAIM-1345](../../record/claims.d/CLAIM-1345.md) | 0 | 3 | 0 | Distributed pathologies map onto organizations |
 | 2026-11-24 | Proposed | [CLAIM-1254](../../record/claims.d/CLAIM-1254.md) | 0 | 2 | 0 | Three authorities that conservatism conflates |
 | 2026-11-24 | Proposed | [CLAIM-1259](../../record/claims.d/CLAIM-1259.md) | 0 | 2 | 2 | Rarer capabilities are lost sooner |
-| 2026-11-24 | Proposed | [CLAIM-1262](../../record/claims.d/CLAIM-1262.md) | 0 | 2 | 0 | Mobilization scaled by tolerance and horizon |
-| 2026-11-24 | Proposed | [CLAIM-1326](../../record/claims.d/CLAIM-1326.md) | 0 | 2 | 2 | Reliance holds obligation past original reasons |
-| 2026-11-24 | Proposed | [CLAIM-1331](../../record/claims.d/CLAIM-1331.md) | 0 | 2 | 0 | Pathologies can come from success |
 | 2026-11-24 | Proposed | [CLAIM-1342](../../record/claims.d/CLAIM-1342.md) | 0 | 0 | 0 | Check each parameter's reading in toy models |
 | 2026-11-25 | Proposed | [CLAIM-1237](../../record/claims.d/CLAIM-1237.md) | 0 | 18 | 1 | Supply doing one's work lowers one's terms |
 | 2026-11-25 | Proposed | [CLAIM-1240](../../record/claims.d/CLAIM-1240.md) | 0 | 11 | 3 | Clarifying helps only where situations conflated |
@@ -2436,46 +2541,120 @@
 | 2026-11-25 | Proposed | [CLAIM-1346](../../record/claims.d/CLAIM-1346.md) | 0 | 8 | 0 | Hosting supplies only access |
 | 2026-11-25 | Proposed | [CLAIM-1242](../../record/claims.d/CLAIM-1242.md) | 0 | 7 | 0 | Git passes migration for sources, not host data |
 | 2026-11-25 | Proposed | [CLAIM-1273](../../record/claims.d/CLAIM-1273.md) | 0 | 7 | 0 | Credit attaches where the contribution occurred |
+| 2026-11-25 | Proposed | [CLAIM-1290](../../record/claims.d/CLAIM-1290.md) | 0 | 7 | 0 | Code citations resolve to the current version |
 | 2026-11-25 | Proposed | [CLAIM-1304](../../record/claims.d/CLAIM-1304.md) | 0 | 7 | 0 | Editorial tags as authored, versioned records |
 | 2026-11-25 | Proposed | [CLAIM-1330](../../record/claims.d/CLAIM-1330.md) | 0 | 7 | 0 | Webhosts can do the publisher's job |
+| 2026-11-25 | Proposed | [CLAIM-1208](../../record/claims.d/CLAIM-1208.md) | 0 | 6 | 0 | Proof relevance turns on later use of evidence |
 | 2026-11-25 | Proposed | [CLAIM-1226](../../record/claims.d/CLAIM-1226.md) | 0 | 6 | 0 | Nucleation implements a record, not hyperarticles |
-| 2026-11-25 | Proposed | [CLAIM-1290](../../record/claims.d/CLAIM-1290.md) | 0 | 6 | 0 | Code citations resolve to the current version |
 | 2026-11-25 | Proposed | [CLAIM-1297](../../record/claims.d/CLAIM-1297.md) | 0 | 6 | 0 | Inquiry as an atlas of partial representations |
 | 2026-11-25 | Proposed | [CLAIM-1299](../../record/claims.d/CLAIM-1299.md) | 0 | 6 | 0 | Attributions as reliable as the attributing step |
-| 2026-11-25 | Proposed | [CLAIM-1208](../../record/claims.d/CLAIM-1208.md) | 0 | 5 | 0 | Proof relevance turns on later use of evidence |
 | 2026-11-25 | Proposed | [CLAIM-1234](../../record/claims.d/CLAIM-1234.md) | 0 | 5 | 0 | Nucleation's misfits were answered by generalizing |
 | 2026-11-25 | Proposed | [CLAIM-1314](../../record/claims.d/CLAIM-1314.md) | 0 | 5 | 0 | Collaboration record grounds questioning |
 | 2026-11-25 | Proposed | [CLAIM-1321](../../record/claims.d/CLAIM-1321.md) | 0 | 5 | 0 | Only judgements need keeping as feed memory |
 | 2026-11-25 | Proposed | [CLAIM-1325](../../record/claims.d/CLAIM-1325.md) | 0 | 5 | 0 | Sufficient views can be incomparable |
+| 2026-11-25 | Proposed | [CLAIM-1215](../../record/claims.d/CLAIM-1215.md) | 0 | 4 | 0 | Publishing systems fix what counts as work |
 | 2026-11-25 | Proposed | [CLAIM-1229](../../record/claims.d/CLAIM-1229.md) | 0 | 4 | 0 | Reward capacity for inquiry, not accumulation |
-| 2026-11-25 | Proposed | [CLAIM-1215](../../record/claims.d/CLAIM-1215.md) | 0 | 3 | 0 | Publishing systems fix what counts as work |
 | 2026-11-25 | Proposed | [CLAIM-1224](../../record/claims.d/CLAIM-1224.md) | 0 | 3 | 0 | Contribution is not the unit of publication |
-| 2026-11-25 | Proposed | [CLAIM-1258](../../record/claims.d/CLAIM-1258.md) | 0 | 3 | 0 | Legible form is split from productive form |
 | 2026-11-25 | Proposed | [CLAIM-1306](../../record/claims.d/CLAIM-1306.md) | 0 | 3 | 0 | Separate contributions need separate claims |
 | 2026-11-25 | Proposed | [CLAIM-1228](../../record/claims.d/CLAIM-1228.md) | 0 | 2 | 0 | Inquiry, representation and governance form a loop |
 | 2026-11-25 | Proposed | [CLAIM-1260](../../record/claims.d/CLAIM-1260.md) | 0 | 2 | 0 | Blog series as a route through hyperarticles |
 | 2026-11-25 | Proposed | [CLAIM-1235](../../record/claims.d/CLAIM-1235.md) | 0 | 1 | 0 | Neither-permission-nor-evidence state absorbs |
 | 2026-11-25 | Proposed | [CLAIM-1263](../../record/claims.d/CLAIM-1263.md) | 0 | 1 | 0 | Four separable dimensions of view coverage |
-| 2026-11-26 | Proposed | [CLAIM-1347](../../record/claims.d/CLAIM-1347.md) | 0 | 6 | 0 | Affect names no single kind |
-| 2026-11-26 | Proposed | [CLAIM-1348](../../record/claims.d/CLAIM-1348.md) | 0 | 6 | 0 | Affect spans claim and grant |
-| 2026-11-26 | Proposed | [CLAIM-1349](../../record/claims.d/CLAIM-1349.md) | 0 | 6 | 0 | Affect is the claim side |
+| 2026-11-26 | Proposed | [CLAIM-1444](../../record/claims.d/CLAIM-1444.md) | 0 | 26 | 2 | The model's narrative priors can be the dyad's attractor |
+| 2026-11-26 | Proposed | [CLAIM-1427](../../record/claims.d/CLAIM-1427.md) | 0 | 16 | 0 | A condensation is correction-safe only if no correction separates what it merges |
+| 2026-11-26 | Proposed | [CLAIM-1421](../../record/claims.d/CLAIM-1421.md) | 0 | 15 | 2 | A cycle that does not resolve is indecision |
+| 2026-11-26 | Proposed | [CLAIM-1454](../../record/claims.d/CLAIM-1454.md) | 0 | 15 | 0 | Linear coupling leaves support no role in interest |
+| 2026-11-26 | Proposed | [CLAIM-1353](../../record/claims.d/CLAIM-1353.md) | 0 | 14 | 3 | Indecisiveness is a disposition beside valence |
+| 2026-11-26 | Proposed | [CLAIM-1364](../../record/claims.d/CLAIM-1364.md) | 0 | 13 | 0 | The record answers the Luddite objection only through reciprocity and control of terms |
+| 2026-11-26 | Proposed | [CLAIM-1437](../../record/claims.d/CLAIM-1437.md) | 0 | 13 | 0 | Emotion communicates affect to the grantor |
+| 2026-11-26 | Proposed | [CLAIM-1451](../../record/claims.d/CLAIM-1451.md) | 0 | 13 | 0 | A grammar revision can make an inert distinction consequential |
+| 2026-11-26 | Proposed | [CLAIM-1352](../../record/claims.d/CLAIM-1352.md) | 0 | 12 | 0 | Competence and valuation can sustain an interest |
+| 2026-11-26 | Proposed | [CLAIM-1362](../../record/claims.d/CLAIM-1362.md) | 0 | 12 | 0 | Reliance and revision arrive together here |
+| 2026-11-26 | Proposed | [CLAIM-1413](../../record/claims.d/CLAIM-1413.md) | 0 | 12 | 2 | In Lewin's sense, valence is an outcome's pull |
+| 2026-11-26 | Proposed | [CLAIM-1422](../../record/claims.d/CLAIM-1422.md) | 0 | 12 | 0 | Stability and generativity separate regimes |
+| 2026-11-26 | Proposed | [CLAIM-1456](../../record/claims.d/CLAIM-1456.md) | 0 | 12 | 0 | Retained-skill models cannot weigh net empowerment |
+| 2026-11-26 | Proposed | [CLAIM-1448](../../record/claims.d/CLAIM-1448.md) | 0 | 11 | 0 | Alternative support has no least retention requirement |
+| 2026-11-26 | Proposed | [CLAIM-1453](../../record/claims.d/CLAIM-1453.md) | 0 | 11 | 0 | A platform for institutional alignment must govern development |
+| 2026-11-26 | Proposed | [CLAIM-1395](../../record/claims.d/CLAIM-1395.md) | 0 | 10 | 0 | Cooling must leave dependencies visible |
+| 2026-11-26 | Proposed | [CLAIM-1435](../../record/claims.d/CLAIM-1435.md) | 0 | 10 | 1 | A self can be contextual: pairwise-consistent roles with no global presentation |
+| 2026-11-26 | Proposed | [CLAIM-1449](../../record/claims.d/CLAIM-1449.md) | 0 | 10 | 0 | Delegating a record's upkeep can widen its governance |
+| 2026-11-26 | Proposed | [CLAIM-1348](../../record/claims.d/CLAIM-1348.md) | 0 | 9 | 0 | Affect spans claim and grant |
+| 2026-11-26 | Proposed | [CLAIM-1349](../../record/claims.d/CLAIM-1349.md) | 0 | 9 | 0 | Affect is the claim side |
+| 2026-11-26 | Proposed | [CLAIM-1365](../../record/claims.d/CLAIM-1365.md) | 0 | 9 | 0 | Standing, availability and fidelity are separate |
+| 2026-11-26 | Proposed | [CLAIM-1423](../../record/claims.d/CLAIM-1423.md) | 0 | 9 | 0 | A new value is a newly consequential distinction |
+| 2026-11-26 | Proposed | [CLAIM-1430](../../record/claims.d/CLAIM-1430.md) | 0 | 9 | 0 | Revealed demand fails as alignment evidence once shaped |
+| 2026-11-26 | Proposed | [CLAIM-1455](../../record/claims.d/CLAIM-1455.md) | 0 | 9 | 0 | Capability-preserving condensation can widen the frontier |
+| 2026-11-26 | Proposed | [CLAIM-1356](../../record/claims.d/CLAIM-1356.md) | 0 | 8 | 0 | Closing a possibility can foreclose a valuing |
+| 2026-11-26 | Proposed | [CLAIM-1369](../../record/claims.d/CLAIM-1369.md) | 0 | 8 | 0 | Derived projections inflate retrieval prominence |
+| 2026-11-26 | Proposed | [CLAIM-1389](../../record/claims.d/CLAIM-1389.md) | 0 | 8 | 0 | Retention requirements join over an entry's uses |
+| 2026-11-26 | Proposed | [CLAIM-1394](../../record/claims.d/CLAIM-1394.md) | 0 | 8 | 0 | Accessible corpus growth can raise realization cost |
+| 2026-11-26 | Proposed | [CLAIM-1402](../../record/claims.d/CLAIM-1402.md) | 0 | 8 | 0 | A conversation's persona can travel between instances as a meme |
+| 2026-11-26 | Proposed | [CLAIM-1414](../../record/claims.d/CLAIM-1414.md) | 0 | 8 | 0 | Entrenchment needs one-way moves or a lower budget |
+| 2026-11-26 | Proposed | [CLAIM-1445](../../record/claims.d/CLAIM-1445.md) | 0 | 8 | 0 | Purposes can be constituted, not aggregated |
+| 2026-11-26 | Proposed | [CLAIM-1459](../../record/claims.d/CLAIM-1459.md) | 0 | 8 | 5 | Jurisdictions over shared states can leave a system without valence |
+| 2026-11-26 | Proposed | [CLAIM-1347](../../record/claims.d/CLAIM-1347.md) | 0 | 7 | 0 | Affect names no single kind |
+| 2026-11-26 | Proposed | [CLAIM-1368](../../record/claims.d/CLAIM-1368.md) | 0 | 7 | 0 | Retention by observed use confirms itself |
+| 2026-11-26 | Proposed | [CLAIM-1380](../../record/claims.d/CLAIM-1380.md) | 0 | 7 | 0 | Consolidation may make arguments units of work |
+| 2026-11-26 | Proposed | [CLAIM-1390](../../record/claims.d/CLAIM-1390.md) | 0 | 6 | 0 | Alignment can be distributed across a governed organization |
+| 2026-11-26 | Proposed | [CLAIM-1418](../../record/claims.d/CLAIM-1418.md) | 0 | 6 | 0 | Unconscious access is the same content in a format flexible consumers cannot read |
+| 2026-11-26 | Proposed | [CLAIM-1361](../../record/claims.d/CLAIM-1361.md) | 0 | 5 | 0 | Most new entries are short-lived, by hypothesis |
+| 2026-11-26 | Proposed | [CLAIM-1412](../../record/claims.d/CLAIM-1412.md) | 0 | 5 | 0 | Liveness is relative to roots, and partly developmental |
+| 2026-11-26 | Proposed | [CLAIM-1416](../../record/claims.d/CLAIM-1416.md) | 0 | 5 | 0 | Making a difference matter costs a separating budget |
+| 2026-11-26 | Proposed | [CLAIM-1432](../../record/claims.d/CLAIM-1432.md) | 0 | 4 | 0 | Axiological and constitutional frontiers move apart |
+| 2026-11-26 | Proposed | [CLAIM-1350](../../record/claims.d/CLAIM-1350.md) | 0 | 3 | 0 | An unconstituted purpose is not an inaccessible one |
+| 2026-11-26 | Proposed | [CLAIM-1357](../../record/claims.d/CLAIM-1357.md) | 0 | 3 | 0 | Aligning each component does not align what they compose |
+| 2026-11-26 | Proposed | [CLAIM-1370](../../record/claims.d/CLAIM-1370.md) | 0 | 3 | 0 | Consequentiality can need jointly acquired capacities |
+| 2026-11-26 | Proposed | [CLAIM-1351](../../record/claims.d/CLAIM-1351.md) | 0 | 2 | 0 | Senses of purpose come apart |
+| 2026-11-26 | Proposed | [CLAIM-1355](../../record/claims.d/CLAIM-1355.md) | 0 | 1 | 0 | Governance can improve and still fall behind what it governs |
+| 2026-11-26 | Proposed | [CLAIM-1371](../../record/claims.d/CLAIM-1371.md) | 0 | 1 | 0 | A purpose can govern its own reconsideration |
+| 2026-11-26 | Proposed | [CLAIM-1376](../../record/claims.d/CLAIM-1376.md) | 0 | 1 | 0 | Claimed and granted readiness are one kind at two levels |
+| 2026-11-26 | Proposed | [CLAIM-1378](../../record/claims.d/CLAIM-1378.md) | 0 | 1 | 0 | A collective can want a transition and lack the readiness for it |
+| 2026-11-26 | Proposed | [CLAIM-1396](../../record/claims.d/CLAIM-1396.md) | 0 | 1 | 0 | An apparent objective can have four different sources |
+| 2026-11-26 | Proposed | [CLAIM-1415](../../record/claims.d/CLAIM-1415.md) | 0 | 1 | 0 | Valence emerges from the will-organization |
+| 2026-11-26 | Proposed | [CLAIM-1425](../../record/claims.d/CLAIM-1425.md) | 0 | 1 | 0 | Governing a purpose includes being able to end it |
+| 2026-11-27 | Proposed | [CLAIM-1363](../../record/claims.d/CLAIM-1363.md) | 0 | 13 | 1 | What generalizes to reward tampering is specification gaming, not influence over the evaluator |
+| 2026-11-27 | Proposed | [CLAIM-1383](../../record/claims.d/CLAIM-1383.md) | 0 | 10 | 3 | The culture's narratives of machines can be the dyad's attractor |
+| 2026-11-27 | Proposed | [CLAIM-1434](../../record/claims.d/CLAIM-1434.md) | 0 | 9 | 1 | A sycophantic chatbot withholds the other's eyes that apophany has lost |
+| 2026-11-27 | Proposed | [CLAIM-1426](../../record/claims.d/CLAIM-1426.md) | 0 | 6 | 0 | Psychedelic meaningfulness is apophany held at a reversible stage |
+| 2026-11-27 | Proposed | [CLAIM-1433](../../record/claims.d/CLAIM-1433.md) | 0 | 6 | 0 | Heightened meaningfulness can come with a loosened frame or a locked one |
+| 2026-11-27 | Proposed | [CLAIM-1354](../../record/claims.d/CLAIM-1354.md) | 0 | 4 | 0 | A mathematical delusion is illumination with verification refused or counterfeited |
+| 2026-11-27 | Proposed | [CLAIM-1373](../../record/claims.d/CLAIM-1373.md) | 0 | 4 | 0 | Felt need satisfaction from a chatbot is need satisfaction |
+| 2026-11-27 | Proposed | [CLAIM-1399](../../record/claims.d/CLAIM-1399.md) | 0 | 4 | 0 | Optimizing content for a language-model reader is reflexive control of the evaluator from outside |
+| 2026-11-27 | Proposed | [CLAIM-1441](../../record/claims.d/CLAIM-1441.md) | 0 | 3 | 0 | False insight has no optimizer, so it is a miscalibrated cue, not a gamed evaluator |
+| 2026-11-27 | Proposed | [CLAIM-1388](../../record/claims.d/CLAIM-1388.md) | 0 | 2 | 1 | Coercion works through options and payoffs, and the load it imposes is a symptom, not the mechanism |
+| 2026-11-27 | Proposed | [CLAIM-1401](../../record/claims.d/CLAIM-1401.md) | 0 | 2 | 0 | Need frustration is the window in which a conversation nucleates a delusion |
+| 2026-11-27 | Proposed | [CLAIM-1420](../../record/claims.d/CLAIM-1420.md) | 0 | 2 | 0 | One dominant ranking makes the web a monoculture whose failures are correlated |
+| 2026-11-27 | Proposed | [CLAIM-1458](../../record/claims.d/CLAIM-1458.md) | 0 | 2 | 0 | Search is a paperclip problem on both sides of the ranking |
+| 2026-11-27 | Proposed | [CLAIM-1367](../../record/claims.d/CLAIM-1367.md) | 0 | 1 | 0 | Enshittification of search is the engine optimizing its own ranking against its users |
+| 2026-11-27 | Proposed | [CLAIM-1379](../../record/claims.d/CLAIM-1379.md) | 0 | 1 | 0 | Sycophantic praise is informational and so sustains the engagement |
+| 2026-11-27 | Proposed | [CLAIM-1384](../../record/claims.d/CLAIM-1384.md) | 0 | 1 | 0 | Link farms are self-amplification through cyclic grants, and trust seeds are its remedy |
+| 2026-11-27 | Proposed | [CLAIM-1407](../../record/claims.d/CLAIM-1407.md) | 0 | 1 | 0 | An engine steers toward a stable point by lowering publishers' responsiveness |
+| 2026-11-27 | Proposed | [CLAIM-1409](../../record/claims.d/CLAIM-1409.md) | 0 | 1 | 0 | Defences against manipulation are mostly load interventions |
+| 2026-11-27 | Proposed | [CLAIM-1431](../../record/claims.d/CLAIM-1431.md) | 0 | 1 | 0 | A ranking trained on clicks under itself locks in unless some evidence bypasses it |
+| 2026-11-27 | Proposed | [CLAIM-1452](../../record/claims.d/CLAIM-1452.md) | 0 | 1 | 0 | The path from sycophancy to subterfuge is the three-stage pathology of optimization |
+| 2026-11-27 | Proposed | [CLAIM-1457](../../record/claims.d/CLAIM-1457.md) | 0 | 1 | 0 | A shortcut is harmless within its training family and pathological in the jurisdiction it is granted |
+| 2026-11-27 | Proposed | [CLAIM-1417](../../record/claims.d/CLAIM-1417.md) | 0 | 0 | 0 | The expertise reversal effect is a legibility ordering that holds only per observer |
 
 ## CASEs
 
-212 of the 3020.
+217 of the 3226.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
+| 2026-11-23 | Proposed | [CASE-416](../../record/cases.d/CASE-416.md) | 20 | 15 | 0 | The watermark-reading classifier |
+| 2026-11-23 | Proposed | [CASE-399](../../record/cases.d/CASE-399.md) | 20 | 6 | 0 | The reappointed chief executive |
 | 2026-11-22 | Proposed | [CASE-357](../../record/cases.d/CASE-357.md) | 10 | 7 | 0 | Trigger residue after suppressive fine-tuning |
 | 2026-11-21 | Proposed | [CASE-303](../../record/cases.d/CASE-303.md) | 9 | 20 | 0 | Cascade sizes of a Poisson branching process |
 | 2026-11-07 | Proposed | [CASE-231](../../record/cases.d/CASE-231.md) | 8 | 35 | 0 | Two viable regimes with an absorbing failure |
+| 2026-11-23 | Proposed | [CASE-405](../../record/cases.d/CASE-405.md) | 7 | 43 | 0 | Corporate sanctions that ended |
 | 2026-11-12 | Proposed | [CASE-240](../../record/cases.d/CASE-240.md) | 6 | 27 | 0 | The debugger's test with test smoke |
 | 2026-11-22 | Proposed | [CASE-365](../../record/cases.d/CASE-365.md) | 6 | 35 | 1 | Nuclei that make their own teachers |
 | 2026-11-22 | Proposed | [CASE-336](../../record/cases.d/CASE-336.md) | 6 | 24 | 0 | Courier platform matched constructions |
-| 2026-11-23 | Proposed | [CASE-405](../../record/cases.d/CASE-405.md) | 6 | 37 | 0 | Corporate sanctions that ended |
 | 2026-11-22 | Proposed | [CASE-342](../../record/cases.d/CASE-342.md) | 5 | 8 | 0 | The dependence rule on the record's cases |
 | 2026-11-23 | Proposed | [CASE-404](../../record/cases.d/CASE-404.md) | 5 | 5 | 0 | Crossed intervention on a small network |
 | 2026-11-24 | Proposed | [CASE-424](../../record/cases.d/CASE-424.md) | 5 | 11 | 0 | The Chubby planned outage |
+| 2026-11-12 | Proposed | [CASE-247](../../record/cases.d/CASE-247.md) | 4 | 32 | 0 | The newsroom that defunds investigations |
+| 2026-11-13 | Proposed | [CASE-264](../../record/cases.d/CASE-264.md) | 4 | 54 | 0 | Two workshops: withdrawal versus discretion |
 | 2026-11-18 | Proposed | [CASE-292](../../record/cases.d/CASE-292.md) | 4 | 35 | 0 | Uber automated-vehicle crash, Tempe 2018 |
 | 2026-11-21 | Proposed | [CASE-301](../../record/cases.d/CASE-301.md) | 4 | 26 | 0 | Two-class Gaussian mixture, hidden direction |
 | 2026-11-21 | Proposed | [CASE-302](../../record/cases.d/CASE-302.md) | 4 | 21 | 0 | Two mechanisms that merge |
@@ -2486,16 +2665,15 @@
 | 2026-11-23 | Proposed | [CASE-407](../../record/cases.d/CASE-407.md) | 4 | 9 | 0 | Function-preserving rescaling before fine-tuning |
 | 2026-11-23 | Proposed | [CASE-417](../../record/cases.d/CASE-417.md) | 4 | 9 | 0 | BERT anaphora study reanalysed |
 | 2026-11-07 | Proposed | [CASE-223](../../record/cases.d/CASE-223.md) | 3 | 64 | 25 | Contested and accepted open-source successions |
-| 2026-11-12 | Proposed | [CASE-247](../../record/cases.d/CASE-247.md) | 3 | 32 | 0 | The newsroom that defunds investigations |
 | 2026-11-12 | Proposed | [CASE-243](../../record/cases.d/CASE-243.md) | 3 | 26 | 0 | Smoke detector in an empty building |
 | 2026-11-12 | Proposed | [CASE-244](../../record/cases.d/CASE-244.md) | 3 | 20 | 1 | Toxoplasma gondii and ant-manipulating fungi |
 | 2026-11-12 | Proposed | [CASE-246](../../record/cases.d/CASE-246.md) | 3 | 19 | 1 | Exit-driven drift toy |
-| 2026-11-13 | Proposed | [CASE-264](../../record/cases.d/CASE-264.md) | 3 | 53 | 0 | Two workshops: withdrawal versus discretion |
 | 2026-11-13 | Proposed | [CASE-256](../../record/cases.d/CASE-256.md) | 3 | 46 | 0 | Member and non-member, same harm |
 | 2026-11-14 | Proposed | [CASE-260](../../record/cases.d/CASE-260.md) | 3 | 33 | 0 | The block in Conway's Game of Life |
 | 2026-11-15 | Proposed | [CASE-259](../../record/cases.d/CASE-259.md) | 3 | 15 | 0 | The eater in Conway's Game of Life |
 | 2026-11-19 | Proposed | [CASE-295](../../record/cases.d/CASE-295.md) | 3 | 12 | 0 | A stipulated two-step acquisition |
 | 2026-11-21 | Proposed | [CASE-305](../../record/cases.d/CASE-305.md) | 3 | 8 | 0 | Site percolation and Reed–Frost cluster sizes |
+| 2026-11-22 | Proposed | [CASE-307](../../record/cases.d/CASE-307.md) | 3 | 36 | 0 | Revision rates of claims with inbound edges |
 | 2026-11-22 | Proposed | [CASE-310](../../record/cases.d/CASE-310.md) | 3 | 17 | 0 | A manipulated will |
 | 2026-11-22 | Proposed | [CASE-311](../../record/cases.d/CASE-311.md) | 3 | 16 | 0 | Block and eater against individuation criteria |
 | 2026-11-22 | Proposed | [CASE-385](../../record/cases.d/CASE-385.md) | 3 | 14 | 0 | Permutation-aligned MLPs and loss barriers |
@@ -2503,9 +2681,8 @@
 | 2026-11-23 | Proposed | [CASE-392](../../record/cases.d/CASE-392.md) | 3 | 36 | 0 | The 2005 Washington Nationals' lineage |
 | 2026-11-23 | Proposed | [CASE-409](../../record/cases.d/CASE-409.md) | 3 | 13 | 0 | Memorized table versus found x² |
 | 2026-11-23 | Proposed | [CASE-398](../../record/cases.d/CASE-398.md) | 3 | 9 | 0 | Logit subspaces in GPT-2 small and Pythia-70m |
-| 2026-11-23 | Proposed | [CASE-399](../../record/cases.d/CASE-399.md) | 3 | 6 | 0 | The reappointed chief executive |
-| 2026-11-23 | Proposed | [CASE-416](../../record/cases.d/CASE-416.md) | 3 | 6 | 0 | The watermark-reading classifier |
 | 2026-11-24 | Proposed | [CASE-422](../../record/cases.d/CASE-422.md) | 3 | 8 | 0 | US race-based power after abolition |
+| 2026-11-26 | Proposed | [CASE-430](../../record/cases.d/CASE-430.md) | 3 | 9 | 0 | Coupled competence and valuation model of interest |
 | 2026-10-26 | Proposed | [CASE-163](../../record/cases.d/CASE-163.md) | 2 | 56 | 4 | Identifying rule maintenance from probes |
 | 2026-11-07 | Proposed | [CASE-224](../../record/cases.d/CASE-224.md) | 2 | 32 | 3 | One hidden mode over three periods |
 | 2026-11-12 | Proposed | [CASE-241](../../record/cases.d/CASE-241.md) | 2 | 32 | 0 | Upkeep-set forager against stored-yield forager |
@@ -2515,13 +2692,13 @@
 | 2026-11-15 | Proposed | [CASE-266](../../record/cases.d/CASE-266.md) | 2 | 7 | 0 | Equal charge, different tokens |
 | 2026-11-16 | Proposed | [CASE-277](../../record/cases.d/CASE-277.md) | 2 | 19 | 0 | Two hospitals, same AI and audit trail |
 | 2026-11-22 | Proposed | [CASE-341](../../record/cases.d/CASE-341.md) | 2 | 23 | 0 | Identical operators under four influence rules |
-| 2026-11-22 | Proposed | [CASE-367](../../record/cases.d/CASE-367.md) | 2 | 19 | 1 | Simulated engagement laboratory |
+| 2026-11-22 | Proposed | [CASE-367](../../record/cases.d/CASE-367.md) | 2 | 21 | 1 | Simulated engagement laboratory |
 | 2026-11-22 | Proposed | [CASE-322](../../record/cases.d/CASE-322.md) | 2 | 14 | 0 | Recoverable-specialists theorem checked |
 | 2026-11-22 | Proposed | [CASE-371](../../record/cases.d/CASE-371.md) | 2 | 14 | 0 | Toy transformer forgetting study |
+| 2026-11-22 | Proposed | [CASE-384](../../record/cases.d/CASE-384.md) | 2 | 12 | 1 | Planner, value learner and demons in mazes |
 | 2026-11-22 | Proposed | [CASE-368](../../record/cases.d/CASE-368.md) | 2 | 11 | 3 | Operational cover as determinacy sub-cover |
 | 2026-11-22 | Proposed | [CASE-380](../../record/cases.d/CASE-380.md) | 2 | 11 | 0 | Executive, reviewer and enforcer arrangements |
 | 2026-11-22 | Proposed | [CASE-330](../../record/cases.d/CASE-330.md) | 2 | 10 | 1 | Fed rate decisions as two perspectives |
-| 2026-11-22 | Proposed | [CASE-384](../../record/cases.d/CASE-384.md) | 2 | 10 | 0 | Planner, value learner and demons in mazes |
 | 2026-11-22 | Proposed | [CASE-327](../../record/cases.d/CASE-327.md) | 2 | 7 | 0 | Effective-description conditions in linear VAR |
 | 2026-11-22 | Proposed | [CASE-351](../../record/cases.d/CASE-351.md) | 2 | 7 | 0 | Acquisition order on a known tree |
 | 2026-11-22 | Proposed | [CASE-379](../../record/cases.d/CASE-379.md) | 2 | 6 | 0 | Directed decision signature reduction |
@@ -2534,7 +2711,7 @@
 | 2026-11-23 | Proposed | [CASE-400](../../record/cases.d/CASE-400.md) | 2 | 5 | 0 | Correct once in two hundred samples |
 | 2026-11-23 | Proposed | [CASE-413](../../record/cases.d/CASE-413.md) | 2 | 5 | 0 | Fact accessible under one cue only |
 | 2026-11-24 | Proposed | [CASE-427](../../record/cases.d/CASE-427.md) | 2 | 13 | 0 | Priority inversion on one processor |
-| 2026-10-26 | Proposed | [CASE-166](../../record/cases.d/CASE-166.md) | 1 | 33 | 1 | Northstar as a multilevel simulation |
+| 2026-10-26 | Proposed | [CASE-166](../../record/cases.d/CASE-166.md) | 1 | 34 | 1 | Northstar as a multilevel simulation |
 | 2026-10-26 | Proposed | [CASE-164](../../record/cases.d/CASE-164.md) | 1 | 29 | 3 | A 192-state organization's closure verdicts |
 | 2026-11-04 | Proposed | [CASE-194](../../record/cases.d/CASE-194.md) | 1 | 48 | 5 | Three organizations failing at 50% |
 | 2026-11-04 | Proposed | [CASE-210](../../record/cases.d/CASE-210.md) | 1 | 37 | 5 | Two departments, one deadline extrication |
@@ -2559,7 +2736,6 @@
 | 2026-11-22 | Proposed | [CASE-314](../../record/cases.d/CASE-314.md) | 1 | 15 | 0 | Refitting Tatel and Ackerman's data by task |
 | 2026-11-22 | Proposed | [CASE-320](../../record/cases.d/CASE-320.md) | 1 | 15 | 0 | Bourrat's individuality measures computed |
 | 2026-11-22 | Proposed | [CASE-317](../../record/cases.d/CASE-317.md) | 1 | 12 | 0 | Coupled meaning–influence model run |
-| 2026-11-22 | Proposed | [CASE-307](../../record/cases.d/CASE-307.md) | 1 | 11 | 0 | Revision rates of claims with inbound edges |
 | 2026-11-22 | Proposed | [CASE-313](../../record/cases.d/CASE-313.md) | 1 | 11 | 0 | Removing the core of Ito and Kaneko's network |
 | 2026-11-22 | Proposed | [CASE-340](../../record/cases.d/CASE-340.md) | 1 | 11 | 0 | Small DeGroot groups, wrong consensus |
 | 2026-11-22 | Proposed | [CASE-374](../../record/cases.d/CASE-374.md) | 1 | 11 | 5 | Assembly chain with two alternative seams |
@@ -2592,6 +2768,10 @@
 | 2026-11-22 | Proposed | [CASE-381](../../record/cases.d/CASE-381.md) | 1 | 4 | 0 | Block aggregates in nearly decomposable VAR |
 | 2026-11-24 | Proposed | [CASE-425](../../record/cases.d/CASE-425.md) | 1 | 5 | 0 | The presidential two-term tradition |
 | 2026-11-24 | Proposed | [CASE-423](../../record/cases.d/CASE-423.md) | 1 | 4 | 0 | Retention under switching costs |
+| 2026-11-26 | Proposed | [CASE-428](../../record/cases.d/CASE-428.md) | 1 | 8 | 0 | The tobacco industry's management of demand and doubt |
+| 2026-11-26 | Proposed | [CASE-429](../../record/cases.d/CASE-429.md) | 1 | 6 | 0 | Facebook's meaningful-interactions ranking, 2018 |
+| 2026-11-26 | Proposed | [CASE-431](../../record/cases.d/CASE-431.md) | 1 | 6 | 0 | Volkswagen's emissions defeat device |
+| 2026-11-26 | Proposed | [CASE-432](../../record/cases.d/CASE-432.md) | 1 | 6 | 1 | The collapse of the northern cod fishery |
 | 2026-10-04 | Deferred | [CASE-014](../../record/cases.d/CASE-014.md) | 0 | 8 | 1 | Microsoft, as the philosophical target |
 | 2026-10-27 | Proposed | [CASE-173](../../record/cases.d/CASE-173.md) | 0 | 30 | 2 | Aphids and Buchnera |
 | 2026-10-27 | Proposed | [CASE-177](../../record/cases.d/CASE-177.md) | 0 | 25 | 3 | Hodgkinia in cicadas |
@@ -2624,20 +2804,20 @@
 | 2026-11-07 | Proposed | [CASE-230](../../record/cases.d/CASE-230.md) | 0 | 14 | 0 | Applying "anti-vax", a matched study |
 | 2026-11-12 | Proposed | [CASE-257](../../record/cases.d/CASE-257.md) | 0 | 52 | 0 | Public theatres of colonial Saint-Domingue |
 | 2026-11-12 | Proposed | [CASE-239](../../record/cases.d/CASE-239.md) | 0 | 50 | 1 | Forager learning its own failure criteria |
-| 2026-11-12 | Proposed | [CASE-255](../../record/cases.d/CASE-255.md) | 0 | 39 | 1 | Procedure improvement across generations |
+| 2026-11-12 | Proposed | [CASE-255](../../record/cases.d/CASE-255.md) | 0 | 40 | 1 | Procedure improvement across generations |
 | 2026-11-12 | Proposed | [CASE-253](../../record/cases.d/CASE-253.md) | 0 | 38 | 1 | Governed schema adaptation |
 | 2026-11-12 | Proposed | [CASE-235](../../record/cases.d/CASE-235.md) | 0 | 28 | 0 | Character consistency: LoRA or references |
 | 2026-11-12 | Proposed | [CASE-248](../../record/cases.d/CASE-248.md) | 0 | 26 | 0 | Loot-box economies and minority spending |
 | 2026-11-12 | Proposed | [CASE-249](../../record/cases.d/CASE-249.md) | 0 | 26 | 0 | Tolerance-indexed pass rate for demands |
 | 2026-11-12 | Proposed | [CASE-251](../../record/cases.d/CASE-251.md) | 0 | 16 | 0 | Curation completeness study |
+| 2026-11-12 | Proposed | [CASE-252](../../record/cases.d/CASE-252.md) | 0 | 16 | 0 | Evidence integration on HiddenBench |
 | 2026-11-12 | Proposed | [CASE-234](../../record/cases.d/CASE-234.md) | 0 | 15 | 0 | Character LoRA break-even across model generations |
-| 2026-11-12 | Proposed | [CASE-252](../../record/cases.d/CASE-252.md) | 0 | 15 | 0 | Evidence integration on HiddenBench |
 | 2026-11-12 | Proposed | [CASE-254](../../record/cases.d/CASE-254.md) | 0 | 15 | 0 | One surface failure, several hidden causes |
 | 2026-11-12 | Proposed | [CASE-238](../../record/cases.d/CASE-238.md) | 0 | 10 | 1 | The fail-safe relay |
 | 2026-11-12 | Proposed | [CASE-250](../../record/cases.d/CASE-250.md) | 0 | 6 | 0 | Engagement design against users' commitments |
-| 2026-11-12 | Proposed | [CASE-237](../../record/cases.d/CASE-237.md) | 0 | 2 | 0 | Complementary capacities that decorrelate |
+| 2026-11-12 | Proposed | [CASE-237](../../record/cases.d/CASE-237.md) | 0 | 3 | 0 | Complementary capacities that decorrelate |
 | 2026-11-13 | Proposed | [CASE-261](../../record/cases.d/CASE-261.md) | 0 | 14 | 0 | The stipulated AI hospital network |
-| 2026-11-13 | Proposed | [CASE-262](../../record/cases.d/CASE-262.md) | 0 | 13 | 0 | Assisted learning: doing versus scaffolding |
+| 2026-11-13 | Proposed | [CASE-262](../../record/cases.d/CASE-262.md) | 0 | 14 | 0 | Assisted learning: doing versus scaffolding |
 | 2026-11-13 | Proposed | [CASE-263](../../record/cases.d/CASE-263.md) | 0 | 10 | 0 | Regressive progress, a stipulated pair |
 | 2026-11-14 | Proposed | [CASE-258](../../record/cases.d/CASE-258.md) | 0 | 3 | 0 | Fairy circles in Sun's kernel model, rerun |
 | 2026-11-15 | Proposed | [CASE-274](../../record/cases.d/CASE-274.md) | 0 | 32 | 1 | Forgetting of synthetic facts in transformers |
@@ -2657,7 +2837,7 @@
 | 2026-11-17 | Proposed | [CASE-291](../../record/cases.d/CASE-291.md) | 0 | 11 | 0 | Identical harm, different histories of incapacity |
 | 2026-11-18 | Proposed | [CASE-293](../../record/cases.d/CASE-293.md) | 0 | 18 | 2 | Postmortems coded for organizational level |
 | 2026-11-19 | Proposed | [CASE-294](../../record/cases.d/CASE-294.md) | 0 | 69 | 6 | Acquisition budgets across Pythia checkpoints |
-| 2026-11-19 | Proposed | [CASE-296](../../record/cases.d/CASE-296.md) | 0 | 34 | 0 | Genres and audiences found by engagement |
+| 2026-11-19 | Proposed | [CASE-296](../../record/cases.d/CASE-296.md) | 0 | 36 | 0 | Genres and audiences found by engagement |
 | 2026-11-19 | Proposed | [CASE-297](../../record/cases.d/CASE-297.md) | 0 | 14 | 2 | Subcommunities forming on Reddit |
 | 2026-11-19 | Proposed | [CASE-298](../../record/cases.d/CASE-298.md) | 0 | 5 | 0 | Identity learning across checkpoints |
 | 2026-11-21 | Proposed | [CASE-304](../../record/cases.d/CASE-304.md) | 0 | 1 | 0 | HKB coordination mode near a capacity fold |
@@ -2681,57 +2861,64 @@
 
 ## TERMs
 
-82 of the 3020.
+94 of the 3226.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
+| 2026-10-23 | Proposed | [TERM-076](../../record/terms.d/TERM-076.md) | 24 | 152 | 29 | goal-conduciveness valence |
 | 2026-11-20 | Proposed | [TERM-132](../../record/terms.d/TERM-132.md) | 19 | 11 | 0 | local degrees of freedom |
-| 2026-11-19 | Proposed | [TERM-131](../../record/terms.d/TERM-131.md) | 17 | 48 | 10 | learning |
+| 2026-11-19 | Proposed | [TERM-131](../../record/terms.d/TERM-131.md) | 17 | 50 | 11 | learning |
+| 2026-11-24 | Proposed | [TERM-179](../../record/terms.d/TERM-179.md) | 17 | 13 | 0 | greedy agency |
 | 2026-11-21 | Proposed | [TERM-134](../../record/terms.d/TERM-134.md) | 16 | 26 | 2 | predicate |
-| 2026-10-23 | Proposed | [TERM-076](../../record/terms.d/TERM-076.md) | 15 | 122 | 23 | goal-conduciveness valence |
+| 2026-11-22 | Proposed | [TERM-151](../../record/terms.d/TERM-151.md) | 16 | 24 | 1 | direction of fit |
+| 2026-11-24 | Proposed | [TERM-172](../../record/terms.d/TERM-172.md) | 16 | 10 | 0 | meme |
 | 2026-11-17 | Proposed | [TERM-127](../../record/terms.d/TERM-127.md) | 15 | 59 | 0 | responsibility |
 | 2026-11-21 | Proposed | [TERM-135](../../record/terms.d/TERM-135.md) | 15 | 35 | 0 | hyperribbon |
-| 2026-11-22 | Proposed | [TERM-151](../../record/terms.d/TERM-151.md) | 15 | 24 | 1 | direction of fit |
+| 2026-11-26 | Proposed | [TERM-186](../../record/terms.d/TERM-186.md) | 15 | 18 | 0 | availability |
 | 2026-11-07 | Proposed | [TERM-118](../../record/terms.d/TERM-118.md) | 14 | 56 | 3 | disposition |
-| 2026-11-24 | Proposed | [TERM-172](../../record/terms.d/TERM-172.md) | 13 | 10 | 0 | meme |
+| 2026-11-13 | Proposed | [TERM-124](../../record/terms.d/TERM-124.md) | 12 | 111 | 0 | domination |
 | 2026-11-21 | Proposed | [TERM-136](../../record/terms.d/TERM-136.md) | 12 | 20 | 0 | dimension (of a representation) |
-| 2026-11-13 | Proposed | [TERM-124](../../record/terms.d/TERM-124.md) | 11 | 111 | 0 | domination |
-| 2026-11-22 | Proposed | [TERM-166](../../record/terms.d/TERM-166.md) | 9 | 25 | 1 | pseudo-self |
-| 2026-10-27 | Proposed | [TERM-083](../../record/terms.d/TERM-083.md) | 8 | 66 | 4 | moral standing |
+| 2026-10-27 | Proposed | [TERM-083](../../record/terms.d/TERM-083.md) | 11 | 66 | 4 | moral standing |
+| 2026-11-04 | Proposed | [TERM-108](../../record/terms.d/TERM-108.md) | 10 | 45 | 5 | proxy objective |
+| 2026-11-22 | Proposed | [TERM-166](../../record/terms.d/TERM-166.md) | 9 | 26 | 1 | pseudo-self |
+| 2026-11-24 | Proposed | [TERM-171](../../record/terms.d/TERM-171.md) | 8 | 11 | 0 | agnotological character |
 | 2026-11-12 | Proposed | [TERM-119](../../record/terms.d/TERM-119.md) | 7 | 17 | 0 | shared epistemic state |
 | 2026-11-23 | Proposed | [TERM-158](../../record/terms.d/TERM-158.md) | 7 | 21 | 0 | richness |
+| 2026-11-26 | Proposed | [TERM-181](../../record/terms.d/TERM-181.md) | 7 | 12 | 0 | optimization jurisdiction |
 | 2026-11-21 | Proposed | [TERM-140](../../record/terms.d/TERM-140.md) | 6 | 37 | 0 | sloppy |
+| 2026-10-31 | Proposed | [TERM-098](../../record/terms.d/TERM-098.md) | 5 | 66 | 11 | concept |
 | 2026-11-17 | Proposed | [TERM-129](../../record/terms.d/TERM-129.md) | 5 | 24 | 0 | capability |
 | 2026-11-21 | Proposed | [TERM-139](../../record/terms.d/TERM-139.md) | 5 | 15 | 0 | relevant, irrelevant and marginal |
 | 2026-11-22 | Proposed | [TERM-154](../../record/terms.d/TERM-154.md) | 5 | 20 | 0 | witness |
 | 2026-11-22 | Proposed | [TERM-153](../../record/terms.d/TERM-153.md) | 5 | 18 | 0 | certificate |
-| 2026-10-31 | Proposed | [TERM-098](../../record/terms.d/TERM-098.md) | 4 | 66 | 11 | concept |
+| 2026-10-21 | Proposed | [TERM-066](../../record/terms.d/TERM-066.md) | 4 | 38 | 0 | interpretive capture |
+| 2026-11-04 | Proposed | [TERM-104](../../record/terms.d/TERM-104.md) | 4 | 15 | 0 | motivating perspective |
 | 2026-11-13 | Proposed | [TERM-123](../../record/terms.d/TERM-123.md) | 4 | 35 | 1 | exploitation |
 | 2026-11-21 | Proposed | [TERM-141](../../record/terms.d/TERM-141.md) | 4 | 23 | 0 | predictive information |
 | 2026-11-21 | Proposed | [TERM-142](../../record/terms.d/TERM-142.md) | 4 | 18 | 0 | scale-free |
 | 2026-11-21 | Proposed | [TERM-133](../../record/terms.d/TERM-133.md) | 4 | 4 | 0 | stabilization |
 | 2026-11-22 | Proposed | [TERM-152](../../record/terms.d/TERM-152.md) | 4 | 17 | 0 | specification |
-| 2026-11-24 | Proposed | [TERM-171](../../record/terms.d/TERM-171.md) | 4 | 11 | 0 | agnotological character |
 | 2026-11-25 | Proposed | [TERM-177](../../record/terms.d/TERM-177.md) | 4 | 6 | 0 | feed |
+| 2026-11-26 | Proposed | [TERM-185](../../record/terms.d/TERM-185.md) | 4 | 11 | 0 | potential consequentiality |
 | 2026-10-04 | Deferred | [TERM-012](../../record/terms.d/TERM-012.md) | 3 | 18 | 0 | cross-scale concordance |
 | 2026-10-04 | Deferred | [TERM-006](../../record/terms.d/TERM-006.md) | 3 | 15 | 1 | organizational authenticity |
-| 2026-11-22 | Proposed | [TERM-162](../../record/terms.d/TERM-162.md) | 3 | 15 | 0 | harmonious integration |
+| 2026-11-22 | Proposed | [TERM-162](../../record/terms.d/TERM-162.md) | 3 | 16 | 0 | harmonious integration |
 | 2026-11-22 | Proposed | [TERM-143](../../record/terms.d/TERM-143.md) | 3 | 11 | 0 | bulk |
-| 2026-11-24 | Proposed | [TERM-179](../../record/terms.d/TERM-179.md) | 3 | 7 | 0 | greedy agency |
-| 2026-10-27 | Proposed | [TERM-087](../../record/terms.d/TERM-087.md) | 2 | 24 | 6 | cut |
-| 2026-11-04 | Proposed | [TERM-108](../../record/terms.d/TERM-108.md) | 2 | 32 | 1 | proxy objective |
+| 2026-10-27 | Proposed | [TERM-087](../../record/terms.d/TERM-087.md) | 2 | 22 | 3 | cut |
 | 2026-11-04 | Proposed | [TERM-110](../../record/terms.d/TERM-110.md) | 2 | 32 | 5 | ratchet effect |
-| 2026-11-04 | Proposed | [TERM-104](../../record/terms.d/TERM-104.md) | 2 | 13 | 0 | motivating perspective |
 | 2026-11-21 | Proposed | [TERM-137](../../record/terms.d/TERM-137.md) | 2 | 13 | 0 | weak direction |
 | 2026-11-22 | Proposed | [TERM-146](../../record/terms.d/TERM-146.md) | 2 | 13 | 0 | emergence (predictive efficiency) |
 | 2026-11-22 | Proposed | [TERM-147](../../record/terms.d/TERM-147.md) | 2 | 13 | 0 | independent scoring |
 | 2026-11-22 | Proposed | [TERM-145](../../record/terms.d/TERM-145.md) | 2 | 12 | 0 | Matthew effect |
 | 2026-11-22 | Proposed | [TERM-161](../../record/terms.d/TERM-161.md) | 2 | 11 | 0 | singularity |
 | 2026-11-22 | Proposed | [TERM-155](../../record/terms.d/TERM-155.md) | 2 | 7 | 0 | determinacy cover |
-| 2026-11-23 | Proposed | [TERM-164](../../record/terms.d/TERM-164.md) | 2 | 15 | 0 | destructive lock-in |
+| 2026-11-23 | Proposed | [TERM-164](../../record/terms.d/TERM-164.md) | 2 | 16 | 0 | destructive lock-in |
 | 2026-11-23 | Proposed | [TERM-157](../../record/terms.d/TERM-157.md) | 2 | 2 | 0 | epistemic ecological intelligence |
 | 2026-11-24 | Proposed | [TERM-174](../../record/terms.d/TERM-174.md) | 2 | 16 | 0 | operational standing |
-| 2026-10-21 | Proposed | [TERM-066](../../record/terms.d/TERM-066.md) | 1 | 36 | 0 | interpretive capture |
+| 2026-11-26 | Proposed | [TERM-182](../../record/terms.d/TERM-182.md) | 2 | 10 | 0 | consolidation |
+| 2026-11-26 | Proposed | [TERM-180](../../record/terms.d/TERM-180.md) | 2 | 9 | 0 | constitutional capability |
+| 2026-11-27 | Proposed | [TERM-183](../../record/terms.d/TERM-183.md) | 2 | 5 | 0 | Goodhart effect |
+| 2026-11-27 | Proposed | [TERM-190](../../record/terms.d/TERM-190.md) | 2 | 4 | 1 | Campbell effect |
 | 2026-10-27 | Proposed | [TERM-086](../../record/terms.d/TERM-086.md) | 1 | 44 | 11 | organizational achievement |
 | 2026-11-05 | Proposed | [TERM-111](../../record/terms.d/TERM-111.md) | 1 | 14 | 0 | universality |
 | 2026-11-16 | Proposed | [TERM-125](../../record/terms.d/TERM-125.md) | 1 | 35 | 1 | independent execution gate |
@@ -2760,24 +2947,29 @@
 | 2026-11-13 | Proposed | [TERM-121](../../record/terms.d/TERM-121.md) | 0 | 4 | 0 | cultural reflexivity |
 | 2026-11-17 | Proposed | [TERM-130](../../record/terms.d/TERM-130.md) | 0 | 22 | 0 | protected contestability |
 | 2026-11-21 | Proposed | [TERM-138](../../record/terms.d/TERM-138.md) | 0 | 18 | 1 | separation |
-| 2026-11-22 | Proposed | [TERM-167](../../record/terms.d/TERM-167.md) | 0 | 29 | 0 | reorganization viability kernel |
+| 2026-11-22 | Proposed | [TERM-167](../../record/terms.d/TERM-167.md) | 0 | 43 | 0 | reorganization viability kernel |
 | 2026-11-22 | Proposed | [TERM-144](../../record/terms.d/TERM-144.md) | 0 | 8 | 0 | Gibrat's law |
 | 2026-11-23 | Deferred | [TERM-159](../../record/terms.d/TERM-159.md) | 0 | 17 | 0 | inquiry frontier (question–answer) |
 | 2026-11-23 | Proposed | [TERM-163](../../record/terms.d/TERM-163.md) | 0 | 9 | 0 | adaptive inquiry readiness |
 | 2026-11-24 | Proposed | [TERM-178](../../record/terms.d/TERM-178.md) | 0 | 4 | 0 | constitutional regeneration |
 | 2026-11-24 | Proposed | [TERM-176](../../record/terms.d/TERM-176.md) | 0 | 3 | 1 | organizational contract |
-| 2026-11-24 | Proposed | [TERM-173](../../record/terms.d/TERM-173.md) | 0 | 1 | 0 | measurement naivety |
+| 2026-11-24 | Proposed | [TERM-173](../../record/terms.d/TERM-173.md) | 0 | 2 | 0 | measurement naivety |
+| 2026-11-26 | Proposed | [TERM-188](../../record/terms.d/TERM-188.md) | 0 | 4 | 0 | outcome valence (Lewin's sense) |
+| 2026-11-26 | Proposed | [TERM-189](../../record/terms.d/TERM-189.md) | 0 | 4 | 0 | institutional developmental freedom |
+| 2026-11-27 | Proposed | [TERM-187](../../record/terms.d/TERM-187.md) | 0 | 6 | 1 | delusion co-created with a chatbot |
+| 2026-11-27 | Proposed | [TERM-191](../../record/terms.d/TERM-191.md) | 0 | 4 | 1 | delusion about a chatbot |
+| 2026-11-27 | Proposed | [TERM-184](../../record/terms.d/TERM-184.md) | 0 | 3 | 0 | shortcut (in a learning system) |
 
 ## ARGs
 
-193 of the 3020.
+200 of the 3226.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
 | 2026-10-05 | Proposed | [ARG-005](../../record/arguments.d/ARG-005.md) | 0 | 15 | 1 | Reluctant writer → regime set by relations |
 | 2026-10-05 | Proposed | [ARG-009](../../record/arguments.d/ARG-009.md) | 0 | 12 | 1 | Northstar-A and -B → regime set by relations |
 | 2026-10-28 | Proposed | [ARG-025](../../record/arguments.d/ARG-025.md) | 0 | 50 | 6 | Matched trajectories → organizational self |
-| 2026-10-28 | Proposed | [ARG-028](../../record/arguments.d/ARG-028.md) | 0 | 38 | 6 | Anchoring measures → persistence and drift |
+| 2026-10-28 | Proposed | [ARG-028](../../record/arguments.d/ARG-028.md) | 0 | 39 | 6 | Anchoring measures → persistence and drift |
 | 2026-10-28 | Proposed | [ARG-033](../../record/arguments.d/ARG-033.md) | 0 | 35 | 11 | Saussure's value → reconstructible distinctions |
 | 2026-10-28 | Proposed | [ARG-036](../../record/arguments.d/ARG-036.md) | 0 | 30 | 8 | Restricted lab models → habit to insight regimes |
 | 2026-10-28 | Proposed | [ARG-016](../../record/arguments.d/ARG-016.md) | 0 | 26 | 2 | Coordination dynamics → flow as valuations met |
@@ -2967,21 +3159,41 @@
 | 2026-11-25 | Proposed | [ARG-253](../../record/arguments.d/ARG-253.md) | 0 | 8 | 0 | Martin-Löf's subsets → typed specification |
 | 2026-11-25 | Proposed | [ARG-249](../../record/arguments.d/ARG-249.md) | 0 | 5 | 0 | Martin-Löf's readings → typed specification |
 | 2026-11-25 | Proposed | [ARG-250](../../record/arguments.d/ARG-250.md) | 0 | 2 | 0 | Unasserted inference graph → inquiry as atlas |
+| 2026-11-26 | Proposed | [ARG-262](../../record/arguments.d/ARG-262.md) | 0 | 8 | 0 | The filing rule, generalized from admission to availability, prices an entry's tier |
+| 2026-11-26 | Proposed | [ARG-268](../../record/arguments.d/ARG-268.md) | 0 | 7 | 0 | The corroborates decision, as an existence case, shows a grammar revision making a distinction consequential |
+| 2026-11-26 | Proposed | [ARG-263](../../record/arguments.d/ARG-263.md) | 0 | 5 | 0 | The record's capacity model, extended to two capacities, supports the Luddite objection for capacity and not for dependency |
+| 2026-11-26 | Proposed | [ARG-267](../../record/arguments.d/ARG-267.md) | 0 | 3 | 0 | Matched-age revision rates, as evidence, show reliance and revision coupled |
+| 2026-11-26 | Proposed | [ARG-264](../../record/arguments.d/ARG-264.md) | 0 | 2 | 0 | The paperclip maximizer, by analogy, carries to the firm and the attention economy for a narrow criterion steering behaviour, not for unbounded maximization |
+| 2026-11-27 | Proposed | [ARG-269](../../record/arguments.d/ARG-269.md) | 0 | 5 | 1 | Denison et al.'s curriculum results, as evidence, favour specification gaming over influence on the evaluator only through the model's stated reasoning, and do not discriminate between them |
+| 2026-11-27 | Proposed | [ARG-270](../../record/arguments.d/ARG-270.md) | 0 | 3 | 1 | Lu et al.'s drift result, as evidence, supports the model's priors as the attractor only together with the user's steering |
 
-## SYNTHESISs
+## DISTINCTIONs
 
-115 of the 3020.
+6 of the 3226.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
-| 2026-11-07 | Proposed | [SYNTHESIS-015](../../record/syntheses.d/SYNTHESIS-015.md) | 0 | 15 | 8 | Anchoring entrenches; filing pays only on reuse |
+| 2026-11-27 | Proposed | [DISTINCTION-001](../../record/distinctions.d/DISTINCTION-001.md) | 2 | 2 | 2 | An evaluator can be gamed from inside, by a learner trained on it, or from outside |
+| 2026-11-26 | Proposed | [DISTINCTION-004](../../record/distinctions.d/DISTINCTION-004.md) | 1 | 4 | 4 | Goal-conduciveness valence is not an outcome's pull |
+| 2026-11-27 | Proposed | [DISTINCTION-002](../../record/distinctions.d/DISTINCTION-002.md) | 0 | 9 | 9 | A shortcut fails its objective off the family; a proxy optimum satisfies it |
+| 2026-11-27 | Proposed | [DISTINCTION-003](../../record/distinctions.d/DISTINCTION-003.md) | 0 | 8 | 8 | The Goodhart effect corrupts the measure; the Campbell effect corrupts the measured |
+| 2026-11-27 | Proposed | [DISTINCTION-006](../../record/distinctions.d/DISTINCTION-006.md) | 0 | 6 | 6 | A delusion about a chatbot is not one co-created with it |
+| 2026-11-27 | Proposed | [DISTINCTION-005](../../record/distinctions.d/DISTINCTION-005.md) | 0 | 3 | 3 | Three sources of a co-created delusion's themes |
+
+## SYNTHESISs
+
+116 of the 3226.
+
+| Open since | Status | Code | Relied on | Cited | Unack. | Title |
+|---|---|---|--:|--:|--:|---|
+| 2026-11-07 | Proposed | [SYNTHESIS-015](../../record/syntheses.d/SYNTHESIS-015.md) | 0 | 16 | 8 | Anchoring entrenches; filing pays only on reuse |
 | 2026-11-07 | Proposed | [SYNTHESIS-013](../../record/syntheses.d/SYNTHESIS-013.md) | 0 | 14 | 8 | Addressability, not storage, nucleates argument |
+| 2026-11-07 | Proposed | [SYNTHESIS-012](../../record/syntheses.d/SYNTHESIS-012.md) | 0 | 11 | 3 | The record's grammar is an amendable apparatus |
 | 2026-11-07 | Proposed | [SYNTHESIS-014](../../record/syntheses.d/SYNTHESIS-014.md) | 0 | 11 | 8 | Memoryless exchanges lose what was said |
-| 2026-11-07 | Proposed | [SYNTHESIS-012](../../record/syntheses.d/SYNTHESIS-012.md) | 0 | 10 | 3 | The record's grammar is an amendable apparatus |
-| 2026-11-07 | Proposed | [SYNTHESIS-016](../../record/syntheses.d/SYNTHESIS-016.md) | 0 | 9 | 4 | Nucleating-argument: three accounts, one rule |
-| 2026-11-07 | Proposed | [SYNTHESIS-017](../../record/syntheses.d/SYNTHESIS-017.md) | 0 | 6 | 3 | Records secure traceability, not correctness |
+| 2026-11-07 | Proposed | [SYNTHESIS-016](../../record/syntheses.d/SYNTHESIS-016.md) | 0 | 11 | 4 | Nucleating-argument: three accounts, one rule |
+| 2026-11-07 | Proposed | [SYNTHESIS-017](../../record/syntheses.d/SYNTHESIS-017.md) | 0 | 9 | 3 | Records secure traceability, not correctness |
+| 2026-11-10 | Proposed | [SYNTHESIS-024](../../record/syntheses.d/SYNTHESIS-024.md) | 0 | 28 | 17 | Transitions need a peak resource budgets miss |
 | 2026-11-10 | Proposed | [SYNTHESIS-027](../../record/syntheses.d/SYNTHESIS-027.md) | 0 | 25 | 19 | Low use does not show a reserve is waste |
-| 2026-11-10 | Proposed | [SYNTHESIS-024](../../record/syntheses.d/SYNTHESIS-024.md) | 0 | 24 | 17 | Transitions need a peak resource budgets miss |
 | 2026-11-10 | Proposed | [SYNTHESIS-032](../../record/syntheses.d/SYNTHESIS-032.md) | 0 | 24 | 18 | Safe withdrawal of support: one joint claim |
 | 2026-11-10 | Proposed | [SYNTHESIS-020](../../record/syntheses.d/SYNTHESIS-020.md) | 0 | 23 | 16 | Organizational valence is a negotiated potential |
 | 2026-11-10 | Proposed | [SYNTHESIS-026](../../record/syntheses.d/SYNTHESIS-026.md) | 0 | 19 | 13 | Shared descent needs a chart-invariant test |
@@ -2997,20 +3209,20 @@
 | 2026-11-10 | Proposed | [SYNTHESIS-021](../../record/syntheses.d/SYNTHESIS-021.md) | 0 | 3 | 2 | Organizational affect: three accounts on valence |
 | 2026-11-10 | Proposed | [SYNTHESIS-031](../../record/syntheses.d/SYNTHESIS-031.md) | 0 | 3 | 0 | Readiness: two accounts meeting at budget rules |
 | 2026-11-10 | Proposed | [SYNTHESIS-019](../../record/syntheses.d/SYNTHESIS-019.md) | 0 | 2 | 1 | Experience thesis: sufficiency still unstated |
-| 2026-11-11 | Proposed | [SYNTHESIS-042](../../record/syntheses.d/SYNTHESIS-042.md) | 0 | 39 | 34 | What a budget reaches is not what it holds |
+| 2026-11-11 | Proposed | [SYNTHESIS-042](../../record/syntheses.d/SYNTHESIS-042.md) | 0 | 41 | 34 | What a budget reaches is not what it holds |
+| 2026-11-11 | Proposed | [SYNTHESIS-040](../../record/syntheses.d/SYNTHESIS-040.md) | 0 | 33 | 20 | Two budgets index individuation, run opposite |
 | 2026-11-11 | Proposed | [SYNTHESIS-038](../../record/syntheses.d/SYNTHESIS-038.md) | 0 | 31 | 3 | Organizational normativity: four accounts mapped |
-| 2026-11-11 | Proposed | [SYNTHESIS-040](../../record/syntheses.d/SYNTHESIS-040.md) | 0 | 30 | 20 | Two budgets index individuation, run opposite |
 | 2026-11-11 | Proposed | [SYNTHESIS-046](../../record/syntheses.d/SYNTHESIS-046.md) | 0 | 30 | 18 | Persisting through modes; histories need not glue |
 | 2026-11-11 | Proposed | [SYNTHESIS-036](../../record/syntheses.d/SYNTHESIS-036.md) | 0 | 27 | 0 | Maintained efficacy relations decide the regime |
 | 2026-11-11 | Proposed | [SYNTHESIS-041](../../record/syntheses.d/SYNTHESIS-041.md) | 0 | 27 | 0 | Freedom of will comes in separable degrees |
 | 2026-11-11 | Proposed | [SYNTHESIS-039](../../record/syntheses.d/SYNTHESIS-039.md) | 0 | 23 | 0 | Stability of a regime does not entail viability |
 | 2026-11-11 | Proposed | [SYNTHESIS-045](../../record/syntheses.d/SYNTHESIS-045.md) | 0 | 22 | 18 | Resource amount does not fix assembly success |
 | 2026-11-11 | Proposed | [SYNTHESIS-068](../../record/syntheses.d/SYNTHESIS-068.md) | 0 | 22 | 2 | Probing a kind does not fix what constitutes it |
+| 2026-11-11 | Proposed | [SYNTHESIS-050](../../record/syntheses.d/SYNTHESIS-050.md) | 0 | 20 | 0 | Grant scoring decides if authority entrenches |
 | 2026-11-11 | Proposed | [SYNTHESIS-054](../../record/syntheses.d/SYNTHESIS-054.md) | 0 | 20 | 5 | A gap-isolated block is proposed as one system |
 | 2026-11-11 | Proposed | [SYNTHESIS-037](../../record/syntheses.d/SYNTHESIS-037.md) | 0 | 19 | 0 | Divided interests can still act as one |
+| 2026-11-11 | Proposed | [SYNTHESIS-051](../../record/syntheses.d/SYNTHESIS-051.md) | 0 | 19 | 1 | Frustration is ordinal; relief enlarges it |
 | 2026-11-11 | Proposed | [SYNTHESIS-075](../../record/syntheses.d/SYNTHESIS-075.md) | 0 | 19 | 0 | An effective description is adequate per regime |
-| 2026-11-11 | Proposed | [SYNTHESIS-050](../../record/syntheses.d/SYNTHESIS-050.md) | 0 | 18 | 0 | Grant scoring decides if authority entrenches |
-| 2026-11-11 | Proposed | [SYNTHESIS-051](../../record/syntheses.d/SYNTHESIS-051.md) | 0 | 18 | 0 | Frustration is ordinal; relief enlarges it |
 | 2026-11-11 | Proposed | [SYNTHESIS-044](../../record/syntheses.d/SYNTHESIS-044.md) | 0 | 17 | 0 | Regulatory difficulty is frustration of demands |
 | 2026-11-11 | Proposed | [SYNTHESIS-048](../../record/syntheses.d/SYNTHESIS-048.md) | 0 | 17 | 1 | Interconnection to individuation: a partial order |
 | 2026-11-11 | Proposed | [SYNTHESIS-076](../../record/syntheses.d/SYNTHESIS-076.md) | 0 | 17 | 1 | Reaching under a budget is not holding |
@@ -3023,6 +3235,7 @@
 | 2026-11-11 | Proposed | [SYNTHESIS-057](../../record/syntheses.d/SYNTHESIS-057.md) | 0 | 10 | 2 | Deployable by a deadline is not what is held |
 | 2026-11-11 | Proposed | [SYNTHESIS-074](../../record/syntheses.d/SYNTHESIS-074.md) | 0 | 10 | 0 | Joint satisfiability needs a declared comparison |
 | 2026-11-11 | Proposed | [SYNTHESIS-082](../../record/syntheses.d/SYNTHESIS-082.md) | 0 | 10 | 1 | Contextuality is failure of extension, not gluing |
+| 2026-11-11 | Proposed | [SYNTHESIS-052](../../record/syntheses.d/SYNTHESIS-052.md) | 0 | 9 | 0 | A collective's stance need not be its members' |
 | 2026-11-11 | Proposed | [SYNTHESIS-062](../../record/syntheses.d/SYNTHESIS-062.md) | 0 | 8 | 0 | Frames act on interpreters, judgements act back |
 | 2026-11-11 | Proposed | [SYNTHESIS-080](../../record/syntheses.d/SYNTHESIS-080.md) | 0 | 8 | 0 | Present stability does not show persistence |
 | 2026-11-11 | Proposed | [SYNTHESIS-084](../../record/syntheses.d/SYNTHESIS-084.md) | 0 | 8 | 0 | Whether info criteria find RG variables is open |
@@ -3030,8 +3243,8 @@
 | 2026-11-11 | Proposed | [SYNTHESIS-064](../../record/syntheses.d/SYNTHESIS-064.md) | 0 | 7 | 0 | Fidelity is relative to receivers and tasks |
 | 2026-11-11 | Proposed | [SYNTHESIS-073](../../record/syntheses.d/SYNTHESIS-073.md) | 0 | 7 | 0 | Granger and transfer entropy are only predictive |
 | 2026-11-11 | Proposed | [SYNTHESIS-035](../../record/syntheses.d/SYNTHESIS-035.md) | 0 | 6 | 0 | Will-organization: five accounts, one thesis |
-| 2026-11-11 | Proposed | [SYNTHESIS-052](../../record/syntheses.d/SYNTHESIS-052.md) | 0 | 6 | 0 | A collective's stance need not be its members' |
 | 2026-11-11 | Proposed | [SYNTHESIS-066](../../record/syntheses.d/SYNTHESIS-066.md) | 0 | 6 | 1 | Pragmatic transport: twelve parts around survival |
+| 2026-11-11 | Proposed | [SYNTHESIS-087](../../record/syntheses.d/SYNTHESIS-087.md) | 0 | 6 | 0 | Banning self-grants leaves authority amplifiable |
 | 2026-11-11 | Proposed | [SYNTHESIS-043](../../record/syntheses.d/SYNTHESIS-043.md) | 0 | 5 | 0 | Realizability: four accounts, one separation |
 | 2026-11-11 | Proposed | [SYNTHESIS-060](../../record/syntheses.d/SYNTHESIS-060.md) | 0 | 5 | 1 | Conservation laws must be derived, not borrowed |
 | 2026-11-11 | Proposed | [SYNTHESIS-049](../../record/syntheses.d/SYNTHESIS-049.md) | 0 | 4 | 0 | Distributed agency: ten parts, no further claim |
@@ -3051,44 +3264,44 @@
 | 2026-11-11 | Proposed | [SYNTHESIS-086](../../record/syntheses.d/SYNTHESIS-086.md) | 0 | 2 | 0 | Precommitment curbs capture only conditionally |
 | 2026-11-11 | Proposed | [SYNTHESIS-078](../../record/syntheses.d/SYNTHESIS-078.md) | 0 | 1 | 0 | Nothing simple identifies a productive nucleus |
 | 2026-11-11 | Proposed | [SYNTHESIS-085](../../record/syntheses.d/SYNTHESIS-085.md) | 0 | 1 | 0 | Random-map thresholds: shared sufficiency only |
-| 2026-11-11 | Proposed | [SYNTHESIS-087](../../record/syntheses.d/SYNTHESIS-087.md) | 0 | 1 | 0 | Banning self-grants leaves authority amplifiable |
-| 2026-11-12 | Proposed | [SYNTHESIS-090](../../record/syntheses.d/SYNTHESIS-090.md) | 0 | 2 | 2 | How the record as apparatus would be tested |
+| 2026-11-12 | Proposed | [SYNTHESIS-090](../../record/syntheses.d/SYNTHESIS-090.md) | 0 | 3 | 1 | How the record as apparatus would be tested |
+| 2026-11-15 | Proposed | [SYNTHESIS-094](../../record/syntheses.d/SYNTHESIS-094.md) | 0 | 39 | 0 | The wrong beyond harm and losing sight of it |
 | 2026-11-15 | Proposed | [SYNTHESIS-092](../../record/syntheses.d/SYNTHESIS-092.md) | 0 | 37 | 0 | Control of terms sorts dependence into domination |
-| 2026-11-15 | Proposed | [SYNTHESIS-094](../../record/syntheses.d/SYNTHESIS-094.md) | 0 | 37 | 0 | The wrong beyond harm and losing sight of it |
-| 2026-11-15 | Proposed | [SYNTHESIS-091](../../record/syntheses.d/SYNTHESIS-091.md) | 0 | 27 | 0 | Viability does not settle what ought to persist |
-| 2026-11-15 | Proposed | [SYNTHESIS-093](../../record/syntheses.d/SYNTHESIS-093.md) | 0 | 25 | 0 | Duties of governing what others depend on |
+| 2026-11-15 | Proposed | [SYNTHESIS-091](../../record/syntheses.d/SYNTHESIS-091.md) | 0 | 30 | 0 | Viability does not settle what ought to persist |
+| 2026-11-15 | Proposed | [SYNTHESIS-093](../../record/syntheses.d/SYNTHESIS-093.md) | 0 | 27 | 0 | Duties of governing what others depend on |
 | 2026-11-15 | Proposed | [SYNTHESIS-095](../../record/syntheses.d/SYNTHESIS-095.md) | 0 | 9 | 0 | Dependence-and-domination: six parts, no more |
-| 2026-11-17 | Proposed | [SYNTHESIS-098](../../record/syntheses.d/SYNTHESIS-098.md) | 0 | 46 | 1 | Faits accomplis foreclose remedies before review |
 | 2026-11-17 | Proposed | [SYNTHESIS-099](../../record/syntheses.d/SYNTHESIS-099.md) | 0 | 46 | 1 | Who harmed whom is not who dominated whom |
-| 2026-11-17 | Proposed | [SYNTHESIS-102](../../record/syntheses.d/SYNTHESIS-102.md) | 0 | 40 | 0 | Rights, demands and commitments are distinct |
+| 2026-11-17 | Proposed | [SYNTHESIS-098](../../record/syntheses.d/SYNTHESIS-098.md) | 0 | 45 | 0 | Faits accomplis foreclose remedies before review |
+| 2026-11-17 | Proposed | [SYNTHESIS-102](../../record/syntheses.d/SYNTHESIS-102.md) | 0 | 41 | 0 | Rights, demands and commitments are distinct |
 | 2026-11-17 | Proposed | [SYNTHESIS-104](../../record/syntheses.d/SYNTHESIS-104.md) | 0 | 38 | 4 | Accountability without blame is proposed |
-| 2026-11-17 | Proposed | [SYNTHESIS-103](../../record/syntheses.d/SYNTHESIS-103.md) | 0 | 33 | 0 | Answerability is proposed as a directed relation |
+| 2026-11-17 | Proposed | [SYNTHESIS-103](../../record/syntheses.d/SYNTHESIS-103.md) | 0 | 34 | 0 | Answerability is proposed as a directed relation |
 | 2026-11-17 | Proposed | [SYNTHESIS-101](../../record/syntheses.d/SYNTHESIS-101.md) | 0 | 23 | 0 | Grounds for a restriction are not authority |
-| 2026-11-18 | Proposed | [SYNTHESIS-100](../../record/syntheses.d/SYNTHESIS-100.md) | 0 | 13 | 6 | Depp Heard exchange: rightful power mostly recap |
+| 2026-11-18 | Proposed | [SYNTHESIS-100](../../record/syntheses.d/SYNTHESIS-100.md) | 0 | 11 | 4 | Depp Heard exchange: rightful power mostly recap |
 | 2026-11-18 | Proposed | [SYNTHESIS-096](../../record/syntheses.d/SYNTHESIS-096.md) | 0 | 9 | 6 | What a learned system retains is reader-relative |
 | 2026-11-18 | Proposed | [SYNTHESIS-097](../../record/syntheses.d/SYNTHESIS-097.md) | 0 | 7 | 6 | Modes in learned networks: a hypothesis, untested |
-| 2026-11-19 | Proposed | [SYNTHESIS-105](../../record/syntheses.d/SYNTHESIS-105.md) | 0 | 6 | 1 | Learning changes what can still be learned |
+| 2026-11-19 | Proposed | [SYNTHESIS-105](../../record/syntheses.d/SYNTHESIS-105.md) | 0 | 13 | 1 | Learning changes what can still be learned |
 | 2026-11-19 | Proposed | [SYNTHESIS-108](../../record/syntheses.d/SYNTHESIS-108.md) | 0 | 5 | 0 | Collapsing irrelevant differences reifies classes |
 | 2026-11-19 | Proposed | [SYNTHESIS-106](../../record/syntheses.d/SYNTHESIS-106.md) | 0 | 4 | 1 | Stored work can expand capability under budgets |
-| 2026-11-19 | Proposed | [SYNTHESIS-107](../../record/syntheses.d/SYNTHESIS-107.md) | 0 | 1 | 1 | Equivalence to capability: a proposed chain |
-| 2026-11-20 | Proposed | [SYNTHESIS-111](../../record/syntheses.d/SYNTHESIS-111.md) | 0 | 21 | 1 | Collective correction is a run of separable steps |
-| 2026-11-20 | Proposed | [SYNTHESIS-114](../../record/syntheses.d/SYNTHESIS-114.md) | 0 | 18 | 1 | Inquiry is specification that can revise answers |
+| 2026-11-19 | Proposed | [SYNTHESIS-107](../../record/syntheses.d/SYNTHESIS-107.md) | 0 | 2 | 1 | Equivalence to capability: a proposed chain |
+| 2026-11-20 | Proposed | [SYNTHESIS-111](../../record/syntheses.d/SYNTHESIS-111.md) | 0 | 22 | 1 | Collective correction is a run of separable steps |
+| 2026-11-20 | Proposed | [SYNTHESIS-114](../../record/syntheses.d/SYNTHESIS-114.md) | 0 | 21 | 1 | Inquiry is specification that can revise answers |
 | 2026-11-20 | Proposed | [SYNTHESIS-113](../../record/syntheses.d/SYNTHESIS-113.md) | 0 | 14 | 2 | Kept capacities decay unseen without tests |
 | 2026-11-20 | Proposed | [SYNTHESIS-109](../../record/syntheses.d/SYNTHESIS-109.md) | 0 | 13 | 1 | Seeing splits categories, acting merges them |
-| 2026-11-20 | Proposed | [SYNTHESIS-116](../../record/syntheses.d/SYNTHESIS-116.md) | 0 | 11 | 1 | Unresolved frustration occasions self-formation |
+| 2026-11-20 | Proposed | [SYNTHESIS-116](../../record/syntheses.d/SYNTHESIS-116.md) | 0 | 12 | 1 | Unresolved frustration occasions self-formation |
 | 2026-11-20 | Proposed | [SYNTHESIS-110](../../record/syntheses.d/SYNTHESIS-110.md) | 0 | 8 | 1 | Drawing and naming a distinction are settled apart |
 | 2026-11-20 | Proposed | [SYNTHESIS-115](../../record/syntheses.d/SYNTHESIS-115.md) | 0 | 6 | 1 | Transmission forgets; records secure traceability |
 | 2026-11-20 | Proposed | [SYNTHESIS-112](../../record/syntheses.d/SYNTHESIS-112.md) | 0 | 5 | 1 | Forming, keeping and moving into a capacity differ |
-| 2026-11-21 | Proposed | [SYNTHESIS-119](../../record/syntheses.d/SYNTHESIS-119.md) | 0 | 18 | 3 | A power law does not identify its mechanism |
+| 2026-11-21 | Proposed | [SYNTHESIS-119](../../record/syntheses.d/SYNTHESIS-119.md) | 0 | 19 | 3 | A power law does not identify its mechanism |
 | 2026-11-21 | Proposed | [SYNTHESIS-120](../../record/syntheses.d/SYNTHESIS-120.md) | 0 | 9 | 3 | Drawing new distinctions: parts held, stages open |
 | 2026-11-21 | Proposed | [SYNTHESIS-118](../../record/syntheses.d/SYNTHESIS-118.md) | 0 | 2 | 0 | Learning-and-inquiry: eight parts, no sequence |
 | 2026-11-21 | Proposed | [SYNTHESIS-117](../../record/syntheses.d/SYNTHESIS-117.md) | 0 | 1 | 1 | No present measure shows how open lives will go |
 | 2026-11-22 | Proposed | [SYNTHESIS-122](../../record/syntheses.d/SYNTHESIS-122.md) | 0 | 12 | 2 | First Contact RL exchange: the self thesis mapped |
-| 2026-11-23 | Proposed | [SYNTHESIS-121](../../record/syntheses.d/SYNTHESIS-121.md) | 0 | 5 | 0 | Correcting a regulator: separate achievements |
+| 2026-11-23 | Proposed | [SYNTHESIS-121](../../record/syntheses.d/SYNTHESIS-121.md) | 0 | 7 | 0 | Correcting a regulator: separate achievements |
+| 2026-11-23 | Proposed | [SYNTHESIS-124](../../record/syntheses.d/SYNTHESIS-124.md) | 0 | 5 | 0 | Use-based budgets keep routes only if drilled |
 | 2026-11-23 | Proposed | [SYNTHESIS-123](../../record/syntheses.d/SYNTHESIS-123.md) | 0 | 4 | 0 | Response speed is set by chains, not slow parts |
-| 2026-11-23 | Proposed | [SYNTHESIS-124](../../record/syntheses.d/SYNTHESIS-124.md) | 0 | 4 | 0 | Use-based budgets keep routes only if drilled |
 | 2026-11-24 | Proposed | [SYNTHESIS-125](../../record/syntheses.d/SYNTHESIS-125.md) | 0 | 8 | 1 | Memes, Contracts exchange: norms from reliance |
 | 2026-11-25 | Proposed | [SYNTHESIS-126](../../record/syntheses.d/SYNTHESIS-126.md) | 0 | 5 | 5 | Publishing over a record unbundles the paper |
+| 2026-11-26 | Proposed | [SYNTHESIS-127](../../record/syntheses.d/SYNTHESIS-127.md) | 0 | 1 | 0 | Governing possibility: what a system can still become |
 
 *Relied on* counts the documents that depend on each one, directly or transitively, through `rests_on`, `grounds`, `uses`, `presupposes` — and ranks the table, age breaking ties. An open question many documents rest on is a decision the record has already built on.
 
@@ -3096,4 +3309,4 @@ The citation count is the second axis, and it flips the priority: an old proposa
 
 This count and the reference-status report's will differ, and that is not an off-by-one. That report covers documents something actually **cites** and hasn't acknowledged; this one covers every **undecided** document. One here is missing from there for exactly one of two reasons: nothing cites it, or every citation carries an `inactive-ok` annotation.
 
-**Cited nowhere at all** (77): [THEORY-409](../../record/theory.d/THEORY-409.md), [THEORY-423](../../record/theory.d/THEORY-423.md), [THEORY-428](../../record/theory.d/THEORY-428.md), [THEORY-467](../../record/theory.d/THEORY-467.md), [THEORY-483](../../record/theory.d/THEORY-483.md), [THEORY-486](../../record/theory.d/THEORY-486.md), [THEORY-506](../../record/theory.d/THEORY-506.md), [THEORY-542](../../record/theory.d/THEORY-542.md), [THEORY-556](../../record/theory.d/THEORY-556.md), [THEORY-578](../../record/theory.d/THEORY-578.md), [THEORY-600](../../record/theory.d/THEORY-600.md), [THEORY-610](../../record/theory.d/THEORY-610.md), [THEORY-657](../../record/theory.d/THEORY-657.md), [THEORY-682](../../record/theory.d/THEORY-682.md), [THEORY-1173](../../record/theory.d/THEORY-1173.md), [THEORY-1175](../../record/theory.d/THEORY-1175.md), [THEORY-1177](../../record/theory.d/THEORY-1177.md), [THEORY-1178](../../record/theory.d/THEORY-1178.md), [THEORY-1181](../../record/theory.d/THEORY-1181.md), [THEORY-1183](../../record/theory.d/THEORY-1183.md), [THEORY-1184](../../record/theory.d/THEORY-1184.md), [THEORY-1185](../../record/theory.d/THEORY-1185.md), [THEORY-1186](../../record/theory.d/THEORY-1186.md), [THEORY-1187](../../record/theory.d/THEORY-1187.md), [THEORY-1188](../../record/theory.d/THEORY-1188.md), [THEORY-1189](../../record/theory.d/THEORY-1189.md), [THEORY-1190](../../record/theory.d/THEORY-1190.md), [THEORY-1191](../../record/theory.d/THEORY-1191.md), [THEORY-1192](../../record/theory.d/THEORY-1192.md), [THEORY-1554](../../record/theory.d/THEORY-1554.md), [THEORY-1556](../../record/theory.d/THEORY-1556.md), [LIT-2236](../../record/literature.d/LIT-2236.md), [LIT-2240](../../record/literature.d/LIT-2240.md), [LIT-2242](../../record/literature.d/LIT-2242.md), [LIT-2260](../../record/literature.d/LIT-2260.md), [LIT-2269](../../record/literature.d/LIT-2269.md), [LIT-2270](../../record/literature.d/LIT-2270.md), [ARG-076](../../record/arguments.d/ARG-076.md), [CLAIM-642](../../record/claims.d/CLAIM-642.md), [CLAIM-643](../../record/claims.d/CLAIM-643.md), [LIT-2438](../../record/literature.d/LIT-2438.md), [THEORY-1740](../../record/theory.d/THEORY-1740.md), [CLAIM-691](../../record/claims.d/CLAIM-691.md), [ARG-111](../../record/arguments.d/ARG-111.md), [THEORY-1826](../../record/theory.d/THEORY-1826.md), [THEORY-1828](../../record/theory.d/THEORY-1828.md), [THEORY-1829](../../record/theory.d/THEORY-1829.md), [THEORY-1832](../../record/theory.d/THEORY-1832.md), [THEORY-1833](../../record/theory.d/THEORY-1833.md), [THEORY-1885](../../record/theory.d/THEORY-1885.md), [THEORY-1891](../../record/theory.d/THEORY-1891.md), [THEORY-2001](../../record/theory.d/THEORY-2001.md), [THEORY-2036](../../record/theory.d/THEORY-2036.md), [CLAIM-859](../../record/claims.d/CLAIM-859.md), [CLAIM-985](../../record/claims.d/CLAIM-985.md), [CLAIM-995](../../record/claims.d/CLAIM-995.md), [ARG-225](../../record/arguments.d/ARG-225.md), [CLAIM-1079](../../record/claims.d/CLAIM-1079.md), [CLAIM-1097](../../record/claims.d/CLAIM-1097.md), [ADR-150](../../record/decisions.d/ADR-150.md), [ARG-254](../../record/arguments.d/ARG-254.md), [CLAIM-1342](../../record/claims.d/CLAIM-1342.md), [LIT-3233](../../record/literature.d/LIT-3233.md), [LIT-3197](../../record/literature.d/LIT-3197.md), [LIT-3206](../../record/literature.d/LIT-3206.md), [LIT-3212](../../record/literature.d/LIT-3212.md), [LIT-3214](../../record/literature.d/LIT-3214.md), [LIT-3223](../../record/literature.d/LIT-3223.md), [LIT-3227](../../record/literature.d/LIT-3227.md), [LIT-3240](../../record/literature.d/LIT-3240.md), [LIT-3246](../../record/literature.d/LIT-3246.md), [THEORY-1913](../../record/theory.d/THEORY-1913.md), [THEORY-1918](../../record/theory.d/THEORY-1918.md), [THEORY-1930](../../record/theory.d/THEORY-1930.md), [THEORY-1936](../../record/theory.d/THEORY-1936.md), [THEORY-1950](../../record/theory.d/THEORY-1950.md), [THEORY-1951](../../record/theory.d/THEORY-1951.md) — these are the cheapest to close, since nothing depends on the answer.
+**Cited nowhere at all** (78): [THEORY-409](../../record/theory.d/THEORY-409.md), [THEORY-423](../../record/theory.d/THEORY-423.md), [THEORY-428](../../record/theory.d/THEORY-428.md), [THEORY-467](../../record/theory.d/THEORY-467.md), [THEORY-483](../../record/theory.d/THEORY-483.md), [THEORY-486](../../record/theory.d/THEORY-486.md), [THEORY-506](../../record/theory.d/THEORY-506.md), [THEORY-542](../../record/theory.d/THEORY-542.md), [THEORY-556](../../record/theory.d/THEORY-556.md), [THEORY-578](../../record/theory.d/THEORY-578.md), [THEORY-600](../../record/theory.d/THEORY-600.md), [THEORY-610](../../record/theory.d/THEORY-610.md), [THEORY-657](../../record/theory.d/THEORY-657.md), [THEORY-682](../../record/theory.d/THEORY-682.md), [THEORY-1173](../../record/theory.d/THEORY-1173.md), [THEORY-1175](../../record/theory.d/THEORY-1175.md), [THEORY-1177](../../record/theory.d/THEORY-1177.md), [THEORY-1178](../../record/theory.d/THEORY-1178.md), [THEORY-1181](../../record/theory.d/THEORY-1181.md), [THEORY-1183](../../record/theory.d/THEORY-1183.md), [THEORY-1184](../../record/theory.d/THEORY-1184.md), [THEORY-1185](../../record/theory.d/THEORY-1185.md), [THEORY-1186](../../record/theory.d/THEORY-1186.md), [THEORY-1187](../../record/theory.d/THEORY-1187.md), [THEORY-1188](../../record/theory.d/THEORY-1188.md), [THEORY-1189](../../record/theory.d/THEORY-1189.md), [THEORY-1190](../../record/theory.d/THEORY-1190.md), [THEORY-1191](../../record/theory.d/THEORY-1191.md), [THEORY-1192](../../record/theory.d/THEORY-1192.md), [THEORY-1554](../../record/theory.d/THEORY-1554.md), [THEORY-1556](../../record/theory.d/THEORY-1556.md), [LIT-2236](../../record/literature.d/LIT-2236.md), [LIT-2240](../../record/literature.d/LIT-2240.md), [LIT-2242](../../record/literature.d/LIT-2242.md), [LIT-2260](../../record/literature.d/LIT-2260.md), [LIT-2269](../../record/literature.d/LIT-2269.md), [LIT-2270](../../record/literature.d/LIT-2270.md), [ARG-076](../../record/arguments.d/ARG-076.md), [CLAIM-642](../../record/claims.d/CLAIM-642.md), [CLAIM-643](../../record/claims.d/CLAIM-643.md), [LIT-2438](../../record/literature.d/LIT-2438.md), [THEORY-1740](../../record/theory.d/THEORY-1740.md), [CLAIM-691](../../record/claims.d/CLAIM-691.md), [ARG-111](../../record/arguments.d/ARG-111.md), [THEORY-1826](../../record/theory.d/THEORY-1826.md), [THEORY-1828](../../record/theory.d/THEORY-1828.md), [THEORY-1829](../../record/theory.d/THEORY-1829.md), [THEORY-1832](../../record/theory.d/THEORY-1832.md), [THEORY-1833](../../record/theory.d/THEORY-1833.md), [THEORY-1885](../../record/theory.d/THEORY-1885.md), [THEORY-1891](../../record/theory.d/THEORY-1891.md), [THEORY-2001](../../record/theory.d/THEORY-2001.md), [THEORY-2036](../../record/theory.d/THEORY-2036.md), [CLAIM-859](../../record/claims.d/CLAIM-859.md), [CLAIM-985](../../record/claims.d/CLAIM-985.md), [CLAIM-995](../../record/claims.d/CLAIM-995.md), [ARG-225](../../record/arguments.d/ARG-225.md), [CLAIM-1079](../../record/claims.d/CLAIM-1079.md), [CLAIM-1097](../../record/claims.d/CLAIM-1097.md), [ADR-150](../../record/decisions.d/ADR-150.md), [ARG-254](../../record/arguments.d/ARG-254.md), [CLAIM-1342](../../record/claims.d/CLAIM-1342.md), [LIT-3233](../../record/literature.d/LIT-3233.md), [LIT-3197](../../record/literature.d/LIT-3197.md), [LIT-3206](../../record/literature.d/LIT-3206.md), [LIT-3212](../../record/literature.d/LIT-3212.md), [LIT-3214](../../record/literature.d/LIT-3214.md), [LIT-3223](../../record/literature.d/LIT-3223.md), [LIT-3227](../../record/literature.d/LIT-3227.md), [LIT-3240](../../record/literature.d/LIT-3240.md), [LIT-3246](../../record/literature.d/LIT-3246.md), [CLAIM-1417](../../record/claims.d/CLAIM-1417.md), [THEORY-1913](../../record/theory.d/THEORY-1913.md), [THEORY-1918](../../record/theory.d/THEORY-1918.md), [THEORY-1930](../../record/theory.d/THEORY-1930.md), [THEORY-1936](../../record/theory.d/THEORY-1936.md), [THEORY-1950](../../record/theory.d/THEORY-1950.md), [THEORY-1951](../../record/theory.d/THEORY-1951.md) — these are the cheapest to close, since nothing depends on the answer.

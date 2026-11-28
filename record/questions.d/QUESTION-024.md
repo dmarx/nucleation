@@ -78,7 +78,7 @@ No status change.
 ## Note of 2026-11-26: von Oswald et al. (2023), read
 
 
-An analogy, no edge. [LIT-tmpuv16r](../literature.d/LIT-tmpuv16r.md) ([NOTE-tmpcktnn](../notes.d/NOTE-tmpcktnn.md)) shows a trained network
+An analogy, no edge. [LIT-3313](../literature.d/LIT-3313.md) ([NOTE-2426](../notes.d/NOTE-2426.md)) shows a trained network
 inducing, from examples in its context, a map, the fast weights Φ, that it
 then applies to new inputs. That is the formal shape of inducing a frame
 from examples of behaviour. The paper's tasks are synthetic regression,
