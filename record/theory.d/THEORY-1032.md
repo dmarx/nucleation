@@ -35,6 +35,7 @@ history:
     (17% to 45%) as half its evidence. No other change.
 tags:
 - representation-learning
+- sycophancy
 - agency
 date: '2026-10-27'
 source:

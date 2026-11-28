@@ -22,6 +22,7 @@ statement: >-
 version: 1
 tags:
 - agency
+- persuasion-and-influence
 - neuroscience
 - ethics
 date: '2026-10-14'

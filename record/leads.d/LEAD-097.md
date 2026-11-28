@@ -12,6 +12,7 @@ method:
 - reading
 tags:
 - ethics
+- persuasion-and-influence
 - self-governance
 date: '2026-11-19'
 line:

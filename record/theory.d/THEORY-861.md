@@ -34,6 +34,7 @@ history:
     THEORY-862 and CASE-103, and it does not need this one, so the
     relation is corroborates (ADR-058). No other change.
 tags:
+- search-and-ranking
 - learning-theory
 - causality
 date: '2026-10-21'

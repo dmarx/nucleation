@@ -31,6 +31,7 @@ history:
     far as it outweighs the selected one". First application of the bounds
     relation (ADR-094). No other change.
 tags:
+- persuasion-and-influence
 - epistemology
 - network-science
 - philosophy-of-science

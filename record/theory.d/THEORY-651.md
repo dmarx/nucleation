@@ -47,6 +47,7 @@ history:
     incidents ingested cannot settle either."
 tags:
 - society-and-governance
+- persuasion-and-influence
 date: '2026-10-16'
 source:
 - LIT-083

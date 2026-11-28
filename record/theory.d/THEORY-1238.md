@@ -22,6 +22,7 @@ statement: >-
 version: 1
 tags:
 - society-and-governance
+- persuasion-and-influence
 date: '2026-10-30'
 source:
 - LIT-083

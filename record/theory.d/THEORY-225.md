@@ -23,6 +23,7 @@ statement: >-
   manipulation is unsettled
 version: 1
 tags:
+- persuasion-and-influence
 - ethics
 - agency
 - epistemology

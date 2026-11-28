@@ -25,6 +25,7 @@ history:
     way for an organization that reproduces an installed mechanism.
 tags:
 - agency
+- persuasion-and-influence
 - self-governance
 - free-will
 - metaphysics

@@ -22,6 +22,7 @@ defeated_if: >-
   measure's fit to its target is always the remedy.
 tags:
 - society-and-governance
+- search-and-ranking
 - epistemology
 - ethics
 date: '2026-11-26'

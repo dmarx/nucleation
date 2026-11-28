@@ -26,6 +26,7 @@ history:
     appendix, the first in statement.
 tags:
 - game-theory
+- search-and-ranking
 - social-science
 date: '2026-10-21'
 source:

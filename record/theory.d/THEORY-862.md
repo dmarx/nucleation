@@ -23,6 +23,7 @@ history:
     in full, which nothing in the record contradicts, is enough for a
     claim scoped to it.
 tags:
+- search-and-ranking
 - social-science
 - society-and-governance
 date: '2026-10-21'

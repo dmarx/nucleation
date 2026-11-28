@@ -30,6 +30,7 @@ defeated_if: >-
   decisions a single measure comes to govern.
 tags:
 - society-and-governance
+- search-and-ranking
 - epistemology
 - ethics
 date: '2026-11-24'

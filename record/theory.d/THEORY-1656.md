@@ -18,6 +18,7 @@ source:
 - LIT-2371
 tags:
 - information-retrieval
+- search-and-ranking
 date: '2026-11-12'
 promote_when: >-
   an independent study, or a replication with repeated runs on another

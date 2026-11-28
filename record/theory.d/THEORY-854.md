@@ -43,6 +43,7 @@ history:
     corroborated_by rather than grounds (ADR-058), so the supports list is
     removed. The claim and its status are unchanged.
 tags:
+- search-and-ranking
 - social-science
 - society-and-governance
 date: '2026-10-21'

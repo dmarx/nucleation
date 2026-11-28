@@ -15,6 +15,7 @@ version: 1
 source:
 - LIT-2385
 tags:
+- persuasion-and-influence
 - social-science
 - moral-psychology
 date: '2026-11-12'

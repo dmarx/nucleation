@@ -33,6 +33,7 @@ standing: stipulated
 kind: thought-experiment
 tags:
 - society-and-governance
+- persuasion-and-influence
 - self-governance
 date: '2026-10-21'
 line: distributed-agency

@@ -51,6 +51,7 @@ history:
   note: >-
     A dated note added: Nagel (LIT-2662) read on 2026-11-16, NOTE-2015. No change of status or title.
 tags:
+- persuasion-and-influence
 - social-ontology
 - ethics
 - agency
